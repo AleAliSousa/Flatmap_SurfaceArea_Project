@@ -1,0 +1,128 @@
+{
+  "map_id": "fig02D",
+  "figure": 2,
+  "panel": "D",
+  "pdf_page": 5,
+  "printed_page": 169,
+  "specimen": "not reported",
+  "species_as_reported": "Galago senegalensis",
+  "view_type": "histological_section",
+  "hemisphere_relation": "not assigned",
+  "linked_main_map": "",
+  "relationship_note": "Specimen linkage to the main reconstructions is not established by the figure caption.",
+  "outline_label": null,
+  "outline_scope": "none",
+  "scale_length_mm": 2,
+  "scale_endpoints_px": [
+    [
+      365,
+      447
+    ],
+    [
+      410,
+      447
+    ]
+  ],
+  "scale_note": "Own panel scale bar.",
+  "coordinate_system": "x right, y down in source.tif; manual vertices referenced to published lines/dots",
+  "supersample": 3,
+  "rois": [
+    {
+      "label": "MT",
+      "polygons": [
+        [
+          [
+            244.0,
+            285.0
+          ],
+          [
+            260.0,
+            264.0
+          ],
+          [
+            284.0,
+            251.0
+          ],
+          [
+            313.0,
+            246.0
+          ],
+          [
+            338.0,
+            249.0
+          ],
+          [
+            359.0,
+            263.0
+          ],
+          [
+            369.0,
+            285.0
+          ],
+          [
+            360.0,
+            307.0
+          ],
+          [
+            358.0,
+            337.0
+          ],
+          [
+            351.0,
+            362.0
+          ],
+          [
+            345.0,
+            385.0
+          ],
+          [
+            324.0,
+            398.0
+          ],
+          [
+            301.0,
+            402.0
+          ],
+          [
+            275.0,
+            394.0
+          ],
+          [
+            254.0,
+            382.0
+          ],
+          [
+            239.0,
+            366.0
+          ],
+          [
+            234.0,
+            341.0
+          ],
+          [
+            234.0,
+            309.0
+          ]
+        ]
+      ],
+      "extent": "complete",
+      "boundary_note": "Architectonic boundary dots interpolated manually; staining, injection punctures and overprinted labels remain inside the field. Specimen identity is not stated in the caption."
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "17",
+      "reason": "Unclosed or ambiguous second border in this cropped photograph; no full-field estimate."
+    },
+    {
+      "label": "18",
+      "reason": "Unclosed or ambiguous second border in this cropped photograph; no full-field estimate."
+    },
+    {
+      "label": "DL",
+      "reason": "Unclosed or ambiguous second border in this cropped photograph; no full-field estimate."
+    }
+  ],
+  "include_in_whole_hemisphere_summary": false,
+  "specimen_link_status": "unlinked_or_summary"
+}

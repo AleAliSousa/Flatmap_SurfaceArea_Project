@@ -1,0 +1,104 @@
+{
+  "map_id": "fig11A",
+  "figure": 11,
+  "panel": "A",
+  "pdf_page": 17,
+  "printed_page": 181,
+  "specimen": "88-5",
+  "species_as_reported": "Galago senegalensis",
+  "view_type": "partial_areal_strip",
+  "hemisphere_relation": "injected hemisphere",
+  "linked_main_map": "fig22",
+  "relationship_note": "Panel D follows an injection into DL; panels A\u2013C follow MT injections.",
+  "outline_label": null,
+  "outline_scope": "none",
+  "scale_length_mm": 1,
+  "scale_endpoints_px": [
+    [
+      181,
+      257
+    ],
+    [
+      235,
+      257
+    ]
+  ],
+  "scale_note": "Own panel scale bar.",
+  "coordinate_system": "x right, y down in source.tif; manual vertices referenced to published lines/dots",
+  "supersample": 3,
+  "rois": [
+    {
+      "label": "18",
+      "polygons": [
+        [
+          [
+            17.0,
+            182.0
+          ],
+          [
+            46.0,
+            144.0
+          ],
+          [
+            79.0,
+            103.0
+          ],
+          [
+            114.0,
+            63.0
+          ],
+          [
+            145.0,
+            24.0
+          ],
+          [
+            174.0,
+            49.0
+          ],
+          [
+            198.0,
+            74.0
+          ],
+          [
+            213.0,
+            99.0
+          ],
+          [
+            216.0,
+            115.0
+          ],
+          [
+            212.0,
+            133.0
+          ],
+          [
+            202.0,
+            151.0
+          ],
+          [
+            187.0,
+            171.0
+          ],
+          [
+            170.0,
+            192.0
+          ],
+          [
+            142.0,
+            226.0
+          ]
+        ]
+      ],
+      "extent": "partial",
+      "boundary_note": "Visible strip of area 18. Open ends are closed by straight segments between the printed border endpoints. Not a whole-field estimate; endpoint closure is editable."
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "17",
+      "reason": "Only the shared 17/18 junction is shown; no outer limit of area 17."
+    }
+  ],
+  "include_in_whole_hemisphere_summary": false,
+  "specimen_link_status": "linked_existing_case"
+}

@@ -1,0 +1,16 @@
+"species","species_common","specimen","field","map_id","linked_main_map","extent","repeat_of","area_mm2_view","area_mm2_main","percent_of_drawn_neocortex_main","ratio_view_over_main","log_ratio","pct_diff","within_main_sensitivity"
+"Aotus trivirgatus","Owl monkey","87-54","FST","fig26A","fig18","complete",,29.4755,27.4118,1.8676,1.0753,0.0726,7.5285,TRUE
+"Aotus trivirgatus","Owl monkey","87-54","MST","fig26A","fig18","complete",,25.0754,26.1744,1.7833,0.958,-0.0429,-4.1988,TRUE
+"Aotus trivirgatus","Owl monkey","87-54","MT","fig26A","fig18","complete",,24.6388,29.9793,2.0425,0.8219,-0.1962,-17.8139,TRUE
+"Callithrix jacchus","Marmoset","87-51","DL","fig26C","fig21","complete",,31.5742,19.1502,3.2557,1.6488,0.5,64.8764,FALSE
+"Callithrix jacchus","Marmoset","87-51","FST","fig26C","fig21","complete",,20.0517,13.0909,2.2255,1.5317,0.4264,53.1719,FALSE
+"Callithrix jacchus","Marmoset","87-51","MST","fig26C","fig21","complete",,13.125,9.4874,1.6129,1.3834,0.3246,38.3417,FALSE
+"Callithrix jacchus","Marmoset","87-51","MT","fig26C","fig21","complete",,14.9116,12.3441,2.0986,1.208,0.189,20.7996,FALSE
+"Callithrix jacchus","Marmoset","87-51","MT","fig26D","fig21","approximate_complete","fig26C:MT",12.9049,12.3441,2.0986,1.0454,0.0444,4.543,TRUE
+"Galago senegalensis","Galago","88-5","MT","fig26B","fig22","complete",,9.9683,12.1477,2.3753,0.8206,-0.1977,-17.9413,TRUE
+"Saimiri sciureus","Squirrel monkey","86-23","MT","fig25C","fig14","complete",,37.5037,40.7893,1.325,0.9194,-0.084,-8.055,TRUE
+"Saimiri sciureus","Squirrel monkey","87-15","MST","fig25D","fig15","complete",,40.9671,32.9928,1.1179,1.2417,0.2165,24.1697,FALSE
+"Saimiri sciureus","Squirrel monkey","87-15","MT","fig25D","fig15","complete",,38.8032,39.7106,1.3455,0.9771,-0.0231,-2.2851,TRUE
+"Saimiri sciureus","Squirrel monkey","87-16","MST","fig25B","fig13","complete",,53.2454,42.346,1.2755,1.2574,0.229,25.7389,FALSE
+"Saimiri sciureus","Squirrel monkey","87-16","MT","fig25B","fig13","complete",,41.4533,54.5896,1.6443,0.7594,-0.2753,-24.0636,FALSE
+"Saimiri sciureus","Squirrel monkey","87-35","MT","fig25A","fig12","complete",,41.3481,30.8525,1.0546,1.3402,0.2928,34.0185,FALSE

@@ -1,0 +1,205 @@
+{
+  "map_id": "fig04H",
+  "figure": 4,
+  "panel": "H",
+  "pdf_page": 8,
+  "printed_page": 172,
+  "specimen": "not reported",
+  "species_as_reported": "Galago senegalensis",
+  "view_type": "histological_section",
+  "hemisphere_relation": "not assigned",
+  "linked_main_map": "",
+  "relationship_note": "Specimen linkage to the main reconstructions is not established by the figure caption.",
+  "outline_label": null,
+  "outline_scope": "none",
+  "scale_length_mm": 2,
+  "scale_endpoints_px": [
+    [
+      156,
+      460
+    ],
+    [
+      202,
+      460
+    ]
+  ],
+  "scale_note": "Own panel scale bar.",
+  "coordinate_system": "x right, y down in source.tif; manual vertices referenced to published lines/dots",
+  "supersample": 3,
+  "rois": [
+    {
+      "label": "MT",
+      "polygons": [
+        [
+          [
+            261.0,
+            284.0
+          ],
+          [
+            279.0,
+            269.0
+          ],
+          [
+            303.0,
+            268.0
+          ],
+          [
+            326.0,
+            273.0
+          ],
+          [
+            348.0,
+            286.0
+          ],
+          [
+            370.0,
+            304.0
+          ],
+          [
+            385.0,
+            324.0
+          ],
+          [
+            393.0,
+            347.0
+          ],
+          [
+            387.0,
+            365.0
+          ],
+          [
+            373.0,
+            382.0
+          ],
+          [
+            352.0,
+            398.0
+          ],
+          [
+            329.0,
+            409.0
+          ],
+          [
+            306.0,
+            411.0
+          ],
+          [
+            284.0,
+            400.0
+          ],
+          [
+            268.0,
+            385.0
+          ],
+          [
+            255.0,
+            365.0
+          ],
+          [
+            249.0,
+            341.0
+          ],
+          [
+            250.0,
+            316.0
+          ]
+        ]
+      ],
+      "extent": "complete",
+      "boundary_note": "Architectonic boundary dots interpolated manually; staining, injection punctures and overprinted labels remain inside the field. Specimen identity is not stated in the caption. Dots around the upper MT margin are faint; interpolated against the myelin border."
+    },
+    {
+      "label": "AI",
+      "polygons": [
+        [
+          [
+            465.0,
+            322.0
+          ],
+          [
+            485.0,
+            324.0
+          ],
+          [
+            503.0,
+            341.0
+          ],
+          [
+            519.0,
+            364.0
+          ],
+          [
+            530.0,
+            395.0
+          ],
+          [
+            539.0,
+            422.0
+          ],
+          [
+            542.0,
+            448.0
+          ],
+          [
+            533.0,
+            467.0
+          ],
+          [
+            519.0,
+            465.0
+          ],
+          [
+            503.0,
+            459.0
+          ],
+          [
+            489.0,
+            438.0
+          ],
+          [
+            475.0,
+            414.0
+          ],
+          [
+            465.0,
+            389.0
+          ],
+          [
+            458.0,
+            363.0
+          ],
+          [
+            459.0,
+            338.0
+          ]
+        ]
+      ],
+      "extent": "complete",
+      "boundary_note": "Architectonic boundary dots interpolated manually; staining, injection punctures and overprinted labels remain inside the field. Specimen identity is not stated in the caption."
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "17",
+      "reason": "A complete separable field boundary is absent or too faint in this photograph."
+    },
+    {
+      "label": "18",
+      "reason": "A complete separable field boundary is absent or too faint in this photograph."
+    },
+    {
+      "label": "DL",
+      "reason": "A complete separable field boundary is absent or too faint in this photograph."
+    },
+    {
+      "label": "FST",
+      "reason": "A complete separable field boundary is absent or too faint in this photograph."
+    },
+    {
+      "label": "SI",
+      "reason": "A complete separable field boundary is absent or too faint in this photograph."
+    }
+  ],
+  "include_in_whole_hemisphere_summary": false,
+  "specimen_link_status": "unlinked_or_summary"
+}

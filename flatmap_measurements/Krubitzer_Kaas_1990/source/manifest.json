@@ -1,0 +1,1046 @@
+{
+  "citation": "Krubitzer LA, Kaas JH (1990). Cortical connections of MT in four species of primates. Visual Neuroscience 5:165\u2013204.",
+  "doi": "10.1017/S0952523800000213",
+  "source_pdf": "/Users/crossmodal/Library/CloudStorage/OneDrive-AllenInstitute/Species/Evo-M1-Trait-Data/Krubitzer_Kaas_1990/Krubitzer-1990-Cortical connections of MT in f.pdf",
+  "source_sha256": "79af9fcb0ec65434d248774cc24c0ef4c1bde7f4d5620a849d9b695ac2cc2b73",
+  "crops": [
+    {
+      "figure": 12,
+      "pdf_page": 18,
+      "printed_page": 182,
+      "crop_xyxy": [
+        50,
+        150,
+        1476,
+        1564
+      ],
+      "resize_scale": 0.7713884992987378,
+      "source_size": [
+        1100,
+        1091
+      ],
+      "pdf_render_scale": 2.5
+    },
+    {
+      "figure": 13,
+      "pdf_page": 19,
+      "printed_page": 183,
+      "crop_xyxy": [
+        50,
+        150,
+        1476,
+        1536
+      ],
+      "resize_scale": 0.7713884992987378,
+      "source_size": [
+        1100,
+        1069
+      ],
+      "pdf_render_scale": 2.5
+    },
+    {
+      "figure": 14,
+      "pdf_page": 20,
+      "printed_page": 184,
+      "crop_xyxy": [
+        50,
+        150,
+        1476,
+        1478
+      ],
+      "resize_scale": 0.7713884992987378,
+      "source_size": [
+        1100,
+        1024
+      ],
+      "pdf_render_scale": 2.5
+    },
+    {
+      "figure": 15,
+      "pdf_page": 21,
+      "printed_page": 185,
+      "crop_xyxy": [
+        50,
+        150,
+        1476,
+        1509
+      ],
+      "resize_scale": 0.7713884992987378,
+      "source_size": [
+        1100,
+        1048
+      ],
+      "pdf_render_scale": 2.5
+    },
+    {
+      "figure": 16,
+      "pdf_page": 22,
+      "printed_page": 186,
+      "crop_xyxy": [
+        50,
+        150,
+        1476,
+        1567
+      ],
+      "resize_scale": 0.7713884992987378,
+      "source_size": [
+        1100,
+        1093
+      ],
+      "pdf_render_scale": 2.5
+    },
+    {
+      "figure": 17,
+      "pdf_page": 23,
+      "printed_page": 187,
+      "crop_xyxy": [
+        50,
+        150,
+        1476,
+        1152
+      ],
+      "resize_scale": 0.7713884992987378,
+      "source_size": [
+        1100,
+        773
+      ],
+      "pdf_render_scale": 2.5
+    },
+    {
+      "figure": 18,
+      "pdf_page": 24,
+      "printed_page": 188,
+      "crop_xyxy": [
+        50,
+        150,
+        1476,
+        1088
+      ],
+      "resize_scale": 0.7713884992987378,
+      "source_size": [
+        1100,
+        724
+      ],
+      "pdf_render_scale": 2.5
+    },
+    {
+      "figure": 19,
+      "pdf_page": 25,
+      "printed_page": 189,
+      "crop_xyxy": [
+        50,
+        150,
+        1476,
+        1148
+      ],
+      "resize_scale": 0.7713884992987378,
+      "source_size": [
+        1100,
+        770
+      ],
+      "pdf_render_scale": 2.5
+    },
+    {
+      "figure": 20,
+      "pdf_page": 26,
+      "printed_page": 190,
+      "crop_xyxy": [
+        290,
+        160,
+        1250,
+        1070
+      ],
+      "resize_scale": 1,
+      "source_size": [
+        960,
+        910
+      ],
+      "pdf_render_scale": 2.5
+    },
+    {
+      "figure": 21,
+      "pdf_page": 27,
+      "printed_page": 191,
+      "crop_xyxy": [
+        50,
+        150,
+        1476,
+        1117
+      ],
+      "resize_scale": 0.7713884992987378,
+      "source_size": [
+        1100,
+        746
+      ],
+      "pdf_render_scale": 2.5
+    },
+    {
+      "figure": 22,
+      "pdf_page": 28,
+      "printed_page": 192,
+      "crop_xyxy": [
+        50,
+        150,
+        1476,
+        984
+      ],
+      "resize_scale": 0.7713884992987378,
+      "source_size": [
+        1100,
+        643
+      ],
+      "pdf_render_scale": 2.5
+    },
+    {
+      "figure": 23,
+      "pdf_page": 29,
+      "printed_page": 193,
+      "crop_xyxy": [
+        50,
+        150,
+        1476,
+        1117
+      ],
+      "resize_scale": 0.7713884992987378,
+      "source_size": [
+        1100,
+        746
+      ],
+      "pdf_render_scale": 2.5
+    },
+    {
+      "figure": 24,
+      "pdf_page": 30,
+      "printed_page": 194,
+      "crop_xyxy": [
+        50,
+        150,
+        1476,
+        1088
+      ],
+      "resize_scale": 0.7713884992987378,
+      "source_size": [
+        1100,
+        724
+      ],
+      "pdf_render_scale": 2.5
+    },
+    {
+      "map_id": "fig25A",
+      "figure": 25,
+      "panel": "A",
+      "pdf_page": 31,
+      "printed_page": 195,
+      "crop_xyxy": [
+        148,
+        132,
+        441,
+        537
+      ],
+      "resize_scale": 1,
+      "source_size": [
+        293,
+        405
+      ],
+      "pdf_render_scale": 2
+    },
+    {
+      "map_id": "fig25B",
+      "figure": 25,
+      "panel": "B",
+      "pdf_page": 31,
+      "printed_page": 195,
+      "crop_xyxy": [
+        459,
+        133,
+        752,
+        537
+      ],
+      "resize_scale": 1,
+      "source_size": [
+        293,
+        404
+      ],
+      "pdf_render_scale": 2
+    },
+    {
+      "map_id": "fig25C",
+      "figure": 25,
+      "panel": "C",
+      "pdf_page": 31,
+      "printed_page": 195,
+      "crop_xyxy": [
+        772,
+        134,
+        1063,
+        536
+      ],
+      "resize_scale": 1,
+      "source_size": [
+        291,
+        402
+      ],
+      "pdf_render_scale": 2
+    },
+    {
+      "map_id": "fig25D",
+      "figure": 25,
+      "panel": "D",
+      "pdf_page": 31,
+      "printed_page": 195,
+      "crop_xyxy": [
+        311,
+        569,
+        608,
+        884
+      ],
+      "resize_scale": 1,
+      "source_size": [
+        297,
+        315
+      ],
+      "pdf_render_scale": 2
+    },
+    {
+      "map_id": "fig25E",
+      "figure": 25,
+      "panel": "E",
+      "pdf_page": 31,
+      "printed_page": 195,
+      "crop_xyxy": [
+        653,
+        569,
+        891,
+        884
+      ],
+      "resize_scale": 1,
+      "source_size": [
+        238,
+        315
+      ],
+      "pdf_render_scale": 2
+    },
+    {
+      "map_id": "fig26A",
+      "figure": 26,
+      "panel": "A",
+      "pdf_page": 32,
+      "printed_page": 196,
+      "crop_xyxy": [
+        174,
+        133,
+        635,
+        608
+      ],
+      "resize_scale": 1,
+      "source_size": [
+        461,
+        475
+      ],
+      "pdf_render_scale": 2
+    },
+    {
+      "map_id": "fig26B",
+      "figure": 26,
+      "panel": "B",
+      "pdf_page": 32,
+      "printed_page": 196,
+      "crop_xyxy": [
+        730,
+        132,
+        975,
+        527
+      ],
+      "resize_scale": 1,
+      "source_size": [
+        245,
+        395
+      ],
+      "pdf_render_scale": 2
+    },
+    {
+      "map_id": "fig26C",
+      "figure": 26,
+      "panel": "C",
+      "pdf_page": 32,
+      "printed_page": 196,
+      "crop_xyxy": [
+        173,
+        630,
+        571,
+        1059
+      ],
+      "resize_scale": 1,
+      "source_size": [
+        398,
+        429
+      ],
+      "pdf_render_scale": 2
+    },
+    {
+      "map_id": "fig26D",
+      "figure": 26,
+      "panel": "D",
+      "pdf_page": 32,
+      "printed_page": 196,
+      "crop_xyxy": [
+        580,
+        630,
+        1041,
+        1059
+      ],
+      "resize_scale": 1,
+      "source_size": [
+        461,
+        429
+      ],
+      "pdf_render_scale": 2
+    },
+    {
+      "map_id": "fig27squirrel",
+      "figure": 27,
+      "panel": "squirrel",
+      "pdf_page": 33,
+      "printed_page": 197,
+      "crop_xyxy": [
+        91,
+        139,
+        625,
+        677
+      ],
+      "resize_scale": 1,
+      "source_size": [
+        534,
+        538
+      ],
+      "pdf_render_scale": 2
+    },
+    {
+      "map_id": "fig27marmoset",
+      "figure": 27,
+      "panel": "marmoset",
+      "pdf_page": 33,
+      "printed_page": 197,
+      "crop_xyxy": [
+        620,
+        145,
+        1118,
+        553
+      ],
+      "resize_scale": 1,
+      "source_size": [
+        498,
+        408
+      ],
+      "pdf_render_scale": 2
+    },
+    {
+      "map_id": "fig27owl",
+      "figure": 27,
+      "panel": "owl",
+      "pdf_page": 33,
+      "printed_page": 197,
+      "crop_xyxy": [
+        91,
+        589,
+        610,
+        1039
+      ],
+      "resize_scale": 1,
+      "source_size": [
+        519,
+        450
+      ],
+      "pdf_render_scale": 2
+    },
+    {
+      "map_id": "fig27galago",
+      "figure": 27,
+      "panel": "galago",
+      "pdf_page": 33,
+      "printed_page": 197,
+      "crop_xyxy": [
+        663,
+        600,
+        1119,
+        997
+      ],
+      "resize_scale": 1,
+      "source_size": [
+        456,
+        397
+      ],
+      "pdf_render_scale": 2
+    },
+    {
+      "map_id": "fig28",
+      "figure": 28,
+      "panel": "",
+      "pdf_page": 34,
+      "printed_page": 198,
+      "crop_xyxy": [
+        106,
+        137,
+        570,
+        612
+      ],
+      "resize_scale": 1,
+      "source_size": [
+        464,
+        475
+      ],
+      "pdf_render_scale": 2
+    },
+    {
+      "map_id": "fig01flat",
+      "figure": 1,
+      "panel": "flat",
+      "pdf_page": 4,
+      "printed_page": 168,
+      "crop_xyxy": [
+        315,
+        478,
+        925,
+        990
+      ],
+      "resize_scale": 1,
+      "source_size": [
+        610,
+        512
+      ],
+      "pdf_render_scale": 2
+    },
+    {
+      "map_id": "fig02A",
+      "figure": 2,
+      "panel": "A",
+      "pdf_page": 5,
+      "printed_page": 169,
+      "crop_xyxy": [
+        106,
+        141,
+        392,
+        576
+      ],
+      "resize_scale": 1,
+      "source_size": [
+        286,
+        435
+      ],
+      "pdf_render_scale": 2
+    },
+    {
+      "map_id": "fig02B",
+      "figure": 2,
+      "panel": "B",
+      "pdf_page": 5,
+      "printed_page": 169,
+      "crop_xyxy": [
+        438,
+        141,
+        720,
+        575
+      ],
+      "resize_scale": 1,
+      "source_size": [
+        282,
+        434
+      ],
+      "pdf_render_scale": 2
+    },
+    {
+      "map_id": "fig02C",
+      "figure": 2,
+      "panel": "C",
+      "pdf_page": 5,
+      "printed_page": 169,
+      "crop_xyxy": [
+        760,
+        141,
+        1119,
+        602
+      ],
+      "resize_scale": 1,
+      "source_size": [
+        359,
+        461
+      ],
+      "pdf_render_scale": 2
+    },
+    {
+      "map_id": "fig02D",
+      "figure": 2,
+      "panel": "D",
+      "pdf_page": 5,
+      "printed_page": 169,
+      "crop_xyxy": [
+        101,
+        632,
+        529,
+        1115
+      ],
+      "resize_scale": 1,
+      "source_size": [
+        428,
+        483
+      ],
+      "pdf_render_scale": 2
+    },
+    {
+      "map_id": "fig02E",
+      "figure": 2,
+      "panel": "E",
+      "pdf_page": 5,
+      "printed_page": 169,
+      "crop_xyxy": [
+        558,
+        623,
+        1120,
+        1119
+      ],
+      "resize_scale": 1,
+      "source_size": [
+        562,
+        496
+      ],
+      "pdf_render_scale": 2
+    },
+    {
+      "map_id": "fig04A",
+      "figure": 4,
+      "panel": "A",
+      "pdf_page": 7,
+      "printed_page": 171,
+      "crop_xyxy": [
+        184,
+        163,
+        583,
+        724
+      ],
+      "resize_scale": 1,
+      "source_size": [
+        399,
+        561
+      ],
+      "pdf_render_scale": 2
+    },
+    {
+      "map_id": "fig04B",
+      "figure": 4,
+      "panel": "B",
+      "pdf_page": 7,
+      "printed_page": 171,
+      "crop_xyxy": [
+        620,
+        168,
+        1039,
+        724
+      ],
+      "resize_scale": 1,
+      "source_size": [
+        419,
+        556
+      ],
+      "pdf_render_scale": 2
+    },
+    {
+      "map_id": "fig04C",
+      "figure": 4,
+      "panel": "C",
+      "pdf_page": 7,
+      "printed_page": 171,
+      "crop_xyxy": [
+        179,
+        767,
+        599,
+        1262
+      ],
+      "resize_scale": 1,
+      "source_size": [
+        420,
+        495
+      ],
+      "pdf_render_scale": 2
+    },
+    {
+      "map_id": "fig04D",
+      "figure": 4,
+      "panel": "D",
+      "pdf_page": 7,
+      "printed_page": 171,
+      "crop_xyxy": [
+        641,
+        768,
+        1039,
+        1266
+      ],
+      "resize_scale": 1,
+      "source_size": [
+        398,
+        498
+      ],
+      "pdf_render_scale": 2
+    },
+    {
+      "map_id": "fig04E",
+      "figure": 4,
+      "panel": "E",
+      "pdf_page": 8,
+      "printed_page": 172,
+      "crop_xyxy": [
+        98,
+        137,
+        603,
+        651
+      ],
+      "resize_scale": 1,
+      "source_size": [
+        505,
+        514
+      ],
+      "pdf_render_scale": 2
+    },
+    {
+      "map_id": "fig04F",
+      "figure": 4,
+      "panel": "F",
+      "pdf_page": 8,
+      "printed_page": 172,
+      "crop_xyxy": [
+        637,
+        139,
+        1114,
+        546
+      ],
+      "resize_scale": 1,
+      "source_size": [
+        477,
+        407
+      ],
+      "pdf_render_scale": 2
+    },
+    {
+      "map_id": "fig04G",
+      "figure": 4,
+      "panel": "G",
+      "pdf_page": 8,
+      "printed_page": 172,
+      "crop_xyxy": [
+        99,
+        682,
+        509,
+        1126
+      ],
+      "resize_scale": 1,
+      "source_size": [
+        410,
+        444
+      ],
+      "pdf_render_scale": 2
+    },
+    {
+      "map_id": "fig04H",
+      "figure": 4,
+      "panel": "H",
+      "pdf_page": 8,
+      "printed_page": 172,
+      "crop_xyxy": [
+        540,
+        622,
+        1115,
+        1123
+      ],
+      "resize_scale": 1,
+      "source_size": [
+        575,
+        501
+      ],
+      "pdf_render_scale": 2
+    },
+    {
+      "map_id": "fig06A",
+      "figure": 6,
+      "panel": "A",
+      "pdf_page": 12,
+      "printed_page": 176,
+      "crop_xyxy": [
+        104,
+        136,
+        537,
+        639
+      ],
+      "resize_scale": 1,
+      "source_size": [
+        433,
+        503
+      ],
+      "pdf_render_scale": 2
+    },
+    {
+      "map_id": "fig06B",
+      "figure": 6,
+      "panel": "B",
+      "pdf_page": 12,
+      "printed_page": 176,
+      "crop_xyxy": [
+        550,
+        153,
+        1097,
+        550
+      ],
+      "resize_scale": 1,
+      "source_size": [
+        547,
+        397
+      ],
+      "pdf_render_scale": 2
+    },
+    {
+      "map_id": "fig06C",
+      "figure": 6,
+      "panel": "C",
+      "pdf_page": 12,
+      "printed_page": 176,
+      "crop_xyxy": [
+        106,
+        653,
+        574,
+        1030
+      ],
+      "resize_scale": 1,
+      "source_size": [
+        468,
+        377
+      ],
+      "pdf_render_scale": 2
+    },
+    {
+      "map_id": "fig06D",
+      "figure": 6,
+      "panel": "D",
+      "pdf_page": 12,
+      "printed_page": 176,
+      "crop_xyxy": [
+        584,
+        563,
+        1118,
+        964
+      ],
+      "resize_scale": 1,
+      "source_size": [
+        534,
+        401
+      ],
+      "pdf_render_scale": 2
+    },
+    {
+      "map_id": "fig09G",
+      "figure": 9,
+      "panel": "G",
+      "pdf_page": 15,
+      "printed_page": 179,
+      "crop_xyxy": [
+        682,
+        698,
+        922,
+        1297
+      ],
+      "resize_scale": 1,
+      "source_size": [
+        240,
+        599
+      ],
+      "pdf_render_scale": 2
+    },
+    {
+      "map_id": "fig10A",
+      "figure": 10,
+      "panel": "A",
+      "pdf_page": 16,
+      "printed_page": 180,
+      "crop_xyxy": [
+        149,
+        136,
+        473,
+        584
+      ],
+      "resize_scale": 1,
+      "source_size": [
+        324,
+        448
+      ],
+      "pdf_render_scale": 2
+    },
+    {
+      "map_id": "fig10B",
+      "figure": 10,
+      "panel": "B",
+      "pdf_page": 16,
+      "printed_page": 180,
+      "crop_xyxy": [
+        463,
+        136,
+        775,
+        584
+      ],
+      "resize_scale": 1,
+      "source_size": [
+        312,
+        448
+      ],
+      "pdf_render_scale": 2
+    },
+    {
+      "map_id": "fig10C",
+      "figure": 10,
+      "panel": "C",
+      "pdf_page": 16,
+      "printed_page": 180,
+      "crop_xyxy": [
+        766,
+        136,
+        1075,
+        589
+      ],
+      "resize_scale": 1,
+      "source_size": [
+        309,
+        453
+      ],
+      "pdf_render_scale": 2
+    },
+    {
+      "map_id": "fig10D",
+      "figure": 10,
+      "panel": "D",
+      "pdf_page": 16,
+      "printed_page": 180,
+      "crop_xyxy": [
+        145,
+        577,
+        473,
+        1025
+      ],
+      "resize_scale": 1,
+      "source_size": [
+        328,
+        448
+      ],
+      "pdf_render_scale": 2
+    },
+    {
+      "map_id": "fig10E",
+      "figure": 10,
+      "panel": "E",
+      "pdf_page": 16,
+      "printed_page": 180,
+      "crop_xyxy": [
+        461,
+        577,
+        775,
+        1025
+      ],
+      "resize_scale": 1,
+      "source_size": [
+        314,
+        448
+      ],
+      "pdf_render_scale": 2
+    },
+    {
+      "map_id": "fig10F",
+      "figure": 10,
+      "panel": "F",
+      "pdf_page": 16,
+      "printed_page": 180,
+      "crop_xyxy": [
+        765,
+        580,
+        1078,
+        1028
+      ],
+      "resize_scale": 1,
+      "source_size": [
+        313,
+        448
+      ],
+      "pdf_render_scale": 2
+    },
+    {
+      "map_id": "fig11A",
+      "figure": 11,
+      "panel": "A",
+      "pdf_page": 17,
+      "printed_page": 181,
+      "crop_xyxy": [
+        102,
+        135,
+        357,
+        427
+      ],
+      "resize_scale": 1,
+      "source_size": [
+        255,
+        292
+      ],
+      "pdf_render_scale": 2
+    },
+    {
+      "map_id": "fig11B",
+      "figure": 11,
+      "panel": "B",
+      "pdf_page": 17,
+      "printed_page": 181,
+      "crop_xyxy": [
+        348,
+        136,
+        581,
+        458
+      ],
+      "resize_scale": 1,
+      "source_size": [
+        233,
+        322
+      ],
+      "pdf_render_scale": 2
+    },
+    {
+      "map_id": "fig11C",
+      "figure": 11,
+      "panel": "C",
+      "pdf_page": 17,
+      "printed_page": 181,
+      "crop_xyxy": [
+        102,
+        415,
+        358,
+        696
+      ],
+      "resize_scale": 1,
+      "source_size": [
+        256,
+        281
+      ],
+      "pdf_render_scale": 2
+    },
+    {
+      "map_id": "fig11D",
+      "figure": 11,
+      "panel": "D",
+      "pdf_page": 17,
+      "printed_page": 181,
+      "crop_xyxy": [
+        346,
+        448,
+        582,
+        698
+      ],
+      "resize_scale": 1,
+      "source_size": [
+        236,
+        250
+      ],
+      "pdf_render_scale": 2
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "map_id": "fig26A",
+  "figure": 26,
+  "panel": "A",
+  "pdf_page": 32,
+  "printed_page": 196,
+  "specimen": "87-54",
+  "species_as_reported": "Aotus trivirgatus",
+  "view_type": "contralateral_partial",
+  "hemisphere_relation": "opposite injected hemisphere",
+  "linked_main_map": "fig18",
+  "relationship_note": "",
+  "outline_label": null,
+  "outline_scope": "none",
+  "scale_length_mm": 2,
+  "scale_endpoints_px": [
+    [
+      380,
+      429
+    ],
+    [
+      439,
+      430
+    ]
+  ],
+  "scale_note": "Own panel scale bar.",
+  "coordinate_system": "x right, y down in source.tif; manual vertices referenced to published lines/dots",
+  "supersample": 3,
+  "rois": [
+    {
+      "label": "MT",
+      "polygons": [
+        [
+          [
+            171.0,
+            148.0
+          ],
+          [
+            190.0,
+            126.0
+          ],
+          [
+            214.0,
+            109.0
+          ],
+          [
+            239.0,
+            103.0
+          ],
+          [
+            264.0,
+            109.0
+          ],
+          [
+            285.0,
+            119.0
+          ],
+          [
+            304.0,
+            137.0
+          ],
+          [
+            320.0,
+            158.0
+          ],
+          [
+            336.0,
+            183.0
+          ],
+          [
+            351.0,
+            205.0
+          ],
+          [
+            361.0,
+            220.0
+          ],
+          [
+            364.0,
+            235.0
+          ],
+          [
+            358.0,
+            248.0
+          ],
+          [
+            345.0,
+            260.0
+          ],
+          [
+            327.0,
+            267.0
+          ],
+          [
+            304.0,
+            270.0
+          ],
+          [
+            285.0,
+            266.0
+          ],
+          [
+            266.0,
+            256.0
+          ],
+          [
+            246.0,
+            238.0
+          ],
+          [
+            223.0,
+            224.0
+          ],
+          [
+            200.0,
+            217.0
+          ],
+          [
+            179.0,
+            210.0
+          ],
+          [
+            164.0,
+            200.0
+          ],
+          [
+            157.0,
+            185.0
+          ],
+          [
+            159.0,
+            167.0
+          ]
+        ]
+      ],
+      "extent": "complete",
+      "boundary_note": "Manual contour follows the published anatomical boundary; dashed/dotted gaps interpolated."
+    },
+    {
+      "label": "MST",
+      "polygons": [
+        [
+          [
+            28.0,
+            112.0
+          ],
+          [
+            37.0,
+            95.0
+          ],
+          [
+            57.0,
+            78.0
+          ],
+          [
+            81.0,
+            61.0
+          ],
+          [
+            107.0,
+            49.0
+          ],
+          [
+            131.0,
+            44.0
+          ],
+          [
+            155.0,
+            45.0
+          ],
+          [
+            179.0,
+            51.0
+          ],
+          [
+            205.0,
+            60.0
+          ],
+          [
+            224.0,
+            71.0
+          ],
+          [
+            237.0,
+            87.0
+          ],
+          [
+            244.0,
+            104.0
+          ],
+          [
+            239.0,
+            103.0
+          ],
+          [
+            214.0,
+            109.0
+          ],
+          [
+            190.0,
+            126.0
+          ],
+          [
+            171.0,
+            148.0
+          ],
+          [
+            159.0,
+            167.0
+          ],
+          [
+            157.0,
+            185.0
+          ],
+          [
+            137.0,
+            193.0
+          ],
+          [
+            116.0,
+            198.0
+          ],
+          [
+            97.0,
+            200.0
+          ],
+          [
+            78.0,
+            197.0
+          ],
+          [
+            62.0,
+            191.0
+          ],
+          [
+            47.0,
+            179.0
+          ],
+          [
+            37.0,
+            164.0
+          ],
+          [
+            30.0,
+            148.0
+          ],
+          [
+            27.0,
+            128.0
+          ]
+        ]
+      ],
+      "extent": "complete",
+      "boundary_note": "Manual contour follows the published anatomical boundary; dashed/dotted gaps interpolated."
+    },
+    {
+      "label": "FST",
+      "polygons": [
+        [
+          [
+            158.0,
+            195.0
+          ],
+          [
+            176.0,
+            210.0
+          ],
+          [
+            200.0,
+            217.0
+          ],
+          [
+            223.0,
+            224.0
+          ],
+          [
+            246.0,
+            238.0
+          ],
+          [
+            266.0,
+            256.0
+          ],
+          [
+            285.0,
+            266.0
+          ],
+          [
+            292.0,
+            269.0
+          ],
+          [
+            278.0,
+            287.0
+          ],
+          [
+            258.0,
+            308.0
+          ],
+          [
+            237.0,
+            329.0
+          ],
+          [
+            215.0,
+            351.0
+          ],
+          [
+            191.0,
+            372.0
+          ],
+          [
+            166.0,
+            392.0
+          ],
+          [
+            141.0,
+            409.0
+          ],
+          [
+            114.0,
+            423.0
+          ],
+          [
+            91.0,
+            429.0
+          ],
+          [
+            74.0,
+            425.0
+          ],
+          [
+            65.0,
+            416.0
+          ],
+          [
+            64.0,
+            403.0
+          ],
+          [
+            70.0,
+            381.0
+          ],
+          [
+            82.0,
+            356.0
+          ],
+          [
+            95.0,
+            332.0
+          ],
+          [
+            109.0,
+            308.0
+          ],
+          [
+            120.0,
+            284.0
+          ],
+          [
+            132.0,
+            259.0
+          ],
+          [
+            144.0,
+            233.0
+          ]
+        ]
+      ],
+      "extent": "complete",
+      "boundary_note": "Dashed FST outline; sparse segments interpolated, shared MT border retained."
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "DL",
+      "reason": "No complete boundary in the visible panel; open or cropped territory cannot be interpreted as a complete field."
+    }
+  ],
+  "include_in_whole_hemisphere_summary": false,
+  "specimen_link_status": "linked_existing_case"
+}

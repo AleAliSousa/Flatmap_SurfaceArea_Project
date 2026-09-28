@@ -1,0 +1,144 @@
+{
+  "map_id": "fig11B",
+  "figure": 11,
+  "panel": "B",
+  "pdf_page": 17,
+  "printed_page": 181,
+  "specimen": "88-11",
+  "species_as_reported": "Galago senegalensis",
+  "view_type": "partial_areal_strip",
+  "hemisphere_relation": "injected hemisphere",
+  "linked_main_map": "fig24",
+  "relationship_note": "Panel D follows an injection into DL; panels A\u2013C follow MT injections.",
+  "outline_label": null,
+  "outline_scope": "none",
+  "scale_length_mm": 1,
+  "scale_endpoints_px": [
+    [
+      162,
+      234
+    ],
+    [
+      220,
+      234
+    ]
+  ],
+  "scale_note": "Own panel scale bar.",
+  "coordinate_system": "x right, y down in source.tif; manual vertices referenced to published lines/dots",
+  "supersample": 3,
+  "rois": [
+    {
+      "label": "18",
+      "polygons": [
+        [
+          [
+            18.0,
+            295.0
+          ],
+          [
+            16.0,
+            271.0
+          ],
+          [
+            16.0,
+            241.0
+          ],
+          [
+            17.0,
+            211.0
+          ],
+          [
+            23.0,
+            183.0
+          ],
+          [
+            33.0,
+            158.0
+          ],
+          [
+            47.0,
+            136.0
+          ],
+          [
+            65.0,
+            113.0
+          ],
+          [
+            86.0,
+            97.0
+          ],
+          [
+            106.0,
+            80.0
+          ],
+          [
+            125.0,
+            59.0
+          ],
+          [
+            138.0,
+            45.0
+          ],
+          [
+            151.0,
+            42.0
+          ],
+          [
+            165.0,
+            46.0
+          ],
+          [
+            173.0,
+            55.0
+          ],
+          [
+            173.0,
+            71.0
+          ],
+          [
+            168.0,
+            94.0
+          ],
+          [
+            160.0,
+            120.0
+          ],
+          [
+            151.0,
+            148.0
+          ],
+          [
+            141.0,
+            179.0
+          ],
+          [
+            132.0,
+            212.0
+          ],
+          [
+            124.0,
+            244.0
+          ],
+          [
+            118.0,
+            274.0
+          ],
+          [
+            114.0,
+            311.0
+          ]
+        ]
+      ],
+      "extent": "partial",
+      "boundary_note": "Visible strip of area 18. Open ends are closed by straight segments between the printed border endpoints. Not a whole-field estimate; endpoint closure is editable."
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "17",
+      "reason": "Only the shared 17/18 junction is shown; no outer limit of area 17."
+    }
+  ],
+  "include_in_whole_hemisphere_summary": false,
+  "specimen_link_status": "linked_existing_case"
+}

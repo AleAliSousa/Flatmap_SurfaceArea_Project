@@ -1,0 +1,140 @@
+{
+  "map_id": "fig02E",
+  "figure": 2,
+  "panel": "E",
+  "pdf_page": 5,
+  "printed_page": 169,
+  "specimen": "not reported",
+  "species_as_reported": "Aotus trivirgatus",
+  "view_type": "histological_section",
+  "hemisphere_relation": "not assigned",
+  "linked_main_map": "",
+  "relationship_note": "Specimen linkage to the main reconstructions is not established by the figure caption.",
+  "outline_label": null,
+  "outline_scope": "none",
+  "scale_length_mm": 2,
+  "scale_endpoints_px": [
+    [
+      497,
+      459
+    ],
+    [
+      551,
+      459
+    ]
+  ],
+  "scale_note": "Own panel scale bar.",
+  "coordinate_system": "x right, y down in source.tif; manual vertices referenced to published lines/dots",
+  "supersample": 3,
+  "rois": [
+    {
+      "label": "MT",
+      "polygons": [
+        [
+          [
+            304.0,
+            231.0
+          ],
+          [
+            326.0,
+            222.0
+          ],
+          [
+            349.0,
+            221.0
+          ],
+          [
+            372.0,
+            225.0
+          ],
+          [
+            396.0,
+            234.0
+          ],
+          [
+            420.0,
+            249.0
+          ],
+          [
+            437.0,
+            269.0
+          ],
+          [
+            453.0,
+            291.0
+          ],
+          [
+            459.0,
+            320.0
+          ],
+          [
+            453.0,
+            343.0
+          ],
+          [
+            438.0,
+            365.0
+          ],
+          [
+            415.0,
+            385.0
+          ],
+          [
+            391.0,
+            393.0
+          ],
+          [
+            361.0,
+            394.0
+          ],
+          [
+            331.0,
+            387.0
+          ],
+          [
+            307.0,
+            374.0
+          ],
+          [
+            292.0,
+            355.0
+          ],
+          [
+            284.0,
+            330.0
+          ],
+          [
+            284.0,
+            302.0
+          ],
+          [
+            286.0,
+            274.0
+          ],
+          [
+            290.0,
+            249.0
+          ]
+        ]
+      ],
+      "extent": "complete",
+      "boundary_note": "Architectonic boundary dots interpolated manually; staining, injection punctures and overprinted labels remain inside the field. Specimen identity is not stated in the caption."
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "17",
+      "reason": "Unclosed or ambiguous second border in this cropped photograph; no full-field estimate."
+    },
+    {
+      "label": "18",
+      "reason": "Unclosed or ambiguous second border in this cropped photograph; no full-field estimate."
+    },
+    {
+      "label": "DL",
+      "reason": "Unclosed or ambiguous second border in this cropped photograph; no full-field estimate."
+    }
+  ],
+  "include_in_whole_hemisphere_summary": false,
+  "specimen_link_status": "unlinked_or_summary"
+}

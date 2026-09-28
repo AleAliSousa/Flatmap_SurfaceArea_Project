@@ -1,0 +1,294 @@
+{
+  "map_id": "fig26B",
+  "figure": 26,
+  "panel": "B",
+  "pdf_page": 32,
+  "printed_page": 196,
+  "specimen": "88-5",
+  "species_as_reported": "Galago senegalensis",
+  "view_type": "contralateral_partial",
+  "hemisphere_relation": "opposite injected hemisphere",
+  "linked_main_map": "fig22",
+  "relationship_note": "",
+  "outline_label": null,
+  "outline_scope": "none",
+  "scale_length_mm": 1,
+  "scale_endpoints_px": [
+    [
+      175,
+      360
+    ],
+    [
+      216,
+      360
+    ]
+  ],
+  "scale_note": "Own panel scale bar.",
+  "coordinate_system": "x right, y down in source.tif; manual vertices referenced to published lines/dots",
+  "supersample": 3,
+  "rois": [
+    {
+      "label": "MT",
+      "polygons": [
+        [
+          [
+            83.0,
+            122.0
+          ],
+          [
+            86.0,
+            101.0
+          ],
+          [
+            99.0,
+            79.0
+          ],
+          [
+            116.0,
+            67.0
+          ],
+          [
+            133.0,
+            62.0
+          ],
+          [
+            151.0,
+            65.0
+          ],
+          [
+            169.0,
+            73.0
+          ],
+          [
+            186.0,
+            84.0
+          ],
+          [
+            199.0,
+            100.0
+          ],
+          [
+            208.0,
+            120.0
+          ],
+          [
+            214.0,
+            145.0
+          ],
+          [
+            215.0,
+            167.0
+          ],
+          [
+            211.0,
+            187.0
+          ],
+          [
+            202.0,
+            205.0
+          ],
+          [
+            188.0,
+            218.0
+          ],
+          [
+            171.0,
+            226.0
+          ],
+          [
+            154.0,
+            226.0
+          ],
+          [
+            135.0,
+            219.0
+          ],
+          [
+            116.0,
+            209.0
+          ],
+          [
+            101.0,
+            196.0
+          ],
+          [
+            93.0,
+            177.0
+          ],
+          [
+            88.0,
+            154.0
+          ]
+        ]
+      ],
+      "extent": "complete",
+      "boundary_note": "Manual contour follows the published anatomical boundary; dashed/dotted gaps interpolated."
+    },
+    {
+      "label": "MST",
+      "polygons": [
+        [
+          [
+            11.0,
+            12.0
+          ],
+          [
+            124.0,
+            12.0
+          ],
+          [
+            131.0,
+            27.0
+          ],
+          [
+            136.0,
+            45.0
+          ],
+          [
+            140.0,
+            63.0
+          ],
+          [
+            133.0,
+            62.0
+          ],
+          [
+            116.0,
+            67.0
+          ],
+          [
+            99.0,
+            79.0
+          ],
+          [
+            86.0,
+            101.0
+          ],
+          [
+            83.0,
+            122.0
+          ],
+          [
+            85.0,
+            133.0
+          ],
+          [
+            63.0,
+            118.0
+          ],
+          [
+            43.0,
+            103.0
+          ],
+          [
+            26.0,
+            85.0
+          ],
+          [
+            11.0,
+            67.0
+          ]
+        ]
+      ],
+      "extent": "partial",
+      "boundary_note": "Visible MST portion between MT, upper dashed boundary and top/left panel edges; no whole-field claim."
+    },
+    {
+      "label": "FST",
+      "polygons": [
+        [
+          [
+            13.0,
+            293.0
+          ],
+          [
+            35.0,
+            265.0
+          ],
+          [
+            57.0,
+            235.0
+          ],
+          [
+            77.0,
+            205.0
+          ],
+          [
+            93.0,
+            177.0
+          ],
+          [
+            101.0,
+            196.0
+          ],
+          [
+            116.0,
+            209.0
+          ],
+          [
+            135.0,
+            219.0
+          ],
+          [
+            154.0,
+            226.0
+          ],
+          [
+            171.0,
+            226.0
+          ],
+          [
+            188.0,
+            218.0
+          ],
+          [
+            201.0,
+            206.0
+          ],
+          [
+            181.0,
+            230.0
+          ],
+          [
+            157.0,
+            256.0
+          ],
+          [
+            132.0,
+            281.0
+          ],
+          [
+            107.0,
+            304.0
+          ],
+          [
+            80.0,
+            327.0
+          ],
+          [
+            55.0,
+            348.0
+          ],
+          [
+            31.0,
+            364.0
+          ],
+          [
+            13.0,
+            372.0
+          ]
+        ]
+      ],
+      "extent": "partial",
+      "boundary_note": "FST portion clipped by the left panel edge; complete anatomical upper/lower sides retained where visible."
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "IT",
+      "reason": "No complete boundary in the visible panel; open or cropped territory cannot be interpreted as a complete field."
+    }
+  ],
+  "include_in_whole_hemisphere_summary": false,
+  "specimen_link_status": "linked_existing_case"
+}

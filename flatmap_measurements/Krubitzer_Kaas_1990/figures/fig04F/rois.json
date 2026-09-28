@@ -1,0 +1,261 @@
+{
+  "map_id": "fig04F",
+  "figure": 4,
+  "panel": "F",
+  "pdf_page": 8,
+  "printed_page": 172,
+  "specimen": "not reported",
+  "species_as_reported": "Aotus trivirgatus",
+  "view_type": "histological_section",
+  "hemisphere_relation": "not assigned",
+  "linked_main_map": "",
+  "relationship_note": "Specimen linkage to the main reconstructions is not established by the figure caption.",
+  "outline_label": null,
+  "outline_scope": "none",
+  "scale_length_mm": 2,
+  "scale_endpoints_px": [
+    [
+      142,
+      362.5
+    ],
+    [
+      182,
+      362.5
+    ]
+  ],
+  "scale_note": "Own panel scale bar.",
+  "coordinate_system": "x right, y down in source.tif; manual vertices referenced to published lines/dots",
+  "supersample": 3,
+  "rois": [
+    {
+      "label": "MT",
+      "polygons": [
+        [
+          [
+            164.0,
+            140.0
+          ],
+          [
+            181.0,
+            113.0
+          ],
+          [
+            201.0,
+            93.0
+          ],
+          [
+            223.0,
+            87.0
+          ],
+          [
+            250.0,
+            86.0
+          ],
+          [
+            276.0,
+            101.0
+          ],
+          [
+            297.0,
+            125.0
+          ],
+          [
+            301.0,
+            150.0
+          ],
+          [
+            290.0,
+            181.0
+          ],
+          [
+            284.0,
+            202.0
+          ],
+          [
+            265.0,
+            229.0
+          ],
+          [
+            240.0,
+            229.0
+          ],
+          [
+            216.0,
+            223.0
+          ],
+          [
+            198.0,
+            215.0
+          ],
+          [
+            181.0,
+            209.0
+          ],
+          [
+            161.0,
+            193.0
+          ],
+          [
+            153.0,
+            170.0
+          ]
+        ]
+      ],
+      "extent": "complete",
+      "boundary_note": "Architectonic boundary dots interpolated manually; staining, injection punctures and overprinted labels remain inside the field. Specimen identity is not stated in the caption."
+    },
+    {
+      "label": "FST",
+      "polygons": [
+        [
+          [
+            301.0,
+            150.0
+          ],
+          [
+            319.0,
+            151.0
+          ],
+          [
+            341.0,
+            167.0
+          ],
+          [
+            364.0,
+            186.0
+          ],
+          [
+            385.0,
+            200.0
+          ],
+          [
+            399.0,
+            224.0
+          ],
+          [
+            411.0,
+            249.0
+          ],
+          [
+            416.0,
+            272.0
+          ],
+          [
+            416.0,
+            295.0
+          ],
+          [
+            419.0,
+            315.0
+          ],
+          [
+            417.0,
+            337.0
+          ],
+          [
+            409.0,
+            356.0
+          ],
+          [
+            391.0,
+            367.0
+          ],
+          [
+            371.0,
+            373.0
+          ],
+          [
+            353.0,
+            363.0
+          ],
+          [
+            335.0,
+            363.0
+          ],
+          [
+            316.0,
+            367.0
+          ],
+          [
+            304.0,
+            348.0
+          ],
+          [
+            294.0,
+            327.0
+          ],
+          [
+            282.0,
+            312.0
+          ],
+          [
+            267.0,
+            294.0
+          ],
+          [
+            247.0,
+            280.0
+          ],
+          [
+            228.0,
+            270.0
+          ],
+          [
+            213.0,
+            257.0
+          ],
+          [
+            192.0,
+            246.0
+          ],
+          [
+            178.0,
+            231.0
+          ],
+          [
+            173.0,
+            211.0
+          ],
+          [
+            181.0,
+            209.0
+          ],
+          [
+            198.0,
+            215.0
+          ],
+          [
+            216.0,
+            223.0
+          ],
+          [
+            240.0,
+            229.0
+          ],
+          [
+            265.0,
+            229.0
+          ],
+          [
+            284.0,
+            202.0
+          ],
+          [
+            290.0,
+            181.0
+          ]
+        ]
+      ],
+      "extent": "complete",
+      "boundary_note": "Architectonic boundary dots interpolated manually; staining, injection punctures and overprinted labels remain inside the field. Specimen identity is not stated in the caption. Opened superior temporal sulcus is tissue inside this ROI, not a hole."
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "DL",
+      "reason": "No complete boundary in the visible panel; open or cropped territory cannot be interpreted as a complete field."
+    }
+  ],
+  "include_in_whole_hemisphere_summary": false,
+  "specimen_link_status": "unlinked_or_summary"
+}

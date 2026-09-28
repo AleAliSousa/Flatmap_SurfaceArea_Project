@@ -1,0 +1,221 @@
+{
+  "map_id": "fig04A",
+  "figure": 4,
+  "panel": "A",
+  "pdf_page": 7,
+  "printed_page": 171,
+  "specimen": "not reported",
+  "species_as_reported": "Saimiri sciureus",
+  "view_type": "histological_section",
+  "hemisphere_relation": "not assigned",
+  "linked_main_map": "",
+  "relationship_note": "Specimen linkage to the main reconstructions is not established by the figure caption.",
+  "outline_label": null,
+  "outline_scope": "none",
+  "scale_length_mm": 2,
+  "scale_endpoints_px": [
+    [
+      335,
+      520
+    ],
+    [
+      383,
+      520
+    ]
+  ],
+  "scale_note": "Own panel scale bar.",
+  "coordinate_system": "x right, y down in source.tif; manual vertices referenced to published lines/dots",
+  "supersample": 3,
+  "rois": [
+    {
+      "label": "DM",
+      "polygons": [
+        [
+          [
+            187.0,
+            57.0
+          ],
+          [
+            214.0,
+            59.0
+          ],
+          [
+            239.0,
+            62.0
+          ],
+          [
+            254.0,
+            67.0
+          ],
+          [
+            245.0,
+            96.0
+          ],
+          [
+            240.0,
+            121.0
+          ],
+          [
+            236.0,
+            146.0
+          ],
+          [
+            236.0,
+            176.0
+          ],
+          [
+            243.0,
+            209.0
+          ],
+          [
+            252.0,
+            238.0
+          ],
+          [
+            255.0,
+            264.0
+          ],
+          [
+            244.0,
+            279.0
+          ],
+          [
+            229.0,
+            244.0
+          ],
+          [
+            215.0,
+            217.0
+          ],
+          [
+            204.0,
+            188.0
+          ],
+          [
+            195.0,
+            158.0
+          ],
+          [
+            189.0,
+            128.0
+          ],
+          [
+            187.0,
+            104.0
+          ],
+          [
+            186.0,
+            81.0
+          ]
+        ]
+      ],
+      "extent": "partial",
+      "boundary_note": "Upper end of DM is incompletely marked; conservative visible fragment with straight closure across the first visible boundary dots."
+    },
+    {
+      "label": "DI",
+      "polygons": [
+        [
+          [
+            254.0,
+            67.0
+          ],
+          [
+            274.0,
+            101.0
+          ],
+          [
+            297.0,
+            120.0
+          ],
+          [
+            317.0,
+            135.0
+          ],
+          [
+            334.0,
+            156.0
+          ],
+          [
+            344.0,
+            184.0
+          ],
+          [
+            339.0,
+            222.0
+          ],
+          [
+            326.0,
+            254.0
+          ],
+          [
+            304.0,
+            304.0
+          ],
+          [
+            270.0,
+            355.0
+          ],
+          [
+            263.0,
+            385.0
+          ],
+          [
+            255.0,
+            360.0
+          ],
+          [
+            256.0,
+            322.0
+          ],
+          [
+            255.0,
+            291.0
+          ],
+          [
+            255.0,
+            264.0
+          ],
+          [
+            252.0,
+            238.0
+          ],
+          [
+            243.0,
+            209.0
+          ],
+          [
+            236.0,
+            176.0
+          ],
+          [
+            236.0,
+            146.0
+          ],
+          [
+            240.0,
+            121.0
+          ],
+          [
+            245.0,
+            96.0
+          ]
+        ]
+      ],
+      "extent": "partial",
+      "boundary_note": "Visible DI fragment from boundary dots; upper closure inferred between visible endpoints, not a complete-field estimate."
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "17",
+      "reason": "Field runs outside the panel and the full visible limits are not marked consistently."
+    },
+    {
+      "label": "18",
+      "reason": "Field runs outside the panel and the full visible limits are not marked consistently."
+    }
+  ],
+  "include_in_whole_hemisphere_summary": false,
+  "specimen_link_status": "unlinked_or_summary"
+}

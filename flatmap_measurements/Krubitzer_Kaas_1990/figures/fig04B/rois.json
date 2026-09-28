@@ -1,0 +1,46 @@
+{
+  "map_id": "fig04B",
+  "figure": 4,
+  "panel": "B",
+  "pdf_page": 7,
+  "printed_page": 171,
+  "specimen": "not reported",
+  "species_as_reported": "Saimiri sciureus",
+  "view_type": "histological_section",
+  "hemisphere_relation": "not assigned",
+  "linked_main_map": "",
+  "relationship_note": "Specimen linkage to the main reconstructions is not established by the figure caption.",
+  "outline_label": null,
+  "outline_scope": "none",
+  "scale_length_mm": 2,
+  "scale_endpoints_px": [
+    [
+      347,
+      509
+    ],
+    [
+      398,
+      509
+    ]
+  ],
+  "scale_note": "Own panel scale bar.",
+  "coordinate_system": "x right, y down in source.tif; manual vertices referenced to published lines/dots",
+  "supersample": 3,
+  "rois": [],
+  "unmeasured": [
+    {
+      "label": "17",
+      "reason": "DM and adjacent fields continue beyond the top/bottom of the panel; ambiguous second border and section tears prevent a defensible closed field ROI."
+    },
+    {
+      "label": "18",
+      "reason": "DM and adjacent fields continue beyond the top/bottom of the panel; ambiguous second border and section tears prevent a defensible closed field ROI."
+    },
+    {
+      "label": "DM",
+      "reason": "DM and adjacent fields continue beyond the top/bottom of the panel; ambiguous second border and section tears prevent a defensible closed field ROI."
+    }
+  ],
+  "include_in_whole_hemisphere_summary": false,
+  "specimen_link_status": "unlinked_or_summary"
+}

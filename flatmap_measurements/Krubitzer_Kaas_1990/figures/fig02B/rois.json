@@ -1,0 +1,204 @@
+{
+  "map_id": "fig02B",
+  "figure": 2,
+  "panel": "B",
+  "pdf_page": 5,
+  "printed_page": 169,
+  "specimen": "not reported",
+  "species_as_reported": "Saimiri sciureus",
+  "view_type": "histological_section",
+  "hemisphere_relation": "not assigned",
+  "linked_main_map": "",
+  "relationship_note": "Specimen linkage to the main reconstructions is not established by the figure caption.",
+  "outline_label": null,
+  "outline_scope": "none",
+  "scale_length_mm": 2,
+  "scale_endpoints_px": [
+    [
+      218,
+      394
+    ],
+    [
+      266,
+      394
+    ]
+  ],
+  "scale_note": "Own panel scale bar.",
+  "coordinate_system": "x right, y down in source.tif; manual vertices referenced to published lines/dots",
+  "supersample": 3,
+  "rois": [
+    {
+      "label": "17",
+      "polygons": [
+        [
+          [
+            13.0,
+            15.0
+          ],
+          [
+            25.0,
+            45.0
+          ],
+          [
+            44.0,
+            84.0
+          ],
+          [
+            70.0,
+            125.0
+          ],
+          [
+            98.0,
+            169.0
+          ],
+          [
+            114.0,
+            212.0
+          ],
+          [
+            125.0,
+            256.0
+          ],
+          [
+            121.0,
+            300.0
+          ],
+          [
+            110.0,
+            337.0
+          ],
+          [
+            97.0,
+            375.0
+          ],
+          [
+            112.0,
+            421.0
+          ],
+          [
+            13.0,
+            421.0
+          ]
+        ]
+      ],
+      "extent": "partial",
+      "boundary_note": "Visible field fragment only. The anatomical border is traced and the contour closes along the image crop; its area depends on framing and is not the complete cortical area."
+    },
+    {
+      "label": "18",
+      "polygons": [
+        [
+          [
+            25.0,
+            15.0
+          ],
+          [
+            159.0,
+            15.0
+          ],
+          [
+            166.0,
+            40.0
+          ],
+          [
+            177.0,
+            62.0
+          ],
+          [
+            195.0,
+            94.0
+          ],
+          [
+            193.0,
+            138.0
+          ],
+          [
+            184.0,
+            174.0
+          ],
+          [
+            178.0,
+            216.0
+          ],
+          [
+            178.0,
+            256.0
+          ],
+          [
+            183.0,
+            291.0
+          ],
+          [
+            197.0,
+            326.0
+          ],
+          [
+            213.0,
+            362.0
+          ],
+          [
+            238.0,
+            386.0
+          ],
+          [
+            264.0,
+            398.0
+          ],
+          [
+            268.0,
+            421.0
+          ],
+          [
+            112.0,
+            421.0
+          ],
+          [
+            97.0,
+            375.0
+          ],
+          [
+            110.0,
+            337.0
+          ],
+          [
+            121.0,
+            300.0
+          ],
+          [
+            125.0,
+            256.0
+          ],
+          [
+            114.0,
+            212.0
+          ],
+          [
+            98.0,
+            169.0
+          ],
+          [
+            70.0,
+            125.0
+          ],
+          [
+            44.0,
+            84.0
+          ],
+          [
+            25.0,
+            45.0
+          ],
+          [
+            13.0,
+            15.0
+          ]
+        ]
+      ],
+      "extent": "partial",
+      "boundary_note": "Visible field fragment only. The anatomical border is traced and the contour closes along the image crop; its area depends on framing and is not the complete cortical area."
+    }
+  ],
+  "unmeasured": [],
+  "include_in_whole_hemisphere_summary": false,
+  "specimen_link_status": "unlinked_or_summary"
+}

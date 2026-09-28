@@ -1,0 +1,135 @@
+{
+  "map_id": "fig10F",
+  "figure": 10,
+  "panel": "F",
+  "pdf_page": 16,
+  "printed_page": 180,
+  "specimen": "87-53",
+  "species_as_reported": "Callithrix jacchus",
+  "view_type": "section_zoom_reconstruction",
+  "hemisphere_relation": "injected hemisphere",
+  "linked_main_map": "fig20",
+  "relationship_note": "Adjacent/registered sections of one V2 patch; panels A\u2013F are repeat views, not independent fields.",
+  "outline_label": null,
+  "outline_scope": "none",
+  "scale_length_mm": 1,
+  "scale_endpoints_px": [
+    [
+      -30,
+      -341
+    ],
+    [
+      -30,
+      -170
+    ]
+  ],
+  "scale_note": "Borrowed only within Figure 10: caption explicitly states the bar in B applies to all six panels. No resizing between page crops.",
+  "coordinate_system": "x right, y down in source.tif; manual vertices referenced to published lines/dots",
+  "supersample": 3,
+  "rois": [
+    {
+      "label": "17",
+      "polygons": [
+        [
+          [
+            13.0,
+            10.0
+          ],
+          [
+            79.0,
+            10.0
+          ],
+          [
+            75.0,
+            51.0
+          ],
+          [
+            66.0,
+            95.0
+          ],
+          [
+            54.0,
+            139.0
+          ],
+          [
+            39.0,
+            183.0
+          ],
+          [
+            21.0,
+            226.0
+          ],
+          [
+            13.0,
+            245.42857142857144
+          ],
+          [
+            13.0,
+            245.42857142857144
+          ]
+        ]
+      ],
+      "extent": "partial",
+      "boundary_note": "Visible V1 wedge bounded by the 17/18 junction and the interior image frame; frame lines excluded. Shared Figure 10B scale explicitly authorized by caption."
+    },
+    {
+      "label": "18",
+      "polygons": [
+        [
+          [
+            79.0,
+            10.0
+          ],
+          [
+            75.0,
+            51.0
+          ],
+          [
+            66.0,
+            95.0
+          ],
+          [
+            54.0,
+            139.0
+          ],
+          [
+            39.0,
+            183.0
+          ],
+          [
+            21.0,
+            226.0
+          ],
+          [
+            13.0,
+            245.42857142857144
+          ],
+          [
+            13.0,
+            245.42857142857144
+          ],
+          [
+            13.0,
+            430.0
+          ],
+          [
+            291.0,
+            430.0
+          ],
+          [
+            291.0,
+            10.0
+          ]
+        ]
+      ],
+      "extent": "partial",
+      "boundary_note": "Visible V2 patch bounded partly by the interior image frame; this is a repeated depiction of a small tissue patch, not complete V2."
+    }
+  ],
+  "unmeasured": [],
+  "scale_reference_map": "fig10B",
+  "scale_endpoints_external": true,
+  "repeat_of": "fig10A:18",
+  "include_in_whole_hemisphere_summary": false,
+  "specimen_link_status": "linked_existing_case"
+}

@@ -1,0 +1,310 @@
+{
+  "map_id": "fig04E",
+  "figure": 4,
+  "panel": "E",
+  "pdf_page": 8,
+  "printed_page": 172,
+  "specimen": "not reported",
+  "species_as_reported": "Callithrix jacchus",
+  "view_type": "histological_section",
+  "hemisphere_relation": "not assigned",
+  "linked_main_map": "",
+  "relationship_note": "Specimen linkage to the main reconstructions is not established by the figure caption.",
+  "outline_label": null,
+  "outline_scope": "none",
+  "scale_length_mm": 2,
+  "scale_endpoints_px": [
+    [
+      426,
+      472
+    ],
+    [
+      481,
+      472
+    ]
+  ],
+  "scale_note": "Own panel scale bar.",
+  "coordinate_system": "x right, y down in source.tif; manual vertices referenced to published lines/dots",
+  "supersample": 3,
+  "rois": [
+    {
+      "label": "MT",
+      "polygons": [
+        [
+          [
+            303.0,
+            238.0
+          ],
+          [
+            326.0,
+            214.0
+          ],
+          [
+            350.0,
+            199.0
+          ],
+          [
+            377.0,
+            186.0
+          ],
+          [
+            402.0,
+            179.0
+          ],
+          [
+            427.0,
+            176.0
+          ],
+          [
+            442.0,
+            196.0
+          ],
+          [
+            438.0,
+            223.0
+          ],
+          [
+            441.0,
+            252.0
+          ],
+          [
+            442.0,
+            271.0
+          ],
+          [
+            426.0,
+            292.0
+          ],
+          [
+            398.0,
+            298.0
+          ],
+          [
+            373.0,
+            294.0
+          ],
+          [
+            353.0,
+            293.0
+          ],
+          [
+            331.0,
+            306.0
+          ],
+          [
+            307.0,
+            303.0
+          ],
+          [
+            297.0,
+            282.0
+          ],
+          [
+            291.0,
+            257.0
+          ]
+        ]
+      ],
+      "extent": "complete",
+      "boundary_note": "Architectonic boundary dots interpolated manually; staining, injection punctures and overprinted labels remain inside the field. Specimen identity is not stated in the caption."
+    },
+    {
+      "label": "DL",
+      "polygons": [
+        [
+          [
+            221.0,
+            119.0
+          ],
+          [
+            247.0,
+            123.0
+          ],
+          [
+            262.0,
+            150.0
+          ],
+          [
+            273.0,
+            176.0
+          ],
+          [
+            281.0,
+            206.0
+          ],
+          [
+            291.0,
+            232.0
+          ],
+          [
+            297.0,
+            245.0
+          ],
+          [
+            291.0,
+            257.0
+          ],
+          [
+            297.0,
+            282.0
+          ],
+          [
+            307.0,
+            303.0
+          ],
+          [
+            294.0,
+            331.0
+          ],
+          [
+            287.0,
+            356.0
+          ],
+          [
+            276.0,
+            377.0
+          ],
+          [
+            259.0,
+            407.0
+          ],
+          [
+            234.0,
+            415.0
+          ],
+          [
+            210.0,
+            405.0
+          ],
+          [
+            195.0,
+            380.0
+          ],
+          [
+            188.0,
+            348.0
+          ],
+          [
+            184.0,
+            315.0
+          ],
+          [
+            183.0,
+            282.0
+          ],
+          [
+            192.0,
+            247.0
+          ],
+          [
+            199.0,
+            218.0
+          ],
+          [
+            206.0,
+            190.0
+          ],
+          [
+            214.0,
+            165.0
+          ]
+        ]
+      ],
+      "extent": "partial",
+      "boundary_note": "Visible DL component from dots; upper end is not fully bounded and is closed at the first paired boundary marks."
+    },
+    {
+      "label": "FST",
+      "polygons": [
+        [
+          [
+            307.0,
+            303.0
+          ],
+          [
+            331.0,
+            306.0
+          ],
+          [
+            353.0,
+            293.0
+          ],
+          [
+            373.0,
+            294.0
+          ],
+          [
+            398.0,
+            298.0
+          ],
+          [
+            426.0,
+            292.0
+          ],
+          [
+            418.0,
+            314.0
+          ],
+          [
+            415.0,
+            337.0
+          ],
+          [
+            414.0,
+            360.0
+          ],
+          [
+            417.0,
+            384.0
+          ],
+          [
+            415.0,
+            410.0
+          ],
+          [
+            414.0,
+            437.0
+          ],
+          [
+            385.0,
+            434.0
+          ],
+          [
+            371.0,
+            412.0
+          ],
+          [
+            355.0,
+            397.0
+          ],
+          [
+            341.0,
+            371.0
+          ],
+          [
+            326.0,
+            353.0
+          ],
+          [
+            313.0,
+            333.0
+          ]
+        ]
+      ],
+      "extent": "partial",
+      "boundary_note": "FST visible fragment; inferior closure joins the last visible boundary dots."
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "17",
+      "reason": "No complete boundary in the visible panel; open or cropped territory cannot be interpreted as a complete field."
+    },
+    {
+      "label": "18",
+      "reason": "No complete boundary in the visible panel; open or cropped territory cannot be interpreted as a complete field."
+    }
+  ],
+  "include_in_whole_hemisphere_summary": false,
+  "specimen_link_status": "unlinked_or_summary"
+}

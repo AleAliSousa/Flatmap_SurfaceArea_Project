@@ -1,0 +1,128 @@
+{
+  "map_id": "fig25C",
+  "figure": 25,
+  "panel": "C",
+  "pdf_page": 31,
+  "printed_page": 195,
+  "specimen": "86-23",
+  "species_as_reported": "Saimiri sciureus",
+  "view_type": "contralateral_partial",
+  "hemisphere_relation": "opposite injected hemisphere",
+  "linked_main_map": "fig14",
+  "relationship_note": "",
+  "outline_label": null,
+  "outline_scope": "none",
+  "scale_length_mm": 5,
+  "scale_endpoints_px": [
+    [
+      135,
+      336.5
+    ],
+    [
+      212,
+      337.5
+    ]
+  ],
+  "scale_note": "Own panel scale bar.",
+  "coordinate_system": "x right, y down in source.tif; manual vertices referenced to published lines/dots",
+  "supersample": 3,
+  "rois": [
+    {
+      "label": "MT",
+      "polygons": [
+        [
+          [
+            92.0,
+            104.0
+          ],
+          [
+            106.0,
+            93.0
+          ],
+          [
+            124.0,
+            88.0
+          ],
+          [
+            141.0,
+            86.0
+          ],
+          [
+            156.0,
+            89.0
+          ],
+          [
+            172.0,
+            98.0
+          ],
+          [
+            188.0,
+            115.0
+          ],
+          [
+            202.0,
+            135.0
+          ],
+          [
+            209.0,
+            154.0
+          ],
+          [
+            209.0,
+            172.0
+          ],
+          [
+            203.0,
+            184.0
+          ],
+          [
+            190.0,
+            190.0
+          ],
+          [
+            172.0,
+            192.0
+          ],
+          [
+            155.0,
+            189.0
+          ],
+          [
+            138.0,
+            182.0
+          ],
+          [
+            122.0,
+            170.0
+          ],
+          [
+            108.0,
+            153.0
+          ],
+          [
+            97.0,
+            135.0
+          ],
+          [
+            92.0,
+            119.0
+          ]
+        ]
+      ],
+      "extent": "complete",
+      "boundary_note": "Manual contour follows the published anatomical boundary; dashed/dotted gaps interpolated."
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "FST",
+      "reason": "No complete boundary in the visible panel; open or cropped territory cannot be interpreted as a complete field."
+    },
+    {
+      "label": "DL",
+      "reason": "No complete boundary in the visible panel; open or cropped territory cannot be interpreted as a complete field."
+    }
+  ],
+  "include_in_whole_hemisphere_summary": false,
+  "specimen_link_status": "linked_existing_case"
+}

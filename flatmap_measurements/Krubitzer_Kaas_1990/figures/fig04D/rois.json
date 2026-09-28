@@ -1,0 +1,193 @@
+{
+  "map_id": "fig04D",
+  "figure": 4,
+  "panel": "D",
+  "pdf_page": 7,
+  "printed_page": 171,
+  "specimen": "not reported",
+  "species_as_reported": "Callithrix jacchus",
+  "view_type": "histological_section",
+  "hemisphere_relation": "not assigned",
+  "linked_main_map": "",
+  "relationship_note": "Specimen linkage to the main reconstructions is not established by the figure caption.",
+  "outline_label": null,
+  "outline_scope": "none",
+  "scale_length_mm": 2,
+  "scale_endpoints_px": [
+    [
+      295,
+      452
+    ],
+    [
+      382,
+      452
+    ]
+  ],
+  "scale_note": "Own panel scale bar.",
+  "coordinate_system": "x right, y down in source.tif; manual vertices referenced to published lines/dots",
+  "supersample": 3,
+  "rois": [
+    {
+      "label": "DM",
+      "polygons": [
+        [
+          [
+            192.0,
+            348.0
+          ],
+          [
+            205.0,
+            315.0
+          ],
+          [
+            228.0,
+            288.0
+          ],
+          [
+            258.0,
+            277.0
+          ],
+          [
+            293.0,
+            274.0
+          ],
+          [
+            328.0,
+            280.0
+          ],
+          [
+            299.0,
+            305.0
+          ],
+          [
+            273.0,
+            333.0
+          ],
+          [
+            252.0,
+            368.0
+          ],
+          [
+            233.0,
+            401.0
+          ],
+          [
+            217.0,
+            433.0
+          ],
+          [
+            204.0,
+            469.0
+          ],
+          [
+            193.0,
+            443.0
+          ],
+          [
+            191.0,
+            414.0
+          ],
+          [
+            194.0,
+            386.0
+          ]
+        ]
+      ],
+      "extent": "partial",
+      "boundary_note": "Architectonic boundary dots interpolated manually; staining, injection punctures and overprinted labels remain inside the field. Specimen identity is not stated in the caption. Inferior tip merges with the photograph edge; recorded as visible fragment."
+    },
+    {
+      "label": "DI",
+      "polygons": [
+        [
+          [
+            328.0,
+            280.0
+          ],
+          [
+            350.0,
+            286.0
+          ],
+          [
+            367.0,
+            297.0
+          ],
+          [
+            361.0,
+            315.0
+          ],
+          [
+            376.0,
+            337.0
+          ],
+          [
+            361.0,
+            363.0
+          ],
+          [
+            341.0,
+            385.0
+          ],
+          [
+            319.0,
+            411.0
+          ],
+          [
+            300.0,
+            442.0
+          ],
+          [
+            287.0,
+            462.0
+          ],
+          [
+            268.0,
+            481.0
+          ],
+          [
+            206.0,
+            481.0
+          ],
+          [
+            204.0,
+            469.0
+          ],
+          [
+            217.0,
+            433.0
+          ],
+          [
+            233.0,
+            401.0
+          ],
+          [
+            252.0,
+            368.0
+          ],
+          [
+            273.0,
+            333.0
+          ],
+          [
+            299.0,
+            305.0
+          ]
+        ]
+      ],
+      "extent": "partial",
+      "boundary_note": "Architectonic boundary dots interpolated manually; staining, injection punctures and overprinted labels remain inside the field. Specimen identity is not stated in the caption. Inferior end is clipped by the photograph."
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "17",
+      "reason": "No complete boundary in the visible panel; open or cropped territory cannot be interpreted as a complete field."
+    },
+    {
+      "label": "18",
+      "reason": "No complete boundary in the visible panel; open or cropped territory cannot be interpreted as a complete field."
+    }
+  ],
+  "include_in_whole_hemisphere_summary": false,
+  "specimen_link_status": "unlinked_or_summary"
+}

@@ -1,0 +1,181 @@
+"source","species","case","field","value"
+"Table 1","Squirrel monkey",1,"17",19.5
+"Table 1","Squirrel monkey",2,"17",19.9
+"Table 1","Squirrel monkey",3,"17",17.4
+"Table 1","Squirrel monkey",4,"17",19.7
+"Table 1","Squirrel monkey",5,"17",19.1
+"Table 1","Squirrel monkey",6,"17",13.7
+"Table 1","Squirrel monkey",1,"18",7.6
+"Table 1","Squirrel monkey",2,"18",8.9
+"Table 1","Squirrel monkey",3,"18",8.7
+"Table 1","Squirrel monkey",4,"18",6.5
+"Table 1","Squirrel monkey",5,"18",9.4
+"Table 1","Squirrel monkey",6,"18",7.1
+"Table 1","Squirrel monkey",1,"DL",4.4
+"Table 1","Squirrel monkey",2,"DL",4.7
+"Table 1","Squirrel monkey",3,"DL",4.2
+"Table 1","Squirrel monkey",4,"DL",3.4
+"Table 1","Squirrel monkey",5,"DL",4
+"Table 1","Squirrel monkey",6,"DL",5.7
+"Table 1","Squirrel monkey",1,"DM",1.8
+"Table 1","Squirrel monkey",2,"DM",1.4
+"Table 1","Squirrel monkey",3,"DM",1.2
+"Table 1","Squirrel monkey",4,"DM",1.2
+"Table 1","Squirrel monkey",5,"DM",1.3
+"Table 1","Squirrel monkey",6,"DM",1.4
+"Table 1","Squirrel monkey",1,"D1",1
+"Table 1","Squirrel monkey",2,"D1",1
+"Table 1","Squirrel monkey",3,"D1",0.9
+"Table 1","Squirrel monkey",4,"D1",1
+"Table 1","Squirrel monkey",5,"D1",1.3
+"Table 1","Squirrel monkey",6,"D1",1.4
+"Table 1","Squirrel monkey",1,"FST",2.7
+"Table 1","Squirrel monkey",2,"FST",3.1
+"Table 1","Squirrel monkey",3,"FST",3
+"Table 1","Squirrel monkey",4,"FST",2.6
+"Table 1","Squirrel monkey",5,"FST",2.4
+"Table 1","Squirrel monkey",6,"FST",3.2
+"Table 1","Squirrel monkey",1,"MT",1.3
+"Table 1","Squirrel monkey",2,"MT",1.1
+"Table 1","Squirrel monkey",3,"MT",1.6
+"Table 1","Squirrel monkey",4,"MT",1.3
+"Table 1","Squirrel monkey",5,"MT",1.4
+"Table 1","Squirrel monkey",6,"MT",1.6
+"Table 1","Squirrel monkey",1,"MST",1.4
+"Table 1","Squirrel monkey",2,"MST",1.1
+"Table 1","Squirrel monkey",3,"MST",1.2
+"Table 1","Squirrel monkey",4,"MST",1.4
+"Table 1","Squirrel monkey",5,"MST",1.1
+"Table 1","Squirrel monkey",6,"MST",1.8
+"Table 1","Squirrel monkey",1,"Total",39.7
+"Table 1","Squirrel monkey",2,"Total",41.2
+"Table 1","Squirrel monkey",3,"Total",38.2
+"Table 1","Squirrel monkey",4,"Total",37.1
+"Table 1","Squirrel monkey",5,"Total",40
+"Table 1","Squirrel monkey",6,"Total",35.9
+"Table 1","Owl monkey",1,"17",14.6
+"Table 1","Owl monkey",2,"17",18.4
+"Table 1","Owl monkey",3,"17",15
+"Table 1","Owl monkey",4,"17",6.7
+"Table 1","Owl monkey",1,"18",9.2
+"Table 1","Owl monkey",2,"18",8.8
+"Table 1","Owl monkey",3,"18",5
+"Table 1","Owl monkey",4,"18",7.5
+"Table 1","Owl monkey",1,"DL",3.5
+"Table 1","Owl monkey",2,"DL",3.3
+"Table 1","Owl monkey",3,"DL",2.2
+"Table 1","Owl monkey",4,"DL",4.2
+"Table 1","Owl monkey",1,"DM",1.7
+"Table 1","Owl monkey",2,"DM",2.4
+"Table 1","Owl monkey",3,"DM",1.5
+"Table 1","Owl monkey",4,"DM",1.7
+"Table 1","Owl monkey",1,"D1",1.5
+"Table 1","Owl monkey",2,"D1",1.8
+"Table 1","Owl monkey",3,"D1",1.6
+"Table 1","Owl monkey",4,"D1",1.3
+"Table 1","Owl monkey",1,"FST",2
+"Table 1","Owl monkey",2,"FST",1.2
+"Table 1","Owl monkey",3,"FST",1.5
+"Table 1","Owl monkey",4,"FST",2.1
+"Table 1","Owl monkey",1,"MT",2.1
+"Table 1","Owl monkey",2,"MT",1.8
+"Table 1","Owl monkey",3,"MT",1.3
+"Table 1","Owl monkey",4,"MT",1.8
+"Table 1","Owl monkey",1,"MST",1.7
+"Table 1","Owl monkey",2,"MST",1.1
+"Table 1","Owl monkey",3,"MST",1.3
+"Table 1","Owl monkey",4,"MST",1.8
+"Table 1","Owl monkey",1,"Total",36.3
+"Table 1","Owl monkey",2,"Total",38.8
+"Table 1","Owl monkey",3,"Total",29.4
+"Table 1","Owl monkey",4,"Total",27.1
+"Table 1","Marmoset",1,"17",16.1
+"Table 1","Marmoset",2,"17",16.9
+"Table 1","Marmoset",3,"17",20
+"Table 1","Marmoset",4,"17",15.7
+"Table 1","Marmoset",5,"17",22.3
+"Table 1","Marmoset",6,"17",18.5
+"Table 1","Marmoset",1,"18",8.2
+"Table 1","Marmoset",2,"18",8.8
+"Table 1","Marmoset",3,"18",8.8
+"Table 1","Marmoset",4,"18",7.5
+"Table 1","Marmoset",5,"18",9.6
+"Table 1","Marmoset",6,"18",9.3
+"Table 1","Marmoset",1,"DL",4
+"Table 1","Marmoset",2,"DL",3.5
+"Table 1","Marmoset",3,"DL",3.7
+"Table 1","Marmoset",4,"DL",4.1
+"Table 1","Marmoset",5,"DL",3.1
+"Table 1","Marmoset",6,"DL",4.4
+"Table 1","Marmoset",1,"DM",1.8
+"Table 1","Marmoset",2,"DM",1.5
+"Table 1","Marmoset",3,"DM",1.1
+"Table 1","Marmoset",4,"DM",1.3
+"Table 1","Marmoset",5,"DM",1.4
+"Table 1","Marmoset",6,"DM",1.3
+"Table 1","Marmoset",1,"D1",2.8
+"Table 1","Marmoset",2,"D1",2.2
+"Table 1","Marmoset",3,"D1",1.9
+"Table 1","Marmoset",4,"D1",1.7
+"Table 1","Marmoset",5,"D1",2
+"Table 1","Marmoset",6,"D1",2.2
+"Table 1","Marmoset",1,"FST",2.5
+"Table 1","Marmoset",2,"FST",2.7
+"Table 1","Marmoset",3,"FST",2.4
+"Table 1","Marmoset",4,"FST",2.5
+"Table 1","Marmoset",5,"FST",1.7
+"Table 1","Marmoset",6,"FST",2
+"Table 1","Marmoset",1,"MT",1.5
+"Table 1","Marmoset",2,"MT",2.3
+"Table 1","Marmoset",3,"MT",2
+"Table 1","Marmoset",4,"MT",1.9
+"Table 1","Marmoset",5,"MT",1.7
+"Table 1","Marmoset",6,"MT",1.6
+"Table 1","Marmoset",1,"MST",1.1
+"Table 1","Marmoset",2,"MST",1.6
+"Table 1","Marmoset",3,"MST",1.5
+"Table 1","Marmoset",4,"MST",1.7
+"Table 1","Marmoset",5,"MST",1.3
+"Table 1","Marmoset",6,"MST",1.1
+"Table 1","Marmoset",1,"Total",38
+"Table 1","Marmoset",2,"Total",39.5
+"Table 1","Marmoset",3,"Total",41.4
+"Table 1","Marmoset",4,"Total",36.4
+"Table 1","Marmoset",5,"Total",43.1
+"Table 1","Marmoset",6,"Total",40.4
+"Table 1","Galago",1,"17",19.6
+"Table 1","Galago",2,"17",15.9
+"Table 1","Galago",3,"17",13.5
+"Table 1","Galago",4,"17",16
+"Table 1","Galago",1,"18",6.8
+"Table 1","Galago",2,"18",4.6
+"Table 1","Galago",3,"18",8
+"Table 1","Galago",4,"18",4.4
+"Table 1","Galago",1,"DL",2.9
+"Table 1","Galago",2,"DL",2
+"Table 1","Galago",3,"DL",2.5
+"Table 1","Galago",4,"DL",2.6
+"Table 1","Galago",1,"DM",0.6
+"Table 1","Galago",2,"DM",0.8
+"Table 1","Galago",3,"DM",1.2
+"Table 1","Galago",4,"DM",0.8
+"Table 1","Galago",1,"D1",0.7
+"Table 1","Galago",2,"D1",1
+"Table 1","Galago",3,"D1",1.3
+"Table 1","Galago",4,"D1",1.4
+"Table 1","Galago",1,"FST",2.2
+"Table 1","Galago",2,"FST",2.7
+"Table 1","Galago",3,"FST",2.7
+"Table 1","Galago",4,"FST",1.8
+"Table 1","Galago",1,"MT",2.3
+"Table 1","Galago",2,"MT",1.9
+"Table 1","Galago",3,"MT",2.5
+"Table 1","Galago",4,"MT",2
+"Table 1","Galago",1,"MST",2.2
+"Table 1","Galago",2,"MST",1.4
+"Table 1","Galago",3,"MST",1.9
+"Table 1","Galago",4,"MST",2.1
+"Table 1","Galago",1,"Total",37.4
+"Table 1","Galago",2,"Total",30.3
+"Table 1","Galago",3,"Total",33.6
+"Table 1","Galago",4,"Total",31.1

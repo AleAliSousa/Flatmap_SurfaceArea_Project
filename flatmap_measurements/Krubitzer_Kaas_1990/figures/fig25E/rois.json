@@ -1,0 +1,128 @@
+{
+  "map_id": "fig25E",
+  "figure": 25,
+  "panel": "E",
+  "pdf_page": 31,
+  "printed_page": 195,
+  "specimen": "86-25",
+  "species_as_reported": "Saimiri sciureus",
+  "view_type": "contralateral_partial",
+  "hemisphere_relation": "opposite injected hemisphere",
+  "linked_main_map": "",
+  "relationship_note": "Printed specimen 86-25 conflicts with 87-25 in Figure 16; linkage unresolved.",
+  "outline_label": null,
+  "outline_scope": "none",
+  "scale_length_mm": 5,
+  "scale_endpoints_px": [
+    [
+      128,
+      268
+    ],
+    [
+      229,
+      268
+    ]
+  ],
+  "scale_note": "Own panel scale bar.",
+  "coordinate_system": "x right, y down in source.tif; manual vertices referenced to published lines/dots",
+  "supersample": 3,
+  "rois": [
+    {
+      "label": "MT",
+      "polygons": [
+        [
+          [
+            96.0,
+            92.0
+          ],
+          [
+            111.0,
+            82.0
+          ],
+          [
+            126.0,
+            83.0
+          ],
+          [
+            144.0,
+            96.0
+          ],
+          [
+            157.0,
+            115.0
+          ],
+          [
+            171.0,
+            135.0
+          ],
+          [
+            184.0,
+            157.0
+          ],
+          [
+            189.0,
+            175.0
+          ],
+          [
+            187.0,
+            190.0
+          ],
+          [
+            178.0,
+            202.0
+          ],
+          [
+            163.0,
+            208.0
+          ],
+          [
+            146.0,
+            206.0
+          ],
+          [
+            130.0,
+            198.0
+          ],
+          [
+            112.0,
+            187.0
+          ],
+          [
+            99.0,
+            173.0
+          ],
+          [
+            88.0,
+            156.0
+          ],
+          [
+            82.0,
+            142.0
+          ],
+          [
+            89.0,
+            124.0
+          ],
+          [
+            94.0,
+            108.0
+          ]
+        ]
+      ],
+      "extent": "complete",
+      "boundary_note": "Approximate dashed MT boundary, partly coincident with a drawn tissue cut at left; thick central contour marks injection projection and is not the field border."
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "MST",
+      "reason": "No complete boundary in the visible panel; open or cropped territory cannot be interpreted as a complete field."
+    },
+    {
+      "label": "FST",
+      "reason": "No complete boundary in the visible panel; open or cropped territory cannot be interpreted as a complete field."
+    }
+  ],
+  "include_in_whole_hemisphere_summary": false,
+  "specimen_link_status": "unresolved_label_discrepancy"
+}

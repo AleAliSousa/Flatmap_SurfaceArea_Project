@@ -1,0 +1,176 @@
+{
+  "map_id": "fig09G",
+  "figure": 9,
+  "panel": "G",
+  "pdf_page": 15,
+  "printed_page": 179,
+  "specimen": "not reported",
+  "species_as_reported": "Aotus trivirgatus",
+  "view_type": "partial_areal_strip",
+  "hemisphere_relation": "injected hemisphere",
+  "linked_main_map": "",
+  "relationship_note": "Dual MT/DL injection example; exact specimen ID not printed in this panel, so not linked to Figure 19 by inference.",
+  "outline_label": null,
+  "outline_scope": "none",
+  "scale_length_mm": 2,
+  "scale_endpoints_px": [
+    [
+      167,
+      525
+    ],
+    [
+      233,
+      526
+    ]
+  ],
+  "scale_note": "Own panel scale bar.",
+  "coordinate_system": "x right, y down in source.tif; manual vertices referenced to published lines/dots",
+  "supersample": 3,
+  "rois": [
+    {
+      "label": "18",
+      "polygons": [
+        [
+          [
+            63.0,
+            33.0
+          ],
+          [
+            54.0,
+            75.0
+          ],
+          [
+            47.0,
+            119.0
+          ],
+          [
+            42.0,
+            162.0
+          ],
+          [
+            41.0,
+            205.0
+          ],
+          [
+            43.0,
+            247.0
+          ],
+          [
+            49.0,
+            291.0
+          ],
+          [
+            55.0,
+            336.0
+          ],
+          [
+            57.0,
+            379.0
+          ],
+          [
+            56.0,
+            422.0
+          ],
+          [
+            51.0,
+            463.0
+          ],
+          [
+            39.0,
+            499.0
+          ],
+          [
+            15.0,
+            538.0
+          ],
+          [
+            36.0,
+            546.0
+          ],
+          [
+            63.0,
+            562.0
+          ],
+          [
+            87.0,
+            575.0
+          ],
+          [
+            119.0,
+            569.0
+          ],
+          [
+            122.0,
+            545.0
+          ],
+          [
+            119.0,
+            519.0
+          ],
+          [
+            118.0,
+            491.0
+          ],
+          [
+            119.0,
+            462.0
+          ],
+          [
+            125.0,
+            430.0
+          ],
+          [
+            135.0,
+            392.0
+          ],
+          [
+            148.0,
+            349.0
+          ],
+          [
+            159.0,
+            307.0
+          ],
+          [
+            171.0,
+            263.0
+          ],
+          [
+            182.0,
+            218.0
+          ],
+          [
+            190.0,
+            174.0
+          ],
+          [
+            193.0,
+            132.0
+          ],
+          [
+            192.0,
+            92.0
+          ],
+          [
+            188.0,
+            58.0
+          ],
+          [
+            181.0,
+            33.0
+          ]
+        ]
+      ],
+      "extent": "partial",
+      "boundary_note": "Visible V2 strip between the two continuous borders. Open ends are closed by straight lines between border endpoints; these are fragment cutoffs, not anatomical limits of V2."
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "17",
+      "reason": "Only the adjoining side of the 17/18 border is drawn; no second extent for area 17."
+    }
+  ],
+  "include_in_whole_hemisphere_summary": false,
+  "specimen_link_status": "unlinked_or_summary"
+}

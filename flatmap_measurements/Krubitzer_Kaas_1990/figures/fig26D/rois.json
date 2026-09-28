@@ -1,0 +1,208 @@
+{
+  "map_id": "fig26D",
+  "figure": 26,
+  "panel": "D",
+  "pdf_page": 32,
+  "printed_page": 196,
+  "specimen": "87-51",
+  "species_as_reported": "Callithrix jacchus",
+  "view_type": "contralateral_zoom",
+  "hemisphere_relation": "same opposite hemisphere as fig26C",
+  "linked_main_map": "fig21",
+  "relationship_note": "Magnified MT from Figure 26C; repeated tissue, not an additional field or specimen.",
+  "outline_label": null,
+  "outline_scope": "none",
+  "scale_length_mm": 1,
+  "scale_endpoints_px": [
+    [
+      68,
+      278
+    ],
+    [
+      134,
+      278
+    ]
+  ],
+  "scale_note": "Own panel scale bar.",
+  "coordinate_system": "x right, y down in source.tif; manual vertices referenced to published lines/dots",
+  "supersample": 3,
+  "rois": [
+    {
+      "label": "MT",
+      "polygons": [
+        [
+          [
+            67.0,
+            95.0
+          ],
+          [
+            79.0,
+            86.0
+          ],
+          [
+            100.0,
+            80.0
+          ],
+          [
+            126.0,
+            76.0
+          ],
+          [
+            152.0,
+            73.0
+          ],
+          [
+            176.0,
+            81.0
+          ],
+          [
+            199.0,
+            74.0
+          ],
+          [
+            222.0,
+            70.0
+          ],
+          [
+            246.0,
+            72.0
+          ],
+          [
+            267.0,
+            81.0
+          ],
+          [
+            292.0,
+            98.0
+          ],
+          [
+            317.0,
+            122.0
+          ],
+          [
+            339.0,
+            146.0
+          ],
+          [
+            359.0,
+            169.0
+          ],
+          [
+            374.0,
+            192.0
+          ],
+          [
+            385.0,
+            218.0
+          ],
+          [
+            391.0,
+            247.0
+          ],
+          [
+            402.0,
+            271.0
+          ],
+          [
+            407.0,
+            291.0
+          ],
+          [
+            407.0,
+            307.0
+          ],
+          [
+            399.0,
+            326.0
+          ],
+          [
+            390.0,
+            344.0
+          ],
+          [
+            371.0,
+            351.0
+          ],
+          [
+            345.0,
+            357.0
+          ],
+          [
+            322.0,
+            357.0
+          ],
+          [
+            300.0,
+            351.0
+          ],
+          [
+            282.0,
+            340.0
+          ],
+          [
+            270.0,
+            321.0
+          ],
+          [
+            257.0,
+            301.0
+          ],
+          [
+            242.0,
+            284.0
+          ],
+          [
+            222.0,
+            273.0
+          ],
+          [
+            199.0,
+            261.0
+          ],
+          [
+            179.0,
+            246.0
+          ],
+          [
+            159.0,
+            230.0
+          ],
+          [
+            140.0,
+            213.0
+          ],
+          [
+            124.0,
+            193.0
+          ],
+          [
+            112.0,
+            171.0
+          ],
+          [
+            100.0,
+            145.0
+          ],
+          [
+            85.0,
+            130.0
+          ],
+          [
+            74.0,
+            120.0
+          ],
+          [
+            68.0,
+            109.0
+          ]
+        ]
+      ],
+      "extent": "approximate_complete",
+      "boundary_note": "Outer MT envelope includes pale and dark internal compartments. White myelin-light notches are bridged; this is a provisional envelope, not the area of the heavily myelinated subcompartment. Dashed rectangle is a zoom frame, not an areal boundary."
+    }
+  ],
+  "unmeasured": [],
+  "repeat_of": "fig26C:MT",
+  "include_in_whole_hemisphere_summary": false,
+  "specimen_link_status": "linked_existing_case"
+}

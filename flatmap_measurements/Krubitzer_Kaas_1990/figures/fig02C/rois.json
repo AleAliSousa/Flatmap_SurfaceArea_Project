@@ -1,0 +1,108 @@
+{
+  "map_id": "fig02C",
+  "figure": 2,
+  "panel": "C",
+  "pdf_page": 5,
+  "printed_page": 169,
+  "specimen": "not reported",
+  "species_as_reported": "Callithrix jacchus",
+  "view_type": "histological_section",
+  "hemisphere_relation": "not assigned",
+  "linked_main_map": "",
+  "relationship_note": "Specimen linkage to the main reconstructions is not established by the figure caption.",
+  "outline_label": null,
+  "outline_scope": "none",
+  "scale_length_mm": 2,
+  "scale_endpoints_px": [
+    [
+      298,
+      425
+    ],
+    [
+      335,
+      425
+    ]
+  ],
+  "scale_note": "Own panel scale bar.",
+  "coordinate_system": "x right, y down in source.tif; manual vertices referenced to published lines/dots",
+  "supersample": 3,
+  "rois": [
+    {
+      "label": "MT",
+      "polygons": [
+        [
+          [
+            240.0,
+            265.0
+          ],
+          [
+            251.0,
+            248.0
+          ],
+          [
+            268.0,
+            236.0
+          ],
+          [
+            288.0,
+            230.0
+          ],
+          [
+            308.0,
+            234.0
+          ],
+          [
+            323.0,
+            249.0
+          ],
+          [
+            328.0,
+            272.0
+          ],
+          [
+            320.0,
+            296.0
+          ],
+          [
+            302.0,
+            312.0
+          ],
+          [
+            280.0,
+            321.0
+          ],
+          [
+            253.0,
+            312.0
+          ],
+          [
+            237.0,
+            294.0
+          ],
+          [
+            233.0,
+            281.0
+          ]
+        ]
+      ],
+      "extent": "complete",
+      "boundary_note": "Architectonic boundary dots interpolated manually; staining, injection punctures and overprinted labels remain inside the field. Specimen identity is not stated in the caption."
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "17",
+      "reason": "Field continues beyond the photograph or its second areal border is not marked clearly enough to close a defensible fragment."
+    },
+    {
+      "label": "18",
+      "reason": "Field continues beyond the photograph or its second areal border is not marked clearly enough to close a defensible fragment."
+    },
+    {
+      "label": "DL",
+      "reason": "Field continues beyond the photograph or its second areal border is not marked clearly enough to close a defensible fragment."
+    }
+  ],
+  "include_in_whole_hemisphere_summary": false,
+  "specimen_link_status": "unlinked_or_summary"
+}

@@ -1,0 +1,113 @@
+"source","species","case","specimen","map_id","field","value"
+"Flatmap","Squirrel monkey",1,"87-35","fig12","17",19.8068
+"Flatmap","Squirrel monkey",2,"87-16","fig13","17",17.4748
+"Flatmap","Squirrel monkey",3,"86-23","fig14","17",19.4037
+"Flatmap","Squirrel monkey",4,"87-15","fig15","17",20.4871
+"Flatmap","Squirrel monkey",5,"87-25","fig16","17",17.0046
+"Flatmap","Squirrel monkey",1,"87-35","fig12","18",8.8804
+"Flatmap","Squirrel monkey",2,"87-16","fig13","18",8.2807
+"Flatmap","Squirrel monkey",3,"86-23","fig14","18",7.7869
+"Flatmap","Squirrel monkey",4,"87-15","fig15","18",6.7148
+"Flatmap","Squirrel monkey",5,"87-25","fig16","18",7.2415
+"Flatmap","Squirrel monkey",1,"87-35","fig12","DL",5.2047
+"Flatmap","Squirrel monkey",2,"87-16","fig13","DL",4.1454
+"Flatmap","Squirrel monkey",3,"86-23","fig14","DL",3.9273
+"Flatmap","Squirrel monkey",4,"87-15","fig15","DL",3.4717
+"Flatmap","Squirrel monkey",5,"87-25","fig16","DL",4.4979
+"Flatmap","Squirrel monkey",1,"87-35","fig12","DM",1.3053
+"Flatmap","Squirrel monkey",2,"87-16","fig13","DM",1.2316
+"Flatmap","Squirrel monkey",3,"86-23","fig14","DM",1.302
+"Flatmap","Squirrel monkey",4,"87-15","fig15","DM",1.2046
+"Flatmap","Squirrel monkey",5,"87-25","fig16","DM",1.0061
+"Flatmap","Squirrel monkey",1,"87-35","fig12","D1",0.8464
+"Flatmap","Squirrel monkey",2,"87-16","fig13","D1",0.8105
+"Flatmap","Squirrel monkey",3,"86-23","fig14","D1",1.229
+"Flatmap","Squirrel monkey",4,"87-15","fig15","D1",0.9779
+"Flatmap","Squirrel monkey",5,"87-25","fig16","D1",0.7186
+"Flatmap","Squirrel monkey",1,"87-35","fig12","FST",2.9201
+"Flatmap","Squirrel monkey",2,"87-16","fig13","FST",3.1902
+"Flatmap","Squirrel monkey",3,"86-23","fig14","FST",2.4425
+"Flatmap","Squirrel monkey",4,"87-15","fig15","FST",2.6871
+"Flatmap","Squirrel monkey",5,"87-25","fig16","FST",1.7826
+"Flatmap","Squirrel monkey",1,"87-35","fig12","MT",1.0546
+"Flatmap","Squirrel monkey",2,"87-16","fig13","MT",1.6443
+"Flatmap","Squirrel monkey",3,"86-23","fig14","MT",1.325
+"Flatmap","Squirrel monkey",4,"87-15","fig15","MT",1.3455
+"Flatmap","Squirrel monkey",5,"87-25","fig16","MT",0.9355
+"Flatmap","Squirrel monkey",1,"87-35","fig12","MST",0.818
+"Flatmap","Squirrel monkey",2,"87-16","fig13","MST",1.2755
+"Flatmap","Squirrel monkey",3,"86-23","fig14","MST",0.7973
+"Flatmap","Squirrel monkey",4,"87-15","fig15","MST",1.1179
+"Flatmap","Squirrel monkey",5,"87-25","fig16","MST",0.6159
+"Flatmap","Squirrel monkey",1,"87-35","fig12","Total",40.8363
+"Flatmap","Squirrel monkey",2,"87-16","fig13","Total",38.053
+"Flatmap","Squirrel monkey",3,"86-23","fig14","Total",38.2138
+"Flatmap","Squirrel monkey",4,"87-15","fig15","Total",38.0068
+"Flatmap","Squirrel monkey",5,"87-25","fig16","Total",33.8028
+"Flatmap","Owl monkey",1,"88-7","fig17","17",18.8075
+"Flatmap","Owl monkey",2,"87-54","fig18","17",15.0421
+"Flatmap","Owl monkey",1,"88-7","fig17","18",8.1585
+"Flatmap","Owl monkey",2,"87-54","fig18","18",8.2524
+"Flatmap","Owl monkey",1,"88-7","fig17","DL",3.1863
+"Flatmap","Owl monkey",2,"87-54","fig18","DL",3.2014
+"Flatmap","Owl monkey",3,"88-16","fig19","DL",2.3528
+"Flatmap","Owl monkey",1,"88-7","fig17","DM",2.7233
+"Flatmap","Owl monkey",2,"87-54","fig18","DM",1.7427
+"Flatmap","Owl monkey",3,"88-16","fig19","DM",1.7558
+"Flatmap","Owl monkey",1,"88-7","fig17","D1",1.4202
+"Flatmap","Owl monkey",2,"87-54","fig18","D1",1.6443
+"Flatmap","Owl monkey",3,"88-16","fig19","D1",1.0244
+"Flatmap","Owl monkey",1,"88-7","fig17","FST",1.4106
+"Flatmap","Owl monkey",2,"87-54","fig18","FST",1.8676
+"Flatmap","Owl monkey",3,"88-16","fig19","FST",1.5473
+"Flatmap","Owl monkey",1,"88-7","fig17","MT",1.828
+"Flatmap","Owl monkey",2,"87-54","fig18","MT",2.0425
+"Flatmap","Owl monkey",3,"88-16","fig19","MT",1.2747
+"Flatmap","Owl monkey",1,"88-7","fig17","MST",1.423
+"Flatmap","Owl monkey",2,"87-54","fig18","MST",1.7833
+"Flatmap","Owl monkey",3,"88-16","fig19","MST",1.0082
+"Flatmap","Owl monkey",1,"88-7","fig17","Total",38.9573
+"Flatmap","Owl monkey",2,"87-54","fig18","Total",35.5763
+"Flatmap","Marmoset",1,"87-53","fig20","17",17.9398
+"Flatmap","Marmoset",2,"87-51","fig21","17",19.719
+"Flatmap","Marmoset",1,"87-53","fig20","18",9.7768
+"Flatmap","Marmoset",2,"87-51","fig21","18",8.7351
+"Flatmap","Marmoset",1,"87-53","fig20","DL",3.7148
+"Flatmap","Marmoset",2,"87-51","fig21","DL",3.2557
+"Flatmap","Marmoset",1,"87-53","fig20","DM",1.4502
+"Flatmap","Marmoset",2,"87-51","fig21","DM",0.903
+"Flatmap","Marmoset",1,"87-53","fig20","D1",2.025
+"Flatmap","Marmoset",2,"87-51","fig21","D1",1.3837
+"Flatmap","Marmoset",1,"87-53","fig20","FST",2.2811
+"Flatmap","Marmoset",2,"87-51","fig21","FST",2.2255
+"Flatmap","Marmoset",1,"87-53","fig20","MT",2.0952
+"Flatmap","Marmoset",2,"87-51","fig21","MT",2.0986
+"Flatmap","Marmoset",1,"87-53","fig20","MST",1.4982
+"Flatmap","Marmoset",2,"87-51","fig21","MST",1.6129
+"Flatmap","Marmoset",1,"87-53","fig20","Total",40.7811
+"Flatmap","Marmoset",2,"87-51","fig21","Total",39.9334
+"Flatmap","Galago",1,"88-5","fig22","17",20.0751
+"Flatmap","Galago",2,"88-10","fig23","17",14.5045
+"Flatmap","Galago",3,"88-11","fig24","17",16.4675
+"Flatmap","Galago",1,"88-5","fig22","18",6.2808
+"Flatmap","Galago",2,"88-10","fig23","18",8.0091
+"Flatmap","Galago",3,"88-11","fig24","18",5.086
+"Flatmap","Galago",1,"88-5","fig22","DL",2.8263
+"Flatmap","Galago",2,"88-10","fig23","DL",2.6436
+"Flatmap","Galago",3,"88-11","fig24","DL",2.1635
+"Flatmap","Galago",1,"88-5","fig22","DM",0.8141
+"Flatmap","Galago",2,"88-10","fig23","DM",0.9719
+"Flatmap","Galago",3,"88-11","fig24","DM",0.9472
+"Flatmap","Galago",1,"88-5","fig22","D1",0.4646
+"Flatmap","Galago",3,"88-11","fig24","D1",0.9529
+"Flatmap","Galago",1,"88-5","fig22","FST",2.0368
+"Flatmap","Galago",2,"88-10","fig23","FST",2.5016
+"Flatmap","Galago",3,"88-11","fig24","FST",2.8911
+"Flatmap","Galago",1,"88-5","fig22","MT",2.3753
+"Flatmap","Galago",2,"88-10","fig23","MT",2.3384
+"Flatmap","Galago",3,"88-11","fig24","MT",1.9947
+"Flatmap","Galago",1,"88-5","fig22","MST",2.1272
+"Flatmap","Galago",2,"88-10","fig23","MST",1.6747
+"Flatmap","Galago",3,"88-11","fig24","MST",1.3872
+"Flatmap","Galago",1,"88-5","fig22","Total",37.0001
+"Flatmap","Galago",3,"88-11","fig24","Total",31.89

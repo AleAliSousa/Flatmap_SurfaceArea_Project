@@ -1,0 +1,14 @@
+"species","case","specimen","map_id","n_fields_used","nearest_table1_case","nearest_distance","second_table1_case","second_distance","margin","nearest_case_claimed_by_other_flatmap"
+"Squirrel monkey",1,"87-35","fig12",8,2,0.56,3,1.2291,0.6692,FALSE
+"Squirrel monkey",2,"87-16","fig13",8,3,0.3337,2,1.1867,0.853,FALSE
+"Squirrel monkey",3,"86-23","fig14",8,5,0.6595,4,0.9822,0.3227,FALSE
+"Squirrel monkey",4,"87-15","fig15",8,4,0.3852,3,1.0413,0.6561,TRUE
+"Squirrel monkey",5,"87-25","fig16",8,4,1.7355,5,1.8656,0.1301,TRUE
+"Owl monkey",1,"88-7","fig17",8,2,0.8548,1,1.2115,0.3566,FALSE
+"Owl monkey",2,"87-54","fig18",8,1,0.3794,4,1.0358,0.6564,FALSE
+"Owl monkey",3,"88-16","fig19",6,3,1.2712,4,1.7885,0.5172,FALSE
+"Marmoset",1,"87-53","fig20",8,2,0.6873,3,0.831,0.1436,FALSE
+"Marmoset",2,"87-51","fig21",8,3,0.6969,4,1.2931,0.5963,FALSE
+"Galago",1,"88-5","fig22",8,1,0.5322,4,1.4918,0.9596,FALSE
+"Galago",2,"88-10","fig23",7,3,0.6333,1,1.2455,0.6122,FALSE
+"Galago",3,"88-11","fig24",8,2,0.4062,4,1.3587,0.9525,FALSE

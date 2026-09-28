@@ -1,0 +1,262 @@
+{
+  "map_id": "fig06C",
+  "figure": 6,
+  "panel": "C",
+  "pdf_page": 12,
+  "printed_page": 176,
+  "specimen": "not reported",
+  "species_as_reported": "Callithrix jacchus",
+  "view_type": "histological_section",
+  "hemisphere_relation": "not assigned",
+  "linked_main_map": "",
+  "relationship_note": "Specimen linkage to the main reconstructions is not established by the figure caption.",
+  "outline_label": null,
+  "outline_scope": "none",
+  "scale_length_mm": 2,
+  "scale_endpoints_px": [
+    [
+      230,
+      344
+    ],
+    [
+      290,
+      344
+    ]
+  ],
+  "scale_note": "Own panel scale bar.",
+  "coordinate_system": "x right, y down in source.tif; manual vertices referenced to published lines/dots",
+  "supersample": 3,
+  "rois": [
+    {
+      "label": "MT",
+      "polygons": [
+        [
+          [
+            265.0,
+            224.0
+          ],
+          [
+            284.0,
+            209.0
+          ],
+          [
+            306.0,
+            200.0
+          ],
+          [
+            332.0,
+            194.0
+          ],
+          [
+            355.0,
+            195.0
+          ],
+          [
+            375.0,
+            200.0
+          ],
+          [
+            390.0,
+            210.0
+          ],
+          [
+            396.0,
+            223.0
+          ],
+          [
+            392.0,
+            239.0
+          ],
+          [
+            381.0,
+            257.0
+          ],
+          [
+            364.0,
+            272.0
+          ],
+          [
+            345.0,
+            283.0
+          ],
+          [
+            324.0,
+            290.0
+          ],
+          [
+            304.0,
+            291.0
+          ],
+          [
+            285.0,
+            284.0
+          ],
+          [
+            271.0,
+            273.0
+          ],
+          [
+            261.0,
+            258.0
+          ],
+          [
+            258.0,
+            241.0
+          ]
+        ]
+      ],
+      "extent": "approximate_complete",
+      "boundary_note": "MT solid boundary is obscured by bright tracer at left; provisional anatomical envelope interpolated."
+    },
+    {
+      "label": "DI",
+      "polygons": [
+        [
+          [
+            237.0,
+            26.0
+          ],
+          [
+            251.0,
+            36.0
+          ],
+          [
+            265.0,
+            51.0
+          ],
+          [
+            273.0,
+            69.0
+          ],
+          [
+            271.0,
+            84.0
+          ],
+          [
+            261.0,
+            97.0
+          ],
+          [
+            243.0,
+            110.0
+          ],
+          [
+            222.0,
+            124.0
+          ],
+          [
+            200.0,
+            138.0
+          ],
+          [
+            180.0,
+            155.0
+          ],
+          [
+            158.0,
+            182.0
+          ],
+          [
+            151.0,
+            145.0
+          ],
+          [
+            169.0,
+            120.0
+          ],
+          [
+            195.0,
+            83.0
+          ],
+          [
+            217.0,
+            55.0
+          ],
+          [
+            237.0,
+            39.0
+          ]
+        ]
+      ],
+      "extent": "approximate_complete",
+      "boundary_note": "Outer DI line traced; interrupted DM/DI separator is extrapolated to the V2 border, so the complete envelope is approximate."
+    },
+    {
+      "label": "DM",
+      "polygons": [
+        [
+          [
+            171.0,
+            29.0
+          ],
+          [
+            238.0,
+            25.0
+          ],
+          [
+            237.0,
+            39.0
+          ],
+          [
+            217.0,
+            55.0
+          ],
+          [
+            195.0,
+            83.0
+          ],
+          [
+            169.0,
+            120.0
+          ],
+          [
+            151.0,
+            145.0
+          ],
+          [
+            149.0,
+            116.0
+          ],
+          [
+            152.0,
+            89.0
+          ],
+          [
+            159.0,
+            61.0
+          ]
+        ]
+      ],
+      "extent": "partial",
+      "boundary_note": "Visible DM fragment clipped at top. The interrupted DM/DI line is extrapolated to the adjoining V2 border; low-confidence closure."
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "17",
+      "reason": "Open field boundaries or obscured border; no full-field area inferred from tracer."
+    },
+    {
+      "label": "18",
+      "reason": "Open field boundaries or obscured border; no full-field area inferred from tracer."
+    },
+    {
+      "label": "DL",
+      "reason": "Open field boundaries or obscured border; no full-field area inferred from tracer."
+    },
+    {
+      "label": "MST",
+      "reason": "Open field boundaries or obscured border; no full-field area inferred from tracer."
+    },
+    {
+      "label": "FST",
+      "reason": "Open field boundaries or obscured border; no full-field area inferred from tracer."
+    },
+    {
+      "label": "PP",
+      "reason": "Open field boundaries or obscured border; no full-field area inferred from tracer."
+    }
+  ],
+  "include_in_whole_hemisphere_summary": false,
+  "specimen_link_status": "unlinked_or_summary"
+}

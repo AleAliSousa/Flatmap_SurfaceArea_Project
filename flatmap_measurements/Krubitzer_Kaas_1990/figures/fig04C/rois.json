@@ -1,0 +1,209 @@
+{
+  "map_id": "fig04C",
+  "figure": 4,
+  "panel": "C",
+  "pdf_page": 7,
+  "printed_page": 171,
+  "specimen": "not reported",
+  "species_as_reported": "Aotus trivirgatus",
+  "view_type": "histological_section",
+  "hemisphere_relation": "not assigned",
+  "linked_main_map": "",
+  "relationship_note": "Specimen linkage to the main reconstructions is not established by the figure caption.",
+  "outline_label": null,
+  "outline_scope": "none",
+  "scale_length_mm": 2,
+  "scale_endpoints_px": [
+    [
+      334,
+      454
+    ],
+    [
+      400,
+      454
+    ]
+  ],
+  "scale_note": "Own panel scale bar.",
+  "coordinate_system": "x right, y down in source.tif; manual vertices referenced to published lines/dots",
+  "supersample": 3,
+  "rois": [
+    {
+      "label": "DM",
+      "polygons": [
+        [
+          [
+            119.0,
+            181.0
+          ],
+          [
+            144.0,
+            160.0
+          ],
+          [
+            168.0,
+            144.0
+          ],
+          [
+            193.0,
+            129.0
+          ],
+          [
+            218.0,
+            117.0
+          ],
+          [
+            244.0,
+            123.0
+          ],
+          [
+            265.0,
+            135.0
+          ],
+          [
+            284.0,
+            157.0
+          ],
+          [
+            300.0,
+            185.0
+          ],
+          [
+            301.0,
+            224.0
+          ],
+          [
+            271.0,
+            229.0
+          ],
+          [
+            216.0,
+            247.0
+          ],
+          [
+            186.0,
+            253.0
+          ],
+          [
+            153.0,
+            251.0
+          ],
+          [
+            129.0,
+            237.0
+          ],
+          [
+            115.0,
+            209.0
+          ]
+        ]
+      ],
+      "extent": "complete",
+      "boundary_note": "Architectonic boundary dots interpolated manually; staining, injection punctures and overprinted labels remain inside the field. Specimen identity is not stated in the caption. Lower boundary near the lateral sulcus is faint; provisional closure."
+    },
+    {
+      "label": "DI",
+      "polygons": [
+        [
+          [
+            129.0,
+            237.0
+          ],
+          [
+            153.0,
+            251.0
+          ],
+          [
+            186.0,
+            253.0
+          ],
+          [
+            216.0,
+            247.0
+          ],
+          [
+            241.0,
+            265.0
+          ],
+          [
+            266.0,
+            286.0
+          ],
+          [
+            291.0,
+            311.0
+          ],
+          [
+            310.0,
+            335.0
+          ],
+          [
+            318.0,
+            359.0
+          ],
+          [
+            310.0,
+            383.0
+          ],
+          [
+            288.0,
+            406.0
+          ],
+          [
+            264.0,
+            414.0
+          ],
+          [
+            238.0,
+            417.0
+          ],
+          [
+            211.0,
+            422.0
+          ],
+          [
+            188.0,
+            412.0
+          ],
+          [
+            170.0,
+            396.0
+          ],
+          [
+            150.0,
+            397.0
+          ],
+          [
+            123.0,
+            396.0
+          ],
+          [
+            129.0,
+            353.0
+          ],
+          [
+            127.0,
+            328.0
+          ],
+          [
+            132.0,
+            297.0
+          ],
+          [
+            125.0,
+            266.0
+          ]
+        ]
+      ],
+      "extent": "complete",
+      "boundary_note": "Architectonic boundary dots interpolated manually; staining, injection punctures and overprinted labels remain inside the field. Specimen identity is not stated in the caption. Faint boundary dots and sulcal interruption make this an approximate field outline."
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "18",
+      "reason": "No complete boundary in the visible panel; open or cropped territory cannot be interpreted as a complete field."
+    }
+  ],
+  "include_in_whole_hemisphere_summary": false,
+  "specimen_link_status": "unlinked_or_summary"
+}
