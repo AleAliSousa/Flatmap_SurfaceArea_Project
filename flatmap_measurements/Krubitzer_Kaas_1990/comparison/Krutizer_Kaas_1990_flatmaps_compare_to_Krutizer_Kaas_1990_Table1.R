@@ -26,11 +26,19 @@
 # Base R only. Rerun after editing measurements.csv; nothing is cached.
 
 ## ---- 0. Paths ---------------------------------------------------------------
-dataset_dir <- paste0(
-  "/Users/crossmodal/Library/CloudStorage/OneDrive-AllenInstitute/",
-  "Evo-M1-Trait-Data-restricted/unpublished_data/____Unpublished__ProjectKaskan/",
-  "flatmap_measurements/Krubitzer_Kaas_1990"
-)
+# Resolve the dataset relative to this script, for Rscript and source()/RStudio.
+source_files <- vapply(sys.frames(), function(frame) {
+  if (is.null(frame$ofile)) "" else as.character(frame$ofile)
+}, character(1))
+source_files <- source_files[nzchar(source_files)]
+if (length(source_files)) {
+  script_path <- tail(source_files, 1L)
+} else {
+  file_arg <- grep("^--file=", commandArgs(trailingOnly = FALSE), value = TRUE)
+  if (!length(file_arg)) stop("Run this saved script with source() or Rscript.")
+  script_path <- sub("^--file=", "", file_arg[1])
+}
+dataset_dir <- dirname(dirname(normalizePath(script_path, mustWork = TRUE)))
 measurements_path <- file.path(dataset_dir, "data", "measurements.csv")
 output_dir <- file.path(dataset_dir, "comparison", "output")
 if (!file.exists(measurements_path)) stop("measurements.csv not found: ", measurements_path)

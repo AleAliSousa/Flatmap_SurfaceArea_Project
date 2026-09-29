@@ -1,0 +1,5 @@
+map_id	roi_index	label	area_pixels	area_calibrated	unit	original_fractional_pixels	pixel_difference_percent	roi_roundtrip_pixels_equal
+fig05	0	Neocortex outline	422845	1305.077160493827	mm^2	422506.1875	0.0801911332955331	true
+fig05	1	MT	8651	26.700617283950614	mm^2	8636.6875	0.1657174698054086	true
+fig05	2	FST	7201	22.225308641975307	mm^2	7176.6875	0.3387704982277687	true
+fig05	3	AI + R	5965	18.41049382716049	mm^2	5955.6875	0.1563631402755769	true

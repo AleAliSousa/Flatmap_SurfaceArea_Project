@@ -1,0 +1,16 @@
+{
+  "processed_views": 1,
+  "measured_fields": 3,
+  "unmeasured_fields": 18,
+  "overlaps": [
+    {
+      "map_id": "fig05",
+      "field_a": "MT",
+      "field_b": "FST",
+      "overlap_pixels": 21
+    }
+  ],
+  "native_imagej_roundtrip": "passed",
+  "anatomical_review": "provisional; pending user review",
+  "reference_comparison": "not_run; core workflow does not require reference data"
+}

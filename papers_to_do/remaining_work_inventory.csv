@@ -1,0 +1,21 @@
+source_file,paper_status,numbered_figures,figures_remaining,remaining_figure_count,required_next_step,notes
+Cortical Image References/Beck-1998-Thalamic connections.pdf,not_started,1-14,1-14,14,caption-screen then assess geometry,No flatmap_measurements dataset exists.
+Cortical Image References/Huffman-1999-Organization of soma.pdf,not_started,1-16,1-16,16,caption-screen then assess geometry,No flatmap_measurements dataset exists.
+Cortical Image References/Kaas-2011-The Organization and Evolution of Do.pdf,not_started,1-6,1-6,6,caption-screen then assess geometry,No flatmap_measurements dataset exists.
+Cortical Image References/Krubitzer-1995-The organization of.pdf,not_started,1-7,1-7,7,caption-screen then assess geometry,No flatmap_measurements dataset exists.
+Cortical Image References/Krubitzer-1997-Organization of sens.pdf,not_started,1-9,1-9,9,caption-screen then assess geometry,No flatmap_measurements dataset exists.
+Cortical Image References/Krubitzer-1998-What can monotremes.pdf,not_started,1-15,1-15,15,caption-screen then assess geometry,No flatmap_measurements dataset exists.
+Cortical Image References/Manger-2002-Areal Organization of the Posterio.pdf,not_started,1-14,1-14,14,caption-screen then assess geometry,No flatmap_measurements dataset exists.
+Cortical Image References/Slutsky-2000-Multiple somatosenso.pdf,not_started,1-14,1-14,14,caption-screen then assess geometry,No flatmap_measurements dataset exists.
+Cortical Image References/beck_etal_1996.pdf,not_started,1-18,1-18,18,caption-screen then assess geometry,No flatmap_measurements dataset exists.
+Cortical Image References/felleman_vanessen_1991.pdf,not_started,1-3,1-3,3,caption-screen then assess geometry,No flatmap_measurements dataset exists.
+Cortical Image References/krubitzer_etal_1993.pdf,not_started,1-22,1-22,22,caption-screen then assess geometry,No flatmap_measurements dataset exists.
+Cortical Image References/krubitzer_etal_1995.pdf,not_started,1-30,1-30,30,caption-screen then assess geometry,No flatmap_measurements dataset exists.
+Cortical Image References/krubitzer_kaas_1993.pdf,started_pilot,1-21,"1-4; 6-21",20,inspect and digitize eligible views,Figure 5 (owl monkey 88-32) is pilot-digitized; see flatmap_measurements/Krubitzer_Kaas_1993/documentation/figure_inventory.csv for all figure-specific captions/specimen labels.
+Cortical Image References/luethke_etal_1988.pdf,not_started,1-19,1-19,19,caption-screen then assess geometry,No flatmap_measurements dataset exists.
+Cortical Image References/luethke_etal_1989.pdf,not_started,1-17,1-17,17,caption-screen then assess geometry,No flatmap_measurements dataset exists.
+Cortical Image References/lyon_etal_1998.pdf,not_started,1-15,1-15,15,caption-screen then assess geometry,No flatmap_measurements dataset exists.
+Cortical Image References/preuss_etal_1993.pdf,not_started,1-7,1-7,7,caption-screen then assess geometry,No flatmap_measurements dataset exists.
+Cortical Image References/preuss_kaas_1996.pdf,not_started,1-3,1-3,3,caption-screen then assess geometry,No flatmap_measurements dataset exists.
+Cortical Image References/vanessen_drury_1997.pdf,not_started,1-13,1-13,13,caption-screen then assess geometry,No flatmap_measurements dataset exists.
+Cortical Image References/zilles_1985.pdf,not_started,1-76,1-76,76,caption-screen then assess geometry,No flatmap_measurements dataset exists.

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Flatmap Surface Area"
+  short_description: "Measure flatmaps with editable ImageJ tracings"
+  default_prompt: "Use $flatmap-surface-area to process the next paper in Flatmap_SurfaceArea_Project, preserving missing values and adding reference comparison only when data are available."

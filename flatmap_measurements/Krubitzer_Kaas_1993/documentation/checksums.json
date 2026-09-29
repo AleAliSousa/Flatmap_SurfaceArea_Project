@@ -1,0 +1,22 @@
+{
+  "source/paper.pdf": "6ff63888e2d25090d504b99e7459c1381986472e67d2c8a0e14082a6d687ef99",
+  "source/manifest.json": "dc28d6f0647b062123ab2ce8ba44834cb8a2dff4cd07d775fd99bc134e86ce37",
+  "figures/fig05/Masks.tif.zip": "ae8d5851f4ea5c223b20dd71990c088ec422a2bd38527e35d241750adf389ff8",
+  "figures/fig05/RoiSet.zip": "42424b66b6499c011041f008c1c9f8052f69e3d5d04dd157615b927a2ae33381",
+  "figures/fig05/rois.json": "d7f7a2d992b5f5f9a53219c320ee86cd6a24dbb566aafe05563875d2c442f5db",
+  "figures/fig05/source.tif": "08590ac69d6e4d5a65815ba68c11b072abf0c120a55822fc973c32a4bae01cfb",
+  "figures/fig05/source_preview.png": "e58699d0e2f1ffb355638a49f87c1097b563ebd3e65fe4917db0d89da6c6c726",
+  "figures/fig05/tracing.png": "55f71d45d8f935f4a3ef5afd6b3902657045a9f18011c0afdf3cb8566eda1d82",
+  "data/view_index.csv": "10e1048d58affd4b7676550d1d6967454cd65c58634ffef82edb65516418c3be",
+  "data/hemisphere_summary.csv": "88516f9b767c886b4495fb5e2a9e11dd2441077dd6b6ce5a73f69c6bbd6fe22c",
+  "data/measurements.csv": "39e69a33e0033e976f5ba3bf964608484d24d7afa64ef7972213ae3c41f4ab97",
+  "scripts/measure_flatmaps.py": "39d1afe2e265186c0ccb73210c729c2cf5dde74bc06114bac77ef0aa20a09e2d",
+  "scripts/ImageJIO.java": "83011f530f0329d902e05de1ed5b301119565a24567f76fd14061ee95e044760",
+  "scripts/summarize_flatmaps.R": "5857bea8db767922524fbff5a2c2d5b49d24c5f77840c70b332ebcb33fc3a88b",
+  "review/gallery.html": "bae5afd4e332cc65776e88891a8505fde6aec4572c7df53ecfd9e95d27606158",
+  "documentation/imagej_measurements.tsv": "22c2834b94d5d78818d7e71195e53b1a5cd48f939c16983d1be658790daf572d",
+  "documentation/methods.md": "1c7c8e301158d1b6d5770a230948a6c282848dc4f18c73eacb5fd7e424d0b1bd",
+  "documentation/validation.json": "3390a77b32dbea4b7ac335535f1992ac0b2fd0373c718fb04216b936e551c4ad",
+  "documentation/figure_inventory.csv": "8e3dc4493de4b83d35053c040d7073ed9a68c95d31440cdc90ccb0721069c80b",
+  "documentation/imagej_runtime.txt": "ff55cc75afecbbba10750783606a65d47dde557ad0b602712878bb4db31ac8a3"
+}
