@@ -74,11 +74,177 @@ def resolve_imagej(java, ij_jar):
         jars += [p for p in [Path('/Applications/ImageJ.app/Contents/Java/ij.jar')] if p.is_file()]
         ij_jar = str(jars[0]) if jars else None
     if not java or not ij_jar or not Path(ij_jar).is_file():
-        raise RuntimeError('Native ImageJ export needs Java 17+ and an ij.jar; pass --java and --ij-jar')
+        raise RuntimeError('Native ImageJ export needs Java 17+ and an ij.jar; pass --java and --ij-jar, '
+                           'or --skip-imagej to write ImageJ-compatible files with Python (roifile/tifffile)')
     return java, ij_jar
 
 
-def rebuild(root, java=None, ij_jar=None):
+# ---- Python fallback for environments without Java/ImageJ ---------------------------------
+# Writes the same files as ImageJIO.java (calibrated TIFF with overlay, RoiSet.zip, Masks.tif.zip)
+# using roifile and tifffile. ROIs are pixel-edge traced polygons of the binary masks, like
+# ImageJ's ThresholdToSelection. Pixel equality is checked with a centre-sampling even-odd
+# rasterizer; the native ImageJ read-back itself is recorded as not run.
+
+def trace_mask_edges(binary):
+    """Return closed loops of integer pixel-corner vertices bounding a binary mask."""
+    b = np.pad(np.asarray(binary, dtype=bool), 1)
+    h, w = b.shape
+    edges = {}  # start vertex -> list of end vertices (directed, region on the right)
+    def add(a, c):
+        edges.setdefault(a, []).append(c)
+    ys, xs = np.nonzero(b)
+    for y, x in zip(ys.tolist(), xs.tolist()):
+        if not b[y-1, x]: add((x, y), (x+1, y))          # top edge, moving right
+        if not b[y, x+1]: add((x+1, y), (x+1, y+1))      # right edge, moving down
+        if not b[y+1, x]: add((x+1, y+1), (x, y+1))      # bottom edge, moving left
+        if not b[y, x-1]: add((x, y+1), (x, y))          # left edge, moving up
+    loops = []
+    for start in list(edges):
+        while edges.get(start):
+            loop = [start]
+            current = edges[start].pop()
+            while current != start:
+                loop.append(current)
+                current = edges[current].pop()
+            simplified = []
+            n = len(loop)
+            for i in range(n):
+                p, q, r = loop[i-1], loop[i], loop[(i+1) % n]
+                if (q[0]-p[0])*(r[1]-q[1]) != (q[1]-p[1])*(r[0]-q[0]):
+                    simplified.append((q[0]-1, q[1]-1))  # remove padding offset
+            loops.append(simplified)
+    return loops
+
+
+def keyhole_polygon(loops):
+    """Join several loops into one even-odd polygon with zero-width grid-aligned bridges."""
+    loops = sorted(loops, key=len, reverse=True)
+    poly = list(loops[0])
+    for loop in loops[1:]:
+        a, u = poly[0], loop[0]
+        corner = (u[0], a[1])
+        bridge = [corner] if corner not in (a, u) else []
+        poly = [a] + bridge + list(loop) + [u] + bridge[::-1] + [a] + poly[1:]
+    return poly
+
+
+def rasterize_even_odd(points, size):
+    """Fill pixels whose centres are inside the polygon (even-odd rule)."""
+    w, h = size
+    p = np.asarray(points, dtype=np.float64)
+    q = np.roll(p, -1, axis=0)
+    mask = np.zeros((h, w), dtype=bool)
+    rows = {}
+    for (x0, y0), (x1, y1) in zip(p, q):
+        if y0 == y1:
+            continue
+        lo, hi = (y0, y1) if y0 < y1 else (y1, y0)
+        j0, j1 = math.ceil(lo - .5), math.ceil(hi - .5)
+        for j in range(max(j0, 0), min(j1, h)):
+            yc = j + .5
+            rows.setdefault(j, []).append(x0 + (yc - y0) * (x1 - x0) / (y1 - y0))
+    for j, xs in rows.items():
+        xs.sort()
+        for xa, xb in zip(xs[0::2], xs[1::2]):
+            i0, i1 = math.ceil(xa - .5), math.ceil(xb - .5)
+            if i1 > i0:
+                mask[j, max(i0, 0):min(i1, w)] = True
+    return mask
+
+
+def python_exports(jobs, figures, documentation):
+    import roifile
+    import tifffile
+    import zipfile
+    import io
+    header, rows_all = jobs[0], jobs[1:]
+    groups = {}
+    for r in rows_all:
+        groups.setdefault(r[0], []).append(r)
+    report = ['map_id\troi_index\tlabel\tarea_pixels\tarea_calibrated\tunit\toriginal_fractional_pixels\tpixel_difference_percent\troi_roundtrip_pixels_equal']
+    total = 0
+    for fig, rows in groups.items():
+        folder = figures / fig
+        pixel_size, unit = float(rows[0][5]), rows[0][6]
+        source = np.asarray(Image.open(rows[0][3]).convert('RGB'))
+        h, w = source.shape[:2]
+        info = ('Cortical flatmap view ' + fig + '. Provisional manual traces. '
+                + ('No scale line: pixel units only.' if unit == 'pixel' else 'Calibration provenance is in rois.json. No shrinkage correction.')
+                + ' Overlay and RoiSet.zip contain the same editable selections; do not import both.'
+                + ' Files written by the Python fallback exporter (roifile/tifffile); native ImageJ read-back pending.')
+        resolution = (1/pixel_size, 1/pixel_size)
+        metadata = {'unit': unit if unit != 'pixel' else 'pixel', 'Info': info}
+        if int(rows[0][1]) < 0:
+            tifffile.imwrite(folder/'source.tif', source, imagej=True, resolution=resolution, metadata=metadata, photometric='rgb')
+            print('View ' + fig + ': calibrated source retained; no defensible field ROI (python exporter)')
+            continue
+        rois, mask_stack, labels = [], [], []
+        for row in rows:
+            index, label = int(row[1]), row[2]
+            mask = np.asarray(Image.open(row[4]).convert('L')) == 255
+            loops = trace_mask_edges(mask)
+            if not loops:
+                raise ValueError('Empty mask: ' + fig + ' ' + label)
+            points = keyhole_polygon(loops)
+            name = f'{index:02d} {label}'
+            roi = roifile.ImagejRoi.frompoints(np.asarray(points, dtype=np.int32), name=name)
+            roi.right, roi.bottom = roi.right - 1, roi.bottom - 1  # ImageJ bounds convention (right = max x)
+            roi.roitype = roifile.ROI_TYPE.TRACED
+            roi.options = roifile.ROI_OPTIONS(8192)  # SCALE_STROKE_WIDTH, as written by ImageJ 1.54
+            roi.stroke_width = 1
+            rgb = bytes.fromhex(row[8].lstrip('#'))
+            roi.stroke_color = b'\xff' + rgb
+            roi.position = 0
+            decoded = roifile.ImagejRoi.frombytes(roi.tobytes())
+            coords = decoded.coordinates()
+            refill = rasterize_even_odd(coords, (w, h))
+            equal = bool(np.array_equal(refill, mask))
+            if not equal:
+                raise ValueError('Traced ROI does not reproduce its mask: ' + fig + ' ' + name)
+            pixels = int(mask.sum())
+            area = pixels * pixel_size * pixel_size
+            original = float(row[7])
+            report.append('\t'.join([fig, row[1], label, str(pixels), repr(area), 'mm^2' if unit == 'mm' else 'pixel^2',
+                                     repr(original), repr(100*(pixels-original)/original), 'true']))
+            rois.append(roi)
+            mask_stack.append((mask.astype(np.uint8) * 255))
+            labels.append(name)
+            total += 1
+        roifile.roiwrite(folder/'RoiSet.zip', rois, mode='w')
+        overlay_bytes = [r.tobytes() for r in rois]
+        tifffile.imwrite(folder/'source.tif', source, imagej=True, resolution=resolution,
+                         metadata=dict(metadata, Overlays=overlay_bytes), photometric='rgb')
+        buffer = io.BytesIO()
+        tifffile.imwrite(buffer, np.stack(mask_stack), imagej=True, resolution=resolution,
+                         metadata={'unit': metadata['unit'], 'Labels': labels, 'axes': 'ZYX'})
+        with zipfile.ZipFile(folder/'Masks.tif.zip', 'w', zipfile.ZIP_DEFLATED) as zf:
+            zf.writestr('Masks.tif', buffer.getvalue())
+        # read back
+        reread = roifile.roiread(folder/'RoiSet.zip')
+        if len(reread) != len(rois) or any(a.name != b.name for a, b in zip(reread, rois)):
+            raise ValueError('RoiSet.zip read-back mismatch: ' + fig)
+        with tifffile.TiffFile(folder/'source.tif') as t:
+            page = t.pages[0]
+            if not np.array_equal(page.asarray(), source):
+                raise ValueError('Source TIFF pixels changed: ' + fig)
+            xres = page.tags['XResolution'].value
+            if abs(xres[0]/xres[1] - 1/pixel_size) > 1e-6 * (1/pixel_size):
+                raise ValueError('TIFF calibration mismatch: ' + fig)
+            if (t.imagej_metadata or {}).get('unit') != metadata['unit'] or len((t.imagej_metadata or {}).get('Overlays', [])) != len(rois):
+                raise ValueError('TIFF ImageJ metadata mismatch: ' + fig)
+        with zipfile.ZipFile(folder/'Masks.tif.zip') as zf:
+            with tifffile.TiffFile(io.BytesIO(zf.read('Masks.tif'))) as t:
+                stack = t.asarray()
+                if stack.shape[0] != len(rois) or not np.array_equal(stack, np.stack(mask_stack)):
+                    raise ValueError('Mask stack read-back mismatch: ' + fig)
+        print('Figure ' + fig + ': ' + str(len(rows)) + ' selections written by Python exporter; traced ROIs reproduce masks')
+    (documentation/'imagej_measurements.tsv').write_text('\n'.join(report) + '\n')
+    (documentation/'imagej_runtime.txt').write_text(
+        'Python fallback exporter (roifile ' + roifile.__version__ + '; tifffile ' + tifffile.__version__ +
+        '); native ImageJ read-back not run; ' + str(total) + ' traced ROIs reproduce their masks in Python\n')
+
+
+def rebuild(root, java=None, ij_jar=None, skip_imagej=False):
     manifest = json.loads((root/'source/manifest.json').read_text())
     pdf_path = root/'source/paper.pdf'
     if digest(pdf_path) != manifest['source_sha256']:
@@ -86,7 +252,8 @@ def rebuild(root, java=None, ij_jar=None):
     definitions = sorted((root/'figures').glob('*/rois.json'))
     if not definitions:
         raise ValueError('No saved rois.json definitions; inspect and digitize a view first')
-    java, ij_jar = resolve_imagej(java, ij_jar)
+    if not skip_imagej:
+        java, ij_jar = resolve_imagej(java, ij_jar)
     for name in ['data', 'documentation', 'review']:
         (root/name).mkdir(exist_ok=True)
     pdf = pdfium.PdfDocument(pdf_path)
@@ -213,16 +380,22 @@ def rebuild(root, java=None, ij_jar=None):
         job_path = tmp/'jobs.tsv'
         with job_path.open('w', newline='') as out:
             csv.writer(out, delimiter='\t').writerows(jobs)
-        subprocess.run([str(java), '-Djava.awt.headless=true', '--class-path', str(ij_jar),
-                        str(root/'scripts/ImageJIO.java'), str(job_path), str(root/'figures'),
-                        str(root/'documentation')], check=True)
+        if skip_imagej:
+            python_exports(jobs, root/'figures', root/'documentation')
+        else:
+            subprocess.run([str(java), '-Djava.awt.headless=true', '--class-path', str(ij_jar),
+                            str(root/'scripts/ImageJIO.java'), str(job_path), str(root/'figures'),
+                            str(root/'documentation')], check=True)
     write_csv(root/'data/measurements.csv', rows)
     write_csv(root/'data/view_index.csv', views)
     write_csv(root/'data/hemisphere_summary.csv', hemispheres,
               ['map_id','species','specimen','figure','neocortex_pixels','neocortex_mm2'])
     validation = dict(processed_views=len(views), measured_fields=sum(v['measured_fields'] for v in views),
         unmeasured_fields=sum(v['unmeasured_fields'] for v in views), overlaps=overlaps,
-        native_imagej_roundtrip='passed', anatomical_review='provisional; pending user review',
+        native_imagej_roundtrip=('not_run: ImageJ-compatible files written by the Python fallback exporter '
+                                 '(roifile/tifffile); rerun --rebuild with Java 17+ and ImageJ/Fiji for native verification'
+                                 if skip_imagej else 'passed'),
+        anatomical_review='provisional; pending user review',
         reference_comparison='not_run; core workflow does not require reference data')
     (root/'documentation/validation.json').write_text(json.dumps(validation, indent=2)+'\n')
     page = '<!doctype html><meta charset="utf-8"><title>Flatmap tracing review</title><style>body{font:16px Arial;max-width:1400px;margin:32px auto;padding:20px;color:#18302e} .images{display:flex;gap:16px}.images img{width:49%;object-fit:contain}table{border-collapse:collapse}td,th{padding:8px;border-bottom:1px solid #ddd;text-align:left}section{margin-bottom:50px}</style><h1>Flatmap tracing review</h1><p>Source image, saved anatomical outlines and scale endpoints. Unfinished fields are NA.</p>' + ''.join(cards)
@@ -273,8 +446,11 @@ if __name__ == '__main__':
     action.add_argument('--verify', action='store_true')
     parser.add_argument('--java')
     parser.add_argument('--ij-jar')
+    parser.add_argument('--skip-imagej', action='store_true',
+                        help='no Java/ImageJ available: write ImageJ-compatible TIFF/ROI/mask files with '
+                             'roifile and tifffile and record the native read-back as not run')
     args = parser.parse_args()
     if args.verify:
         verify(args.paper_dir.resolve())
     else:
-        rebuild(args.paper_dir.resolve(), args.java, args.ij_jar)
+        rebuild(args.paper_dir.resolve(), args.java, args.ij_jar, args.skip_imagej)
