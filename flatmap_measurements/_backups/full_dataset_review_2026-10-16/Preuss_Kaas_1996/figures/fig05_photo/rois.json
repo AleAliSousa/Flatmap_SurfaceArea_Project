@@ -1,0 +1,74 @@
+{
+  "map_id": "fig05_photo",
+  "figure": 5,
+  "panel": "flattened cortical photomicrograph",
+  "pdf_page": 7,
+  "printed_page": 109,
+  "species": "Cheirogaleus medius",
+  "specimen": "single adult female",
+  "hemisphere": "left",
+  "view_type": "histological_detail",
+  "hemisphere_relation": "same hemisphere, different section/stain; not another animal",
+  "linked_main_map": null,
+  "repeat_of": "fig02_left",
+  "specimen_link_status": "caption_identified",
+  "relationship_note": "Repeated views do not represent additional animals. No cross-publication pooling; source labels preserved.",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 4,
+  "crop_xyxy": [
+    1180,
+    200,
+    2210,
+    1110
+  ],
+  "supersample": 4,
+  "scale_length_mm": 2,
+  "scale_endpoints_px": [
+    [
+      867.0,
+      702.0
+    ],
+    [
+      987.0,
+      702.0
+    ]
+  ],
+  "scale_note": "Own printed scale stroke; local measured endpoints. Endpoints refined against the complete local printed stroke at enlarged resolution.",
+  "scale_reference_map": null,
+  "outline": null,
+  "rois": [],
+  "unmeasured": [
+    {
+      "label": "V1",
+      "status": "not_measurable",
+      "reason": "No closed complete field perimeters are delineated; apparent stain transitions are diffuse. Field homologies are explicitly presumed in the caption. Retain NA rather than choosing an intensity threshold."
+    },
+    {
+      "label": "V2",
+      "status": "not_measurable",
+      "reason": "No closed complete field perimeters are delineated; apparent stain transitions are diffuse. Field homologies are explicitly presumed in the caption. Retain NA rather than choosing an intensity threshold."
+    },
+    {
+      "label": "MT (presumed)",
+      "status": "not_measurable",
+      "reason": "No closed complete field perimeters are delineated; apparent stain transitions are diffuse. Field homologies are explicitly presumed in the caption. Retain NA rather than choosing an intensity threshold."
+    },
+    {
+      "label": "Aud (auditory complex)",
+      "status": "not_measurable",
+      "reason": "No closed complete field perimeters are delineated; apparent stain transitions are diffuse. Field homologies are explicitly presumed in the caption. Retain NA rather than choosing an intensity threshold."
+    },
+    {
+      "label": "LMZ",
+      "status": "not_measurable",
+      "reason": "No closed complete field perimeters are delineated; apparent stain transitions are diffuse. Field homologies are explicitly presumed in the caption. Retain NA rather than choosing an intensity threshold."
+    },
+    {
+      "label": "IT",
+      "status": "not_measurable",
+      "reason": "No closed complete field perimeters are delineated; apparent stain transitions are diffuse. Field homologies are explicitly presumed in the caption. Retain NA rather than choosing an intensity threshold."
+    }
+  ],
+  "review_note": "No closed complete field perimeters are delineated; apparent stain transitions are diffuse. Field homologies are explicitly presumed in the caption. Retain NA rather than choosing an intensity threshold."
+}

@@ -1,3 +1,13 @@
+<!-- full-dataset-recheck-2026-10-16 -->
+# Krubitzer_Kaas_1990 · current recheck
+
+**354 field/component observations.** Rechecked the numbered-figure inventory and retained the prior accepted canonical geometry and calibration. Dense contours refined in the earlier precision audit were not smoothed again unnecessarily. Existing section/local-panel observations retain their source view types; a two-dimensional section or projected image does not establish an unfolded whole-field surface or an independent animal. Existing denominator eligibility and specimen-link limits are preserved.
+
+[Latest source review](review/full_dataset_audit.html) · [Recheck findings and limits](documentation/full_dataset_recheck.md) · [Current measurements](data/measurements.csv). Earlier notes below describe the previous processing state; their counts are superseded.
+
+<!-- earlier-processing-notes -->
+## Earlier processing notes
+
 # Krubitzer & Kaas (1990): cortical flatmap measurements
 
 56 saved views: the original 13 individual-case hemispheres plus 43 additional panels/drawings. Figure 20 is included like every other case. These are provisional manual digitizations requiring anatomical review.
@@ -71,3 +81,7 @@ python3 scripts/rebuild.py --zip ../Krubitzer_Kaas_1990.zip
 ```
 
 This avoids keeping a second full copy of the dataset inside itself. A pre-cleanup recovery archive is stored separately in the parent `_backups/` folder.
+
+[Contour precision audit: source toggles and area changes](review/precision_audit.html).
+
+Precision audit completed 15 October 2026. Earlier coarse contours were refined, all saved views received source review, and areas/native ImageJ outputs were rebuilt. Dotted, obscured and schematic boundaries retain explicit source limitations. See `documentation/precision_audit.md`.

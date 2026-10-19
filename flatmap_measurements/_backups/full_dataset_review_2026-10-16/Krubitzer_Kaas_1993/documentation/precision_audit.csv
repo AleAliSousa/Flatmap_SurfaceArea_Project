@@ -1,0 +1,93 @@
+paper,map_id,label,kind,status,source_limits
+Krubitzer_Kaas_1993,fig03,Drawn tissue outline,outline,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig03,MT,rois,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig03,MST,rois,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig03,FST,rois,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig03,FV,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1993,fig03,1,rois,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig03,2,rois,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig03,3b,rois,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig03,DM,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1993,fig03,VPP,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1993,fig03,17,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1993,fig03,SMA,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1993,fig03,AI + R,rois,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig05,Neocortex outline,outline,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig05,MT,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1993,fig05,FST,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1993,fig05,AI + R,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1993,fig06,Neocortex outline,outline,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig06,17,rois,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig06,DM,rois,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig06,MT,rois,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig06,FEF,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1993,fig06,MST,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1993,fig06,FST,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1993,fig06,VPP,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1993,fig06,FV,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1993,fig11A,DM,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1993,fig11B,DM,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1993,fig12A,DM,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1993,fig12A,VPP,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1993,fig13,Drawn tissue outline,outline,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig13,DM,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1993,fig13,VPP,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1993,fig13,MT,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1993,fig13,FST,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1993,fig13,AI + R,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1993,fig13,3b,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1993,fig13,3a,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1993,fig13,PV,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1993,fig13,SII,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1993,fig14,Neocortex outline,outline,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig14,MT,rois,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig14,FST,rois,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig14,AI,rois,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig14,SII,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1993,fig14,PV,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1993,fig14,3b,rois,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig14,17,rois,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig14,DM,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1993,fig15,Neocortex outline,outline,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig15,17,rois,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig15,18,rois,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig15,DM,rois,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig15,MT,rois,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig15,FST,rois,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig15,AI,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1993,fig15,SII,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1993,fig15,PV,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1993,fig15,FEF,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1993,fig15,FV,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1993,fig15,R,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1993,fig15,3b,rois,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig15,3a,rois,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig16,Neocortex outline,outline,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig16,DM,rois,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig16,MT,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1993,fig16,17,rois,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig17,Neocortex outline,outline,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig17,17,rois,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig17,18,rois,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig17,MST,rois,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig17,FST,rois,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig17,AI,rois,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig17,PV,rois,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig17,DM,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1993,fig17,SII,rois,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig17,3b,rois,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig17,VPP,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1993,fig17,MT,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1993,fig17,DL,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1993,fig18,Neocortex outline,outline,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig18,17,rois,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig18,MT,rois,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig18,DM,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1993,fig19,Drawn tissue outline,outline,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig19,DM,rois,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig19,MT,rois,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig19,17 + 18,rois,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig20,Drawn tissue outline,outline,retained_dense,Existing dense contour retained after source-image review. This is not anatomical certification.
+Krubitzer_Kaas_1993,fig20,DM,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1993,fig20,MT,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1993,fig20,17,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.

@@ -1,0 +1,8 @@
+map_id,figure,pdf_page,species,specimen,view_type,repeat_of,fields,complete_fields,partial_fields,unmeasured,audit_date,review
+fig02B,2,4,Echinops telfairi,95-22,case_reconstruction,fig03,6,6,0,,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig03,3,6,Echinops telfairi,95-22,case_flatmap,,2,2,0,PV/S2; R; RV; A,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig04,4,7,Echinops telfairi,95-22,repeated_somatotopic_map,fig03,2,2,0,R,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig05,5,8,Echinops telfairi,95-29,case_flatmap,,2,2,0,S1; PV/S2; R; RV,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig06,6,9,Echinops telfairi,95-29,repeated_somatotopic_map,fig05,2,2,0,R,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig07,7,10,Echinops telfairi,95-28,case_flatmap,,1,0,1,S1; PV/S2; R; RV; V; A,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig08,8,11,Echinops telfairi,95-22,histological_section,fig03,0,0,0,S1; A; V; R; RV; PV/S2,2026-10-16,source visually inspected; provisional anatomical interpretation

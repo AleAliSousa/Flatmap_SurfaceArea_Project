@@ -1,0 +1,54 @@
+{
+  "map_id": "fig03_photo",
+  "figure": 3,
+  "panel": "flattened cortical photomicrograph",
+  "pdf_page": 7,
+  "printed_page": 327,
+  "species": "Nycticebus coucang",
+  "specimen": "91-90",
+  "hemisphere": "left",
+  "view_type": "histological_detail",
+  "hemisphere_relation": "same hemisphere, different section/stain; not another animal",
+  "linked_main_map": null,
+  "repeat_of": null,
+  "specimen_link_status": "caption_identified",
+  "relationship_note": "Repeated views do not represent additional animals. No cross-publication pooling; source labels preserved.",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 4,
+  "crop_xyxy": [
+    1140,
+    220,
+    2200,
+    1780
+  ],
+  "supersample": 4,
+  "scale_length_mm": 2,
+  "scale_endpoints_px": [
+    [
+      15.0,
+      1515.0
+    ],
+    [
+      206.0,
+      1515.0
+    ]
+  ],
+  "scale_note": "Own printed scale stroke; local measured endpoints. Endpoints refined against the complete local printed stroke at enlarged resolution.",
+  "scale_reference_map": null,
+  "outline": null,
+  "rois": [],
+  "unmeasured": [
+    {
+      "label": "V1",
+      "status": "not_measurable",
+      "reason": "Local flattened section: field extents run beyond the photographed window. Blobs and arrowheads are not complete areal envelopes."
+    },
+    {
+      "label": "V2",
+      "status": "not_measurable",
+      "reason": "Local flattened section: field extents run beyond the photographed window. Blobs and arrowheads are not complete areal envelopes."
+    }
+  ],
+  "review_note": "Local flattened section: field extents run beyond the photographed window. Blobs and arrowheads are not complete areal envelopes."
+}

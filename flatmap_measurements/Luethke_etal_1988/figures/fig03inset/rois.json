@@ -1,0 +1,369 @@
+{
+  "map_id": "fig03inset",
+  "figure": 3,
+  "panel": null,
+  "pdf_page": 5,
+  "printed_page": 185,
+  "species": "Sciurus carolinensis",
+  "specimen": "85-90",
+  "hemisphere": "not assigned",
+  "view_type": "physiological_inset",
+  "hemisphere_relation": "same displayed cortical map as figure 3",
+  "linked_main_map": "fig03",
+  "repeat_of": "fig03",
+  "specimen_link_status": "caption_identified",
+  "relationship_note": "Repeated views do not represent additional animals. No cross-publication pooling; source labels preserved.",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 4,
+  "crop_xyxy": [
+    1530,
+    430,
+    2220,
+    1220
+  ],
+  "supersample": 4,
+  "scale_length_mm": 1,
+  "scale_endpoints_px": [
+    [
+      42,
+      654
+    ],
+    [
+      131,
+      654
+    ]
+  ],
+  "scale_note": "Own printed scale stroke; local measured endpoints. Endpoints checked on the complete printed stroke, and refined to its visible dark horizontal extent.",
+  "scale_reference_map": null,
+  "outline": null,
+  "rois": [
+    {
+      "label": "A-I",
+      "polygons": [
+        [
+          [
+            337.2199618304462,
+            296.85351301335606
+          ],
+          [
+            343.5203206293729,
+            291.9593941739692
+          ],
+          [
+            361.9674457406144,
+            282.0662523083075
+          ],
+          [
+            370.37249281930025,
+            276.2161986879091
+          ],
+          [
+            372.968485719011,
+            274.9816419367352
+          ],
+          [
+            390.94473920225477,
+            268.91980763160075
+          ],
+          [
+            396.08851533110743,
+            266.47105525868693
+          ],
+          [
+            405.307835090956,
+            263.67915816994497
+          ],
+          [
+            428.9557215957835,
+            259.86881808380446
+          ],
+          [
+            434.92154104272265,
+            259.58320994863914
+          ],
+          [
+            465.29999342650535,
+            265.66036541633474
+          ],
+          [
+            477.8702657439326,
+            268.7684964878322
+          ],
+          [
+            482.5745135153136,
+            269.36473044289016
+          ],
+          [
+            495.8511948344512,
+            273.42944054295145
+          ],
+          [
+            506.8940342311687,
+            278.88769697895145
+          ],
+          [
+            521.3452753177183,
+            287.9546142127824
+          ],
+          [
+            535.229115701716,
+            295.00377235000065
+          ],
+          [
+            537.2497358836575,
+            296.8156404259589
+          ],
+          [
+            542.2955449078917,
+            303.95244677489876
+          ],
+          [
+            547.5499542923419,
+            306.17295502013457
+          ],
+          [
+            549.7256621149002,
+            307.8877726825532
+          ],
+          [
+            554.7139918025371,
+            316.39883865556044
+          ],
+          [
+            561.4470862834396,
+            332.39113193226336
+          ],
+          [
+            562.7831265097388,
+            337.1891289587333
+          ],
+          [
+            569.3869183099383,
+            378.3204967527408
+          ],
+          [
+            570.8503079978454,
+            416.26143814624794
+          ],
+          [
+            568.4513996001656,
+            466.9119728575559
+          ],
+          [
+            567.6276708543388,
+            476.4928171230298
+          ],
+          [
+            565.205981322799,
+            489.21517491175456
+          ],
+          [
+            564.5791878894884,
+            496.8497280009878
+          ],
+          [
+            561.8474719336884,
+            507.1942481796744
+          ],
+          [
+            555.4563390443021,
+            523.5575456568114
+          ],
+          [
+            551.6486422926502,
+            529.3879005766206
+          ],
+          [
+            545.131211413874,
+            535.5722467503291
+          ],
+          [
+            542.0596392690999,
+            538.0370869471004
+          ],
+          [
+            539.5234285920485,
+            539.2167190472584
+          ],
+          [
+            534.9882651208321,
+            540.0939245798202
+          ],
+          [
+            530.1646591785837,
+            539.9793428754966
+          ],
+          [
+            516.550263499277,
+            537.1111909373782
+          ],
+          [
+            504.43793659026693,
+            531.6134923866346
+          ],
+          [
+            496.32769207202057,
+            526.3747367289849
+          ],
+          [
+            487.41027788876863,
+            519.3548289735054
+          ],
+          [
+            476.39859691141726,
+            509.07895828952024
+          ],
+          [
+            450.783326901269,
+            486.77611832200034
+          ],
+          [
+            446.95712917991443,
+            483.9825553790047
+          ],
+          [
+            429.8138754225165,
+            465.89468005370935
+          ],
+          [
+            424.64543618214657,
+            461.65519427242435
+          ],
+          [
+            419.2766327714738,
+            455.8462481237209
+          ],
+          [
+            412.3979331655062,
+            451.0857461077732
+          ],
+          [
+            409.6140415289917,
+            448.464952804653
+          ],
+          [
+            404.69387022896416,
+            442.2401975998622
+          ],
+          [
+            402.1310536618824,
+            436.2556895307637
+          ],
+          [
+            395.41505657496816,
+            427.58877285402514
+          ],
+          [
+            389.38826278699094,
+            418.4294666523748
+          ],
+          [
+            383.4321824125018,
+            412.4606252974782
+          ],
+          [
+            379.79630925210887,
+            406.53562407909004
+          ],
+          [
+            376.24101875032795,
+            397.7789232724914
+          ],
+          [
+            372.75755740791766,
+            393.00457529742357
+          ],
+          [
+            351.8458851192325,
+            370.12472469959425
+          ],
+          [
+            345.2894850336087,
+            364.47680848998925
+          ],
+          [
+            333.01279198071654,
+            351.3486030947857
+          ],
+          [
+            323.3019679768021,
+            343.2221989798784
+          ],
+          [
+            311.9906300217277,
+            335.0509212725408
+          ],
+          [
+            310.37402256957756,
+            333.0387400973023
+          ],
+          [
+            310.7232760623995,
+            331.0915949684648
+          ],
+          [
+            313.66752945735703,
+            328.64311360885586
+          ],
+          [
+            317.60271432664024,
+            321.86283380122364
+          ],
+          [
+            327.6524089959364,
+            307.3406716152159
+          ],
+          [
+            330.2734981684265,
+            304.5795778719074
+          ],
+          [
+            334.9733872341277,
+            301.6822572514614
+          ],
+          [
+            336.47697135910926,
+            299.4644343809366
+          ]
+        ]
+      ],
+      "extent": "complete",
+      "tracing_method": "Manually identified anatomical envelope with regularized stroke-center following",
+      "boundary_note": "Closed physiological A-I perimeter follows the actual dashed diagonal and outer line. Recording-circle and X glyphs are excluded from the envelope. Short dashed/overprinted intervals are interpolated along their continuing border; this is not the solid architectonic R boundary."
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "R",
+      "status": "not_measurable",
+      "reason": "Inset frame truncates this field or complete separate limits are not drawn. Frame is not a cortical field border."
+    },
+    {
+      "label": "PV",
+      "status": "not_measurable",
+      "reason": "Inset frame truncates this field or complete separate limits are not drawn. Frame is not a cortical field border."
+    },
+    {
+      "label": "S-II",
+      "status": "not_measurable",
+      "reason": "Inset frame truncates this field or complete separate limits are not drawn. Frame is not a cortical field border."
+    },
+    {
+      "label": "TAi",
+      "status": "not_measurable",
+      "reason": "Inset frame truncates this field or complete separate limits are not drawn. Frame is not a cortical field border."
+    },
+    {
+      "label": "TArv",
+      "status": "not_measurable",
+      "reason": "Inset frame truncates this field or complete separate limits are not drawn. Frame is not a cortical field border."
+    },
+    {
+      "label": "TAcv",
+      "status": "not_measurable",
+      "reason": "Inset frame truncates this field or complete separate limits are not drawn. Frame is not a cortical field border."
+    }
+  ],
+  "review_note": "Dense tracing on 4 pixels/PDF point source rendering. Anatomical interpretation provisional; hide overlay in the precision review to inspect the printed stroke."
+}

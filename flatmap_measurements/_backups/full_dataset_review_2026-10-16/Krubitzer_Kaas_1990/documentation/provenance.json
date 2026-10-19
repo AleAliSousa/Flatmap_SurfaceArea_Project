@@ -1,0 +1,90 @@
+{
+  "recovery": {
+    "recovery_method": "Replay of original saved source-file edits and scripts, followed by regeneration from unchanged original PDF; no new tracing.",
+    "source_pdf_sha256": "79af9fcb0ec65434d248774cc24c0ef4c1bde7f4d5620a849d9b695ac2cc2b73",
+    "original_hash_checks": [
+      {
+        "file": "all_measurements.csv",
+        "previous_sha256": "c9b8bb30ab662a3507cfb5277562605adbc3af2af58bb658e4cdb32bfe7a1511",
+        "recovered_sha256": "c9b8bb30ab662a3507cfb5277562605adbc3af2af58bb658e4cdb32bfe7a1511",
+        "exact_match": true
+      },
+      {
+        "file": "all_audit.json",
+        "previous_sha256": "f495ebf4e08444cb78f2f5eeed50ae7bd6cb69bdd6d0a824863f03bec34646db",
+        "recovered_sha256": "f495ebf4e08444cb78f2f5eeed50ae7bd6cb69bdd6d0a824863f03bec34646db",
+        "exact_match": true
+      },
+      {
+        "file": "fig12_measurements.csv",
+        "previous_sha256": "a6b26a6d2d6de97ca8d9ac035988e97afcbeb562a04fef72626852a00a952390",
+        "recovered_sha256": "a6b26a6d2d6de97ca8d9ac035988e97afcbeb562a04fef72626852a00a952390",
+        "exact_match": true
+      },
+      {
+        "file": "fig12_rois.json",
+        "previous_sha256": "03142bd15e99aac8d55c54cf8027b4a7abc9b4a24848aff830c09d9f82a59be0",
+        "recovered_sha256": "03142bd15e99aac8d55c54cf8027b4a7abc9b4a24848aff830c09d9f82a59be0",
+        "exact_match": true
+      },
+      {
+        "file": "fig12_source.png",
+        "previous_sha256": "debb64149a93a18c7188a60927b042b31c39acd4ee7c6c16ce8e7587ddc6770d",
+        "recovered_sha256": "debb64149a93a18c7188a60927b042b31c39acd4ee7c6c16ce8e7587ddc6770d",
+        "exact_match": true
+      },
+      {
+        "file": "fig12_traced.png",
+        "previous_sha256": "7536c6f5a56f51d56b0bf49a4d5da1448f2ec1b43bf94191394f2f7edf463e41",
+        "recovered_sha256": "7536c6f5a56f51d56b0bf49a4d5da1448f2ec1b43bf94191394f2f7edf463e41",
+        "exact_match": true
+      },
+      {
+        "file": "fig12_whole_mask.png",
+        "previous_sha256": "1be0590f8bfea0cce2a266cde773af3777c902a6a582b33e30d5648c2e7c3e4c",
+        "recovered_sha256": "1be0590f8bfea0cce2a266cde773af3777c902a6a582b33e30d5648c2e7c3e4c",
+        "exact_match": true
+      }
+    ],
+    "measurement_csv_identical": true,
+    "imagej": {
+      "figures": 13,
+      "native_ROIs": 199,
+      "all_mask_ROI_TIFF_roundtrips_exact": true,
+      "calibrated_figures": 12,
+      "uncalibrated_figure": 19,
+      "largest_absolute_binary_vs_original_area_difference_percent": 0.691346057227972,
+      "largest_difference_figure": 12,
+      "largest_difference_label": "DM",
+      "source_measurements_unchanged": true,
+      "gui_interaction_tested": false
+    }
+  },
+  "cleanup": {
+    "status": "verified",
+    "geometry_source": "The saved per-figure JSON files, including Figure 20; no coordinate generator or separate pilot workflow.",
+    "removed_duplicates": "Pilot outputs/scripts; repeated coordinate and CSV copies; crop metadata duplicated in manifest; source PNG pixels duplicated in TIFF; whole masks duplicated in mask stacks; package ZIP duplicated inside the dataset.",
+    "all_247_measurement_rows_unchanged_except_file_paths": true,
+    "all_13_coordinate_definitions_unchanged_except_coordinate_filename_note": true,
+    "all_13_source_images_pixel_identical": true,
+    "all_13_tracing_PNGs_byte_identical": true,
+    "all_199_ImageJ_ROI_payloads_byte_identical": true,
+    "all_199_binary_masks_pixel_identical": true,
+    "python_scripts_before": 7,
+    "python_scripts_after": 1
+  },
+  "remaining_views_expansion": {
+    "date": "2026-09-26",
+    "additional_views": 43,
+    "additional_field_traces": 168,
+    "additional_schematic_outlines": 6,
+    "original_csv_rows_unchanged": 247,
+    "original_ROI_payloads_identical": 199,
+    "original_masks_pixel_identical": 199,
+    "review": "All 43 added views visually compared with their source panels; polygon geometry and all native ImageJ mask/ROI/TIFF roundtrips verified. Some faint anatomical boundaries remain provisional; see per-ROI notes.",
+    "identity_conflicts": [
+      "Figure 25E and 8E print 86-25; Figure 16 prints 87-25. No automatic merge."
+    ],
+    "GUI_interaction_tested": false
+  }
+}

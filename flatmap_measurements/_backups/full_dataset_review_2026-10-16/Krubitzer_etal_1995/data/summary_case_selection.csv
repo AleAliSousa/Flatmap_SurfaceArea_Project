@@ -1,0 +1,4 @@
+"species","specimen","label","map_id","repeat_of","hemisphere","hemisphere_relation","area_mm2","selection_reason"
+"Ornithorhynchus anatinus","P4","V","fig03",NA,"not assigned","not assigned",6.37183295355903,"supported complete main-map observation"
+"Tachyglossus aculeatus","E11","A","fig14",NA,"not assigned","not assigned",10.6846137963229,"supported complete main-map observation"
+"Tachyglossus aculeatus","E10","A","fig12B","fig12A","not assigned","not assigned",11.929775390625,"repeated-view fallback; main map lacks supported complete area"

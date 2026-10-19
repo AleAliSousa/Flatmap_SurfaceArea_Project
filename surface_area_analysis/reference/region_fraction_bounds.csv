@@ -1,0 +1,5 @@
+region_group,min_fraction_of_neocortex,max_fraction_of_neocortex,note
+V1 (area 17),0.02,0.4,editable; generic default max 0.40 applies when blank
+V2 (area 18),0.01,0.25,editable
+S1 / 3b,0.005,0.25,editable
+MT,0.001,0.08,editable

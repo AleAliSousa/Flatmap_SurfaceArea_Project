@@ -1,0 +1,25 @@
+{
+  "local_review_files_checked": 7,
+  "broken_local_links": [],
+  "inline_javascript": "syntax passed",
+  "datasets": [
+    {
+      "paper": "Krubitzer_1995",
+      "views": 10,
+      "measured": 0,
+      "unavailable": 22
+    },
+    {
+      "paper": "Krubitzer_etal_1997",
+      "views": 7,
+      "measured": 15,
+      "unavailable": 22
+    },
+    {
+      "paper": "Krubitzer_1998",
+      "views": 9,
+      "measured": 12,
+      "unavailable": 23
+    }
+  ]
+}

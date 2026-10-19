@@ -1,0 +1,7 @@
+{
+  "html_files": 13,
+  "local_links_checked": 705,
+  "inline_scripts_syntax_checked": 6,
+  "issues": [],
+  "browser_runtime": "Not exercised; static local-link and script checks only. Source-toggle reviews use inline data and local PNGs, no fetch."
+}

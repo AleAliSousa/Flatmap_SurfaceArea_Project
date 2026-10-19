@@ -33,6 +33,10 @@
         [
           [
             17.0,
+            240.0
+          ],
+          [
+            17.0,
             21.0
           ],
           [
@@ -40,61 +44,142 @@
             21.0
           ],
           [
-            84.0,
-            63.0
+            89.15852697868078,
+            22.92047168360034
           ],
           [
-            76.0,
-            107.0
+            88.19157440711541,
+            27.91373655305147
           ],
           [
-            63.0,
-            151.0
+            84.14162031786945,
+            34.60827000393511
           ],
           [
-            44.0,
-            194.0
+            81.0904545570495,
+            55.08254685319159
           ],
           [
-            19.0,
-            240.0
+            81.1668012104872,
+            59.63076357703626
           ],
           [
-            17.0,
-            240.0
+            83.03311111408628,
+            65.34539720084017
+          ],
+          [
+            83.44346188692997,
+            68.15727357190949
+          ],
+          [
+            80.19446397106518,
+            89.52061810289096
+          ],
+          [
+            73.37405614825188,
+            119.41706218959494
+          ],
+          [
+            64.14871579933155,
+            150.52157534535527
+          ],
+          [
+            57.43174665545375,
+            167.3132026029867
+          ],
+          [
+            44.95474232428202,
+            195.33510393922913
+          ],
+          [
+            35.069871785866994,
+            213.57270954105473
+          ],
+          [
+            29.445958654622068,
+            222.80817529296522
           ]
         ]
       ],
       "extent": "partial",
-      "boundary_note": "Visible V1 wedge bounded by the 17/18 junction and the interior image frame; frame lines excluded. Shared Figure 10B scale explicitly authorized by caption."
+      "boundary_note": "Visible V1 wedge bounded by the 17/18 junction and the interior image frame; frame lines excluded. Shared Figure 10B scale explicitly authorized by caption. Precision refinement 2026-10-15: dense source-stroke tracing replaces angular/off-stroke portions; recording symbols remain internal. Short gaps retain source-limited interpolation. Physical calibration and extent interpretation unchanged.",
+      "boundary_note_before_precision_audit": "Visible V1 wedge bounded by the 17/18 junction and the interior image frame; frame lines excluded. Shared Figure 10B scale explicitly authorized by caption."
     },
     {
       "label": "18",
       "polygons": [
         [
           [
+            310.0,
+            21.0
+          ],
+          [
             90.0,
             21.0
           ],
           [
-            84.0,
-            63.0
+            88.67240701832226,
+            28.08344218053624
           ],
           [
-            76.0,
-            107.0
+            84.74973214968989,
+            33.88702108712483
           ],
           [
-            63.0,
-            151.0
+            83.62189683369733,
+            37.362450916656705
           ],
           [
-            44.0,
-            194.0
+            80.91456174522935,
+            56.97670914329506
           ],
           [
-            19.0,
-            240.0
+            81.1527644888842,
+            59.72906359051737
+          ],
+          [
+            83.01553066434278,
+            65.44338915117666
+          ],
+          [
+            83.4255772448705,
+            68.25563895104311
+          ],
+          [
+            80.1765754272452,
+            89.61900509390097
+          ],
+          [
+            73.34572153415016,
+            119.51296396040081
+          ],
+          [
+            64.11511050394236,
+            150.61792397196479
+          ],
+          [
+            57.39133027062165,
+            167.40467126339618
+          ],
+          [
+            44.90878410069047,
+            195.42622014238825
+          ],
+          [
+            35.02212045382501,
+            213.66057199201202
+          ],
+          [
+            29.39820732258008,
+            222.89603774392245
+          ],
+          [
+            24.523990104394333,
+            230.49029021354983
+          ],
+          [
+            20.001393815281862,
+            236.1990379466357
           ],
           [
             17.0,
@@ -107,15 +192,12 @@
           [
             310.0,
             435.0
-          ],
-          [
-            310.0,
-            21.0
           ]
         ]
       ],
       "extent": "partial",
-      "boundary_note": "Visible V2 patch bounded partly by the interior image frame; this is a repeated depiction of a small tissue patch, not complete V2."
+      "boundary_note": "Visible V2 patch bounded partly by the interior image frame; this is a repeated depiction of a small tissue patch, not complete V2. Precision refinement 2026-10-15: dense source-stroke tracing replaces angular/off-stroke portions; recording symbols remain internal. Short gaps retain source-limited interpolation. Physical calibration and extent interpretation unchanged.",
+      "boundary_note_before_precision_audit": "Visible V2 patch bounded partly by the interior image frame; this is a repeated depiction of a small tissue patch, not complete V2."
     }
   ],
   "unmeasured": [],
@@ -123,5 +205,25 @@
   "scale_endpoints_external": true,
   "repeat_of": "",
   "include_in_whole_hemisphere_summary": false,
-  "specimen_link_status": "linked_existing_case"
+  "specimen_link_status": "linked_existing_case",
+  "precision_audit": {
+    "date": "2026-10-15",
+    "source_review": "completed; provisional anatomical interpretation",
+    "changed_regions": 2,
+    "regions": [
+      {
+        "kind": "rois",
+        "label": "17",
+        "status": "refined",
+        "source_limits": "Stroke-supported refinement; obscured/dashed intervals remain approximate."
+      },
+      {
+        "kind": "rois",
+        "label": "18",
+        "status": "refined",
+        "source_limits": "Stroke-supported refinement; obscured/dashed intervals remain approximate."
+      }
+    ],
+    "previous_geometry": "documentation/rois_before_precision_audit.json"
+  }
 }

@@ -1,0 +1,31 @@
+{
+  "overlap_method": "Each binary mask eroded by a 5x5 square (two pixels per side); report intersection before and after erosion. This is a geometry diagnostic, not uncertainty estimation.",
+  "overlaps": [
+    {
+      "map_id": "fig02_schematic",
+      "field_a": "S1 (3b)",
+      "field_b": "3a",
+      "overlap_pixels": 134,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig02_schematic",
+      "field_a": "3a",
+      "field_b": "M1",
+      "overlap_pixels": 108,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig02_schematic",
+      "field_a": "M1",
+      "field_b": "PMV",
+      "overlap_pixels": 22,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    }
+  ],
+  "new_tracings_source_visually_inspected": true,
+  "anatomical_certification": false
+}

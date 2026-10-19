@@ -1,0 +1,6 @@
+{
+  "overlap_method": "Each binary mask eroded by a 5x5 square (two pixels per side); report intersection before and after erosion. This is a geometry diagnostic, not uncertainty estimation.",
+  "overlaps": [],
+  "new_tracings_source_visually_inspected": true,
+  "anatomical_certification": false
+}

@@ -1,0 +1,193 @@
+{
+  "processed_views": 21,
+  "measured_fields": 76,
+  "unmeasured_fields": 38,
+  "overlaps": [
+    {
+      "map_id": "fig09",
+      "field_a": "C (mapped component)",
+      "field_b": "SI (closed lower mapped islands)",
+      "overlap_pixels": 44
+    },
+    {
+      "map_id": "fig09",
+      "field_a": "SI (closed lower mapped islands)",
+      "field_b": "SII/PV",
+      "overlap_pixels": 96
+    },
+    {
+      "map_id": "fig12",
+      "field_a": "C (mapped component)",
+      "field_b": "SI (closed lower mapped islands)",
+      "overlap_pixels": 39
+    },
+    {
+      "map_id": "fig12",
+      "field_a": "SI (closed lower mapped islands)",
+      "field_b": "SII/PV",
+      "overlap_pixels": 120
+    },
+    {
+      "map_id": "fig14_brush_tailed",
+      "field_a": "VI",
+      "field_b": "VII",
+      "overlap_pixels": 205
+    },
+    {
+      "map_id": "fig14_brush_tailed",
+      "field_a": "C",
+      "field_b": "R",
+      "overlap_pixels": 61
+    },
+    {
+      "map_id": "fig14_brush_tailed",
+      "field_a": "C",
+      "field_b": "SI",
+      "overlap_pixels": 14
+    },
+    {
+      "map_id": "fig14_brush_tailed",
+      "field_a": "R",
+      "field_b": "SI",
+      "overlap_pixels": 15
+    },
+    {
+      "map_id": "fig14_brush_tailed",
+      "field_a": "SI",
+      "field_b": "SII",
+      "overlap_pixels": 23
+    },
+    {
+      "map_id": "fig14_brush_tailed",
+      "field_a": "SI",
+      "field_b": "PV",
+      "overlap_pixels": 6
+    },
+    {
+      "map_id": "fig14_brush_tailed",
+      "field_a": "SII",
+      "field_b": "PV",
+      "overlap_pixels": 15
+    },
+    {
+      "map_id": "fig14_north_american",
+      "field_a": "VI",
+      "field_b": "VII",
+      "overlap_pixels": 64
+    },
+    {
+      "map_id": "fig14_north_american",
+      "field_a": "SC",
+      "field_b": "SI",
+      "overlap_pixels": 55
+    },
+    {
+      "map_id": "fig14_north_american",
+      "field_a": "SI",
+      "field_b": "SR",
+      "overlap_pixels": 98
+    },
+    {
+      "map_id": "fig14_north_american",
+      "field_a": "SI",
+      "field_b": "SII",
+      "overlap_pixels": 9
+    },
+    {
+      "map_id": "fig14_north_american",
+      "field_a": "SR",
+      "field_b": "SII",
+      "overlap_pixels": 3
+    },
+    {
+      "map_id": "fig14_north_american",
+      "field_a": "SII",
+      "field_b": "PV",
+      "overlap_pixels": 17
+    },
+    {
+      "map_id": "fig14_north_american",
+      "field_a": "SII",
+      "field_b": "A",
+      "overlap_pixels": 19
+    },
+    {
+      "map_id": "fig14_quoll",
+      "field_a": "VI",
+      "field_b": "VII",
+      "overlap_pixels": 174
+    },
+    {
+      "map_id": "fig14_quoll",
+      "field_a": "C",
+      "field_b": "SI",
+      "overlap_pixels": 59
+    },
+    {
+      "map_id": "fig14_quoll",
+      "field_a": "R",
+      "field_b": "SI",
+      "overlap_pixels": 62
+    },
+    {
+      "map_id": "fig14_quoll",
+      "field_a": "SI",
+      "field_b": "SII/PV",
+      "overlap_pixels": 22
+    },
+    {
+      "map_id": "fig14_striped",
+      "field_a": "VI",
+      "field_b": "VII",
+      "overlap_pixels": 143
+    },
+    {
+      "map_id": "fig14_striped",
+      "field_a": "C",
+      "field_b": "SI",
+      "overlap_pixels": 11
+    },
+    {
+      "map_id": "fig14_striped",
+      "field_a": "R",
+      "field_b": "SI",
+      "overlap_pixels": 18
+    },
+    {
+      "map_id": "fig14_striped",
+      "field_a": "SI",
+      "field_b": "SII",
+      "overlap_pixels": 15
+    },
+    {
+      "map_id": "fig14_striped",
+      "field_a": "SI",
+      "field_b": "PV",
+      "overlap_pixels": 10
+    },
+    {
+      "map_id": "fig14_striped",
+      "field_a": "SII",
+      "field_b": "PV",
+      "overlap_pixels": 6
+    }
+  ],
+  "native_imagej_roundtrip": "passed",
+  "anatomical_review": "provisional; pending user review",
+  "reference_comparison": "not_run; core workflow does not require reference data",
+  "geometry_overlap_audit": "passed; overlaps disappear after eroding both masks by2pixels",
+  "all_numbered_figures_assessed": true,
+  "numbered_figures_assessed": 16,
+  "assessment_status": "eligible_views_digitized_provisional",
+  "whole_neocortex_summary": "unavailable; no independently established complete-neocortex view",
+  "source_visual_review": "completed; anatomical certification pending",
+  "full_dataset_recheck": {
+    "date": "2026-10-16",
+    "source_figure_inventory_rechecked": true,
+    "canonical_contour_count": 76,
+    "geometry_changed": true,
+    "anatomical_certification": false,
+    "review": "review/full_dataset_audit.html",
+    "geometry_review": "passed by audit_geometry.py; shared-stroke slivers or documented source overlaps retained"
+  }
+}

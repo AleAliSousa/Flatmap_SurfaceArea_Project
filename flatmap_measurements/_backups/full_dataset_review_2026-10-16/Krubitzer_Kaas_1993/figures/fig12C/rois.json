@@ -1,0 +1,61 @@
+{
+  "map_id": "fig12C",
+  "figure": 12,
+  "panel": "C",
+  "pdf_page": 19,
+  "printed_page": 515,
+  "species": "Miopithecus talapoin",
+  "specimen": "not reported",
+  "hemisphere": "not assigned",
+  "view_type": "tangential_section_detail",
+  "hemisphere_relation": "not assigned",
+  "linked_main_map": null,
+  "repeat_of": null,
+  "specimen_link_status": "unresolved",
+  "relationship_note": "Caption gives species only; connection to named cases remains unresolved.",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 2,
+  "crop_xyxy": [
+    90,
+    760,
+    1105,
+    1416
+  ],
+  "supersample": 4,
+  "scale_length_mm": 2,
+  "scale_endpoints_px": [
+    [
+      919,
+      600
+    ],
+    [
+      981,
+      602
+    ]
+  ],
+  "scale_note": "Local printed scale bar, measured stroke endpoints on the source rendering.",
+  "scale_reference_map": null,
+  "outline": null,
+  "rois": [],
+  "unmeasured": [
+    {
+      "label": "DM",
+      "status": "not_measurable",
+      "reason": "DM contour unclosed at lateral/inferior end (B), or field includes a tear, exposed white matter and a cropped inferior edge (C). Complete tissue envelope cannot be established without unsupported interpolation."
+    },
+    {
+      "label": "VPP",
+      "status": "not_measurable",
+      "reason": "DM contour unclosed at lateral/inferior end (B), or field includes a tear, exposed white matter and a cropped inferior edge (C). Complete tissue envelope cannot be established without unsupported interpolation."
+    }
+  ],
+  "review_note": "Provisional image digitization. Inspect field boundaries and short scale bar; no shrinkage correction.",
+  "precision_audit": {
+    "date": "2026-10-15",
+    "source_review": "completed; provisional anatomical interpretation",
+    "changed_regions": 0,
+    "regions": [],
+    "previous_geometry": "documentation/rois_before_precision_audit.json"
+  }
+}

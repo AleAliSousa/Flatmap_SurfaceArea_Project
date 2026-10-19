@@ -101,6 +101,38 @@
       "polygons": [
         [
           [
+            268.0,
+            481.0
+          ],
+          [
+            206.0,
+            481.0
+          ],
+          [
+            204.0,
+            469.0
+          ],
+          [
+            217.0,
+            433.0
+          ],
+          [
+            233.0,
+            401.0
+          ],
+          [
+            252.0,
+            368.0
+          ],
+          [
+            273.0,
+            333.0
+          ],
+          [
+            299.0,
+            305.0
+          ],
+          [
             328.0,
             280.0
           ],
@@ -139,43 +171,12 @@
           [
             287.0,
             462.0
-          ],
-          [
-            268.0,
-            481.0
-          ],
-          [
-            206.0,
-            481.0
-          ],
-          [
-            204.0,
-            469.0
-          ],
-          [
-            217.0,
-            433.0
-          ],
-          [
-            233.0,
-            401.0
-          ],
-          [
-            252.0,
-            368.0
-          ],
-          [
-            273.0,
-            333.0
-          ],
-          [
-            299.0,
-            305.0
           ]
         ]
       ],
       "extent": "partial",
-      "boundary_note": "Architectonic boundary dots interpolated manually; staining, injection punctures and overprinted labels remain inside the field. Specimen identity is not stated in the caption. Inferior end is clipped by the photograph."
+      "boundary_note": "Architectonic boundary dots interpolated manually; staining, injection punctures and overprinted labels remain inside the field. Specimen identity is not stated in the caption. Inferior end is clipped by the photograph. Precision refinement 2026-10-15: dense source-stroke tracing replaces angular/off-stroke portions; recording symbols remain internal. Short gaps retain source-limited interpolation. Physical calibration and extent interpretation unchanged.",
+      "boundary_note_before_precision_audit": "Architectonic boundary dots interpolated manually; staining, injection punctures and overprinted labels remain inside the field. Specimen identity is not stated in the caption. Inferior end is clipped by the photograph."
     }
   ],
   "unmeasured": [
@@ -189,5 +190,25 @@
     }
   ],
   "include_in_whole_hemisphere_summary": false,
-  "specimen_link_status": "unlinked_or_summary"
+  "specimen_link_status": "unlinked_or_summary",
+  "precision_audit": {
+    "date": "2026-10-15",
+    "source_review": "completed; provisional anatomical interpretation",
+    "changed_regions": 1,
+    "regions": [
+      {
+        "kind": "rois",
+        "label": "DM",
+        "status": "retained_source_limited",
+        "source_limits": "Photographic border marked by dots: retained existing marker-to-marker interpolation. No unique continuous ink edge exists between markers."
+      },
+      {
+        "kind": "rois",
+        "label": "DI",
+        "status": "refined",
+        "source_limits": "Stroke-supported refinement; obscured/dashed intervals remain approximate."
+      }
+    ],
+    "previous_geometry": "documentation/rois_before_precision_audit.json"
+  }
 }

@@ -1,0 +1,54 @@
+{
+  "map_id": "fig03_A_photo",
+  "figure": 3,
+  "panel": "flattened cortical photomicrograph",
+  "pdf_page": 5,
+  "printed_page": 107,
+  "species": "Cheirogaleus medius",
+  "specimen": "single adult female",
+  "hemisphere": "left",
+  "view_type": "histological_detail",
+  "hemisphere_relation": "same hemisphere, different section/stain; not another animal",
+  "linked_main_map": null,
+  "repeat_of": "fig02_left",
+  "specimen_link_status": "caption_identified",
+  "relationship_note": "Repeated views do not represent additional animals. No cross-publication pooling; source labels preserved.",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 4,
+  "crop_xyxy": [
+    850,
+    1790,
+    1490,
+    2750
+  ],
+  "supersample": 4,
+  "scale_length_mm": 2,
+  "scale_endpoints_px": [
+    [
+      485.0,
+      928.0
+    ],
+    [
+      607.0,
+      928.0
+    ]
+  ],
+  "scale_note": "Own printed scale stroke; local measured endpoints. Endpoints refined against the complete local printed stroke at enlarged resolution.",
+  "scale_reference_map": null,
+  "outline": null,
+  "rois": [],
+  "unmeasured": [
+    {
+      "label": "V1",
+      "status": "not_measurable",
+      "reason": "V1 and V2 continue outside the local section image. Arrows mark blobs, not a recoverable complete field perimeter."
+    },
+    {
+      "label": "V2",
+      "status": "not_measurable",
+      "reason": "V1 and V2 continue outside the local section image. Arrows mark blobs, not a recoverable complete field perimeter."
+    }
+  ],
+  "review_note": "V1 and V2 continue outside the local section image. Arrows mark blobs, not a recoverable complete field perimeter."
+}

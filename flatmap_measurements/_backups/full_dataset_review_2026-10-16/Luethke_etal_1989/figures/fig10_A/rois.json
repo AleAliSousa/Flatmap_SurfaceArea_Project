@@ -1,0 +1,587 @@
+{
+  "map_id": "fig10_A",
+  "figure": 10,
+  "panel": "A cortical flatmap; other panels are thalamic sections",
+  "pdf_page": 14,
+  "printed_page": 500,
+  "species": "Saguinus fuscicollis",
+  "specimen": "87-45",
+  "hemisphere": "ipsilateral (anatomical side not reported)",
+  "view_type": "case_flatmap",
+  "hemisphere_relation": "ipsilateral",
+  "linked_main_map": null,
+  "repeat_of": "fig08_panel1",
+  "specimen_link_status": "caption_identified",
+  "relationship_note": "Repeated views do not represent additional animals. No cross-publication pooling; source labels preserved.",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 4,
+  "crop_xyxy": [
+    250,
+    350,
+    1004,
+    1150
+  ],
+  "supersample": 4,
+  "scale_length_mm": 2,
+  "scale_endpoints_px": [
+    [
+      626.0,
+      671.0
+    ],
+    [
+      672.0,
+      671.0
+    ]
+  ],
+  "scale_note": "Own printed scale stroke; local measured endpoints. Endpoints refined against the complete local printed stroke at enlarged resolution.",
+  "scale_reference_map": null,
+  "outline": null,
+  "rois": [
+    {
+      "label": "MT",
+      "polygons": [
+        [
+          [
+            243.9778643646065,
+            471.6046555351701
+          ],
+          [
+            245.21079954526218,
+            467.4110709352118
+          ],
+          [
+            247.6286080085218,
+            462.59908885376797
+          ],
+          [
+            261.8672601725287,
+            440.7443086441841
+          ],
+          [
+            275.6816451201372,
+            423.9151001057668
+          ],
+          [
+            279.5717335890286,
+            420.0949294258976
+          ],
+          [
+            287.63490512274865,
+            413.9765308297297
+          ],
+          [
+            298.252729511817,
+            406.69439482591235
+          ],
+          [
+            305.04951916194506,
+            402.6698370345038
+          ],
+          [
+            314.7629284937946,
+            398.67592823602524
+          ],
+          [
+            323.29834064330777,
+            396.1811285855724
+          ],
+          [
+            331.1884130869154,
+            395.4990338269034
+          ],
+          [
+            336.5853936065969,
+            396.02233253309385
+          ],
+          [
+            341.7050518709412,
+            398.56314631211194
+          ],
+          [
+            345.1246374527842,
+            401.2774847024861
+          ],
+          [
+            359.43234053776337,
+            418.54220536755145
+          ],
+          [
+            360.06883366662225,
+            421.1963579753099
+          ],
+          [
+            359.6322906904353,
+            433.88769811355786
+          ],
+          [
+            357.56631850682015,
+            439.0001289354375
+          ],
+          [
+            353.9556882932704,
+            444.3671972199506
+          ],
+          [
+            347.65758414676867,
+            450.7963405656708
+          ],
+          [
+            339.43015673912066,
+            457.85526006527425
+          ],
+          [
+            327.0842608160548,
+            469.6988693301615
+          ],
+          [
+            315.92770925684425,
+            482.6605400375468
+          ],
+          [
+            311.34024311252574,
+            487.0073957258267
+          ],
+          [
+            298.5948723273856,
+            500.9490123047022
+          ],
+          [
+            290.9177468742332,
+            507.18850351776166
+          ],
+          [
+            278.414773965023,
+            515.9634319839395
+          ],
+          [
+            271.323500186743,
+            519.8646166997586
+          ],
+          [
+            268.7910793348996,
+            520.8070352159672
+          ],
+          [
+            259.9347973838336,
+            522.5187882424225
+          ],
+          [
+            254.62053317516214,
+            522.3795446240905
+          ],
+          [
+            251.31278289592217,
+            521.052573581023
+          ],
+          [
+            248.34023339561577,
+            518.9957886242358
+          ],
+          [
+            243.67697418005307,
+            512.365297677557
+          ],
+          [
+            240.4979323194103,
+            504.9525590961323
+          ],
+          [
+            239.58139997748282,
+            500.55952311975307
+          ],
+          [
+            239.26871602778056,
+            496.08669457476526
+          ],
+          [
+            240.48157675778523,
+            485.3702631614995
+          ]
+        ]
+      ],
+      "extent": "complete",
+      "boundary_note": "Printed external envelope traced densely at 4 pixels/PDF point. Internal labels, body-part borders and recording marks retained; short symbol-obscured continuations interpolated.",
+      "tracing_method": "Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",
+      "tracking_diagnostic": {
+        "mean_displacement": 1.6749379652605458,
+        "max_displacement": 3.0,
+        "line_support": 0.6739519979273397,
+        "samples": 403
+      },
+      "tracking_diagnostic_final": {
+        "mean_displacement": 1.3398533007334963,
+        "max_displacement": 8.0,
+        "line_support": 0.8754096026468445,
+        "samples": 409
+      }
+    },
+    {
+      "label": "A-I",
+      "polygons": [
+        [
+          [
+            380.9846661883482,
+            441.89870183766874
+          ],
+          [
+            382.9283879411579,
+            438.0849986231771
+          ],
+          [
+            386.3540721938342,
+            433.9486859100476
+          ],
+          [
+            393.1675412626055,
+            428.1062757306705
+          ],
+          [
+            397.2926983374382,
+            426.4271609314877
+          ],
+          [
+            400.0108301378476,
+            426.508018513637
+          ],
+          [
+            404.4057475850777,
+            427.6548766209729
+          ],
+          [
+            420.1185125212899,
+            434.45655780339223
+          ],
+          [
+            437.7613956333211,
+            445.25394238336213
+          ],
+          [
+            456.5313200203561,
+            455.9403516570394
+          ],
+          [
+            490.13924450678047,
+            471.50927632112666
+          ],
+          [
+            496.26541918910897,
+            475.1409935259699
+          ],
+          [
+            501.0378326450162,
+            478.83612544091494
+          ],
+          [
+            506.14632143218694,
+            481.0446875985169
+          ],
+          [
+            507.7004043182005,
+            483.61512545692574
+          ],
+          [
+            507.66836028544077,
+            487.5575492964723
+          ],
+          [
+            505.36105591007714,
+            494.8792188335362
+          ],
+          [
+            504.2418932177951,
+            501.159586696702
+          ],
+          [
+            502.72667140444156,
+            505.3504404320811
+          ],
+          [
+            497.2879226851857,
+            512.4713802030566
+          ],
+          [
+            494.59377242341316,
+            514.7891079388053
+          ],
+          [
+            486.21568848227827,
+            520.0127472868593
+          ],
+          [
+            477.67037852810273,
+            522.7324069576728
+          ],
+          [
+            473.2155343632353,
+            523.2957692299792
+          ],
+          [
+            467.77204023614127,
+            523.0383978156738
+          ],
+          [
+            460.99085520102136,
+            525.4792792431169
+          ],
+          [
+            452.0421453916809,
+            526.1300628841618
+          ],
+          [
+            436.5484879812787,
+            524.5180431591075
+          ],
+          [
+            431.34682804658024,
+            522.9626846236715
+          ],
+          [
+            424.83220918845615,
+            519.6597544166654
+          ],
+          [
+            407.95457585704474,
+            506.7992835445813
+          ],
+          [
+            398.307010341002,
+            497.0651782030768
+          ],
+          [
+            387.12490056231655,
+            482.8240760060263
+          ],
+          [
+            380.6539913491942,
+            468.4599216220597
+          ],
+          [
+            379.45224461731766,
+            463.16052097408505
+          ],
+          [
+            379.16171986724123,
+            453.12758829148765
+          ]
+        ]
+      ],
+      "extent": "approximate",
+      "boundary_note": "Dashed source boundary follows the illustrated less distinct myeloarchitectonic envelope; short gaps between dashes interpolated. Approximate, excluded from complete-field summaries.",
+      "tracing_method": "Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",
+      "tracking_diagnostic": {
+        "mean_displacement": 1.8288770053475936,
+        "max_displacement": 3.0,
+        "line_support": 0.6398434567141574,
+        "samples": 374
+      },
+      "tracking_diagnostic_final": {
+        "mean_displacement": 1.0909090909090908,
+        "max_displacement": 9.5,
+        "line_support": 0.870552954069429,
+        "samples": 385
+      }
+    },
+    {
+      "label": "R",
+      "polygons": [
+        [
+          [
+            502.08131357400407,
+            479.39267218584877
+          ],
+          [
+            509.3703455945487,
+            481.30264703052774
+          ],
+          [
+            531.4750713663184,
+            491.4371782667968
+          ],
+          [
+            546.3594714205489,
+            501.5753061799552
+          ],
+          [
+            552.9056723928176,
+            504.68386612188243
+          ],
+          [
+            563.4571330113185,
+            513.1766617425656
+          ],
+          [
+            566.0131350016641,
+            515.735894177042
+          ],
+          [
+            568.6003848750698,
+            519.5279682276691
+          ],
+          [
+            571.1384432320197,
+            526.3478022442516
+          ],
+          [
+            572.1694842981894,
+            537.0954384493053
+          ],
+          [
+            571.8970040950884,
+            539.7473473155237
+          ],
+          [
+            570.7907992990017,
+            542.0302325138261
+          ],
+          [
+            568.6799029717365,
+            543.5133005035308
+          ],
+          [
+            558.1444918765416,
+            548.5935550988469
+          ],
+          [
+            551.3025759549,
+            550.7600214024346
+          ],
+          [
+            545.9976899491566,
+            551.6032998914038
+          ],
+          [
+            533.427631962466,
+            551.8054840893539
+          ],
+          [
+            519.2606975357785,
+            549.2837660459763
+          ],
+          [
+            501.2134247366588,
+            543.6838466199622
+          ],
+          [
+            480.99703552387325,
+            536.0546875079536
+          ],
+          [
+            465.76984114065925,
+            528.3785348922561
+          ],
+          [
+            464.6988329374223,
+            527.1115336921043
+          ],
+          [
+            464.46890716411446,
+            525.6143690716148
+          ],
+          [
+            465.90971217707056,
+            523.732728673221
+          ],
+          [
+            468.497348858257,
+            523.1110618874491
+          ],
+          [
+            474.8196508098742,
+            523.09646322546
+          ],
+          [
+            482.69965860600337,
+            521.3094604149255
+          ],
+          [
+            486.8676091359598,
+            519.690036213659
+          ],
+          [
+            494.5821920186192,
+            514.9971444041652
+          ],
+          [
+            497.2754623492274,
+            512.5556485883576
+          ],
+          [
+            501.7364133063014,
+            506.91091691980546
+          ],
+          [
+            503.06317899776457,
+            504.53664355782746
+          ],
+          [
+            504.45833388904316,
+            500.25525198144334
+          ],
+          [
+            505.5295659753722,
+            494.7629967509051
+          ],
+          [
+            507.7160352665142,
+            488.9827424896905
+          ],
+          [
+            508.19539472457444,
+            484.9484450674788
+          ],
+          [
+            507.83816203815564,
+            483.15223219056634
+          ],
+          [
+            506.0291779720785,
+            480.89491852128873
+          ],
+          [
+            502.1435269961455,
+            479.43844480907296
+          ]
+        ]
+      ],
+      "extent": "approximate",
+      "boundary_note": "Dashed source boundary follows the illustrated less distinct myeloarchitectonic envelope; short gaps between dashes interpolated. Approximate, excluded from complete-field summaries.",
+      "tracing_method": "Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",
+      "tracking_diagnostic": {
+        "mean_displacement": 1.4104046242774566,
+        "max_displacement": 3.0,
+        "line_support": 0.6145767679839567,
+        "samples": 346
+      },
+      "tracking_diagnostic_final": {
+        "mean_displacement": 0.7823033707865169,
+        "max_displacement": 10.0,
+        "line_support": 0.6736906194078022,
+        "samples": 356
+      }
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "V-I",
+      "status": "not_measurable",
+      "reason": "Open field perimeters or schematic dashed fragments do not establish total field extent."
+    },
+    {
+      "label": "V-II",
+      "status": "not_measurable",
+      "reason": "Open field perimeters or schematic dashed fragments do not establish total field extent."
+    },
+    {
+      "label": "DL",
+      "status": "not_measurable",
+      "reason": "Open field perimeters or schematic dashed fragments do not establish total field extent."
+    },
+    {
+      "label": "S-I",
+      "status": "not_measurable",
+      "reason": "Open field perimeters or schematic dashed fragments do not establish total field extent."
+    }
+  ],
+  "review_note": "Dense tracing on 4 pixels/PDF point source rendering. Anatomical interpretation provisional; hide overlay in the precision review to inspect the printed stroke."
+}

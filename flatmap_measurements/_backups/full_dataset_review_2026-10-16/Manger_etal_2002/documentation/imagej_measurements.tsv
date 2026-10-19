@@ -1,0 +1,7 @@
+map_id	roi_index	label	area_pixels	area_calibrated	unit	original_fractional_pixels	pixel_difference_percent	roi_roundtrip_pixels_equal
+fig01	0	PPr mapped extent	130576	12.800313694735811	mm^2	130882.375	-0.234084230210523	true
+fig01	1	PPc mapped extent	97294	9.537692383099696	mm^2	97564.375	-0.2771247189355746	true
+fig02	0	PPr mapped extent	139438	15.450193905817173	mm^2	139752.875	-0.2253084238875229	true
+fig02	1	PPc mapped extent	107359	11.89573407202216	mm^2	107674.875	-0.29335998764800053	true
+fig06left	0	PPr mapped extent	215876	15.244403643810465	mm^2	216267.875	-0.18119889512022994	true
+fig06right	0	PPr mapped extent	173831	12.275333662876914	mm^2	174200.625	-0.2121835096745491	true

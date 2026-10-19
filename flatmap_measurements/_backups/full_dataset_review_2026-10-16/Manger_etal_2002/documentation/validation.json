@@ -1,0 +1,28 @@
+{
+  "processed_views": 5,
+  "measured_fields": 6,
+  "unmeasured_fields": 37,
+  "overlaps": [
+    {
+      "map_id": "fig01",
+      "field_a": "PPr mapped extent",
+      "field_b": "PPc mapped extent",
+      "overlap_pixels": 14
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "PPr mapped extent",
+      "field_b": "PPc mapped extent",
+      "overlap_pixels": 20
+    }
+  ],
+  "native_imagej_roundtrip": "passed",
+  "anatomical_review": "provisional; pending user review",
+  "reference_comparison": "not_run; core workflow does not require reference data",
+  "geometry_overlap_audit": "passed; shared-border slivers and explicitly documented source overlaps reviewed",
+  "all_numbered_figures_assessed": true,
+  "numbered_figures_assessed": 14,
+  "assessment_status": "eligible_views_digitized_provisional",
+  "whole_neocortex_summary": "unavailable; no independently established complete-neocortex view",
+  "source_visual_review": "completed; anatomical certification pending"
+}

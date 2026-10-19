@@ -1,0 +1,331 @@
+{
+  "processed_views": 14,
+  "measured_fields": 101,
+  "unmeasured_fields": 98,
+  "overlaps": [
+    {
+      "map_id": "fig02inset",
+      "field_a": "A-I",
+      "field_b": "R",
+      "overlap_pixels": 38
+    },
+    {
+      "map_id": "fig03",
+      "field_a": "M",
+      "field_b": "S-I",
+      "overlap_pixels": 170
+    },
+    {
+      "map_id": "fig03",
+      "field_a": "S-II",
+      "field_b": "S-I",
+      "overlap_pixels": 58
+    },
+    {
+      "map_id": "fig03",
+      "field_a": "17",
+      "field_b": "18",
+      "overlap_pixels": 318
+    },
+    {
+      "map_id": "fig03",
+      "field_a": "R",
+      "field_b": "PV",
+      "overlap_pixels": 18
+    },
+    {
+      "map_id": "fig03",
+      "field_a": "R",
+      "field_b": "A-I",
+      "overlap_pixels": 1
+    },
+    {
+      "map_id": "fig03",
+      "field_a": "R",
+      "field_b": "TArv + TAcv",
+      "overlap_pixels": 2
+    },
+    {
+      "map_id": "fig03",
+      "field_a": "UZ",
+      "field_b": "S-I",
+      "overlap_pixels": 13
+    },
+    {
+      "map_id": "fig03",
+      "field_a": "S-I",
+      "field_b": "PV",
+      "overlap_pixels": 104
+    },
+    {
+      "map_id": "fig03",
+      "field_a": "A-I",
+      "field_b": "TAi",
+      "overlap_pixels": 7
+    },
+    {
+      "map_id": "fig03",
+      "field_a": "TAi",
+      "field_b": "TArv + TAcv",
+      "overlap_pixels": 17
+    },
+    {
+      "map_id": "fig05",
+      "field_a": "TArv + TAcv",
+      "field_b": "R",
+      "overlap_pixels": 11
+    },
+    {
+      "map_id": "fig06",
+      "field_a": "M",
+      "field_b": "S-I",
+      "overlap_pixels": 206
+    },
+    {
+      "map_id": "fig06",
+      "field_a": "S-I",
+      "field_b": "S-II",
+      "overlap_pixels": 37
+    },
+    {
+      "map_id": "fig06",
+      "field_a": "TAi",
+      "field_b": "TArv + TAcv",
+      "overlap_pixels": 58
+    },
+    {
+      "map_id": "fig06",
+      "field_a": "TAi",
+      "field_b": "R",
+      "overlap_pixels": 19
+    },
+    {
+      "map_id": "fig06",
+      "field_a": "TAi",
+      "field_b": "A-I",
+      "overlap_pixels": 30
+    },
+    {
+      "map_id": "fig07",
+      "field_a": "M",
+      "field_b": "S-I",
+      "overlap_pixels": 112
+    },
+    {
+      "map_id": "fig07",
+      "field_a": "S-I",
+      "field_b": "UZ",
+      "overlap_pixels": 918
+    },
+    {
+      "map_id": "fig07",
+      "field_a": "S-I",
+      "field_b": "S-II",
+      "overlap_pixels": 53
+    },
+    {
+      "map_id": "fig08",
+      "field_a": "M",
+      "field_b": "S-I",
+      "overlap_pixels": 66
+    },
+    {
+      "map_id": "fig08",
+      "field_a": "S-I",
+      "field_b": "UZ",
+      "overlap_pixels": 948
+    },
+    {
+      "map_id": "fig08",
+      "field_a": "S-I",
+      "field_b": "PV",
+      "overlap_pixels": 38
+    },
+    {
+      "map_id": "fig08",
+      "field_a": "PV",
+      "field_b": "R",
+      "overlap_pixels": 9
+    },
+    {
+      "map_id": "fig08",
+      "field_a": "R",
+      "field_b": "TAi",
+      "overlap_pixels": 32
+    },
+    {
+      "map_id": "fig09",
+      "field_a": "M",
+      "field_b": "S-I",
+      "overlap_pixels": 152
+    },
+    {
+      "map_id": "fig09",
+      "field_a": "S-I",
+      "field_b": "S-II",
+      "overlap_pixels": 49
+    },
+    {
+      "map_id": "fig09",
+      "field_a": "17",
+      "field_b": "18",
+      "overlap_pixels": 270
+    },
+    {
+      "map_id": "fig10",
+      "field_a": "M",
+      "field_b": "S-I",
+      "overlap_pixels": 143
+    },
+    {
+      "map_id": "fig10",
+      "field_a": "S-I",
+      "field_b": "S-II",
+      "overlap_pixels": 33
+    },
+    {
+      "map_id": "fig10",
+      "field_a": "TAi",
+      "field_b": "TArv + TAcv",
+      "overlap_pixels": 34
+    },
+    {
+      "map_id": "fig12",
+      "field_a": "M",
+      "field_b": "S-I",
+      "overlap_pixels": 2024
+    },
+    {
+      "map_id": "fig12",
+      "field_a": "S-II",
+      "field_b": "S-I",
+      "overlap_pixels": 42
+    },
+    {
+      "map_id": "fig12",
+      "field_a": "17",
+      "field_b": "18",
+      "overlap_pixels": 120
+    },
+    {
+      "map_id": "fig12",
+      "field_a": "S-I",
+      "field_b": "PV",
+      "overlap_pixels": 27
+    },
+    {
+      "map_id": "fig12",
+      "field_a": "S-I",
+      "field_b": "UZ",
+      "overlap_pixels": 7
+    },
+    {
+      "map_id": "fig13",
+      "field_a": "M",
+      "field_b": "S-I",
+      "overlap_pixels": 165
+    },
+    {
+      "map_id": "fig13",
+      "field_a": "S-I",
+      "field_b": "S-II",
+      "overlap_pixels": 21
+    },
+    {
+      "map_id": "fig13",
+      "field_a": "S-I",
+      "field_b": "PV",
+      "overlap_pixels": 43
+    },
+    {
+      "map_id": "fig14",
+      "field_a": "M",
+      "field_b": "S-I",
+      "overlap_pixels": 164
+    },
+    {
+      "map_id": "fig14",
+      "field_a": "S-I",
+      "field_b": "S-II",
+      "overlap_pixels": 31
+    },
+    {
+      "map_id": "fig14",
+      "field_a": "S-I",
+      "field_b": "PV",
+      "overlap_pixels": 60
+    },
+    {
+      "map_id": "fig14",
+      "field_a": "17",
+      "field_b": "18",
+      "overlap_pixels": 84
+    },
+    {
+      "map_id": "fig15",
+      "field_a": "M",
+      "field_b": "S-I",
+      "overlap_pixels": 83
+    },
+    {
+      "map_id": "fig15",
+      "field_a": "S-I",
+      "field_b": "S-II",
+      "overlap_pixels": 104
+    },
+    {
+      "map_id": "fig15",
+      "field_a": "S-I",
+      "field_b": "PV",
+      "overlap_pixels": 49
+    },
+    {
+      "map_id": "fig15",
+      "field_a": "PV",
+      "field_b": "R",
+      "overlap_pixels": 3
+    },
+    {
+      "map_id": "fig15",
+      "field_a": "17",
+      "field_b": "18",
+      "overlap_pixels": 253
+    },
+    {
+      "map_id": "fig15",
+      "field_a": "TAi",
+      "field_b": "TArv + TAcv",
+      "overlap_pixels": 45
+    },
+    {
+      "map_id": "fig15",
+      "field_a": "TAi",
+      "field_b": "R",
+      "overlap_pixels": 13
+    },
+    {
+      "map_id": "fig15",
+      "field_a": "A-I",
+      "field_b": "R",
+      "overlap_pixels": 16
+    }
+  ],
+  "native_imagej_roundtrip": "passed",
+  "anatomical_review": "provisional; pending user review",
+  "reference_comparison": "not_run; core workflow does not require reference data",
+  "geometry_overlap_audit": "passed; shared-border slivers and explicitly documented source overlaps reviewed",
+  "all_numbered_figures_assessed": true,
+  "numbered_figures_assessed": 19,
+  "assessment_status": "eligible_views_digitized_provisional",
+  "whole_neocortex_summary": "unavailable; no independently established complete-neocortex view",
+  "source_visual_review": "completed; anatomical certification pending",
+  "full_dataset_recheck": {
+    "date": "2026-10-16",
+    "source_figure_inventory_rechecked": true,
+    "canonical_contour_count": 101,
+    "geometry_changed": true,
+    "anatomical_certification": false,
+    "review": "review/full_dataset_audit.html",
+    "geometry_review": "passed by audit_geometry.py; shared-stroke slivers or documented source overlaps retained"
+  }
+}

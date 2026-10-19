@@ -1,0 +1,23 @@
+map_id,figure,pdf_page,species,specimen,view_type,repeat_of,fields,complete_fields,partial_fields,unmeasured,audit_date,review
+fig02_92_51,2,5,Didelphis virginiana,92-51,physiological_architectonic_flatmap,,3,3,0,,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig02_92_78,2,5,Didelphis virginiana,92-78,physiological_architectonic_flatmap,,3,3,0,,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig02_93_59,2,5,Didelphis virginiana,93-59,physiological_architectonic_flatmap,,3,3,0,,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig02_93_82,2,5,Didelphis virginiana,93-82,physiological_architectonic_flatmap,,3,3,0,,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig03_92_44,3,6,Didelphis virginiana,92-44,physiological_architectonic_flatmap,,3,3,0,,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig03_92_57,3,6,Didelphis virginiana,92-57,physiological_architectonic_flatmap,,3,3,0,,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig03_93_06,3,6,Didelphis virginiana,93-06,physiological_architectonic_flatmap,,3,3,0,,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig03_93_88,3,6,Didelphis virginiana,93-88,physiological_architectonic_flatmap,,3,3,0,,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig04,4,7,Didelphis virginiana,92-51,repeated_local_somatotopic_map,fig02_92_51,1,1,0,S2; PV,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig05,5,8,Didelphis virginiana,92-57,repeated_local_somatotopic_map,fig03_92_57,0,0,0,S1; S2; PV,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig06,6,9,Didelphis virginiana,93-06,repeated_local_somatotopic_map,fig03_93_06,0,0,0,S1; S2; PV,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig07A,7,10,Didelphis virginiana,93-82,repeated_local_somatotopic_map,fig02_93_82,1,1,0,,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig07B,7,10,Didelphis virginiana,93-59,repeated_local_somatotopic_map,fig02_93_59,1,1,0,,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig08,8,11,Didelphis virginiana,93-59,repeated_local_somatotopic_map,fig02_93_59,2,2,0,S1,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig09,9,12,Didelphis virginiana,93-82,repeated_local_somatotopic_map,fig02_93_82,2,2,0,S1,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig10A,10,13,Didelphis virginiana,92-44,repeated_local_somatotopic_map,fig03_92_44,1,1,0,,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig10B,10,13,Didelphis virginiana,92-78,repeated_local_somatotopic_map,fig02_92_78,1,1,0,,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig12A,12,16,Didelphis virginiana,93-86,motor_stimulation_map,,3,3,0,S2; PV,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig12B,12,16,Didelphis virginiana,93-88,motor_stimulation_map,fig03_93_88,3,3,0,S2; PV,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig15,15,18,Didelphis virginiana,93-88,histological_section,fig03_93_88,1,1,0,S1; SC; SR; PV; V1; Aud,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig16,16,19,Didelphis virginiana,93-88,case_flatmap,fig03_93_88,9,9,0,whole neocortex,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig17,17,20,Didelphis virginiana,92-79,case_flatmap,,9,9,0,whole neocortex,2026-10-16,source visually inspected; provisional anatomical interpretation

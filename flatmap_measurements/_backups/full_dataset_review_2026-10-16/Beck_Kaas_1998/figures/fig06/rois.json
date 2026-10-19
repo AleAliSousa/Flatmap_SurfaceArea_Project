@@ -1,0 +1,59 @@
+{
+  "map_id": "fig06",
+  "figure": 6,
+  "panel": null,
+  "pdf_page": 8,
+  "printed_page": 388,
+  "species": "Aotus trivirgatus",
+  "specimen": "94-3",
+  "hemisphere": "not assigned",
+  "view_type": "cortical_inset",
+  "hemisphere_relation": "not assigned",
+  "linked_main_map": null,
+  "repeat_of": null,
+  "specimen_link_status": "caption_identified",
+  "relationship_note": "View is not an additional animal. No cross-paper pooling; matching species alone does not establish specimen identity.",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 4,
+  "crop_xyxy": [
+    1562,
+    1670,
+    1970,
+    2298
+  ],
+  "supersample": 4,
+  "scale_length_mm": 2,
+  "scale_endpoints_px": [
+    [
+      190,
+      614
+    ],
+    [
+      340,
+      614
+    ]
+  ],
+  "scale_note": "Own printed scale stroke; local endpoints and caption length.",
+  "scale_reference_map": null,
+  "outline": null,
+  "rois": [],
+  "unmeasured": [
+    {
+      "label": "DM",
+      "status": "not_measurable",
+      "reason": "DM caudal border terminates within the panel; V2 extends off-panel; VPP is a location label beside injection outlines rather than a complete field envelope."
+    },
+    {
+      "label": "V2",
+      "status": "not_measurable",
+      "reason": "DM caudal border terminates within the panel; V2 extends off-panel; VPP is a location label beside injection outlines rather than a complete field envelope."
+    },
+    {
+      "label": "VPP",
+      "status": "not_measurable",
+      "reason": "DM caudal border terminates within the panel; V2 extends off-panel; VPP is a location label beside injection outlines rather than a complete field envelope."
+    }
+  ],
+  "review_note": "Contours refined 2026-10-15 after enlarged source review. Original outlines archived; source-toggle and prior-outline comparison in review/line_refinement.html. Scientific interpretation remains provisional."
+}

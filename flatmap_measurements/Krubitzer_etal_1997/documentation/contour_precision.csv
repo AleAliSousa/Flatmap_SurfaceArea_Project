@@ -1,0 +1,16 @@
+map_id,label,extent,vertices,source_render_pixels_per_pdf_point,source_visual_check,tracing_method,anatomical_certification
+fig02B,V,complete,43,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig02B,R,complete,54,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig02B,A,complete,45,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig02B,RV,complete,38,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig02B,S1,complete,58,4,enlarged perimeter reviewed; short symbol continuations documented,Regularized source-envelope following; pixel staircases suppressed before fitting to continuous printed stroke,pending
+fig02B,PV/S2,complete,41,4,enlarged perimeter reviewed; short symbol continuations documented,Regularized source-envelope following; pixel staircases suppressed before fitting to continuous printed stroke,pending
+fig03,S1,complete,100,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig03,V,complete,77,4,enlarged perimeter reviewed; short symbol continuations documented,Regularized source-envelope following; pixel staircases suppressed before fitting to continuous printed stroke,pending
+fig04,S1,complete,69,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig04,PV/S2,complete,60,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig05,V,complete,59,4,enlarged perimeter reviewed; short symbol continuations documented,Regularized source-envelope following; pixel staircases suppressed before fitting to continuous printed stroke,pending
+fig05,A,complete,55,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig06,S1,complete,88,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig06,PV/S2,complete,72,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig07,S1 medial mapped portion,partial,158,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending

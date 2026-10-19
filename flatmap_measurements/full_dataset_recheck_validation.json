@@ -1,0 +1,219 @@
+{
+  "date": "2026-10-16",
+  "papers": 21,
+  "source_reviews_checked": 22,
+  "issues": [],
+  "results": [
+    {
+      "paper": "Beck_Kaas_1998",
+      "geometry_changed": false,
+      "saved_contours": 5,
+      "measurement_rows": 21,
+      "independent_case_field_selections": 0,
+      "checksum_files": 107,
+      "saved_area_hash_verification": "passed",
+      "native_readback": "passed"
+    },
+    {
+      "paper": "Beck_etal_1996",
+      "geometry_changed": true,
+      "saved_contours": 58,
+      "measurement_rows": 80,
+      "independent_case_field_selections": 39,
+      "checksum_files": 219,
+      "saved_area_hash_verification": "passed",
+      "native_readback": "passed"
+    },
+    {
+      "paper": "Felleman_VanEssen_1991",
+      "geometry_changed": true,
+      "saved_contours": 62,
+      "measurement_rows": 75,
+      "independent_case_field_selections": 0,
+      "checksum_files": 50,
+      "saved_area_hash_verification": "passed",
+      "native_readback": "passed"
+    },
+    {
+      "paper": "Huffman_etal_1999",
+      "geometry_changed": true,
+      "saved_contours": 76,
+      "measurement_rows": 116,
+      "independent_case_field_selections": 18,
+      "checksum_files": 239,
+      "saved_area_hash_verification": "passed",
+      "native_readback": "passed"
+    },
+    {
+      "paper": "Kaas_etal_2011",
+      "geometry_changed": false,
+      "saved_contours": 0,
+      "measurement_rows": 0,
+      "independent_case_field_selections": 0,
+      "checksum_files": 30,
+      "saved_area_hash_verification": "passed",
+      "native_readback": "not_applicable; no eligible specimen ROI"
+    },
+    {
+      "paper": "Krubitzer_1995",
+      "geometry_changed": true,
+      "saved_contours": 10,
+      "measurement_rows": 68,
+      "independent_case_field_selections": 0,
+      "checksum_files": 147,
+      "saved_area_hash_verification": "passed",
+      "native_readback": "passed"
+    },
+    {
+      "paper": "Krubitzer_1998",
+      "geometry_changed": true,
+      "saved_contours": 61,
+      "measurement_rows": 121,
+      "independent_case_field_selections": 1,
+      "checksum_files": 183,
+      "saved_area_hash_verification": "passed",
+      "native_readback": "passed"
+    },
+    {
+      "paper": "Krubitzer_Kaas_1990",
+      "geometry_changed": false,
+      "saved_contours": 354,
+      "measurement_rows": 505,
+      "independent_case_field_selections": 0,
+      "checksum_files": 465,
+      "saved_area_hash_verification": "passed",
+      "native_readback": "prior accepted geometry retained"
+    },
+    {
+      "paper": "Krubitzer_Kaas_1993",
+      "geometry_changed": true,
+      "saved_contours": 106,
+      "measurement_rows": 206,
+      "independent_case_field_selections": 58,
+      "checksum_files": 196,
+      "saved_area_hash_verification": "passed",
+      "native_readback": "passed"
+    },
+    {
+      "paper": "Krubitzer_etal_1993",
+      "geometry_changed": true,
+      "saved_contours": 100,
+      "measurement_rows": 271,
+      "independent_case_field_selections": 38,
+      "checksum_files": 236,
+      "saved_area_hash_verification": "passed",
+      "native_readback": "passed"
+    },
+    {
+      "paper": "Krubitzer_etal_1995",
+      "geometry_changed": true,
+      "saved_contours": 20,
+      "measurement_rows": 131,
+      "independent_case_field_selections": 5,
+      "checksum_files": 239,
+      "saved_area_hash_verification": "passed",
+      "native_readback": "passed"
+    },
+    {
+      "paper": "Krubitzer_etal_1997",
+      "geometry_changed": true,
+      "saved_contours": 15,
+      "measurement_rows": 37,
+      "independent_case_field_selections": 10,
+      "checksum_files": 97,
+      "saved_area_hash_verification": "passed",
+      "native_readback": "passed"
+    },
+    {
+      "paper": "Luethke_etal_1988",
+      "geometry_changed": true,
+      "saved_contours": 101,
+      "measurement_rows": 199,
+      "independent_case_field_selections": 21,
+      "checksum_files": 166,
+      "saved_area_hash_verification": "passed",
+      "native_readback": "passed"
+    },
+    {
+      "paper": "Luethke_etal_1989",
+      "geometry_changed": false,
+      "saved_contours": 41,
+      "measurement_rows": 80,
+      "independent_case_field_selections": 3,
+      "checksum_files": 197,
+      "saved_area_hash_verification": "passed",
+      "native_readback": "passed"
+    },
+    {
+      "paper": "Lyon_etal_1998",
+      "geometry_changed": false,
+      "saved_contours": 33,
+      "measurement_rows": 201,
+      "independent_case_field_selections": 13,
+      "checksum_files": 195,
+      "saved_area_hash_verification": "passed",
+      "native_readback": "passed"
+    },
+    {
+      "paper": "Manger_etal_2002",
+      "geometry_changed": true,
+      "saved_contours": 6,
+      "measurement_rows": 43,
+      "independent_case_field_selections": 0,
+      "checksum_files": 89,
+      "saved_area_hash_verification": "passed",
+      "native_readback": "passed"
+    },
+    {
+      "paper": "Preuss_Kaas_1996",
+      "geometry_changed": true,
+      "saved_contours": 3,
+      "measurement_rows": 15,
+      "independent_case_field_selections": 2,
+      "checksum_files": 58,
+      "saved_area_hash_verification": "passed",
+      "native_readback": "passed"
+    },
+    {
+      "paper": "Preuss_etal_1993",
+      "geometry_changed": false,
+      "saved_contours": 10,
+      "measurement_rows": 36,
+      "independent_case_field_selections": 2,
+      "checksum_files": 80,
+      "saved_area_hash_verification": "passed",
+      "native_readback": "passed"
+    },
+    {
+      "paper": "Slutsky_etal_2000",
+      "geometry_changed": true,
+      "saved_contours": 15,
+      "measurement_rows": 64,
+      "independent_case_field_selections": 2,
+      "checksum_files": 138,
+      "saved_area_hash_verification": "passed",
+      "native_readback": "passed"
+    },
+    {
+      "paper": "VanEssen_Drury_1997",
+      "geometry_changed": false,
+      "saved_contours": 0,
+      "measurement_rows": 27,
+      "independent_case_field_selections": 0,
+      "checksum_files": 82,
+      "saved_area_hash_verification": "passed",
+      "native_readback": "passed"
+    },
+    {
+      "paper": "Zilles_1985",
+      "geometry_changed": false,
+      "saved_contours": 0,
+      "measurement_rows": 0,
+      "independent_case_field_selections": 0,
+      "checksum_files": 204,
+      "saved_area_hash_verification": "passed",
+      "native_readback": "not_applicable; no eligible specimen ROI"
+    }
+  ],
+  "anatomical_certification": false
+}

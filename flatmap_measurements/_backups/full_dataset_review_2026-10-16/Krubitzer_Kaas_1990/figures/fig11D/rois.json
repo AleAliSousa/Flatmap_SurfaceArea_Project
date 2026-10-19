@@ -1,0 +1,203 @@
+{
+  "map_id": "fig11D",
+  "figure": 11,
+  "panel": "D",
+  "pdf_page": 17,
+  "printed_page": 181,
+  "specimen": "87-62",
+  "species_as_reported": "Galago senegalensis",
+  "view_type": "partial_areal_strip",
+  "hemisphere_relation": "injected hemisphere",
+  "linked_main_map": "",
+  "relationship_note": "Panel D follows an injection into DL; panels A\u2013C follow MT injections.",
+  "outline_label": null,
+  "outline_scope": "none",
+  "scale_length_mm": 1,
+  "scale_endpoints_px": [
+    [
+      133,
+      131
+    ],
+    [
+      172,
+      131
+    ]
+  ],
+  "scale_note": "Own panel scale bar.",
+  "coordinate_system": "x right, y down in source.tif; manual vertices referenced to published lines/dots",
+  "supersample": 3,
+  "rois": [
+    {
+      "label": "18",
+      "polygons": [
+        [
+          [
+            26.061265165657513,
+            30.424281033873932
+          ],
+          [
+            25.46282863879909,
+            32.866257240985135
+          ],
+          [
+            27.76925040644498,
+            42.63446686644491
+          ],
+          [
+            38.00552181732336,
+            75.22434105004493
+          ],
+          [
+            41.377834501028154,
+            87.36466671138217
+          ],
+          [
+            43.54574979769552,
+            93.30100761015775
+          ],
+          [
+            50.65574305606767,
+            120.23779125417309
+          ],
+          [
+            53.795043496909706,
+            138.66762093290887
+          ],
+          [
+            54.0,
+            152.9912100239913
+          ],
+          [
+            53.58091235884913,
+            160.85016806958484
+          ],
+          [
+            51.76368130127283,
+            171.44238146879573
+          ],
+          [
+            48.58453877365775,
+            184.20530138973518
+          ],
+          [
+            49.38944951624396,
+            185.20325098987973
+          ],
+          [
+            50.92653286234869,
+            185.78389273098628
+          ],
+          [
+            95.26354842634764,
+            197.65987904277168
+          ],
+          [
+            102.8561866611628,
+            198.22712282329294
+          ],
+          [
+            103.51540868030527,
+            195.44570760043024
+          ],
+          [
+            108.38431272138055,
+            154.3674500540373
+          ],
+          [
+            111.0,
+            124.79704575403998
+          ],
+          [
+            110.98882549019157,
+            92.39719673336323
+          ],
+          [
+            110.35421002844507,
+            68.10577105246756
+          ],
+          [
+            109.68418442701677,
+            61.821579322942554
+          ],
+          [
+            109.01807072498475,
+            35.729078023132196
+          ],
+          [
+            107.78015523282662,
+            16.91889086715408
+          ],
+          [
+            103.89177669500495,
+            16.971127429500587
+          ],
+          [
+            89.72171760286429,
+            19.531982338594805
+          ],
+          [
+            87.17035184053785,
+            20.59644079683939
+          ],
+          [
+            83.16446083791327,
+            23.733870043068116
+          ],
+          [
+            78.63060140403267,
+            23.94987396968023
+          ],
+          [
+            74.35238984212866,
+            25.580462787896174
+          ],
+          [
+            72.5143927938656,
+            25.53155623847457
+          ],
+          [
+            60.00609817429415,
+            22.107727274799593
+          ],
+          [
+            54.55324021628201,
+            22.299277926700896
+          ],
+          [
+            44.36444985427909,
+            26.649367296088176
+          ],
+          [
+            27.540373450780457,
+            29.71928174503545
+          ]
+        ]
+      ],
+      "extent": "partial",
+      "boundary_note": "Visible strip of area 18. Open ends are closed by straight segments between the printed border endpoints. Not a whole-field estimate; endpoint closure is editable. Precision refinement 2026-10-15: dense source-stroke tracing replaces angular/off-stroke portions; recording symbols remain internal. Short gaps retain source-limited interpolation. Physical calibration and extent interpretation unchanged.",
+      "boundary_note_before_precision_audit": "Visible strip of area 18. Open ends are closed by straight segments between the printed border endpoints. Not a whole-field estimate; endpoint closure is editable."
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "17",
+      "reason": "Only the shared 17/18 junction is shown; no outer limit of area 17."
+    }
+  ],
+  "include_in_whole_hemisphere_summary": false,
+  "specimen_link_status": "additional_named_case_without_whole_map",
+  "precision_audit": {
+    "date": "2026-10-15",
+    "source_review": "completed; provisional anatomical interpretation",
+    "changed_regions": 1,
+    "regions": [
+      {
+        "kind": "rois",
+        "label": "18",
+        "status": "refined",
+        "source_limits": "Stroke-supported refinement; obscured/dashed intervals remain approximate."
+      }
+    ],
+    "previous_geometry": "documentation/rois_before_precision_audit.json"
+  }
+}

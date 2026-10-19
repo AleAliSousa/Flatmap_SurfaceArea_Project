@@ -1,0 +1,100 @@
+{
+  "papers": 6,
+  "numbered_figures": 133,
+  "contours": 87,
+  "calibrated_contours": 64,
+  "pixel_only_contours": 23,
+  "explicit_NA_entries": 272,
+  "datasets": [
+    {
+      "paper_id": "Luethke_etal_1989",
+      "numbered_figures": 17,
+      "source_views": 19,
+      "contours": 41,
+      "calibrated_contours": 19,
+      "pixel_only_contours": 22,
+      "extent_counts": {
+        "complete": 10,
+        "approximate": 31,
+        "partial": 0
+      },
+      "explicit_NA_entries": 39,
+      "status": "eligible_views_digitized_provisional"
+    },
+    {
+      "paper_id": "Lyon_etal_1998",
+      "numbered_figures": 15,
+      "source_views": 20,
+      "contours": 33,
+      "calibrated_contours": 32,
+      "pixel_only_contours": 1,
+      "extent_counts": {
+        "complete": 24,
+        "approximate": 1,
+        "partial": 8
+      },
+      "explicit_NA_entries": 168,
+      "status": "eligible_views_digitized_provisional"
+    },
+    {
+      "paper_id": "Preuss_etal_1993",
+      "numbered_figures": 7,
+      "source_views": 6,
+      "contours": 10,
+      "calibrated_contours": 10,
+      "pixel_only_contours": 0,
+      "extent_counts": {
+        "complete": 8,
+        "approximate": 2,
+        "partial": 0
+      },
+      "explicit_NA_entries": 26,
+      "status": "eligible_views_digitized_provisional"
+    },
+    {
+      "paper_id": "Preuss_Kaas_1996",
+      "numbered_figures": 5,
+      "source_views": 3,
+      "contours": 3,
+      "calibrated_contours": 3,
+      "pixel_only_contours": 0,
+      "extent_counts": {
+        "complete": 2,
+        "approximate": 1,
+        "partial": 0
+      },
+      "explicit_NA_entries": 12,
+      "status": "eligible_views_digitized_provisional"
+    },
+    {
+      "paper_id": "VanEssen_Drury_1997",
+      "numbered_figures": 13,
+      "source_views": 5,
+      "contours": 0,
+      "calibrated_contours": 0,
+      "pixel_only_contours": 0,
+      "extent_counts": {
+        "complete": 0,
+        "approximate": 0,
+        "partial": 0
+      },
+      "explicit_NA_entries": 27,
+      "status": "assessed_no_defensible_field_contours"
+    },
+    {
+      "paper_id": "Zilles_1985",
+      "numbered_figures": 76,
+      "source_views": 0,
+      "contours": 0,
+      "calibrated_contours": 0,
+      "pixel_only_contours": 0,
+      "extent_counts": {
+        "complete": 0,
+        "approximate": 0,
+        "partial": 0
+      },
+      "explicit_NA_entries": 0,
+      "status": "no_eligible_specimen_flatmaps"
+    }
+  ]
+}

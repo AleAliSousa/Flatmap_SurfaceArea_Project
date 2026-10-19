@@ -1,0 +1,49 @@
+map_id,label,extent,vertices,source_render_pixels_per_pdf_point,source_visual_check,tracing_method,anatomical_certification
+fig02_92_51,S1,complete,506,4,enlarged perimeter reviewed; short symbol continuations documented,"Legend-assisted identification of closed source cells; dense external ink contour, with enlarged visual check",pending
+fig02_92_51,S2,complete,1102,4,enlarged perimeter reviewed; short symbol continuations documented,"Legend-assisted identification of closed source cells; dense external ink contour, with enlarged visual check",pending
+fig02_92_51,PV,complete,682,4,enlarged perimeter reviewed; short symbol continuations documented,"Legend-assisted identification of closed source cells; dense external ink contour, with enlarged visual check",pending
+fig02_92_78,S1,complete,1342,4,enlarged perimeter reviewed; short symbol continuations documented,"Legend-assisted identification of closed source cells; dense external ink contour, with enlarged visual check",pending
+fig02_92_78,S2,complete,1384,4,enlarged perimeter reviewed; short symbol continuations documented,"Legend-assisted identification of closed source cells; dense external ink contour, with enlarged visual check",pending
+fig02_92_78,PV,complete,962,4,enlarged perimeter reviewed; short symbol continuations documented,"Legend-assisted identification of closed source cells; dense external ink contour, with enlarged visual check",pending
+fig02_93_59,S1,complete,1040,4,enlarged perimeter reviewed; short symbol continuations documented,"Legend-assisted identification of closed source cells; dense external ink contour, with enlarged visual check",pending
+fig02_93_59,S2,complete,1580,4,enlarged perimeter reviewed; short symbol continuations documented,"Legend-assisted identification of closed source cells; dense external ink contour, with enlarged visual check",pending
+fig02_93_59,PV,complete,1200,4,enlarged perimeter reviewed; short symbol continuations documented,"Legend-assisted identification of closed source cells; dense external ink contour, with enlarged visual check",pending
+fig02_93_82,S1,complete,780,4,enlarged perimeter reviewed; short symbol continuations documented,"Legend-assisted identification of closed source cells; dense external ink contour, with enlarged visual check",pending
+fig02_93_82,S2,complete,1404,4,enlarged perimeter reviewed; short symbol continuations documented,"Legend-assisted identification of closed source cells; dense external ink contour, with enlarged visual check",pending
+fig02_93_82,PV,complete,688,4,enlarged perimeter reviewed; short symbol continuations documented,"Legend-assisted identification of closed source cells; dense external ink contour, with enlarged visual check",pending
+fig03_92_44,S1,complete,2086,4,enlarged perimeter reviewed; short symbol continuations documented,"Legend-assisted identification of closed source cells; dense external ink contour, with enlarged visual check",pending
+fig03_92_44,S2,complete,1758,4,enlarged perimeter reviewed; short symbol continuations documented,"Legend-assisted identification of closed source cells; dense external ink contour, with enlarged visual check",pending
+fig03_92_44,PV,complete,760,4,enlarged perimeter reviewed; short symbol continuations documented,"Legend-assisted identification of closed source cells; dense external ink contour, with enlarged visual check",pending
+fig03_92_57,S1,complete,936,4,enlarged perimeter reviewed; short symbol continuations documented,"Legend-assisted identification of closed source cells; dense external ink contour, with enlarged visual check",pending
+fig03_92_57,S2,complete,1278,4,enlarged perimeter reviewed; short symbol continuations documented,"Legend-assisted identification of closed source cells; dense external ink contour, with enlarged visual check",pending
+fig03_92_57,PV,complete,718,4,enlarged perimeter reviewed; short symbol continuations documented,"Legend-assisted identification of closed source cells; dense external ink contour, with enlarged visual check",pending
+fig03_93_06,S1,complete,1604,4,enlarged perimeter reviewed; short symbol continuations documented,"Legend-assisted identification of closed source cells; dense external ink contour, with enlarged visual check",pending
+fig03_93_06,S2,complete,2232,4,enlarged perimeter reviewed; short symbol continuations documented,"Legend-assisted identification of closed source cells; dense external ink contour, with enlarged visual check",pending
+fig03_93_06,PV,complete,844,4,enlarged perimeter reviewed; short symbol continuations documented,"Legend-assisted identification of closed source cells; dense external ink contour, with enlarged visual check",pending
+fig03_93_88,S1,complete,878,4,enlarged perimeter reviewed; short symbol continuations documented,"Legend-assisted identification of closed source cells; dense external ink contour, with enlarged visual check",pending
+fig03_93_88,S2,complete,1282,4,enlarged perimeter reviewed; short symbol continuations documented,"Legend-assisted identification of closed source cells; dense external ink contour, with enlarged visual check",pending
+fig03_93_88,PV,complete,1110,4,enlarged perimeter reviewed; short symbol continuations documented,"Legend-assisted identification of closed source cells; dense external ink contour, with enlarged visual check",pending
+fig12A,S1,complete,1344,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig12A,SC,complete,800,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig12B,S1,complete,1444,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig12B,SC,complete,864,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig12B,SR,complete,1252,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig15,S2,complete,119,4,enlarged perimeter reviewed; short symbol continuations documented,Dense source-guided white-stroke contour,pending
+fig16,V1,complete,1566,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig16,S2,complete,1466,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig16,CT,complete,800,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig16,SC,complete,112,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig16,S1,complete,148,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig16,SR,complete,151,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig16,PV,complete,64,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig16,Aud,complete,168,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig16,V2,complete,1740,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig17,V1,complete,1450,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig17,V2,complete,2122,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig17,S2,complete,1552,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig17,CT,complete,552,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig17,SC,complete,92,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig17,S1,complete,210,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig17,SR,complete,97,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig17,PV,complete,73,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig17,Aud,complete,57,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending

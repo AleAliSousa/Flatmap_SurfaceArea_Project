@@ -1,0 +1,7 @@
+map_id,label,extent,vertices,source_render_pixels_per_pdf_point,source_visual_check,tracing_method,anatomical_certification
+fig01,PPr mapped extent,partial,129,4,enlarged perimeter reviewed; short symbol continuations documented,Regularized source-envelope following; pixel staircases suppressed before fitting to continuous printed stroke,pending
+fig01,PPc mapped extent,partial,106,4,enlarged perimeter reviewed; short symbol continuations documented,Regularized source-envelope following; pixel staircases suppressed before fitting to continuous printed stroke,pending
+fig02,PPr mapped extent,partial,463,4,enlarged perimeter reviewed; short symbol continuations documented,Regularized source-envelope following; pixel staircases suppressed before fitting to continuous printed stroke,pending
+fig02,PPc mapped extent,partial,470,4,enlarged perimeter reviewed; short symbol continuations documented,Regularized source-envelope following; pixel staircases suppressed before fitting to continuous printed stroke,pending
+fig06left,PPr mapped extent,partial,167,4,enlarged perimeter reviewed; short symbol continuations documented,Regularized source-envelope following; pixel staircases suppressed before fitting to continuous printed stroke,pending
+fig06right,PPr mapped extent,partial,150,4,enlarged perimeter reviewed; short symbol continuations documented,Regularized source-envelope following; pixel staircases suppressed before fitting to continuous printed stroke,pending

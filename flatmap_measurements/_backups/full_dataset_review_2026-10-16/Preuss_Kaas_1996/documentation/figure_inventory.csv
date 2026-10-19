@@ -1,0 +1,8 @@
+figure,pdf_page,panel,specimen,interpretation,processing_status,reason_or_result,linked_main_map
+1,3,all,not applicable,Phylogenetic diagrams,assessed_excluded,No cortical geometry.,
+2,5,flattened left hemisphere,single adult female,case_flatmap,digitized_provisional,3 provisional closed field/component contour(s); 4 explicit not-measurable field entries. Dense tracing on 4 pixels/PDF point source rendering. Anatomical interpretation provisional; hide overlay in the precision review to inspect the printed stroke.,fig02_left
+2,5,lower brain locator,single adult female,Dorsolateral brain projection,assessed_excluded,Projected locator is not a flattened surface.,fig02_left
+3,5,B,single adult female,Right coronal cortex,assessed_excluded,"Laminar/radial section, not tangential surface geometry.",
+3,5,flattened cortical photomicrograph,single adult female,histological_detail,assessed_not_measurable,"No supported field area: 2 explicit NA entries. V1 and V2 continue outside the local section image. Arrows mark blobs, not a recoverable complete field perimeter.",fig03_A_photo
+4,6,all,not applicable,Laminar coronal histology,assessed_excluded,Section thickness/laminar profiles are not a tangential cortical surface.,
+5,7,flattened cortical photomicrograph,single adult female,histological_detail,assessed_not_measurable,No supported field area: 6 explicit NA entries. No closed complete field perimeters are delineated; apparent stain transitions are diffuse. Field homologies are explicitly presumed in the caption. Retain NA rather than choosing an intensity threshold.,fig05_photo

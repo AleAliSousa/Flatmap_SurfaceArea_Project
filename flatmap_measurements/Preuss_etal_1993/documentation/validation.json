@@ -1,0 +1,42 @@
+{
+  "processed_views": 6,
+  "measured_fields": 10,
+  "unmeasured_fields": 26,
+  "overlaps": [
+    {
+      "map_id": "fig02_schematic",
+      "field_a": "S1 (3b)",
+      "field_b": "3a",
+      "overlap_pixels": 134
+    },
+    {
+      "map_id": "fig02_schematic",
+      "field_a": "3a",
+      "field_b": "M1",
+      "overlap_pixels": 108
+    },
+    {
+      "map_id": "fig02_schematic",
+      "field_a": "M1",
+      "field_b": "PMV",
+      "overlap_pixels": 22
+    }
+  ],
+  "native_imagej_roundtrip": "passed",
+  "anatomical_review": "provisional; pending user review",
+  "reference_comparison": "not_run; core workflow does not require reference data",
+  "geometry_overlap_audit": "passed; shared-border slivers and explicitly documented source overlaps reviewed",
+  "all_numbered_figures_assessed": true,
+  "numbered_figures_assessed": 7,
+  "assessment_status": "eligible_views_digitized_provisional",
+  "whole_neocortex_summary": "unavailable; no independently established complete-neocortex view",
+  "source_visual_review": "completed; anatomical certification pending",
+  "full_dataset_recheck": {
+    "date": "2026-10-16",
+    "source_figure_inventory_rechecked": true,
+    "canonical_contour_count": 10,
+    "geometry_changed": false,
+    "anatomical_certification": false,
+    "review": "review/full_dataset_audit.html"
+  }
+}

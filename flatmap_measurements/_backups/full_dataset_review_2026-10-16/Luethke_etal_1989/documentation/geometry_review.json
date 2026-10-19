@@ -1,0 +1,143 @@
+{
+  "overlap_method": "Each binary mask eroded by a 5x5 square (two pixels per side); report intersection before and after erosion. This is a geometry diagnostic, not uncertainty estimation.",
+  "overlaps": [
+    {
+      "map_id": "fig02_87-22",
+      "field_a": "A-I",
+      "field_b": "R",
+      "overlap_pixels": 10,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig02_87-44",
+      "field_a": "A-I",
+      "field_b": "R",
+      "overlap_pixels": 35,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig05_panel1",
+      "field_a": "A-I",
+      "field_b": "R",
+      "overlap_pixels": 67,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig05_panel2",
+      "field_a": "A-I",
+      "field_b": "R",
+      "overlap_pixels": 70,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig05_panel3",
+      "field_a": "A-I",
+      "field_b": "R",
+      "overlap_pixels": 74,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig05_panel4",
+      "field_a": "A-I",
+      "field_b": "R",
+      "overlap_pixels": 73,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig06_panel1",
+      "field_a": "A-I",
+      "field_b": "R",
+      "overlap_pixels": 68,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig06_panel2",
+      "field_a": "A-I",
+      "field_b": "R",
+      "overlap_pixels": 110,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig06_panel3",
+      "field_a": "A-I",
+      "field_b": "R",
+      "overlap_pixels": 116,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig06_panel4",
+      "field_a": "A-I",
+      "field_b": "R",
+      "overlap_pixels": 78,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig07_left",
+      "field_a": "A-I",
+      "field_b": "R",
+      "overlap_pixels": 36,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig07_left_zoom",
+      "field_a": "A-I",
+      "field_b": "R",
+      "overlap_pixels": 101,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig08_panel1",
+      "field_a": "A-I",
+      "field_b": "R",
+      "overlap_pixels": 93,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig08_panel2",
+      "field_a": "A-I",
+      "field_b": "R",
+      "overlap_pixels": 87,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig08_panel3",
+      "field_a": "A-I",
+      "field_b": "R",
+      "overlap_pixels": 50,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig08_panel4",
+      "field_a": "A-I",
+      "field_b": "R",
+      "overlap_pixels": 53,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig10_A",
+      "field_a": "A-I",
+      "field_b": "R",
+      "overlap_pixels": 20,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    }
+  ],
+  "new_tracings_source_visually_inspected": true,
+  "anatomical_certification": false
+}

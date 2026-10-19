@@ -33,6 +33,10 @@
         [
           [
             13.0,
+            421.0
+          ],
+          [
+            13.0,
             15.0
           ],
           [
@@ -74,20 +78,65 @@
           [
             112.0,
             421.0
-          ],
-          [
-            13.0,
-            421.0
           ]
         ]
       ],
       "extent": "partial",
-      "boundary_note": "Visible field fragment only. The anatomical border is traced and the contour closes along the image crop; its area depends on framing and is not the complete cortical area."
+      "boundary_note": "Visible field fragment only. The anatomical border is traced and the contour closes along the image crop; its area depends on framing and is not the complete cortical area. Precision refinement 2026-10-15: dense source-stroke tracing replaces angular/off-stroke portions; recording symbols remain internal. Short gaps retain source-limited interpolation. Physical calibration and extent interpretation unchanged.",
+      "boundary_note_before_precision_audit": "Visible field fragment only. The anatomical border is traced and the contour closes along the image crop; its area depends on framing and is not the complete cortical area."
     },
     {
       "label": "18",
       "polygons": [
         [
+          [
+            268.0,
+            421.0
+          ],
+          [
+            112.0,
+            421.0
+          ],
+          [
+            97.0,
+            375.0
+          ],
+          [
+            110.0,
+            337.0
+          ],
+          [
+            121.0,
+            300.0
+          ],
+          [
+            125.0,
+            256.0
+          ],
+          [
+            114.0,
+            212.0
+          ],
+          [
+            98.0,
+            169.0
+          ],
+          [
+            70.0,
+            125.0
+          ],
+          [
+            44.0,
+            84.0
+          ],
+          [
+            25.0,
+            45.0
+          ],
+          [
+            13.0,
+            15.0
+          ],
           [
             25.0,
             15.0
@@ -143,62 +192,35 @@
           [
             264.0,
             398.0
-          ],
-          [
-            268.0,
-            421.0
-          ],
-          [
-            112.0,
-            421.0
-          ],
-          [
-            97.0,
-            375.0
-          ],
-          [
-            110.0,
-            337.0
-          ],
-          [
-            121.0,
-            300.0
-          ],
-          [
-            125.0,
-            256.0
-          ],
-          [
-            114.0,
-            212.0
-          ],
-          [
-            98.0,
-            169.0
-          ],
-          [
-            70.0,
-            125.0
-          ],
-          [
-            44.0,
-            84.0
-          ],
-          [
-            25.0,
-            45.0
-          ],
-          [
-            13.0,
-            15.0
           ]
         ]
       ],
       "extent": "partial",
-      "boundary_note": "Visible field fragment only. The anatomical border is traced and the contour closes along the image crop; its area depends on framing and is not the complete cortical area."
+      "boundary_note": "Visible field fragment only. The anatomical border is traced and the contour closes along the image crop; its area depends on framing and is not the complete cortical area. Precision refinement 2026-10-15: dense source-stroke tracing replaces angular/off-stroke portions; recording symbols remain internal. Short gaps retain source-limited interpolation. Physical calibration and extent interpretation unchanged.",
+      "boundary_note_before_precision_audit": "Visible field fragment only. The anatomical border is traced and the contour closes along the image crop; its area depends on framing and is not the complete cortical area."
     }
   ],
   "unmeasured": [],
   "include_in_whole_hemisphere_summary": false,
-  "specimen_link_status": "unlinked_or_summary"
+  "specimen_link_status": "unlinked_or_summary",
+  "precision_audit": {
+    "date": "2026-10-15",
+    "source_review": "completed; provisional anatomical interpretation",
+    "changed_regions": 2,
+    "regions": [
+      {
+        "kind": "rois",
+        "label": "17",
+        "status": "refined",
+        "source_limits": "Stroke-supported refinement; obscured/dashed intervals remain approximate."
+      },
+      {
+        "kind": "rois",
+        "label": "18",
+        "status": "refined",
+        "source_limits": "Stroke-supported refinement; obscured/dashed intervals remain approximate."
+      }
+    ],
+    "previous_geometry": "documentation/rois_before_precision_audit.json"
+  }
 }

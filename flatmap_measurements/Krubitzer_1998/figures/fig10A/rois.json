@@ -1,0 +1,74 @@
+{
+  "map_id": "fig10A",
+  "figure": 10,
+  "panel": "a",
+  "pdf_page": 10,
+  "printed_page": 1136,
+  "species": "Ornithorhynchus anatinus",
+  "specimen": "not reported",
+  "hemisphere": "not assigned",
+  "view_type": "visual_case_map",
+  "hemisphere_relation": "not assigned",
+  "linked_main_map": null,
+  "repeat_of": null,
+  "specimen_link_status": "unresolved",
+  "relationship_note": "Repeated views do not represent additional animals. No cross-publication pooling; source labels preserved.",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 4,
+  "crop_xyxy": [
+    160,
+    340,
+    2140,
+    1394
+  ],
+  "supersample": 4,
+  "scale_length_mm": 1,
+  "scale_endpoints_px": [
+    [
+      602.0,
+      960.0
+    ],
+    [
+      808.0,
+      960.0
+    ]
+  ],
+  "scale_note": "Own printed horizontal scale stroke: endpoints refined from the dark stroke on the same 4-pixels/PDF-point source crop.",
+  "scale_reference_map": null,
+  "outline": null,
+  "rois": [],
+  "unmeasured": [
+    {
+      "label": "Vc",
+      "status": "not_measurable",
+      "reason": "Separate Vc/Vr boundaries are clearest only in the simplified Figure 11. SI is open. This view supplies only the compound absolute area, without transferring its calibration to Figure 11."
+    },
+    {
+      "label": "Vr",
+      "status": "not_measurable",
+      "reason": "Separate Vc/Vr boundaries are clearest only in the simplified Figure 11. SI is open. This view supplies only the compound absolute area, without transferring its calibration to Figure 11."
+    },
+    {
+      "label": "SI",
+      "status": "not_measurable",
+      "reason": "Separate Vc/Vr boundaries are clearest only in the simplified Figure 11. SI is open. This view supplies only the compound absolute area, without transferring its calibration to Figure 11."
+    },
+    {
+      "label": "Vc + Vr",
+      "status": "not_measurable",
+      "reason": "The outer mapping envelope has a caudal break and no complete closed divider. No combined area is inferred from selected retinotopic cells; Figure 11 supplies separately closed repeated field drawings, without physical calibration."
+    }
+  ],
+  "review_note": "Dense tracing on 4 pixels/PDF point source rendering. Anatomical interpretation provisional; hide overlay in the precision review to inspect the printed stroke.",
+  "scale_endpoints_before_stroke_check": [
+    [
+      602.0,
+      960.0
+    ],
+    [
+      808.0,
+      960.0
+    ]
+  ]
+}

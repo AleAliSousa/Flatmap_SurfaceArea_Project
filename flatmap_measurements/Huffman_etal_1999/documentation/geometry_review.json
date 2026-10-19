@@ -1,0 +1,231 @@
+{
+  "overlap_method": "Each binary mask eroded by a 5x5 square (two pixels per side); report intersection before and after erosion. This is a geometry diagnostic, not uncertainty estimation.",
+  "overlaps": [
+    {
+      "map_id": "fig09",
+      "field_a": "C (mapped component)",
+      "field_b": "SI (closed lower mapped islands)",
+      "overlap_pixels": 44,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig09",
+      "field_a": "SI (closed lower mapped islands)",
+      "field_b": "SII/PV",
+      "overlap_pixels": 96,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig12",
+      "field_a": "C (mapped component)",
+      "field_b": "SI (closed lower mapped islands)",
+      "overlap_pixels": 39,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig12",
+      "field_a": "SI (closed lower mapped islands)",
+      "field_b": "SII/PV",
+      "overlap_pixels": 120,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig14_brush_tailed",
+      "field_a": "VI",
+      "field_b": "VII",
+      "overlap_pixels": 205,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig14_brush_tailed",
+      "field_a": "C",
+      "field_b": "R",
+      "overlap_pixels": 61,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig14_brush_tailed",
+      "field_a": "C",
+      "field_b": "SI",
+      "overlap_pixels": 14,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig14_brush_tailed",
+      "field_a": "R",
+      "field_b": "SI",
+      "overlap_pixels": 15,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig14_brush_tailed",
+      "field_a": "SI",
+      "field_b": "SII",
+      "overlap_pixels": 23,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig14_brush_tailed",
+      "field_a": "SI",
+      "field_b": "PV",
+      "overlap_pixels": 6,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig14_brush_tailed",
+      "field_a": "SII",
+      "field_b": "PV",
+      "overlap_pixels": 15,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig14_north_american",
+      "field_a": "VI",
+      "field_b": "VII",
+      "overlap_pixels": 64,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig14_north_american",
+      "field_a": "SC",
+      "field_b": "SI",
+      "overlap_pixels": 55,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig14_north_american",
+      "field_a": "SI",
+      "field_b": "SR",
+      "overlap_pixels": 98,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig14_north_american",
+      "field_a": "SI",
+      "field_b": "SII",
+      "overlap_pixels": 9,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig14_north_american",
+      "field_a": "SR",
+      "field_b": "SII",
+      "overlap_pixels": 3,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig14_north_american",
+      "field_a": "SII",
+      "field_b": "PV",
+      "overlap_pixels": 17,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig14_north_american",
+      "field_a": "SII",
+      "field_b": "A",
+      "overlap_pixels": 19,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig14_quoll",
+      "field_a": "VI",
+      "field_b": "VII",
+      "overlap_pixels": 174,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig14_quoll",
+      "field_a": "C",
+      "field_b": "SI",
+      "overlap_pixels": 59,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig14_quoll",
+      "field_a": "R",
+      "field_b": "SI",
+      "overlap_pixels": 62,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig14_quoll",
+      "field_a": "SI",
+      "field_b": "SII/PV",
+      "overlap_pixels": 22,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig14_striped",
+      "field_a": "VI",
+      "field_b": "VII",
+      "overlap_pixels": 143,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig14_striped",
+      "field_a": "C",
+      "field_b": "SI",
+      "overlap_pixels": 11,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig14_striped",
+      "field_a": "R",
+      "field_b": "SI",
+      "overlap_pixels": 18,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig14_striped",
+      "field_a": "SI",
+      "field_b": "SII",
+      "overlap_pixels": 15,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig14_striped",
+      "field_a": "SI",
+      "field_b": "PV",
+      "overlap_pixels": 10,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig14_striped",
+      "field_a": "SII",
+      "field_b": "PV",
+      "overlap_pixels": 6,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    }
+  ],
+  "new_tracings_source_visually_inspected": true,
+  "anatomical_certification": false
+}

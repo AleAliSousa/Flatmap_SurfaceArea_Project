@@ -1,0 +1,488 @@
+paper,map_id,figure,specimen,label,extent,change,view_type,repeat_of,count_as_additional_animal,previous_area_px2,previous_area_mm2,current_area_px2,current_area_mm2,pixel_area_change_percent
+Beck_etal_1996,fig02_92_51,2,92-51,S1,complete,refined,physiological_architectonic_flatmap,,no; view observations are not animal counts,134793.5625,11.773391780941566,142246.125,12.424327452179229,5.528871232259336
+Beck_etal_1996,fig02_92_51,2,92-51,S2,complete,refined,physiological_architectonic_flatmap,,no; view observations are not animal counts,97367.5625,8.504459996506244,102975.125,8.9942462223775,5.7591690251052485
+Beck_etal_1996,fig02_92_51,2,92-51,PV,complete,refined,physiological_architectonic_flatmap,,no; view observations are not animal counts,49201.5625,4.297455017905493,54157.3125,4.73030941566949,10.072342722855598
+Beck_etal_1996,fig02_92_78,2,92-78,S1,complete,refined,physiological_architectonic_flatmap,,no; view observations are not animal counts,173879.8125,16.07616609652367,183569.0625,16.971991725221894,5.572383510592993
+Beck_etal_1996,fig02_92_78,2,92-78,S2,complete,refined,physiological_architectonic_flatmap,,no; view observations are not animal counts,133466.3125,12.33971084504438,140734.875,13.011730306952664,5.445990350561303
+Beck_etal_1996,fig02_92_78,2,92-78,PV,complete,refined,physiological_architectonic_flatmap,,no; view observations are not animal counts,103472.5625,9.566620053624261,111507.5625,10.309500970784025,7.7653435904808
+Beck_etal_1996,fig02_93_59,2,93-59,S1,complete,refined,physiological_architectonic_flatmap,,no; view observations are not animal counts,267912.8125,23.400542623809937,278360.875,24.31311686610184,3.8997994916723178
+Beck_etal_1996,fig02_93_59,2,93-59,S2,complete,refined,physiological_architectonic_flatmap,,no; view observations are not animal counts,199009.8125,17.38228775438903,210635.25,18.397698488950997,5.841640346251764
+Beck_etal_1996,fig02_93_59,2,93-59,PV,complete,refined,physiological_architectonic_flatmap,,no; view observations are not animal counts,116418.5625,10.168448117739539,125351.0,10.948641802777534,7.672691801189346
+Beck_etal_1996,fig02_93_82,2,93-82,S1,complete,refined,physiological_architectonic_flatmap,,no; view observations are not animal counts,119657.3125,10.451333085859027,126424.0,11.042361778321249,5.6550555570935135
+Beck_etal_1996,fig02_93_82,2,93-82,S2,complete,refined,physiological_architectonic_flatmap,,no; view observations are not animal counts,131815.0625,11.51323805572539,138586.125,12.104648877631233,5.136789659375984
+Beck_etal_1996,fig02_93_82,2,93-82,PV,complete,refined,physiological_architectonic_flatmap,,no; view observations are not animal counts,57669.0625,5.037039261070835,63549.5,5.5506594462398455,10.196866820923267
+Beck_etal_1996,fig03_92_44,3,92-44,S1,complete,refined,physiological_architectonic_flatmap,,no; view observations are not animal counts,322172.5625,28.67324336952652,335176.875,29.830622552509787,4.036443202701356
+Beck_etal_1996,fig03_92_44,3,92-44,S2,complete,refined,physiological_architectonic_flatmap,,no; view observations are not animal counts,174288.3125,15.511597766108935,183248.9375,16.309090201139195,5.141265568223341
+Beck_etal_1996,fig03_92_44,3,92-44,PV,complete,refined,physiological_architectonic_flatmap,,no; view observations are not animal counts,123559.3125,10.996734825560697,130896.625,11.649753025987895,5.938291781932659
+Beck_etal_1996,fig03_92_57,3,92-57,S1,complete,refined,physiological_architectonic_flatmap,,no; view observations are not animal counts,208051.0625,18.516470496618012,217974.0,19.399608401566393,4.7694721578266375
+Beck_etal_1996,fig03_92_57,3,92-57,S2,complete,refined,physiological_architectonic_flatmap,,no; view observations are not animal counts,105978.8125,9.432076584193663,111246.125,9.900865521537913,4.970156180981933
+Beck_etal_1996,fig03_92_57,3,92-57,PV,complete,refined,physiological_architectonic_flatmap,,no; view observations are not animal counts,71136.0625,6.331084238163046,77008.5625,6.853734647561409,8.255306512080285
+Beck_etal_1996,fig03_93_06,3,93-06,S1,complete,refined,physiological_architectonic_flatmap,,no; view observations are not animal counts,315520.8125,28.081239987540048,328842.25,29.266843182627266,4.222047158933462
+Beck_etal_1996,fig03_93_06,3,93-06,S2,complete,refined,physiological_architectonic_flatmap,,no; view observations are not animal counts,194744.8125,17.332218983624063,203933.5,18.150008899964398,4.7183220862429875
+Beck_etal_1996,fig03_93_06,3,93-06,PV,complete,refined,physiological_architectonic_flatmap,,no; view observations are not animal counts,81310.3125,7.236588866144535,88306.8125,7.859274875400498,8.60468959580003
+Beck_etal_1996,fig03_93_88,3,93-88,S1,complete,refined,physiological_architectonic_flatmap,,no; view observations are not animal counts,134296.5625,11.952346253114987,142584.875,12.690003114987539,6.17164903234213
+Beck_etal_1996,fig03_93_88,3,93-88,S2,complete,refined,physiological_architectonic_flatmap,,no; view observations are not animal counts,100806.8125,8.971770425418297,108598.0625,9.665188901744392,7.728892330565462
+Beck_etal_1996,fig03_93_88,3,93-88,PV,complete,refined,physiological_architectonic_flatmap,,no; view observations are not animal counts,102785.5625,9.147878470986115,111150.1875,9.892327118191526,8.137937660262363
+Beck_etal_1996,fig04,4,92-51,S1,complete,added,repeated_local_somatotopic_map,fig02_92_51,no; view observations are not animal counts,NA,NA,158463.0625,14.1031561498754,NA
+Beck_etal_1996,fig07A,7,93-82,S2,complete,added,repeated_local_somatotopic_map,fig02_93_82,no; view observations are not animal counts,NA,NA,189866.875,16.278024262688614,NA
+Beck_etal_1996,fig07B,7,93-59,S2,complete,added,repeated_local_somatotopic_map,fig02_93_59,no; view observations are not animal counts,NA,NA,188980.8125,18.164245722798924,NA
+Beck_etal_1996,fig08,8,93-59,S2,complete,added,repeated_local_somatotopic_map,fig02_93_59,no; view observations are not animal counts,NA,NA,211401.1875,11.773289568946312,NA
+Beck_etal_1996,fig08,8,93-59,PV,complete,added,repeated_local_somatotopic_map,fig02_93_59,no; view observations are not animal counts,NA,NA,123803.5625,6.89482972265538,NA
+Beck_etal_1996,fig09,9,93-82,S2,complete,added,repeated_local_somatotopic_map,fig02_93_82,no; view observations are not animal counts,NA,NA,204765.375,11.40372995099131,NA
+Beck_etal_1996,fig09,9,93-82,PV,complete,added,repeated_local_somatotopic_map,fig02_93_82,no; view observations are not animal counts,NA,NA,90960.0,5.065716195143684,NA
+Beck_etal_1996,fig10A,10,92-44,PV,complete,added,repeated_local_somatotopic_map,fig03_92_44,no; view observations are not animal counts,NA,NA,344471.8125,8.277388804786622,NA
+Beck_etal_1996,fig10B,10,92-78,PV,complete,added,repeated_local_somatotopic_map,fig02_92_78,no; view observations are not animal counts,NA,NA,422963.75,11.010093450645561,NA
+Beck_etal_1996,fig12A,12,93-86,S1,complete,refined,motor_stimulation_map,,no; view observations are not animal counts,51038.0,NA,63095.25,NA,23.62406442258709
+Beck_etal_1996,fig12A,12,93-86,SC,complete,refined,motor_stimulation_map,,no; view observations are not animal counts,29063.0625,NA,33622.4375,NA,15.687868406848038
+Beck_etal_1996,fig12A,12,93-86,SR,complete,added,motor_stimulation_map,,no; view observations are not animal counts,NA,NA,34204.25,NA,NA
+Beck_etal_1996,fig12B,12,93-88,S1,complete,refined,motor_stimulation_map,fig03_93_88,no; view observations are not animal counts,78574.5625,NA,89035.6875,NA,13.313628058699024
+Beck_etal_1996,fig12B,12,93-88,SC,complete,refined,motor_stimulation_map,fig03_93_88,no; view observations are not animal counts,68717.3125,NA,73158.8125,NA,6.463436706725112
+Beck_etal_1996,fig12B,12,93-88,SR,complete,refined,motor_stimulation_map,fig03_93_88,no; view observations are not animal counts,30688.0625,NA,36555.25,NA,19.11879415652258
+Beck_etal_1996,fig16,16,93-88,V1,complete,refined,case_flatmap,fig03_93_88,no; view observations are not animal counts,223407.4375,36.72048611111111,228645.6875,37.581473948060484,2.3447070780711954
+Beck_etal_1996,fig16,16,93-88,S2,complete,refined,case_flatmap,fig03_93_88,no; view observations are not animal counts,85726.8125,14.090534598948059,87634.25,14.404051610782378,2.225018572806503
+Beck_etal_1996,fig16,16,93-88,CT,complete,refined,case_flatmap,fig03_93_88,no; view observations are not animal counts,42432.8125,6.97449252136752,44991.875,7.395114234056541,6.030857605773843
+Beck_etal_1996,fig16,16,93-88,SC,complete,refined,case_flatmap,fig03_93_88,no; view observations are not animal counts,109741.375,18.0377013477975,109379.0625,17.978149654832347,-0.33015123056368
+Beck_etal_1996,fig16,16,93-88,S1,complete,refined,case_flatmap,fig03_93_88,no; view observations are not animal counts,170129.875,27.963490302432607,162774.3125,26.75448923405654,-4.323498444938023
+Beck_etal_1996,fig16,16,93-88,SR,complete,refined,case_flatmap,fig03_93_88,no; view observations are not animal counts,44055.5625,7.24121671597633,49860.3125,8.195317636423404,13.175975224467962
+Beck_etal_1996,fig16,16,93-88,PV,complete,refined,case_flatmap,fig03_93_88,no; view observations are not animal counts,83250.8125,13.683565499671268,83446.1875,13.715678418803417,0.23468239424089266
+Beck_etal_1996,fig16,16,93-88,Aud,complete,refined,case_flatmap,fig03_93_88,no; view observations are not animal counts,51088.1875,8.397137984878368,50061.5,8.228385930309006,-2.00963774649473
+Beck_etal_1996,fig16,16,93-88,V2,complete,refined,case_flatmap,fig03_93_88,no; view observations are not animal counts,103917.875,17.08051857330703,109076.0625,17.92834689349112,4.963715337712582
+Beck_etal_1996,fig17,17,92-79,V1,complete,refined,case_flatmap,,no; view observations are not animal counts,223457.8125,46.26216293152529,228453.375,47.296387350551214,2.235572989868051
+Beck_etal_1996,fig17,17,92-79,V2,complete,refined,case_flatmap,,no; view observations are not animal counts,100462.3125,20.798574090367996,104257.75,21.58433828476787,3.7779714656677843
+Beck_etal_1996,fig17,17,92-79,S2,complete,refined,case_flatmap,,no; view observations are not animal counts,92920.5625,19.237215982609598,94676.375,19.600719424460433,1.889584450158699
+Beck_etal_1996,fig17,17,92-79,CT,complete,refined,case_flatmap,,no; view observations are not animal counts,27789.3125,5.753183065058745,29554.5,6.118627400238084,6.352037316504311
+Beck_etal_1996,fig17,17,92-79,SC,complete,refined,case_flatmap,,no; view observations are not animal counts,94445.9375,19.553012266445837,93176.25,19.290150613322293,-1.3443537473488476
+Beck_etal_1996,fig17,17,92-79,S1,complete,refined,case_flatmap,,no; view observations are not animal counts,120746.0,24.997877956627505,121210.625,25.094068629988097,0.3847953555397243
+Beck_etal_1996,fig17,17,92-79,SR,complete,refined,case_flatmap,,no; view observations are not animal counts,53165.375,11.00675430878319,52981.0,10.968583406655972,-0.3467952591324708
+Beck_etal_1996,fig17,17,92-79,PV,complete,refined,case_flatmap,,no; view observations are not animal counts,97180.4375,20.119132032503494,99780.5625,20.65743232751928,2.6755642049872463
+Beck_etal_1996,fig17,17,92-79,Aud,complete,refined,case_flatmap,,no; view observations are not animal counts,45701.0,9.461415040629367,46558.625,9.638967962320791,1.8766000743966282
+Felleman_VanEssen_1991,fig02,2,80G-R atlas carrier; composite field assignments,5,complete,refined,composite_parcellation,fig01,no; view observations are not animal counts,28299.3125,193.28811215080938,28574.375,195.16682603647294,0.9719759093087532
+Felleman_VanEssen_1991,fig02,2,80G-R atlas carrier; composite field assignments,7b,complete,refined,composite_parcellation,fig01,no; view observations are not animal counts,14559.0625,99.44035585001025,14513.6875,99.13043849463835,-0.3116615510098897
+Felleman_VanEssen_1991,fig02,2,80G-R atlas carrier; composite field assignments,7a,complete,refined,composite_parcellation,fig01,no; view observations are not animal counts,15021.8125,102.60100061471212,15675.375,107.06492042893247,4.350756608099049
+Felleman_VanEssen_1991,fig02,2,80G-R atlas carrier; composite field assignments,SII,complete,refined,composite_parcellation,fig01,no; view observations are not animal counts,16231.0625,110.86034082371424,16528.875,112.89444027047334,1.8348305910349305
+Felleman_VanEssen_1991,fig02,2,80G-R atlas carrier; composite field assignments,4,complete,refined,composite_parcellation,fig01,no; view observations are not animal counts,57362.4375,391.7931664503791,58447.875,399.2068506249573,1.8922443803054856
+Felleman_VanEssen_1991,fig02,2,80G-R atlas carrier; composite field assignments,6,complete,refined,composite_parcellation,fig01,no; view observations are not animal counts,33420.0625,228.26352366641626,34641.5,236.606106140291,3.654803159030595
+Felleman_VanEssen_1991,fig02,2,80G-R atlas carrier; composite field assignments,3b,complete,refined,composite_parcellation,fig01,no; view observations are not animal counts,20548.5625,140.34944675910117,20658.375,141.09948090977394,0.5344047789231032
+Felleman_VanEssen_1991,fig02,2,80G-R atlas carrier; composite field assignments,3a,complete,refined,composite_parcellation,fig01,no; view observations are not animal counts,13856.8125,94.64389385970905,15268.1875,104.28377501536781,10.185423234961144
+Felleman_VanEssen_1991,fig02,2,80G-R atlas carrier; composite field assignments,1,complete,refined,composite_parcellation,fig01,no; view observations are not animal counts,18236.5625,124.55817567106074,18625.9375,127.21765931288847,2.1351337457374386
+Felleman_VanEssen_1991,fig02,2,80G-R atlas carrier; composite field assignments,2,complete,refined,composite_parcellation,fig01,no; view observations are not animal counts,25730.6875,175.74405778293834,25655.625,175.23137080800493,-0.29172364710425835
+Felleman_VanEssen_1991,fig02,2,80G-R atlas carrier; composite field assignments,23,complete,refined,composite_parcellation,fig01,no; view observations are not animal counts,24471.3125,167.14235707943448,25427.375,173.67239259613416,3.906870544847152
+Felleman_VanEssen_1991,fig02,2,80G-R atlas carrier; composite field assignments,24,complete,refined,composite_parcellation,fig01,no; view observations are not animal counts,22119.8125,151.08129567652483,23323.0625,159.29965507820506,5.439693487456099
+Felleman_VanEssen_1991,fig02,2,80G-R atlas carrier; composite field assignments,32,complete,refined,composite_parcellation,fig01,no; view observations are not animal counts,15122.8125,103.29084420463084,15886.875,108.50949388702959,5.052383609199684
+Felleman_VanEssen_1991,fig02,2,80G-R atlas carrier; composite field assignments,25,complete,refined,composite_parcellation,fig01,no; view observations are not animal counts,9298.8125,63.51214056416912,9708.9375,66.31334949798512,4.410509406443031
+Felleman_VanEssen_1991,fig02,2,80G-R atlas carrier; composite field assignments,14,complete,refined,composite_parcellation,fig01,no; view observations are not animal counts,13506.0625,92.24822416501605,14165.75,96.75397855337751,4.884380625367313
+Felleman_VanEssen_1991,fig02,2,80G-R atlas carrier; composite field assignments,10,complete,refined,composite_parcellation,fig01,no; view observations are not animal counts,24253.3125,165.65338774673862,24589.1875,167.94745918994604,1.3848623770464252
+Felleman_VanEssen_1991,fig02,2,80G-R atlas carrier; composite field assignments,SMA,complete,refined,composite_parcellation,fig01,no; view observations are not animal counts,12258.6875,83.728485076156,12124.875,82.81452769619563,-1.091572813158015
+Felleman_VanEssen_1991,fig02,2,80G-R atlas carrier; composite field assignments,11,complete,refined,composite_parcellation,fig01,no; view observations are not animal counts,7927.5625,54.14631855747559,8274.625,56.51680213100199,4.3779219652951396
+Felleman_VanEssen_1991,fig02,2,80G-R atlas carrier; composite field assignments,12,complete,refined,composite_parcellation,fig01,no; view observations are not animal counts,8822.5625,60.25928898299297,9301.8125,63.53263096783007,5.432095267106352
+Felleman_VanEssen_1991,fig02,2,80G-R atlas carrier; composite field assignments,13,complete,refined,composite_parcellation,fig01,no; view observations are not animal counts,13598.5625,92.88001161122875,14026.5625,95.80330920019125,3.1473914981822615
+Felleman_VanEssen_1991,fig02,2,80G-R atlas carrier; composite field assignments,45,complete,refined,composite_parcellation,fig01,no; view observations are not animal counts,9964.3125,68.05759510962366,11259.8125,76.90603442387815,13.001398741759651
+Felleman_VanEssen_1991,fig02,2,80G-R atlas carrier; composite field assignments,G,complete,refined,composite_parcellation,fig01,no; view observations are not animal counts,5922.5625,40.451898777405916,6267.375,42.8070145481866,5.82201538607654
+Felleman_VanEssen_1991,fig02,2,80G-R atlas carrier; composite field assignments,PIR,complete,refined,composite_parcellation,fig01,no; view observations are not animal counts,8892.8125,60.73910593538693,9342.1875,63.80839765043372,5.0532382190673575
+Felleman_VanEssen_1991,fig02,2,80G-R atlas carrier; composite field assignments,MDP,complete,refined,composite_parcellation,fig01,no; view observations are not animal counts,5872.0625,40.10697698244656,5865.3125,40.06087357420942,-0.1149510925675612
+Felleman_VanEssen_1991,fig02,2,80G-R atlas carrier; composite field assignments,9,complete,refined,composite_parcellation,fig01,no; view observations are not animal counts,22977.0625,156.9364285226419,24186.375,165.19619561505363,5.263129262062982
+Felleman_VanEssen_1991,fig02,2,80G-R atlas carrier; composite field assignments,MIP,complete,refined,composite_parcellation,fig01,no; view observations are not animal counts,1909.375,13.04128816337682,1888.5625,12.899135987978964,-1.090016366612112
+Felleman_VanEssen_1991,fig02,2,80G-R atlas carrier; composite field assignments,LIP,complete,refined,composite_parcellation,fig01,no; view observations are not animal counts,6986.8125,47.720869476128684,7803.5,53.298954989413296,11.688985499467751
+Felleman_VanEssen_1991,fig02,2,80G-R atlas carrier; composite field assignments,PIP,complete,refined,composite_parcellation,fig01,no; view observations are not animal counts,6439.5625,43.983078341643335,7638.75,52.17369032169934,18.6221890074054
+Felleman_VanEssen_1991,fig02,2,80G-R atlas carrier; composite field assignments,29,complete,refined,composite_parcellation,fig01,no; view observations are not animal counts,11246.5625,76.81553514104229,13268.75,90.62734785875283,17.980494039845517
+Felleman_VanEssen_1991,fig02,2,80G-R atlas carrier; composite field assignments,PSd,complete,refined,composite_parcellation,fig01,no; view observations are not animal counts,2039.0625,13.927071238303396,2707.9375,18.495577487876513,32.803065134099604
+Felleman_VanEssen_1991,fig02,2,80G-R atlas carrier; composite field assignments,RL,complete,refined,composite_parcellation,fig01,no; view observations are not animal counts,4174.8125,28.514531111262894,4953.6875,33.83435216173759,18.656526490710657
+Felleman_VanEssen_1991,fig02,2,80G-R atlas carrier; composite field assignments,Ig,complete,refined,composite_parcellation,fig01,no; view observations are not animal counts,5372.3125,36.693617239259616,6287.3125,42.943190355850014,17.03177169980339
+Felleman_VanEssen_1991,fig02,2,80G-R atlas carrier; composite field assignments,Id,complete,refined,composite_parcellation,fig01,no; view observations are not animal counts,4965.0625,33.91204494228537,5686.5625,38.83998702274435,14.531539129668559
+Felleman_VanEssen_1991,fig02,2,80G-R atlas carrier; composite field assignments,Pro,complete,refined,composite_parcellation,fig01,no; view observations are not animal counts,2501.0625,17.082593402090023,3041.8125,20.775988661976644,21.620811155259023
+Felleman_VanEssen_1991,fig02,2,80G-R atlas carrier; composite field assignments,Pall,complete,refined,composite_parcellation,fig01,no; view observations are not animal counts,25579.0625,174.70843863124105,27115.1875,185.20037907246774,6.005399924254462
+Felleman_VanEssen_1991,fig02,2,80G-R atlas carrier; composite field assignments,30,complete,refined,composite_parcellation,fig01,no; view observations are not animal counts,1724.5625,11.778993921180248,2397.8125,16.377382009425588,39.038886674156494
+Felleman_VanEssen_1991,fig02,2,80G-R atlas carrier; composite field assignments,ER posterior,complete,refined,composite_parcellation,fig01,no; view observations are not animal counts,10031.5625,68.51692165835668,11818.125,80.71938392186327,17.809414036945892
+Huffman_etal_1999,fig08A,8,NQ3,C (mapped component),partial,added,repeated_physiological_map,fig02,no; view observations are not animal counts,NA,NA,40935.75,3.149873037857802,NA
+Huffman_etal_1999,fig08A,8,NQ3,SII/PV,complete,added,repeated_physiological_map,fig02,no; view observations are not animal counts,NA,NA,38731.4375,2.9802583487226837,NA
+Huffman_etal_1999,fig08B,8,NQ5,C (mapped component),partial,added,repeated_physiological_map,fig03,no; view observations are not animal counts,NA,NA,40652.625,2.9196082303935653,NA
+Huffman_etal_1999,fig08B,8,NQ5,SII/PV,complete,added,repeated_physiological_map,fig03,no; view observations are not animal counts,NA,NA,47309.5625,3.3976991166331514,NA
+Huffman_etal_1999,fig09,9,SP1,C (mapped component),partial,added,repeated_physiological_map,fig05,no; view observations are not animal counts,NA,NA,67440.5,8.325987654320988,NA
+Huffman_etal_1999,fig09,9,SP1,SI (closed lower mapped islands),partial,added,repeated_physiological_map,fig05,no; view observations are not animal counts,NA,NA,211555.4375,26.11795524691358,NA
+Huffman_etal_1999,fig09,9,SP1,SII/PV,complete,added,repeated_physiological_map,fig05,no; view observations are not animal counts,NA,NA,172015.625,21.236496913580247,NA
+Huffman_etal_1999,fig10,10,NQ3,C (mapped component),partial,added,repeated_physiological_map,fig02,no; view observations are not animal counts,NA,NA,114829.375,3.2489071695337257,NA
+Huffman_etal_1999,fig10,10,NQ3,SII/PV,complete,added,repeated_physiological_map,fig02,no; view observations are not animal counts,NA,NA,104408.25,2.9540586803983704,NA
+Huffman_etal_1999,fig11,11,NQ5,C (mapped component),partial,added,repeated_physiological_map,fig03,no; view observations are not animal counts,NA,NA,98498.5,2.786852082390222,NA
+Huffman_etal_1999,fig11,11,NQ5,SII/PV,complete,added,repeated_physiological_map,fig03,no; view observations are not animal counts,NA,NA,113315.75,3.2060816545948394,NA
+Huffman_etal_1999,fig12,12,SP1,C (mapped component),partial,added,repeated_physiological_map,fig05,no; view observations are not animal counts,NA,NA,63459.25,8.580212276906435,NA
+Huffman_etal_1999,fig12,12,SP1,SI (closed lower mapped islands),partial,added,repeated_physiological_map,fig05,no; view observations are not animal counts,NA,NA,207491.4375,28.05454806652244,NA
+Huffman_etal_1999,fig12,12,SP1,SII/PV,complete,added,repeated_physiological_map,fig05,no; view observations are not animal counts,NA,NA,171693.5625,23.214381084369926,NA
+Huffman_etal_1999,fig14_brush_tailed,14,illustrative summary,VI,complete,added,illustrative_summary_flatmap,literature_summary_Elston_etal_1993,no; view observations are not animal counts,NA,NA,49641.4375,31.025898437500008,NA
+Huffman_etal_1999,fig14_brush_tailed,14,illustrative summary,VII,complete,added,illustrative_summary_flatmap,literature_summary_Elston_etal_1993,no; view observations are not animal counts,NA,NA,21712.375,13.570234375000002,NA
+Huffman_etal_1999,fig14_brush_tailed,14,illustrative summary,C,complete,added,illustrative_summary_flatmap,literature_summary_Elston_etal_1993,no; view observations are not animal counts,NA,NA,18279.0,11.424375000000003,NA
+Huffman_etal_1999,fig14_brush_tailed,14,illustrative summary,R,complete,added,illustrative_summary_flatmap,literature_summary_Elston_etal_1993,no; view observations are not animal counts,NA,NA,14474.8125,9.046757812500001,NA
+Huffman_etal_1999,fig14_brush_tailed,14,illustrative summary,SI,complete,added,illustrative_summary_flatmap,literature_summary_Elston_etal_1993,no; view observations are not animal counts,NA,NA,56742.75,35.46421875000001,NA
+Huffman_etal_1999,fig14_brush_tailed,14,illustrative summary,SII,complete,added,illustrative_summary_flatmap,literature_summary_Elston_etal_1993,no; view observations are not animal counts,NA,NA,5482.3125,3.4264453125000007,NA
+Huffman_etal_1999,fig14_brush_tailed,14,illustrative summary,PV,complete,added,illustrative_summary_flatmap,literature_summary_Elston_etal_1993,no; view observations are not animal counts,NA,NA,6436.6875,4.0229296875000005,NA
+Huffman_etal_1999,fig14_brush_tailed,14,illustrative summary,A,complete,added,illustrative_summary_flatmap,literature_summary_Elston_etal_1993,no; view observations are not animal counts,NA,NA,15396.4375,9.622773437500001,NA
+Huffman_etal_1999,fig14_dunnart,14,illustrative summary,VI,complete,added,illustrative_summary_flatmap,literature_summary,no; view observations are not animal counts,NA,NA,6210.0625,3.881289062500001,NA
+Huffman_etal_1999,fig14_dunnart,14,illustrative summary,SI,complete,added,illustrative_summary_flatmap,literature_summary,no; view observations are not animal counts,NA,NA,3094.875,1.9342968750000005,NA
+Huffman_etal_1999,fig14_dunnart,14,illustrative summary,A,complete,added,illustrative_summary_flatmap,literature_summary,no; view observations are not animal counts,NA,NA,755.25,0.47203125000000007,NA
+Huffman_etal_1999,fig14_dunnart,14,illustrative summary,CT,complete,added,illustrative_summary_flatmap,literature_summary,no; view observations are not animal counts,NA,NA,791.8125,0.4948828125000001,NA
+Huffman_etal_1999,fig14_north_american,14,illustrative summary,VI,complete,added,illustrative_summary_flatmap,literature_summary_Beck_etal_1996,no; view observations are not animal counts,NA,NA,54337.25,37.62967451523545,NA
+Huffman_etal_1999,fig14_north_american,14,illustrative summary,VII,complete,added,illustrative_summary_flatmap,literature_summary_Beck_etal_1996,no; view observations are not animal counts,NA,NA,26652.625,18.457496537396118,NA
+Huffman_etal_1999,fig14_north_american,14,illustrative summary,SC,complete,added,illustrative_summary_flatmap,literature_summary_Beck_etal_1996,no; view observations are not animal counts,NA,NA,25763.9375,17.842061980609415,NA
+Huffman_etal_1999,fig14_north_american,14,illustrative summary,SI,complete,added,illustrative_summary_flatmap,literature_summary_Beck_etal_1996,no; view observations are not animal counts,NA,NA,40238.9375,27.86630020775623,NA
+Huffman_etal_1999,fig14_north_american,14,illustrative summary,SR,complete,added,illustrative_summary_flatmap,literature_summary_Beck_etal_1996,no; view observations are not animal counts,NA,NA,10875.1875,7.531293282548475,NA
+Huffman_etal_1999,fig14_north_american,14,illustrative summary,SII,complete,added,illustrative_summary_flatmap,literature_summary_Beck_etal_1996,no; view observations are not animal counts,NA,NA,29678.875,20.553237534626035,NA
+Huffman_etal_1999,fig14_north_american,14,illustrative summary,PV,complete,added,illustrative_summary_flatmap,literature_summary_Beck_etal_1996,no; view observations are not animal counts,NA,NA,20732.5625,14.357730263157892,NA
+Huffman_etal_1999,fig14_north_american,14,illustrative summary,A,complete,added,illustrative_summary_flatmap,literature_summary_Beck_etal_1996,no; view observations are not animal counts,NA,NA,8249.6875,5.713079986149584,NA
+Huffman_etal_1999,fig14_quoll,14,illustrative summary,VI,complete,added,illustrative_summary_flatmap,fig02,no; view observations are not animal counts,NA,NA,41882.125,32.31645447530864,NA
+Huffman_etal_1999,fig14_quoll,14,illustrative summary,VII,complete,added,illustrative_summary_flatmap,fig02,no; view observations are not animal counts,NA,NA,11543.25,8.906828703703702,NA
+Huffman_etal_1999,fig14_quoll,14,illustrative summary,C,complete,added,illustrative_summary_flatmap,fig02,no; view observations are not animal counts,NA,NA,3362.5,2.5945216049382713,NA
+Huffman_etal_1999,fig14_quoll,14,illustrative summary,R,complete,added,illustrative_summary_flatmap,fig02,no; view observations are not animal counts,NA,NA,3616.5,2.790509259259259,NA
+Huffman_etal_1999,fig14_quoll,14,illustrative summary,SI,complete,added,illustrative_summary_flatmap,fig02,no; view observations are not animal counts,NA,NA,22409.25,17.291087962962962,NA
+Huffman_etal_1999,fig14_quoll,14,illustrative summary,SII/PV,complete,added,illustrative_summary_flatmap,fig02,no; view observations are not animal counts,NA,NA,3865.3125,2.982494212962963,NA
+Huffman_etal_1999,fig14_quoll,14,illustrative summary,A,complete,added,illustrative_summary_flatmap,fig02,no; view observations are not animal counts,NA,NA,6617.5,5.106095679012346,NA
+Huffman_etal_1999,fig14_short_tailed,14,illustrative summary,VI,complete,added,illustrative_summary_flatmap,literature_summary,no; view observations are not animal counts,NA,NA,18331.25,12.694771468144042,NA
+Huffman_etal_1999,fig14_short_tailed,14,illustrative summary,SI,complete,added,illustrative_summary_flatmap,literature_summary,no; view observations are not animal counts,NA,NA,12417.25,8.599203601108032,NA
+Huffman_etal_1999,fig14_short_tailed,14,illustrative summary,SI?,complete,added,illustrative_summary_flatmap,literature_summary,no; view observations are not animal counts,NA,NA,1809.375,1.2530297783933515,NA
+Huffman_etal_1999,fig14_short_tailed,14,illustrative summary,A,complete,added,illustrative_summary_flatmap,literature_summary,no; view observations are not animal counts,NA,NA,2475.25,1.7141620498614956,NA
+Huffman_etal_1999,fig14_short_tailed,14,illustrative summary,CT,complete,added,illustrative_summary_flatmap,literature_summary,no; view observations are not animal counts,NA,NA,3427.9375,2.3739179362880884,NA
+Huffman_etal_1999,fig14_striped,14,illustrative summary,VI,complete,added,illustrative_summary_flatmap,fig05,no; view observations are not animal counts,NA,NA,105420.625,73.00597299168975,NA
+Huffman_etal_1999,fig14_striped,14,illustrative summary,VII,complete,added,illustrative_summary_flatmap,fig05,no; view observations are not animal counts,NA,NA,32213.0,22.30817174515235,NA
+Huffman_etal_1999,fig14_striped,14,illustrative summary,C,complete,added,illustrative_summary_flatmap,fig05,no; view observations are not animal counts,NA,NA,7074.375,4.899151662049861,NA
+Huffman_etal_1999,fig14_striped,14,illustrative summary,R,complete,added,illustrative_summary_flatmap,fig05,no; view observations are not animal counts,NA,NA,13283.5,9.199099722991688,NA
+Huffman_etal_1999,fig14_striped,14,illustrative summary,SI,complete,added,illustrative_summary_flatmap,fig05,no; view observations are not animal counts,NA,NA,33891.9375,23.470870844875343,NA
+Huffman_etal_1999,fig14_striped,14,illustrative summary,SII,complete,added,illustrative_summary_flatmap,fig05,no; view observations are not animal counts,NA,NA,8611.5625,5.9636859418282535,NA
+Huffman_etal_1999,fig14_striped,14,illustrative summary,PV,complete,added,illustrative_summary_flatmap,fig05,no; view observations are not animal counts,NA,NA,8181.625,5.6659452908587244,NA
+Huffman_etal_1999,fig14_striped,14,illustrative summary,A,complete,added,illustrative_summary_flatmap,fig05,no; view observations are not animal counts,NA,NA,9027.4375,6.25168801939058,NA
+Huffman_etal_1999,fig15_quoll,15,illustrative SI summary,SI,complete,added,illustrative_summary_flatmap,illustrative_summary_of_quoll_cases,no; view observations are not animal counts,NA,NA,292775.0,16.80297291092746,NA
+Huffman_etal_1999,fig15_striped,15,illustrative SI summary,SI lower mapped component,partial,added,illustrative_summary_flatmap,fig05,no; view observations are not animal counts,NA,NA,426273.125,NA,NA
+Krubitzer_1995,fig01_flying_fox,1,illustrative summary,MT,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,4675.25,5.1947222222222225,NA
+Krubitzer_1995,fig01_marmoset,1,illustrative summary,MT,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,4254.25,6.293269230769232,NA
+Krubitzer_1995,fig01_squirrel,1,illustrative summary,AUD,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,6309.8125,7.010902777777778,NA
+Krubitzer_1995,fig01_squirrel,1,illustrative summary,R,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,2794.75,3.105277777777778,NA
+Krubitzer_1995,fig01_squirrel,1,illustrative summary,TP,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,10742.875,11.936527777777778,NA
+Krubitzer_1995,fig02_ghost_bat,2,illustrative summary,SII,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,3555.1875,1.0568333828775267,NA
+Krubitzer_1995,fig02_ghost_bat,2,illustrative summary,V,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,7383.875,2.1949687871581447,NA
+Krubitzer_1995,fig02_platypus,2,illustrative summary,M bill,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,23985.8125,30.594148596938773,NA
+Krubitzer_1995,fig02_platypus,2,illustrative summary,V,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,3296.375,4.2045599489795915,NA
+Krubitzer_1995,fig02_star_nosed_mole,2,illustrative summary,V,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,1872.0625,2.387834821428571,NA
+Krubitzer_1998,fig02A,2,not reported,SI (historical outline),complete,refined,redrawn_historical_map,,no; view observations are not animal counts,356692.9375,NA,356301.8125,NA,-0.10965313828228407
+Krubitzer_1998,fig03,3,not reported,A,complete,refined,redrawn_case_map,,no; view observations are not animal counts,121078.9375,10.190971929972225,124678.9375,10.493976727548187,2.9732669234894704
+Krubitzer_1998,fig06,6,E2,SI dorsal myelinated island,partial,refined,partial_case_reconstruction,,no; view observations are not animal counts,16744.3125,19.910002972651604,16585.3125,19.720942330558856,-0.9495761620550214
+Krubitzer_1998,fig06,6,E2,SI lateral myelinated island,partial,refined,partial_case_reconstruction,,no; view observations are not animal counts,31768.3125,37.77445005945303,31618.5625,37.59638822829964,-0.4713816637254453
+Krubitzer_1998,fig07A,7,not reported,Electrosensory island ii,partial,refined,cortical_subregion_map,,no; view observations are not animal counts,22392.9375,3.413037265660722,23343.25,3.557879896357262,4.243804547750818
+Krubitzer_1998,fig09C,9,not reported,Auditory mapped envelope,complete,refined,redrawn_case_map,,no; view observations are not animal counts,385498.0625,15.058518066406252,390523.3125,15.254816894531253,1.3035733480502243
+Krubitzer_1998,fig11A,11,not reported,Vc,complete,refined,repeated_visual_map,fig10A,no; view observations are not animal counts,370703.8125,NA,374742.5,NA,1.0894647866617202
+Krubitzer_1998,fig11A,11,not reported,Vr,complete,refined,repeated_visual_map,fig10A,no; view observations are not animal counts,202527.8125,NA,207212.625,NA,2.313169950423477
+Krubitzer_1998,fig11B,11,not reported,Vc,complete,added,repeated_physiological_map,fig11A,no; view observations are not animal counts,NA,NA,264127.4375,NA,NA
+Krubitzer_1998,fig11B,11,not reported,Vr,complete,added,repeated_physiological_map,fig11A,no; view observations are not animal counts,NA,NA,199820.75,NA,NA
+Krubitzer_1998,fig12,12,E3,Auditory A1?,complete,refined,partial_case_reconstruction,,no; view observations are not animal counts,26950.8125,10.780325000000001,27664.0,11.0656,2.6462560266040214
+Krubitzer_1998,fig12,12,E3,Auditory adjacent mapped patch,partial,refined,partial_case_reconstruction,,no; view observations are not animal counts,19753.3125,7.901325000000001,20339.125,8.13565,2.965641838552391
+Krubitzer_1998,fig13A_summary,13,illustrative summary,R,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,19517.0,67.53287197231835,NA
+Krubitzer_1998,fig13B_summary,13,illustrative summary,SI,partial,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,25263.125,28.070138888888888,NA
+Krubitzer_1998,fig13B_summary,13,illustrative summary,SI upper island,partial,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,11264.9375,12.516597222222222,NA
+Krubitzer_1998,fig13B_summary,13,illustrative summary,SI lower island,partial,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,4837.375,5.3748611111111115,NA
+Krubitzer_1998,fig14A_summary,14,illustrative summary,VI,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,33407.0625,9.93075579667063,NA
+Krubitzer_1998,fig14A_summary,14,illustrative summary,SC,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,15843.0,4.709571938168846,NA
+Krubitzer_1998,fig14A_summary,14,illustrative summary,SI,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,24635.4375,7.323257282996432,NA
+Krubitzer_1998,fig14A_summary,14,illustrative summary,SII,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,18635.1875,5.539592003567181,NA
+Krubitzer_1998,fig14A_summary,14,illustrative summary,A,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,4952.6875,1.47226144470868,NA
+Krubitzer_1998,fig14B_summary,14,illustrative summary,V,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,2641.8125,1.0854781090211834,NA
+Krubitzer_1998,fig14B_summary,14,illustrative summary,S1,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,5804.1875,2.3848469457633312,NA
+Krubitzer_1998,fig14B_summary,14,illustrative summary,A,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,2189.1875,0.899501803323594,NA
+Krubitzer_1998,fig14B_summary,14,illustrative summary,Fr,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,3720.5625,1.5287190695763333,NA
+Krubitzer_1998,fig14C_summary,14,illustrative summary,VI,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,49232.0,37.98765432098765,NA
+Krubitzer_1998,fig14C_summary,14,illustrative summary,VII,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,18471.0625,14.252363040123456,NA
+Krubitzer_1998,fig14C_summary,14,illustrative summary,MT,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,6080.6875,4.691888503086419,NA
+Krubitzer_1998,fig14C_summary,14,illustrative summary,AI,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,2120.6875,1.6363329475308641,NA
+Krubitzer_1998,fig14C_summary,14,illustrative summary,SII,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,5669.3125,4.374469521604938,NA
+Krubitzer_1998,fig14C_summary,14,illustrative summary,VS,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,7216.625,5.56838348765432,NA
+Krubitzer_1998,fig14C_summary,14,illustrative summary,SI upper island,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,4074.1875,3.143663194444444,NA
+Krubitzer_1998,fig14C_summary,14,illustrative summary,SI upper strip,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,4100.75,3.1641589506172836,NA
+Krubitzer_1998,fig14C_summary,14,illustrative summary,SI,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,14836.4375,11.447868441358024,NA
+Krubitzer_1998,fig14C_summary,14,illustrative summary,SI adjacent island,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,3832.3125,2.95703125,NA
+Krubitzer_1998,fig14D_summary,14,illustrative summary,VII,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,20246.75,11.477749433106574,NA
+Krubitzer_1998,fig14D_summary,14,illustrative summary,TP,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,18388.125,10.42410714285714,NA
+Krubitzer_1998,fig14D_summary,14,illustrative summary,AI,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,2280.3125,1.2926941609977323,NA
+Krubitzer_1998,fig14D_summary,14,illustrative summary,TA,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,8553.25,4.848781179138321,NA
+Krubitzer_1998,fig14D_summary,14,illustrative summary,SII,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,5194.0625,2.944479875283446,NA
+Krubitzer_1998,fig14D_summary,14,illustrative summary,SI,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,12963.875,7.3491354875283434,NA
+Krubitzer_1998,fig14D_summary,14,illustrative summary,SI upper island,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,8385.25,4.753543083900226,NA
+Krubitzer_1998,fig14D_summary,14,illustrative summary,R,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,18213.625,10.32518424036281,NA
+Krubitzer_1998,fig14D_summary,14,illustrative summary,VI,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,32817.0,18.603741496598637,NA
+Krubitzer_1998,fig14E_summary,14,illustrative summary,VI,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,48256.875,37.23524305555555,NA
+Krubitzer_1998,fig14E_summary,14,illustrative summary,VII,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,20125.625,15.529031635802468,NA
+Krubitzer_1998,fig14E_summary,14,illustrative summary,MT,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,5491.9375,4.237606095679012,NA
+Krubitzer_1998,fig14E_summary,14,illustrative summary,FST,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,9247.125,7.135127314814814,NA
+Krubitzer_1998,fig14E_summary,14,illustrative summary,AI,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,1297.25,1.0009645061728394,NA
+Krubitzer_1998,fig14E_summary,14,illustrative summary,SII,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,1516.0625,1.169801311728395,NA
+Krubitzer_1998,fig14E_summary,14,illustrative summary,PV,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,1065.0625,0.8218074845679012,NA
+Krubitzer_1998,fig14E_summary,14,illustrative summary,VS,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,3148.8125,2.429639274691358,NA
+Krubitzer_1998,fig14E_summary,14,illustrative summary,SI,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,3692.0625,2.8488136574074074,NA
+Krubitzer_1998,fig14E_summary,14,illustrative summary,FV,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,1607.25,1.240162037037037,NA
+Krubitzer_1998,fig14F_summary,14,illustrative summary,VI dorsal,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,52882.9375,915.5633223684209,NA
+Krubitzer_1998,fig14F_summary,14,illustrative summary,VI ventral,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,6543.375,113.28557825484764,NA
+Krubitzer_1998,fig14F_summary,14,illustrative summary,MT,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,3149.1875,54.52194425207755,NA
+Krubitzer_1998,fig14F_summary,14,illustrative summary,AI,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,1002.0,17.347645429362878,NA
+Krubitzer_1998,fig14F_summary,14,illustrative summary,FV,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,1274.5625,22.066525277008306,NA
+Krubitzer_Kaas_1993,fig01_summary,1,illustrative summary,M,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,17000.75,12.41837107377648,NA
+Krubitzer_Kaas_1993,fig01_summary,1,illustrative summary,DM,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,36848.4375,26.916316654492334,NA
+Krubitzer_Kaas_1993,fig01_summary,1,illustrative summary,MT,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,15959.75,11.657962016070126,NA
+Krubitzer_Kaas_1993,fig01_summary,1,illustrative summary,3b,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,66903.125,48.87006939371805,NA
+Krubitzer_Kaas_1993,fig01_summary,1,illustrative summary,3a,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,22131.1875,16.165951424397374,NA
+Krubitzer_Kaas_1993,fig01_summary,1,illustrative summary,MI,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,38882.25,28.401935719503292,NA
+Krubitzer_Kaas_1993,fig01_summary,1,illustrative summary,SMA,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,21047.1875,15.374132578524472,NA
+Krubitzer_Kaas_1993,fig01_summary,1,illustrative summary,SII,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,15423.5,11.266252739225713,NA
+Krubitzer_Kaas_1993,fig01_summary,1,illustrative summary,PV,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,15462.4375,11.29469503287071,NA
+Krubitzer_Kaas_1993,fig01_summary,1,illustrative summary,VS,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,18937.9375,13.833409422936452,NA
+Krubitzer_Kaas_1993,fig01_summary,1,illustrative summary,FEF,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,7627.0625,5.571265522279036,NA
+Krubitzer_Kaas_1993,fig01_summary,1,illustrative summary,FV,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,6870.3125,5.018489773557342,NA
+Krubitzer_Kaas_1993,fig01_summary,1,illustrative summary,AI + R,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,26123.125,19.081902848794744,NA
+Krubitzer_Kaas_1993,fig01_summary,1,illustrative summary,MST,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,16208.875,11.839937910883858,NA
+Krubitzer_Kaas_1993,fig01_summary,1,illustrative summary,FST,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,27060.875,19.766891891891895,NA
+Krubitzer_Kaas_1993,fig01_summary,1,illustrative summary,ITc,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,67664.625,49.426314828341866,NA
+Krubitzer_Kaas_1993,fig01_summary,1,illustrative summary,VP + VA,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,42546.1875,31.078296201607017,NA
+Krubitzer_Kaas_1993,fig01_summary,1,illustrative summary,DLr,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,22272.625,16.269265887509132,NA
+Krubitzer_Kaas_1993,fig01_summary,1,illustrative summary,DI,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,15228.625,11.123904309715122,NA
+Krubitzer_Kaas_1993,fig01_summary,1,illustrative summary,DLc,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,21858.25,15.966581446311178,NA
+Krubitzer_Kaas_1993,fig01_summary,1,illustrative summary,1,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,24268.0625,17.726853542731924,NA
+Krubitzer_Kaas_1993,fig01_summary,1,illustrative summary,VPP,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,26311.375,19.219411979547118,NA
+Krubitzer_Kaas_1993,fig02A_cortex,2,"owl monkey; figure 2, identity unreported",DM,complete,added,repeated_physiological_map,fig02B_cortex,no; view observations are not animal counts,NA,NA,68126.125,NA,NA
+Krubitzer_Kaas_1993,fig02B_cortex,2,"owl monkey; figure 2, identity unreported",DM,complete,added,repeated_physiological_map,unresolved_owl_case_identity,no; view observations are not animal counts,NA,NA,67762.5625,22.400847107438015,NA
+Krubitzer_Kaas_1993,fig02C_cortex,2,"owl monkey; figure 2, identity unreported",DM,complete,added,repeated_physiological_map,fig02B_cortex,no; view observations are not animal counts,NA,NA,67901.5625,NA,NA
+Krubitzer_etal_1993,fig04_local,4,183,3b mapped component 2,partial,added,local_physiological_map,fig05,no; view observations are not animal counts,NA,NA,103627.625,10.790048417326112,NA
+Krubitzer_etal_1993,fig04_local,4,183,3b mapped component 3,partial,added,local_physiological_map,fig05,no; view observations are not animal counts,NA,NA,73968.0625,7.701797428154934,NA
+Krubitzer_etal_1993,fig04_local,4,183,3b mapped component 4,partial,added,local_physiological_map,fig05,no; view observations are not animal counts,NA,NA,30133.875,3.1376379633486042,NA
+Krubitzer_etal_1993,fig05,5,183,MT,complete,refined,case_flatmap,,no; view observations are not animal counts,41953.3125,13.377969547193876,44341.1875,14.139409279336734,5.6917436495628415
+Krubitzer_etal_1993,fig05,5,183,A-I,complete,refined,case_flatmap,,no; view observations are not animal counts,16605.3125,5.295061383928571,18108.75,5.774473852040816,9.053954871370241
+Krubitzer_etal_1993,fig05,5,183,17,complete,refined,case_flatmap,,no; view observations are not animal counts,294990.5625,94.06586814413265,302251.8125,96.38131776147958,2.4615194257273876
+Krubitzer_etal_1993,fig05,5,183,SII,complete,refined,case_flatmap,,no; view observations are not animal counts,3566.5625,1.1372967155612244,21920.75,6.990035076530612,514.6184175939718
+Krubitzer_etal_1993,fig05,5,183,3b mapped component 3,partial,refined,case_flatmap,,no; view observations are not animal counts,18659.3125,5.950035873724489,23808.1875,7.591896524234693,27.594130276771978
+Krubitzer_etal_1993,fig05,5,183,3b mapped component 4,partial,refined,case_flatmap,,no; view observations are not animal counts,14637.5625,4.667590082908163,16027.875,5.110929528061224,9.49825150191501
+Krubitzer_etal_1993,fig06_local,6,184,3b mapped component 1,partial,added,local_physiological_map,fig07,no; view observations are not animal counts,NA,NA,128885.8125,15.227529832230623,NA
+Krubitzer_etal_1993,fig06_local,6,184,3b mapped component 2,partial,added,local_physiological_map,fig07,no; view observations are not animal counts,NA,NA,36222.375,4.279581167296786,NA
+Krubitzer_etal_1993,fig06_local,6,184,3a mapped component,partial,added,local_physiological_map,fig07,no; view observations are not animal counts,NA,NA,4358.0,0.5148865784499055,NA
+Krubitzer_etal_1993,fig07,7,184,A-I,complete,refined,case_flatmap,,no; view observations are not animal counts,17381.5625,4.993267020970985,18821.25,5.406851479459926,8.282842811168445
+Krubitzer_etal_1993,fig07,7,184,SII,complete,refined,case_flatmap,,no; view observations are not animal counts,19010.0625,5.461092358517668,22403.625,6.435973858086757,17.85140106719796
+Krubitzer_etal_1993,fig07,7,184,3b mapped component 2,partial,refined,case_flatmap,,no; view observations are not animal counts,17018.8125,4.889058460212583,18163.9375,5.218022838264867,6.728583442587421
+Krubitzer_etal_1993,fig07,7,184,MT,complete,refined,case_flatmap,,no; view observations are not animal counts,44717.8125,12.846254668198794,46954.6875,13.488850186727953,5.002201304010567
+Krubitzer_etal_1993,fig08_local,8,212,SII,complete,added,local_physiological_map,fig09,no; view observations are not animal counts,NA,NA,125192.125,7.407818047337279,NA
+Krubitzer_etal_1993,fig08_local,8,212,PV,complete,added,local_physiological_map,fig09,no; view observations are not animal counts,NA,NA,152087.8125,8.999278846153848,NA
+Krubitzer_etal_1993,fig08_local,8,212,VS,complete,added,local_physiological_map,fig09,no; view observations are not animal counts,NA,NA,113154.625,6.695539940828403,NA
+Krubitzer_etal_1993,fig08_local,8,212,3b mapped component 1,partial,added,local_physiological_map,fig09,no; view observations are not animal counts,NA,NA,25283.4375,1.4960613905325446,NA
+Krubitzer_etal_1993,fig08_local,8,212,3b mapped component 2,partial,added,local_physiological_map,fig09,no; view observations are not animal counts,NA,NA,33655.4375,1.99144600591716,NA
+Krubitzer_etal_1993,fig08_local,8,212,3b mapped component 3,partial,added,local_physiological_map,fig09,no; view observations are not animal counts,NA,NA,179224.625,10.605007396449706,NA
+Krubitzer_etal_1993,fig08_local,8,212,3b mapped component 4,partial,added,local_physiological_map,fig09,no; view observations are not animal counts,NA,NA,216748.0625,12.825329142011835,NA
+Krubitzer_etal_1993,fig08_local,8,212,3b mapped component 5,partial,added,local_physiological_map,fig09,no; view observations are not animal counts,NA,NA,133689.4375,7.910617603550297,NA
+Krubitzer_etal_1993,fig09,9,212,MT,complete,refined,case_flatmap,,no; view observations are not animal counts,50513.8125,11.252798507462686,52732.4375,11.747034417464914,4.392115522858231
+Krubitzer_etal_1993,fig09,9,212,PV,complete,refined,case_flatmap,,no; view observations are not animal counts,28132.5625,6.266999888616618,29334.5625,6.534765537981733,4.2726289153361074
+Krubitzer_etal_1993,fig09,9,212,VS,complete,refined,case_flatmap,,no; view observations are not animal counts,21021.5625,4.682905435509022,22600.875,5.034723769213633,7.5128216563350225
+Krubitzer_etal_1993,fig09,9,212,3b mapped component 2,partial,refined,case_flatmap,,no; view observations are not animal counts,10285.8125,2.2913371574961015,10888.0,2.4254845177099575,5.854544791673
+Krubitzer_etal_1993,fig09,9,212,3b mapped component 3,partial,refined,case_flatmap,,no; view observations are not animal counts,17449.5625,3.8871825573624412,18668.4375,4.1587073958565375,6.985132148728668
+Krubitzer_etal_1993,fig09,9,212,A-I,complete,refined,case_flatmap,,no; view observations are not animal counts,24595.5625,5.479073847182,26166.25,5.828970817554021,6.386060493635792
+Krubitzer_etal_1993,fig10A_local,10,188,PV,complete,added,local_physiological_map,fig12A,no; view observations are not animal counts,NA,NA,100675.1875,6.763987335393712,NA
+Krubitzer_etal_1993,fig10A_local,10,188,VS,complete,added,local_physiological_map,fig12A,no; view observations are not animal counts,NA,NA,109449.5625,7.353504602257458,NA
+Krubitzer_etal_1993,fig10A_local,10,188,3b mapped component 1,partial,added,local_physiological_map,fig12A,no; view observations are not animal counts,NA,NA,48667.9375,3.269815741736093,NA
+Krubitzer_etal_1993,fig10A_local,10,188,SII,complete,added,local_physiological_map,fig12A,no; view observations are not animal counts,NA,NA,99075.125,6.656485151840903,NA
+Krubitzer_etal_1993,fig10A_local,10,188,3b mapped component 2,partial,added,local_physiological_map,fig12A,no; view observations are not animal counts,NA,NA,41393.5625,2.7810778352593393,NA
+Krubitzer_etal_1993,fig10B_local,10,189,SII,complete,added,local_physiological_map,fig14A,no; view observations are not animal counts,NA,NA,152149.125,5.521451770939179,NA
+Krubitzer_etal_1993,fig10B_local,10,189,PV,complete,added,local_physiological_map,fig14A,no; view observations are not animal counts,NA,NA,187136.75,6.791143489621136,NA
+Krubitzer_etal_1993,fig10B_local,10,189,VS,complete,added,local_physiological_map,fig14A,no; view observations are not animal counts,NA,NA,174655.375,6.338197670198868,NA
+Krubitzer_etal_1993,fig12A,12,188,MT,complete,refined,case_flatmap,,no; view observations are not animal counts,93746.0625,11.83512971846989,96996.125,12.245439338467364,3.4668789422489077
+Krubitzer_etal_1993,fig12A,12,188,FV,complete,refined,case_flatmap,,no; view observations are not animal counts,16782.0625,2.118679775280899,18332.4375,2.31440948112612,9.238286414438024
+Krubitzer_etal_1993,fig12A,12,188,3b mapped component 1,partial,refined,case_flatmap,,no; view observations are not animal counts,112185.8125,14.163087047090013,120275.5,15.18438328493877,7.210971975623037
+Krubitzer_etal_1993,fig12A,12,188,3b mapped component 2,partial,refined,case_flatmap,,no; view observations are not animal counts,11209.5625,1.415170117409418,12390.8125,1.564299015275849,10.537877816373298
+Krubitzer_etal_1993,fig12A,12,188,3b mapped component 3,partial,refined,case_flatmap,,no; view observations are not animal counts,45006.5625,5.681929364979169,47724.1875,6.025020515086479,6.03828608327952
+Krubitzer_etal_1993,fig12A,12,188,3b mapped component 4,partial,refined,case_flatmap,,no; view observations are not animal counts,26206.0625,3.30842854437571,28338.5,3.5776417119050623,8.137191537263554
+Krubitzer_etal_1993,fig12B,12,188,MT,complete,refined,repeated_laminar_reconstruction,fig12A,no; view observations are not animal counts,93863.3125,11.849932142406262,97752.75,12.340960737280646,4.143724951109085
+Krubitzer_etal_1993,fig12B,12,188,A-I,complete,refined,repeated_laminar_reconstruction,fig12A,no; view observations are not animal counts,31989.8125,4.038607814669865,33708.0,4.255523292513571,5.371045860303192
+Krubitzer_etal_1993,fig12B,12,188,FV,complete,refined,repeated_laminar_reconstruction,fig12A,no; view observations are not animal counts,16560.5625,2.090716134326474,17807.9375,2.2481930943062745,7.532201880219946
+Krubitzer_etal_1993,fig12B,12,188,3b mapped component 2,partial,refined,repeated_laminar_reconstruction,fig12A,no; view observations are not animal counts,11969.8125,1.511149160459538,13109.125,1.6549835879308168,9.518215093177096
+Krubitzer_etal_1993,fig12B,12,188,3b mapped component 3,partial,refined,repeated_laminar_reconstruction,fig12A,no; view observations are not animal counts,48901.3125,6.173628645373059,51307.4375,6.477393952783739,4.920368957377175
+Krubitzer_etal_1993,fig12B,12,188,3b mapped component 4,partial,refined,repeated_laminar_reconstruction,fig12A,no; view observations are not animal counts,28202.8125,3.560511614695114,30110.3125,3.801327168286832,6.763509844984439
+Krubitzer_etal_1993,fig14A,14,189,MT,complete,refined,case_flatmap,,no; view observations are not animal counts,50441.5625,7.6880906111873175,52643.9375,8.023767337296142,4.366191075068304
+Krubitzer_etal_1993,fig14A,14,189,FV,complete,refined,case_flatmap,,no; view observations are not animal counts,21472.0625,3.272681374790428,22870.8125,3.4858729614388047,6.514278728464018
+Krubitzer_etal_1993,fig14A,14,189,3b mapped component 1,partial,refined,case_flatmap,,no; view observations are not animal counts,10803.5625,1.6466335162322814,12348.375,1.8820873342478277,14.299102726531189
+Krubitzer_etal_1993,fig14A,14,189,3b mapped component 2,partial,refined,case_flatmap,,no; view observations are not animal counts,8334.0625,1.2702427221460142,9632.375,1.4681260478585578,15.578386891147034
+Krubitzer_etal_1993,fig14A,14,189,3b mapped component 3,partial,refined,case_flatmap,,no; view observations are not animal counts,46847.3125,7.1402701569882625,50141.6875,7.642384926078341,7.032153658761109
+Krubitzer_etal_1993,fig14A,14,189,3b mapped component 5,partial,refined,case_flatmap,,no; view observations are not animal counts,46895.5625,7.1476242188690735,49254.5,7.5071635421429646,5.030193421818963
+Krubitzer_etal_1993,fig14A,14,189,3b mapped component 6,partial,refined,case_flatmap,,no; view observations are not animal counts,22124.5625,3.3721326779454346,23569.6875,3.592392546867855,6.531767577324965
+Krubitzer_etal_1993,fig14B,14,189,MT,complete,refined,repeated_laminar_reconstruction,fig14A,no; view observations are not animal counts,50236.0625,7.656769166285626,52509.1875,8.003229309556469,4.52488687782806
+Krubitzer_etal_1993,fig14B,14,189,A-I,complete,refined,repeated_laminar_reconstruction,fig14A,no; view observations are not animal counts,22863.8125,3.4848060509068732,24427.75,3.7231748209114457,6.840230604585296
+Krubitzer_etal_1993,fig14B,14,189,FV,complete,refined,repeated_laminar_reconstruction,fig14A,no; view observations are not animal counts,20907.3125,3.186604557232129,22499.375,3.42926002133821,7.61485963344164
+Krubitzer_etal_1993,fig14B,14,189,3b mapped component 4,partial,refined,repeated_laminar_reconstruction,fig14A,no; view observations are not animal counts,47850.5625,7.293181298582532,49652.6875,7.567853604633439,3.766152174282178
+Krubitzer_etal_1993,fig14B,14,189,3b mapped component 5,partial,refined,repeated_laminar_reconstruction,fig14A,no; view observations are not animal counts,47895.3125,7.3000019051973775,50047.5,7.628029263831732,4.493524287997919
+Krubitzer_etal_1993,fig14B,14,189,3b mapped component 6,partial,refined,repeated_laminar_reconstruction,fig14A,no; view observations are not animal counts,22584.8125,3.442282045419905,23864.875,3.637383782959914,5.667802201147332
+Krubitzer_etal_1993,fig15_local,15,199,SII,complete,added,local_physiological_map,fig16,no; view observations are not animal counts,NA,NA,239406.1875,7.227574794710785,NA
+Krubitzer_etal_1993,fig15_local,15,199,PV,complete,added,local_physiological_map,fig16,no; view observations are not animal counts,NA,NA,258463.25,7.802899710179932,NA
+Krubitzer_etal_1993,fig15_local,15,199,VS,complete,added,local_physiological_map,fig16,no; view observations are not animal counts,NA,NA,232945.75,7.032536831300569,NA
+Krubitzer_etal_1993,fig15_local,15,199,3b mapped component 1,partial,added,local_physiological_map,fig16,no; view observations are not animal counts,NA,NA,95574.375,2.8853512558869707,NA
+Krubitzer_etal_1993,fig15_local,15,199,3b mapped component 2,partial,added,local_physiological_map,fig16,no; view observations are not animal counts,NA,NA,131962.0625,3.9838806454534486,NA
+Krubitzer_etal_1993,fig16,16,199,MT,complete,refined,case_flatmap,,no; view observations are not animal counts,63852.8125,9.977001953125002,66362.0,10.369062500000002,3.929642879865325
+Krubitzer_etal_1993,fig16,16,199,A-I,complete,refined,case_flatmap,,no; view observations are not animal counts,28071.8125,4.386220703125001,29661.4375,4.634599609375001,5.662708811552508
+Krubitzer_etal_1993,fig16,16,199,17,complete,refined,case_flatmap,,no; view observations are not animal counts,305392.5625,47.71758789062501,314406.1875,49.12596679687501,2.9514880540026267
+Krubitzer_etal_1993,fig16,16,199,18,complete,refined,case_flatmap,,no; view observations are not animal counts,109534.8125,17.114814453125003,114179.125,17.840488281250003,4.240033277091704
+Krubitzer_etal_1993,fig16,16,199,FV,complete,refined,case_flatmap,,no; view observations are not animal counts,9582.3125,1.4972363281250003,10623.1875,1.6598730468750003,10.862461436109495
+Krubitzer_etal_1993,fig16,16,199,3b mapped component 1,partial,refined,case_flatmap,,no; view observations are not animal counts,6741.0625,1.0532910156250002,7644.9375,1.1945214843750003,13.408494580787522
+Krubitzer_etal_1993,fig16,16,199,3b mapped component 2,partial,refined,case_flatmap,,no; view observations are not animal counts,12579.8125,1.9655957031250004,13596.8125,2.1245019531250002,8.084381225872805
+Krubitzer_etal_1993,fig16,16,199,3b mapped component 3,partial,refined,case_flatmap,,no; view observations are not animal counts,12715.0625,1.9867285156250003,13858.0,2.1653125000000006,8.988846889270107
+Krubitzer_etal_1993,fig16,16,199,3b mapped component 4,partial,refined,case_flatmap,,no; view observations are not animal counts,94464.5625,14.760087890625003,119304.75,18.641367187500002,26.29577361351776
+Krubitzer_etal_1993,fig16,16,199,3b mapped component 5,partial,refined,case_flatmap,,no; view observations are not animal counts,30884.0625,4.825634765625001,32438.625,5.068535156250001,5.033542786024348
+Krubitzer_etal_1993,fig17_local,17,186,SII,complete,added,local_physiological_map,fig18A,no; view observations are not animal counts,NA,NA,160634.75,4.849497343316026,NA
+Krubitzer_etal_1993,fig17_local,17,186,PV,complete,added,local_physiological_map,fig18A,no; view observations are not animal counts,NA,NA,170747.375,5.1547933522521445,NA
+Krubitzer_etal_1993,fig17_local,17,186,VS,complete,added,local_physiological_map,fig18A,no; view observations are not animal counts,NA,NA,182850.8125,5.52019117558266,NA
+Krubitzer_etal_1993,fig18A,18,186,MT,complete,refined,case_flatmap,,no; view observations are not animal counts,50438.0625,8.507010035419128,52806.625,8.906497723056166,4.6959823248563515
+Krubitzer_etal_1993,fig18A,18,186,A-I,complete,refined,case_flatmap,,no; view observations are not animal counts,19083.3125,3.2186393152302246,20330.375,3.4289720020239507,6.534832461607487
+Krubitzer_etal_1993,fig18A,18,186,3b mapped component 1,partial,refined,case_flatmap,,no; view observations are not animal counts,28859.3125,4.8674839770619,30823.625,5.19878984651712,6.80651176288416
+Krubitzer_etal_1993,fig18A,18,186,3b mapped component 2,partial,refined,case_flatmap,,no; view observations are not animal counts,28967.0625,4.885657362118402,30483.375,5.141402428740092,5.234609135807267
+Krubitzer_etal_1993,fig18A,18,186,3b mapped component 3,partial,refined,case_flatmap,,no; view observations are not animal counts,103469.5625,17.451435739585094,114922.5625,19.383127424523533,11.068955665102
+Krubitzer_etal_1993,fig18A,18,186,3b mapped component 4,partial,refined,case_flatmap,,no; view observations are not animal counts,32517.5625,5.48449359082476,34405.0625,5.8028440715129035,5.804555615138751
+Krubitzer_etal_1993,fig18B,18,186,MT,complete,refined,repeated_laminar_reconstruction,fig18A,no; view observations are not animal counts,53509.8125,9.025099089222467,55936.1875,9.43433757800641,4.534448705085636
+Krubitzer_etal_1993,fig18B,18,186,3b mapped component 1,partial,refined,repeated_laminar_reconstruction,fig18A,no; view observations are not animal counts,16208.8125,2.733818940799461,17208.6875,2.902460364311014,6.168712236013585
+Krubitzer_etal_1993,fig18B,18,186,3b mapped component 4,partial,refined,repeated_laminar_reconstruction,fig18A,no; view observations are not animal counts,32438.3125,5.471127087198517,34152.8125,5.760298954292462,5.285416742933213
+Krubitzer_etal_1993,fig19,19,202,17,complete,refined,case_flatmap,,no; view observations are not animal counts,382078.5625,152.831425,391554.375,156.62175000000002,2.4800691349962767
+Krubitzer_etal_1993,fig19,19,202,3b mapped component 1,partial,refined,case_flatmap,,no; view observations are not animal counts,13475.5625,5.390225,14278.625,5.71145,5.959398726398257
+Krubitzer_etal_1993,fig19,19,202,3b mapped component 3,partial,refined,case_flatmap,,no; view observations are not animal counts,28942.0625,11.576825000000001,29853.0,11.9412,3.1474519136291734
+Krubitzer_etal_1993,fig21A_summary,21,illustrative summary,A-I,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,29626.125,18.516328125000005,NA
+Krubitzer_etal_1993,fig21B_summary,21,illustrative summary,A-I,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,20810.125,13.006328125000003,NA
+Krubitzer_etal_1993,fig21B_summary,21,illustrative summary,LP,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,17187.125,10.741953125000002,NA
+Krubitzer_etal_1993,fig21C_summary,21,illustrative summary,A-I,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,10809.125,3.21317627824019,NA
+Krubitzer_etal_1993,fig21C_summary,21,illustrative summary,R,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,9439.6875,2.8060902199762183,NA
+Krubitzer_etal_1993,fig21D_summary,21,illustrative summary,A-I,complete,added,illustrative_summary_flatmap,illustrative_summary,no; view observations are not animal counts,NA,NA,47506.8125,29.691757812500004,NA
+Krubitzer_etal_1993,fig05,5,183,3b mapped component 1,partial,withdrawn: unsupported white-gap envelope,case_flatmap,,no; unsupported contour withdrawn,27152.5625,8.658342633928571,NA,NA,NA
+Krubitzer_etal_1993,fig05,5,183,3b mapped component 2,partial,withdrawn: unsupported white-gap envelope,case_flatmap,,no; unsupported contour withdrawn,7110.8125,2.267478475765306,NA,NA,NA
+Krubitzer_etal_1993,fig09,9,212,SMA,complete,withdrawn: unsupported white-gap envelope,case_flatmap,,no; unsupported contour withdrawn,50243.5625,11.192595789708175,NA,NA,NA
+Krubitzer_etal_1993,fig09,9,212,3b mapped component 1,partial,withdrawn: unsupported white-gap envelope,case_flatmap,,no; unsupported contour withdrawn,56567.3125,12.601317108487413,NA,NA,NA
+Krubitzer_etal_1993,fig12B,12,188,3b mapped component 1,partial,withdrawn: unsupported white-gap envelope,repeated_laminar_reconstruction,fig12A,no; unsupported contour withdrawn,133711.5625,16.88064164878172,NA,NA,NA
+Krubitzer_etal_1993,fig14A,14,189,VS,complete,withdrawn: unsupported white-gap envelope,case_flatmap,,no; unsupported contour withdrawn,26842.0625,4.0911541685718635,NA,NA,NA
+Krubitzer_etal_1993,fig14A,14,189,3b mapped component 4,partial,withdrawn: unsupported white-gap envelope,case_flatmap,,no; unsupported contour withdrawn,43659.8125,6.654444825483919,NA,NA,NA
+Krubitzer_etal_1993,fig14B,14,189,VS,complete,withdrawn: unsupported white-gap envelope,repeated_laminar_reconstruction,fig14A,no; unsupported contour withdrawn,29940.0625,4.563338286846516,NA,NA,NA
+Krubitzer_etal_1993,fig14B,14,189,3b mapped component 1,partial,withdrawn: unsupported white-gap envelope,repeated_laminar_reconstruction,fig14A,no; unsupported contour withdrawn,7225.0625,1.1012136107300714,NA,NA,NA
+Krubitzer_etal_1993,fig14B,14,189,3b mapped component 2,partial,withdrawn: unsupported white-gap envelope,repeated_laminar_reconstruction,fig14A,no; unsupported contour withdrawn,7097.0625,1.0817043895747598,NA,NA,NA
+Krubitzer_etal_1993,fig14B,14,189,3b mapped component 3,partial,withdrawn: unsupported white-gap envelope,repeated_laminar_reconstruction,fig14A,no; unsupported contour withdrawn,53926.3125,8.219221536351165,NA,NA,NA
+Krubitzer_etal_1993,fig18B,18,186,3b mapped component 2,partial,withdrawn: unsupported white-gap envelope,repeated_laminar_reconstruction,fig18A,no; unsupported contour withdrawn,17035.8125,2.8733028335301065,NA,NA,NA
+Krubitzer_etal_1995,fig02,2,not reported,A,complete,refined,unidentified_unfolded_reconstruction,,no; view observations are not animal counts,8855.0625,11.294722576530612,9904.5,12.633290816326529,11.851271518411078
+Krubitzer_etal_1995,fig02,2,not reported,SI,complete,refined,unidentified_unfolded_reconstruction,,no; view observations are not animal counts,93159.0625,118.82533482142856,100258.9375,127.88129783163264,7.621239211161024
+Krubitzer_etal_1995,fig03,3,P4,V,complete,refined,case_flatmap,,no; view observations are not animal counts,58722.8125,6.371832953559028,64943.25,7.046793619791666,10.59288074800573
+Krubitzer_etal_1995,fig04,4,P8,SI shield-bill mapped island,partial,refined,physiological_flatmap,,no; view observations are not animal counts,49482.3125,7.012799390589568,49361.25,6.99564200680272,-0.2446581291042138
+Krubitzer_etal_1995,fig06_local,6,P8,A,complete,added,local_physiological_map,fig04,no; view observations are not animal counts,NA,NA,69239.9375,15.895302456382003,NA
+Krubitzer_etal_1995,fig07_local,7,P8,SI bill mapped island,partial,added,local_physiological_map,fig04,no; view observations are not animal counts,NA,NA,222415.8125,45.39098214285714,NA
+Krubitzer_etal_1995,fig07_local,7,P8,A,complete,added,local_physiological_map,fig04,no; view observations are not animal counts,NA,NA,66181.4375,13.506415816326529,NA
+Krubitzer_etal_1995,fig12B,12,E10,A,complete,refined,case_flatmap,fig12A,no; view observations are not animal counts,76350.5625,11.929775390625002,82116.4375,12.830693359375003,7.551843511303535
+Krubitzer_etal_1995,fig13_local,13,E10,A,complete,added,local_physiological_map,fig12A,no; view observations are not animal counts,NA,NA,77805.0625,13.470405557479221,NA
+Krubitzer_etal_1995,fig14,14,E11,A,complete,refined,physiological_flatmap,,no; view observations are not animal counts,148772.5625,10.684613796322896,157431.875,11.306512137316863,5.82050369670819
+Krubitzer_etal_1995,fig15,15,E11,A,complete,refined,repeated_physiological_flatmap,fig14,no; view observations are not animal counts,152799.5625,11.355496618608798,161010.0625,11.965670518727704,5.373379259511957
+Krubitzer_etal_1995,fig16_local,16,E11,A,complete,added,local_physiological_map,fig15,no; view observations are not animal counts,NA,NA,81660.75,14.137941481994458,NA
+Krubitzer_etal_1995,fig17_local,17,E11,A,complete,added,local_physiological_map,fig15,no; view observations are not animal counts,NA,NA,45344.3125,11.070388793945312,NA
+Krubitzer_etal_1995,fig23,23,E2,A,complete,added,case_flatmap,,no; view observations are not animal counts,NA,NA,30029.6875,6.494309580449827,NA
+Krubitzer_etal_1997,fig02B,2,95-22,S1,complete,refined,case_reconstruction,fig03,no; view observations are not animal counts,22402.0625,2.666030578512397,20057.75,2.387038016528926,-10.464717255386645
+Krubitzer_etal_1997,fig02B,2,95-22,PV/S2,complete,refined,case_reconstruction,fig03,no; view observations are not animal counts,10842.0625,1.2902950413223142,11641.3125,1.3854123966942151,7.371752376450513
+Krubitzer_etal_1997,fig03,3,95-22,V,complete,refined,case_flatmap,,no; view observations are not animal counts,72648.5,1.7119544726175886,74414.5,1.7535700820058437,2.4308829500953255
+Krubitzer_etal_1997,fig05,5,95-29,V,complete,refined,case_flatmap,,no; view observations are not animal counts,53946.3125,1.5102128299879622,55687.0,1.5589429187312784,3.226703400719
+Luethke_etal_1988,fig01inset,1,85-21,A-I,complete,refined,physiological_inset,fig07,no; view observations are not animal counts,133217.5625,2.936312515153519,137350.3125,3.02740445017523,3.1022561308311047
+Luethke_etal_1988,fig02inset,2,85-43,A-I,partial,refined,physiological_inset,fig09,no; view observations are not animal counts,106745.25,6.831696,108295.5,6.930911999999999,1.4522894461346025
+Luethke_etal_1988,fig02inset,2,85-43,R,complete,refined,physiological_inset,fig09,no; view observations are not animal counts,70612.3125,4.519188,73236.0,4.687104,3.7156232491323715
+Luethke_etal_1988,fig03,3,85-90,M,complete,added,case_flatmap,,no; view observations are not animal counts,NA,NA,54463.5,37.71710526315789,NA
+Luethke_etal_1988,fig03,3,85-90,S-II,complete,added,case_flatmap,,no; view observations are not animal counts,NA,NA,8970.125,6.211997922437672,NA
+Luethke_etal_1988,fig03,3,85-90,TP,complete,added,case_flatmap,,no; view observations are not animal counts,NA,NA,44623.25,30.90252770083102,NA
+Luethke_etal_1988,fig03,3,85-90,17,complete,added,case_flatmap,,no; view observations are not animal counts,NA,NA,52781.375,36.5521987534626,NA
+Luethke_etal_1988,fig03,3,85-90,18,complete,added,case_flatmap,,no; view observations are not animal counts,NA,NA,22596.9375,15.648848684210524,NA
+Luethke_etal_1988,fig03,3,85-90,R,complete,added,case_flatmap,,no; view observations are not animal counts,NA,NA,4383.4375,3.0356215373961213,NA
+Luethke_etal_1988,fig03,3,85-90,UZ,complete,added,case_flatmap,,no; view observations are not animal counts,NA,NA,2947.625,2.041291551246537,NA
+Luethke_etal_1988,fig03,3,85-90,S-I,complete,added,case_flatmap,,no; view observations are not animal counts,NA,NA,78898.0625,54.638547437673125,NA
+Luethke_etal_1988,fig03,3,85-90,PV,complete,added,case_flatmap,,no; view observations are not animal counts,NA,NA,10912.75,7.557306094182825,NA
+Luethke_etal_1988,fig03,3,85-90,A-I,complete,added,case_flatmap,,no; view observations are not animal counts,NA,NA,5631.6875,3.9000605955678664,NA
+Luethke_etal_1988,fig03,3,85-90,TAi,complete,added,case_flatmap,,no; view observations are not animal counts,NA,NA,4565.375,3.16161703601108,NA
+Luethke_etal_1988,fig03,3,85-90,TArv + TAcv,complete,added,case_flatmap,,no; view observations are not animal counts,NA,NA,9289.25,6.432998614958448,NA
+Luethke_etal_1988,fig03inset,3,85-90,A-I,complete,added,physiological_inset,fig03,no; view observations are not animal counts,NA,NA,45659.1875,5.764321108445903,NA
+Luethke_etal_1988,fig05,5,85-15,M,complete,refined,case_flatmap,,no; view observations are not animal counts,66140.8125,15.654630177514795,69423.25,16.431538461538462,4.962801900868685
+Luethke_etal_1988,fig05,5,85-15,UZ,complete,refined,case_flatmap,,no; view observations are not animal counts,6143.5625,1.4540976331360949,7069.8125,1.673328402366864,15.076757174684886
+Luethke_etal_1988,fig05,5,85-15,S-II,complete,refined,case_flatmap,,no; view observations are not animal counts,13343.3125,3.158180473372781,15125.4375,3.579985207100592,13.355941412599016
+Luethke_etal_1988,fig05,5,85-15,17,complete,refined,case_flatmap,,no; view observations are not animal counts,54601.8125,12.923505917159765,58749.1875,13.905133136094676,7.595672762694461
+Luethke_etal_1988,fig05,5,85-15,TP,complete,refined,case_flatmap,,no; view observations are not animal counts,60249.0625,14.260133136094677,63131.625,14.942396449704143,4.7844105458072494
+Luethke_etal_1988,fig05,5,85-15,TArv + TAcv,complete,refined,case_flatmap,,no; view observations are not animal counts,19116.5625,4.524630177514793,21315.375,5.045059171597634,11.502133294100346
+Luethke_etal_1988,fig05,5,85-15,R,complete,refined,case_flatmap,,no; view observations are not animal counts,8072.8125,1.910724852071006,9169.6875,2.170340236686391,13.587272093833459
+Luethke_etal_1988,fig06,6,85-15,M,complete,refined,case_flatmap,,no; view observations are not animal counts,53130.5625,NA,56157.6875,NA,5.6975210830865874
+Luethke_etal_1988,fig06,6,85-15,S-I,complete,refined,case_flatmap,,no; view observations are not animal counts,136556.25,NA,140193.25,NA,2.663371321341934
+Luethke_etal_1988,fig06,6,85-15,S-II,complete,refined,case_flatmap,,no; view observations are not animal counts,16342.5625,NA,17824.0625,NA,9.065285814265668
+Luethke_etal_1988,fig06,6,85-15,TP,complete,refined,case_flatmap,,no; view observations are not animal counts,54387.0625,NA,56956.8125,NA,4.724928837625675
+Luethke_etal_1988,fig06,6,85-15,TAi,complete,refined,case_flatmap,,no; view observations are not animal counts,17189.5625,NA,18072.625,NA,5.137201717612072
+Luethke_etal_1988,fig06,6,85-15,TArv + TAcv,complete,refined,case_flatmap,,no; view observations are not animal counts,19822.5625,NA,21452.6875,NA,8.22358360580273
+Luethke_etal_1988,fig06,6,85-15,R,complete,refined,case_flatmap,,no; view observations are not animal counts,11801.0625,NA,12952.4375,NA,9.756536752516997
+Luethke_etal_1988,fig06,6,85-15,A-I,complete,refined,case_flatmap,,no; view observations are not animal counts,3740.0625,NA,4035.625,NA,7.902608579402082
+Luethke_etal_1988,fig06,6,85-15,UZ,complete,refined,case_flatmap,,no; view observations are not animal counts,3960.5625,NA,3435.8125,NA,-13.249380611971151
+Luethke_etal_1988,fig07,7,85-21,M,complete,refined,case_flatmap,,no; view observations are not animal counts,89892.5625,NA,93649.6875,NA,4.179572698241851
+Luethke_etal_1988,fig07,7,85-21,S-I,complete,refined,case_flatmap,,no; view observations are not animal counts,144747.5,NA,149358.3125,NA,3.18541771015044
+Luethke_etal_1988,fig07,7,85-21,UZ,complete,refined,case_flatmap,,no; view observations are not animal counts,6544.5625,NA,7398.1875,NA,13.043270654073513
+Luethke_etal_1988,fig07,7,85-21,S-II,complete,refined,case_flatmap,,no; view observations are not animal counts,18047.8125,NA,19455.75,NA,7.801153186847443
+Luethke_etal_1988,fig07,7,85-21,17,complete,refined,case_flatmap,,no; view observations are not animal counts,73703.0625,NA,77973.9375,NA,5.794704935090045
+Luethke_etal_1988,fig07,7,85-21,TP,complete,refined,case_flatmap,,no; view observations are not animal counts,39792.8125,NA,42881.3125,NA,7.76145189536428
+Luethke_etal_1988,fig08,8,85-21,M,complete,refined,case_flatmap,,no; view observations are not animal counts,51246.5625,NA,54366.5625,NA,6.088213233814455
+Luethke_etal_1988,fig08,8,85-21,S-I,complete,refined,case_flatmap,,no; view observations are not animal counts,143517.5,NA,147714.875,NA,2.924643336178523
+Luethke_etal_1988,fig08,8,85-21,UZ,complete,refined,case_flatmap,,no; view observations are not animal counts,7451.0625,NA,8331.9375,NA,11.822139459976345
+Luethke_etal_1988,fig08,8,85-21,PV,complete,refined,case_flatmap,,no; view observations are not animal counts,17517.5625,NA,19046.8125,NA,8.72981044023675
+Luethke_etal_1988,fig08,8,85-21,17,complete,refined,case_flatmap,,no; view observations are not animal counts,108572.0625,NA,113189.4375,NA,4.252820563300985
+Luethke_etal_1988,fig08,8,85-21,TP,complete,refined,case_flatmap,,no; view observations are not animal counts,56253.5625,NA,58948.75,NA,4.791141005514099
+Luethke_etal_1988,fig08,8,85-21,R,complete,refined,case_flatmap,,no; view observations are not animal counts,9847.0625,NA,11110.25,NA,12.828064206965273
+Luethke_etal_1988,fig08,8,85-21,TAi,complete,refined,case_flatmap,,no; view observations are not animal counts,15440.3125,NA,16459.875,NA,6.6032504199639686
+Luethke_etal_1988,fig08,8,85-21,TArv + TAcv,complete,refined,case_flatmap,,no; view observations are not animal counts,10719.0625,NA,10653.625,NA,-0.6104778286347368
+Luethke_etal_1988,fig09,9,85-43,M,complete,refined,case_flatmap,,no; view observations are not animal counts,78279.0625,NA,82440.0,NA,5.31551779890056
+Luethke_etal_1988,fig09,9,85-43,S-I,complete,refined,case_flatmap,,no; view observations are not animal counts,129010.5,NA,133519.0,NA,3.4946767898736963
+Luethke_etal_1988,fig09,9,85-43,S-II,complete,refined,case_flatmap,,no; view observations are not animal counts,16101.0625,NA,17807.0625,NA,10.595574049849187
+Luethke_etal_1988,fig09,9,85-43,17,complete,refined,case_flatmap,,no; view observations are not animal counts,105793.5625,NA,110049.875,NA,4.023224475496789
+Luethke_etal_1988,fig09,9,85-43,18,complete,refined,case_flatmap,,no; view observations are not animal counts,42318.5625,NA,47759.5625,NA,12.857242019976468
+Luethke_etal_1988,fig09,9,85-43,TP,complete,refined,case_flatmap,,no; view observations are not animal counts,38082.0625,NA,40991.4375,NA,7.639751654732452
+Luethke_etal_1988,fig09,9,85-43,UZ,complete,refined,case_flatmap,,no; view observations are not animal counts,6065.3125,NA,5245.4375,NA,-13.517440362718325
+Luethke_etal_1988,fig10,10,85-43,M,complete,refined,case_flatmap,,no; view observations are not animal counts,63305.5625,NA,67834.4375,NA,7.153992194603753
+Luethke_etal_1988,fig10,10,85-43,S-I,complete,refined,case_flatmap,,no; view observations are not animal counts,141537.75,NA,145965.25,NA,3.1281407257074623
+Luethke_etal_1988,fig10,10,85-43,S-II,complete,refined,case_flatmap,,no; view observations are not animal counts,14832.8125,NA,16472.5625,NA,11.054882545033173
+Luethke_etal_1988,fig10,10,85-43,TP,complete,refined,case_flatmap,,no; view observations are not animal counts,94049.0625,NA,97363.375,NA,3.524025026831068
+Luethke_etal_1988,fig10,10,85-43,TAi,complete,refined,case_flatmap,,no; view observations are not animal counts,19546.0625,NA,21210.875,NA,8.517380418690458
+Luethke_etal_1988,fig10,10,85-43,TArv + TAcv,complete,refined,case_flatmap,,no; view observations are not animal counts,22099.5625,NA,24118.6875,NA,9.136493086684405
+Luethke_etal_1988,fig10,10,85-43,A-I,complete,refined,case_flatmap,,no; view observations are not animal counts,5544.8125,NA,6811.9375,NA,22.852440907605075
+Luethke_etal_1988,fig10,10,85-43,UZ,complete,refined,case_flatmap,,no; view observations are not animal counts,5738.3125,NA,4945.1875,NA,-13.821572108524938
+Luethke_etal_1988,fig12,12,85-49,M,complete,refined,case_flatmap,,no; view observations are not animal counts,91828.0625,NA,95769.1875,NA,4.291852504238558
+Luethke_etal_1988,fig12,12,85-49,S-II,complete,refined,case_flatmap,,no; view observations are not animal counts,9942.8125,NA,11112.5625,NA,11.764779834679583
+Luethke_etal_1988,fig12,12,85-49,17,complete,refined,case_flatmap,,no; view observations are not animal counts,95141.5625,NA,99223.875,NA,4.290777229982945
+Luethke_etal_1988,fig12,12,85-49,18,complete,refined,case_flatmap,,no; view observations are not animal counts,35436.5625,NA,39893.75,NA,12.577934160515714
+Luethke_etal_1988,fig12,12,85-49,TP,complete,refined,case_flatmap,,no; view observations are not animal counts,60138.3125,NA,62892.9375,NA,4.580482699776445
+Luethke_etal_1988,fig13,13,85-49,M,complete,refined,case_flatmap,,no; view observations are not animal counts,61790.8125,NA,64662.5,NA,4.647434438574516
+Luethke_etal_1988,fig13,13,85-49,S-I,complete,refined,case_flatmap,,no; view observations are not animal counts,108543.75,NA,112090.875,NA,3.2679219208844312
+Luethke_etal_1988,fig13,13,85-49,S-II,complete,refined,case_flatmap,,no; view observations are not animal counts,18648.8125,NA,20194.4375,NA,8.288061237143118
+Luethke_etal_1988,fig13,13,85-49,PV,complete,refined,case_flatmap,,no; view observations are not animal counts,24663.3125,NA,26253.5625,NA,6.447836234487969
+Luethke_etal_1988,fig13,13,85-49,18,complete,refined,case_flatmap,,no; view observations are not animal counts,39684.0625,NA,44596.0625,NA,12.377765003267992
+Luethke_etal_1988,fig13,13,85-49,TP,complete,refined,case_flatmap,,no; view observations are not animal counts,70248.5625,NA,73864.5,NA,5.147347321164042
+Luethke_etal_1988,fig13,13,85-49,TArv + TAcv,complete,refined,case_flatmap,,no; view observations are not animal counts,9085.0625,NA,10436.75,NA,14.878130997998085
+Luethke_etal_1988,fig13,13,85-49,A-I,complete,refined,case_flatmap,,no; view observations are not animal counts,10188.0625,NA,11895.0,NA,16.754289640449294
+Luethke_etal_1988,fig13,13,85-49,UZ,complete,refined,case_flatmap,,no; view observations are not animal counts,4050.5625,NA,3462.625,NA,-14.51495934206669
+Luethke_etal_1988,fig14,14,85-94,M,complete,refined,case_flatmap,,no; view observations are not animal counts,127629.0625,NA,133914.8125,NA,4.925014629798752
+Luethke_etal_1988,fig14,14,85-94,S-I,complete,refined,case_flatmap,,no; view observations are not animal counts,290616.25,NA,297975.375,NA,2.5322482827439874
+Luethke_etal_1988,fig14,14,85-94,S-II,complete,refined,case_flatmap,,no; view observations are not animal counts,24338.3125,NA,26504.75,NA,8.901346385457076
+Luethke_etal_1988,fig14,14,85-94,PV,complete,refined,case_flatmap,,no; view observations are not animal counts,20080.3125,NA,21903.5,NA,9.079477722271513
+Luethke_etal_1988,fig14,14,85-94,17,complete,refined,case_flatmap,,no; view observations are not animal counts,109546.5625,NA,116055.0,NA,5.941252150198695
+Luethke_etal_1988,fig14,14,85-94,18,complete,refined,case_flatmap,,no; view observations are not animal counts,59887.3125,NA,66946.9375,NA,11.78818134475479
+Luethke_etal_1988,fig14,14,85-94,TP,complete,refined,case_flatmap,,no; view observations are not animal counts,62316.5625,NA,66601.6875,NA,6.8763821817033
+Luethke_etal_1988,fig15,15,85-94,M,complete,refined,case_flatmap,,no; view observations are not animal counts,117903.5625,NA,123924.6875,NA,5.106821941873041
+Luethke_etal_1988,fig15,15,85-94,S-I,complete,refined,case_flatmap,,no; view observations are not animal counts,248098.0,NA,254652.8125,NA,2.6420255302340268
+Luethke_etal_1988,fig15,15,85-94,S-II,complete,refined,case_flatmap,,no; view observations are not animal counts,19256.0625,NA,21121.25,NA,9.686235179180592
+Luethke_etal_1988,fig15,15,85-94,PV,complete,refined,case_flatmap,,no; view observations are not animal counts,31239.5625,NA,33233.1875,NA,6.381731498320442
+Luethke_etal_1988,fig15,15,85-94,17,complete,refined,case_flatmap,,no; view observations are not animal counts,151539.5625,NA,158287.0,NA,4.452591381870996
+Luethke_etal_1988,fig15,15,85-94,TP,complete,refined,case_flatmap,,no; view observations are not animal counts,57842.0625,NA,61025.9375,NA,5.504428546267692
+Luethke_etal_1988,fig15,15,85-94,TAi,complete,refined,case_flatmap,,no; view observations are not animal counts,20925.3125,NA,22868.5,NA,9.28630098116814
+Luethke_etal_1988,fig15,15,85-94,TArv + TAcv,complete,refined,case_flatmap,,no; view observations are not animal counts,26013.3125,NA,28533.8125,NA,9.68926967682413
+Luethke_etal_1988,fig15,15,85-94,A-I,complete,refined,case_flatmap,,no; view observations are not animal counts,7116.8125,NA,8752.4375,NA,22.98255012338739
+Luethke_etal_1988,fig15,15,85-94,18,complete,refined,case_flatmap,,no; view observations are not animal counts,99356.3125,NA,106637.3125,NA,7.328170517600485
+Luethke_etal_1988,fig15,15,85-94,R,complete,refined,case_flatmap,,no; view observations are not animal counts,18125.5625,NA,19770.875,NA,9.077304497446637
+Luethke_etal_1988,fig15,15,85-94,UZ,complete,refined,case_flatmap,,no; view observations are not animal counts,8367.0625,NA,7424.125,NA,-11.26963614769222
+Manger_etal_2002,fig01,1,not reported,PPr mapped extent,partial,refined,semi_flattened_mapping,,no; view observations are not animal counts,130882.375,12.830347514949516,131716.0,12.9120674443682,0.6369268589449195
+Manger_etal_2002,fig01,1,not reported,PPc mapped extent,partial,refined,semi_flattened_mapping,,no; view observations are not animal counts,97564.375,9.564197137535537,97844.625,9.591669934320166,0.2872462412637722
+Manger_etal_2002,fig02,2,not reported,PPr mapped extent,partial,refined,semi_flattened_mapping,,no; view observations are not animal counts,139752.875,15.485083102493075,140201.25,15.534764542936287,0.3208341867743325
+Manger_etal_2002,fig02,2,not reported,PPc mapped extent,partial,refined,semi_flattened_mapping,,no; view observations are not animal counts,107674.875,11.93073407202216,108068.25,11.974321329639888,0.3653359244670584
+Manger_etal_2002,fig06left,6,not reported,PPr mapped extent,partial,refined,semi_flattened_somatotopic_map,,no; view observations are not animal counts,216267.875,15.272076477649883,218767.75,15.448608855306828,1.1559160138786106
+Manger_etal_2002,fig06right,6,not reported,PPr mapped extent,partial,refined,semi_flattened_somatotopic_map,,no; view observations are not animal counts,174200.625,12.301435279994351,176628.0,12.472847962714498,1.3934364471998917
+Preuss_Kaas_1996,fig02_left,2,single adult female,V1,complete,refined,case_flatmap,,no; view observations are not animal counts,54409.3125,57.355068835385374,57747.4375,60.8739221411705,6.135208931375491
+Slutsky_etal_2000,fig02,2,not reported,R,complete,refined,whole_neocortex_reconstruction,,no; view observations are not animal counts,9334.8125,3.6603519262817374,10380.75,4.070483285952358,11.204697469820623
+Slutsky_etal_2000,fig02,2,not reported,SI,complete,refined,whole_neocortex_reconstruction,,no; view observations are not animal counts,58013.5625,22.748186452308598,60404.0,23.685521027350262,4.120480447998687
+Slutsky_etal_2000,fig02,2,not reported,PM,complete,refined,whole_neocortex_reconstruction,,no; view observations are not animal counts,9035.8125,3.5431085187726694,10063.75,3.9461817468875604,11.376259744212259
+Slutsky_etal_2000,fig02,2,not reported,SII,complete,refined,whole_neocortex_reconstruction,,no; view observations are not animal counts,5497.8125,2.155793549651995,6038.625,2.3678560925399474,9.836866935713061
+Slutsky_etal_2000,fig02,2,not reported,PV,complete,refined,whole_neocortex_reconstruction,,no; view observations are not animal counts,4897.8125,1.920522497794334,5546.9375,2.175056367022841,13.253365660690353
+Slutsky_etal_2000,fig02,2,not reported,VI,complete,refined,whole_neocortex_reconstruction,,no; view observations are not animal counts,43099.8125,16.900230369571613,44855.4375,17.58864327026762,4.073393590749386
+Slutsky_etal_2000,fig02,2,not reported,VII,complete,refined,whole_neocortex_reconstruction,,no; view observations are not animal counts,12593.8125,4.9382658562885995,14228.3125,5.579183413390845,12.978595639723878
+Slutsky_etal_2000,fig02,2,not reported,TA,complete,refined,whole_neocortex_reconstruction,,no; view observations are not animal counts,12185.8125,4.77828154102539,13034.5625,5.11109204979904,6.965066957989063
+Slutsky_etal_2000,fig02,2,not reported,TP,complete,refined,whole_neocortex_reconstruction,,no; view observations are not animal counts,12409.8125,4.86611606705225,13341.8125,5.23157043427115,7.510185991931784
+Slutsky_etal_2000,fig04,4,96-2,R,complete,refined,physiological_map,,no; view observations are not animal counts,171573.3125,9.141313469018062,178389.375,9.504468804944322,3.9726822316844768
+Slutsky_etal_2000,fig05,5,96-1,SI medial architectural island,partial,refined,physiological_map,,no; view observations are not animal counts,28168.5625,0.9633241852193836,31493.25,1.0770236995998768,11.80282983911587
+Slutsky_etal_2000,fig05,5,96-1,SII,complete,refined,physiological_map,,no; view observations are not animal counts,118510.5625,4.052890205533326,125632.4375,4.296448052392188,6.009485441434803

@@ -306,5 +306,31 @@
     }
   ],
   "include_in_whole_hemisphere_summary": false,
-  "specimen_link_status": "unlinked_or_summary"
+  "specimen_link_status": "unlinked_or_summary",
+  "precision_audit": {
+    "date": "2026-10-15",
+    "source_review": "completed; provisional anatomical interpretation",
+    "changed_regions": 0,
+    "regions": [
+      {
+        "kind": "rois",
+        "label": "MT",
+        "status": "retained_source_limited",
+        "source_limits": "Photographic border marked by dots: retained existing marker-to-marker interpolation. No unique continuous ink edge exists between markers."
+      },
+      {
+        "kind": "rois",
+        "label": "DL",
+        "status": "retained_source_limited",
+        "source_limits": "Photographic border marked by dots: retained existing marker-to-marker interpolation. No unique continuous ink edge exists between markers."
+      },
+      {
+        "kind": "rois",
+        "label": "FST",
+        "status": "retained_source_limited",
+        "source_limits": "Photographic border marked by dots: retained existing marker-to-marker interpolation. No unique continuous ink edge exists between markers."
+      }
+    ],
+    "previous_geometry": "documentation/rois_before_precision_audit.json"
+  }
 }

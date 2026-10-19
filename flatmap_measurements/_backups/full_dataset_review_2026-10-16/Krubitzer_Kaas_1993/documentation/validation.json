@@ -1,0 +1,171 @@
+{
+  "processed_views": 16,
+  "measured_fields": 81,
+  "unmeasured_fields": 81,
+  "overlaps": [
+    {
+      "map_id": "fig03",
+      "field_a": "DM",
+      "field_b": "VPP",
+      "overlap_pixels": 37
+    },
+    {
+      "map_id": "fig05",
+      "field_a": "MT",
+      "field_b": "FST",
+      "overlap_pixels": 25
+    },
+    {
+      "map_id": "fig06",
+      "field_a": "DM",
+      "field_b": "VPP",
+      "overlap_pixels": 13
+    },
+    {
+      "map_id": "fig06",
+      "field_a": "MT",
+      "field_b": "MST",
+      "overlap_pixels": 18
+    },
+    {
+      "map_id": "fig06",
+      "field_a": "MT",
+      "field_b": "FST",
+      "overlap_pixels": 27
+    },
+    {
+      "map_id": "fig06",
+      "field_a": "FEF",
+      "field_b": "FV",
+      "overlap_pixels": 7
+    },
+    {
+      "map_id": "fig12A",
+      "field_a": "DM",
+      "field_b": "VPP",
+      "overlap_pixels": 22
+    },
+    {
+      "map_id": "fig13",
+      "field_a": "DM",
+      "field_b": "VPP",
+      "overlap_pixels": 3
+    },
+    {
+      "map_id": "fig13",
+      "field_a": "MT",
+      "field_b": "FST",
+      "overlap_pixels": 19
+    },
+    {
+      "map_id": "fig13",
+      "field_a": "3b",
+      "field_b": "PV",
+      "overlap_pixels": 8
+    },
+    {
+      "map_id": "fig13",
+      "field_a": "3b",
+      "field_b": "SII",
+      "overlap_pixels": 14
+    },
+    {
+      "map_id": "fig13",
+      "field_a": "3a",
+      "field_b": "PV",
+      "overlap_pixels": 8
+    },
+    {
+      "map_id": "fig13",
+      "field_a": "PV",
+      "field_b": "SII",
+      "overlap_pixels": 15
+    },
+    {
+      "map_id": "fig14",
+      "field_a": "SII",
+      "field_b": "PV",
+      "overlap_pixels": 6
+    },
+    {
+      "map_id": "fig14",
+      "field_a": "SII",
+      "field_b": "3b",
+      "overlap_pixels": 5
+    },
+    {
+      "map_id": "fig14",
+      "field_a": "PV",
+      "field_b": "3b",
+      "overlap_pixels": 1
+    },
+    {
+      "map_id": "fig15",
+      "field_a": "AI",
+      "field_b": "R",
+      "overlap_pixels": 6
+    },
+    {
+      "map_id": "fig15",
+      "field_a": "SII",
+      "field_b": "PV",
+      "overlap_pixels": 10
+    },
+    {
+      "map_id": "fig15",
+      "field_a": "SII",
+      "field_b": "3b",
+      "overlap_pixels": 3
+    },
+    {
+      "map_id": "fig15",
+      "field_a": "FEF",
+      "field_b": "FV",
+      "overlap_pixels": 5
+    },
+    {
+      "map_id": "fig17",
+      "field_a": "18",
+      "field_b": "DM",
+      "overlap_pixels": 35
+    },
+    {
+      "map_id": "fig17",
+      "field_a": "18",
+      "field_b": "DL",
+      "overlap_pixels": 38
+    },
+    {
+      "map_id": "fig17",
+      "field_a": "DM",
+      "field_b": "VPP",
+      "overlap_pixels": 10
+    },
+    {
+      "map_id": "fig17",
+      "field_a": "MT",
+      "field_b": "DL",
+      "overlap_pixels": 54
+    },
+    {
+      "map_id": "fig19",
+      "field_a": "DM",
+      "field_b": "17 + 18",
+      "overlap_pixels": 40
+    }
+  ],
+  "native_imagej_roundtrip": "passed",
+  "anatomical_review": "provisional; pending user review",
+  "reference_comparison": "not_run; core workflow does not require reference data",
+  "precision_audit": {
+    "date": "2026-10-15",
+    "saved_views_reviewed": 16,
+    "views_refined": 13,
+    "regions_refined": 44,
+    "source_calibration_changed": false,
+    "prior_geometry_archived": true,
+    "anatomical_certification": false,
+    "geometry_review": "passed; no material interior overlap",
+    "native_imagej_roundtrip": "passed"
+  }
+}

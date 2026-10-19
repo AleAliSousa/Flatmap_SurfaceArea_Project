@@ -1,0 +1,80 @@
+map_id,label,previous_mm2,current_mm2,change_percent,revision
+fig02,C,2.983340835048011,3.0994097758058983,3.8905692368206957,refined contour
+fig02,SII/PV,2.7657803926611795,2.670584972993827,-3.441900879764248,refined contour
+fig03,A,4.509586167800454,4.67999574829932,3.778829678777007,refined contour
+fig03,C,2.4857766439909303,2.6933191609977327,8.349202150101132,refined contour
+fig03,SII/PV,3.219960317460318,3.1201544784580504,-3.099598416199967,refined contour
+fig04A,SI forepaw island,5.10658761053441,5.285518190119185,3.503916768521864,refined contour
+fig04B,SI forepaw island,5.472456507112649,5.508521361976163,0.6590249701690531,refined contour
+fig05,A,9.745929752066115,10.374266528925618,6.44717120730629,refined contour
+fig05,C,6.9109297520661155,6.894586776859503,-0.23648012341214164,refined contour
+fig05,PV,7.610185950413222,NA,NA,withdrawn: unsupported separate closure
+fig05,SII,8.98051652892562,NA,NA,withdrawn: unsupported separate closure
+fig05,SII/PV,NA,16.64386880165289,NA,combined envelope
+fig06,A,2.114787060657596,2.2111168686224487,4.555059455248367,refined contour
+fig06,CT,3.4112723214285707,3.5358427225056683,3.651728426797951,refined contour
+fig06,Drawn tissue outline,54.68338116496598,54.03899606717686,-1.1783929304685303,refined contour
+fig06,SI,7.394052933673469,7.544410342261903,2.0334911034202596,refined contour
+fig06,SI?,2.412866709183673,2.509595114087301,4.008858199065357,refined contour
+fig06,VI,11.444435586734691,11.702892485119046,2.2583629959343154,refined contour
+fig07,A,1.9660589087029414,2.0936976070720923,6.49210956010251,refined contour
+fig07,CT,4.039866255144032,4.18359434537418,3.5577437754811037,refined contour
+fig07,Drawn tissue outline,56.08444787379972,55.429443396585874,-1.167889677166345,refined contour
+fig07,SI,8.012526672763297,8.16348736854138,1.884058574073011,refined contour
+fig07,SI?,2.365083447645176,2.496744493979576,5.566866846304719,refined contour
+fig07,VI,14.193215592135344,14.46000514403292,1.8796977342147025,refined contour
+fig08A,C (mapped component),NA,3.149873037857802,NA,combined envelope
+fig08A,SII/PV,NA,2.9802583487226837,NA,combined envelope
+fig08B,C (mapped component),NA,2.9196082303935653,NA,combined envelope
+fig08B,SII/PV,NA,3.3976991166331514,NA,combined envelope
+fig09,C (mapped component),NA,8.325987654320988,NA,combined envelope
+fig09,SI (closed lower mapped islands),NA,26.11795524691358,NA,combined envelope
+fig09,SII/PV,NA,21.236496913580247,NA,combined envelope
+fig10,C (mapped component),NA,3.2489071695337257,NA,combined envelope
+fig10,SII/PV,NA,2.9540586803983704,NA,combined envelope
+fig11,C (mapped component),NA,2.786852082390222,NA,combined envelope
+fig11,SII/PV,NA,3.2060816545948394,NA,combined envelope
+fig12,C (mapped component),NA,8.580212276906435,NA,combined envelope
+fig12,SI (closed lower mapped islands),NA,28.05454806652244,NA,combined envelope
+fig12,SII/PV,NA,23.214381084369926,NA,combined envelope
+fig14_brush_tailed,A,NA,9.622773437500001,NA,combined envelope
+fig14_brush_tailed,C,NA,11.424375000000003,NA,combined envelope
+fig14_brush_tailed,PV,NA,4.0229296875000005,NA,combined envelope
+fig14_brush_tailed,R,NA,9.046757812500001,NA,combined envelope
+fig14_brush_tailed,SI,NA,35.46421875000001,NA,combined envelope
+fig14_brush_tailed,SII,NA,3.4264453125000007,NA,combined envelope
+fig14_brush_tailed,VI,NA,31.025898437500008,NA,combined envelope
+fig14_brush_tailed,VII,NA,13.570234375000002,NA,combined envelope
+fig14_dunnart,A,NA,0.47203125000000007,NA,combined envelope
+fig14_dunnart,CT,NA,0.4948828125000001,NA,combined envelope
+fig14_dunnart,SI,NA,1.9342968750000005,NA,combined envelope
+fig14_dunnart,VI,NA,3.881289062500001,NA,combined envelope
+fig14_north_american,A,NA,5.713079986149584,NA,combined envelope
+fig14_north_american,PV,NA,14.357730263157892,NA,combined envelope
+fig14_north_american,SC,NA,17.842061980609415,NA,combined envelope
+fig14_north_american,SI,NA,27.86630020775623,NA,combined envelope
+fig14_north_american,SII,NA,20.553237534626035,NA,combined envelope
+fig14_north_american,SR,NA,7.531293282548475,NA,combined envelope
+fig14_north_american,VI,NA,37.62967451523545,NA,combined envelope
+fig14_north_american,VII,NA,18.457496537396118,NA,combined envelope
+fig14_quoll,A,NA,5.106095679012346,NA,combined envelope
+fig14_quoll,C,NA,2.5945216049382713,NA,combined envelope
+fig14_quoll,R,NA,2.790509259259259,NA,combined envelope
+fig14_quoll,SI,NA,17.291087962962962,NA,combined envelope
+fig14_quoll,SII/PV,NA,2.982494212962963,NA,combined envelope
+fig14_quoll,VI,NA,32.31645447530864,NA,combined envelope
+fig14_quoll,VII,NA,8.906828703703702,NA,combined envelope
+fig14_short_tailed,A,NA,1.7141620498614956,NA,combined envelope
+fig14_short_tailed,CT,NA,2.3739179362880884,NA,combined envelope
+fig14_short_tailed,SI,NA,8.599203601108032,NA,combined envelope
+fig14_short_tailed,SI?,NA,1.2530297783933515,NA,combined envelope
+fig14_short_tailed,VI,NA,12.694771468144042,NA,combined envelope
+fig14_striped,A,NA,6.25168801939058,NA,combined envelope
+fig14_striped,C,NA,4.899151662049861,NA,combined envelope
+fig14_striped,PV,NA,5.6659452908587244,NA,combined envelope
+fig14_striped,R,NA,9.199099722991688,NA,combined envelope
+fig14_striped,SI,NA,23.470870844875343,NA,combined envelope
+fig14_striped,SII,NA,5.9636859418282535,NA,combined envelope
+fig14_striped,VI,NA,73.00597299168975,NA,combined envelope
+fig14_striped,VII,NA,22.30817174515235,NA,combined envelope
+fig15_quoll,SI,NA,16.80297291092746,NA,combined envelope

@@ -1,0 +1,22 @@
+figure,pdf_page,interpretation_from_caption,specimen_as_captioned,processing_status,next_action
+1,5,illustrative organization map,not reported,assessed_excluded,Illustrative organization/retinotopy diagram with added sensory and motor fields; no identified specimen. Excluded from specimen surface-area measurement.
+2,6,recording map and receptive fields,not reported,assessed_excluded,Receptive-field plots and electrophysiology strips; no closed complete cortical-field envelope.
+3,8,representative tangential section,89-35,digitized_provisional,12 field measurements across 1 view(s); saved JSON/ImageJ traces. Source-limited fields recorded as not_measurable; anatomical review pending.
+4,9,photomicrograph of section; overlaps Figure 5 case,88-32,assessed_excluded,Photomicrograph of 88-32 (same case as Fig5); injection/myelin contrast does not provide a complete inked field envelope.
+5,10,individual-case reconstruction,88-32,existing_fig05_preserved,Existing accepted tracing retained per user; legacy unmeasured rows preserved.
+6,11,individual-case reconstruction,89-58,digitized_provisional,8 field measurements across 1 view(s); saved JSON/ImageJ traces. Source-limited fields recorded as not_measurable; anatomical review pending.
+7,14,photomicrograph panels; caption on page 15,89-35 / 88-32,assessed_excluded,Tracer/CO photomicrograph details; no complete cortical-field outlines.
+8,15,partial tracer/CO reconstructions,89-35,assessed_excluded,CO-blob/band and tracer details of 89-35; entire area17/18 envelope is not shown.
+9,16,laminar tracer reconstruction,89-35,assessed_excluded,Laminar reconstruction of a restricted part of area17; partial strips across layers are not field surface areas.
+10,17,partial field/CO patterns,88-32,assessed_excluded,CO/tracer patch patterns for 88-32; caption explicitly says total extent not shown. No complete area17/18/MT envelope.
+11,18,contralateral reconstructions A and B,89-35 / 88-32,digitized_provisional,2 field measurements across 2 view(s); saved JSON/ImageJ traces. Source-limited fields recorded as not_measurable; anatomical review pending.
+12,19,myeloarchitecture sections A-C; caption on page 18,not reported,digitized_provisional,2 field measurements across 3 view(s); saved JSON/ImageJ traces. Source-limited fields recorded as not_measurable; anatomical review pending.
+13,20,marmoset myeloarchitecture,not reported,digitized_provisional,9 field measurements across 1 view(s); saved JSON/ImageJ traces. Source-limited fields recorded as not_measurable; anatomical review pending.
+14,21,area 17 connection map; label overlaps 1990 dataset,88-16,digitized_provisional,8 field measurements across 1 view(s); saved JSON/ImageJ traces. Source-limited fields recorded as not_measurable; anatomical review pending.
+15,22,marmoset area 17 connection map,89-78,digitized_provisional,13 field measurements across 1 view(s); saved JSON/ImageJ traces. Source-limited fields recorded as not_measurable; anatomical review pending.
+16,23,squirrel monkey area 17 connection map,92-8,digitized_provisional,3 field measurements across 1 view(s); saved JSON/ImageJ traces. Source-limited fields recorded as not_measurable; anatomical review pending.
+17,24,galago area 17 connection map,89-11,digitized_provisional,12 field measurements across 1 view(s); saved JSON/ImageJ traces. Source-limited fields recorded as not_measurable; anatomical review pending.
+18,25,talapoin area 17 connection map,89-55,digitized_provisional,3 field measurements across 1 view(s); saved JSON/ImageJ traces. Source-limited fields recorded as not_measurable; anatomical review pending.
+19,26,patas area 17 connection map,90-50,digitized_provisional,3 field measurements across 1 view(s); saved JSON/ImageJ traces. Source-limited fields recorded as not_measurable; anatomical review pending.
+20,27,macaque area 17 connection map,92-7,digitized_provisional,3 field measurements across 1 view(s); saved JSON/ImageJ traces. Source-limited fields recorded as not_measurable; anatomical review pending.
+21,28,illustrative summary panels A-C,not applicable,assessed_excluded,"Illustrative lateral cortical summaries, not flattened specimen reconstructions; projected geometry is unsuitable for cortical surface area."

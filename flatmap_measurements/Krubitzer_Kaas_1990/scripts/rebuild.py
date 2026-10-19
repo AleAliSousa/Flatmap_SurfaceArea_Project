@@ -362,6 +362,8 @@ def main():
     write_csv(DATA/'measurements.csv',rows)
     imagej=export_imagej(rows,args);summary=build_review(rows,audits)
     (DOCS/'validation.json').write_text(json.dumps(dict(summary=summary,measurement_audit=audits,imagej=imagej),indent=2)+'\n')
+    if (ROOT/'scripts/build_precision_review.py').exists():
+        subprocess.run([sys.executable,'-B',str(ROOT/'scripts/build_precision_review.py')],check=True)
     verify();save_checksums();print(json.dumps(summary,indent=2))
 
 if __name__=='__main__':main()

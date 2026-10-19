@@ -1,0 +1,73 @@
+{
+  "processed_views": 14,
+  "measured_fields": 15,
+  "unmeasured_fields": 49,
+  "overlaps": [
+    {
+      "map_id": "fig02",
+      "field_a": "R",
+      "field_b": "SI",
+      "overlap_pixels": 37
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "SI",
+      "field_b": "PM",
+      "overlap_pixels": 26
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "SI",
+      "field_b": "SII",
+      "overlap_pixels": 12
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "SI",
+      "field_b": "PV",
+      "overlap_pixels": 13
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "PM",
+      "field_b": "SII",
+      "overlap_pixels": 37
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "SII",
+      "field_b": "PV",
+      "overlap_pixels": 7
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "PV",
+      "field_b": "TA",
+      "overlap_pixels": 17
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "VI",
+      "field_b": "VII",
+      "overlap_pixels": 21
+    }
+  ],
+  "native_imagej_roundtrip": "passed",
+  "anatomical_review": "provisional; pending user review",
+  "reference_comparison": "not_run; core workflow does not require reference data",
+  "geometry_overlap_audit": "passed; shared-border slivers and explicitly documented source overlaps reviewed",
+  "all_numbered_figures_assessed": true,
+  "numbered_figures_assessed": 14,
+  "assessment_status": "eligible_views_digitized_provisional",
+  "whole_neocortex_summary": "unavailable; no independently established complete-neocortex view",
+  "source_visual_review": "completed; anatomical certification pending",
+  "full_dataset_recheck": {
+    "date": "2026-10-16",
+    "source_figure_inventory_rechecked": true,
+    "canonical_contour_count": 15,
+    "geometry_changed": true,
+    "anatomical_certification": false,
+    "review": "review/full_dataset_audit.html",
+    "geometry_review": "passed by audit_geometry.py; shared-stroke slivers or documented source overlaps retained"
+  }
+}

@@ -1,0 +1,22 @@
+map_id,figure,pdf_page,species,specimen,view_type,repeat_of,fields,complete_fields,partial_fields,unmeasured,audit_date,review
+fig02,2,6,Dasyurus hallucatus,NQ3,partial_reconstruction,,2,2,0,SI; R; A; Visual,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig03,3,7,Dasyurus hallucatus,NQ5,partial_reconstruction,,3,3,0,SI; R; Visual,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig04A,4,8,Dasyurus hallucatus,NQ1,partial_reconstruction,,1,0,1,SI; C; R; VI,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig04B,4,8,Dasyurus hallucatus,NQ2,partial_reconstruction,,1,0,1,SI; C; R; VI,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig05,5,10,Dactylopsila trivirgata,SP1,partial_reconstruction,,3,3,0,SI; R; VI; VII (Ps); SII; PV,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig06,6,11,Monodelphis domestica,StO1,partial_reconstruction,,5,5,0,Ps; darkly myelinated region,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig07,7,12,Monodelphis domestica,StO2,partial_reconstruction,,5,5,0,Ps; darkly myelinated region,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig08A,8,13,Dasyurus hallucatus,NQ3,repeated_physiological_map,fig02,2,1,1,SI; R,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig08B,8,13,Dasyurus hallucatus,NQ5,repeated_physiological_map,fig03,2,1,1,SI; R,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig09,9,14,Dactylopsila trivirgata,SP1,repeated_physiological_map,fig05,3,1,2,R; SI,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig10,10,15,Dasyurus hallucatus,NQ3,repeated_physiological_map,fig02,2,1,1,SI; R,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig11,11,16,Dasyurus hallucatus,NQ5,repeated_physiological_map,fig03,2,1,1,SI; R,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig12,12,17,Dactylopsila trivirgata,SP1,repeated_physiological_map,fig05,3,1,2,SI; R,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig14_brush_tailed,14,21,Trichosurus vulpecula,illustrative summary,illustrative_summary_flatmap,literature_summary_Elston_etal_1993,8,8,0,,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig14_dunnart,14,21,Sminthopsis crassicaudata,illustrative summary,illustrative_summary_flatmap,literature_summary,4,4,0,,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig14_north_american,14,21,Didelphis virginiana,illustrative summary,illustrative_summary_flatmap,literature_summary_Beck_etal_1996,8,8,0,,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig14_quoll,14,21,Dasyurus hallucatus,illustrative summary,illustrative_summary_flatmap,fig02,7,7,0,,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig14_short_tailed,14,21,Monodelphis domestica,illustrative summary,illustrative_summary_flatmap,literature_summary,5,5,0,,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig14_striped,14,21,Dactylopsila trivirgata,illustrative summary,illustrative_summary_flatmap,fig05,8,8,0,,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig15_quoll,15,24,Dasyurus hallucatus,illustrative SI summary,illustrative_summary_flatmap,illustrative_summary_of_quoll_cases,1,1,0,,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig15_striped,15,24,Dactylopsila trivirgata,illustrative SI summary,illustrative_summary_flatmap,fig05,1,0,1,SI,2026-10-16,source visually inspected; provisional anatomical interpretation

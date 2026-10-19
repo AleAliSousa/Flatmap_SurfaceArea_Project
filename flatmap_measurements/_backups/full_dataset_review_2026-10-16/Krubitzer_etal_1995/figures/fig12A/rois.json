@@ -1,0 +1,510 @@
+{
+  "map_id": "fig12A",
+  "figure": 12,
+  "panel": null,
+  "pdf_page": 18,
+  "printed_page": 278,
+  "species": "Tachyglossus aculeatus",
+  "specimen": "E10",
+  "hemisphere": "not assigned",
+  "view_type": "case_flatmap",
+  "hemisphere_relation": "not assigned",
+  "linked_main_map": null,
+  "repeat_of": null,
+  "specimen_link_status": "caption_identified",
+  "relationship_note": "Repeated cases and source views are linked within this paper. Possible reuse in Krubitzer1998 remains visible; do not pool publications as independent animals. Complete neocortex outline not established.",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 4,
+  "crop_xyxy": [
+    320,
+    360,
+    1890,
+    1590
+  ],
+  "supersample": 4,
+  "scale_length_mm": 1,
+  "scale_endpoints_px": [
+    [
+      1425,
+      1168
+    ],
+    [
+      1505,
+      1168
+    ]
+  ],
+  "scale_note": "Own printed scale stroke; local measured endpoints. Endpoints checked on the complete printed stroke, and refined to its visible dark horizontal extent.",
+  "scale_reference_map": null,
+  "outline": null,
+  "rois": [
+    {
+      "label": "A",
+      "polygons": [
+        [
+          [
+            220.42282258950843,
+            596.9430845002242
+          ],
+          [
+            218.19750371239337,
+            600.5846807768805
+          ],
+          [
+            212.5267652063347,
+            606.3458560922356
+          ],
+          [
+            208.7570021791339,
+            611.4856385079854
+          ],
+          [
+            195.97501429971786,
+            624.2353785639848
+          ],
+          [
+            166.01308975346953,
+            652.4078875796888
+          ],
+          [
+            157.43867300744012,
+            663.6963526567465
+          ],
+          [
+            151.4786730074401,
+            669.3513526567466
+          ],
+          [
+            146.1436730074401,
+            675.4751026567466
+          ],
+          [
+            130.77640338409844,
+            695.4958657541672
+          ],
+          [
+            127.04140743878091,
+            701.6541903265215
+          ],
+          [
+            124.34985369819508,
+            707.3721915910841
+          ],
+          [
+            111.93332205218266,
+            729.3189213213927
+          ],
+          [
+            109.33534188295641,
+            735.0800409209417
+          ],
+          [
+            100.25445925940882,
+            751.6555815558606
+          ],
+          [
+            89.90746675960985,
+            775.577624302759
+          ],
+          [
+            86.46165764056194,
+            786.8005863038344
+          ],
+          [
+            79.8929204820173,
+            803.4171047149189
+          ],
+          [
+            75.33369545704615,
+            824.3179906742163
+          ],
+          [
+            74.74357698958369,
+            828.7801145246781
+          ],
+          [
+            74.94120576332678,
+            837.8106587097953
+          ],
+          [
+            76.0796398113784,
+            851.9916426548898
+          ],
+          [
+            79.09776563132823,
+            867.9457021826205
+          ],
+          [
+            82.44562423793087,
+            875.6382989990599
+          ],
+          [
+            85.43790874046697,
+            880.1857037210834
+          ],
+          [
+            99.57383874838433,
+            896.533217905494
+          ],
+          [
+            104.58155956464093,
+            900.9135407461818
+          ],
+          [
+            108.71374714455683,
+            903.0208684857737
+          ],
+          [
+            111.63038379085951,
+            905.1332178261869
+          ],
+          [
+            117.62165252009744,
+            912.1145134134367
+          ],
+          [
+            122.17694424023654,
+            915.0472124423916
+          ],
+          [
+            148.82828655565422,
+            935.0841121255362
+          ],
+          [
+            154.19673785000535,
+            938.4187381465738
+          ],
+          [
+            174.40198801473863,
+            953.3490545425941
+          ],
+          [
+            195.64185953984781,
+            971.289809337702
+          ],
+          [
+            201.00678398957578,
+            974.7316202289641
+          ],
+          [
+            206.7524670674551,
+            980.4244134998455
+          ],
+          [
+            211.63047433808478,
+            984.4350420869755
+          ],
+          [
+            217.80996073894397,
+            997.5035864071651
+          ],
+          [
+            220.29903932250093,
+            1004.2596568482484
+          ],
+          [
+            226.07430245572067,
+            1029.8470376021774
+          ],
+          [
+            230.8842258121059,
+            1048.1247463564412
+          ],
+          [
+            233.98608916395892,
+            1057.5305957546536
+          ],
+          [
+            238.4033756797849,
+            1068.4635764667032
+          ],
+          [
+            244.78589250496196,
+            1078.2884768798544
+          ],
+          [
+            247.9559192596266,
+            1081.5140630704034
+          ],
+          [
+            252.71263540726864,
+            1084.1676500428252
+          ],
+          [
+            256.95093662891077,
+            1085.8458108429627
+          ],
+          [
+            260.43256759491345,
+            1086.7795591754928
+          ],
+          [
+            264.210249451537,
+            1086.9791659741984
+          ],
+          [
+            268.9506270933274,
+            1085.931221743395
+          ],
+          [
+            283.2160012777577,
+            1080.2489853143402
+          ],
+          [
+            291.47153529067947,
+            1074.905144848423
+          ],
+          [
+            299.73924592633455,
+            1068.2165598998413
+          ],
+          [
+            308.6487913692851,
+            1059.307014456891
+          ],
+          [
+            311.9642080871468,
+            1055.0528232907436
+          ],
+          [
+            320.16701384910823,
+            1042.370442782922
+          ],
+          [
+            325.6728962020494,
+            1032.0469133711574
+          ],
+          [
+            335.8560509754581,
+            1007.1162434814804
+          ],
+          [
+            340.19234267375225,
+            993.3846531035488
+          ],
+          [
+            343.42925812171325,
+            981.168583760132
+          ],
+          [
+            346.4587702908145,
+            961.5893829266722
+          ],
+          [
+            345.9009423191675,
+            950.4889571260983
+          ],
+          [
+            347.65097477490866,
+            941.079937836127
+          ],
+          [
+            347.57486521250286,
+            932.9986681911257
+          ],
+          [
+            348.45752511625824,
+            916.8227018194741
+          ],
+          [
+            350.90558066028933,
+            907.0920256142441
+          ],
+          [
+            351.9384948822584,
+            900.7446873757389
+          ],
+          [
+            352.69506373126,
+            890.6206738382448
+          ],
+          [
+            348.8378363806005,
+            865.452757186399
+          ],
+          [
+            343.4843552359748,
+            849.8584616466021
+          ],
+          [
+            342.0553088554496,
+            847.4995990621543
+          ],
+          [
+            337.5861587119875,
+            845.2593036446498
+          ],
+          [
+            335.9262183747835,
+            843.9363436766527
+          ],
+          [
+            331.7220549515973,
+            832.8734136338603
+          ],
+          [
+            331.32237945936936,
+            830.0792396103203
+          ],
+          [
+            331.7775704824248,
+            825.3234515201557
+          ],
+          [
+            331.6473680840663,
+            819.8153360168315
+          ],
+          [
+            327.8908903782332,
+            804.9789112370679
+          ],
+          [
+            328.2011599232578,
+            798.4477373143011
+          ],
+          [
+            327.816093255772,
+            795.766398987254
+          ],
+          [
+            326.9265271461426,
+            792.2753720125924
+          ],
+          [
+            315.59726408451695,
+            762.6557029379255
+          ],
+          [
+            314.5673019891909,
+            754.3911349315388
+          ],
+          [
+            312.9872465020432,
+            750.177653632478
+          ],
+          [
+            311.4832677605729,
+            747.8580443964847
+          ],
+          [
+            309.1014804151317,
+            745.8676133869806
+          ],
+          [
+            304.89155195517895,
+            743.5346447923567
+          ],
+          [
+            303.3061751431138,
+            740.9705145880097
+          ],
+          [
+            299.0384622372412,
+            705.2460140129123
+          ],
+          [
+            293.60168743978215,
+            691.5652353543182
+          ],
+          [
+            290.53954565195346,
+            686.0368280184542
+          ],
+          [
+            285.0101038087289,
+            673.7210178886902
+          ],
+          [
+            284.7773396525594,
+            671.8495940730882
+          ],
+          [
+            285.50666734189025,
+            667.5636300774887
+          ],
+          [
+            284.787684726167,
+            664.9246018002079
+          ],
+          [
+            281.4581334532483,
+            658.4823563539911
+          ],
+          [
+            258.08131509172847,
+            627.5561035890487
+          ],
+          [
+            251.824273909488,
+            622.3499899835422
+          ],
+          [
+            246.57054173294728,
+            621.6026918722239
+          ],
+          [
+            244.16308438308405,
+            620.2698844326101
+          ],
+          [
+            237.33927132619777,
+            614.4009522957415
+          ],
+          [
+            233.30134536982197,
+            608.018221255401
+          ],
+          [
+            228.62330951607453,
+            603.7928417323814
+          ],
+          [
+            222.38900920966276,
+            597.1231763230063
+          ],
+          [
+            221.01560437124044,
+            596.6110734346424
+          ]
+        ]
+      ],
+      "extent": "approx_complete",
+      "boundary_note": "Source envelope followed densely, including explicitly dashed estimated borders (Figure8) or a short open interruption at a field junction (Figures3/4/5/12A). The continuation is interpolated only between visible nearby endpoints. Estimated extent is excluded from complete-field biological summaries.",
+      "tracing_method": "source-guided dense contour with visual review",
+      "tracking_diagnostic": {
+        "mean_displacement": 1.4710365853658536,
+        "max_displacement": 3.0,
+        "line_support": 0.5300398363508321,
+        "samples": 1312
+      }
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "SI",
+      "status": "not_measurable",
+      "reason": "Whole-field perimeter is open, dashed, interrupted or outside this local sampling reconstruction. Thin body-part cells and isolated myelinated patches do not establish a complete total field."
+    },
+    {
+      "label": "R",
+      "status": "not_measurable",
+      "reason": "Whole-field perimeter is open, dashed, interrupted or outside this local sampling reconstruction. Thin body-part cells and isolated myelinated patches do not establish a complete total field."
+    },
+    {
+      "label": "PV",
+      "status": "not_measurable",
+      "reason": "Whole-field perimeter is open, dashed, interrupted or outside this local sampling reconstruction. Thin body-part cells and isolated myelinated patches do not establish a complete total field."
+    },
+    {
+      "label": "M",
+      "status": "not_measurable",
+      "reason": "Whole-field perimeter is open, dashed, interrupted or outside this local sampling reconstruction. Thin body-part cells and isolated myelinated patches do not establish a complete total field."
+    },
+    {
+      "label": "V",
+      "status": "not_measurable",
+      "reason": "Whole-field perimeter is open, dashed, interrupted or outside this local sampling reconstruction. Thin body-part cells and isolated myelinated patches do not establish a complete total field."
+    }
+  ],
+  "review_note": "Dense tracing on 4 pixels/PDF point source rendering. Anatomical interpretation provisional; hide overlay in the precision review to inspect the printed stroke."
+}

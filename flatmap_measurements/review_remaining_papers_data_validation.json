@@ -1,0 +1,50 @@
+[
+  {
+    "paper_id": "Luethke_etal_1989",
+    "rows": 80,
+    "selected_animal_fields": 3,
+    "numbered_figures": 17,
+    "measured_contours": 41,
+    "checks": "passed"
+  },
+  {
+    "paper_id": "Lyon_etal_1998",
+    "rows": 201,
+    "selected_animal_fields": 13,
+    "numbered_figures": 15,
+    "measured_contours": 33,
+    "checks": "passed"
+  },
+  {
+    "paper_id": "Preuss_etal_1993",
+    "rows": 36,
+    "selected_animal_fields": 2,
+    "numbered_figures": 7,
+    "measured_contours": 10,
+    "checks": "passed"
+  },
+  {
+    "paper_id": "Preuss_Kaas_1996",
+    "rows": 15,
+    "selected_animal_fields": 2,
+    "numbered_figures": 5,
+    "measured_contours": 3,
+    "checks": "passed"
+  },
+  {
+    "paper_id": "VanEssen_Drury_1997",
+    "rows": 27,
+    "selected_animal_fields": 0,
+    "numbered_figures": 13,
+    "measured_contours": 0,
+    "checks": "passed"
+  },
+  {
+    "paper_id": "Zilles_1985",
+    "rows": 0,
+    "selected_animal_fields": 0,
+    "numbered_figures": 76,
+    "measured_contours": 0,
+    "checks": "passed"
+  }
+]

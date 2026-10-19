@@ -1,0 +1,4 @@
+map_id,label,extent,vertices,source_render_pixels_per_pdf_point,source_visual_check,tracing_method,anatomical_certification
+fig02_left,V1,complete,82,4,enlarged perimeter reviewed; short symbol continuations documented,Regularized source-envelope following; pixel staircases suppressed before fitting to continuous printed stroke,pending
+fig02_left,MT (presumed),approximate,31,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",pending
+fig02_left,Aud (auditory complex),complete,36,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",pending

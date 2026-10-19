@@ -1,0 +1,7 @@
+map_id,label,extent,vertices,source_render_pixels_per_pdf_point,source_visual_check,tracing_method,anatomical_certification
+fig01,PPr mapped extent,partial,890,4,enlarged perimeter reviewed; short symbol continuations documented,Dense source-compartment perimeters,pending
+fig01,PPc mapped extent,partial,742,4,enlarged perimeter reviewed; short symbol continuations documented,Dense source-compartment perimeters,pending
+fig02,PPr mapped extent,partial,998,4,enlarged perimeter reviewed; short symbol continuations documented,Dense printed mapped compartment contours,pending
+fig02,PPc mapped extent,partial,1000,4,enlarged perimeter reviewed; short symbol continuations documented,Dense printed mapped compartment contours,pending
+fig06left,PPr mapped extent,partial,1232,4,enlarged perimeter reviewed; short symbol continuations documented,Dense source-compartment perimeters,pending
+fig06right,PPr mapped extent,partial,1044,4,enlarged perimeter reviewed; short symbol continuations documented,Dense source-compartment perimeters,pending

@@ -1,0 +1,164 @@
+label,region_group,alias_source,n_rows_with_area
+1,1,literal label (default),10
+10,10,literal label (default),1
+11,11,literal label (default),1
+12,12,literal label (default),1
+13,13,literal label (default),1
+14,14,literal label (default),1
+17,V1 (area 17),manual alias (edit if the paper's definition differs),39
+17 + 18,17 + 18,literal label (default),1
+18,V2 (area 18),manual alias (edit if the paper's definition differs),36
+2,2,literal label (default),9
+23,23,literal label (default),1
+24,24,literal label (default),1
+25,25,literal label (default),1
+29,29,literal label (default),1
+30,30,literal label (default),1
+32,32,literal label (default),1
+3a,3a,literal label (default),15
+3a mapped component,3a mapped component,literal label (default),1
+3b,S1 / 3b,manual alias (edit if the paper's definition differs),23
+3b mapped component 1,3b mapped component 1,literal label (default),10
+3b mapped component 2,3b mapped component 2,literal label (default),12
+3b mapped component 3,3b mapped component 3,literal label (default),10
+3b mapped component 4,3b mapped component 4,literal label (default),9
+3b mapped component 5,3b mapped component 5,literal label (default),4
+3b mapped component 6,3b mapped component 6,literal label (default),2
+4,4,literal label (default),1
+45,45,literal label (default),1
+46,46,literal label (default),1
+5,5,literal label (default),1
+6,6,literal label (default),1
+7a,7a,literal label (default),1
+7b,7b,literal label (default),1
+9,9,literal label (default),1
+A,A,literal label (default),34
+A-I,A1,manual alias (edit if the paper's definition differs),24
+AI,A1,manual alias (edit if the paper's definition differs),20
+AI + R,AI + R,literal label (default),4
+AITd,AITd,literal label (default),1
+AITv,AITv,literal label (default),1
+AUD,AUD,literal label (default),1
+Aud,Aud,literal label (default),2
+Aud (auditory complex),Aud (auditory complex),literal label (default),4
+Auditory A1?,Auditory A1?,literal label (default),1
+Auditory adjacent mapped patch,Auditory adjacent mapped patch,literal label (default),1
+Auditory envelope (dashed),Auditory envelope (dashed),literal label (default),1
+Auditory mapped envelope,Auditory mapped envelope,literal label (default),1
+C,C,literal label (default),7
+C (mapped component),C (mapped component),literal label (default),6
+CITd,CITd,literal label (default),1
+CITv,CITv,literal label (default),1
+CM,CM,literal label (default),1
+CT,CT,literal label (default),6
+DI,DI,literal label (default),24
+DL,DL,literal label (default),21
+DL/V4,DL/V4,literal label (default),1
+DLc,DLc,literal label (default),1
+DLr,DLr,literal label (default),1
+DM,DM,literal label (default),40
+DM visible fragment,DM visible fragment,literal label (default),4
+DP,DP,literal label (default),1
+Drawn schematic outline,Neocortex outline,manual alias (edit if the paper's definition differs),5
+Drawn tissue outline,Neocortex outline,manual alias (edit if the paper's definition differs),6
+ER posterior,ER posterior,literal label (default),1
+Electrosensory island ii,Electrosensory island ii,literal label (default),1
+FEF,FEF,literal label (default),19
+FST,FST,literal label (default),36
+FV,FV,literal label (default),25
+Fr,Fr,literal label (default),1
+G,G,literal label (default),1
+ITc,ITc,literal label (default),1
+Id,Id,literal label (default),1
+Ig,Ig,literal label (default),1
+L,L,literal label (default),1
+LIP,LIP,literal label (default),1
+LP,LP,literal label (default),1
+M,M,literal label (default),5
+M (motor),M (motor),literal label (default),1
+M bill,M bill,literal label (default),1
+M1,M1,literal label (default),1
+MDP,MDP,literal label (default),1
+MEF,MEF,literal label (default),1
+MI,MI,literal label (default),2
+MIP,MIP,literal label (default),1
+MST,MST,literal label (default),29
+MSTd,MSTd,literal label (default),1
+MSTl,MSTl,literal label (default),1
+MT,MT,manual alias (edit if the paper's definition differs),69
+MT (presumed),MT (presumed),literal label (default),1
+MT/FST? drawn envelope,MT/FST? drawn envelope,literal label (default),1
+Motor & Premotor,Motor & Premotor,literal label (default),1
+Neocortex outline,Neocortex outline,manual alias (edit if the paper's definition differs),19
+PA,PA,literal label (default),1
+PIP,PIP,literal label (default),1
+PIR,PIR,literal label (default),1
+PITd,PITd,literal label (default),1
+PITv,PITv,literal label (default),1
+PM,PM,literal label (default),4
+PMV,PMV,literal label (default),1
+PO,PO,literal label (default),1
+PPc mapped extent,PPc mapped extent,literal label (default),2
+PPr mapped extent,PPr mapped extent,literal label (default),4
+PSd,PSd,literal label (default),1
+PV,PV,manual alias (edit if the paper's definition differs),40
+PV/IG,PV/IG,literal label (default),5
+PV/S2,PV/S2,literal label (default),3
+Pall,Pall,literal label (default),1
+Pro,Pro,literal label (default),1
+R,R,literal label (default),21
+RL,RL,literal label (default),1
+RV,RV,literal label (default),1
+Ri,Ri,literal label (default),1
+S,S,literal label (default),4
+S (lateral component),S (lateral component),literal label (default),5
+S (medial component),S (medial component),literal label (default),3
+S-I,S1 / 3b,manual alias (edit if the paper's definition differs),1
+S-I (3b),S-I (3b),literal label (default),1
+S-II,S2,manual alias (edit if the paper's definition differs),2
+S1,S1 / 3b,manual alias (edit if the paper's definition differs),16
+S1 (3b),S1 (3b),literal label (default),1
+S1 medial mapped portion,S1 medial mapped portion,literal label (default),1
+S2,S2,manual alias (edit if the paper's definition differs),15
+SC,SC,literal label (default),4
+SI,S1 / 3b,manual alias (edit if the paper's definition differs),16
+SI (closed lower mapped islands),SI (closed lower mapped islands),literal label (default),2
+SI adjacent island,SI adjacent island,literal label (default),1
+SI bill mapped island,SI bill mapped island,literal label (default),1
+SI dorsal myelinated island,SI dorsal myelinated island,literal label (default),1
+SI forepaw island,SI forepaw island,literal label (default),2
+SI lateral myelinated island,SI lateral myelinated island,literal label (default),1
+SI lower island,SI lower island,literal label (default),1
+SI medial architectural island,SI medial architectural island,literal label (default),1
+SI shield-bill mapped island,SI shield-bill mapped island,literal label (default),1
+SI upper island,SI upper island,literal label (default),3
+SI upper strip,SI upper strip,literal label (default),1
+SI?,SI?,literal label (default),3
+SII,S2,manual alias (edit if the paper's definition differs),39
+SII/PV,SII/PV,literal label (default),10
+SMA,SMA,literal label (default),3
+SR,SR,literal label (default),3
+STPa,STPa,literal label (default),1
+STPp,STPp,literal label (default),1
+TA,TA,literal label (default),2
+TAi,TAi,literal label (default),1
+TArv + TAcv,TArv + TAcv,literal label (default),2
+TF,TF,literal label (default),1
+TI,TI,literal label (default),9
+TP,TP,literal label (default),5
+UZ,UZ,literal label (default),2
+V,V,literal label (default),10
+V1,V1 (area 17),manual alias (edit if the paper's definition differs),8
+V2,V2 (area 18),manual alias (edit if the paper's definition differs),4
+V3,V3,literal label (default),1
+V3A,V3A,literal label (default),1
+V3a,V3a,literal label (default),1
+VI,V1 (area 17),manual alias (edit if the paper's definition differs),13
+VI dorsal,VI dorsal,literal label (default),1
+VI ventral,VI ventral,literal label (default),1
+VII,V2 (area 18),manual alias (edit if the paper's definition differs),8
+VIP,VIP,literal label (default),1
+VP + VA,VP + VA,literal label (default),1
+VPP,VPP,literal label (default),6
+VS,VS,literal label (default),9
+Visual VI?,Visual VI?,literal label (default),1

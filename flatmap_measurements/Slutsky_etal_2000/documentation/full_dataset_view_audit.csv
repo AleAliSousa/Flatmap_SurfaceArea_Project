@@ -1,0 +1,15 @@
+map_id,figure,pdf_page,species,specimen,view_type,repeat_of,fields,complete_fields,partial_fields,unmeasured,audit_date,review
+fig01A,1,4,Spermophilus beecheyii,not reported,histological_section,,0,0,0,SI; R; PM; SII; PV; VI; VII; TA; TI; TP,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig01B,1,4,Spermophilus beecheyii,not reported,histological_section,,0,0,0,SI; R; PM; SII; PV; VI; VII; TA; TI; TP,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig02,2,5,Spermophilus beecheyii,not reported,whole_neocortex_reconstruction,,9,9,0,TI; whole neocortex,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig03,3,6,Spermophilus beecheyii,not reported,histological_section,,0,0,0,SI,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig04,4,7,Spermophilus beecheyii,96-2,physiological_map,,2,1,0,SI,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig05,5,8,Spermophilus beecheyii,96-1,physiological_map,,2,1,1,SI; R; PM,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig06,6,9,Spermophilus beecheyii,96-2,repeated_physiological_map,fig04,1,0,0,SI; R,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig07,7,10,Spermophilus beecheyii,96-3,physiological_map,,0,0,0,SI; R; PM,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig08,8,11,Spermophilus beecheyii,96-5,physiological_map,,0,0,0,SI; R; PM,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig09,9,11,Spermophilus beecheyii,96-31,physiological_map,,0,0,0,SI; R; PM,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig10,10,12,Spermophilus beecheyii,96-31,physiological_map,,0,0,0,SI; R; PM,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig11,11,13,Spermophilus beecheyii,96-2,repeated_physiological_map,fig04,1,0,0,SI; R,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig12,12,14,Spermophilus beecheyii,96-5,repeated_physiological_map,fig08,0,0,0,SI; R; PM,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig13,13,15,Spermophilus beecheyii,96-31,repeated_physiological_map,fig09,0,0,0,SI; R; PM,2026-10-16,source visually inspected; provisional anatomical interpretation

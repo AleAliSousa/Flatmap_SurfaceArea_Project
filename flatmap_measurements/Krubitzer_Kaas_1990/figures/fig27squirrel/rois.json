@@ -1414,5 +1414,115 @@
     ]
   ],
   "include_in_whole_hemisphere_summary": false,
-  "specimen_link_status": "unlinked_or_summary"
+  "specimen_link_status": "unlinked_or_summary",
+  "precision_audit": {
+    "date": "2026-10-15",
+    "source_review": "completed; provisional anatomical interpretation",
+    "changed_regions": 0,
+    "regions": [
+      {
+        "kind": "rois",
+        "label": "17",
+        "status": "retained_schematic",
+        "source_limits": "Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+      },
+      {
+        "kind": "rois",
+        "label": "18",
+        "status": "retained_schematic",
+        "source_limits": "Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+      },
+      {
+        "kind": "rois",
+        "label": "DM",
+        "status": "retained_schematic",
+        "source_limits": "Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+      },
+      {
+        "kind": "rois",
+        "label": "DI",
+        "status": "retained_schematic",
+        "source_limits": "Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+      },
+      {
+        "kind": "rois",
+        "label": "DL",
+        "status": "retained_schematic",
+        "source_limits": "Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+      },
+      {
+        "kind": "rois",
+        "label": "MT",
+        "status": "retained_schematic",
+        "source_limits": "Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+      },
+      {
+        "kind": "rois",
+        "label": "MST",
+        "status": "retained_schematic",
+        "source_limits": "Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+      },
+      {
+        "kind": "rois",
+        "label": "FST",
+        "status": "retained_schematic",
+        "source_limits": "Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+      },
+      {
+        "kind": "rois",
+        "label": "2",
+        "status": "retained_schematic",
+        "source_limits": "Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+      },
+      {
+        "kind": "rois",
+        "label": "1",
+        "status": "retained_schematic",
+        "source_limits": "Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+      },
+      {
+        "kind": "rois",
+        "label": "3b",
+        "status": "retained_schematic",
+        "source_limits": "Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+      },
+      {
+        "kind": "rois",
+        "label": "3a",
+        "status": "retained_schematic",
+        "source_limits": "Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+      },
+      {
+        "kind": "rois",
+        "label": "SII",
+        "status": "retained_schematic",
+        "source_limits": "Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+      },
+      {
+        "kind": "rois",
+        "label": "PV",
+        "status": "retained_schematic",
+        "source_limits": "Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+      },
+      {
+        "kind": "rois",
+        "label": "AI",
+        "status": "retained_schematic",
+        "source_limits": "Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+      },
+      {
+        "kind": "rois",
+        "label": "FEF",
+        "status": "retained_schematic",
+        "source_limits": "Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+      },
+      {
+        "kind": "rois",
+        "label": "FV",
+        "status": "retained_schematic",
+        "source_limits": "Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+      }
+    ],
+    "previous_geometry": "documentation/rois_before_precision_audit.json"
+  }
 }

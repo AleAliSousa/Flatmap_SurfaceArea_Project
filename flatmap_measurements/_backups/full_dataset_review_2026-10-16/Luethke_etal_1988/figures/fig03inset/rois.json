@@ -1,0 +1,74 @@
+{
+  "map_id": "fig03inset",
+  "figure": 3,
+  "panel": null,
+  "pdf_page": 5,
+  "printed_page": 185,
+  "species": "Sciurus carolinensis",
+  "specimen": "85-90",
+  "hemisphere": "ipsilateral",
+  "view_type": "physiological_inset",
+  "hemisphere_relation": "ipsilateral_to_injection",
+  "linked_main_map": null,
+  "repeat_of": null,
+  "specimen_link_status": "caption_identified",
+  "relationship_note": "Repeated views do not represent additional animals. No cross-publication pooling; source labels preserved.",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 4,
+  "crop_xyxy": [
+    1530,
+    430,
+    2220,
+    1220
+  ],
+  "supersample": 4,
+  "scale_length_mm": 1,
+  "scale_endpoints_px": [
+    [
+      42,
+      654
+    ],
+    [
+      131,
+      654
+    ]
+  ],
+  "scale_note": "Own printed scale stroke; local measured endpoints. Endpoints checked on the complete printed stroke, and refined to its visible dark horizontal extent.",
+  "scale_reference_map": null,
+  "outline": null,
+  "rois": [],
+  "unmeasured": [
+    {
+      "label": "R",
+      "status": "not_measurable",
+      "reason": "Inset frame truncates this field or complete separate limits are not drawn. Frame is not a cortical field border."
+    },
+    {
+      "label": "PV",
+      "status": "not_measurable",
+      "reason": "Inset frame truncates this field or complete separate limits are not drawn. Frame is not a cortical field border."
+    },
+    {
+      "label": "S-II",
+      "status": "not_measurable",
+      "reason": "Inset frame truncates this field or complete separate limits are not drawn. Frame is not a cortical field border."
+    },
+    {
+      "label": "TAi",
+      "status": "not_measurable",
+      "reason": "Inset frame truncates this field or complete separate limits are not drawn. Frame is not a cortical field border."
+    },
+    {
+      "label": "TArv",
+      "status": "not_measurable",
+      "reason": "Inset frame truncates this field or complete separate limits are not drawn. Frame is not a cortical field border."
+    },
+    {
+      "label": "TAcv",
+      "status": "not_measurable",
+      "reason": "Inset frame truncates this field or complete separate limits are not drawn. Frame is not a cortical field border."
+    }
+  ],
+  "review_note": "Dense tracing on 4 pixels/PDF point source rendering. Anatomical interpretation provisional; hide overlay in the precision review to inspect the printed stroke."
+}

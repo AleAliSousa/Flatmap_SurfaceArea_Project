@@ -1,0 +1,16 @@
+map_id,label,extent,vertices,source_render_pixels_per_pdf_point,source_visual_check,tracing_method,anatomical_certification
+fig02,R,complete,54,4,enlarged perimeter reviewed; short symbol continuations documented,Regularized source-envelope following; pixel staircases suppressed before fitting to continuous printed stroke,pending
+fig02,SI,complete,125,4,enlarged perimeter reviewed; short symbol continuations documented,Regularized source-envelope following; pixel staircases suppressed before fitting to continuous printed stroke,pending
+fig02,PM,complete,50,4,enlarged perimeter reviewed; short symbol continuations documented,Regularized source-envelope following; pixel staircases suppressed before fitting to continuous printed stroke,pending
+fig02,SII,complete,37,4,enlarged perimeter reviewed; short symbol continuations documented,Regularized source-envelope following; pixel staircases suppressed before fitting to continuous printed stroke,pending
+fig02,PV,complete,42,4,enlarged perimeter reviewed; short symbol continuations documented,Regularized source-envelope following; pixel staircases suppressed before fitting to continuous printed stroke,pending
+fig02,VI,complete,65,4,enlarged perimeter reviewed; short symbol continuations documented,Regularized source-envelope following; pixel staircases suppressed before fitting to continuous printed stroke,pending
+fig02,VII,complete,56,4,enlarged perimeter reviewed; short symbol continuations documented,Regularized source-envelope following; pixel staircases suppressed before fitting to continuous printed stroke,pending
+fig02,TA,complete,48,4,enlarged perimeter reviewed; short symbol continuations documented,Regularized source-envelope following; pixel staircases suppressed before fitting to continuous printed stroke,pending
+fig02,TP,complete,47,4,enlarged perimeter reviewed; short symbol continuations documented,Regularized source-envelope following; pixel staircases suppressed before fitting to continuous printed stroke,pending
+fig04,PM,approximate_complete,134,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig04,R,complete,148,4,enlarged perimeter reviewed; short symbol continuations documented,Regularized source-envelope following; pixel staircases suppressed before fitting to continuous printed stroke,pending
+fig05,SI medial architectural island,partial,61,4,enlarged perimeter reviewed; short symbol continuations documented,Regularized source-envelope following; pixel staircases suppressed before fitting to continuous printed stroke,pending
+fig05,SII,complete,84,4,enlarged perimeter reviewed; short symbol continuations documented,Regularized source-envelope following; pixel staircases suppressed before fitting to continuous printed stroke,pending
+fig06,PM,approximate_complete,191,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig11,PM,approximate_complete,184,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending

@@ -1,0 +1,63 @@
+map_id,label,extent,vertices,source_render_pixels_per_pdf_point,source_visual_check,tracing_method,anatomical_certification
+fig02,5,complete,320,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02,7b,complete,408,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02,7a,complete,270,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02,SII,complete,288,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02,4,complete,793,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02,6,complete,640,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02,3b,complete,678,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02,3a,complete,808,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02,1,complete,552,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02,2,complete,495,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02,23,complete,546,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02,24,complete,460,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02,32,complete,236,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02,25,complete,196,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02,14,complete,308,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02,10,complete,508,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02,SMA,complete,264,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02,MEF,complete,120,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02,11,complete,268,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02,12,complete,300,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02,13,complete,304,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02,45,complete,384,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02,G,complete,186,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02,PIR,complete,216,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02,DP,complete,63,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig02,PITd,complete,46,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig02,PITv,complete,60,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig02,CITd,complete,48,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig02,CITv,complete,32,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig02,AITd,complete,40,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig02,AITv,complete,39,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig02,TF,complete,31,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig02,STPp,complete,52,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig02,STPa,complete,63,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig02,FST,complete,44,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig02,PO,complete,40,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig02,MDP,complete,82,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig02,MSTd,complete,34,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig02,MSTl,complete,26,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig02,FEF,complete,128,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig02,46,complete,122,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig02,9,complete,395,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02,MIP,complete,113,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02,LIP,complete,188,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02,PIP,complete,196,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02,V3A,complete,70,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig02,29,complete,524,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02,PSd,complete,142,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02,RL,complete,148,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02,Ig,complete,236,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02,Id,complete,198,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02,Pro,complete,118,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02,Pall,complete,448,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02,VIP,complete,26,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig02,Ri,complete,34,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig02,AI,complete,31,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig02,CM,complete,27,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig02,L,complete,30,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig02,PA,complete,26,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig02,30,complete,182,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02,ER posterior,complete,216,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02,V1,complete,142,4,enlarged perimeter reviewed; short symbol continuations documented,Dense step-edge fitting of the source-filled V1 silhouette,pending

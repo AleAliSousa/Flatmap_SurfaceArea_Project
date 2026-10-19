@@ -1,0 +1,16 @@
+map_id,label,extent,vertices,source_render_pixels_per_pdf_point,source_visual_check,tracing_method,anatomical_certification
+fig02,R,complete,440,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02,SI,complete,1008,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02,PM,complete,358,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02,SII,complete,280,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02,PV,complete,278,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02,VI,complete,662,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02,VII,complete,482,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02,TA,complete,402,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02,TP,complete,360,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig04,PM,approximate_complete,134,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig04,R,complete,1626,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig05,SI medial architectural island,partial,482,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig05,SII,complete,1206,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig06,PM,approximate_complete,191,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig11,PM,approximate_complete,184,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending

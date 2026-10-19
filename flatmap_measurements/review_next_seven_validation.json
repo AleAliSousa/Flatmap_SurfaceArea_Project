@@ -1,0 +1,111 @@
+{
+  "html_files": 15,
+  "local_links_checked": 996,
+  "inline_scripts_syntax_checked": 7,
+  "issues": [],
+  "browser_runtime": "Not exercised; static local-link and script checks only. Source-toggle reviews use inline data and local PNGs, no fetch.",
+  "batch_scope": "next seven not-started papers in authoritative paper inventory",
+  "papers": 7,
+  "numbered_figures_assessed": 120,
+  "provisional_field_or_fragment_contours": 308,
+  "native_imagej_roundtrip": "passed for all seven datasets",
+  "final_saved_hash_and_measurement_consistency": "passed for all seven datasets",
+  "proper_crossings_invalid_bounds_or_duplicate_labels": 0,
+  "interior_overlaps": "only the explicitly source-drawn Aud/PV overlaps in Beck Figures16/17",
+  "biological_summary_policy": "composite atlas excluded; one calibrated complete observation per identified animal and literal field; repeats, estimated and partial extents excluded",
+  "whole_neocortex_denominator": "not established; percentages remain NA",
+  "queue_update": "seven assessed papers advanced; six sources remain not started",
+  "datasets": [
+    {
+      "paper_id": "Manger_etal_2002",
+      "numbered_figures": 14,
+      "contours": 6,
+      "calibrated_contours": 6,
+      "pixel_only_contours": 0,
+      "extent_counts": {
+        "complete": 0,
+        "approx_complete": 0,
+        "partial": 6
+      },
+      "explicit_NA_entries": 37
+    },
+    {
+      "paper_id": "Slutsky_etal_2000",
+      "numbered_figures": 14,
+      "contours": 15,
+      "calibrated_contours": 15,
+      "pixel_only_contours": 0,
+      "extent_counts": {
+        "complete": 11,
+        "approx_complete": 3,
+        "partial": 1
+      },
+      "explicit_NA_entries": 49
+    },
+    {
+      "paper_id": "Beck_etal_1996",
+      "numbered_figures": 18,
+      "contours": 48,
+      "calibrated_contours": 43,
+      "pixel_only_contours": 5,
+      "extent_counts": {
+        "complete": 48,
+        "approx_complete": 0,
+        "partial": 0
+      },
+      "explicit_NA_entries": 40
+    },
+    {
+      "paper_id": "Felleman_VanEssen_1991",
+      "numbered_figures": 3,
+      "contours": 62,
+      "calibrated_contours": 62,
+      "pixel_only_contours": 0,
+      "extent_counts": {
+        "complete": 62,
+        "approx_complete": 0,
+        "partial": 0
+      },
+      "explicit_NA_entries": 13
+    },
+    {
+      "paper_id": "Krubitzer_etal_1993",
+      "numbered_figures": 22,
+      "contours": 76,
+      "calibrated_contours": 76,
+      "pixel_only_contours": 0,
+      "extent_counts": {
+        "complete": 34,
+        "approx_complete": 0,
+        "partial": 42
+      },
+      "explicit_NA_entries": 172
+    },
+    {
+      "paper_id": "Krubitzer_etal_1995",
+      "numbered_figures": 30,
+      "contours": 13,
+      "calibrated_contours": 13,
+      "pixel_only_contours": 0,
+      "extent_counts": {
+        "complete": 6,
+        "approx_complete": 6,
+        "partial": 1
+      },
+      "explicit_NA_entries": 112
+    },
+    {
+      "paper_id": "Luethke_etal_1988",
+      "numbered_figures": 19,
+      "contours": 88,
+      "calibrated_contours": 10,
+      "pixel_only_contours": 78,
+      "extent_counts": {
+        "complete": 85,
+        "approx_complete": 2,
+        "partial": 1
+      },
+      "explicit_NA_entries": 98
+    }
+  ]
+}

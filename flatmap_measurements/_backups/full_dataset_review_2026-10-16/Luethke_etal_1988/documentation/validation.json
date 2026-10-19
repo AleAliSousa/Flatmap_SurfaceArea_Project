@@ -1,0 +1,64 @@
+{
+  "processed_views": 13,
+  "measured_fields": 88,
+  "unmeasured_fields": 98,
+  "overlaps": [
+    {
+      "map_id": "fig06",
+      "field_a": "TAi",
+      "field_b": "TArv + TAcv",
+      "overlap_pixels": 53
+    },
+    {
+      "map_id": "fig06",
+      "field_a": "TAi",
+      "field_b": "R",
+      "overlap_pixels": 79
+    },
+    {
+      "map_id": "fig08",
+      "field_a": "R",
+      "field_b": "TAi",
+      "overlap_pixels": 25
+    },
+    {
+      "map_id": "fig12",
+      "field_a": "M",
+      "field_b": "S-I",
+      "overlap_pixels": 16
+    },
+    {
+      "map_id": "fig12",
+      "field_a": "S-I",
+      "field_b": "PV",
+      "overlap_pixels": 27
+    },
+    {
+      "map_id": "fig12",
+      "field_a": "S-I",
+      "field_b": "UZ",
+      "overlap_pixels": 7
+    },
+    {
+      "map_id": "fig13",
+      "field_a": "S-I",
+      "field_b": "S-II",
+      "overlap_pixels": 20
+    },
+    {
+      "map_id": "fig15",
+      "field_a": "TAi",
+      "field_b": "TArv + TAcv",
+      "overlap_pixels": 55
+    }
+  ],
+  "native_imagej_roundtrip": "passed",
+  "anatomical_review": "provisional; pending user review",
+  "reference_comparison": "not_run; core workflow does not require reference data",
+  "geometry_overlap_audit": "passed; shared-border slivers and explicitly documented source overlaps reviewed",
+  "all_numbered_figures_assessed": true,
+  "numbered_figures_assessed": 19,
+  "assessment_status": "eligible_views_digitized_provisional",
+  "whole_neocortex_summary": "unavailable; no independently established complete-neocortex view",
+  "source_visual_review": "completed; anatomical certification pending"
+}

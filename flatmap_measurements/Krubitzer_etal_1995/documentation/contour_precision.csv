@@ -1,0 +1,21 @@
+map_id,label,extent,vertices,source_render_pixels_per_pdf_point,source_visual_check,tracing_method,anatomical_certification
+fig02,A,complete,40,4,enlarged perimeter reviewed; short symbol continuations documented,Regularized source-envelope following; pixel staircases suppressed before fitting to continuous printed stroke,pending
+fig02,SI,complete,225,4,enlarged perimeter reviewed; short symbol continuations documented,Regularized source-envelope following; pixel staircases suppressed before fitting to continuous printed stroke,pending
+fig03,V,complete,103,4,enlarged perimeter reviewed; short symbol continuations documented,Regularized source-envelope following; pixel staircases suppressed before fitting to continuous printed stroke,pending
+fig03,A,approx_complete,114,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig04,SI shield-bill mapped island,partial,374,4,enlarged perimeter reviewed; short symbol continuations documented,Regularized source-envelope following; pixel staircases suppressed before fitting to continuous printed stroke,pending
+fig04,A,approx_complete,134,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig05,A,approx_complete,126,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig06_local,A,complete,103,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig07_local,SI bill mapped island,partial,190,4,enlarged perimeter reviewed; short symbol continuations documented,Manually identified anatomical envelope with regularized stroke-center following,pending
+fig07_local,A,complete,77,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig08,V,approx_complete,112,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig12A,A,approx_complete,106,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig12B,A,complete,118,4,enlarged perimeter reviewed; short symbol continuations documented,Regularized source-envelope following; pixel staircases suppressed before fitting to continuous printed stroke,pending
+fig13_local,A,complete,87,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig14,A,complete,195,4,enlarged perimeter reviewed; short symbol continuations documented,Regularized source-envelope following; pixel staircases suppressed before fitting to continuous printed stroke,pending
+fig15,A,complete,190,4,enlarged perimeter reviewed; short symbol continuations documented,Regularized source-envelope following; pixel staircases suppressed before fitting to continuous printed stroke,pending
+fig16_local,A,complete,110,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig17_local,A,complete,84,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig18,V,approximate_complete,173,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig23,A,complete,91,4,enlarged perimeter reviewed; short symbol continuations documented,Manually identified anatomical envelope with regularized stroke-center following,pending

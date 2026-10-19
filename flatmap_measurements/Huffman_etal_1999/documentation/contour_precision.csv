@@ -1,0 +1,77 @@
+map_id,label,extent,vertices,source_render_pixels_per_pdf_point,source_visual_check,tracing_method,anatomical_certification
+fig02,C,complete,374,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig02,SII/PV,complete,321,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig03,C,complete,244,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig03,SII/PV,complete,300,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig03,A,complete,334,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig04A,SI forepaw island,partial,205,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig04B,SI forepaw island,partial,231,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig05,C,complete,193,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig05,A,complete,290,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig05,SII/PV,complete,202,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig06,VI,complete,598,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig06,SI?,complete,155,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig06,CT,complete,213,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig06,A,complete,183,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig06,SI,complete,314,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig07,VI,complete,508,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig07,A,complete,181,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig07,CT,complete,230,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig07,SI?,complete,211,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig07,SI,complete,404,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig08A,C (mapped component),partial,160,4,enlarged perimeter reviewed; short symbol continuations documented,Manually identified anatomical envelope with regularized stroke-center following,pending
+fig08A,SII/PV,complete,137,4,enlarged perimeter reviewed; short symbol continuations documented,Manually identified anatomical envelope with regularized stroke-center following,pending
+fig08B,C (mapped component),partial,87,4,enlarged perimeter reviewed; short symbol continuations documented,Manually identified anatomical envelope with regularized stroke-center following,pending
+fig08B,SII/PV,complete,117,4,enlarged perimeter reviewed; short symbol continuations documented,Manually identified anatomical envelope with regularized stroke-center following,pending
+fig09,C (mapped component),partial,114,4,enlarged perimeter reviewed; short symbol continuations documented,Manually identified anatomical envelope with regularized stroke-center following,pending
+fig09,SI (closed lower mapped islands),partial,280,4,enlarged perimeter reviewed; short symbol continuations documented,Manually identified anatomical envelope with regularized stroke-center following,pending
+fig09,SII/PV,complete,173,4,enlarged perimeter reviewed; short symbol continuations documented,Manually identified anatomical envelope with regularized stroke-center following,pending
+fig10,C (mapped component),partial,234,4,enlarged perimeter reviewed; short symbol continuations documented,Manually identified anatomical envelope with regularized stroke-center following,pending
+fig10,SII/PV,complete,167,4,enlarged perimeter reviewed; short symbol continuations documented,Manually identified anatomical envelope with regularized stroke-center following,pending
+fig11,C (mapped component),partial,132,4,enlarged perimeter reviewed; short symbol continuations documented,Manually identified anatomical envelope with regularized stroke-center following,pending
+fig11,SII/PV,complete,183,4,enlarged perimeter reviewed; short symbol continuations documented,Manually identified anatomical envelope with regularized stroke-center following,pending
+fig12,C (mapped component),partial,110,4,enlarged perimeter reviewed; short symbol continuations documented,Manually identified anatomical envelope with regularized stroke-center following,pending
+fig12,SI (closed lower mapped islands),partial,291,4,enlarged perimeter reviewed; short symbol continuations documented,Manually identified anatomical envelope with regularized stroke-center following,pending
+fig12,SII/PV,complete,192,4,enlarged perimeter reviewed; short symbol continuations documented,Manually identified anatomical envelope with regularized stroke-center following,pending
+fig14_brush_tailed,VI,complete,58,4,enlarged perimeter reviewed; short symbol continuations documented,"Source color compartment identified, outer anatomical envelope regularized and fitted to its printed boundary",pending
+fig14_brush_tailed,VII,complete,76,4,enlarged perimeter reviewed; short symbol continuations documented,"Source color compartment identified, outer anatomical envelope regularized and fitted to its printed boundary",pending
+fig14_brush_tailed,C,complete,90,4,enlarged perimeter reviewed; short symbol continuations documented,"Source color compartment identified, outer anatomical envelope regularized and fitted to its printed boundary",pending
+fig14_brush_tailed,R,complete,89,4,enlarged perimeter reviewed; short symbol continuations documented,"Source color compartment identified, outer anatomical envelope regularized and fitted to its printed boundary",pending
+fig14_brush_tailed,SI,complete,239,4,enlarged perimeter reviewed; short symbol continuations documented,"Source color compartment identified, outer anatomical envelope regularized and fitted to its printed boundary",pending
+fig14_brush_tailed,SII,complete,36,4,enlarged perimeter reviewed; short symbol continuations documented,"Source color compartment identified, outer anatomical envelope regularized and fitted to its printed boundary",pending
+fig14_brush_tailed,PV,complete,34,4,enlarged perimeter reviewed; short symbol continuations documented,"Source color compartment identified, outer anatomical envelope regularized and fitted to its printed boundary",pending
+fig14_brush_tailed,A,complete,50,4,enlarged perimeter reviewed; short symbol continuations documented,"Source color compartment identified, outer anatomical envelope regularized and fitted to its printed boundary",pending
+fig14_dunnart,VI,complete,33,4,enlarged perimeter reviewed; short symbol continuations documented,"Source color compartment identified, outer anatomical envelope regularized and fitted to its printed boundary",pending
+fig14_dunnart,SI,complete,40,4,enlarged perimeter reviewed; short symbol continuations documented,"Source color compartment identified, outer anatomical envelope regularized and fitted to its printed boundary",pending
+fig14_dunnart,A,complete,19,4,enlarged perimeter reviewed; short symbol continuations documented,Manually identified anatomical envelope with regularized stroke-center following,pending
+fig14_dunnart,CT,complete,24,4,enlarged perimeter reviewed; short symbol continuations documented,"Source color compartment identified, outer anatomical envelope regularized and fitted to its printed boundary",pending
+fig14_north_american,VI,complete,64,4,enlarged perimeter reviewed; short symbol continuations documented,"Source color compartment identified, outer anatomical envelope regularized and fitted to its printed boundary",pending
+fig14_north_american,VII,complete,81,4,enlarged perimeter reviewed; short symbol continuations documented,"Source color compartment identified, outer anatomical envelope regularized and fitted to its printed boundary",pending
+fig14_north_american,SC,complete,39,4,enlarged perimeter reviewed; short symbol continuations documented,"Source color compartment identified, outer anatomical envelope regularized and fitted to its printed boundary",pending
+fig14_north_american,SI,complete,60,4,enlarged perimeter reviewed; short symbol continuations documented,"Source color compartment identified, outer anatomical envelope regularized and fitted to its printed boundary",pending
+fig14_north_american,SR,complete,87,4,enlarged perimeter reviewed; short symbol continuations documented,"Source color compartment identified, outer anatomical envelope regularized and fitted to its printed boundary",pending
+fig14_north_american,SII,complete,91,4,enlarged perimeter reviewed; short symbol continuations documented,"Source color compartment identified, outer anatomical envelope regularized and fitted to its printed boundary",pending
+fig14_north_american,PV,complete,44,4,enlarged perimeter reviewed; short symbol continuations documented,"Source color compartment identified, outer anatomical envelope regularized and fitted to its printed boundary",pending
+fig14_north_american,A,complete,42,4,enlarged perimeter reviewed; short symbol continuations documented,"Source color compartment identified, outer anatomical envelope regularized and fitted to its printed boundary",pending
+fig14_quoll,VI,complete,49,4,enlarged perimeter reviewed; short symbol continuations documented,"Source color compartment identified, outer anatomical envelope regularized and fitted to its printed boundary",pending
+fig14_quoll,VII,complete,105,4,enlarged perimeter reviewed; short symbol continuations documented,"Source color compartment identified, outer anatomical envelope regularized and fitted to its printed boundary",pending
+fig14_quoll,C,complete,48,4,enlarged perimeter reviewed; short symbol continuations documented,"Source color compartment identified, outer anatomical envelope regularized and fitted to its printed boundary",pending
+fig14_quoll,R,complete,85,4,enlarged perimeter reviewed; short symbol continuations documented,"Source color compartment identified, outer anatomical envelope regularized and fitted to its printed boundary",pending
+fig14_quoll,SI,complete,158,4,enlarged perimeter reviewed; short symbol continuations documented,"Source color compartment identified, outer anatomical envelope regularized and fitted to its printed boundary",pending
+fig14_quoll,SII/PV,complete,76,4,enlarged perimeter reviewed; short symbol continuations documented,"Source color compartment identified, outer anatomical envelope regularized and fitted to its printed boundary",pending
+fig14_quoll,A,complete,41,4,enlarged perimeter reviewed; short symbol continuations documented,"Source color compartment identified, outer anatomical envelope regularized and fitted to its printed boundary",pending
+fig14_short_tailed,VI,complete,45,4,enlarged perimeter reviewed; short symbol continuations documented,"Source color compartment identified, outer anatomical envelope regularized and fitted to its printed boundary",pending
+fig14_short_tailed,SI,complete,44,4,enlarged perimeter reviewed; short symbol continuations documented,"Source color compartment identified, outer anatomical envelope regularized and fitted to its printed boundary",pending
+fig14_short_tailed,SI?,complete,42,4,enlarged perimeter reviewed; short symbol continuations documented,"Source color compartment identified, outer anatomical envelope regularized and fitted to its printed boundary",pending
+fig14_short_tailed,A,complete,56,4,enlarged perimeter reviewed; short symbol continuations documented,"Source color compartment identified, outer anatomical envelope regularized and fitted to its printed boundary",pending
+fig14_short_tailed,CT,complete,29,4,enlarged perimeter reviewed; short symbol continuations documented,"Source color compartment identified, outer anatomical envelope regularized and fitted to its printed boundary",pending
+fig14_striped,VI,complete,65,4,enlarged perimeter reviewed; short symbol continuations documented,"Source color compartment identified, outer anatomical envelope regularized and fitted to its printed boundary",pending
+fig14_striped,VII,complete,105,4,enlarged perimeter reviewed; short symbol continuations documented,"Source color compartment identified, outer anatomical envelope regularized and fitted to its printed boundary",pending
+fig14_striped,C,complete,54,4,enlarged perimeter reviewed; short symbol continuations documented,"Source color compartment identified, outer anatomical envelope regularized and fitted to its printed boundary",pending
+fig14_striped,R,complete,116,4,enlarged perimeter reviewed; short symbol continuations documented,"Source color compartment identified, outer anatomical envelope regularized and fitted to its printed boundary",pending
+fig14_striped,SI,complete,269,4,enlarged perimeter reviewed; short symbol continuations documented,"Source color compartment identified, outer anatomical envelope regularized and fitted to its printed boundary",pending
+fig14_striped,SII,complete,41,4,enlarged perimeter reviewed; short symbol continuations documented,"Source color compartment identified, outer anatomical envelope regularized and fitted to its printed boundary",pending
+fig14_striped,PV,complete,38,4,enlarged perimeter reviewed; short symbol continuations documented,"Source color compartment identified, outer anatomical envelope regularized and fitted to its printed boundary",pending
+fig14_striped,A,complete,51,4,enlarged perimeter reviewed; short symbol continuations documented,"Source color compartment identified, outer anatomical envelope regularized and fitted to its printed boundary",pending
+fig15_quoll,SI,complete,266,4,enlarged perimeter reviewed; short symbol continuations documented,"Complete source-ink outer envelope, regularized and source-stroke fitted",pending
+fig15_striped,SI lower mapped component,partial,246,4,enlarged perimeter reviewed; short symbol continuations documented,"Complete source-ink outer envelope, regularized and source-stroke fitted",pending

@@ -1,0 +1,7 @@
+figure,pdf_page,panel,specimen,interpretation,processing_status,reason_or_result,linked_main_map
+1,2,,not reported,Galago dorsolateral summary schematic,assessed_excluded,Projected summary; no individually identified flattened specimen.,
+2,3,,not reported,Flattened galago connection schematic,assessed_excluded,"Caption explicitly calls it a schematic; repeated functional zones/connection lines, no individual metric reconstruction.",
+3,3,,not reported,Squirrel-monkey dorsolateral brain view,assessed_excluded,Projected brain view; cannot recover cortical surface area from projected shape.,
+4,4,,not reported,Three flattened squirrel-monkey connection diagrams,assessed_excluded,"Schematic connection-network panels, with no identified specimen reconstruction or defensible whole cortex geometry. Overlaid lines are connections, not cortical borders.",
+5,4,,not reported,Macaque dorsolateral brain diagram,assessed_excluded,Projected summary with opened sulcus and schematic fields; no specimen flatmap.,
+6,5,,not reported,Tree-shrew sensorimotor pathway schematic,assessed_excluded,"Summary based on Remple etal2006, not new individually identified flatmap geometry.",

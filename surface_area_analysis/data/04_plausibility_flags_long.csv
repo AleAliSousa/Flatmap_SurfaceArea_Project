@@ -1,0 +1,323 @@
+paper,species,specimen,label,region_group,mean_mm2,flag
+Krubitzer_Kaas_1990,Aotus trivirgatus,87-54,18,V2 (area 18),121.07955695085737,flag_insufficient_comparison
+Krubitzer_Kaas_1990,Aotus trivirgatus,87-54,3b,S1 / 3b,46.61165482814236,flag_insufficient_comparison
+Krubitzer_Kaas_1990,Aotus trivirgatus,87-54,AI,A1,15.808921966119378,flag_insufficient_comparison
+Krubitzer_Kaas_1990,Aotus trivirgatus,87-54,C,C,1.8625852610884333,flag_insufficient_comparison
+Krubitzer_Kaas_1990,Aotus trivirgatus,87-54,DI,DI,25.29704271204933,flag_insufficient_comparison
+Krubitzer_Kaas_1990,Aotus trivirgatus,87-54,DL,DL,46.917780883315935,flag_insufficient_comparison
+Krubitzer_Kaas_1990,Aotus trivirgatus,87-54,PV,PV,10.58215731436389,flag_insufficient_comparison
+Krubitzer_Kaas_1990,Aotus trivirgatus,87-54,SII,S2,12.30135995165928,flag_insufficient_comparison
+Krubitzer_Kaas_1990,Aotus trivirgatus,88-7,18,V2 (area 18),152.83427065845805,flag_insufficient_comparison
+Krubitzer_Kaas_1990,Aotus trivirgatus,88-7,DI,DI,25.617845125373787,flag_insufficient_comparison
+Krubitzer_Kaas_1990,Aotus trivirgatus,88-7,DL,DL,60.059488627736464,flag_insufficient_comparison
+Krubitzer_Kaas_1990,Aotus trivirgatus,88-7,DM,DM,49.40228238135385,flag_outlier_species_region
+Krubitzer_Kaas_1990,Aotus trivirgatus,88-7,MT,MT,34.566248870226275,flag_borderline_species_region
+Krubitzer_Kaas_1990,Aotus trivirgatus,88-7,Neocortex outline,Neocortex outline,1812.7476811291324,flag_borderline_species_region
+Krubitzer_Kaas_1993,Aotus trivirgatus,88-16,3b,S1 / 3b,33.82720588235294,flag_insufficient_comparison
+Krubitzer_Kaas_1993,Aotus trivirgatus,88-16,AI,A1,10.893382352941178,flag_insufficient_comparison
+Krubitzer_Kaas_1993,Aotus trivirgatus,88-16,PV,PV,8.383001730103807,flag_insufficient_comparison
+Krubitzer_Kaas_1993,Aotus trivirgatus,88-16,SII,S2,8.567690311418685,flag_insufficient_comparison
+Krubitzer_Kaas_1993,Aotus trivirgatus,88-32,AI + R,AI + R,18.459683641975307,flag_insufficient_comparison
+Krubitzer_Kaas_1993,Aotus trivirgatus,89-58,VPP,VPP,18.187692901234566,flag_insufficient_comparison
+Krubitzer_Kaas_1990,Callithrix jacchus,87-51,3a,3a,9.553665480916145,flag_borderline_species_region
+Krubitzer_Kaas_1990,Callithrix jacchus,87-51,DI,DI,8.67045642364695,flag_insufficient_comparison
+Krubitzer_Kaas_1990,Callithrix jacchus,87-51,DL,DL,25.090766344597235,flag_within_specimen_discordant
+Krubitzer_Kaas_1990,Callithrix jacchus,87-51,DL,DL,25.090766344597235,flag_insufficient_comparison
+Krubitzer_Kaas_1990,Callithrix jacchus,87-51,MST,MST,11.151653130507409,flag_insufficient_comparison
+Krubitzer_Kaas_1990,Callithrix jacchus,87-53,DI,DI,13.5869985141159,flag_insufficient_comparison
+Krubitzer_Kaas_1990,Callithrix jacchus,87-53,DL,DL,24.07102526002972,flag_insufficient_comparison
+Krubitzer_Kaas_1990,Callithrix jacchus,87-53,MST,MST,9.529123328380388,flag_insufficient_comparison
+Krubitzer_Kaas_1993,Callithrix jacchus,89-78,17,V1 (area 17),130.95453559027777,flag_borderline_species_region
+Krubitzer_Kaas_1993,Callithrix jacchus,89-78,3b,S1 / 3b,27.462565104166664,flag_borderline_species_region
+Krubitzer_Kaas_1993,Callithrix jacchus,89-78,FST,FST,8.357313368055555,flag_borderline_species_region
+Krubitzer_Kaas_1993,Callithrix jacchus,89-78,MT,MT,16.0283203125,flag_borderline_species_region
+Krubitzer_Kaas_1993,Callithrix jacchus,89-78,PV,PV,5.6689453125,flag_outlier_species_region
+Krubitzer_Kaas_1993,Callithrix jacchus,89-78,R,R,2.364583333333333,flag_insufficient_comparison
+Krubitzer_Kaas_1993,Callithrix jacchus,89-78,SII,S2,5.128255208333333,flag_borderline_species_region
+Preuss_Kaas_1996,Cheirogaleus medius,single adult female,Aud (auditory complex),Aud (auditory complex),9.856610516107269,flag_insufficient_comparison
+Preuss_Kaas_1996,Cheirogaleus medius,single adult female,Aud (auditory complex),Aud (auditory complex),9.856610516107269,flag_no_denominator
+Preuss_Kaas_1996,Cheirogaleus medius,single adult female,V1,V1 (area 17),60.8739221411705,flag_insufficient_comparison
+Preuss_Kaas_1996,Cheirogaleus medius,single adult female,V1,V1 (area 17),60.8739221411705,flag_no_denominator
+Huffman_etal_1999,Dactylopsila trivirgata,SP1,A,A,10.374266528925618,flag_insufficient_comparison
+Huffman_etal_1999,Dactylopsila trivirgata,SP1,A,A,10.374266528925618,flag_no_denominator
+Huffman_etal_1999,Dactylopsila trivirgata,SP1,C,C,6.894586776859503,flag_insufficient_comparison
+Huffman_etal_1999,Dactylopsila trivirgata,SP1,C,C,6.894586776859503,flag_no_denominator
+Huffman_etal_1999,Dactylopsila trivirgata,SP1,SII/PV,SII/PV,20.36491559986769,flag_insufficient_comparison
+Huffman_etal_1999,Dactylopsila trivirgata,SP1,SII/PV,SII/PV,20.36491559986769,flag_no_denominator
+Huffman_etal_1999,Dasyurus hallucatus,NQ3,C,C,3.0994097758058983,flag_insufficient_comparison
+Huffman_etal_1999,Dasyurus hallucatus,NQ3,C,C,3.0994097758058983,flag_no_denominator
+Huffman_etal_1999,Dasyurus hallucatus,NQ3,SII/PV,SII/PV,2.868300667371627,flag_insufficient_comparison
+Huffman_etal_1999,Dasyurus hallucatus,NQ3,SII/PV,SII/PV,2.868300667371627,flag_no_denominator
+Huffman_etal_1999,Dasyurus hallucatus,NQ5,A,A,4.67999574829932,flag_insufficient_comparison
+Huffman_etal_1999,Dasyurus hallucatus,NQ5,A,A,4.67999574829932,flag_no_denominator
+Huffman_etal_1999,Dasyurus hallucatus,NQ5,C,C,2.6933191609977327,flag_insufficient_comparison
+Huffman_etal_1999,Dasyurus hallucatus,NQ5,C,C,2.6933191609977327,flag_no_denominator
+Huffman_etal_1999,Dasyurus hallucatus,NQ5,SII/PV,SII/PV,3.241311749895347,flag_insufficient_comparison
+Huffman_etal_1999,Dasyurus hallucatus,NQ5,SII/PV,SII/PV,3.241311749895347,flag_no_denominator
+Beck_etal_1996,Didelphis virginiana,92-44,PV,PV,9.963570915387258,flag_no_denominator
+Beck_etal_1996,Didelphis virginiana,92-44,S1,S1 / 3b,29.830622552509787,flag_no_denominator
+Beck_etal_1996,Didelphis virginiana,92-44,S2,S2,16.309090201139195,flag_no_denominator
+Beck_etal_1996,Didelphis virginiana,92-51,PV,PV,4.73030941566949,flag_no_denominator
+Beck_etal_1996,Didelphis virginiana,92-51,S1,S1 / 3b,13.263741801027313,flag_no_denominator
+Beck_etal_1996,Didelphis virginiana,92-51,S2,S2,8.9942462223775,flag_no_denominator
+Beck_etal_1996,Didelphis virginiana,92-57,PV,PV,6.853734647561409,flag_no_denominator
+Beck_etal_1996,Didelphis virginiana,92-57,S1,S1 / 3b,19.399608401566393,flag_no_denominator
+Beck_etal_1996,Didelphis virginiana,92-57,S2,S2,9.900865521537913,flag_no_denominator
+Beck_etal_1996,Didelphis virginiana,92-78,PV,PV,10.659797210714792,flag_no_denominator
+Beck_etal_1996,Didelphis virginiana,92-78,S1,S1 / 3b,16.971991725221894,flag_no_denominator
+Beck_etal_1996,Didelphis virginiana,92-78,S2,S2,13.011730306952664,flag_no_denominator
+Beck_etal_1996,Didelphis virginiana,92-79,Aud,Aud,9.638967962320791,flag_insufficient_comparison
+Beck_etal_1996,Didelphis virginiana,92-79,Aud,Aud,9.638967962320791,flag_no_denominator
+Beck_etal_1996,Didelphis virginiana,92-79,CT,CT,6.118627400238084,flag_insufficient_comparison
+Beck_etal_1996,Didelphis virginiana,92-79,CT,CT,6.118627400238084,flag_no_denominator
+Beck_etal_1996,Didelphis virginiana,92-79,PV,PV,20.65743232751928,flag_no_denominator
+Beck_etal_1996,Didelphis virginiana,92-79,S1,S1 / 3b,25.094068629988097,flag_no_denominator
+Beck_etal_1996,Didelphis virginiana,92-79,S2,S2,19.600719424460433,flag_no_denominator
+Beck_etal_1996,Didelphis virginiana,92-79,SC,SC,19.290150613322293,flag_insufficient_comparison
+Beck_etal_1996,Didelphis virginiana,92-79,SC,SC,19.290150613322293,flag_no_denominator
+Beck_etal_1996,Didelphis virginiana,92-79,SR,SR,10.968583406655972,flag_insufficient_comparison
+Beck_etal_1996,Didelphis virginiana,92-79,SR,SR,10.968583406655972,flag_no_denominator
+Beck_etal_1996,Didelphis virginiana,92-79,V1,V1 (area 17),47.296387350551214,flag_insufficient_comparison
+Beck_etal_1996,Didelphis virginiana,92-79,V1,V1 (area 17),47.296387350551214,flag_no_denominator
+Beck_etal_1996,Didelphis virginiana,92-79,V2,V2 (area 18),21.58433828476787,flag_insufficient_comparison
+Beck_etal_1996,Didelphis virginiana,92-79,V2,V2 (area 18),21.58433828476787,flag_no_denominator
+Beck_etal_1996,Didelphis virginiana,93-06,PV,PV,7.859274875400498,flag_no_denominator
+Beck_etal_1996,Didelphis virginiana,93-06,S1,S1 / 3b,29.266843182627262,flag_no_denominator
+Beck_etal_1996,Didelphis virginiana,93-06,S2,S2,18.1500088999644,flag_no_denominator
+Beck_etal_1996,Didelphis virginiana,93-59,PV,PV,8.921735762716457,flag_within_specimen_discordant
+Beck_etal_1996,Didelphis virginiana,93-59,PV,PV,8.921735762716457,flag_no_denominator
+Beck_etal_1996,Didelphis virginiana,93-59,S1,S1 / 3b,24.31311686610184,flag_no_denominator
+Beck_etal_1996,Didelphis virginiana,93-59,S2,S2,16.111744593565412,flag_no_denominator
+Beck_etal_1996,Didelphis virginiana,93-82,PV,PV,5.308187820691765,flag_no_denominator
+Beck_etal_1996,Didelphis virginiana,93-82,S1,S1 / 3b,11.042361778321249,flag_no_denominator
+Beck_etal_1996,Didelphis virginiana,93-82,S2,S2,13.262134363770386,flag_no_denominator
+Beck_etal_1996,Didelphis virginiana,93-88,Aud,Aud,8.228385930309006,flag_insufficient_comparison
+Beck_etal_1996,Didelphis virginiana,93-88,Aud,Aud,8.228385930309006,flag_no_denominator
+Beck_etal_1996,Didelphis virginiana,93-88,CT,CT,7.395114234056541,flag_insufficient_comparison
+Beck_etal_1996,Didelphis virginiana,93-88,CT,CT,7.395114234056541,flag_no_denominator
+Beck_etal_1996,Didelphis virginiana,93-88,PV,PV,11.80400276849747,flag_no_denominator
+Beck_etal_1996,Didelphis virginiana,93-88,S1,S1 / 3b,19.72224617452204,flag_within_specimen_discordant
+Beck_etal_1996,Didelphis virginiana,93-88,S1,S1 / 3b,19.72224617452204,flag_no_denominator
+Beck_etal_1996,Didelphis virginiana,93-88,S2,S2,12.034620256263384,flag_within_specimen_discordant
+Beck_etal_1996,Didelphis virginiana,93-88,S2,S2,12.034620256263384,flag_partial_views_larger
+Beck_etal_1996,Didelphis virginiana,93-88,S2,S2,12.034620256263384,flag_no_denominator
+Beck_etal_1996,Didelphis virginiana,93-88,SC,SC,17.978149654832347,flag_insufficient_comparison
+Beck_etal_1996,Didelphis virginiana,93-88,SC,SC,17.978149654832347,flag_no_denominator
+Beck_etal_1996,Didelphis virginiana,93-88,SR,SR,8.195317636423404,flag_insufficient_comparison
+Beck_etal_1996,Didelphis virginiana,93-88,SR,SR,8.195317636423404,flag_no_denominator
+Beck_etal_1996,Didelphis virginiana,93-88,V1,V1 (area 17),37.58147394806048,flag_insufficient_comparison
+Beck_etal_1996,Didelphis virginiana,93-88,V1,V1 (area 17),37.58147394806048,flag_no_denominator
+Beck_etal_1996,Didelphis virginiana,93-88,V2,V2 (area 18),17.92834689349112,flag_insufficient_comparison
+Beck_etal_1996,Didelphis virginiana,93-88,V2,V2 (area 18),17.92834689349112,flag_no_denominator
+Krubitzer_etal_1997,Echinops telfairi,95-22,A,A,1.1927826446280994,flag_insufficient_comparison
+Krubitzer_etal_1997,Echinops telfairi,95-22,A,A,1.1927826446280994,flag_no_denominator
+Krubitzer_etal_1997,Echinops telfairi,95-22,PV/S2,PV/S2,1.3087311594288815,flag_insufficient_comparison
+Krubitzer_etal_1997,Echinops telfairi,95-22,PV/S2,PV/S2,1.3087311594288815,flag_no_denominator
+Krubitzer_etal_1997,Echinops telfairi,95-22,R,R,0.9632603305785126,flag_insufficient_comparison
+Krubitzer_etal_1997,Echinops telfairi,95-22,R,R,0.9632603305785126,flag_no_denominator
+Krubitzer_etal_1997,Echinops telfairi,95-22,RV,RV,0.9101305785123968,flag_insufficient_comparison
+Krubitzer_etal_1997,Echinops telfairi,95-22,RV,RV,0.9101305785123968,flag_no_denominator
+Krubitzer_etal_1997,Echinops telfairi,95-22,S1,S1 / 3b,2.133293312046219,flag_insufficient_comparison
+Krubitzer_etal_1997,Echinops telfairi,95-22,S1,S1 / 3b,2.133293312046219,flag_no_denominator
+Krubitzer_etal_1997,Echinops telfairi,95-22,V,V,1.6552627269533353,flag_insufficient_comparison
+Krubitzer_etal_1997,Echinops telfairi,95-22,V,V,1.6552627269533353,flag_no_denominator
+Krubitzer_etal_1997,Echinops telfairi,95-29,A,A,1.1944094510232075,flag_insufficient_comparison
+Krubitzer_etal_1997,Echinops telfairi,95-29,A,A,1.1944094510232075,flag_no_denominator
+Krubitzer_etal_1997,Echinops telfairi,95-29,PV/S2,PV/S2,1.423410509885536,flag_insufficient_comparison
+Krubitzer_etal_1997,Echinops telfairi,95-29,PV/S2,PV/S2,1.423410509885536,flag_no_denominator
+Krubitzer_etal_1997,Echinops telfairi,95-29,S1,S1 / 3b,2.9575468262226847,flag_insufficient_comparison
+Krubitzer_etal_1997,Echinops telfairi,95-29,S1,S1 / 3b,2.9575468262226847,flag_no_denominator
+Krubitzer_etal_1997,Echinops telfairi,95-29,V,V,1.5589429187312784,flag_insufficient_comparison
+Krubitzer_etal_1997,Echinops telfairi,95-29,V,V,1.5589429187312784,flag_no_denominator
+Krubitzer_Kaas_1993,Erythrocebus patas,90-50,DM,DM,74.57292993630574,flag_insufficient_comparison
+Krubitzer_Kaas_1993,Erythrocebus patas,90-50,DM,DM,74.57292993630574,flag_no_denominator
+Beck_Kaas_1998,Galago garnetti,95-34,DM,DM,23.895145073254813,flag_insufficient_comparison
+Beck_Kaas_1998,Galago garnetti,95-34,DM,DM,23.895145073254813,flag_no_denominator
+Krubitzer_Kaas_1990,Galago senegalensis,88-10,17,V1 (area 17),113.3366996476904,flag_borderline_species_region
+Krubitzer_Kaas_1990,Galago senegalensis,88-10,18,V2 (area 18),63.77139844683243,flag_borderline_species_region
+Krubitzer_Kaas_1990,Galago senegalensis,88-10,MI,MI,14.069291112597549,flag_insufficient_comparison
+Krubitzer_Kaas_1990,Galago senegalensis,88-11,DI,DI,5.948310718975364,flag_insufficient_comparison
+Krubitzer_Kaas_1990,Galago senegalensis,88-11,FV,FV,3.412866160268517,flag_insufficient_comparison
+Krubitzer_Kaas_1990,Galago senegalensis,88-11,M,M,13.099136554276354,flag_insufficient_comparison
+Krubitzer_Kaas_1990,Galago senegalensis,88-5,3b,S1 / 3b,22.693172001887067,flag_borderline_species_region
+Krubitzer_Kaas_1990,Galago senegalensis,88-5,AI,A1,4.2659555362997486,flag_borderline_species_region
+Krubitzer_Kaas_1990,Galago senegalensis,88-5,DI,DI,3.047017424231958,flag_insufficient_comparison
+Krubitzer_Kaas_1990,Galago senegalensis,88-5,FEF,FEF,1.6601760000923296,flag_insufficient_comparison
+Krubitzer_Kaas_1990,Galago senegalensis,88-5,FV,FV,3.168681520113724,flag_insufficient_comparison
+Krubitzer_Kaas_1990,Galago senegalensis,88-5,M,M,12.996432737597788,flag_insufficient_comparison
+Krubitzer_Kaas_1993,Galago senegalensis,89-11,SII,S2,8.900902777777778,flag_outlier_species_region
+Krubitzer_Kaas_1993,Galago senegalensis,89-11,VPP,VPP,5.4347916666666665,flag_insufficient_comparison
+Krubitzer_Kaas_1993,Macaca fascicularis,92-7,DM,DM,68.53235873850197,flag_insufficient_comparison
+Krubitzer_Kaas_1993,Macaca fascicularis,92-7,DM,DM,68.53235873850197,flag_no_denominator
+Krubitzer_Kaas_1993,Macaca fascicularis,92-7,MT,MT,49.04057161629435,flag_insufficient_comparison
+Krubitzer_Kaas_1993,Macaca fascicularis,92-7,MT,MT,49.04057161629435,flag_no_denominator
+Krubitzer_Kaas_1993,Miopithecus talapoin,89-55,17,V1 (area 17),767.3410204081632,flag_insufficient_comparison
+Krubitzer_Kaas_1993,Miopithecus talapoin,89-55,DM,DM,77.63510204081632,flag_insufficient_comparison
+Krubitzer_Kaas_1993,Miopithecus talapoin,89-55,MT,MT,82.2042857142857,flag_insufficient_comparison
+Krubitzer_Kaas_1993,Miopithecus talapoin,89-55,Neocortex outline,Neocortex outline,2317.488775510204,flag_insufficient_comparison
+Huffman_etal_1999,Monodelphis domestica,StO1,A,A,2.2111168686224487,flag_insufficient_comparison
+Huffman_etal_1999,Monodelphis domestica,StO1,A,A,2.2111168686224487,flag_no_denominator
+Huffman_etal_1999,Monodelphis domestica,StO1,CT,CT,3.5358427225056683,flag_insufficient_comparison
+Huffman_etal_1999,Monodelphis domestica,StO1,CT,CT,3.5358427225056683,flag_no_denominator
+Huffman_etal_1999,Monodelphis domestica,StO1,SI,S1 / 3b,7.544410342261903,flag_insufficient_comparison
+Huffman_etal_1999,Monodelphis domestica,StO1,SI,S1 / 3b,7.544410342261903,flag_no_denominator
+Huffman_etal_1999,Monodelphis domestica,StO1,VI,V1 (area 17),11.702892485119046,flag_insufficient_comparison
+Huffman_etal_1999,Monodelphis domestica,StO1,VI,V1 (area 17),11.702892485119046,flag_no_denominator
+Huffman_etal_1999,Monodelphis domestica,StO2,A,A,2.0936976070720923,flag_insufficient_comparison
+Huffman_etal_1999,Monodelphis domestica,StO2,A,A,2.0936976070720923,flag_no_denominator
+Huffman_etal_1999,Monodelphis domestica,StO2,CT,CT,4.18359434537418,flag_insufficient_comparison
+Huffman_etal_1999,Monodelphis domestica,StO2,CT,CT,4.18359434537418,flag_no_denominator
+Huffman_etal_1999,Monodelphis domestica,StO2,SI,S1 / 3b,8.16348736854138,flag_insufficient_comparison
+Huffman_etal_1999,Monodelphis domestica,StO2,SI,S1 / 3b,8.16348736854138,flag_no_denominator
+Huffman_etal_1999,Monodelphis domestica,StO2,VI,V1 (area 17),14.46000514403292,flag_insufficient_comparison
+Huffman_etal_1999,Monodelphis domestica,StO2,VI,V1 (area 17),14.46000514403292,flag_no_denominator
+Preuss_etal_1993,Nycticebus coucang,91-86,Aud (auditory complex),Aud (auditory complex),30.5424895314622,flag_insufficient_comparison
+Preuss_etal_1993,Nycticebus coucang,91-86,Aud (auditory complex),Aud (auditory complex),30.5424895314622,flag_no_denominator
+Preuss_etal_1993,Nycticebus coucang,91-90,Aud (auditory complex),Aud (auditory complex),18.216007036479088,flag_insufficient_comparison
+Preuss_etal_1993,Nycticebus coucang,91-90,Aud (auditory complex),Aud (auditory complex),18.216007036479088,flag_no_denominator
+Krubitzer_etal_1995,Ornithorhynchus anatinus,P4,V,V,7.046793619791666,flag_insufficient_comparison
+Krubitzer_etal_1995,Ornithorhynchus anatinus,P4,V,V,7.046793619791666,flag_no_denominator
+Krubitzer_etal_1995,Ornithorhynchus anatinus,P8,A,A,14.700859136354266,flag_insufficient_comparison
+Krubitzer_etal_1995,Ornithorhynchus anatinus,P8,A,A,14.700859136354266,flag_no_denominator
+Krubitzer_etal_1993,Pteropus poliocephalus,183,17,V1 (area 17),96.38131776147958,flag_no_denominator
+Krubitzer_etal_1993,Pteropus poliocephalus,183,A-I,A1,5.774473852040816,flag_no_denominator
+Krubitzer_etal_1993,Pteropus poliocephalus,183,MT,MT,14.139409279336734,flag_no_denominator
+Krubitzer_etal_1993,Pteropus poliocephalus,183,SII,S2,6.990035076530612,flag_no_denominator
+Krubitzer_etal_1993,Pteropus poliocephalus,184,A-I,A1,5.406851479459926,flag_no_denominator
+Krubitzer_etal_1993,Pteropus poliocephalus,184,MT,MT,13.488850186727952,flag_no_denominator
+Krubitzer_etal_1993,Pteropus poliocephalus,184,SII,S2,6.435973858086757,flag_no_denominator
+Krubitzer_etal_1993,Pteropus poliocephalus,186,A-I,A1,3.4289720020239507,flag_partial_views_larger
+Krubitzer_etal_1993,Pteropus poliocephalus,186,A-I,A1,3.4289720020239507,flag_borderline_species_region
+Krubitzer_etal_1993,Pteropus poliocephalus,186,A-I,A1,3.4289720020239507,flag_no_denominator
+Krubitzer_etal_1993,Pteropus poliocephalus,186,MT,MT,8.906497723056166,flag_partial_views_larger
+Krubitzer_etal_1993,Pteropus poliocephalus,186,MT,MT,8.906497723056166,flag_no_denominator
+Krubitzer_etal_1993,Pteropus poliocephalus,188,FV,FV,2.31440948112612,flag_no_denominator
+Krubitzer_etal_1993,Pteropus poliocephalus,188,MT,MT,12.245439338467364,flag_no_denominator
+Krubitzer_etal_1993,Pteropus poliocephalus,188,SII,S2,6.656485151840903,flag_no_denominator
+Krubitzer_etal_1993,Pteropus poliocephalus,189,FV,FV,3.4858729614388047,flag_no_denominator
+Krubitzer_etal_1993,Pteropus poliocephalus,189,MT,MT,8.023767337296142,flag_no_denominator
+Krubitzer_etal_1993,Pteropus poliocephalus,199,17,V1 (area 17),49.12596679687501,flag_no_denominator
+Krubitzer_etal_1993,Pteropus poliocephalus,199,18,V2 (area 18),17.840488281250003,flag_insufficient_comparison
+Krubitzer_etal_1993,Pteropus poliocephalus,199,18,V2 (area 18),17.840488281250003,flag_no_denominator
+Krubitzer_etal_1993,Pteropus poliocephalus,199,A-I,A1,4.634599609375001,flag_no_denominator
+Krubitzer_etal_1993,Pteropus poliocephalus,199,FV,FV,1.6598730468750005,flag_no_denominator
+Krubitzer_etal_1993,Pteropus poliocephalus,199,MT,MT,10.369062500000002,flag_no_denominator
+Krubitzer_etal_1993,Pteropus poliocephalus,202,17,V1 (area 17),156.62175000000002,flag_no_denominator
+Krubitzer_etal_1993,Pteropus poliocephalus,212,A-I,A1,5.828970817554021,flag_no_denominator
+Krubitzer_etal_1993,Pteropus poliocephalus,212,MT,MT,11.747034417464914,flag_no_denominator
+Krubitzer_etal_1993,Pteropus poliocephalus,212,PV,PV,6.534765537981733,flag_partial_views_larger
+Krubitzer_etal_1993,Pteropus poliocephalus,212,PV,PV,6.534765537981733,flag_insufficient_comparison
+Krubitzer_etal_1993,Pteropus poliocephalus,212,PV,PV,6.534765537981733,flag_no_denominator
+Krubitzer_etal_1993,Pteropus poliocephalus,212,VS,VS,5.034723769213633,flag_partial_views_larger
+Krubitzer_etal_1993,Pteropus poliocephalus,212,VS,VS,5.034723769213633,flag_insufficient_comparison
+Krubitzer_etal_1993,Pteropus poliocephalus,212,VS,VS,5.034723769213633,flag_no_denominator
+Luethke_etal_1989,Saguinus fuscicollis,87-22,MT,MT,14.467010303131296,flag_mixed_hemispheres
+Luethke_etal_1989,Saguinus fuscicollis,87-22,MT,MT,14.467010303131296,flag_insufficient_comparison
+Luethke_etal_1989,Saguinus fuscicollis,87-22,MT,MT,14.467010303131296,flag_no_denominator
+Luethke_etal_1989,Saguinus fuscicollis,87-44,A-I,A1,17.212344444444447,flag_insufficient_comparison
+Luethke_etal_1989,Saguinus fuscicollis,87-44,A-I,A1,17.212344444444447,flag_no_denominator
+Luethke_etal_1989,Saguinus fuscicollis,87-45,MT,MT,16.68797258979206,flag_insufficient_comparison
+Luethke_etal_1989,Saguinus fuscicollis,87-45,MT,MT,16.68797258979206,flag_no_denominator
+Krubitzer_Kaas_1990,Saimiri sciureus,87-16,Motor & Premotor,Motor & Premotor,88.24483333713697,flag_insufficient_comparison
+Krubitzer_Kaas_1990,Saimiri sciureus,87-25,1,1,18.16207224227731,flag_specimen_scale_offset
+Krubitzer_Kaas_1990,Saimiri sciureus,87-25,1,1,18.16207224227731,flag_borderline_species_region
+Krubitzer_Kaas_1990,Saimiri sciureus,87-25,17,V1 (area 17),360.5531168960563,flag_specimen_scale_offset
+Krubitzer_Kaas_1990,Saimiri sciureus,87-25,17,V1 (area 17),360.5531168960563,flag_borderline_species_region
+Krubitzer_Kaas_1990,Saimiri sciureus,87-25,18,V2 (area 18),155.58004390771433,flag_specimen_scale_offset
+Krubitzer_Kaas_1990,Saimiri sciureus,87-25,2,2,15.913592484610051,flag_specimen_scale_offset
+Krubitzer_Kaas_1990,Saimiri sciureus,87-25,2,2,15.913592484610051,flag_borderline_species_region
+Krubitzer_Kaas_1990,Saimiri sciureus,87-25,3a,3a,15.482316839158068,flag_specimen_scale_offset
+Krubitzer_Kaas_1990,Saimiri sciureus,87-25,3a,3a,15.482316839158068,flag_borderline_species_region
+Krubitzer_Kaas_1990,Saimiri sciureus,87-25,3b,S1 / 3b,28.016405702913843,flag_specimen_scale_offset
+Krubitzer_Kaas_1990,Saimiri sciureus,87-25,3b,S1 / 3b,28.016405702913843,flag_borderline_species_region
+Krubitzer_Kaas_1990,Saimiri sciureus,87-25,DI,DI,14.7304430210167,flag_specimen_scale_offset
+Krubitzer_Kaas_1990,Saimiri sciureus,87-25,DI,DI,14.7304430210167,flag_borderline_species_region
+Krubitzer_Kaas_1990,Saimiri sciureus,87-25,DL,DL,96.0320680209332,flag_specimen_scale_offset
+Krubitzer_Kaas_1990,Saimiri sciureus,87-25,DM,DM,23.720083623070636,flag_specimen_scale_offset
+Krubitzer_Kaas_1990,Saimiri sciureus,87-25,DM,DM,23.720083623070636,flag_borderline_species_region
+Krubitzer_Kaas_1990,Saimiri sciureus,87-25,FEF,FEF,7.379502550650977,flag_specimen_scale_offset
+Krubitzer_Kaas_1990,Saimiri sciureus,87-25,FST,FST,37.79362076232316,flag_specimen_scale_offset
+Krubitzer_Kaas_1990,Saimiri sciureus,87-25,FST,FST,37.79362076232316,flag_outlier_species_region
+Krubitzer_Kaas_1990,Saimiri sciureus,87-25,FV,FV,5.388072102066717,flag_specimen_scale_offset
+Krubitzer_Kaas_1990,Saimiri sciureus,87-25,MST,MST,13.323803319875726,flag_specimen_scale_offset
+Krubitzer_Kaas_1990,Saimiri sciureus,87-25,MT,MT,18.611198991793323,flag_specimen_scale_offset
+Krubitzer_Kaas_1990,Saimiri sciureus,87-25,MT,MT,18.611198991793323,flag_borderline_species_region
+Krubitzer_Kaas_1990,Saimiri sciureus,87-25,PV/IG,PV/IG,9.123163032302587,flag_specimen_scale_offset
+Krubitzer_Kaas_1990,Saimiri sciureus,87-25,SII,S2,7.7979240832890575,flag_specimen_scale_offset
+Krubitzer_Kaas_1990,Saimiri sciureus,87-25,Neocortex outline,Neocortex outline,2135.0067561959454,flag_specimen_scale_offset
+Krubitzer_Kaas_1990,Saimiri sciureus,87-25,Neocortex outline,Neocortex outline,2135.0067561959454,flag_borderline_species_region
+Krubitzer_Kaas_1993,Saimiri sciureus,92-8,17,V1 (area 17),2201.7957063711906,flag_specimen_scale_offset
+Krubitzer_Kaas_1993,Saimiri sciureus,92-8,17,V1 (area 17),2201.7957063711906,flag_outlier_species_region
+Krubitzer_Kaas_1993,Saimiri sciureus,92-8,DM,DM,112.13088642659278,flag_specimen_scale_offset
+Krubitzer_Kaas_1993,Saimiri sciureus,92-8,DM,DM,112.13088642659278,flag_outlier_species_region
+Krubitzer_Kaas_1993,Saimiri sciureus,92-8,MT,MT,129.78116343490302,flag_specimen_scale_offset
+Krubitzer_Kaas_1993,Saimiri sciureus,92-8,MT,MT,129.78116343490302,flag_outlier_species_region
+Krubitzer_Kaas_1993,Saimiri sciureus,92-8,Neocortex outline,Neocortex outline,5989.430055401661,flag_specimen_scale_offset
+Krubitzer_Kaas_1993,Saimiri sciureus,92-8,Neocortex outline,Neocortex outline,5989.430055401661,flag_borderline_species_region
+Luethke_etal_1988,Sciurus carolinensis,85-15,17,V1 (area 17),13.905133136094676,flag_insufficient_comparison
+Luethke_etal_1988,Sciurus carolinensis,85-15,17,V1 (area 17),13.905133136094676,flag_no_denominator
+Luethke_etal_1988,Sciurus carolinensis,85-15,M,M,16.431538461538462,flag_insufficient_comparison
+Luethke_etal_1988,Sciurus carolinensis,85-15,M,M,16.431538461538462,flag_no_denominator
+Luethke_etal_1988,Sciurus carolinensis,85-15,R,R,2.170340236686391,flag_no_denominator
+Luethke_etal_1988,Sciurus carolinensis,85-15,S-II,S2,3.579985207100592,flag_insufficient_comparison
+Luethke_etal_1988,Sciurus carolinensis,85-15,S-II,S2,3.579985207100592,flag_no_denominator
+Luethke_etal_1988,Sciurus carolinensis,85-15,TArv + TAcv,TArv + TAcv,5.045059171597634,flag_insufficient_comparison
+Luethke_etal_1988,Sciurus carolinensis,85-15,TArv + TAcv,TArv + TAcv,5.045059171597634,flag_no_denominator
+Luethke_etal_1988,Sciurus carolinensis,85-15,TP,TP,14.942396449704145,flag_insufficient_comparison
+Luethke_etal_1988,Sciurus carolinensis,85-15,TP,TP,14.942396449704145,flag_no_denominator
+Luethke_etal_1988,Sciurus carolinensis,85-15,UZ,UZ,1.673328402366864,flag_insufficient_comparison
+Luethke_etal_1988,Sciurus carolinensis,85-15,UZ,UZ,1.673328402366864,flag_no_denominator
+Luethke_etal_1988,Sciurus carolinensis,85-21,A-I,A1,3.02740445017523,flag_insufficient_comparison
+Luethke_etal_1988,Sciurus carolinensis,85-21,A-I,A1,3.02740445017523,flag_no_denominator
+Luethke_etal_1988,Sciurus carolinensis,85-43,R,R,4.687104,flag_no_denominator
+Luethke_etal_1988,Sciurus carolinensis,85-90,17,V1 (area 17),36.5521987534626,flag_insufficient_comparison
+Luethke_etal_1988,Sciurus carolinensis,85-90,17,V1 (area 17),36.5521987534626,flag_no_denominator
+Luethke_etal_1988,Sciurus carolinensis,85-90,18,V2 (area 18),15.648848684210524,flag_insufficient_comparison
+Luethke_etal_1988,Sciurus carolinensis,85-90,18,V2 (area 18),15.648848684210524,flag_no_denominator
+Luethke_etal_1988,Sciurus carolinensis,85-90,A-I,A1,4.832190852006884,flag_within_specimen_discordant
+Luethke_etal_1988,Sciurus carolinensis,85-90,A-I,A1,4.832190852006884,flag_insufficient_comparison
+Luethke_etal_1988,Sciurus carolinensis,85-90,A-I,A1,4.832190852006884,flag_no_denominator
+Luethke_etal_1988,Sciurus carolinensis,85-90,M,M,37.71710526315789,flag_insufficient_comparison
+Luethke_etal_1988,Sciurus carolinensis,85-90,M,M,37.71710526315789,flag_no_denominator
+Luethke_etal_1988,Sciurus carolinensis,85-90,PV,PV,7.557306094182825,flag_insufficient_comparison
+Luethke_etal_1988,Sciurus carolinensis,85-90,PV,PV,7.557306094182825,flag_no_denominator
+Luethke_etal_1988,Sciurus carolinensis,85-90,R,R,3.0356215373961213,flag_no_denominator
+Luethke_etal_1988,Sciurus carolinensis,85-90,S-I,S1 / 3b,54.638547437673125,flag_insufficient_comparison
+Luethke_etal_1988,Sciurus carolinensis,85-90,S-I,S1 / 3b,54.638547437673125,flag_no_denominator
+Luethke_etal_1988,Sciurus carolinensis,85-90,S-II,S2,6.211997922437672,flag_insufficient_comparison
+Luethke_etal_1988,Sciurus carolinensis,85-90,S-II,S2,6.211997922437672,flag_no_denominator
+Luethke_etal_1988,Sciurus carolinensis,85-90,TAi,TAi,3.16161703601108,flag_insufficient_comparison
+Luethke_etal_1988,Sciurus carolinensis,85-90,TAi,TAi,3.16161703601108,flag_no_denominator
+Luethke_etal_1988,Sciurus carolinensis,85-90,TArv + TAcv,TArv + TAcv,6.432998614958448,flag_insufficient_comparison
+Luethke_etal_1988,Sciurus carolinensis,85-90,TArv + TAcv,TArv + TAcv,6.432998614958448,flag_no_denominator
+Luethke_etal_1988,Sciurus carolinensis,85-90,TP,TP,30.90252770083102,flag_insufficient_comparison
+Luethke_etal_1988,Sciurus carolinensis,85-90,TP,TP,30.90252770083102,flag_no_denominator
+Luethke_etal_1988,Sciurus carolinensis,85-90,UZ,UZ,2.041291551246537,flag_insufficient_comparison
+Luethke_etal_1988,Sciurus carolinensis,85-90,UZ,UZ,2.041291551246537,flag_no_denominator
+Slutsky_etal_2000,Spermophilus beecheyii,96-1,SII,S2,4.296448052392188,flag_insufficient_comparison
+Slutsky_etal_2000,Spermophilus beecheyii,96-1,SII,S2,4.296448052392188,flag_no_denominator
+Slutsky_etal_2000,Spermophilus beecheyii,96-2,R,R,9.504468804944322,flag_insufficient_comparison
+Slutsky_etal_2000,Spermophilus beecheyii,96-2,R,R,9.504468804944322,flag_no_denominator
+Krubitzer_etal_1995,Tachyglossus aculeatus,E10,A,A,13.150549458427111,flag_no_denominator
+Krubitzer_etal_1995,Tachyglossus aculeatus,E11,A,A,12.120128232996084,flag_no_denominator
+Krubitzer_etal_1995,Tachyglossus aculeatus,E2,A,A,6.494309580449827,flag_borderline_species_region
+Krubitzer_etal_1995,Tachyglossus aculeatus,E2,A,A,6.494309580449827,flag_no_denominator
+Lyon_etal_1998,Tupaia belangeri,96-12,S,S,32.90405619957604,flag_mixed_hemispheres
+Lyon_etal_1998,Tupaia belangeri,96-12,S,S,32.90405619957604,flag_insufficient_comparison
+Lyon_etal_1998,Tupaia belangeri,96-12,S,S,32.90405619957604,flag_no_denominator
+Lyon_etal_1998,Tupaia belangeri,96-12,V1,V1 (area 17),87.49719387755101,flag_no_denominator
+Lyon_etal_1998,Tupaia belangeri,96-43,A,A,21.33395724826389,flag_no_denominator
+Lyon_etal_1998,Tupaia belangeri,96-43,S,S,27.65912214878292,flag_insufficient_comparison
+Lyon_etal_1998,Tupaia belangeri,96-43,S,S,27.65912214878292,flag_no_denominator
+Lyon_etal_1998,Tupaia belangeri,96-43,V1,V1 (area 17),75.62932962419802,flag_within_specimen_discordant
+Lyon_etal_1998,Tupaia belangeri,96-43,V1,V1 (area 17),75.62932962419802,flag_no_denominator
+Lyon_etal_1998,Tupaia belangeri,96-43,V2,V2 (area 18),23.248616536458332,flag_insufficient_comparison
+Lyon_etal_1998,Tupaia belangeri,96-43,V2,V2 (area 18),23.248616536458332,flag_no_denominator
+Lyon_etal_1998,Tupaia belangeri,96-56,A,A,7.734443123265954,flag_no_denominator
+Lyon_etal_1998,Tupaia belangeri,96-56,TI,TI,4.165244741281776,flag_no_denominator
+Lyon_etal_1998,Tupaia belangeri,96-66,TI,TI,4.4903409068161535,flag_no_denominator
+Lyon_etal_1998,Tupaia belangeri,96-66,V1,V1 (area 17),60.627468952305456,flag_no_denominator
+Lyon_etal_1998,Tupaia belangeri,96-81,A,A,11.954759353652726,flag_mixed_hemispheres
+Lyon_etal_1998,Tupaia belangeri,96-81,A,A,11.954759353652726,flag_no_denominator
+Lyon_etal_1998,Tupaia belangeri,96-81,TI,TI,10.57868981347545,flag_no_denominator
+Lyon_etal_1998,Tupaia belangeri,97-18,TI,TI,6.987143281807372,flag_no_denominator

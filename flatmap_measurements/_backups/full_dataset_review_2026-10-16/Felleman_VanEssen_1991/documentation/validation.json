@@ -1,0 +1,292 @@
+{
+  "processed_views": 2,
+  "measured_fields": 62,
+  "unmeasured_fields": 13,
+  "overlaps": [
+    {
+      "map_id": "fig02",
+      "field_a": "5",
+      "field_b": "7b",
+      "overlap_pixels": 4
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "5",
+      "field_b": "2",
+      "overlap_pixels": 452
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "5",
+      "field_b": "MIP",
+      "overlap_pixels": 20
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "7b",
+      "field_b": "2",
+      "overlap_pixels": 28
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "SII",
+      "field_b": "2",
+      "overlap_pixels": 202
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "4",
+      "field_b": "6",
+      "overlap_pixels": 31
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "4",
+      "field_b": "SMA",
+      "overlap_pixels": 19
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "4",
+      "field_b": "MEF",
+      "overlap_pixels": 27
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "6",
+      "field_b": "MEF",
+      "overlap_pixels": 22
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "3b",
+      "field_b": "3a",
+      "overlap_pixels": 5
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "3b",
+      "field_b": "1",
+      "overlap_pixels": 18
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "1",
+      "field_b": "2",
+      "overlap_pixels": 78
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "32",
+      "field_b": "10",
+      "overlap_pixels": 21
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "14",
+      "field_b": "10",
+      "overlap_pixels": 16
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "10",
+      "field_b": "46",
+      "overlap_pixels": 2
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "SMA",
+      "field_b": "MEF",
+      "overlap_pixels": 77
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "11",
+      "field_b": "12",
+      "overlap_pixels": 4
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "12",
+      "field_b": "13",
+      "overlap_pixels": 42
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "13",
+      "field_b": "Pall",
+      "overlap_pixels": 24
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "DP",
+      "field_b": "V3A",
+      "overlap_pixels": 8
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "PITd",
+      "field_b": "PITv",
+      "overlap_pixels": 53
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "PITd",
+      "field_b": "CITd",
+      "overlap_pixels": 24
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "PITv",
+      "field_b": "CITd",
+      "overlap_pixels": 2
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "PITv",
+      "field_b": "CITv",
+      "overlap_pixels": 104
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "CITd",
+      "field_b": "CITv",
+      "overlap_pixels": 23
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "CITd",
+      "field_b": "AITd",
+      "overlap_pixels": 23
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "CITd",
+      "field_b": "STPa",
+      "overlap_pixels": 79
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "CITv",
+      "field_b": "AITv",
+      "overlap_pixels": 32
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "CITv",
+      "field_b": "TF",
+      "overlap_pixels": 9
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "AITd",
+      "field_b": "STPa",
+      "overlap_pixels": 6
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "STPp",
+      "field_b": "STPa",
+      "overlap_pixels": 22
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "STPp",
+      "field_b": "FST",
+      "overlap_pixels": 81
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "STPp",
+      "field_b": "MSTl",
+      "overlap_pixels": 18
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "STPa",
+      "field_b": "FST",
+      "overlap_pixels": 166
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "FST",
+      "field_b": "MSTl",
+      "overlap_pixels": 8
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "PO",
+      "field_b": "MDP",
+      "overlap_pixels": 8
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "MDP",
+      "field_b": "MIP",
+      "overlap_pixels": 4
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "MSTd",
+      "field_b": "MSTl",
+      "overlap_pixels": 14
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "FEF",
+      "field_b": "Pall",
+      "overlap_pixels": 27
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "46",
+      "field_b": "9",
+      "overlap_pixels": 16
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "LIP",
+      "field_b": "VIP",
+      "overlap_pixels": 82
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "PIP",
+      "field_b": "V3A",
+      "overlap_pixels": 2
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "RL",
+      "field_b": "AI",
+      "overlap_pixels": 10
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "Ri",
+      "field_b": "PA",
+      "overlap_pixels": 2
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "AI",
+      "field_b": "CM",
+      "overlap_pixels": 12
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "CM",
+      "field_b": "L",
+      "overlap_pixels": 3
+    }
+  ],
+  "native_imagej_roundtrip": "passed",
+  "anatomical_review": "provisional; pending user review",
+  "reference_comparison": "not_run; core workflow does not require reference data",
+  "geometry_overlap_audit": "passed; shared-border slivers and explicitly documented source overlaps reviewed",
+  "all_numbered_figures_assessed": true,
+  "numbered_figures_assessed": 3,
+  "assessment_status": "eligible_views_digitized_provisional",
+  "whole_neocortex_summary": "unavailable; no independently established complete-neocortex view",
+  "source_visual_review": "completed; anatomical certification pending"
+}

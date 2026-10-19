@@ -1,0 +1,4 @@
+"species","specimen","label","map_id","repeat_of","hemisphere","hemisphere_relation","area_mm2","selection_reason"
+"Saguinus fuscicollis","87-22","MT","fig02_87-22",NA,"right","ipsilateral",14.1765132820438,"supported complete main-map observation"
+"Saguinus fuscicollis","87-44","A-I","fig06_panel4","fig02_87-44","ipsilateral (anatomical side not reported)","ipsilateral",17.2123444444444,"repeated-view fallback; main map lacks supported complete area"
+"Saguinus fuscicollis","87-45","MT","fig10_A","fig08_panel1","ipsilateral (anatomical side not reported)","ipsilateral",16.6879725897921,"repeated-view fallback; main map lacks supported complete area"

@@ -1,0 +1,468 @@
+{
+  "map_id": "fig12A",
+  "figure": 12,
+  "panel": "A",
+  "pdf_page": 19,
+  "printed_page": 515,
+  "species": "Galago senegalensis",
+  "specimen": "not reported",
+  "hemisphere": "not assigned",
+  "view_type": "tangential_section_detail",
+  "hemisphere_relation": "not assigned",
+  "linked_main_map": null,
+  "repeat_of": null,
+  "specimen_link_status": "unresolved",
+  "relationship_note": "Unidentified galago section. Relationship to case89-11 in Fig17 is unresolved; do not pool.",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 2,
+  "crop_xyxy": [
+    90,
+    145,
+    552,
+    748
+  ],
+  "supersample": 4,
+  "scale_length_mm": 2,
+  "scale_endpoints_px": [
+    [
+      8,
+      563
+    ],
+    [
+      120,
+      563
+    ]
+  ],
+  "scale_note": "Local printed scale bar, measured stroke endpoints on the source rendering.",
+  "scale_reference_map": null,
+  "outline": null,
+  "rois": [
+    {
+      "label": "DM",
+      "polygons": [
+        [
+          [
+            125.60001728657463,
+            292.98622906478073
+          ],
+          [
+            126.19488371035143,
+            284.89746200860867
+          ],
+          [
+            130.66384299980453,
+            263.86036638375134
+          ],
+          [
+            135.34775857552634,
+            246.56093041925155
+          ],
+          [
+            136.9617918690453,
+            242.33544822803313
+          ],
+          [
+            141.13785482108034,
+            234.36296441051178
+          ],
+          [
+            151.20875412168797,
+            219.38568874482306
+          ],
+          [
+            160.79874856182087,
+            211.2413913063163
+          ],
+          [
+            165.953764642441,
+            207.60479383613176
+          ],
+          [
+            178.06719243636473,
+            201.61072310893175
+          ],
+          [
+            194.88609735510713,
+            194.6227616142969
+          ],
+          [
+            206.1813870181836,
+            189.21735328570875
+          ],
+          [
+            230.0430943498233,
+            175.91784889981037
+          ],
+          [
+            239.1106984251969,
+            168.5071727172075
+          ],
+          [
+            248.81098112669798,
+            157.99133988621995
+          ],
+          [
+            252.9010897574215,
+            154.27678025652503
+          ],
+          [
+            258.41470589548175,
+            152.03251251646432
+          ],
+          [
+            267.3271396338271,
+            152.03271396338272
+          ],
+          [
+            280.5590787516101,
+            154.285079249896
+          ],
+          [
+            293.3840314270891,
+            158.4811264711166
+          ],
+          [
+            298.0998607792036,
+            161.02991790488335
+          ],
+          [
+            306.4710274867099,
+            167.7933190440578
+          ],
+          [
+            311.7350395693436,
+            173.34196760495615
+          ],
+          [
+            315.33897708124147,
+            178.43555914164995
+          ],
+          [
+            316.05093141428586,
+            179.91076484637418
+          ],
+          [
+            316.26702938779454,
+            182.33406857361453
+          ],
+          [
+            314.9293971389946,
+            191.193818485692
+          ],
+          [
+            313.8407325893238,
+            204.5666448473867
+          ],
+          [
+            311.6520732979565,
+            211.42473796710863
+          ],
+          [
+            309.3713414737185,
+            215.35140138708007
+          ],
+          [
+            304.6900254656382,
+            220.57911616776244
+          ],
+          [
+            299.8507501066299,
+            227.35650917270644
+          ],
+          [
+            291.3295239598849,
+            246.1688900171122
+          ],
+          [
+            285.89263792529425,
+            256.19365465018006
+          ],
+          [
+            279.96865893910984,
+            264.27670394558936
+          ],
+          [
+            267.72184861465877,
+            273.3414260390059
+          ],
+          [
+            261.5080349292667,
+            276.7643236715411
+          ],
+          [
+            253.32844301008774,
+            280.35798029668604
+          ],
+          [
+            233.95684754884869,
+            288.0516543647261
+          ],
+          [
+            221.07815261806556,
+            291.9919939609166
+          ],
+          [
+            208.85984927749314,
+            294.712644755528
+          ],
+          [
+            189.04747033645353,
+            301.1225620039375
+          ],
+          [
+            182.9217098665606,
+            302.28897767494976
+          ],
+          [
+            158.86698364953594,
+            303.91509014420467
+          ],
+          [
+            144.6657569872741,
+            302.75741036132257
+          ],
+          [
+            131.4676729230786,
+            299.4487011095849
+          ],
+          [
+            127.20734664564672,
+            296.0305724924484
+          ],
+          [
+            126.08799258610547,
+            294.6091030588201
+          ]
+        ]
+      ],
+      "extent": "complete",
+      "boundary_note": "Manual trace of the thin inked DM outline, retaining histological texture inside. Precision refinement 2026-10-15: dense source-stroke tracing replaces angular/off-stroke portions; recording symbols remain internal. Short gaps retain source-limited interpolation. Physical calibration and extent interpretation unchanged.",
+      "boundary_note_before_precision_audit": "Manual trace of the thin inked DM outline, retaining histological texture inside."
+    },
+    {
+      "label": "VPP",
+      "polygons": [
+        [
+          [
+            308.0883982071608,
+            168.5751296281702
+          ],
+          [
+            309.3066459256717,
+            166.1975331368942
+          ],
+          [
+            320.43671961169593,
+            158.20270951291218
+          ],
+          [
+            336.56778809546665,
+            147.78976868933745
+          ],
+          [
+            351.0411340795451,
+            139.93606950835488
+          ],
+          [
+            360.12052605913976,
+            136.98351392922754
+          ],
+          [
+            370.7645957505028,
+            134.85277005257188
+          ],
+          [
+            386.43386808381393,
+            132.67113767690822
+          ],
+          [
+            399.20135088416305,
+            133.21141121979758
+          ],
+          [
+            406.10769676900645,
+            134.78973154114763
+          ],
+          [
+            420.1633320413502,
+            139.49120858865484
+          ],
+          [
+            430.5803807877455,
+            146.566592699675
+          ],
+          [
+            436.2530557970162,
+            153.80615477917172
+          ],
+          [
+            437.591313954061,
+            157.13538583932714
+          ],
+          [
+            438.08708384767374,
+            159.7757064999791
+          ],
+          [
+            436.54053018166957,
+            175.0437957119745
+          ],
+          [
+            433.4832562813663,
+            184.59809375973114
+          ],
+          [
+            431.6133513449714,
+            188.69166943129827
+          ],
+          [
+            428.17217877940925,
+            194.05295694568417
+          ],
+          [
+            424.6485425717929,
+            197.11820026902396
+          ],
+          [
+            419.9544954078526,
+            202.57209863218145
+          ],
+          [
+            416.4424966336757,
+            205.5094066978566
+          ],
+          [
+            409.4752024746282,
+            213.3563582751115
+          ],
+          [
+            398.8679288469115,
+            221.68515988892054
+          ],
+          [
+            380.1133854306004,
+            231.66818426121847
+          ],
+          [
+            371.98364933110656,
+            235.12208336060712
+          ],
+          [
+            351.9210934626171,
+            240.05960611545123
+          ],
+          [
+            346.3245186262424,
+            240.16720013046847
+          ],
+          [
+            340.91663984563877,
+            239.52386951713453
+          ],
+          [
+            331.7424069739494,
+            237.66622748331895
+          ],
+          [
+            324.11178241800405,
+            234.9047223106384
+          ],
+          [
+            319.7400243599955,
+            232.6314688294864
+          ],
+          [
+            314.2921194713023,
+            228.62498870104568
+          ],
+          [
+            307.42910071215823,
+            221.86919976702362
+          ],
+          [
+            306.8127165975988,
+            219.72376103755732
+          ],
+          [
+            306.99410605352347,
+            218.63664847010068
+          ],
+          [
+            310.9449686636555,
+            212.8155585560978
+          ],
+          [
+            313.62080710395315,
+            205.17030586953305
+          ],
+          [
+            315.0071058977725,
+            190.88066178191036
+          ],
+          [
+            316.34636971144016,
+            183.00409644102746
+          ],
+          [
+            316.24230270890024,
+            181.3163193728336
+          ],
+          [
+            315.3115850399396,
+            178.84747252576864
+          ],
+          [
+            311.77664859581836,
+            173.63164927551315
+          ],
+          [
+            308.77758541649325,
+            170.15944998068156
+          ]
+        ]
+      ],
+      "extent": "complete",
+      "boundary_note": "Thin solid and dashed VPP outline; short gaps between dashes interpolated. Precision refinement 2026-10-15: dense source-stroke tracing replaces angular/off-stroke portions; recording symbols remain internal. Short gaps retain source-limited interpolation. Physical calibration and extent interpretation unchanged.",
+      "boundary_note_before_precision_audit": "Thin solid and dashed VPP outline; short gaps between dashes interpolated."
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "17",
+      "status": "not_measurable",
+      "reason": "No complete inked field border in this cropped photomicrograph."
+    },
+    {
+      "label": "18",
+      "status": "not_measurable",
+      "reason": "No complete inked field border in this cropped photomicrograph."
+    },
+    {
+      "label": "MT",
+      "status": "not_measurable",
+      "reason": "No complete inked field border in this cropped photomicrograph."
+    }
+  ],
+  "review_note": "Provisional image digitization. Inspect field boundaries and short scale bar; no shrinkage correction.",
+  "precision_audit": {
+    "date": "2026-10-15",
+    "source_review": "completed; provisional anatomical interpretation",
+    "changed_regions": 2,
+    "regions": [
+      {
+        "kind": "rois",
+        "label": "DM",
+        "status": "refined",
+        "source_limits": "Stroke-supported refinement; obscured/dashed intervals remain approximate."
+      },
+      {
+        "kind": "rois",
+        "label": "VPP",
+        "status": "refined",
+        "source_limits": "Stroke-supported refinement; obscured/dashed intervals remain approximate."
+      }
+    ],
+    "previous_geometry": "documentation/rois_before_precision_audit.json"
+  }
+}

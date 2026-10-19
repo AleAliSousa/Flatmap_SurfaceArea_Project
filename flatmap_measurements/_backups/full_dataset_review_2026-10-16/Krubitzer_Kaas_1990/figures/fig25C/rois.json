@@ -1,0 +1,219 @@
+{
+  "map_id": "fig25C",
+  "figure": 25,
+  "panel": "C",
+  "pdf_page": 31,
+  "printed_page": 195,
+  "specimen": "86-23",
+  "species_as_reported": "Saimiri sciureus",
+  "view_type": "contralateral_partial",
+  "hemisphere_relation": "opposite injected hemisphere",
+  "linked_main_map": "fig14",
+  "relationship_note": "",
+  "outline_label": null,
+  "outline_scope": "none",
+  "scale_length_mm": 5,
+  "scale_endpoints_px": [
+    [
+      135,
+      336.5
+    ],
+    [
+      212,
+      337.5
+    ]
+  ],
+  "scale_note": "Own panel scale bar.",
+  "coordinate_system": "x right, y down in source.tif; manual vertices referenced to published lines/dots",
+  "supersample": 3,
+  "rois": [
+    {
+      "label": "MT",
+      "polygons": [
+        [
+          [
+            91.56989796935486,
+            103.56119703007286
+          ],
+          [
+            95.1263174667645,
+            99.23856163045207
+          ],
+          [
+            97.841221945538,
+            96.86696935496803
+          ],
+          [
+            107.50467332477955,
+            91.2434219710932
+          ],
+          [
+            117.93559744731891,
+            88.16019435571582
+          ],
+          [
+            133.17422265391193,
+            85.4103347376024
+          ],
+          [
+            141.44545060598466,
+            85.21243103292741
+          ],
+          [
+            151.27519998792087,
+            87.13085114654962
+          ],
+          [
+            159.13284575936507,
+            89.72308913776415
+          ],
+          [
+            171.78582832307367,
+            96.82439220087538
+          ],
+          [
+            179.33254150095888,
+            102.27992085334496
+          ],
+          [
+            189.326268222941,
+            112.82360107359271
+          ],
+          [
+            198.25498777474897,
+            124.41860155718409
+          ],
+          [
+            203.48778264497636,
+            131.9333971147469
+          ],
+          [
+            205.3538507996166,
+            135.49443046474724
+          ],
+          [
+            206.89938820065427,
+            139.8916140624346
+          ],
+          [
+            208.47944688979464,
+            146.9825865698818
+          ],
+          [
+            209.09500798433302,
+            153.4759774149987
+          ],
+          [
+            208.875,
+            166.13530041023637
+          ],
+          [
+            207.48348131900318,
+            172.89392316209222
+          ],
+          [
+            205.0543237061597,
+            178.56368722604014
+          ],
+          [
+            200.27917055689556,
+            183.98502685354157
+          ],
+          [
+            196.58609786487477,
+            186.3751592592989
+          ],
+          [
+            190.90944616496665,
+            188.9747971287225
+          ],
+          [
+            182.2466419410525,
+            190.86148422877196
+          ],
+          [
+            170.6856890194405,
+            191.03665731460438
+          ],
+          [
+            155.70224147417358,
+            188.5743054328081
+          ],
+          [
+            147.8846906942391,
+            186.50950883740924
+          ],
+          [
+            137.8208634262806,
+            182.4141012311909
+          ],
+          [
+            131.40447128543667,
+            178.8892909640775
+          ],
+          [
+            121.97158362769261,
+            171.79364421195783
+          ],
+          [
+            115.10854162417048,
+            165.51527047242595
+          ],
+          [
+            106.4563650197276,
+            154.98245401720692
+          ],
+          [
+            101.08562211259307,
+            146.41995784807443
+          ],
+          [
+            95.84343034977555,
+            135.72731104747925
+          ],
+          [
+            93.08510798301039,
+            128.86326011731234
+          ],
+          [
+            90.26676934060919,
+            119.0748998427664
+          ],
+          [
+            90.03125,
+            110.73794487631024
+          ]
+        ]
+      ],
+      "extent": "complete",
+      "boundary_note": "Manual contour follows the published anatomical boundary; dashed/dotted gaps interpolated. Precision refinement 2026-10-15: dense source-stroke tracing replaces angular/off-stroke portions; recording symbols remain internal. Short gaps retain source-limited interpolation. Physical calibration and extent interpretation unchanged.",
+      "boundary_note_before_precision_audit": "Manual contour follows the published anatomical boundary; dashed/dotted gaps interpolated."
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "FST",
+      "reason": "No complete boundary in the visible panel; open or cropped territory cannot be interpreted as a complete field."
+    },
+    {
+      "label": "DL",
+      "reason": "No complete boundary in the visible panel; open or cropped territory cannot be interpreted as a complete field."
+    }
+  ],
+  "include_in_whole_hemisphere_summary": false,
+  "specimen_link_status": "linked_existing_case",
+  "precision_audit": {
+    "date": "2026-10-15",
+    "source_review": "completed; provisional anatomical interpretation",
+    "changed_regions": 1,
+    "regions": [
+      {
+        "kind": "rois",
+        "label": "MT",
+        "status": "refined",
+        "source_limits": "Stroke-supported refinement; obscured/dashed intervals remain approximate."
+      }
+    ],
+    "previous_geometry": "documentation/rois_before_precision_audit.json"
+  }
+}

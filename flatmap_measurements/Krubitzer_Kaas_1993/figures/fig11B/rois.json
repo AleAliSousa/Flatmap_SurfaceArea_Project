@@ -1,0 +1,212 @@
+{
+  "map_id": "fig11B",
+  "figure": 11,
+  "panel": "B",
+  "pdf_page": 18,
+  "printed_page": 514,
+  "species": "Aotus trivirgatus",
+  "specimen": "88-32",
+  "hemisphere": "not assigned",
+  "view_type": "contralateral_partial",
+  "hemisphere_relation": "contralateral to injected hemisphere",
+  "linked_main_map": "fig05",
+  "repeat_of": null,
+  "specimen_link_status": "caption_identified",
+  "relationship_note": "Opposite hemisphere of the same identified animal; not an independent specimen.",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 2,
+  "crop_xyxy": [
+    640,
+    145,
+    1025,
+    695
+  ],
+  "supersample": 4,
+  "scale_length_mm": 2,
+  "scale_endpoints_px": [
+    [
+      321,
+      56
+    ],
+    [
+      365,
+      56
+    ]
+  ],
+  "scale_note": "Local printed scale bar, measured stroke endpoints on the source rendering.",
+  "scale_reference_map": null,
+  "outline": null,
+  "rois": [
+    {
+      "label": "DM",
+      "polygons": [
+        [
+          [
+            175.96821071441775,
+            353.91527198259064
+          ],
+          [
+            162.7101161485544,
+            350.9605835363529
+          ],
+          [
+            156.65472548423216,
+            349.15164907030953
+          ],
+          [
+            125.83434993425682,
+            342.53610731354223
+          ],
+          [
+            114.13000470060129,
+            341.85295853383406
+          ],
+          [
+            110.59831055165452,
+            342.51390234510313
+          ],
+          [
+            102.06259011655976,
+            345.3282132023468
+          ],
+          [
+            99.70964220218532,
+            346.51938338754985
+          ],
+          [
+            95.53862054984764,
+            349.93104936426244
+          ],
+          [
+            91.467320135634,
+            354.7310637046258
+          ],
+          [
+            89.63355903414947,
+            357.8148998093876
+          ],
+          [
+            87.63906003405796,
+            363.7983195242028
+          ],
+          [
+            87.48607008767439,
+            369.106871590201
+          ],
+          [
+            89.64610375919774,
+            378.76341153424465
+          ],
+          [
+            91.83872816797185,
+            385.57173474852164
+          ],
+          [
+            97.48304701830294,
+            398.7784832218768
+          ],
+          [
+            101.55412475414931,
+            405.80390099269675
+          ],
+          [
+            116.31084737600978,
+            435.23809052979396
+          ],
+          [
+            124.18161613055169,
+            446.1466575391057
+          ],
+          [
+            129.64518445691243,
+            450.6027751061123
+          ],
+          [
+            133.60899739886534,
+            452.77753790035143
+          ],
+          [
+            145.30643120803586,
+            457.6871932414798
+          ],
+          [
+            164.87048314319335,
+            461.38554789366515
+          ],
+          [
+            185.64759718542726,
+            461.96716688388625
+          ],
+          [
+            206.2359247975422,
+            463.8916203227013
+          ],
+          [
+            217.83486140881095,
+            464.0344365338584
+          ],
+          [
+            218.35723804693382,
+            462.4694591461544
+          ],
+          [
+            217.33204994861615,
+            457.2199407455986
+          ],
+          [
+            211.1481228908539,
+            439.33060043675516
+          ],
+          [
+            197.12667891785657,
+            407.1365263587088
+          ],
+          [
+            191.2832151519571,
+            392.02881989412504
+          ],
+          [
+            184.7941512350447,
+            378.1057997559202
+          ]
+        ]
+      ],
+      "extent": "complete",
+      "boundary_note": "Solid complete DM envelope in cropped contralateral view. Precision refinement 2026-10-15: dense source-stroke tracing replaces angular/off-stroke portions; recording symbols remain internal. Short gaps retain source-limited interpolation. Physical calibration and extent interpretation unchanged.",
+      "boundary_note_before_precision_audit": "Solid complete DM envelope in cropped contralateral view."
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "17",
+      "status": "not_measurable",
+      "reason": "Field extends outside panel or has no closed border; no total field or cortex denominator."
+    },
+    {
+      "label": "18",
+      "status": "not_measurable",
+      "reason": "Field extends outside panel or has no closed border; no total field or cortex denominator."
+    },
+    {
+      "label": "VPP",
+      "status": "not_measurable",
+      "reason": "Field extends outside panel or has no closed border; no total field or cortex denominator."
+    }
+  ],
+  "review_note": "Provisional image digitization. Inspect field boundaries and short scale bar; no shrinkage correction.",
+  "precision_audit": {
+    "date": "2026-10-15",
+    "source_review": "completed; provisional anatomical interpretation",
+    "changed_regions": 1,
+    "regions": [
+      {
+        "kind": "rois",
+        "label": "DM",
+        "status": "refined",
+        "source_limits": "Stroke-supported refinement; obscured/dashed intervals remain approximate."
+      }
+    ],
+    "previous_geometry": "documentation/rois_before_precision_audit.json"
+  }
+}

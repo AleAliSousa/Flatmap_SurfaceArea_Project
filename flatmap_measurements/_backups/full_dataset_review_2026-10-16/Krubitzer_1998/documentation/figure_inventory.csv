@@ -1,0 +1,20 @@
+figure,pdf_page,panel,specimen,interpretation,processing_status,reason_or_result,linked_main_map
+1,2,all,not reported,Projected brain photographs,assessed_excluded,Not a planar cortical field map.,
+2,3,A,not reported,Historical platypus SI drawing,digitized_pixels_only_provisional,Closed historical envelope in pixels only; may include modern SI/R/PV. No physical scale.,fig02A
+2,3,B,not reported,Historical echidna somatotopy,assessed_not_measurable,Body symbols do not define a complete SI envelope.,fig02B
+3,4,map,not reported,Redrawn echidna physiological map,digitized_provisional,A is closed; SI/PV/R/V have open limits.,fig03
+4,5,all,not reported,Cytoarchitecture on projected brains,assessed_excluded,No planar complete field envelopes.,
+5,5,all,not reported,Thalamic degeneration,assessed_excluded,Not cortical surface area.,
+6,6,map,E2,Echidna myelinated patches,digitized_partial_provisional,Two SI islands and approximate dashed auditory envelope; total SI/R/PV/visual/motor not measurable.,fig06
+7,7,A,not reported,Platypus local electrosensory map,digitized_partial_provisional,Closed island ii measured; island i continuation open. B/C are receptive-field body drawings.,fig07A
+8,8,all,not reported,Historical projected motor map,assessed_excluded,Projected brain and body symbols do not delimit a planar complete field.,
+9,9,A/B,not reported,Compressed strip and projected brain,assessed_excluded,No complete planar field envelope; strip is schematized.,
+9,9,C,not reported,Echidna auditory physiology,digitized_provisional,"Closed compound auditory envelope; individual A1?/Ar boundary unresolved, not separate field totals.",fig09C
+10,10,A,not reported,Platypus visual physiology,assessed_not_measurable,Open total Vc/Vr outline; no long invented closure. Own scale saved but areas NA.,fig10A
+10,10,B,not reported,Visual receptive-field hemispheres,assessed_excluded,Visual-field coordinates are not cortical tissue area.,
+11,12,A,not reported,Repeated platypus Vc/Vr reconstruction,digitized_pixels_only_provisional,"Closed Vc/Vr, shared divider excludes recording glyphs; scale stroke is unlabeled, so no mm2 or borrowed calibration.",fig10A
+11,12,B/C,not reported,Repeat layout and visual-field hemispheres,assessed_excluded,B repeats A geometry; C represents visual space.,fig11A
+12,13,map,E3,Echidna tracer case,digitized_provisional,A1? closed; adjacent auditory patch partial; VI? approximate with explicitly obscured continuation. Other totals NA.,fig12
+13,14,all,not reported,Proposed monotreme architecture,assessed_excluded,"Derived summary, not an independent specimen; source includes Krubitzer et al. 1995, a different publication from the TINS review.",
+14,15,all,not reported,Cross-species comparative summary,assessed_excluded,"Derived maps, including tenrec from 1997; do not create new animals or duplicate geometry.",
+15,18,all,not reported,Connectivity network,assessed_excluded,No cortical surface-area geometry.,

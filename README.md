@@ -19,10 +19,36 @@ The instructions and Python/R helpers are also usable without Codex. The [skill'
 
 Core measurements, ImageJ editing and source-versus-tracing review work without reference values. Create `comparison/` only when reference data are available and comparison is part of the task. Always retain `review/` for checking the actual traces. No reference match is required to process a paper.
 
+## Anatomical tracing rule
+
+Letters, numbers, labels and recording/stimulation symbols are annotations. They do not change surface area and must never create holes, notches or extra boundaries in a field. Trace the anatomical perimeter; where a label covers it, continue the visible anatomical curve smoothly across the overprint.
+
 ## Datasets and queue
 
-- [Krubitzer & Kaas (1990)](flatmap_measurements/Krubitzer_Kaas_1990/README.md): existing dataset; specialized comparisons retained.
-- [Krubitzer & Kaas (1993)](flatmap_measurements/Krubitzer_Kaas_1993/README.md): first run started; Figure 5 outline and three fields traced, remaining work recorded.
-- [Paper inventory](papers_to_do/paper_inventory.csv): 21 source PDFs, one existing dataset and one new pilot. Sources are in `papers_to_do/Cortical Image References/`.
+[Latest full-dataset contour recheck](flatmap_measurements/review_full_dataset_audit.html): all 21 papers and 370 numbered figures rechecked on 16 October 2026. [Methods and remaining source limits](flatmap_measurements/full_dataset_recheck.md). Counts below are field/component observations, including repeated and illustrative views, not animals.
 
-Saved geometry and calibration are canonical inputs. Rebuilding generated files can replace ImageJ edits that have not been reconciled into those inputs. Review each paper's methods before combining data: different panels or publications may represent the same specimen or tissue.
+| Paper | Current contours |
+|---|---:|
+| [Beck_Kaas_1998](flatmap_measurements/Beck_Kaas_1998/README.md) | 5 |
+| [Beck_etal_1996](flatmap_measurements/Beck_etal_1996/README.md) | 58 |
+| [Felleman_VanEssen_1991](flatmap_measurements/Felleman_VanEssen_1991/README.md) | 62 |
+| [Huffman_etal_1999](flatmap_measurements/Huffman_etal_1999/README.md) | 76 |
+| [Kaas_etal_2011](flatmap_measurements/Kaas_etal_2011/README.md) | 0 |
+| [Krubitzer_1995](flatmap_measurements/Krubitzer_1995/README.md) | 10 |
+| [Krubitzer_1998](flatmap_measurements/Krubitzer_1998/README.md) | 61 |
+| [Krubitzer_Kaas_1990](flatmap_measurements/Krubitzer_Kaas_1990/README.md) | 354 |
+| [Krubitzer_Kaas_1993](flatmap_measurements/Krubitzer_Kaas_1993/README.md) | 106 |
+| [Krubitzer_etal_1993](flatmap_measurements/Krubitzer_etal_1993/README.md) | 100 |
+| [Krubitzer_etal_1995](flatmap_measurements/Krubitzer_etal_1995/README.md) | 20 |
+| [Krubitzer_etal_1997](flatmap_measurements/Krubitzer_etal_1997/README.md) | 15 |
+| [Luethke_etal_1988](flatmap_measurements/Luethke_etal_1988/README.md) | 101 |
+| [Luethke_etal_1989](flatmap_measurements/Luethke_etal_1989/README.md) | 41 |
+| [Lyon_etal_1998](flatmap_measurements/Lyon_etal_1998/README.md) | 33 |
+| [Manger_etal_2002](flatmap_measurements/Manger_etal_2002/README.md) | 6 |
+| [Preuss_Kaas_1996](flatmap_measurements/Preuss_Kaas_1996/README.md) | 3 |
+| [Preuss_etal_1993](flatmap_measurements/Preuss_etal_1993/README.md) | 10 |
+| [Slutsky_etal_2000](flatmap_measurements/Slutsky_etal_2000/README.md) | 15 |
+| [VanEssen_Drury_1997](flatmap_measurements/VanEssen_Drury_1997/README.md) | 0 |
+| [Zilles_1985](flatmap_measurements/Zilles_1985/README.md) | 0 |
+
+Editable canonical geometry, ImageJ outputs and per-paper tables are linked from the latest review. Source-limited totals remain NA. Historical batch reviews are retained for provenance.

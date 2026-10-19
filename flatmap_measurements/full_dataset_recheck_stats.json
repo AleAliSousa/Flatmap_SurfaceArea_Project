@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-16",
+  "papers": 21,
+  "numbered_figures": 370,
+  "previous_contours": 882,
+  "current_contours": 1076,
+  "withdrawn_observations": 12,
+  "added_observations": 206,
+  "added_case_view_observations": 79,
+  "added_illustrative_observations": 127,
+  "refined_existing_contours": 269,
+  "anatomical_certification": false
+}

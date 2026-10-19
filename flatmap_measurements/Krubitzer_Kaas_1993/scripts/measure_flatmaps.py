@@ -10,6 +10,7 @@ from pathlib import Path
 import shutil
 import subprocess
 import tempfile
+import sys
 import numpy as np
 from PIL import Image, ImageDraw
 import pypdfium2 as pdfium
@@ -31,7 +32,7 @@ def write_csv(path, rows, empty_fields=()):
     if not fields:
         raise ValueError("CSV schema is required for an empty table")
     with path.open('w', newline='') as out:
-        writer = csv.DictWriter(out, fieldnames=fields)
+        writer = csv.DictWriter(out, fieldnames=fields, lineterminator="\n")
         writer.writeheader()
         writer.writerows({k: 'NA' if v is None else v for k, v in row.items()} for row in rows)
 
@@ -227,6 +228,8 @@ def rebuild(root, java=None, ij_jar=None):
     (root/'documentation/validation.json').write_text(json.dumps(validation, indent=2)+'\n')
     page = '<!doctype html><meta charset="utf-8"><title>Flatmap tracing review</title><style>body{font:16px Arial;max-width:1400px;margin:32px auto;padding:20px;color:#18302e} .images{display:flex;gap:16px}.images img{width:49%;object-fit:contain}table{border-collapse:collapse}td,th{padding:8px;border-bottom:1px solid #ddd;text-align:left}section{margin-bottom:50px}</style><h1>Flatmap tracing review</h1><p>Source image, saved anatomical outlines and scale endpoints. Unfinished fields are NA.</p>' + ''.join(cards)
     (root/'review/gallery.html').write_text(page.replace('/source.tif" alt="Source (TIFF)"', '/source_preview.png" alt="Source"'))
+    if (root/'scripts/build_precision_review.py').exists():
+        subprocess.run([sys.executable,'-B',str(root/'scripts/build_precision_review.py')],check=True)
     outputs = [p for name in ['source','figures','data','scripts','review','documentation']
                for p in (root/name).rglob('*') if p.is_file() and p.name != 'checksums.json' and '__pycache__' not in p.parts]
     (root/'documentation/checksums.json').write_text(json.dumps({str(p.relative_to(root)):digest(p) for p in outputs},indent=2)+'\n')

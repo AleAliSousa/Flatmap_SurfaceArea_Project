@@ -1,0 +1,305 @@
+{
+  "map_id": "fig10C",
+  "figure": 10,
+  "panel": "C",
+  "pdf_page": 16,
+  "printed_page": 180,
+  "specimen": "87-53",
+  "species_as_reported": "Callithrix jacchus",
+  "view_type": "histological_zoom",
+  "hemisphere_relation": "injected hemisphere",
+  "linked_main_map": "fig20",
+  "relationship_note": "Adjacent/registered sections of one V2 patch; panels A\u2013F are repeat views, not independent fields.",
+  "outline_label": null,
+  "outline_scope": "none",
+  "scale_length_mm": 1,
+  "scale_endpoints_px": [
+    [
+      -31,
+      103
+    ],
+    [
+      -31,
+      274
+    ]
+  ],
+  "scale_note": "Borrowed only within Figure 10: caption explicitly states the bar in B applies to all six panels. No resizing between page crops.",
+  "coordinate_system": "x right, y down in source.tif; manual vertices referenced to published lines/dots",
+  "supersample": 3,
+  "rois": [
+    {
+      "label": "17",
+      "polygons": [
+        [
+          [
+            14.0,
+            287.0
+          ],
+          [
+            14.0,
+            19.0
+          ],
+          [
+            85.0,
+            19.0
+          ],
+          [
+            85.88390506076323,
+            21.848510779157348
+          ],
+          [
+            84.41145041201243,
+            30.88038759394994
+          ],
+          [
+            73.61709522761535,
+            79.22307147573089
+          ],
+          [
+            66.558530062825,
+            106.23224817463813
+          ],
+          [
+            64.2397911528922,
+            112.13227100942423
+          ],
+          [
+            64.14541061308807,
+            114.88724826278039
+          ],
+          [
+            65.04881168913008,
+            120.66707235143622
+          ],
+          [
+            64.22555103112406,
+            123.24532721451307
+          ],
+          [
+            61.36478095699104,
+            128.10502057757054
+          ],
+          [
+            61.66105765397255,
+            133.73643648467828
+          ],
+          [
+            61.32349649921492,
+            136.43341789299362
+          ],
+          [
+            60.378810965396816,
+            138.98199111976086
+          ],
+          [
+            57.4888989210689,
+            142.908062104352
+          ],
+          [
+            56.7882773876331,
+            144.58979663434957
+          ],
+          [
+            43.75701645940456,
+            196.9698738586981
+          ],
+          [
+            36.71321081303173,
+            221.13372655682969
+          ],
+          [
+            33.74407019302438,
+            227.76416248074315
+          ],
+          [
+            28.828085298018753,
+            244.04928470595496
+          ],
+          [
+            19.761350776424646,
+            268.4688349148816
+          ],
+          [
+            16.31324619881287,
+            274.8680985304745
+          ]
+        ]
+      ],
+      "extent": "partial",
+      "boundary_note": "Visible V1 wedge bounded by the 17/18 junction and the interior image frame; frame lines excluded. Shared Figure 10B scale explicitly authorized by caption. Precision refinement 2026-10-15: dense source-stroke tracing replaces angular/off-stroke portions; recording symbols remain internal. Short gaps retain source-limited interpolation. Physical calibration and extent interpretation unchanged.",
+      "boundary_note_before_precision_audit": "Visible V1 wedge bounded by the 17/18 junction and the interior image frame; frame lines excluded. Shared Figure 10B scale explicitly authorized by caption."
+    },
+    {
+      "label": "18",
+      "polygons": [
+        [
+          [
+            288.0,
+            19.0
+          ],
+          [
+            85.0,
+            19.0
+          ],
+          [
+            84.42895374548418,
+            30.78193134317135
+          ],
+          [
+            73.63878827339722,
+            79.1254527697125
+          ],
+          [
+            66.58029127531843,
+            106.13490503981629
+          ],
+          [
+            64.26350401893671,
+            112.03526625278634
+          ],
+          [
+            64.16915592213577,
+            114.79010836213071
+          ],
+          [
+            65.07255699817777,
+            120.56993245078654
+          ],
+          [
+            64.24929634017177,
+            123.14818731386339
+          ],
+          [
+            61.38852626603875,
+            128.00788067692088
+          ],
+          [
+            61.68480296302026,
+            133.63929658402859
+          ],
+          [
+            61.34724180826263,
+            136.33627799234398
+          ],
+          [
+            60.402556274444514,
+            138.8848512191112
+          ],
+          [
+            57.5126442301166,
+            142.81092220370232
+          ],
+          [
+            56.8120226966808,
+            144.4926567336999
+          ],
+          [
+            43.782200739850545,
+            196.87332738608802
+          ],
+          [
+            36.741545427133474,
+            221.03782478602378
+          ],
+          [
+            33.772404807126115,
+            227.66826070993724
+          ],
+          [
+            28.263256448033335,
+            245.6175234116075
+          ],
+          [
+            19.796224147626784,
+            268.3751127297758
+          ],
+          [
+            16.348119570015008,
+            274.7743763453688
+          ],
+          [
+            15.247428791447406,
+            279.16624153113855
+          ],
+          [
+            14.0,
+            287.0
+          ],
+          [
+            14.0,
+            439.0
+          ],
+          [
+            288.0,
+            439.0
+          ],
+          [
+            290.75851708394487,
+            437.61640450325905
+          ],
+          [
+            291.03125,
+            418.9282563738265
+          ],
+          [
+            291.96875,
+            413.5282563738266
+          ],
+          [
+            292.0,
+            319.0282563738266
+          ],
+          [
+            293.0,
+            311.82825637382655
+          ],
+          [
+            293.0,
+            41.82825637382652
+          ],
+          [
+            292.03125,
+            35.52825637382652
+          ],
+          [
+            291.8736990667756,
+            23.806207393535104
+          ],
+          [
+            290.8022056552359,
+            20.67860179043474
+          ]
+        ]
+      ],
+      "extent": "partial",
+      "boundary_note": "Visible V2 patch bounded partly by the interior image frame; this is a repeated depiction of a small tissue patch, not complete V2. Precision refinement 2026-10-15: dense source-stroke tracing replaces angular/off-stroke portions; recording symbols remain internal. Short gaps retain source-limited interpolation. Physical calibration and extent interpretation unchanged.",
+      "boundary_note_before_precision_audit": "Visible V2 patch bounded partly by the interior image frame; this is a repeated depiction of a small tissue patch, not complete V2."
+    }
+  ],
+  "unmeasured": [],
+  "scale_reference_map": "fig10B",
+  "scale_endpoints_external": true,
+  "repeat_of": "fig10A:18",
+  "include_in_whole_hemisphere_summary": false,
+  "specimen_link_status": "linked_existing_case",
+  "precision_audit": {
+    "date": "2026-10-15",
+    "source_review": "completed; provisional anatomical interpretation",
+    "changed_regions": 2,
+    "regions": [
+      {
+        "kind": "rois",
+        "label": "17",
+        "status": "refined",
+        "source_limits": "Stroke-supported refinement; obscured/dashed intervals remain approximate."
+      },
+      {
+        "kind": "rois",
+        "label": "18",
+        "status": "refined",
+        "source_limits": "Stroke-supported refinement; obscured/dashed intervals remain approximate."
+      }
+    ],
+    "previous_geometry": "documentation/rois_before_precision_audit.json"
+  }
+}

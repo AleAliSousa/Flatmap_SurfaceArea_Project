@@ -1,0 +1,4 @@
+map_id	roi_index	label	area_pixels	area_calibrated	unit	original_fractional_pixels	pixel_difference_percent	roi_roundtrip_pixels_equal
+fig02_left	0	V1	57803	60.932492831843476	mm^2	57747.4375	0.09621639055412631	true
+fig02_left	1	MT (presumed)	4789	5.048279642435486	mm^2	4777.6875	0.23677772981175516	true
+fig02_left	2	Aud (auditory complex)	9380	9.887839433293976	mm^2	9350.375	0.3168322126117936	true

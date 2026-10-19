@@ -1,0 +1,262 @@
+{
+  "map_id": "fig02C_cortex",
+  "figure": 2,
+  "pdf_page": 6,
+  "printed_page": 502,
+  "species": "Aotus trivirgatus",
+  "specimen": "owl monkey; figure 2, identity unreported",
+  "hemisphere": "not reported",
+  "hemisphere_relation": "not assigned",
+  "view_type": "repeated_physiological_map",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "outline": null,
+  "supersample": 4,
+  "render_scale": 4,
+  "relationship_note": "A, B and C repeat cortical geometry from one owl monkey, not three animals. Only B retains the local printed 2 mm stroke; A/C remain pixels-only. The owl is not identified by case number; possible overlap with other owl monkeys in this paper is unresolved, so these observations do not enter independent-animal means.",
+  "specimen_link_status": "unresolved_possible_overlap",
+  "panel": "C lower cortical map",
+  "crop_xyxy": [
+    1780,
+    1400,
+    2140,
+    2130
+  ],
+  "rois": [
+    {
+      "label": "DM",
+      "polygons": [
+        [
+          [
+            90.14948663973485,
+            295.76428710155517
+          ],
+          [
+            100.19516038894588,
+            292.70517611228314
+          ],
+          [
+            107.17758597306864,
+            289.54247863702994
+          ],
+          [
+            131.02575335073652,
+            282.0982974214461
+          ],
+          [
+            138.00834922165393,
+            278.9361636211332
+          ],
+          [
+            151.36115969475912,
+            274.8214953596072
+          ],
+          [
+            167.30002593685393,
+            268.0785450602713
+          ],
+          [
+            189.33668163150153,
+            261.5268507353123
+          ],
+          [
+            195.12812294924152,
+            259.9772726017944
+          ],
+          [
+            216.49294672705847,
+            255.98564259893894
+          ],
+          [
+            230.64158026063436,
+            254.66669703797518
+          ],
+          [
+            248.49948850426372,
+            256.0983857421028
+          ],
+          [
+            259.65557624203217,
+            259.7347098176436
+          ],
+          [
+            280.62638085343383,
+            273.1861155737036
+          ],
+          [
+            284.71600853703455,
+            277.1507391903315
+          ],
+          [
+            289.72519749797664,
+            283.0867869850668
+          ],
+          [
+            295.3608437724296,
+            290.98447610164993
+          ],
+          [
+            305.2014701667754,
+            310.611576370321
+          ],
+          [
+            308.44996937207225,
+            319.65835255124745
+          ],
+          [
+            312.3940465623342,
+            333.7980962320807
+          ],
+          [
+            322.3847169991885,
+            396.2798571309579
+          ],
+          [
+            322.85153495323215,
+            405.91210597557284
+          ],
+          [
+            327.9861318156169,
+            440.52569275897355
+          ],
+          [
+            328.55314823494933,
+            446.46910885450933
+          ],
+          [
+            328.3704201911395,
+            454.139983453399
+          ],
+          [
+            332.74407924803756,
+            500.9295513969402
+          ],
+          [
+            331.1171577790861,
+            531.8693673154247
+          ],
+          [
+            330.2470594577546,
+            535.7429911133139
+          ],
+          [
+            327.2826339496637,
+            542.8859465970362
+          ],
+          [
+            317.6977694461991,
+            557.9109979032545
+          ],
+          [
+            312.2304815272186,
+            563.3561757029677
+          ],
+          [
+            300.30878702472575,
+            573.0452845169697
+          ],
+          [
+            284.0897860841564,
+            582.7193114406228
+          ],
+          [
+            211.83084537223795,
+            612.9448439279121
+          ],
+          [
+            162.29720767833535,
+            631.7104370411793
+          ],
+          [
+            155.84864452140502,
+            632.4131728050146
+          ],
+          [
+            153.70902709807143,
+            631.4161478073962
+          ],
+          [
+            152.4277566171524,
+            627.9951369995811
+          ],
+          [
+            147.73780349060993,
+            604.4657133138523
+          ],
+          [
+            147.01350344350192,
+            595.8436341098318
+          ],
+          [
+            141.20673475514215,
+            566.4282947340106
+          ],
+          [
+            140.29563086413603,
+            556.8270484465108
+          ],
+          [
+            113.76687721170534,
+            423.4442065692452
+          ],
+          [
+            111.13633243203606,
+            415.2018429804424
+          ],
+          [
+            105.44421745291532,
+            386.78316730455873
+          ],
+          [
+            103.02819624659018,
+            379.50857004812383
+          ],
+          [
+            97.33694658336078,
+            351.0893162853212
+          ],
+          [
+            94.92801742169753,
+            343.8099810848713
+          ],
+          [
+            89.79529675899302,
+            318.35083968191776
+          ],
+          [
+            84.35844424452513,
+            300.8895018565535
+          ],
+          [
+            83.99468684857646,
+            297.0089556807384
+          ],
+          [
+            84.80647728027151,
+            295.022976828027
+          ],
+          [
+            86.166251276323,
+            294.90731989985346
+          ]
+        ]
+      ],
+      "extent": "complete",
+      "tracing_method": "Manually identified anatomical envelope with regularized stroke-center following",
+      "boundary_note": "Observed printed anatomical perimeter followed as a smooth continuous line. Internal recording marks, text and body-part subdivisions remain inside the field. Short print interruptions interpolated only along the continuing envelope."
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "M",
+      "status": "not_measurable",
+      "reason": "The anterior field envelope remains open; the dashed horizontal-meridian representation is internal retinotopy, not a closed field boundary."
+    }
+  ],
+  "repeat_of": "fig02B_cortex",
+  "linked_main_map": "fig02B_cortex",
+  "scale_endpoints_px": [],
+  "scale_length_mm": null,
+  "scale_note": "No physical calibration assigned. Retain pixel geometry.",
+  "review_note": "Reassessed from the full source page; cortical inset crop and each field perimeter reviewed separately."
+}

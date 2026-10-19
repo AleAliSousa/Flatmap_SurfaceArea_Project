@@ -1,23 +1,37 @@
-# Krubitzer & Kaas (1993): first tracing pass
+<!-- full-dataset-recheck-2026-10-16 -->
+# Krubitzer_Kaas_1993 · current recheck
 
-**Status: started, not a completed paper.** Figure 5 (owl monkey 88-32) has an independently traced cortex outline and provisional MT, FST and AI + R fields. Eighteen other field labels are NA; most await digitization, and MST lacks a closed rostral boundary in this drawing. The other figures remain undigitized.
+**106 field/component observations.** Recovered the three closed DM cortical maps in the lower panels of figure 2, distinct from the visual-field plots above. Only panel B has its own defensible 2 mm stroke; A/C remain pixel-only. Owl identities are unresolved and are excluded from independent-animal means. Added 22 selected fields in the figure 1 flattened-cortex illustration, including correctly labelled area 1; area 2 is not falsely closed. Existing case-map geometry from the previous precision audit is preserved.
 
+[Latest source review](review/full_dataset_audit.html) · [Recheck findings and limits](documentation/full_dataset_recheck.md) · [Current measurements](data/measurements.csv). Earlier notes below describe the previous processing state; their counts are superseded.
+
+<!-- earlier-processing-notes -->
+## Earlier processing notes
+
+# Krubitzer & Kaas (1993): surface-area measurements
+
+All 21 figures have been assessed; 78 new field measurements were added across 12 additional figures. The remaining eligible figures are digitized provisionally: Figures3, 6, 11, 12A and13–20. Figure12B/C retain calibrated source images with explicit NA fields. Eight unsuitable figures are excluded with reasons in the inventory. Figure5 was also included in the subsequent precision audit; its legacy NA rows remain preserved. Prior contours are archived.
+
+- [Contour precision audit: previous/current source toggles](review/precision_audit.html)
 - [Source and tracing review](review/gallery.html)
 - [Measurements](data/measurements.csv)
-- [Figure inventory](documentation/figure_inventory.csv)
-- [Methods and limitations](documentation/methods.md)
+- [Whole-hemisphere percentages and species summaries](data/species_summary_percent.csv)
+- [Figure inventory and exclusions](documentation/figure_inventory.csv)
+- [Methods, identity and limitations](documentation/methods.md)
 - [Numerical and ImageJ validation](documentation/validation.json)
 
-Open `figures/fig05/source.tif` in ImageJ/Fiji, then **Image > Overlay > To ROI Manager**. The overlay and `RoiSet.zip` contain the same selections; use one route. `Masks.tif.zip` contains the corresponding named binary masks. Save edited ROIs under a new filename; editing in ImageJ does not automatically update `rois.json`.
+Open a view's `figures/<map_id>/source.tif` in Fiji/ImageJ, then **Image > Overlay > To ROI Manager**, or load its `RoiSet.zip`. Use one route to avoid duplicate ROIs. `Masks.tif.zip` contains the named binary masks. Preserve native edits under a new name and reconcile them into canonical `rois.json` before rebuilding.
 
-From this folder:
+Whole-neocortex summaries contain only Figures5, 6 and14–18. Sections, opposite-hemisphere details, and the incomplete cortex of Figures19/20 are kept separate. Missing/open/cropped borders are NA; partial field measurements are flagged. Cross-paper independence of reused specimens remains unresolved. New digitizations require anatomical review.
+
+From this folder, using a Python with numpy, Pillow and pypdfium2:
 
 ```sh
 python scripts/measure_flatmaps.py --rebuild
 python scripts/measure_flatmaps.py --verify
-Rscript scripts/summarize_flatmaps.R data/measurements.csv
+Rscript scripts/export_summary.R
 ```
 
-Python needs numpy, Pillow and pypdfium2. Native exports use Java 17+ and ImageJ/Fiji; pass `--java` and `--ij-jar` if they are not found automatically. Rebuild replaces generated outputs using saved JSON geometry. Preserve any ImageJ edits first.
+Native exports additionally require Java17+ and ImageJ/Fiji (`--java` / `--ij-jar` accept explicit paths). Rebuild uses saved JSON geometry and replaces generated outputs. No external reference comparison was performed.
 
-No reference comparison was performed; there is no `comparison/` folder. Tracing review and internal validation are included. Next: anatomically review the pilot fields, assess the remaining Figure 5 fields, then continue through `documentation/figure_inventory.csv`.
+Precision audit completed 15 October 2026. Earlier coarse contours were refined, all saved views received source review, and areas/native ImageJ outputs were rebuilt. Dotted, obscured and schematic boundaries retain explicit source limitations. See `documentation/precision_audit.md`.

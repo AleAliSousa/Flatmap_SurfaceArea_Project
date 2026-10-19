@@ -1,0 +1,224 @@
+{
+  "map_id": "fig01_marmoset",
+  "figure": 1,
+  "pdf_page": 3,
+  "printed_page": 410,
+  "species": "Callithrix jacchus",
+  "specimen": "illustrative summary",
+  "hemisphere": "not reported",
+  "hemisphere_relation": "not assigned",
+  "view_type": "illustrative_summary_flatmap",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "outline": null,
+  "supersample": 4,
+  "render_scale": 4,
+  "relationship_note": "Caption describes flattened cortex, adapted from multiple studies. This comparative source illustration is not an additional specimen. Saturated fills that merge several fields are not partitioned.",
+  "specimen_link_status": "caption identified",
+  "panel": null,
+  "crop_xyxy": [
+    130,
+    1956,
+    770,
+    2580
+  ],
+  "rois": [
+    {
+      "label": "MT",
+      "polygons": [
+        [
+          [
+            242.34388605177068,
+            324.18163068896575
+          ],
+          [
+            244.74912970053026,
+            322.75112051437657
+          ],
+          [
+            261.97510645900985,
+            314.78072009584156
+          ],
+          [
+            268.41646557687335,
+            312.1549304711715
+          ],
+          [
+            299.17249676788583,
+            308.53742713943996
+          ],
+          [
+            304.1354737978392,
+            308.2216386516449
+          ],
+          [
+            322.88080587583954,
+            311.14855050899996
+          ],
+          [
+            326.53830398731185,
+            312.08270563815626
+          ],
+          [
+            327.70974851838236,
+            313.18080626907516
+          ],
+          [
+            328.2878899220549,
+            314.84848758089817
+          ],
+          [
+            329.6164716448344,
+            325.6747597257521
+          ],
+          [
+            329.14124502194807,
+            328.38555081847835
+          ],
+          [
+            327.51345556248776,
+            330.73446349025403
+          ],
+          [
+            314.1444004830835,
+            345.5939052336201
+          ],
+          [
+            310.36207271280654,
+            348.7358392599804
+          ],
+          [
+            287.07976256203256,
+            360.24724461540075
+          ],
+          [
+            261.4860709003987,
+            368.825030679653
+          ],
+          [
+            258.623050924708,
+            369.5349268095917
+          ],
+          [
+            256.6862069713726,
+            369.6118937709481
+          ],
+          [
+            240.95629419819153,
+            366.8993326107007
+          ],
+          [
+            237.23777049410967,
+            365.9115583866994
+          ],
+          [
+            235.8519385357732,
+            364.8236198184848
+          ],
+          [
+            234.86494902593085,
+            363.2352208009441
+          ],
+          [
+            230.96106819520898,
+            354.07549231731116
+          ],
+          [
+            230.46471396953186,
+            352.1986503662549
+          ],
+          [
+            230.4285559870151,
+            349.28969757121166
+          ],
+          [
+            231.53343525483055,
+            341.3819589381935
+          ],
+          [
+            232.21212824176305,
+            338.5140493739257
+          ],
+          [
+            234.6708695478491,
+            334.26610784497166
+          ],
+          [
+            240.47399310460216,
+            326.18005686615936
+          ]
+        ]
+      ],
+      "extent": "complete",
+      "boundary_note": "Named closed comparative source compartment. Short intervals covered by large lettering are interpolated along the continuing outer anatomical curve; glyph outlines and label holes are not field boundaries. Reduced illustrative source, not an additional animal.",
+      "tracing_method": "Manually positioned source-envelope vertices with sub-stroke interpolation at occluding text"
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "saturated primary-field totals",
+      "status": "not_measurable",
+      "reason": "Black source fills merge multiple somatosensory, visual and motor fields. Named closed white compartments are measured independently; missing field dividers are not invented."
+    },
+    {
+      "label": "R",
+      "status": "not_measurable",
+      "reason": "Separate named perimeter remains unresolved in the small comparative print; no enclosing cortical white space retained."
+    },
+    {
+      "label": "2",
+      "status": "not_measurable",
+      "reason": "The small comparative print is overprinted or joins neighbouring contours. No glyph-shaped or enclosing-cortex candidate is accepted as a complete field boundary."
+    },
+    {
+      "label": "FEF",
+      "status": "not_measurable",
+      "reason": "The small comparative print is overprinted or joins neighbouring contours. No glyph-shaped or enclosing-cortex candidate is accepted as a complete field boundary."
+    },
+    {
+      "label": "FV",
+      "status": "not_measurable",
+      "reason": "The small comparative print is overprinted or joins neighbouring contours. No glyph-shaped or enclosing-cortex candidate is accepted as a complete field boundary."
+    },
+    {
+      "label": "DI",
+      "status": "not_measurable",
+      "reason": "The small comparative print is overprinted or joins neighbouring contours. No glyph-shaped or enclosing-cortex candidate is accepted as a complete field boundary."
+    },
+    {
+      "label": "DLr",
+      "status": "not_measurable",
+      "reason": "The small comparative print is overprinted or joins neighbouring contours. No glyph-shaped or enclosing-cortex candidate is accepted as a complete field boundary."
+    },
+    {
+      "label": "DLc",
+      "status": "not_measurable",
+      "reason": "The small comparative print is overprinted or joins neighbouring contours. No glyph-shaped or enclosing-cortex candidate is accepted as a complete field boundary."
+    },
+    {
+      "label": "FST",
+      "status": "not_measurable",
+      "reason": "The small comparative print is overprinted or joins neighbouring contours. No glyph-shaped or enclosing-cortex candidate is accepted as a complete field boundary."
+    },
+    {
+      "label": "SMA",
+      "status": "not_measurable",
+      "reason": "The small comparative print is overprinted or joins neighbouring contours. No glyph-shaped or enclosing-cortex candidate is accepted as a complete field boundary."
+    }
+  ],
+  "repeat_of": "illustrative_summary",
+  "linked_main_map": "illustrative_summary",
+  "scale_endpoints_px": [
+    [
+      478,
+      500
+    ],
+    [
+      504,
+      500
+    ]
+  ],
+  "scale_length_mm": 1,
+  "scale_note": "Own local printed scale stroke, endpoints reviewed on the source.",
+  "review_note": "Reassessed from the full source page; cortical inset crop and each field perimeter reviewed separately."
+}

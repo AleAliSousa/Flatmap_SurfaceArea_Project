@@ -1,0 +1,54 @@
+{
+  "map_id": "fig04",
+  "figure": 4,
+  "panel": null,
+  "pdf_page": 6,
+  "printed_page": 386,
+  "species": "Galago garnetti",
+  "specimen": "95-09",
+  "hemisphere": "not assigned",
+  "view_type": "cortical_inset",
+  "hemisphere_relation": "not assigned",
+  "linked_main_map": null,
+  "repeat_of": null,
+  "specimen_link_status": "caption_identified",
+  "relationship_note": "View is not an additional animal. No cross-paper pooling; matching species alone does not establish specimen identity.",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 4,
+  "crop_xyxy": [
+    1578,
+    1462,
+    1962,
+    2208
+  ],
+  "supersample": 4,
+  "scale_length_mm": 2,
+  "scale_endpoints_px": [
+    [
+      12,
+      714
+    ],
+    [
+      134,
+      714
+    ]
+  ],
+  "scale_note": "Own printed scale stroke; local endpoints and caption length.",
+  "scale_reference_map": null,
+  "outline": null,
+  "rois": [],
+  "unmeasured": [
+    {
+      "label": "DM",
+      "status": "not_measurable",
+      "reason": "DM caudal border is hidden by the large injection over a substantial interval; V2 continues off-panel. No defensible complete envelope. Injection extent must not substitute for a field border."
+    },
+    {
+      "label": "V2",
+      "status": "not_measurable",
+      "reason": "DM caudal border is hidden by the large injection over a substantial interval; V2 continues off-panel. No defensible complete envelope. Injection extent must not substitute for a field border."
+    }
+  ],
+  "review_note": "Contours refined 2026-10-15 after enlarged source review. Original outlines archived; source-toggle and prior-outline comparison in review/line_refinement.html. Scientific interpretation remains provisional."
+}

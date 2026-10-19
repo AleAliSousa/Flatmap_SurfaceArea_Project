@@ -32,6 +32,10 @@
       "polygons": [
         [
           [
+            11.0,
+            420.0
+          ],
+          [
             10.0,
             51.0
           ],
@@ -78,20 +82,21 @@
           [
             49.0,
             420.0
-          ],
-          [
-            11.0,
-            420.0
           ]
         ]
       ],
       "extent": "partial",
-      "boundary_note": "Visible field fragment only. The anatomical border is traced and the contour closes along the image crop; its area depends on framing and is not the complete cortical area."
+      "boundary_note": "Visible field fragment only. The anatomical border is traced and the contour closes along the image crop; its area depends on framing and is not the complete cortical area. Precision refinement 2026-10-15: dense source-stroke tracing replaces angular/off-stroke portions; recording symbols remain internal. Short gaps retain source-limited interpolation. Physical calibration and extent interpretation unchanged.",
+      "boundary_note_before_precision_audit": "Visible field fragment only. The anatomical border is traced and the contour closes along the image crop; its area depends on framing and is not the complete cortical area."
     },
     {
       "label": "18",
       "polygons": [
         [
+          [
+            10.0,
+            15.0
+          ],
           [
             33.0,
             15.0
@@ -187,18 +192,35 @@
           [
             10.0,
             51.0
-          ],
-          [
-            10.0,
-            15.0
           ]
         ]
       ],
       "extent": "partial",
-      "boundary_note": "Visible field fragment only. The anatomical border is traced and the contour closes along the image crop; its area depends on framing and is not the complete cortical area."
+      "boundary_note": "Visible field fragment only. The anatomical border is traced and the contour closes along the image crop; its area depends on framing and is not the complete cortical area. Precision refinement 2026-10-15: dense source-stroke tracing replaces angular/off-stroke portions; recording symbols remain internal. Short gaps retain source-limited interpolation. Physical calibration and extent interpretation unchanged.",
+      "boundary_note_before_precision_audit": "Visible field fragment only. The anatomical border is traced and the contour closes along the image crop; its area depends on framing and is not the complete cortical area."
     }
   ],
   "unmeasured": [],
   "include_in_whole_hemisphere_summary": false,
-  "specimen_link_status": "unlinked_or_summary"
+  "specimen_link_status": "unlinked_or_summary",
+  "precision_audit": {
+    "date": "2026-10-15",
+    "source_review": "completed; provisional anatomical interpretation",
+    "changed_regions": 2,
+    "regions": [
+      {
+        "kind": "rois",
+        "label": "17",
+        "status": "refined",
+        "source_limits": "Stroke-supported refinement; obscured/dashed intervals remain approximate."
+      },
+      {
+        "kind": "rois",
+        "label": "18",
+        "status": "refined",
+        "source_limits": "Stroke-supported refinement; obscured/dashed intervals remain approximate."
+      }
+    ],
+    "previous_geometry": "documentation/rois_before_precision_audit.json"
+  }
 }

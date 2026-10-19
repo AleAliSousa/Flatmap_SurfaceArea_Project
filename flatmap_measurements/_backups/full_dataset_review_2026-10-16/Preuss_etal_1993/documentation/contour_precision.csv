@@ -1,0 +1,11 @@
+map_id,label,extent,vertices,source_render_pixels_per_pdf_point,source_visual_check,tracing_method,anatomical_certification
+fig02_schematic,MT,complete,51,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",pending
+fig02_schematic,Aud (auditory complex),complete,52,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",pending
+fig02_schematic,S1 (3b),complete,158,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",pending
+fig02_schematic,3a,complete,127,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",pending
+fig02_schematic,M1,complete,81,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",pending
+fig02_schematic,PMV,complete,35,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",pending
+fig05_right,MT/FST? drawn envelope,approximate,58,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",pending
+fig05_right,Aud (auditory complex),complete,68,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",pending
+fig06_right,MT,approximate,59,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",pending
+fig06_right,Aud (auditory complex),complete,61,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",pending

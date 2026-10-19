@@ -1,0 +1,69 @@
+{
+  "map_id": "fig11",
+  "figure": 11,
+  "panel": null,
+  "pdf_page": 13,
+  "printed_page": 1292,
+  "species": "Mustela putorius",
+  "specimen": "not reported",
+  "hemisphere": "not assigned",
+  "view_type": "semi_flattened_callosal_section",
+  "hemisphere_relation": "not assigned",
+  "linked_main_map": null,
+  "repeat_of": null,
+  "specimen_link_status": "unresolved",
+  "relationship_note": "Repeated views do not represent additional animals. No cross-publication pooling; source labels preserved.",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 4,
+  "crop_xyxy": [
+    144,
+    240,
+    1130,
+    1024
+  ],
+  "supersample": 4,
+  "scale_length_mm": 1,
+  "scale_endpoints_px": [
+    [
+      34,
+      726
+    ],
+    [
+      149,
+      726
+    ]
+  ],
+  "scale_note": "Own printed scale stroke; local measured endpoints. Endpoints checked on the complete printed stroke, and refined to its visible dark horizontal extent.",
+  "scale_reference_map": null,
+  "outline": null,
+  "rois": [],
+  "unmeasured": [
+    {
+      "label": "PPr",
+      "status": "not_measurable",
+      "reason": "Only approximate border positions are marked with arrows at the upper edge. No full field perimeter is drawn; the outer cropped section is not a whole-neocortex denominator."
+    },
+    {
+      "label": "PPc",
+      "status": "not_measurable",
+      "reason": "Only approximate border positions are marked with arrows at the upper edge. No full field perimeter is drawn; the outer cropped section is not a whole-neocortex denominator."
+    },
+    {
+      "label": "3b",
+      "status": "not_measurable",
+      "reason": "Only approximate border positions are marked with arrows at the upper edge. No full field perimeter is drawn; the outer cropped section is not a whole-neocortex denominator."
+    },
+    {
+      "label": "SIII",
+      "status": "not_measurable",
+      "reason": "Only approximate border positions are marked with arrows at the upper edge. No full field perimeter is drawn; the outer cropped section is not a whole-neocortex denominator."
+    },
+    {
+      "label": "18",
+      "status": "not_measurable",
+      "reason": "Only approximate border positions are marked with arrows at the upper edge. No full field perimeter is drawn; the outer cropped section is not a whole-neocortex denominator."
+    }
+  ],
+  "review_note": "Dense tracing on 4 pixels/PDF point source rendering. Anatomical interpretation provisional; hide overlay in the precision review to inspect the printed stroke."
+}

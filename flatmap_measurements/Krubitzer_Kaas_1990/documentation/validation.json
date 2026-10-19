@@ -697,11 +697,29 @@
       "fig01flat",
       "fig19"
     ],
-    "largest_binary_vs_fractional_difference_percent": 1.1494252873563218,
-    "largest_difference_map": "fig27galago",
-    "largest_difference_label": "SII",
+    "largest_binary_vs_fractional_difference_percent": 1.215525156640906,
+    "largest_difference_map": "fig06B",
+    "largest_difference_label": "DM",
     "runtime": "ImageJ 1.54p; Java 17.0.8.1; 373 ROIs verified",
-    "gui_interaction_tested": false,
-    "TIFF_calibration_relative_tolerance": 1e-06
+    "gui_interaction_tested": false
+  },
+  "precision_audit": {
+    "date": "2026-10-15",
+    "saved_views_reviewed": 56,
+    "views_refined": 40,
+    "regions_refined": 248,
+    "source_calibration_changed": false,
+    "prior_geometry_archived": true,
+    "anatomical_certification": false,
+    "geometry_review": "passed; no material interior overlap",
+    "native_imagej_roundtrip": "passed"
+  },
+  "full_dataset_recheck": {
+    "date": "2026-10-16",
+    "source_figure_inventory_rechecked": true,
+    "canonical_contour_count": 354,
+    "geometry_changed": false,
+    "anatomical_certification": false,
+    "review": "review/full_dataset_audit.html"
   }
 }

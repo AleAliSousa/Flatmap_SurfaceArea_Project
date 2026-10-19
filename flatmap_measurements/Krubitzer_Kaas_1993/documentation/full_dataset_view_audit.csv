@@ -1,0 +1,21 @@
+map_id,figure,pdf_page,species,specimen,view_type,repeat_of,fields,complete_fields,partial_fields,unmeasured,audit_date,review
+fig01_summary,1,5,Aotus trivirgatus,illustrative summary,illustrative_summary_flatmap,illustrative_summary,22,22,0,17; 18; ITr; PP; 2,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig02A_cortex,2,6,Aotus trivirgatus,"owl monkey; figure 2, identity unreported",repeated_physiological_map,fig02B_cortex,1,1,0,M,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig02B_cortex,2,6,Aotus trivirgatus,"owl monkey; figure 2, identity unreported",repeated_physiological_map,unresolved_owl_case_identity,1,1,0,M,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig02C_cortex,2,6,Aotus trivirgatus,"owl monkey; figure 2, identity unreported",repeated_physiological_map,fig02B_cortex,1,1,0,M,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig03,3,8,Aotus trivirgatus,89-35,tangential_section,,12,12,0,18; M; DI; DL; VP + VA; IT; FEF; 3a; MI; SII; PV; FR,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig05,5,10,Aotus trivirgatus,88-32,whole_hemisphere,,3,3,0,17; 18; DL; DM; DI; M; VPP; 2; 1; 3b; 3a; MI; FEF; FV; FR; IT; VP + VA; MST,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig06,6,11,Aotus trivirgatus,89-58,whole_hemisphere,,8,8,0,18; M; DI; DL; VP + VA; IT; 3b,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig11A,11,18,Aotus trivirgatus,89-35,contralateral_partial,,1,1,0,17; 18; VPP,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig11B,11,18,Aotus trivirgatus,88-32,contralateral_partial,,1,1,0,17; 18; VPP,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig12A,12,19,Galago senegalensis,not reported,tangential_section_detail,,2,2,0,17; 18; MT,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig12B,12,19,Aotus trivirgatus,not reported,tangential_section_detail,,0,0,0,DM; VPP,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig12C,12,19,Miopithecus talapoin,not reported,tangential_section_detail,,0,0,0,DM; VPP,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig13,13,20,Callithrix jacchus,not reported,tangential_section,,9,9,0,17; 18; DL; 1; MI; SMA,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig14,14,21,Aotus trivirgatus,88-16,whole_hemisphere,,8,8,0,18; DL; IT; PP; 3a,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig15,15,22,Callithrix jacchus,89-78,whole_hemisphere,,13,13,0,DL; IT; PP; 1; M; SMA,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig16,16,23,Saimiri sciureus,92-8,whole_hemisphere,,3,3,0,18; DL,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig17,17,24,Galago senegalensis,89-11,whole_hemisphere,,12,12,0,DI; IT; PP; 3a; M,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig18,18,25,Miopithecus talapoin,89-55,whole_hemisphere,,3,3,0,18; DL / V4,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig19,19,26,Erythrocebus patas,90-50,partial_reconstruction,,3,1,2,DL / V4; 17; 18,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig20,20,27,Macaca fascicularis,92-7,partial_reconstruction,,3,2,1,18; DL / V4,2026-10-16,source visually inspected; provisional anatomical interpretation

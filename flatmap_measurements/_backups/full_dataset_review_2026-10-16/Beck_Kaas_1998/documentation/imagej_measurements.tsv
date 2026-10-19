@@ -1,0 +1,6 @@
+map_id	roi_index	label	area_pixels	area_calibrated	unit	original_fractional_pixels	pixel_difference_percent	roi_roundtrip_pixels_equal
+fig03	0	DM	20828	23.933352484918128	mm^2	20794.75	0.15989612762836775	true
+fig09	0	DM visible fragment	28098	31.22	mm^2	28066.3125	0.11290225604093876	true
+fig10	0	DM visible fragment	106367	66.479375	mm^2	106263.8125	0.09710502340578078	true
+fig11	0	DM visible fragment	113983	299.75805391190005	mm^2	113916.75	0.058156504640450156	true
+fig12	0	DM visible fragment	55029	202.1267217630854	mm^2	54939.125	0.16359015546752884	true

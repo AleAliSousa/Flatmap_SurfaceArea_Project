@@ -32,34 +32,6 @@
       "polygons": [
         [
           [
-            56.0,
-            18.0
-          ],
-          [
-            54.0,
-            54.0
-          ],
-          [
-            53.0,
-            91.0
-          ],
-          [
-            54.0,
-            126.0
-          ],
-          [
-            58.0,
-            164.0
-          ],
-          [
-            65.0,
-            202.0
-          ],
-          [
-            69.0,
-            236.0
-          ],
-          [
             72.0,
             270.0
           ],
@@ -68,33 +40,150 @@
             267.0
           ],
           [
-            162.0,
-            235.0
+            157.84102707481074,
+            261.61742672121113
+          ],
+          [
+            159.30760743741007,
+            255.47013934871597
+          ],
+          [
+            163.68154087146914,
+            227.786704965653
+          ],
+          [
+            163.08841500540095,
+            216.06420062754327
+          ],
+          [
+            163.05232936297278,
+            203.4571959574464
+          ],
+          [
+            163.99999696453898,
+            197.15606490034602
           ],
           [
             163.0,
-            201.0
+            189.95508987676774
           ],
           [
-            163.0,
-            165.0
+            163.26687892542557,
+            154.85860083382852
           ],
           [
-            164.0,
-            127.0
+            165.17134239240244,
+            125.25610103801435
           ],
           [
-            167.0,
-            95.0
+            166.80007389190487,
+            111.86352394300367
           ],
           [
-            172.0,
-            63.0
+            166.85296696016428,
+            101.92507198491028
+          ],
+          [
+            170.61294130006561,
+            63.428142972738065
+          ],
+          [
+            169.22160332057572,
+            61.70612024284027
+          ],
+          [
+            166.86373772735666,
+            60.471179865158824
+          ],
+          [
+            121.56496783730297,
+            42.864862163536365
+          ],
+          [
+            119.26248343077154,
+            41.334795295657855
+          ],
+          [
+            115.22262467232565,
+            36.817933419110375
+          ],
+          [
+            112.90883806470187,
+            35.317001114047656
+          ],
+          [
+            98.07085638263464,
+            33.75076720267366
+          ],
+          [
+            59.43373303738366,
+            18.801630359364683
+          ],
+          [
+            57.65223460292775,
+            18.22890844293052
+          ],
+          [
+            56.058221299596106,
+            18.33706838349162
+          ],
+          [
+            55.12728994868443,
+            19.612494949405665
+          ],
+          [
+            54.814112880006014,
+            21.487630009289425
+          ],
+          [
+            53.75346420528782,
+            40.409887927499256
+          ],
+          [
+            53.40444033492967,
+            57.529036974511925
+          ],
+          [
+            52.73439492983176,
+            63.81387654958133
+          ],
+          [
+            52.70100704729339,
+            98.04238805528009
+          ],
+          [
+            56.02216388604333,
+            135.65807033014013
+          ],
+          [
+            58.057955804967634,
+            149.92333506043317
+          ],
+          [
+            61.83668974739614,
+            171.02797356703505
+          ],
+          [
+            62.4862864588063,
+            177.31430986988462
+          ],
+          [
+            65.58416400286185,
+            194.13135939475777
+          ],
+          [
+            68.64747866217176,
+            220.16563655199232
+          ],
+          [
+            71.14274005639892,
+            260.63992997597677
           ]
         ]
       ],
       "extent": "partial",
-      "boundary_note": "Visible strip of area 18. Open ends are closed by straight segments between the printed border endpoints. Not a whole-field estimate; endpoint closure is editable."
+      "boundary_note": "Visible strip of area 18. Open ends are closed by straight segments between the printed border endpoints. Not a whole-field estimate; endpoint closure is editable. Precision refinement 2026-10-15: dense source-stroke tracing replaces angular/off-stroke portions; recording symbols remain internal. Short gaps retain source-limited interpolation. Physical calibration and extent interpretation unchanged.",
+      "boundary_note_before_precision_audit": "Visible strip of area 18. Open ends are closed by straight segments between the printed border endpoints. Not a whole-field estimate; endpoint closure is editable."
     }
   ],
   "unmeasured": [
@@ -104,5 +193,19 @@
     }
   ],
   "include_in_whole_hemisphere_summary": false,
-  "specimen_link_status": "linked_existing_case"
+  "specimen_link_status": "linked_existing_case",
+  "precision_audit": {
+    "date": "2026-10-15",
+    "source_review": "completed; provisional anatomical interpretation",
+    "changed_regions": 1,
+    "regions": [
+      {
+        "kind": "rois",
+        "label": "18",
+        "status": "refined",
+        "source_limits": "Stroke-supported refinement; obscured/dashed intervals remain approximate."
+      }
+    ],
+    "previous_geometry": "documentation/rois_before_precision_audit.json"
+  }
 }

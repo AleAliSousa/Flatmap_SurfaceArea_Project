@@ -1,0 +1,1952 @@
+{
+  "fig03": {
+    "map_id": "fig03",
+    "figure": 3,
+    "panel": null,
+    "pdf_page": 5,
+    "printed_page": 385,
+    "species": "Galago garnetti",
+    "specimen": "95-34",
+    "hemisphere": "not assigned",
+    "view_type": "cortical_inset",
+    "hemisphere_relation": "not assigned",
+    "linked_main_map": null,
+    "repeat_of": null,
+    "specimen_link_status": "caption_identified",
+    "relationship_note": "View is not an additional animal. No cross-paper pooling; matching species alone does not establish specimen identity.",
+    "include_in_whole_hemisphere_summary": false,
+    "outline_scope": "none",
+    "render_scale": 2,
+    "crop_xyxy": [
+      844,
+      415,
+      978,
+      638
+    ],
+    "supersample": 4,
+    "scale_length_mm": 4,
+    "scale_endpoints_px": [
+      [
+        64,
+        169
+      ],
+      [
+        123,
+        169
+      ]
+    ],
+    "scale_note": "Own printed scale stroke; local endpoints and caption length.",
+    "scale_reference_map": null,
+    "outline": null,
+    "rois": [
+      {
+        "label": "DM",
+        "polygons": [
+          [
+            [
+              39,
+              178
+            ],
+            [
+              33,
+              167
+            ],
+            [
+              29,
+              150
+            ],
+            [
+              27,
+              128
+            ],
+            [
+              26,
+              102
+            ],
+            [
+              25,
+              73
+            ],
+            [
+              26,
+              51
+            ],
+            [
+              29,
+              41
+            ],
+            [
+              38,
+              35
+            ],
+            [
+              52,
+              31
+            ],
+            [
+              64,
+              30
+            ],
+            [
+              72,
+              32
+            ],
+            [
+              77,
+              41
+            ],
+            [
+              80,
+              56
+            ],
+            [
+              78,
+              74
+            ],
+            [
+              75,
+              93
+            ],
+            [
+              68,
+              113
+            ],
+            [
+              58,
+              136
+            ],
+            [
+              48,
+              159
+            ]
+          ]
+        ],
+        "extent": "complete",
+        "boundary_note": "DM envelope around, not around individual, tracer deposits. Short obscured intervals at injection sites interpolated; local4mm calibration."
+      }
+    ],
+    "unmeasured": [
+      {
+        "label": "V2",
+        "status": "not_measurable",
+        "reason": "V2 extends outside the inset; no complete field envelope."
+      }
+    ],
+    "review_note": "Provisional source-derived digitization. Partial or repeated view; no whole-neocortex denominator."
+  },
+  "fig04": {
+    "map_id": "fig04",
+    "figure": 4,
+    "panel": null,
+    "pdf_page": 6,
+    "printed_page": 386,
+    "species": "Galago garnetti",
+    "specimen": "95-09",
+    "hemisphere": "not assigned",
+    "view_type": "cortical_inset",
+    "hemisphere_relation": "not assigned",
+    "linked_main_map": null,
+    "repeat_of": null,
+    "specimen_link_status": "caption_identified",
+    "relationship_note": "View is not an additional animal. No cross-paper pooling; matching species alone does not establish specimen identity.",
+    "include_in_whole_hemisphere_summary": false,
+    "outline_scope": "none",
+    "render_scale": 2,
+    "crop_xyxy": [
+      789,
+      731,
+      981,
+      1104
+    ],
+    "supersample": 4,
+    "scale_length_mm": 2,
+    "scale_endpoints_px": [
+      [
+        6,
+        357
+      ],
+      [
+        67,
+        357
+      ]
+    ],
+    "scale_note": "Own printed scale stroke; local endpoints and caption length.",
+    "scale_reference_map": null,
+    "outline": null,
+    "rois": [],
+    "unmeasured": [
+      {
+        "label": "DM",
+        "status": "not_measurable",
+        "reason": "DM caudal border is hidden by the large injection over a substantial interval; V2 continues off-panel. No defensible complete envelope. Injection extent must not substitute for a field border."
+      },
+      {
+        "label": "V2",
+        "status": "not_measurable",
+        "reason": "DM caudal border is hidden by the large injection over a substantial interval; V2 continues off-panel. No defensible complete envelope. Injection extent must not substitute for a field border."
+      }
+    ],
+    "review_note": "Provisional source-derived digitization. Partial or repeated view; no whole-neocortex denominator."
+  },
+  "fig06": {
+    "map_id": "fig06",
+    "figure": 6,
+    "panel": null,
+    "pdf_page": 8,
+    "printed_page": 388,
+    "species": "Aotus trivirgatus",
+    "specimen": "94-3",
+    "hemisphere": "not assigned",
+    "view_type": "cortical_inset",
+    "hemisphere_relation": "not assigned",
+    "linked_main_map": null,
+    "repeat_of": null,
+    "specimen_link_status": "caption_identified",
+    "relationship_note": "View is not an additional animal. No cross-paper pooling; matching species alone does not establish specimen identity.",
+    "include_in_whole_hemisphere_summary": false,
+    "outline_scope": "none",
+    "render_scale": 2,
+    "crop_xyxy": [
+      781,
+      835,
+      985,
+      1149
+    ],
+    "supersample": 4,
+    "scale_length_mm": 2,
+    "scale_endpoints_px": [
+      [
+        95,
+        307
+      ],
+      [
+        170,
+        307
+      ]
+    ],
+    "scale_note": "Own printed scale stroke; local endpoints and caption length.",
+    "scale_reference_map": null,
+    "outline": null,
+    "rois": [],
+    "unmeasured": [
+      {
+        "label": "DM",
+        "status": "not_measurable",
+        "reason": "DM caudal border terminates within the panel; V2 extends off-panel; VPP is a location label beside injection outlines rather than a complete field envelope."
+      },
+      {
+        "label": "V2",
+        "status": "not_measurable",
+        "reason": "DM caudal border terminates within the panel; V2 extends off-panel; VPP is a location label beside injection outlines rather than a complete field envelope."
+      },
+      {
+        "label": "VPP",
+        "status": "not_measurable",
+        "reason": "DM caudal border terminates within the panel; V2 extends off-panel; VPP is a location label beside injection outlines rather than a complete field envelope."
+      }
+    ],
+    "review_note": "Provisional source-derived digitization. Partial or repeated view; no whole-neocortex denominator."
+  },
+  "fig07": {
+    "map_id": "fig07",
+    "figure": 7,
+    "panel": null,
+    "pdf_page": 9,
+    "printed_page": 389,
+    "species": "Aotus trivirgatus",
+    "specimen": "93-36",
+    "hemisphere": "not assigned",
+    "view_type": "cortical_inset",
+    "hemisphere_relation": "not assigned",
+    "linked_main_map": null,
+    "repeat_of": null,
+    "specimen_link_status": "caption_identified",
+    "relationship_note": "View is not an additional animal. No cross-paper pooling; matching species alone does not establish specimen identity.",
+    "include_in_whole_hemisphere_summary": false,
+    "outline_scope": "none",
+    "render_scale": 2,
+    "crop_xyxy": [
+      778,
+      872,
+      993,
+      1176
+    ],
+    "supersample": 4,
+    "scale_length_mm": 2,
+    "scale_endpoints_px": [
+      [
+        46,
+        291
+      ],
+      [
+        114,
+        291
+      ]
+    ],
+    "scale_note": "Own printed scale stroke; local endpoints and caption length.",
+    "scale_reference_map": null,
+    "outline": null,
+    "rois": [],
+    "unmeasured": [
+      {
+        "label": "DM",
+        "status": "not_measurable",
+        "reason": "Large injection obscures the caudal DM border; V2 continues off-panel and no complete VPP envelope is shown."
+      },
+      {
+        "label": "V2",
+        "status": "not_measurable",
+        "reason": "Large injection obscures the caudal DM border; V2 continues off-panel and no complete VPP envelope is shown."
+      },
+      {
+        "label": "VPP",
+        "status": "not_measurable",
+        "reason": "Large injection obscures the caudal DM border; V2 continues off-panel and no complete VPP envelope is shown."
+      }
+    ],
+    "review_note": "Provisional source-derived digitization. Partial or repeated view; no whole-neocortex denominator."
+  },
+  "fig09": {
+    "map_id": "fig09",
+    "figure": 9,
+    "panel": null,
+    "pdf_page": 11,
+    "printed_page": 391,
+    "species": "Saimiri sciureus",
+    "specimen": "94-71",
+    "hemisphere": "not assigned",
+    "view_type": "cortical_inset",
+    "hemisphere_relation": "not assigned",
+    "linked_main_map": null,
+    "repeat_of": null,
+    "specimen_link_status": "caption_identified",
+    "relationship_note": "View is not an additional animal. No cross-paper pooling; matching species alone does not establish specimen identity.",
+    "include_in_whole_hemisphere_summary": false,
+    "outline_scope": "none",
+    "render_scale": 2,
+    "crop_xyxy": [
+      830,
+      988,
+      954,
+      1163
+    ],
+    "supersample": 4,
+    "scale_length_mm": 2,
+    "scale_endpoints_px": [
+      [
+        74,
+        165
+      ],
+      [
+        104,
+        165
+      ]
+    ],
+    "scale_note": "Own printed scale stroke; local endpoints and caption length.",
+    "scale_reference_map": null,
+    "outline": null,
+    "rois": [
+      {
+        "label": "DM visible fragment",
+        "polygons": [
+          [
+            [
+              111,
+              6
+            ],
+            [
+              98,
+              29
+            ],
+            [
+              85,
+              57
+            ],
+            [
+              72,
+              86
+            ],
+            [
+              56,
+              118
+            ],
+            [
+              42,
+              148
+            ],
+            [
+              31,
+              162
+            ],
+            [
+              27,
+              139
+            ],
+            [
+              25,
+              115
+            ],
+            [
+              21,
+              92
+            ],
+            [
+              17,
+              71
+            ],
+            [
+              14,
+              48
+            ],
+            [
+              14,
+              37
+            ],
+            [
+              21,
+              29
+            ],
+            [
+              36,
+              21
+            ],
+            [
+              53,
+              15
+            ],
+            [
+              72,
+              11
+            ],
+            [
+              92,
+              8
+            ]
+          ]
+        ],
+        "extent": "partial",
+        "boundary_note": "Manual trace of the visible DM gray outline; fine probe track and injection outlines touching the border are retained within the anatomical envelope. Short obscured border intervals are interpolated. Frame contacts prevent a certified complete-field extent."
+      }
+    ],
+    "unmeasured": [
+      {
+        "label": "DM",
+        "status": "not_measurable",
+        "reason": "Complete DM and V2 extend outside the inset; only the visible DM fragment is measured."
+      },
+      {
+        "label": "V2",
+        "status": "not_measurable",
+        "reason": "Complete DM and V2 extend outside the inset; only the visible DM fragment is measured."
+      }
+    ],
+    "review_note": "Provisional source-derived digitization. Partial or repeated view; no whole-neocortex denominator."
+  },
+  "fig10": {
+    "map_id": "fig10",
+    "figure": 10,
+    "panel": null,
+    "pdf_page": 12,
+    "printed_page": 392,
+    "species": "Saimiri sciureus",
+    "specimen": "95-01",
+    "hemisphere": "not assigned",
+    "view_type": "cortical_inset",
+    "hemisphere_relation": "not assigned",
+    "linked_main_map": null,
+    "repeat_of": null,
+    "specimen_link_status": "caption_identified",
+    "relationship_note": "View is not an additional animal. No cross-paper pooling; matching species alone does not establish specimen identity.",
+    "include_in_whole_hemisphere_summary": false,
+    "outline_scope": "none",
+    "render_scale": 2,
+    "crop_xyxy": [
+      773,
+      773,
+      994,
+      1134
+    ],
+    "supersample": 4,
+    "scale_length_mm": 4,
+    "scale_endpoints_px": [
+      [
+        128,
+        337
+      ],
+      [
+        208,
+        337
+      ]
+    ],
+    "scale_note": "Own printed scale stroke; local endpoints and caption length.",
+    "scale_reference_map": null,
+    "outline": null,
+    "rois": [
+      {
+        "label": "DM visible fragment",
+        "polygons": [
+          [
+            [
+              131.0,
+              12.0
+            ],
+            [
+              141.0,
+              12.0
+            ],
+            [
+              141.0,
+              15.0
+            ],
+            [
+              139.0,
+              17.0
+            ],
+            [
+              139.0,
+              32.0
+            ],
+            [
+              140.0,
+              32.0
+            ],
+            [
+              140.0,
+              37.0
+            ],
+            [
+              141.0,
+              37.0
+            ],
+            [
+              142.0,
+              48.0
+            ],
+            [
+              143.0,
+              48.0
+            ],
+            [
+              143.0,
+              51.0
+            ],
+            [
+              144.0,
+              51.0
+            ],
+            [
+              144.0,
+              54.0
+            ],
+            [
+              145.0,
+              54.0
+            ],
+            [
+              146.0,
+              65.0
+            ],
+            [
+              147.0,
+              65.0
+            ],
+            [
+              147.0,
+              69.0
+            ],
+            [
+              148.0,
+              69.0
+            ],
+            [
+              148.0,
+              75.0
+            ],
+            [
+              149.0,
+              75.0
+            ],
+            [
+              149.0,
+              79.0
+            ],
+            [
+              150.0,
+              79.0
+            ],
+            [
+              150.0,
+              82.0
+            ],
+            [
+              151.0,
+              82.0
+            ],
+            [
+              152.0,
+              99.0
+            ],
+            [
+              153.0,
+              99.0
+            ],
+            [
+              153.0,
+              115.0
+            ],
+            [
+              154.0,
+              115.0
+            ],
+            [
+              155.0,
+              156.0
+            ],
+            [
+              154.0,
+              156.0
+            ],
+            [
+              154.0,
+              168.0
+            ],
+            [
+              145.0,
+              167.0
+            ],
+            [
+              142.0,
+              171.0
+            ],
+            [
+              142.0,
+              174.0
+            ],
+            [
+              141.0,
+              174.0
+            ],
+            [
+              142.0,
+              182.0
+            ],
+            [
+              146.0,
+              186.0
+            ],
+            [
+              151.0,
+              185.0
+            ],
+            [
+              151.0,
+              190.0
+            ],
+            [
+              149.0,
+              192.0
+            ],
+            [
+              145.0,
+              213.0
+            ],
+            [
+              144.0,
+              213.0
+            ],
+            [
+              144.0,
+              216.0
+            ],
+            [
+              143.0,
+              216.0
+            ],
+            [
+              143.0,
+              219.0
+            ],
+            [
+              142.0,
+              219.0
+            ],
+            [
+              142.0,
+              222.0
+            ],
+            [
+              141.0,
+              222.0
+            ],
+            [
+              141.0,
+              226.0
+            ],
+            [
+              140.0,
+              226.0
+            ],
+            [
+              140.0,
+              231.0
+            ],
+            [
+              139.0,
+              231.0
+            ],
+            [
+              138.0,
+              237.0
+            ],
+            [
+              136.0,
+              239.0
+            ],
+            [
+              136.0,
+              243.0
+            ],
+            [
+              135.0,
+              243.0
+            ],
+            [
+              135.0,
+              246.0
+            ],
+            [
+              134.0,
+              246.0
+            ],
+            [
+              132.0,
+              257.0
+            ],
+            [
+              130.0,
+              259.0
+            ],
+            [
+              130.0,
+              263.0
+            ],
+            [
+              129.0,
+              263.0
+            ],
+            [
+              129.0,
+              267.0
+            ],
+            [
+              128.0,
+              267.0
+            ],
+            [
+              128.0,
+              271.0
+            ],
+            [
+              127.0,
+              271.0
+            ],
+            [
+              127.0,
+              276.0
+            ],
+            [
+              126.0,
+              276.0
+            ],
+            [
+              125.0,
+              281.0
+            ],
+            [
+              124.0,
+              281.0
+            ],
+            [
+              123.0,
+              290.0
+            ],
+            [
+              122.0,
+              290.0
+            ],
+            [
+              122.0,
+              294.0
+            ],
+            [
+              121.0,
+              294.0
+            ],
+            [
+              121.0,
+              299.0
+            ],
+            [
+              120.0,
+              299.0
+            ],
+            [
+              119.0,
+              304.0
+            ],
+            [
+              118.0,
+              304.0
+            ],
+            [
+              116.0,
+              318.0
+            ],
+            [
+              115.0,
+              318.0
+            ],
+            [
+              115.0,
+              322.0
+            ],
+            [
+              113.0,
+              324.0
+            ],
+            [
+              111.0,
+              337.0
+            ],
+            [
+              110.0,
+              337.0
+            ],
+            [
+              110.0,
+              341.0
+            ],
+            [
+              109.0,
+              341.0
+            ],
+            [
+              108.0,
+              337.0
+            ],
+            [
+              107.0,
+              337.0
+            ],
+            [
+              107.0,
+              334.0
+            ],
+            [
+              105.0,
+              332.0
+            ],
+            [
+              105.0,
+              329.0
+            ],
+            [
+              102.0,
+              326.0
+            ],
+            [
+              102.0,
+              323.0
+            ],
+            [
+              100.0,
+              321.0
+            ],
+            [
+              99.0,
+              315.0
+            ],
+            [
+              96.0,
+              312.0
+            ],
+            [
+              96.0,
+              309.0
+            ],
+            [
+              95.0,
+              309.0
+            ],
+            [
+              94.0,
+              304.0
+            ],
+            [
+              93.0,
+              304.0
+            ],
+            [
+              93.0,
+              302.0
+            ],
+            [
+              92.0,
+              302.0
+            ],
+            [
+              92.0,
+              300.0
+            ],
+            [
+              89.0,
+              296.0
+            ],
+            [
+              87.0,
+              288.0
+            ],
+            [
+              84.0,
+              285.0
+            ],
+            [
+              82.0,
+              277.0
+            ],
+            [
+              81.0,
+              277.0
+            ],
+            [
+              81.0,
+              275.0
+            ],
+            [
+              80.0,
+              275.0
+            ],
+            [
+              80.0,
+              273.0
+            ],
+            [
+              77.0,
+              269.0
+            ],
+            [
+              76.0,
+              263.0
+            ],
+            [
+              75.0,
+              263.0
+            ],
+            [
+              74.0,
+              259.0
+            ],
+            [
+              72.0,
+              258.0
+            ],
+            [
+              71.0,
+              252.0
+            ],
+            [
+              70.0,
+              252.0
+            ],
+            [
+              70.0,
+              250.0
+            ],
+            [
+              69.0,
+              250.0
+            ],
+            [
+              69.0,
+              248.0
+            ],
+            [
+              66.0,
+              244.0
+            ],
+            [
+              64.0,
+              236.0
+            ],
+            [
+              63.0,
+              236.0
+            ],
+            [
+              62.0,
+              232.0
+            ],
+            [
+              60.0,
+              231.0
+            ],
+            [
+              59.0,
+              225.0
+            ],
+            [
+              57.0,
+              223.0
+            ],
+            [
+              56.0,
+              218.0
+            ],
+            [
+              54.0,
+              217.0
+            ],
+            [
+              51.0,
+              206.0
+            ],
+            [
+              49.0,
+              205.0
+            ],
+            [
+              48.0,
+              200.0
+            ],
+            [
+              46.0,
+              198.0
+            ],
+            [
+              46.0,
+              195.0
+            ],
+            [
+              45.0,
+              195.0
+            ],
+            [
+              45.0,
+              193.0
+            ],
+            [
+              42.0,
+              189.0
+            ],
+            [
+              42.0,
+              185.0
+            ],
+            [
+              40.0,
+              183.0
+            ],
+            [
+              39.0,
+              175.0
+            ],
+            [
+              38.0,
+              175.0
+            ],
+            [
+              38.0,
+              172.0
+            ],
+            [
+              36.0,
+              170.0
+            ],
+            [
+              36.0,
+              165.0
+            ],
+            [
+              35.0,
+              165.0
+            ],
+            [
+              35.0,
+              161.0
+            ],
+            [
+              34.0,
+              161.0
+            ],
+            [
+              32.0,
+              146.0
+            ],
+            [
+              31.0,
+              146.0
+            ],
+            [
+              31.0,
+              143.0
+            ],
+            [
+              30.0,
+              143.0
+            ],
+            [
+              28.0,
+              118.0
+            ],
+            [
+              27.0,
+              118.0
+            ],
+            [
+              27.0,
+              105.0
+            ],
+            [
+              28.0,
+              105.0
+            ],
+            [
+              30.0,
+              97.0
+            ],
+            [
+              33.0,
+              95.0
+            ],
+            [
+              33.0,
+              93.0
+            ],
+            [
+              36.0,
+              91.0
+            ],
+            [
+              36.0,
+              89.0
+            ],
+            [
+              60.0,
+              67.0
+            ],
+            [
+              60.0,
+              65.0
+            ],
+            [
+              70.0,
+              55.0
+            ],
+            [
+              72.0,
+              50.0
+            ],
+            [
+              75.0,
+              49.0
+            ],
+            [
+              77.0,
+              44.0
+            ],
+            [
+              80.0,
+              43.0
+            ],
+            [
+              81.0,
+              40.0
+            ],
+            [
+              85.0,
+              36.0
+            ],
+            [
+              87.0,
+              36.0
+            ],
+            [
+              87.0,
+              34.0
+            ],
+            [
+              90.0,
+              31.0
+            ],
+            [
+              92.0,
+              31.0
+            ],
+            [
+              95.0,
+              27.0
+            ],
+            [
+              97.0,
+              27.0
+            ],
+            [
+              98.0,
+              25.0
+            ],
+            [
+              100.0,
+              25.0
+            ],
+            [
+              101.0,
+              23.0
+            ],
+            [
+              103.0,
+              23.0
+            ],
+            [
+              104.0,
+              21.0
+            ],
+            [
+              106.0,
+              21.0
+            ],
+            [
+              106.0,
+              20.0
+            ],
+            [
+              108.0,
+              20.0
+            ],
+            [
+              112.0,
+              17.0
+            ],
+            [
+              115.0,
+              17.0
+            ],
+            [
+              119.0,
+              14.0
+            ],
+            [
+              131.0,
+              13.0
+            ]
+          ]
+        ],
+        "extent": "partial",
+        "boundary_note": "Visible DM envelope extracted against fine gray outlines at grayscale<235 and visually inspected. Panel frame defines any clipped edge; retained as visible fragment because full field extent is not independently established. Injection and probe marks are retained."
+      }
+    ],
+    "unmeasured": [
+      {
+        "label": "DM",
+        "status": "not_measurable",
+        "reason": "Full DM is clipped at the superior frame; V2 continues outside panel."
+      },
+      {
+        "label": "V2",
+        "status": "not_measurable",
+        "reason": "Full DM is clipped at the superior frame; V2 continues outside panel."
+      }
+    ],
+    "review_note": "Provisional source-derived digitization. Partial or repeated view; no whole-neocortex denominator."
+  },
+  "fig11": {
+    "map_id": "fig11",
+    "figure": 11,
+    "panel": null,
+    "pdf_page": 13,
+    "printed_page": 393,
+    "species": "Macaca sp.",
+    "specimen": "95-74",
+    "hemisphere": "not assigned",
+    "view_type": "cortical_inset",
+    "hemisphere_relation": "not assigned",
+    "linked_main_map": null,
+    "repeat_of": null,
+    "specimen_link_status": "caption_identified",
+    "relationship_note": "Methods list three Macaca nemestrina and one M.fascicularis (source spelling fasicularis); case-specific species unresolved. No assignment from genus alone.",
+    "include_in_whole_hemisphere_summary": false,
+    "outline_scope": "none",
+    "render_scale": 2,
+    "crop_xyxy": [
+      789,
+      830,
+      987,
+      1123
+    ],
+    "supersample": 4,
+    "scale_length_mm": 4,
+    "scale_endpoints_px": [
+      [
+        99,
+        286
+      ],
+      [
+        138,
+        286
+      ]
+    ],
+    "scale_note": "Own printed scale stroke; local endpoints and caption length.",
+    "scale_reference_map": null,
+    "outline": null,
+    "rois": [
+      {
+        "label": "DM visible fragment",
+        "polygons": [
+          [
+            [
+              69,
+              2
+            ],
+            [
+              85,
+              2
+            ],
+            [
+              107,
+              4
+            ],
+            [
+              122,
+              11
+            ],
+            [
+              131,
+              26
+            ],
+            [
+              141,
+              49
+            ],
+            [
+              152,
+              79
+            ],
+            [
+              163,
+              115
+            ],
+            [
+              173,
+              151
+            ],
+            [
+              181,
+              178
+            ],
+            [
+              181,
+              202
+            ],
+            [
+              176,
+              226
+            ],
+            [
+              169,
+              252
+            ],
+            [
+              163,
+              284
+            ],
+            [
+              141,
+              271
+            ],
+            [
+              116,
+              253
+            ],
+            [
+              93,
+              233
+            ],
+            [
+              69,
+              210
+            ],
+            [
+              50,
+              187
+            ],
+            [
+              38,
+              163
+            ],
+            [
+              28,
+              138
+            ],
+            [
+              22,
+              116
+            ],
+            [
+              24,
+              97
+            ],
+            [
+              30,
+              77
+            ],
+            [
+              34,
+              57
+            ],
+            [
+              41,
+              33
+            ],
+            [
+              52,
+              14
+            ]
+          ]
+        ],
+        "extent": "partial",
+        "boundary_note": "Manual trace of the visible DM gray outline; fine probe track and injection outlines touching the border are retained within the anatomical envelope. Short obscured border intervals are interpolated. Frame contacts prevent a certified complete-field extent."
+      }
+    ],
+    "unmeasured": [
+      {
+        "label": "DM",
+        "status": "not_measurable",
+        "reason": "The complete superior/inferior extent is clipped or coincides with the frame."
+      }
+    ],
+    "review_note": "Provisional source-derived digitization. Partial or repeated view; no whole-neocortex denominator."
+  },
+  "fig12": {
+    "map_id": "fig12",
+    "figure": 12,
+    "panel": null,
+    "pdf_page": 14,
+    "printed_page": 394,
+    "species": "Macaca sp.",
+    "specimen": "96-09",
+    "hemisphere": "not assigned",
+    "view_type": "cortical_inset",
+    "hemisphere_relation": "not assigned",
+    "linked_main_map": null,
+    "repeat_of": null,
+    "specimen_link_status": "caption_identified",
+    "relationship_note": "Case96-09: source methods contain two Macaca species without an explicit per-case assignment.",
+    "include_in_whole_hemisphere_summary": false,
+    "outline_scope": "none",
+    "render_scale": 2,
+    "crop_xyxy": [
+      819,
+      175,
+      986,
+      388
+    ],
+    "supersample": 4,
+    "scale_length_mm": 4,
+    "scale_endpoints_px": [
+      [
+        114,
+        202
+      ],
+      [
+        147,
+        202
+      ]
+    ],
+    "scale_note": "Own printed scale stroke; local endpoints and caption length.",
+    "scale_reference_map": null,
+    "outline": null,
+    "rois": [
+      {
+        "label": "DM visible fragment",
+        "polygons": [
+          [
+            [
+              30.0,
+              9.0
+            ],
+            [
+              32.0,
+              9.0
+            ],
+            [
+              36.0,
+              14.0
+            ],
+            [
+              38.0,
+              14.0
+            ],
+            [
+              40.0,
+              16.0
+            ],
+            [
+              40.0,
+              18.0
+            ],
+            [
+              43.0,
+              19.0
+            ],
+            [
+              46.0,
+              22.0
+            ],
+            [
+              46.0,
+              24.0
+            ],
+            [
+              48.0,
+              26.0
+            ],
+            [
+              50.0,
+              26.0
+            ],
+            [
+              52.0,
+              28.0
+            ],
+            [
+              52.0,
+              30.0
+            ],
+            [
+              54.0,
+              32.0
+            ],
+            [
+              56.0,
+              32.0
+            ],
+            [
+              60.0,
+              38.0
+            ],
+            [
+              63.0,
+              39.0
+            ],
+            [
+              63.0,
+              41.0
+            ],
+            [
+              69.0,
+              46.0
+            ],
+            [
+              69.0,
+              48.0
+            ],
+            [
+              80.0,
+              59.0
+            ],
+            [
+              80.0,
+              61.0
+            ],
+            [
+              84.0,
+              64.0
+            ],
+            [
+              84.0,
+              66.0
+            ],
+            [
+              88.0,
+              69.0
+            ],
+            [
+              88.0,
+              71.0
+            ],
+            [
+              93.0,
+              75.0
+            ],
+            [
+              94.0,
+              79.0
+            ],
+            [
+              99.0,
+              84.0
+            ],
+            [
+              100.0,
+              88.0
+            ],
+            [
+              105.0,
+              93.0
+            ],
+            [
+              106.0,
+              97.0
+            ],
+            [
+              108.0,
+              98.0
+            ],
+            [
+              111.0,
+              105.0
+            ],
+            [
+              113.0,
+              106.0
+            ],
+            [
+              114.0,
+              111.0
+            ],
+            [
+              116.0,
+              111.0
+            ],
+            [
+              117.0,
+              116.0
+            ],
+            [
+              118.0,
+              116.0
+            ],
+            [
+              118.0,
+              118.0
+            ],
+            [
+              119.0,
+              118.0
+            ],
+            [
+              120.0,
+              122.0
+            ],
+            [
+              122.0,
+              123.0
+            ],
+            [
+              122.0,
+              126.0
+            ],
+            [
+              125.0,
+              130.0
+            ],
+            [
+              125.0,
+              133.0
+            ],
+            [
+              129.0,
+              138.0
+            ],
+            [
+              129.0,
+              141.0
+            ],
+            [
+              132.0,
+              145.0
+            ],
+            [
+              132.0,
+              148.0
+            ],
+            [
+              134.0,
+              148.0
+            ],
+            [
+              136.0,
+              156.0
+            ],
+            [
+              137.0,
+              156.0
+            ],
+            [
+              138.0,
+              160.0
+            ],
+            [
+              140.0,
+              161.0
+            ],
+            [
+              141.0,
+              166.0
+            ],
+            [
+              142.0,
+              166.0
+            ],
+            [
+              142.0,
+              168.0
+            ],
+            [
+              143.0,
+              168.0
+            ],
+            [
+              143.0,
+              170.0
+            ],
+            [
+              146.0,
+              174.0
+            ],
+            [
+              145.0,
+              178.0
+            ],
+            [
+              134.0,
+              179.0
+            ],
+            [
+              134.0,
+              180.0
+            ],
+            [
+              125.0,
+              180.0
+            ],
+            [
+              125.0,
+              181.0
+            ],
+            [
+              88.0,
+              181.0
+            ],
+            [
+              88.0,
+              180.0
+            ],
+            [
+              76.0,
+              179.0
+            ],
+            [
+              76.0,
+              178.0
+            ],
+            [
+              72.0,
+              178.0
+            ],
+            [
+              70.0,
+              176.0
+            ],
+            [
+              58.0,
+              173.0
+            ],
+            [
+              55.0,
+              170.0
+            ],
+            [
+              53.0,
+              170.0
+            ],
+            [
+              52.0,
+              168.0
+            ],
+            [
+              46.0,
+              166.0
+            ],
+            [
+              43.0,
+              162.0
+            ],
+            [
+              38.0,
+              160.0
+            ],
+            [
+              38.0,
+              158.0
+            ],
+            [
+              35.0,
+              155.0
+            ],
+            [
+              33.0,
+              155.0
+            ],
+            [
+              32.0,
+              152.0
+            ],
+            [
+              28.0,
+              149.0
+            ],
+            [
+              28.0,
+              147.0
+            ],
+            [
+              25.0,
+              144.0
+            ],
+            [
+              24.0,
+              140.0
+            ],
+            [
+              20.0,
+              136.0
+            ],
+            [
+              19.0,
+              130.0
+            ],
+            [
+              16.0,
+              126.0
+            ],
+            [
+              16.0,
+              122.0
+            ],
+            [
+              15.0,
+              122.0
+            ],
+            [
+              15.0,
+              119.0
+            ],
+            [
+              14.0,
+              119.0
+            ],
+            [
+              13.0,
+              106.0
+            ],
+            [
+              12.0,
+              106.0
+            ],
+            [
+              12.0,
+              93.0
+            ],
+            [
+              10.0,
+              92.0
+            ],
+            [
+              10.0,
+              75.0
+            ],
+            [
+              12.0,
+              74.0
+            ],
+            [
+              12.0,
+              60.0
+            ],
+            [
+              13.0,
+              60.0
+            ],
+            [
+              13.0,
+              52.0
+            ],
+            [
+              14.0,
+              52.0
+            ],
+            [
+              16.0,
+              38.0
+            ],
+            [
+              18.0,
+              36.0
+            ],
+            [
+              19.0,
+              29.0
+            ],
+            [
+              20.0,
+              29.0
+            ],
+            [
+              20.0,
+              26.0
+            ],
+            [
+              22.0,
+              24.0
+            ],
+            [
+              22.0,
+              21.0
+            ],
+            [
+              24.0,
+              20.0
+            ],
+            [
+              26.0,
+              14.0
+            ],
+            [
+              28.0,
+              13.0
+            ],
+            [
+              28.0,
+              11.0
+            ]
+          ]
+        ],
+        "extent": "partial",
+        "boundary_note": "Visible DM envelope extracted against fine gray outlines at grayscale<235 and visually inspected. Panel frame defines any clipped edge; retained as visible fragment because full field extent is not independently established. Injection and probe marks are retained."
+      }
+    ],
+    "unmeasured": [
+      {
+        "label": "DM",
+        "status": "not_measurable",
+        "reason": "Complete field extent beyond inset not established."
+      },
+      {
+        "label": "V2",
+        "status": "not_measurable",
+        "reason": "Complete field extent beyond inset not established."
+      }
+    ],
+    "review_note": "Provisional source-derived digitization. Partial or repeated view; no whole-neocortex denominator."
+  }
+}

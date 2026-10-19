@@ -1,1 +1,1 @@
-ImageJ 1.54p; Java 17.0.8.1; 4 ROIs verified
+ImageJ 1.54p; Java 17.0.8.1; 117 ROIs verified

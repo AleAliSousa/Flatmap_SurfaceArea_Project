@@ -1,0 +1,355 @@
+paper,map_id,label,kind,status,source_limits
+Krubitzer_Kaas_1990,fig01flat,17,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig01flat,18,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig01flat,DM,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig01flat,DI,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig01flat,DL,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig01flat,MT,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig01flat,MST,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig01flat,FST,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig01flat,SI,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig01flat,AI,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig02A,17,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig02A,18,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig02B,17,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig02B,18,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig02C,MT,rois,retained_source_limited,Photographic border marked by dots: retained existing marker-to-marker interpolation. No unique continuous ink edge exists between markers.
+Krubitzer_Kaas_1990,fig02D,MT,rois,retained_source_limited,Photographic border marked by dots: retained existing marker-to-marker interpolation. No unique continuous ink edge exists between markers.
+Krubitzer_Kaas_1990,fig02E,MT,rois,retained_source_limited,Photographic border marked by dots: retained existing marker-to-marker interpolation. No unique continuous ink edge exists between markers.
+Krubitzer_Kaas_1990,fig04A,DM,rois,retained_source_limited,Photographic border marked by dots: retained existing marker-to-marker interpolation. No unique continuous ink edge exists between markers.
+Krubitzer_Kaas_1990,fig04A,DI,rois,retained_source_limited,Photographic border marked by dots: retained existing marker-to-marker interpolation. No unique continuous ink edge exists between markers.
+Krubitzer_Kaas_1990,fig04C,DM,rois,retained_source_limited,Photographic border marked by dots: retained existing marker-to-marker interpolation. No unique continuous ink edge exists between markers.
+Krubitzer_Kaas_1990,fig04C,DI,rois,retained_source_limited,Photographic border marked by dots: retained existing marker-to-marker interpolation. No unique continuous ink edge exists between markers.
+Krubitzer_Kaas_1990,fig04D,DM,rois,retained_source_limited,Photographic border marked by dots: retained existing marker-to-marker interpolation. No unique continuous ink edge exists between markers.
+Krubitzer_Kaas_1990,fig04D,DI,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig04E,MT,rois,retained_source_limited,Photographic border marked by dots: retained existing marker-to-marker interpolation. No unique continuous ink edge exists between markers.
+Krubitzer_Kaas_1990,fig04E,DL,rois,retained_source_limited,Photographic border marked by dots: retained existing marker-to-marker interpolation. No unique continuous ink edge exists between markers.
+Krubitzer_Kaas_1990,fig04E,FST,rois,retained_source_limited,Photographic border marked by dots: retained existing marker-to-marker interpolation. No unique continuous ink edge exists between markers.
+Krubitzer_Kaas_1990,fig04F,MT,rois,retained_source_limited,Photographic border marked by dots: retained existing marker-to-marker interpolation. No unique continuous ink edge exists between markers.
+Krubitzer_Kaas_1990,fig04F,FST,rois,retained_source_limited,Photographic border marked by dots: retained existing marker-to-marker interpolation. No unique continuous ink edge exists between markers.
+Krubitzer_Kaas_1990,fig04G,DM,rois,retained_source_limited,Photographic border marked by dots: retained existing marker-to-marker interpolation. No unique continuous ink edge exists between markers.
+Krubitzer_Kaas_1990,fig04G,DI,rois,retained_source_limited,Photographic border marked by dots: retained existing marker-to-marker interpolation. No unique continuous ink edge exists between markers.
+Krubitzer_Kaas_1990,fig04G,MT,rois,retained_source_limited,Photographic border marked by dots: retained existing marker-to-marker interpolation. No unique continuous ink edge exists between markers.
+Krubitzer_Kaas_1990,fig04G,MST,rois,retained_source_limited,Photographic border marked by dots: retained existing marker-to-marker interpolation. No unique continuous ink edge exists between markers.
+Krubitzer_Kaas_1990,fig04G,FST,rois,retained_source_limited,Photographic border marked by dots: retained existing marker-to-marker interpolation. No unique continuous ink edge exists between markers.
+Krubitzer_Kaas_1990,fig04H,MT,rois,retained_source_limited,Photographic border marked by dots: retained existing marker-to-marker interpolation. No unique continuous ink edge exists between markers.
+Krubitzer_Kaas_1990,fig04H,AI,rois,retained_source_limited,Photographic border marked by dots: retained existing marker-to-marker interpolation. No unique continuous ink edge exists between markers.
+Krubitzer_Kaas_1990,fig06A,DM,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig06A,DI,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig06A,MT,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig06B,MT,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig06B,17,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig06B,18,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig06B,DM,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig06B,DI,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig06B,DL,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig06B,MST,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig06B,FST,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig06C,MT,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig06C,DI,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig06C,DM,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig06D,18,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig06D,DM,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig06D,DI,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig06D,DL,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig06D,MT,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig06D,MST,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig06D,FST,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig09G,18,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig10A,17,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig10A,18,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig10B,17,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig10B,18,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig10C,17,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig10C,18,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig10D,17,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig10D,18,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig10E,17,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig10E,18,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig10F,17,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig10F,18,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig11A,18,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig11B,18,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig11C,18,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig11D,18,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig12,17,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig12,18,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig12,DM,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig12,DI,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig12,DL,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig12,MT,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig12,MST,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig12,FST,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig12,3b,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig12,3a,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig12,1,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig12,2,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig12,SII,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig12,PV/IG,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig12,FEF,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig12,FV,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig13,17,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig13,18,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig13,DM,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig13,DI,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig13,DL,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig13,MT,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig13,MST,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig13,FST,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig13,3b,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig13,3a,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig13,1,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig13,2,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig13,SII,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig13,PV/IG,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig13,FEF,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig13,FV,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig13,Motor & Premotor,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig14,17,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig14,18,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig14,DM,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig14,DI,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig14,DL,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig14,MT,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig14,MST,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig14,FST,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig14,3b,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig14,3a,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig14,1,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig14,2,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig14,SII,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig14,PV/IG,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig14,FEF,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig15,17,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig15,18,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig15,DM,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig15,DI,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig15,DL,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig15,MT,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig15,MST,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig15,FST,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig15,3b,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig15,3a,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig15,1,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig15,2,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig15,SII,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig15,PV/IG,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig15,FEF,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig15,FV,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig16,17,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig16,18,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig16,DM,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig16,DI,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig16,DL,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig16,MT,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig16,MST,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig16,FST,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig16,3b,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig16,3a,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig16,1,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig16,2,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig16,SII,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig16,PV/IG,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig16,FEF,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig16,FV,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig17,17,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig17,18,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig17,DM,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig17,DI,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig17,DL,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig17,MT,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig17,MST,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig17,FST,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig17,FEF,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig17,FV,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig18,17,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig18,18,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig18,DM,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig18,DI,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig18,DL,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig18,MT,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig18,MST,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig18,FST,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig18,3b,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig18,SII,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig18,PV,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig18,AI,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig18,FEF,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig18,FV,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig18,C,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig19,DM,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig19,DI,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig19,DL,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig19,MT,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig19,MST,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig19,FST,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig19,3b,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig19,SII,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig19,AI,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig19,FEF,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig19,FV,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig20,17,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig20,18,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig20,DM,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig20,DI,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig20,DL,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig20,MT,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig20,MST,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig20,FST,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig20,3b,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig20,3a,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig20,SII,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig20,PV,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig20,AI,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig20,FEF,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig20,FV,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig21,17,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig21,18,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig21,DM,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig21,DI,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig21,DL,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig21,MT,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig21,MST,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig21,FST,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig21,3b,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig21,3a,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig21,SII,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig21,PV,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig21,AI,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig21,FEF,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig21,FV,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig22,17,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig22,18,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig22,DM,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig22,DI,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig22,DL,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig22,MT,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig22,MST,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig22,FST,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig22,3b,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig22,M,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig22,SII,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig22,PV,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig22,AI,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig22,FEF,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig22,FV,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig23,17,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig23,18,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig23,DM,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig23,DL,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig23,MT,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig23,MST,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig23,FST,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig23,3b,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig23,MI,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig23,SII,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig23,AI,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig24,17,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig24,18,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig24,DM,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig24,DI,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig24,DL,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig24,MT,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig24,MST,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig24,FST,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig24,3b,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig24,M,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig24,SII,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig24,PV,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig24,AI,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig24,FV,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig25A,MT,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig25B,MT,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig25B,MST,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig25B,FST,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig25C,MT,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig25D,MT,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig25D,MST,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig25E,MT,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig26A,MT,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig26A,MST,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig26A,FST,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig26B,MT,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig26B,MST,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig26B,FST,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig26C,MT,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig26C,MST,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig26C,FST,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig26C,DL,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig26D,MT,rois,refined,Stroke-supported refinement; obscured/dashed intervals remain approximate.
+Krubitzer_Kaas_1990,fig27galago,17,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27galago,18,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27galago,DM,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27galago,DI,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27galago,DL,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27galago,MT,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27galago,MST,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27galago,FST,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27galago,3b,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27galago,SII,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27galago,PV,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27galago,AI,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27galago,FEF,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27galago,FV,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27marmoset,17,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27marmoset,18,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27marmoset,DM,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27marmoset,DI,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27marmoset,DL,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27marmoset,MT,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27marmoset,MST,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27marmoset,FST,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27marmoset,3b,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27marmoset,3a,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27marmoset,SII,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27marmoset,PV,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27marmoset,AI,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27marmoset,FEF,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27marmoset,FV,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27owl,17,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27owl,18,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27owl,DM,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27owl,DI,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27owl,DL,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27owl,MT,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27owl,MST,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27owl,FST,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27owl,3b,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27owl,SII,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27owl,PV,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27owl,AI,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27owl,FEF,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27owl,FV,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27squirrel,17,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27squirrel,18,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27squirrel,DM,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27squirrel,DI,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27squirrel,DL,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27squirrel,MT,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27squirrel,MST,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27squirrel,FST,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27squirrel,2,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27squirrel,1,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27squirrel,3b,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27squirrel,3a,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27squirrel,SII,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27squirrel,PV,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27squirrel,AI,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27squirrel,FEF,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig27squirrel,FV,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig28,17,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig28,18,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig28,V3,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig28,V3a,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig28,DL/V4,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig28,MT,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig28,MST,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig28,FST,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig28,2,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig28,1,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig28,3b,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig28,3a,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig28,SII,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig28,AI,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig28,M (motor),rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."
+Krubitzer_Kaas_1990,fig28,FEF,rois,retained_schematic,"Retained filled schematic geometry; thick/white borders and arrows require its source-specific convention. Illustrative geometry, not a specimen measurement."

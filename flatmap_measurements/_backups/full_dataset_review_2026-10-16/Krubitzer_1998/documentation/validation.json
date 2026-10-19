@@ -1,0 +1,22 @@
+{
+  "processed_views": 9,
+  "measured_fields": 12,
+  "unmeasured_fields": 23,
+  "overlaps": [
+    {
+      "map_id": "fig11A",
+      "field_a": "Vc",
+      "field_b": "Vr",
+      "overlap_pixels": 77
+    }
+  ],
+  "native_imagej_roundtrip": "passed",
+  "anatomical_review": "provisional; pending user review",
+  "reference_comparison": "not_run; core workflow does not require reference data",
+  "geometry_overlap_audit": "passed; overlaps disappear after eroding both masks by2pixels",
+  "all_numbered_figures_assessed": true,
+  "numbered_figures_assessed": 15,
+  "assessment_status": "eligible_views_digitized_provisional",
+  "whole_neocortex_summary": "unavailable; no independently established complete-neocortex view",
+  "source_visual_review": "completed; anatomical certification pending"
+}

@@ -42,5 +42,12 @@
     }
   ],
   "include_in_whole_hemisphere_summary": false,
-  "specimen_link_status": "unlinked_or_summary"
+  "specimen_link_status": "unlinked_or_summary",
+  "precision_audit": {
+    "date": "2026-10-15",
+    "source_review": "completed; provisional anatomical interpretation",
+    "changed_regions": 0,
+    "regions": [],
+    "previous_geometry": "documentation/rois_before_precision_audit.json"
+  }
 }

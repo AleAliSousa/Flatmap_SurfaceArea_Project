@@ -1,0 +1,59 @@
+{
+  "map_id": "fig09",
+  "figure": 9,
+  "panel": null,
+  "pdf_page": 11,
+  "printed_page": 531,
+  "species": "Spermophilus beecheyii",
+  "specimen": "96-31",
+  "hemisphere": "left",
+  "view_type": "physiological_map",
+  "hemisphere_relation": "not assigned",
+  "linked_main_map": null,
+  "repeat_of": null,
+  "specimen_link_status": "caption_identified",
+  "relationship_note": "Repeated views do not represent additional animals. No cross-publication pooling; source labels preserved.",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 4,
+  "crop_xyxy": [
+    460,
+    1440,
+    2010,
+    2580
+  ],
+  "supersample": 4,
+  "scale_length_mm": 1,
+  "scale_endpoints_px": [
+    [
+      17,
+      566
+    ],
+    [
+      190,
+      566
+    ]
+  ],
+  "scale_note": "Own printed scale stroke; local measured endpoints. Endpoints checked on the complete printed stroke, and refined to its visible dark horizontal extent.",
+  "scale_reference_map": null,
+  "outline": null,
+  "rois": [],
+  "unmeasured": [
+    {
+      "label": "SI",
+      "status": "not_measurable",
+      "reason": "Total envelopes are open or truncated by the sampling margin; thin body-part cells are not total fields. Dashed/open recording margins are not closed by a convex hull. Body receptive-field drawings excluded."
+    },
+    {
+      "label": "R",
+      "status": "not_measurable",
+      "reason": "Total envelopes are open or truncated by the sampling margin; thin body-part cells are not total fields. Dashed/open recording margins are not closed by a convex hull. Body receptive-field drawings excluded."
+    },
+    {
+      "label": "PM",
+      "status": "not_measurable",
+      "reason": "Total envelopes are open or truncated by the sampling margin; thin body-part cells are not total fields. Dashed/open recording margins are not closed by a convex hull. Body receptive-field drawings excluded."
+    }
+  ],
+  "review_note": "Dense tracing on 4 pixels/PDF point source rendering. Anatomical interpretation provisional; hide overlay in the precision review to inspect the printed stroke."
+}

@@ -1,0 +1,207 @@
+{
+  "map_id": "fig25A",
+  "figure": 25,
+  "panel": "A",
+  "pdf_page": 31,
+  "printed_page": 195,
+  "specimen": "87-35",
+  "species_as_reported": "Saimiri sciureus",
+  "view_type": "contralateral_partial",
+  "hemisphere_relation": "opposite injected hemisphere",
+  "linked_main_map": "fig12",
+  "relationship_note": "",
+  "outline_label": null,
+  "outline_scope": "none",
+  "scale_length_mm": 5,
+  "scale_endpoints_px": [
+    [
+      157,
+      353
+    ],
+    [
+      227,
+      353
+    ]
+  ],
+  "scale_note": "Own panel scale bar.",
+  "coordinate_system": "x right, y down in source.tif; manual vertices referenced to published lines/dots",
+  "supersample": 3,
+  "rois": [
+    {
+      "label": "MT",
+      "polygons": [
+        [
+          [
+            73.63533917039415,
+            89.63192757117568
+          ],
+          [
+            79.52030384174738,
+            74.41853706252931
+          ],
+          [
+            86.40005414290876,
+            68.10155754456754
+          ],
+          [
+            94.62632102440716,
+            62.358041996712956
+          ],
+          [
+            103.1581960201266,
+            59.33688516770319
+          ],
+          [
+            113.63682243645633,
+            57.31359332032392
+          ],
+          [
+            122.63811410734684,
+            57.05362933745393
+          ],
+          [
+            137.98654058025062,
+            58.12231447593193
+          ],
+          [
+            152.20877152693885,
+            60.90084063215013
+          ],
+          [
+            161.838481930067,
+            64.26486277214472
+          ],
+          [
+            171.91962787177283,
+            69.09416431350559
+          ],
+          [
+            180.91355301886176,
+            75.23173781623466
+          ],
+          [
+            187.67527139945608,
+            82.92929302948194
+          ],
+          [
+            190.17870926878015,
+            87.42257836414004
+          ],
+          [
+            191.7976640548274,
+            94.85116433935832
+          ],
+          [
+            192.7800045242732,
+            108.12517728870792
+          ],
+          [
+            191.43173649597261,
+            114.4444599837182
+          ],
+          [
+            188.23480400230918,
+            122.40542728080493
+          ],
+          [
+            186.3432564617693,
+            125.11894639687758
+          ],
+          [
+            174.9710352619952,
+            133.65292982492426
+          ],
+          [
+            166.9765061972874,
+            137.59643750841894
+          ],
+          [
+            153.89185410754953,
+            140.9404027083709
+          ],
+          [
+            142.2450033060556,
+            142.13125736608677
+          ],
+          [
+            131.88993739066467,
+            141.18833125278653
+          ],
+          [
+            110.9281774312798,
+            138.32867037202496
+          ],
+          [
+            104.82282847279747,
+            137.0264706608483
+          ],
+          [
+            92.47792487079911,
+            132.74640281160598
+          ],
+          [
+            85.80453469834562,
+            128.1154091835865
+          ],
+          [
+            80.31900181497741,
+            122.10941856300883
+          ],
+          [
+            77.37340870067399,
+            117.51954233213468
+          ],
+          [
+            73.91114016552378,
+            110.11073883704637
+          ],
+          [
+            72.28147836396306,
+            103.65974762162702
+          ],
+          [
+            72.03125,
+            99.15301426998826
+          ]
+        ]
+      ],
+      "extent": "complete",
+      "boundary_note": "Manual contour follows the published anatomical boundary; dashed/dotted gaps interpolated. Precision refinement 2026-10-15: dense source-stroke tracing replaces angular/off-stroke portions; recording symbols remain internal. Short gaps retain source-limited interpolation. Physical calibration and extent interpretation unchanged.",
+      "boundary_note_before_precision_audit": "Manual contour follows the published anatomical boundary; dashed/dotted gaps interpolated."
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "MST",
+      "reason": "No complete boundary in the visible panel; open or cropped territory cannot be interpreted as a complete field."
+    },
+    {
+      "label": "FST",
+      "reason": "No complete boundary in the visible panel; open or cropped territory cannot be interpreted as a complete field."
+    },
+    {
+      "label": "DL",
+      "reason": "No complete boundary in the visible panel; open or cropped territory cannot be interpreted as a complete field."
+    },
+    {
+      "label": "IT",
+      "reason": "No complete boundary in the visible panel; open or cropped territory cannot be interpreted as a complete field."
+    }
+  ],
+  "include_in_whole_hemisphere_summary": false,
+  "specimen_link_status": "linked_existing_case",
+  "precision_audit": {
+    "date": "2026-10-15",
+    "source_review": "completed; provisional anatomical interpretation",
+    "changed_regions": 1,
+    "regions": [
+      {
+        "kind": "rois",
+        "label": "MT",
+        "status": "refined",
+        "source_limits": "Stroke-supported refinement; obscured/dashed intervals remain approximate."
+      }
+    ],
+    "previous_geometry": "documentation/rois_before_precision_audit.json"
+  }
+}

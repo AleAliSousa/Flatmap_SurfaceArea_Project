@@ -1,0 +1,106 @@
+{
+  "processed_views": 22,
+  "measured_fields": 48,
+  "unmeasured_fields": 40,
+  "overlaps": [
+    {
+      "map_id": "fig16",
+      "field_a": "V1",
+      "field_b": "V2",
+      "overlap_pixels": 71
+    },
+    {
+      "map_id": "fig16",
+      "field_a": "S2",
+      "field_b": "SC",
+      "overlap_pixels": 12
+    },
+    {
+      "map_id": "fig16",
+      "field_a": "S2",
+      "field_b": "S1",
+      "overlap_pixels": 10
+    },
+    {
+      "map_id": "fig16",
+      "field_a": "SC",
+      "field_b": "S1",
+      "overlap_pixels": 195
+    },
+    {
+      "map_id": "fig16",
+      "field_a": "S1",
+      "field_b": "SR",
+      "overlap_pixels": 234
+    },
+    {
+      "map_id": "fig16",
+      "field_a": "SR",
+      "field_b": "PV",
+      "overlap_pixels": 15
+    },
+    {
+      "map_id": "fig16",
+      "field_a": "PV",
+      "field_b": "Aud",
+      "overlap_pixels": 20589
+    },
+    {
+      "map_id": "fig17",
+      "field_a": "S2",
+      "field_b": "SC",
+      "overlap_pixels": 12
+    },
+    {
+      "map_id": "fig17",
+      "field_a": "S2",
+      "field_b": "S1",
+      "overlap_pixels": 4
+    },
+    {
+      "map_id": "fig17",
+      "field_a": "S2",
+      "field_b": "PV",
+      "overlap_pixels": 155
+    },
+    {
+      "map_id": "fig17",
+      "field_a": "S2",
+      "field_b": "Aud",
+      "overlap_pixels": 61
+    },
+    {
+      "map_id": "fig17",
+      "field_a": "SC",
+      "field_b": "S1",
+      "overlap_pixels": 158
+    },
+    {
+      "map_id": "fig17",
+      "field_a": "S1",
+      "field_b": "SR",
+      "overlap_pixels": 205
+    },
+    {
+      "map_id": "fig17",
+      "field_a": "SR",
+      "field_b": "PV",
+      "overlap_pixels": 27
+    },
+    {
+      "map_id": "fig17",
+      "field_a": "PV",
+      "field_b": "Aud",
+      "overlap_pixels": 18615
+    }
+  ],
+  "native_imagej_roundtrip": "passed",
+  "anatomical_review": "provisional; pending user review",
+  "reference_comparison": "not_run; core workflow does not require reference data",
+  "geometry_overlap_audit": "passed; shared-border slivers and explicitly documented source overlaps reviewed",
+  "all_numbered_figures_assessed": true,
+  "numbered_figures_assessed": 18,
+  "assessment_status": "eligible_views_digitized_provisional",
+  "whole_neocortex_summary": "unavailable; no independently established complete-neocortex view",
+  "source_visual_review": "completed; anatomical certification pending"
+}

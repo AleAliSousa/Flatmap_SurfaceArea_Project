@@ -1,0 +1,4 @@
+map_id,figure,pdf_page,species,specimen,view_type,repeat_of,fields,complete_fields,partial_fields,unmeasured,audit_date,review
+fig02_left,2,5,Cheirogaleus medius,single adult female,case_flatmap,,3,2,0,V2; S1; LMZ; IT,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig03_A_photo,3,5,Cheirogaleus medius,single adult female,histological_detail,fig02_left,0,0,0,V1; V2,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig05_photo,5,7,Cheirogaleus medius,single adult female,histological_detail,fig02_left,0,0,0,V1; V2; MT (presumed); Aud (auditory complex); LMZ; IT,2026-10-16,source visually inspected; provisional anatomical interpretation

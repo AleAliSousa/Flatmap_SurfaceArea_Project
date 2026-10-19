@@ -1,0 +1,21 @@
+{
+  "processed_views": 0,
+  "measured_fields": 0,
+  "unmeasured_fields": 0,
+  "native_imagej_roundtrip": "not_applicable; no eligible specimen ROI",
+  "anatomical_review": "not_applicable; all figures excluded",
+  "reference_comparison": "not_requested",
+  "all_numbered_figures_assessed": true,
+  "numbered_figures_assessed": 6,
+  "assessment_status": "no_eligible_specimen_flatmaps",
+  "whole_neocortex_summary": "unavailable; no independently established complete-neocortex view",
+  "source_visual_review": "all source figures and captions inspected",
+  "full_dataset_recheck": {
+    "date": "2026-10-16",
+    "source_figure_inventory_rechecked": true,
+    "canonical_contour_count": 0,
+    "geometry_changed": false,
+    "anatomical_certification": false,
+    "review": "review/full_dataset_audit.html"
+  }
+}

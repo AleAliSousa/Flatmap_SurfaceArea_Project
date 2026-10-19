@@ -1,3 +1,8 @@
+<!-- full-dataset-recheck -->
+## 16 October 2026 source recheck
+
+The [full-dataset recheck note](full_dataset_recheck.md) and current canonical JSON/CSV supersede earlier contour counts or blanket exclusions of repeated/illustrative maps. [Review all source pages](../review/full_dataset_audit.html). Prior geometry is archived.
+
 # Methods and limitations
 
 ## Scope
@@ -54,3 +59,8 @@ validation.json records scientific checks, counts, scale status, overlap audits 
 The previous working folder disappeared. Its coordinates and source code were recovered from this chat's saved edit history, then outputs were regenerated from the unchanged paper. Before this reorganization, the complete measurement CSV matched the original SHA-256 exactly: c9b8bb30ab662a3507cfb5277562605adbc3af2af58bb658e4cdb32bfe7a1511. Cleanup changes file paths and organization; all scientific values and tracing geometry are checked against that recovered dataset. Figure 20 is fully included in the common workflow. No project-wide surface-area tables were changed.
 
 Official ImageJ references: [ROI Manager](https://imagej.net/ij/docs/menus/analyze.html#manager), [selection tools](https://imagej.net/ij/docs/guide/146-19.html), [creating selections from masks](https://imagej.net/ij/docs/menus/edit.html).
+
+
+## Precision audit, 15 October 2026
+
+Earlier contours were reviewed and selected fields retraced more densely against the source. See [precision_audit.md](precision_audit.md) and [precision_audit.csv](precision_audit.csv). The prior geometry is archived; claims above that earlier field coordinates/measurements were retained describe the pre-audit baseline, not the current revised contours. Source calibration, specimen relationships and inclusion rules are unchanged. The 1990 independently measured whole-tissue masks are unchanged.
