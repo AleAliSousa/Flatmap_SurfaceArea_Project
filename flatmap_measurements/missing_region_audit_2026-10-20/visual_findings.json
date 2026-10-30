@@ -1,0 +1,182 @@
+{
+  "date": "2026-10-20",
+  "scope": "Targeted visual inspection of 22 saved views across 18 papers; not exhaustive anatomical certification. No measurement geometry changed in this audit.",
+  "findings": [
+    {
+      "paper": "Krubitzer_Kaas_1993",
+      "map_id": "fig05",
+      "disposition": "missing_tracing",
+      "regions": "17; other 16 pilot omissions need individual assessment",
+      "evidence": "Only MT, FST and AI + R are saved. Seventeen entries still explicitly say not_yet_digitized from the first-run pilot. Area 17 has a visible border joining the tissue perimeter; the tracer dots are not holes. This does not establish closure for all 17 pending fields.",
+      "next_action": "Trace area 17 first; assess the remaining pilot fields individually, including dashed boundaries. Retain case 88-32 and its cross-publication repeat warning."
+    },
+    {
+      "paper": "Krubitzer_1995",
+      "map_id": "fig01_macaque",
+      "disposition": "missing_tracing",
+      "regions": "FST; R; SMA; MT; additional white compartments",
+      "evidence": "No ROIs are saved. The FST leader ends in the narrow compartment below/right of MT; R points into the white auditory crescent. SMA and the hatched MT compartment have visible envelopes. Generic small-print/overprint rejection does not justify rejecting all of these.",
+      "next_action": "Retrace the identifiable compartments using leader endpoints and full envelopes; separately assess 1, 2, DI, DLr, DLc, VP, VPP and frontal fields. Preserve illustrative-summary status."
+    },
+    {
+      "paper": "Krubitzer_1995",
+      "map_id": "fig01_marmoset",
+      "disposition": "missing_tracing",
+      "regions": "FST; FEF; FV; R; SMA",
+      "evidence": "Only MT is saved. FST is the elongated compartment immediately below MT; external FEF, FV and R leaders point into distinct compartments. SMA is a separate white compartment beside the black motor fill.",
+      "next_action": "Trace those envelopes and then reassess 2, DI, DLr and DLc. Do not split fused black primary fields without visible dividers."
+    },
+    {
+      "paper": "Krubitzer_etal_1995",
+      "map_id": "fig19",
+      "disposition": "missing_tracing",
+      "regions": "V",
+      "evidence": "No ROIs are saved. The upper V perimeter is closed and unobscured, contradicting the generic open-boundary rejection. Caption on PDF page 30 identifies V as the densely myelinated visual region; visual recording sites also occur outside it.",
+      "next_action": "Trace the anatomical V envelope, including internal letters and symbols. Keep physiological VIS outside it separate; retain E3 repeat identity. Reassess A independently at the interrupted auditory/SI junction."
+    },
+    {
+      "paper": "Krubitzer_1998",
+      "map_id": "fig14F_summary",
+      "disposition": "missing_tracing",
+      "regions": "M; FEF; R (further junction review)",
+      "evidence": "The black motor M field has a continuous outer envelope and included white M lettering. The separate upper frontal oval and R compartment are also untraced. Blanket rejection based on shading/lettering is too broad; small adjoining boundaries still need source-scale assessment.",
+      "next_action": "Prioritize M; verify FEF label against the full-page legend, then inspect R, MST, FST, DM and somatosensory strips individually. Preserve illustrative-summary status."
+    },
+    {
+      "paper": "Lyon_etal_1998",
+      "map_id": "fig04_A",
+      "disposition": "inventory_gap",
+      "regions": "S (medial component)",
+      "evidence": "Only S (lateral component), TI and A are saved, and the second S component is absent from the unmeasured list. At full resolution its medial border is interrupted at the tissue cut. Thus it is a confirmed inventory omission, not a confirmed complete measurable field. The thin transverse line is the exposed-surface projection, as specified by the caption.",
+      "next_action": "Add a separate medial-component assessment on the next dataset revision. Inspect cut-edge endpoints; do not close it using the thin projection line or claim complete S from the lateral component alone."
+    },
+    {
+      "paper": "Krubitzer_1995",
+      "map_id": "fig01_quoll",
+      "disposition": "candidate",
+      "regions": "VIS; auditory compartments; labels not individually inventoried",
+      "evidence": "Zero ROIs and only two generic unmeasured entries. The labeled VIS compartment and multiple auditory-looking filled regions warrant individual identification; fused black fills and the spread AUD letters make assignment uncertain.",
+      "next_action": "Reconcile all labels with the legend/color source if available. Keep PYR distinct from neocortex; do not use black connected components as field identities."
+    },
+    {
+      "paper": "Luethke_etal_1988",
+      "map_id": "fig05",
+      "disposition": "candidate",
+      "regions": "TAi; A-I; S-I; 18",
+      "evidence": "Seven fields are saved. TAi appears bounded by the auditory complex, but the upper join needs closer assessment; A-I has dense tracer on its border. The generic NA reason also says unlabelled scale although the displayed source shows a 1.0 mm scale.",
+      "next_action": "Assess each unresolved perimeter and correct stale scale wording if revising this view. Do not count TArv and TAcv separately on top of the saved combined envelope."
+    },
+    {
+      "paper": "Krubitzer_etal_1993",
+      "map_id": "fig12A",
+      "disposition": "candidate",
+      "regions": "A-I; SMA; other partial components",
+      "evidence": "MT, FV and four mapped 3b components are saved. A-I has a visible lower envelope but dense tracer near its upper/right joins. SMA has an estimated/dashed boundary. The generic rejection does not document the exact unresolved segments.",
+      "next_action": "Inspect enlarged A-I joins and the caption conventions for SMA; compare repeated views for identity, without transferring their geometry. Keep mapped 3b components distinct from whole 3b."
+    },
+    {
+      "paper": "Beck_etal_1996",
+      "map_id": "fig15",
+      "disposition": "candidate",
+      "regions": "PV; SC; SR",
+      "evidence": "S2 is saved. PV has much of an inked envelope visible, but its lower limit approaches the image edge. SC/SR borders interact with the bright injection. A photograph-wide rejection is insufficient to decide each field.",
+      "next_action": "Inspect the full PDF photograph for bottom clipping and each obscured segment. Prefer the linked complete reconstruction for whole-field summaries; a partial photo must not become another animal."
+    },
+    {
+      "paper": "Krubitzer_Kaas_1993",
+      "map_id": "fig03",
+      "disposition": "candidate",
+      "regions": "18; FEF; FR; SII/PV",
+      "evidence": "Twelve ROIs are saved. Several untraced borders are dashed or open. FEF lies beside FV and FR; the lower/rostral FR gap is visible. Additional short-gap assessment is warranted, but no new complete perimeter was established in this inspection.",
+      "next_action": "Assess each boundary at source scale and document gaps separately; do not copy the field shapes from fig05 or the illustrative summary."
+    },
+    {
+      "paper": "Beck_Kaas_1998",
+      "map_id": "fig04",
+      "disposition": "source_limit_supported",
+      "regions": "DM; V2",
+      "evidence": "V2 continues outside the inset. The large injection overlaps the upper DM boundary, so the injection oval cannot substitute for the field perimeter. No new complete field was established.",
+      "next_action": "Retain NA unless a more informative source resolves the hidden boundary."
+    },
+    {
+      "paper": "Huffman_etal_1999",
+      "map_id": "fig05",
+      "disposition": "no_new_omission_found",
+      "regions": "SI; R; VI; VII; SII/PV",
+      "evidence": "Saved ROIs are C, A and combined SII/PV. The A outline is already traced even though its overlay is visually subtle. SI/R have an open neck; VI/VII are open arcs. The combined SII/PV envelope accounts for the region when their internal divider is incomplete.",
+      "next_action": "No additional complete field identified in this targeted view. Preserve combined versus separate-field accounting."
+    },
+    {
+      "paper": "Krubitzer_Kaas_1990",
+      "map_id": "fig12",
+      "disposition": "no_new_omission_found",
+      "regions": "PP; IT; Motor; Premotor; frontal",
+      "evidence": "Sixteen field ROIs are saved. The unmeasured contextual territories do not all have complete borders in this view; PP, IT and frontal labels do not imply closed compartments.",
+      "next_action": "No new omission established from this view. This is not certification of the other 55 definitions in the paper."
+    },
+    {
+      "paper": "Krubitzer_etal_1997",
+      "map_id": "fig08",
+      "disposition": "source_limit_supported",
+      "regions": "V; S1; A",
+      "evidence": "This is a myelin photograph with diffuse staining and no complete inked field boundaries. The label letters and stain levels are not defensible automatic segmentation borders.",
+      "next_action": "Retain the source limitation; use an appropriate reconstruction if available."
+    },
+    {
+      "paper": "Luethke_etal_1989",
+      "map_id": "fig10_A",
+      "disposition": "no_new_omission_found",
+      "regions": "V-I; V-II; S-I; DL",
+      "evidence": "MT, A-I and R are saved. V-I/V-II delimiters end within the drawing and S-I is an incomplete dashed outline. No additional closed total field was established.",
+      "next_action": "Preserve the distinction between contextual labels and measurable envelopes."
+    },
+    {
+      "paper": "Manger_etal_2002",
+      "map_id": "fig02",
+      "disposition": "source_limit_supported",
+      "regions": "PPr/PPc totals; contextual fields",
+      "evidence": "Two mapped extents are saved. The straight window edges bound the mapped region, not the full extents of all labeled cortical fields.",
+      "next_action": "Keep mapped extents separate from whole-field totals; do not close contextual fields against the plotting window."
+    },
+    {
+      "paper": "Preuss_Kaas_1996",
+      "map_id": "fig02_left",
+      "disposition": "no_new_omission_found",
+      "regions": "V2; IT?; other contextual regions",
+      "evidence": "V1, MT and Aud are saved. V2 and IT? are contextual territories with incomplete limits. The cropped left portion and non-neocortical labels do not establish additional whole neocortical fields.",
+      "next_action": "No new complete field established; check full-page context before extending the scope."
+    },
+    {
+      "paper": "Preuss_etal_1993",
+      "map_id": "fig02_schematic",
+      "disposition": "source_limit_supported",
+      "regions": "V1; V2; DLc; DLr; FST?",
+      "evidence": "Six ROIs are saved. The lower ends of V1/V2 and adjoining visual boundaries are open; the curved tissue edge does not by itself supply the missing transverse divisions.",
+      "next_action": "Retain unresolved totals and illustrative identity. No complete new envelope established."
+    },
+    {
+      "paper": "Slutsky_etal_2000",
+      "map_id": "fig01A",
+      "disposition": "source_limit_supported",
+      "regions": "SI; R; PM; SII; PV; VI; VII; TA; TI; TP",
+      "evidence": "An individual myelin section shows labeled stain patches without complete drawn field perimeters.",
+      "next_action": "Do not convert stain thresholds or letter boundaries into field totals; use the reconstructed views."
+    },
+    {
+      "paper": "VanEssen_Drury_1997",
+      "map_id": "fig03_left",
+      "disposition": "source_limit_supported",
+      "regions": "whole cortex; cortical fields",
+      "evidence": "Curvature-colored unfolded surface without labeled areal envelopes in this panel. The prior paper assessment also records nonuniform flattening distortion.",
+      "next_action": "Retain the need for mesh/Jacobian information for physical area; no raster field measurement is recovered by tracing curvature colors."
+    },
+    {
+      "paper": "Lyon_etal_1998",
+      "map_id": "fig04_B",
+      "disposition": "source_limit_supported",
+      "regions": "S; A; V1; V2; temporal fields",
+      "evidence": "S extends to the upper cut and A continues beyond the lower image extent. V1/V2 boundaries do not define all missing endpoints. No complete new field established.",
+      "next_action": "Keep components distinct from fig04A and record the particular clipping/open endpoint for each."
+    }
+  ]
+}

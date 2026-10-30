@@ -1,0 +1,53 @@
+{
+  "map_id": "fig01_quoll",
+  "figure": 1,
+  "pdf_page": 3,
+  "printed_page": 410,
+  "species": "Dasyurus hallucatus",
+  "specimen": "illustrative summary",
+  "hemisphere": "not reported",
+  "hemisphere_relation": "not assigned",
+  "view_type": "illustrative_summary_flatmap",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "outline": null,
+  "supersample": 4,
+  "render_scale": 4,
+  "relationship_note": "Repeated views retain the same specimen identity and are excluded from extra animal counts.",
+  "specimen_link_status": "caption identified",
+  "panel": null,
+  "crop_xyxy": [
+    880,
+    280,
+    1630,
+    1070
+  ],
+  "rois": [],
+  "unmeasured": [
+    {
+      "label": "saturated primary-field totals",
+      "status": "not_measurable",
+      "reason": "Merged black fills do not resolve separate complete field envelopes."
+    },
+    {
+      "label": "A",
+      "status": "not_measurable",
+      "reason": "The tiny grey auditory envelope merges with the heavy neighbouring black fill. The candidate crossed that interface and was rejected."
+    }
+  ],
+  "repeat_of": "illustrative_summary",
+  "linked_main_map": "illustrative_summary",
+  "scale_endpoints_px": [
+    [
+      646,
+      664
+    ],
+    [
+      684,
+      664
+    ]
+  ],
+  "scale_length_mm": 1,
+  "scale_note": "Own local printed scale stroke, endpoints reviewed on the source.",
+  "review_note": "Reassessed from the full source page; cortical inset crop and each field perimeter reviewed separately."
+}

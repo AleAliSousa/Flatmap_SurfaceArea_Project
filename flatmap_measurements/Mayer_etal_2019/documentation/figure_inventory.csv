@@ -1,0 +1,11 @@
+figure,pdf_page,panel,specimen,interpretation,processing_status,reason_or_result,linked_main_map
+1,2,all,,source_figure_assessment,digitized_provisional,"2 measured view(s), 2 field/component observations; 0 boundaries remain NA for anatomical review. Illustrative, partial, repeated and unscaled restrictions apply.",fig01A_case15_01;fig01B_case15_04
+2,3,all,,source_figure_assessment,digitized_provisional,"2 measured view(s), 2 field/component observations; 0 boundaries remain NA for anatomical review. Illustrative, partial, repeated and unscaled restrictions apply.",fig02A_case15_02;fig02B_case15_03
+3,3,all,,source_figure_assessment,assessed_excluded,Cross-sectional histology and block face; no tangential whole-field boundary.,
+4,4,all,,source_figure_assessment,assessed_excluded,"Limb movement sketches and body trajectories, not cortex.",
+5,5,all,,source_figure_assessment,digitized_provisional,"4 measured view(s), 47 field/component observations; 0 boundaries remain NA for anatomical review. Illustrative, partial, repeated and unscaled restrictions apply.",fig05A_case15_01;fig05B_case15_03;fig05C_case15_04;fig05D_case15_02
+6,6,all,,source_figure_assessment,assessed_excluded,Published area bar chart/pie summaries; no independent tracing geometry.,
+7,7,all,,source_figure_assessment,assessed_excluded,"Hand/foot movement photographs, not cortex.",
+8,8,all,,source_figure_assessment,assessed_excluded,"Hand movement photographs and trajectories, not cortex.",
+9,9,all,,source_figure_assessment,assessed_excluded,"Hand movement photographs and trajectories, not cortex.",
+10,10,all,,source_figure_assessment,assessed_repeated_view,Threshold-coded re-display of the same four sampled cortical maps. No additional anatomical field envelope or independent specimen. Response territory is measured from Figures 1/2; category maps from Figure 5. Threshold-specific comparisons are not inferred as whole-M1 area.,fig01A_case15_01;fig01B_case15_04;fig02A_case15_02;fig02B_case15_03

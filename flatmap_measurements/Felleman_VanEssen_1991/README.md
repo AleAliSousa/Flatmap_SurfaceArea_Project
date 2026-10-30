@@ -1,15 +1,13 @@
-<!-- full-dataset-recheck-2026-10-16 -->
-# Felleman_VanEssen_1991 · current recheck
-
-**62 field/component observations.** Refined 37 existing source-supported boundaries. Shared-border fit loops/slivers were repaired conservatively. The supplied PDF contains defective/blank source pages; missing geometry is not inferred from those pages. Atlas/composite maps remain distinct from identified-animal data.
-
-[Latest source review](review/full_dataset_audit.html) · [Recheck findings and limits](documentation/full_dataset_recheck.md) · [Current measurements](data/measurements.csv). Earlier notes below describe the previous processing state; their counts are superseded.
-
-<!-- earlier-processing-notes -->
-## Earlier processing notes
-
 # Felleman_VanEssen_1991
 
-The80G-R carrier is a macaque hemisphere with literature-composite parcellation, not an independently delineated new animal. All composite fields are excluded from biological case/species summaries. Monochrome merged visual borders remain NA. The scale already includes the source shrinkage estimate; no second correction. Figure1 encloses allo-/paleocortex as well as neocortex, so cannot supply a neocortex denominator. PDF20–47 render blank in this supplied source, despite ghost text; figures1–3 occur in pages1–19.
+The **complete replacement PDF** (14.40 MiB) now serves as the [main paper](source/paper.pdf), restoring pages 20–47. Existing tracings retain the original scan and exact calibration. [Source comparison and provenance](documentation/source_update_2026-10-20.md). The restored pages await a new figure-eligibility assessment.
 
-Start with [precision review](review/precision_review.html), [all-figure assessment](review/gallery.html), [methods](documentation/methods.md) and [measurements](data/measurements.csv). Editable canonical inputs are in figures/*/rois.json; native ImageJ outputs are adjacent.
+Figure 2 was revised on **20 October 2026** using the user-supplied color reference: **74 measured field/component observations**, including 12 previously missing fields. Fifty existing contours were corrected; 12 were retained after inspection. External label leaders identify the target tissue, and internal labels do not alter surface area.
+
+Start with the [interactive figure 2 before/after review](review/fig02_revision.html). Select TF or anterior ER, hide the current contour to inspect the source, and show the previous contour for comparison.
+
+[Correction details](documentation/fig02_revision_2026-10-20.md) · [Measurements](data/measurements.csv) · [Area changes](data/fig02_revision_changes.csv) · [ImageJ ROIs](figures/fig02/RoiSet.zip) · [All-figure assessment](review/gallery.html)
+
+The 80G-R carrier bears a literature-composite parcellation. These observations are excluded from biological case/species summaries. Original calibration is retained; no second shrinkage correction is applied. PSv and hippocampal/subicular subdivisions remain unresolved or untraced as documented. Figures 1 and 3 retain their earlier assessments.
+
+Native ImageJ read-back and geometry checks passed. Anatomical interpretation remains provisional. [Earlier full-dataset recheck](documentation/full_dataset_recheck.md).

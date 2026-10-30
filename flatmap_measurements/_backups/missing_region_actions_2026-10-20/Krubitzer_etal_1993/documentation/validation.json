@@ -1,0 +1,157 @@
+{
+  "processed_views": 23,
+  "measured_fields": 100,
+  "unmeasured_fields": 171,
+  "overlaps": [
+    {
+      "map_id": "fig08_local",
+      "field_a": "SII",
+      "field_b": "PV",
+      "overlap_pixels": 63
+    },
+    {
+      "map_id": "fig08_local",
+      "field_a": "SII",
+      "field_b": "VS",
+      "overlap_pixels": 75
+    },
+    {
+      "map_id": "fig08_local",
+      "field_a": "SII",
+      "field_b": "3b mapped component 3",
+      "overlap_pixels": 5
+    },
+    {
+      "map_id": "fig08_local",
+      "field_a": "PV",
+      "field_b": "VS",
+      "overlap_pixels": 54
+    },
+    {
+      "map_id": "fig08_local",
+      "field_a": "PV",
+      "field_b": "3b mapped component 4",
+      "overlap_pixels": 9
+    },
+    {
+      "map_id": "fig09",
+      "field_a": "PV",
+      "field_b": "VS",
+      "overlap_pixels": 30
+    },
+    {
+      "map_id": "fig10A_local",
+      "field_a": "PV",
+      "field_b": "VS",
+      "overlap_pixels": 58
+    },
+    {
+      "map_id": "fig10A_local",
+      "field_a": "PV",
+      "field_b": "SII",
+      "overlap_pixels": 33
+    },
+    {
+      "map_id": "fig10A_local",
+      "field_a": "VS",
+      "field_b": "SII",
+      "overlap_pixels": 44
+    },
+    {
+      "map_id": "fig10A_local",
+      "field_a": "3b mapped component 1",
+      "field_b": "SII",
+      "overlap_pixels": 43
+    },
+    {
+      "map_id": "fig10B_local",
+      "field_a": "SII",
+      "field_b": "PV",
+      "overlap_pixels": 100
+    },
+    {
+      "map_id": "fig10B_local",
+      "field_a": "SII",
+      "field_b": "VS",
+      "overlap_pixels": 32
+    },
+    {
+      "map_id": "fig10B_local",
+      "field_a": "PV",
+      "field_b": "VS",
+      "overlap_pixels": 115
+    },
+    {
+      "map_id": "fig15_local",
+      "field_a": "SII",
+      "field_b": "PV",
+      "overlap_pixels": 83
+    },
+    {
+      "map_id": "fig15_local",
+      "field_a": "SII",
+      "field_b": "VS",
+      "overlap_pixels": 42
+    },
+    {
+      "map_id": "fig15_local",
+      "field_a": "PV",
+      "field_b": "VS",
+      "overlap_pixels": 73
+    },
+    {
+      "map_id": "fig16",
+      "field_a": "MT",
+      "field_b": "18",
+      "overlap_pixels": 68
+    },
+    {
+      "map_id": "fig16",
+      "field_a": "17",
+      "field_b": "18",
+      "overlap_pixels": 349
+    },
+    {
+      "map_id": "fig17_local",
+      "field_a": "SII",
+      "field_b": "PV",
+      "overlap_pixels": 96
+    },
+    {
+      "map_id": "fig17_local",
+      "field_a": "SII",
+      "field_b": "VS",
+      "overlap_pixels": 61
+    },
+    {
+      "map_id": "fig17_local",
+      "field_a": "PV",
+      "field_b": "VS",
+      "overlap_pixels": 89
+    },
+    {
+      "map_id": "fig21C_summary",
+      "field_a": "A-I",
+      "field_b": "R",
+      "overlap_pixels": 17
+    }
+  ],
+  "native_imagej_roundtrip": "passed",
+  "anatomical_review": "provisional; pending user review",
+  "reference_comparison": "not_run; core workflow does not require reference data",
+  "geometry_overlap_audit": "passed; shared-border slivers and explicitly documented source overlaps reviewed",
+  "all_numbered_figures_assessed": true,
+  "numbered_figures_assessed": 22,
+  "assessment_status": "eligible_views_digitized_provisional",
+  "whole_neocortex_summary": "unavailable; no independently established complete-neocortex view",
+  "source_visual_review": "completed; anatomical certification pending",
+  "full_dataset_recheck": {
+    "date": "2026-10-16",
+    "source_figure_inventory_rechecked": true,
+    "canonical_contour_count": 100,
+    "geometry_changed": true,
+    "anatomical_certification": false,
+    "review": "review/full_dataset_audit.html",
+    "geometry_review": "passed by audit_geometry.py; shared-stroke slivers or documented source overlaps retained"
+  }
+}

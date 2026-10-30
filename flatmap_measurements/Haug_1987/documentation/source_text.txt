@@ -1,0 +1,1503 @@
+
+
+=== PDF PAGE 1 ===
+THE AMERICAN JOURNAL OF ANATOMY 180:126-142 (1987) 
+Brain Sizes, Surfaces, and Neuronal Sizes of the Cortex Cerebri: 
+A Stereological Investigation of Man and His Variability and a 
+Comparison With Some Mammals (Primates, Whales, Marsupials, 
+Insectivores, and One Elephant) 
+HERBERT HAUG 
+Institute for Anatomy, Medical University Lubeck, Federal Republic of Germany 
+ABSTRACT This study deals with the stereologi￾cal estimation of macroscopic sizes of brain and cortex, 
+i.e., volume, surface, and folding, and of microscopic 
+neuronal sizes, i.e., density, mean size, size distribu￾tion, and number of neurons. The results show that the 
+degree of variability in man amounts to about 15%. A 
+decrease in volume of the different gray structures can 
+be observed in man after the age of 65 years. The sur￾face, folding index, and length of convolution do not 
+alter with aging. The comparison with mammals of 
+various sizes allows the conclusion that there is a high 
+correlation to brain size for nearly all macroscopic val￾ues. Man and elephant, however, have a cortical sur￾face which is, in comparison with whales, relatively 
+small. In contrast, whales have very small cortices 
+compared with man. 
+At the cytoarchitectonic level, the neuronal density 
+has a correlation to brain size. Contrary to other mam￾mals, the primates and man have a high fraction of 
+small granular neurons, especially in layer 4. The as￾sumption that the number of cortical neurons beneath 
+a given surface area of cortex is the same in all mam￾mals cannot be verified, especially in those with large 
+brains. The allometric connection between brain size 
+and parameters is not valid for all measurements (e.g., 
+thickness of cortex, mean size of neurons, perikaryal 
+size distribution, and glial density). Yet some other 
+measurements are well correlated. 
+INTRODUCTION 
+For about the last 30 years, stereological procedures 
+have been increasingly used for investigations of the 
+nervous system. Stereology enables us to estimate size 
+in all dimensions from macroscopy to light to electron 
+microscopy. As to the macroscopic level, Elias et al. 
+(1967b) introduced the measurement of the surface area 
+of the convoluted cerebral cortex. The estimation of vol￾ume by point counting has been performed since 1956 
+by Haug (1956) and Hennig (1958). In the beginning, 
+Haug used this procedure for the perikaryon volume￾fraction or gray-cell coefficient of the cortex cerebri 
+(Economo, 1926). 
+Since 1970, point counting has also been performed for 
+the volume estimation of the different gray structures 
+in the total brain when working macroscopically (Haug, 
+1970a,b; Decker, 1979). In order to measure the mean 
+neuronal density in certain parts of the brain, the count￾ing of nerve cells was also stereologically facilitated by 
+Haug (1967b). Further important stereological estima￾tions of the brain were reported upon by Stephan (1960), 
+Schlenska (1969), and Kuhl et al. (1982). 
+The results of these and other similar investigations 
+were published in diverse places, and it has been neces￾sary to combine the main efforts of these investigations. 
+The size of brain and its parts were mainly published 
+regarding man (Elias et al., 1967a,b; Haug, 1970a; 
+Schlenska, 1969; Eggers et al., 1984a) and some mam￾mals (Elias et al., 1967a, 1969; Elias and Schwartz, 1969, 
+1971; Haug, 1970a, Wiedemeyer, 1974), but some of the 
+results of Elias have not been published. At the cytoar￾chitectonic level we find morphometric results for man 
+(Haug,1953; Haug et al., 1984; Barmwater, 1982; Kuhl, 
+1981; Nass, 1985; Sass,1982a), for large mammals (Haug, 
+1967a; Jacobs et al., 1984; Gunschmann, 1972; Tjan, 
+1974), for small mammals (Moral and Haug, 1982; Ste￾phan and Andy, 1969; Stephan et al., 1984; Wiedemeyer, 
+1974), and for the comparison of mammals (Haug, 1956, 
+1958,1960,1976,1981b; Stephan, 1972). 
+The findings of our investigation must be combined in 
+order to interpret general aspects. The ensuing results 
+should be compared with other findings and with var￾ious assumptions about the connections between the 
+structural sizes. The mathematical theory, according to 
+which different sizes of brain and body are connected, in 
+animals, was finally formulated by Dubois (1914). The 
+sizes are connected over many decades of exponential 
+powers by the formula of “allometry” according to the 
+exponential regression y = b.xa. Many papers have 
+been presented on this subject. Jerison (1974) has given 
+a survey on this theory. 
+A second kind of comparison, concerning, in particu￾lar, the information on the extent of evolutionary devel￾opment, was the introduction of indices in which 
+different sizes were connected by ratios. The goal of such 
+connections is to find an index which expresses a pro￾gressive evolution of a certain neuronal system. The 
+first steps were made by Wirz (1950). In recent decades 
+Address reprint requests to Prof. H. Haug, Institute for Anatomy, 
+Medical University Liibeck, Ratzeburger Allee 160, D-2400 Liibeck, 
+West Germany. 
+Received March 25, 1986. Accepted July 20, 1986. 
+0 1987 ALAN R. LISS, INC 
+
+=== PDF PAGE 2 ===
+COMPARATIVE MORPHOMETRY OF CORTEX CEREBRI 
+TABLE 1. Number of human brains in our investigation 
+Macroscopy Microscopy area 
+Author Male Female Surface Volume 06 07 11 17 20 
+Schlenska 4 3 7 
+Elias 10 10 20 
+Eggers 6 6 12 
+Holoubek' 10 - 10 
+Haug 75 43 - 
+'Preliminary results. 
+Stephan (1972,19761, Stephan and Andy (1969), Bauchot 
+(19781, Jerison (1974), Pirlot (19741, and Hofman (1984) 
+have advanced this project. At the same time first efforts 
+were made in microscopic allometry of neuronal struc￾tures. The density of neurons showed a connection with 
+brain size (Tower, 1954; Bok, 1959; Haug, 1958, 1960, 
+1976). Further values of the neurons such as the gray￾cell coefficient (Economo, 1926; Haug, 1958) and neu￾ronal number below the surface were examined in order 
+to get a useful answer regarding evolutionary steps (Bok 
+and Taalman Kip, 1939; Rockel et al., 1980). 
+Besides primates including man, smaller mammals as 
+well as animals with very large brains like dolphins and 
+the elephant must be taken into consideration, and the 
+results must be compared with the above investigations 
+and with the information on brain sizes compiled by 
+Blinkov and Glezer (19681, Jacobs et al. (1984), Jansen 
+(19731, Kesarev et al. (19771, Langworthy (19321, Mor￾gane and Jacobs (19721, and Morgane et al. (1980). These 
+results may help to interpret our own data. 
+The aim of this examination is to survey our present 
+knowledge of cortical structure, which has been reached 
+by the introduction of stereological procedures. The re￾sults reported may also possibly give an important in￾sight into the aging of the human brain cortex. However, 
+data at the level of electron microscopy will be men￾tioned only briefly. 
+MATERIAL AND METHODS 
+The material of this investigation was collected by the 
+groups of Elias and Haug. Not all the results have been 
+published. Details as to the material can be found in the 
+relevant literature. The human material is described by 
+Elias and Schwartz (1971), Haug (1967a, 1970a, 19841, 
+Schlenska (1969), and Eggers et al. (1984a). Table 1 
+contains the human material which will be reported. 
+Table 2 refers to the animal material. 
+The following authors used the colleetion of Haug: 
+Barmwater (1982), Fischer (1982), Gunschmann (19721, 
+Kuhl(1981), Nass (1985), and Sass (1982a). The number 
+of areas investigated was distinctly higher than the 
+total number of brains. This is due to those brains which 
+have been evaluated in more than one area. 
+The animals for the investigations were also collected 
+by Elias and Haug. Most of the whales (Odontoceti of 
+different sizes) and marsupials were sampled by Elias. 
+The primates and insectivores were collected in Europe. 
+The specimens listed in Table 3 are included in the 
+results. 
+The material collected was fixed at different places in 
+the world. Therefore the shrinkage of the single speci￾men is not reliably determined. According to our expe￾7 
+12 
+10 
+- 59 51 60 50 20 
+- 
+127 
+rience, we must expect that the sizes estimated in a 
+specimen may deviate from the actual size of the species 
+investigated. The differences, however, are surely small, 
+as shown by the estimation of the variance in man. The 
+variability in man is about 15-20% above and below the 
+mean values (Haug et al., 1984; Eggers et al., 1984a). 
+The differences between the animals of various families 
+are in the magnitude of a power of four. Therefore, we 
+feel that a comparison is allowable. This point will be 
+discussed after the report of the results. 
+The procedures used are described in detail in the 
+stereological literature (Elias, 1962, 1967; Haug, 1956, 
+196713, 1979, 1981a, 1982; Haug et al., 1971; Weibel, 
+1979). The following methods are the basis of our 
+investigation: 
+1) The point counting of the volume and of the volume 
+fraction according to the DELESSE principle was used 
+for the estimation of the volumes of the brain parts in 
+the macroscopic and microscopic dimensions. 
+This procedure used in macroscopy was described by 
+Haug (1970a) and many other examiners. The total vol￾ume corresponds with the total number of grid points 
+found in the cuts through the brain structures. The 
+volumes of the single brain parts were calculated by the 
+relevant point-fraction. The point counting was also per￾formed by the estimation of the perikaryon volume frac￾tion (Haug, 1956). For about the last 10 years, however, 
+the investigations have been made mainly indirectly 
+through size distribution (see 6 below). 
+2) The measurement of the surface was performed by 
+point counting with the formula 
+(1) 
+For the measurement of the cortical surface we used 
+the deduced formula which was introduced by Elias 
+(1967): 
+S=~XIXTXD (2) 
+sv = 2 x IA 
+In this formula T means the thickness of the slides or 
+sections estimated and D the distance of the lines on the 
+grid thrown on the slide or its photograph. This kind of 
+stereological procedure is sensitive to the orientation of 
+the structures in the slides. Therefore the grid used was 
+turned several times. 
+3) The counting of neurons and glial cells was per￾formed according to the formula introduced by Floderus 
+(1944). 
+The counting itself is restricted to the nucleoli of the 
+nerve cells. Furthermore, we use a thickness of section 
+20 pm. The thickness of each section is measured by 
+
+=== PDF PAGE 3 ===
+128 H. HAUG 
+TABLE 2. The various species of this investigation including the brain volume (Br-vo) in 
+cm3 and our register number' 
+Abbr. 
+1 DD 
+2 DT 
+3 DG 
+4 DP 
+5 DC 
+6 EL 
+7 UE 
+8 us 
+9 CL 
+10 cc 
+11 cc 
+12 CF 
+13 CR 
+14 CV 
+15 H 
+16 0s 
+17 OG 
+18 OP 
+19 OR 
+20 oc 
+21 OT 
+22 NA 
+23 NL 
+24 NC 
+25 NS 
+26 NT 
+27 NJ 
+28 PL 
+29 PR 
+30 PM 
+31 TG 
+32 RC 
+33 RR 
+34 RM 
+35 RG 
+36 IE 
+37 IT 
+38 IS 
+39 MK 
+40 MO 
+41 MM 
+Reg. 
+Latin name Common name Br-vo no. 
+Delphinus delphinus 
+Tursiops truncatus 
+Globicephala macrorryncha 
+Phocaena phocaena 
+Pseudorca crassidens 
+Loxodonta africana 
+Equus caballus 
+Ovis aries 
+Panthera Eeo 
+Canis familiaris 
+Canis latrans 
+Felis domestica 
+Procyon lator 
+Vulpes vulpes 
+Homo sapiens 
+Pan troglodytes 
+Gorilla gorilla 
+Papio duguera 
+Macaca mulatta 
+Cercopithecus aetiops 
+Cercopithecus talapoin 
+Ateles ater 
+Lagothrix lagotricha 
+Cebus albifrons 
+Saimiri sciurius 
+Aotes trivirigatus 
+Callithrix jacchus 
+Lemur div. 
+Lemur ruficaudatus 
+Microcebus murinus 
+Tupaia glis 
+Oryctolagus cuniculus 
+Rattus norvegicus 
+Mus musculus 
+Cavia porcellus 
+Erinaceus europaeus 
+Talpa europaeus 
+Sorex 
+Wallabia 
+Didelphis virginiana 
+Marmosa mitis 
+Common dolphin, mean 
+Bottlenosed dolphin, mean Pilot whale, mean Common porpoise 
+False killer whale 
+Elephant 
+Horse 
+Sheep 
+Lion, mean 
+Dog 
+Coyote 
+Cat 
+Raccoon 
+Fox 
+Human, mean 
+Chimpanzee 
+Gorilla 
+Baboon 
+Rhesus monkey, mean Vervet monkey 
+Talapoin, mean 
+Spider monkey 
+Wooly monkey 
+Capuchine monkey 
+Squirrel monkey, mean 
+Night monkey 
+Marmoset, mean Lemur, mean 
+Weasel lemur 
+Mouse lemur 
+Tree shrew 
+Rabbit 
+Rat 
+Mouse 
+Guinea pig, mean 
+Hedgehog, mean 
+Mole 
+Shrew, mean 
+Kangaroo, mean 
+Opossum, mean Mouse ouossum 
+715 
+1,345 
+2,720 
+483 
+3,650 
+4,148 
+510 
+140 
+259 
+63.7 
+85 
+28.7 
+43 
+45 
+1,300 
+433 
+429 
+184 
+88 
+64 
+36 
+106 
+101 
+57 
+22.4 
+18.9 
+9.4 
+25.8 
+7.4 
+1.9 
+3.0 
+11.2 
+1.7 
+0.3 
+3.9 
+3.7 
+1.4 
+0.24 
+42.5 
+7.8 
+1.2 
+275 
+272 
+270 
+271 
+274 
+260 
+251 
+252 
+150 
+205 
+205 
+200 
+154 
+152 
+000 
+102 
+102 
+101 
+101 
+106 
+106 
+107 
+107 
+107 
+108 
+107 
+109 
+111 
+112 
+113 
+114 
+230 
+22 1 
+220 
+231 
+180 
+181 
+183 
+170 
+173 
+172 
+42 ME Tachyglossus Echidna 11.0 171 
+'In all primates including prosimians the lateral convexity of the frontal cortex was microscopically 
+estimated. For further details see Table 3. 
+TABLE 3. Mammalian brains used for macroscopy and microscopy of the cortex cerebri' 
+Animal Abb. n Surface Volume Fro. Par. Occ. Tem. 
+Loxodonta africana EL 1 1 1 1 1 1 1 
+Pseudorca crassidens DC 1 1 1 1 
+Globicephala maelas DG 3 3 2 2 1 2 1 
+Tursiops truncatus DT 5 5 3 1 1 1 1 
+Delphinus delphinus DD 2 2 2 2 2 1 1 
+Phocaena phocaena DP 1 1 1 1 1 1 1 
+Didelphis virginiana MO 1 1 1 
+Erinaceus europaeus IE 1 1 1 
+Talpa europaeus IT 1 1 1 
+Macroscopy Microscopy area 
+- 1 - 
+1 - - 
+1 
+1 
+- 
+- - - 
+- - - 
+'Abbreviations: Fro., frontal lobe; Par., parietal lobe; Occ., occipital lobe; Tem., temporal lobe. 
+
+=== PDF PAGE 4 ===
+COMPARATIVE MORPHOMETRY OF CORTEX CEREBRI 129 
+a lblus of Rain 
+I” d 
+HUflf?tY ’“1 
+Fig. 1. a: The linear regression between the human brain size (ordi￾nate in cm3) and age (abcissa in years). The correlation between 20 
+and 65 years is insignificant (values of Haug and co-workers). The 
+correlation after the age of 60 is significant (P = ,011. b: The surface 
+high-power oil-immersion microscopy. In this way the 
+remaining bias in estimation is minimized. 
+4) Within the last 10 years the investigations of the 
+neurons have been performed in our group with the 
+help of digitizer instruments (MOP and a Videoplan, 
+Kontron). 
+We used these instruments in the macroscopic dimen￾sion and in microscopy by measuring over a drawing￾mirror and by tracing the figure of the cells with an 
+illuminated tracer (Haug, 1981a). The perikarya of those 
+cells with a nucleolus are traced by following their larg￾est visible circumference. This procedure has the advan￾tage that there is a high possibility to measure the 
+largest actual circumference. In this way we obtain an 
+unfolded size distribution (sd). The measurements are 
+restricted to those cells with a nucleolus inside the grid 
+of observation. In fact we also observe the Gundersen’s 
+rule (1978) for the edges. 
+5) The surface and volume estimations with digitizing 
+instruments are performed for the surface (S) by the 
+boundary length (B) and the thickness of slice (T) accord￾ing to the formula 
+3) 
+The volumes are calculated by the areal fractions 
+found in the total structure image and the single sub￾structures (Weibel, 1979). 
+6) The sd was evaluated from the projection area of 
+the perikarya. 
+With the computer it is possible to choose a classifica￾tion which can be adapted to the actual size. In general 
+we use a classification with 12 classes. We measure at 
+least 1,000 cells per specimen. In order to adapt the 
+differently arranged size classifications, we calculated 
+with a total of 26 classes for the comparison in mammals 
+(Haug, 1979). 
+We generally use a classification of neuron projection 
+area in groups (classes) of 20 pm3. In the classes num￾bered higher than 12, the class width was enlarged in 
+area of the cortex cerebri compared with brain size in humans. The 
+linear regression is highly significant (P = ,001) in spite of the vari￾ance (values of Elias and co-workers and Haug and co-workers). 
+such a way that with rising numbers the width in￾creased. As a consequence, the numbers in the larger 
+classes rose according to the width. For graphics it was 
+thus necessary to reduce the number of cells in these 
+classes with respect to the class width. 
+7) During the microscopic estimation, the fields of 
+measurement are arranged perpendicularly to the sur￾face of cortex and are called rows (Haug et al., 1971). 
+Each field lies in apposition to the preceding field. 
+Furthermore, the distance of the fields from the surface 
+is registered as numbered lines. The first field is apposed 
+to the surface of the cortex. In this way we can get an 
+insight into the cortical layers. Later on we introduced 
+coordinates for the so-called “gravity points” of the mea￾sured perikaryon projection areas. We can sample coor￾dinates of cells over a field of a maximum size of 3.5-6 
+mm’. With these coordinates we are able to print scat￾ter-diagrams of the distribution of cells within a satisfac￾tory extension of an area for all cells, or for neurons 
+selected according to a certain type or a certain size 
+(Haug, 1982). 
+8) The data collection performed for each neuron made 
+it possible to calculate the real size distribution for the 
+perikaryon projection area and for the volume of each 
+cell. 
+With the use of the formula of Kuhl et al. (19821, it is 
+possible to calculate the perikaryon volume of each per￾ikaryon. The sum of all neuronal volumes in a space 
+yields the perikaryon-volume fraction (~0%). The esti￾mation of this value by point counting is also possible 
+and amounts to nearly the same quantity. The perikar￾yon-volume fraction is the reciprocal value of the 
+“Grauzellkoeffizient” (gray-cell coefficient) introduced by 
+Economo (1926). 
+9) The shrinkage during embedding was estimated; 
+and it was discovered that by using methylbenzoate, an 
+age-dependent shrinkage of the brain tissue occurred 
+(Sass, 1982b; Eggers et al., 1984b). 
+The term used for the shrinkage is called residual 
+volume, which describes the size as a fraction or as a 
+percentage of the fresh volume. During our calculation 
+
+=== PDF PAGE 5 ===
+130 H. HAUG 
+HUMFiN a HUMAN b 
+= 673 I 2.514 x 
+0 = 16 
+Lsoglh Callcsl 
+COnval”l~a, I” CI 
+Fig. 2. a: The relation of the surface of the total cortex to the length 
+of gyral convolution in humans. The correlation is significant (P = .01) 
+(values of Elias with co-workers). b: The relation between the volume 
+of results, we perform a correction of the data. The 
+results mentioned in this paper are calculated with re￾gard to the so-called fresh volume. For brains in which 
+the shrinkage could not be measured, we calculate with 
+a factor corresponding to a residual volume of 0.60. 
+10) The values of the macroscopic and microscopic 
+evaluation can be combined in order to obtain informa￾tion as to sizes which cannot be measured directly. 
+Two sizes are important in our work. One is the aver￾age thickness of the cortex in a specimen. It is calculated 
+by dividing the volume by the surface of cortex cerebri. 
+The other size is the total amount of nerve cells in the 
+cortex cerebri, and it can be computed by a multiplica￾tion of the neuronal density by the cortical volume. Such 
+values were calculated for the single specimen. In this 
+way we gain an insight into the variability of the indi￾vidual number of cortical neurons. The size distribution 
+and the number of differently sized neurons can also be 
+calculated. 
+11) All our values were statistically secured by the 
+usual statistical methods of the t-values or regression. 
+In the comparisons, we used the linear, logarithmic, 
+and exponential regression function, depending on the 
+range of values and the best approximation. 
+RESULTS 
+The results are presented in the following manner: 
+Each part begins with the results in humans. In this 
+way information is gained on interindividual variation. 
+The assumption is made that the variability within each 
+of the other species is about the same as in humans. The 
+human values for the comparative part are represented 
+by the average of our own results. In the comparison of 
+the mammalian results it must be taken into account 
+that the data from one specimen per species is not the 
+mean of the species but may lie within a certain, yet 
+unknown, variability. Therefore, the examiner is unable 
+to estimate the actual position of the specimen investi￾gated within the field of variance. However, it can be 
+assumed that the results, as those of man, are nearly 
+free from the uncertainties of variance. The comparison 
+y = 2. I02 t 0.00053l x 
+r = 0.283 
+0 = 34 
+&/us of Pal” I” d 1.5 of brain 2?o I000 and the folding index. The linear regression in the human is 
+less significant (P = .1) (values of Elias and co-workers and Haug and 
+co-workers). 
+of the different animals and men will be made mainly 
+with the regression functions. 
+The Macroscopic Sizes of the Brain-Variance and 
+Comparison 
+In this section the volume of the total brain (Br-vo) 
+and of some parts are presented as well as the size and 
+configuration of the surface of cortex (Cc-sa; surface area 
+in cm3), the folding index (Cc-fi), and the length of con￾volution (Cc-le) of the cortex. Both the latter expressions 
+were introduced by Elias et al. (196713). The Cc-fi is an 
+expression for the folding of the brain and means the 
+ratio between the total surface including all deep parts 
+of the convolution and the external surface of the cere￾bral cortex. Cc-le represents the length of those convo￾lutions which can be seen on the exterior surface of the 
+cortex. 
+The area of the surface of the cortex was estimated for 
+the first time by Wagner (1864). His results are very 
+similar to the new measurements. The complicated es￾timations were rarely used. The introduction of the new 
+stereological procedures, however, opens a new epoch of 
+measurement of surface structures. 
+The variability of human brain size has been described 
+by Haug (1984) in detail. The brain size is influenced by 
+the increasing body size resulting from the secular ac￾celeration. Since about the end of the last century, this 
+increase in size has been about 1 mm per year. A secular 
+acceleration was not observed before the middle of the 
+18th century. The size of body had been nearly constant 
+for about 2,000 years. The present secular acceleration 
+of the body size of 1 mm per year also has led to an 
+increase of the brain size of about 0.6 cm3 per year, or to 
+50-60 gm per century (Haug, 1984). 
+Figure la shows the variation of human brain size in 
+relation to age. We do not differentiate between males 
+and females in the graph. The brain size of the adult 
+man is constant up to the age of 60 to 65 years. Only a 
+slight decrease. not significant. can be observed between 
+the ages of 20 and 65 years. Later, a distinct decrease of 
+size can be observed: it is about 6 to 8% less at the age 
+
+=== PDF PAGE 6 ===
+COMPARATIVE MORPHOMETRY OF CORTEX CEREBRI 
+I0 
+131 
+1000. 
+i 1 cc. / // 
+y = 1. (31. x1.Os9 
+r = 0.992 ” = 27 
+1 ,, UOlU or &.I” ,” d 
+1 Ib 1bo 1boo 1booo 
+Fig. 3. a: There is an exponential regression between the surface 
+cortex (abscissa) and the brain size (ordinate) in mammals. The human 
+values are circled. For abbreviations, see Table 2. The correlation is 
+significant (P = ,001) (values of Elias and co-workers and Haug and co￾workers). b: The folding index in mammals has a logarithmic regres￾of 90 years. This size decrease is significant (P = .01 in 
+spite of the relatively small sample. The individual com￾mencement of diminution of the brain is actually highly 
+variable according to statistical law. 
+Figure lb shows the cortical surface (Cc-sa) of the 
+human cortex cerebri in relation to brain size with a 
+significant correlation (P = .001). Nevertheless, the var￾iability is considerable. 
+The values for length and surface of cortical convolu￾tions in man (Fig. 2a) were estimated by Elias et al. 
+(196713). The correlation of both sizes is significant (P = 
+0.01). The length of convolutions compared with the age 
+shows only a trend for diminution which is not signifi￾cant. Between the folding index and the brain size, only 
+a tendency of correlation (P = 0.1) can be found (Fig. 
+2b). In my opinion, folding is barely influenced by the 
+size of the brain. We will say more about this problem 
+in the Discussion. 
+Figure 3a compares the surface of cortex (Cc-sa) with 
+the volume of the brain (Br-vo) of some large and small 
+mammals. Each sign in this comparative view is based 
+on one single size of species represented; only in man 
+have we two means of males and females (circled). The 
+interpretation of the results must take into account the 
+individual variability within the order of a species. We 
+may assume that the variation in animals is similar to 
+that in man. The correlation of both values in mammals 
+is exponential and significant with P = .001. The values 
+of man lie slightly below the regression line. This point 
+is worthy of note and will be discussed below. 
+Figure 3b shows the logarithmic regression between 
+folding index (Cc-fi) and brain size in the mammal. This 
+correlation is highly significant. It is interesting that 
+the humans with two mean values (one for males, one 
+for females) and the elephant are distinctly below the 
+line of regression. This fact will be discussed later on 
+when comparing the volumes of the cortex. The Cc-fi of 
+man is obviously smaller than that of the whales. The 
+dolphins, and especially the Tursiops truncatus, with 
+b 
+.5 Lblu of hln in d 
+1 ib ibo iboo ib000 
+sion and is highly significant (P = ,001). It should be noted that the 
+values for man and elephant deviate from the mean correlation line in 
+the lower direction (values of Elias and co-workers and Haug and co- workers). 
+brains of a similar size to man, have Cc-fi which are 
+about 50% higher. 
+When man and animals are compared as to the size of 
+the cortex cerebri (Cc-vo) relative to age in man and to 
+size of brain of mammals (Br-vo), in humans (Fig. 4a) we 
+find a slight negative but not significant correlation 
+between volume and age. If we divide the values at the 
+age of 60 years, we can calculate the correlations for 
+both groups. We find no correlation (r = .096) at ages up 
+to 65 years. However, after the 60th year of age up to 
+the oldest individual estimated, there is a significantly 
+negative correlation (P = .01) with aging. If we compare 
+this result with the correlation of the total brain, we 
+must consider that the decrease in size of Br-vo is much 
+more obvious than that of Cc-vo. This result is in agree￾ment with other estimates (Haug et al., 1984; Eggers et 
+al., 1984a). Figure 4b contains the comparison of Cc-vo 
+with Br-vo in mammals. The exponential regression is 
+highly significant. In contrast to Figure 3b, the values 
+of man do not deviate from the regression line. This 
+must be seen in connection with the thickness of the 
+cortex cerebri. 
+In Figure 5, the sizes of the striatum and the thalamus 
+are compared with age in man and with total brain size 
+in mammals. The exponential regression in man (Fig. 
+5a) shows a highly significant negative correlation for 
+both important nuclei in the subcortical structures. This 
+declining function may be relevant during the total adult 
+life, because we cannot discover a break point of the 
+scatters at the age of 60-65 similar to that for the total 
+brain (Fig. la). This result will be discussed later. The 
+correlation of both central nuclei with brain volume in 
+mammals (Fig. 5b) also has a positive significance (P = 
+.001). The human values lie within the regression line. 
+The Cortical Cyfoarchitectonics 
+The images of the cytoarchitectonics of the areas in￾vestigated are very different. The differences are dis￾tinctly greater than the individual variability which 
+
+=== PDF PAGE 7 ===
+132 H. HAUG 
+I" d 
+loon 
+9004 
+BOO. 
+700. 
+600. 
+500. 
+400. 
+300. 
+zoo. 
+100. 
+a 
+HUflRN 
+y : 633.8 - 0.68 x 
+r = 0.234 
+":a 
+60001 
+b 
+Fig. 4. The volume of cortex in the human is depicted in relation to ,692, P = ,011 (values of Haug and coworkers). b: There is an exponen￾age and, in mammals, to the volume of the brains (b). a: The total tial regression between both values of high significance (P = ,001). 
+correlation in the human is not significant. For ages over 60 years, The circled values of man lie very near to the regression line (values 
+however, a significance can be found (A = 719, B = -1.68, n = 15, r = of Elias and co-workers and Haug and co-workers). 
+!blw I" d HlJflflN 
+a 
+_i + rhsi￾y = 21.L - r = 0.m n=x 
+50 
+flRfl17RL S b 
+10. 
+5.0. 
+y = 0.08lS. PO P = 0.B 
+n : I0 
+1.0- 
+0.5 - 
+LblU Of hln I" d 6' Ib do rbo 00 rboo 6000 0. 'I' 
+10. 
+5.0. 
+y = 0.08lS. PO P = 0.B 
+n : I0 
+1.0- 
+0.5 - 
+LblU Of hln I" d 6' Ib do rbo 00 rboo 6000 0. 'I' 
+Fig. 5. The volume of the striatum and the thalamus (values of Haug 
+and co-workers). a: For humans, volumes are compared with age; the 
+correlation is highly significant for both nuclei (striatum: P = .01; 
+thalamus: P = .001). b: The exponential regression of the mammals 
+for the striatum is highly significant (P : ,001). The value of man is 
+circled. 
+was demonstrated by Haug et al. (1984). The cortical 
+areas shown in Figure 6 are not from the same cytoar￾chitectonic type. But, in my opinion, the cortical enu￾merations given by Brodmann are actually valid only 
+for the primates. In other mammals, we find areas with 
+the same or similar functions. However, their cytoarchi￾tectonics deviates more or less from the Brodmann's 
+image (1909). 
+Figure 6 shows that the various mammals differ from 
+each other in some characteristics. The figures regard￾ing the cortex of Odontoceti published by Langworthy 
+(19321, Jansen (19731, Morgane et al. (1980,19851, Jacobs 
+et al. (19841, and Kesarev et al. (1977) show a great 
+similarity to our own images; this concerns also the 
+individual variability. The following details are 
+important: 
+1) The thickness of cortex cerebri differs from species 
+to species on the order of two times, e.g., man and Insec￾tivora (hedgehog and mole). 
+2) Layer I is to some extent very thin, especially in the 
+primates, e.g., Saimiri, and partly very thick, e.g., ele￾elephant and some dolphins. 
+3) The density of the neurons is very different. Micre 
+cebus and Saimiri have a very high density, but in the 
+elephant and dolphins it is low. 
+4) The sizes and size distributions of the neurons are 
+also very variable. We find a high uniformity of the cell 
+sizes, with small cells in Microcebus and Saimiri; me￾dium cells in the Insectivora, Tupaia, and lemurs; and 
+very large cells in the elephant and Phocaena phocaena. 
+The primates including man show a high variability 
+of cell size, but the small granular cells represent a very 
+large fraction. 
+5) A layer IV which is actually granulated can be seen 
+only in the brains of primates and man. Yet, in the 
+prosimians the granulation is moderately expressed. 
+Figure 6 can help in understanding the differences in 
+the species with regard to neuronal densities, mean 
+
+=== PDF PAGE 8 ===
+COMPARATIVE MORPHOMETRY OF CORTEX CEREBRI 133 
+Fig. 6. Cytoarchitectonic images of the cortex cerebri of some mam- shrew.) except in elephant (EL), bottlenose (DT) and common dolphins 
+mals and man investigated. All images are taken from the lateral (DD), opossum (MO), hedgehog (IE), and mole (IT) which were taken 
+convexity of the frontal lobe concerning probably area 9 (DP, porpoise; from the convexity of the parietal lobe. The comparative areal classifi￾H, man; NA, spider monkey; NS, squirrel monkey, NT, night monkey; cation of these animals is not definitely defined. 
+OG, gorilla; OR rhesus monkey; PL, lemur; PM, mouse lemur, TG, tree 
+sizes, and size distributions. The graphs show us that 
+cerebral cortices with a high granular fraction are a 
+special evolutionary development, which is-to my 
+knowledge-restricted to those primates beyond the bor￾der between prosimians and primates sensu strictiori. 
+The Cortical Neurons: Number and Size 
+This section deals with the mean values of cells, espe￾cially neurons, in the cortex. The evaluations were per￾formed mainly in the convexity of the frontal lobe of the 
+brain. In the dolphins, the elephant, and man, four areas 
+were estimated. A medium arrangement of the investi￾gated areas will be used in comparison. The enumera￾tion will be as follows: density of cells (de), the mean size 
+of neurons (Ne-ms), the volume fraction of the Nissl￾stained perikarya (vo%), and the total amount of neu￾rons in the neocortex (Ne-am); the latter was estimated 
+by the volume of cortex and the Ne-de over the cortex, 
+taking the shrinkage into account by multiplication with 
+the residual volume. The size distribution of the cortical 
+perikarya (Ne-sd) will be given separately in the next 
+section. 
+The cellular densities are calculated for a volume of 
+1 mm3. With the procedure of Haug et al. (1971), it is 
+possible to estimate the mean density within the total 
+cortex. Therefore, we measured the cells within rows 
+arranged perpendicularly to the free surface of the cor￾tex. On an average ten to 20 such rows were used for 
+the final results. For each cortex, we measured about 
+1,000-1,500 neuronal perikarya. 
+The density of neurons in the neocortex in mammals 
+has a negative correlation with brain volume (Fig. 7a) 
+which is highly significant (P = .001). Nevertheless, the 
+variability of the values is distinct. Man and some of the 
+
+=== PDF PAGE 9 ===
+134 H. HAUG 
+MRflflflL s 
+. UI 
+.N1 
+a 
+y = 59.17 - 5.4 . In x 
+r = 0.633 n = 27 
+w, DO. I0 
+Wue of %sin in a' 
+I 6' Ib dl 1bo do0 1boo Boo 
+Fig. 7. The cellular density in the cortex cerebri in 1,000 per mm3 
+(values of Haug and co-workers). a: The neuronal density has logarith￾mic regression and shows a high significance (P = .001) in mammals. 
+MAMMAL s 
+ow 
+b 
+_.i 6' ; -OTd , -0- 6' , ~oooo 
+I0 
+41- or PP;~ in d 
+I 0 100 00 I000 
+The circled human values lie above the regression line. h: The density 
+of glial cells in the gray of cortex shows very large variations. A 
+dependence on brain size cannot be observed. 
+MAMMAL s a 
+MRDDRL s 
+b 
+Fig. 8. The size of neuronal perikarya in pm3 is compared with the 
+size of brain and with the density of neurons (values of Haug and co￾workers). a: The logarithmic regression shows on the whole no corre￾lation in mammals. The logarithmic regression line does not include 
+primates and man. In primates one cannot see any dependence be￾tween the two values. For all other mammals a slight correlation exists 
+(n = 10, A = 1,602, B = 275.8, r = ,714, P = .05) h: The linear 
+regression of the perikaryon size to the neuronal density is distinctly 
+flatter for primates including prosimians (B = - 1.51, P = ,011 than for 
+the mammals (B = -52.1, P = .01). 
+primates lie over the regression line. This characteristic 
+will be commented upon in the Discussion. 
+The glial density (GI-de) shows no signs of dependence 
+on the size of the brain in spite of high variance (Fig. 
+7b). It should be noted that G1-de is probably lower in 
+primates than in other mammals. Our sample, however, 
+is too small to allow a definitive statement on this 
+question. 
+Figure 8 compares the mean size of neuronal peri￾karya (Ne-ms) with the size of brain (Br-vo) in a logarith￾mic and with Ne-de in an arithmetic regression. The Ne￾ms is expressed in pm3 as volume. The comparison with 
+Br-vo in Figure 8a shows an increasing size; however, 
+the increase is only slightly significant in those mam￾mals (P = .05) which are not primates. In primates in￾cluding man and prosimians, we do not see any relation 
+between Br-vo and Ne-ms. 
+The correlation of Ne-ms with the Ne-de is negative 
+and significant at the level of .01%. We find differences, 
+however, between primates and the other mammals. 
+The regression in the other mammals is steep and shows a relatively large variance; the one of the primates is 
+relatively flat, yet it has only a small variability. Man 
+lies near the lower left corner, indicating that he has 
+also a small mean size as well as a relatively low density 
+of neurons. 
+Figure 9 deals with the total amount of neurons (Ne￾am) in the individual human neocortex compared with 
+
+=== PDF PAGE 10 ===
+COMPARATIVE MORPHOMETRY OF CORTEX CEREBRI 
+I0 
+5. : 
+135 
+aolhp -19 
+@,,,;., D 
+.om p-i.Pl0, 
+-m 
+;; m@ *,**s 007 
+man 
+9 DTD me, mr 
+BlW dh," I" cr' 
+25 fzmlnt mr"e cells x 10% HUflRN CURTEX CERfERl 
+b 
+PO 
+uoim or in ~d 
+800 I000 1200 1400 1600 IbOO PO00 
+Fig. 9. The individual number of neurons in the human cerebral 
+cortex is compared with the brain size and age. The squares represent 
+males and the triangles females (values of Haug and co-workers). a: 
+MAMMALS RND MBN a 
+IWO0- 
+10000- 
+w00- 
+1000- 
+600- / 
+1 VDlw of hoin in d 
+do too do0 Ibffff do00 
+Fig. 10. a: The total number of neurons in the cerebral cortices and 
+the brain size of mammals in an exponential regression correlate 
+highly significantly (P = .001). b: The perikaryon volume fraction and 
+its brain size and its age. The computation of this value 
+is mentioned in the Methods section. The sample of 81 
+individual values contains only those specimens for 
+which at least two areas have been evaluated (Haug, 
+1986). 
+The Ne-am is very variable (Fig. 9a); however, it in￾creases with brain size, having a great probability of 
+P = .001. It is an interesting point that the females, 
+expressed by triangles, lie almost entirely above the 
+regression line. According to their lower brain weight, 
+they lie in the middle and left part of the diagram. 
+We could find no change of Ne-am during aging nor a 
+difference between male and female (Fig. 9b). Both points 
+were surprising. Our detailed measurement of the effect 
+of aging in four human areas (Haug et al., 1984) has 
+shown that the densities of neurons increase. It is nec￾essary to state that we have eliminated the errors due 
+t,o the different shrinkage of the human brain tissue 
+1 , , ,.,,, , , , , , , Age 8" Yes, 
+10 20 30 40 50 60 I0 80 90 100 110 j 0 
+The brain size shows a linear regression with a significant correlation 
+(n = 81, y = 5.583 + 0.006 x, r = ,479, P = .001). b: The age is not 
+correlated with the number of neurons. 
+y = 7.65 - 0.41 ' In x 
+r = 0.646 ".a 
+with aging and refer to the fresh tissue volume. The 
+values (Ne-am) of the females lying amongst those of the 
+males demonstrate the fact that females have a higher 
+density of neurons in their cortex. Haug (1985) has found 
+that the density is about 4,000 neurons per mm3 higher 
+in the female than in the male. 
+Figure 10a shows the exponential regression between 
+the Ne-am in the neocortex and the volume of the brain. 
+The correlation is highly significant at the level of 
+P = .001. This fact is to be expected. However, one spe￾cies, man, deviates clearly above the regression line. 
+Together with the other notable findings, this will be 
+discussed below. 
+Figure lob deals with the relation between brain size 
+and the perikaryon-volume fraction (Ne-vo%), which is 
+an expression of the size of the neuropil and, indirectly, 
+of the space in which the dendrites communicate with 
+the axon by synapses. A decrease in Ne-vo% indicates 
+
+=== PDF PAGE 11 ===
+136 H. HAUG 
+a 
+I0 
+5 
+IM 
+I0 
+5 
+IM 
+10 
+5 
+0 
+CORTEX CEREBRI OF SOME SMALL MflflflflLS 
+Sam Dislrrbut im of irSvms/ Pwzksya 
+C 
+CORTEX CEREBRI OF LRRGE MRMflRLS 
+Size Dirlriknim of llwml Per)krg8 
+25 1 b 
+5 
+IOM 
+5 
+10/0 
+5 
+lOM 
+FRONTAL CORTEX OF flRN AND PRIMRTES 
+I S<ze Dlslrrtuttm of llsvolpl Pe-,kaya 
+25 
+20 1 
+UISUflL CORTEX 
+Size Dislribut,m of Plsvmsl Perikaya 
+Fig. 11. The frequency (linear, in percentage) and the size distribu￾tion (sd) of the perikaryon projection area (logarithmic scale) are given 
+for man and different species and families. The smaller sizes have 
+classification of 20 pm2. In the larger classes the width of the classes 
+increases (see Methods). The ordinate contains the percentage of values 
+based on a size class of 20 pm2. The arrow is placed on the arithmetic 
+mean of all sizes. The ND is the corresponding neuronal density in 
+1,000 per mm3. For further details, see text (values of Haug and co- workers). a: The sd in man: the typical cortex is the usual six-layered 
+cortex (areas 7 and 11). The agranular cortex is represented by area 6 
+and the visual cortex is area 17. The mean cortex concerns the sd over 
+all cortical areas. b: The sd of those specimens with a large brain. Each 
+curve represents the mean over four areas. c: The sd of those specimen 
+with a small brain. d The sd in the frontal cortex of mammals. The 
+curve for primates is the mean of all Old and New World monkeys (see 
+Table 2). The lemurs are the mean of PL and PR. The neuronal density 
+is omitted. e: The sd within some visual cortices. The human values 
+are the mean of 50 differently aged specimens, and those of the cat of 
+six specimens (Moral and Haug, 1982). 
+e 
+ND = 4l.J 
+a m p2 
+
+=== PDF PAGE 12 ===
+COMPARATIVE MORPHOMETRY OF CORTEX CEREBRI 137 
+an increase of the neuropil. This measurement mani￾fests a high correlation with brain volume (P = .001) in 
+spite of the relatively large variance. A difference in 
+this measurement between the different genera of mam￾mals cannot be found; the primates lie amongst the 
+other mammals. 
+The results obtained at the cellular level have brought 
+some interesting conclusions which can best be under￾stood if we discuss them collectively. 
+The Size Distribution of Cortical Neurons 
+The size distributions of the cortical neurons (Ne-sd) 
+were primarily estimated from a layerlike measurement 
+of flat strips lying parallel to the surface of the cortex. 
+In the study presented, however, such a detailed report 
+on the results cannot be given. Therefore, our results 
+deal with Ne-de in the total depth of the cortex. The 
+curves of Figure 11 demonstrate that important differ￾ences exist. The graphs are logarithmic in direction to 
+the size and represent the projection area of the neurons. 
+This logarithmic scale shows that the larger sizes of 
+neurons are apparently represented much less than the 
+smaller ones. The logarithmic scale leads to an increas￾ing width of the size classes, contrary to the visual 
+impression that the class width becomes smaller. The 
+linear heights represent the percentage within the 
+classes; this value is corrected depending on the width 
+of the classes. 
+The density of the neuroiw (1,000 per mm3) is shown 
+on the various parts of Figure 11. This density is highly 
+different for the various species and areas. It should be 
+mentioned, however, that the curves of Ne-sd are based 
+on the percentage and not on the density. Another point 
+is important, i.e., that small Ne-sd have few classes with 
+a high number of neurons. This refers mainly to Ne-sd 
+consisting of small cells. On the other hand, the Ne-sd 
+with large cells spread their values over many classes. 
+Therefore, one can find only a low percentage in each 
+single class. 
+The arrows in Figure 11 illustrate the mean size of the 
+neurons (Ne-ms) in the cortex. If the Ne-sd is almost 
+normally distributed, the arrow points to the maximum 
+of the Ne-sd. A deviation of the arrow in the direction of 
+the larger size classes indicates a rather logarithmic Ne￾sd. 
+The Ne-sd is based on the measured projection area of 
+the largest circumference of the Nissl-stained neuron. 
+This largest area was found by turning the fine ad'ust￾ment screw. The cells below the area of 100 pm are 
+smaller than 500 pm3. Neurons having an area over 200 
+pm2 are larger than 1,500 pm3. At an area of around 
+400 pmi, the size increases to over 5,000 pm3; and at 
+600 pm , a size of over 10,000 pm3 is reached. The 
+largest neurons measured in the Phocaena phocaena 
+(DP) were in the range of 950 pm2 with a volume of over 
+20,000 pm3. The granular cells are below 400 pm3; this 
+equals a projection area of 90 pm2. The smaller pyrami￾dal neurons are between 400 and about 1,000 pm3. The 
+largest cells in DP have the size of the smaller giant 
+Betz neurons of man. 
+The average Ne-sd within the human cortex (Fig. lla) 
+was estimated in four different areas according to the 
+main types of cytoarchitectonics. In man many of the 
+smaller neurons are of the granular type, and most of 
+d 
+the large neurons are of the pyramidal type. Each area 
+indicates the average of at least 50 specimens. The 
+curves represent very different types of Ne-sd. The hu￾man visual cortex (area 17) presents a high percentage 
+of neurons within the smaller size classes and very few 
+cells in the larger classes. The total Ne-de is in the range 
+of 41.3 (1,000 neurons per mm3). The agranular cortex 
+of the extrapyramidal area 6 has an average Ne-de of 
+only 14.1; this is about a third of the density of area 17. 
+It shows fewer neurons only in the smaller classes. The 
+larger classes are represented by a relatively long tail 
+in the direction of the higher size classes. The typical 
+six-layered cortex (areas 7 and 11) and the mean cortical 
+representation of Ne-sd in the total cortex are very 
+similar. 
+The impression from these Ne-sd curves of the human 
+cortex is of the variability within one species. This is 
+important for the comparison with other genera of 
+mammals. 
+In Figure llb we can see Ne-sd of large mammals like 
+dolphins and the elephant. They have only a few small 
+neurons. The distributions expand distinctly in the large 
+and very large size classes. The Ne-sd within the dol￾phins sensu strictiori (Delphinus delphinus, Tursiops 
+truncalus, and Globicephala macrorryncha) are similar. 
+On the other hand, the small Phocaena, with only a 500- 
+cm3 brain size, shows a Ne-sd consisting of many very 
+large cells. They are distinctly larger than those of the 
+elephant, which, however, has the second-largest Ne-sd 
+of all mammals investigated. 
+The comparison with man shows that the mammals 
+with large brains have mainly large cells of the pyra￾midal type in their cortices, while in the size classes 
+below the projection area of 100 pm2, man has a lot of 
+small cells which are probably mostly of granular types. 
+The density of neurons in man is distinctly higher than 
+in mammals with large brains. The elephant has, with 
+6.8 (X l,000/mm3), the lowest Ne-de measured in our 
+investigation. The consequences of this kind of differen￾tiation of composition will be commented on below. 
+In animals with smaller brains, the Ne-sd are rela￾tively small (Fig. llc). This means that neuronal sizes 
+are very uniform. However, small mammals, except the 
+Saimiri (primate, platyrrhini), do not have really small 
+or very small neurons. It seems that they have no or 
+only a few granular cells. The location of the arrow for 
+the mean size in all these mammals lies near the maxi￾mum of the Ne-sd, which speaks for a normal distribu￾tion. The Saimiri will also be mentioned below. 
+Figure lld deals with the primates. All results con￾cern the convexity of the frontal cortex and in man, area 
+11. In this graph the arrows for the Ne-de were omitted, 
+because the curves for the lemurs and primates are 
+combinations of more than one species. The Ne-sd found 
+in all Old and New World monkeys were very similar. 
+Therefore, I have used a common curve which includes 
+five Old World and five New World monkeys; the species 
+are listed in Table 2. The common curve for the primates 
+shows that the neurons smaller than 100 pm2 constitute 
+about 20%. This is similar to the human frontal area 11, 
+which, on the other hand, also has a remarkable number 
+of larger cells (location of the arrow). The Ne-sd of the 
+very small prosimian Microcebus consists of many cells 
+around the projection area of 120 pm2. This supports the 
+
+=== PDF PAGE 13 ===
+138 H. HAUG 
+premise that none or only a few granular cells are joined. 
+The Ne-sd in the lemurs (Lemur catta and Lemur rufi￾caudatus) is nearly the same. Both large prosimians 
+have no granule cells, and their cortex consists mainly 
+of medium-large pyramidal cells. 
+Tupaia also has, similar to the lemurs, only medium 
+to large cells. The graph of Figure lld shows that the 
+Ne-sd of the primates (Old and New World monkeys) 
+and man are greatly similar. Both zoological families 
+have a cortical cytoarchitectonic structure which is char￾acterized by a large fraction of small, mainly granular 
+cells. 
+The influence of the fraction of granular cells on Ne￾sd is demonstated in Figure lle, which compares three 
+visual cortices. In man, over 50% of all cells are smaller 
+than 100 pm2. Economo (1926) has therefore introduced 
+the name “coniocortex.” In the cat we find a neuronal 
+density which is similar to that of man; but Ne-sd is 
+quite different, because the number of small cells is 
+much lower. The visual cortex is constructed mainly of 
+medium-to-large cells, similar to the pyramidal type. In 
+the common dolphin, the size distribution is greater 
+than in man and the cat. The cortex is small and consists 
+of pyramidal cells. A similar construction can be found 
+in other dolphins (Tursiops and Globicephala). Their 
+visual cortices show a decreasing density and an increas￾ing neuronal size with the enlargement of the brain. 
+The figures for the Ne-de in the cortex cerebri of some 
+mammals and man look similar. However, the compo￾sition as to type of neurons must be very different in 
+the various families; this is true especially for primates 
+and man. 
+DISCUSSION 
+As to the general meaning of our results, attention 
+should be paid to the fact that the values obtained are 
+sampled from mammals of very different families. The 
+different procedures used in various measurements by 
+other authors must be considered and a basis found for 
+the interpretation of data. I shall divide the account into 
+three parts. First are the special behavioral patterns 
+within one species regarding variation and biological 
+changes in aging. In this way we receive information 
+about the various measurements and their changes 
+which may influence the results obtained from one in￾dividual of a single species. It must be stated that our 
+results are corrected for embedding shrinkage and its 
+alteration during aging; therefore, they represent val￾ues for fresh material. 
+In the second part, the common rules within the mam￾mals studied will be discussed. This part must be con￾nected with the usual assumption of the size of structure 
+parameters by the so-called allometric method (Jerison, 
+1974). Combined with this view is the third part, which 
+deals with the special developments in primates and 
+man. In this connection, the comparison of those ani￾mals with large brains and high animal intelligence is 
+of great interest. 
+Our investigation shows that the variation in all size 
+measurements is great. The variance of the interindivi￾dual macroscopic values expressed in percentage of stan￾dard deviation in man is 10-15%. Within this range lie 
+about two-thirds of all values of one species. The size 
+variation in the cellular structures is between 15 and 
+25%. The methodical error is usually smaller than 5% 
+during our estimation concerning larger structures or 
+structural components. 
+If we transfer this variation to the single species of 
+mammals in our investigation we are able to say that 
+differences in the body and brain size between the indi￾viduals of one species and the average of the species are 
+certainly larger than 20%. The differences of the mea￾surements between the various species of mammals are 
+larger than 1,000 times. For example, Sorex minutus 
+has a brain weight of 0.25 gm and Physeter catodon, 
+9,000 gm (Haug, 1970a). Therefore the comparison of 
+our results is less influenced by the individual variation 
+and the methodical problems. Thus it is reasonable to 
+draw comparative conclusions in quantitative terms. 
+A further point is important to mention: the age-de￾pendence changes in humans are very complex. The size 
+of the brain diminishes after the age of 60-65 years 
+(Eggers et al., 1984a, Haug, 1984); however, a large 
+individual variance can be observed with respect to the 
+age of onset. During biological (physiological) aging, we 
+cannot observe a diminution in the number of neurons 
+in the human cerebral cortex. The shrinkage of the 
+brain during aging, however, leads to an increasing 
+density of neurons. In other words, the neurons move 
+closer together during aging. This observation transfers 
+the changes from the rough cellular to the subcellular 
+level during aging (Haug, 1984,1985; Haug et al., 1984). 
+A further point must be noted. The age changes in the 
+human brain are very different. Those parts of the cere￾bral cortex which are closely connected with the sensory 
+functions show fewer signs of aging (area 7 and 17), 
+while the motor function areas are strongly affected. 
+This can be seen in the extrapyramidal area 6 in which 
+the perikarya shrinks to about two-thirds (Eggers et al., 
+1984a). An interesting observation in humans is the fact 
+that females and males have the same total number of 
+neurons, although the size of the female brain is about 
+100-150 cm3 smaller than that of the male. The neu￾ronal densities in all five areas investigated were statis￾tically significantly higher in females (Haug, 1985). It is 
+unknown whether similar differences between the sexes 
+can be found in all higher mammals. This question is 
+discussed by Swaab and Hofman (1984) and Dohler and 
+Gorski (1981). 
+The comparative results at the macroscopic level show, 
+for all parameters estimated, a clear relation to brain 
+size. This refers to the surface of cortex (Cc-sa) and the 
+volume of cortex (Cc-vo), thalamus, and striatum. All 
+estimated correlation functions are significant at the 
+level of P = .01 or .001. 
+The previous investigations of Bok (1959), Stephan 
+(19721, Stephan and Andy (19691, and Bauchot (1978) 
+have demonstrated a similar behavior. However, the 
+examined primates, rodents, and insectivores represent 
+only a small sector of the mammals. These scientists did 
+not have the opportunity to measure mammals with 
+very large brains. Furthermore, they compare the ani￾mals mainly by using brain and body sizes and selected 
+indicators such as “progression indices” for brain and 
+different brain parts like neocortex. In our results (Figs. 
+3a, 4b, 5b), the exponential regression has a slope of 
+
+=== PDF PAGE 14 ===
+COMPARATIVE MORPHOMETRY OF CORTEX CEREBRI 139 
+90 7 
+Fig. 12. The size of the brain and its logarithmic correlation to 
+neuronal density and the neuronal volume fraction; the data are en- riched with older results and values of Ryzen and Campbell (1955) and 
+Tower (1954). a: Density of neurons. Primates and man have a signifi￾about 1.1 except in the striatum. This may be proof that 
+in large brains the Cc increases more strongly than the 
+basal ganglia including striatum. 
+One realizes, however, that the values of the humans 
+are distinctly smaller regarding the surface area and 
+folding index of the cerebral cortex than expected ac￾cording to the regression function for all mammals in￾cluding the large Odontoceti (Elias and Schwartz, 1969, 
+1971; Elias et al., 1967a,b, 1969; Haug, 1970a). On the 
+other hand, humans lie within or slightly over the 
+regression line for the volume of cortex. This accords 
+with the results of Haug (1970a), who has found out that 
+Cc-vo has, in man, the largest size of about 47%, while 
+the Cc-vo of the Odontoceti is only 43-44%. 
+Consequently, the thickness of the human Cc should 
+be greater than that of mammals with large brains, 
+including the Odontoceti and the elephant. The rela￾tively low Cc-vo of the elephant is due mainly to its very 
+large cerebellum. It has, at about 30%, the largest vol￾ume fraction of the cerebellum of all mammals (Haug, 
+1970a). According to our own measurement, the thick￾ness of Cc (see Fig. 6) in man is distinctly greater than 
+in other mammals. It is striking that the layer I of the 
+large mammals is very thick. Figure 6 shows that this 
+layer amounts to over one-third of the total Cc in the 
+elephant. The report on the thickness of Cc in Odonto￾ceti, especially in Tursiops, also shows a thickness be￾tween 1.2 and 1.6 mm (Langworthy, 1932; Jacobs et al., 
+1984; Jansen, 1973; Kesarev et al., 1977; Morgane et al., 
+1980,1985). This result is not in accordance with Proth￾ero and Sundsten (1984), who report on an increasing 
+cortical thickness with brain size. 
+The macroscopic comparison shows that many authors 
+have drawn conclusions as to the special situation of 
+man without enough knowledge of large brains, e.g., 
+whales (Bok, 1959; Stephan, 1972; Stephan et al., 1984, 
+Hofman, 1984). With regard to surface and folding, man 
+is less developed only compared with dolphins. 
+y = 7.38 - 0.639, In II 
+r =0.126 
+.*D 
+uolue or ,em I" m' 
+I .P ,> 2' 9 2 0 90 200 %o 2000 hoo 
+cance of P = .01 and other mammals including the prosimians of P = 
+,001. b: The perikaryon-volume fraction is at P = ,001 and is highly 
+significant for all mammals. 
+The cellular level, however, gives a quite different 
+aspect. The glial cell density (Gl-de) probably does not 
+depend on the brain size. A difference between males 
+and females does not exist. The G1-de in the gray part of 
+the cortex cerebri is at the range of 30,000-60,000 per 
+mm3. The G1-de in primates is possibly lower than in 
+other mammals, yet we cannot find a statistical 
+significance. 
+In spite of a high variance, the density of the neurons 
+(Ne-de) has a clear connection with brain size, where 
+density decreases while brain size increases. However, 
+many of the primates and man lie above the regression 
+line. In addition to the values presented in Figure 7a, 
+Figure 12a contains older estimations from our own and 
+other groups. The separately calculated regression func￾tions for primates, including man, and the other mam￾mals show that both groups have a similar slope (-6.0 
+and -7.0). The regression for the primates, however, is 
+about twice as high as that for the other mammals. 
+Similar results were reported upon by Tower (1954) and 
+Haug (196713,1981b). 
+The mean size of the neuronal perikarya (Ne-ms) has 
+no simple relation to brain size. The Old and New World 
+monkeys (Figs. 6, 8b, lld) have similar Ne-ms and size 
+distributions of neurons (Ne-sd). In the other mammals, 
+however, Ne-ms increases with brain size (Bok, 1959). 
+Another special evolution in monkeys and man is the 
+high fraction of cortical granular neurons with switch￾ing functions. Only in primates does layer lV have a 
+typical granular formation consisting mainly of such 
+small cells. All other mammals have a layer IV with 
+neurons of medium size. Nevertheless, the fibers lying 
+parallel to the surface in layer IV represent a common 
+development of nearly all mammals. 
+One interesting finding is common to all mammals: 
+this is the size of perikaryon-volume fraction (Ne-vo%), 
+or the reciprocal gray-cell coefficient which represents 
+the size of the neuropil in Cc. The Ne-vo% decreases 
+
+=== PDF PAGE 15 ===
+140 H. HAUG 
+I000 Neuons 
+per 1 ND' Sufaco Monkeys 
+zoo 1 
+MU Uorld 1 
+Old Uorld 
+n 
+(( Other Mammals 
+Prosinia Small 
+Fig. 13. The number of neurons in the cortex beneath a cortical 
+surface area of 1 mm2, For details see text. 
+with increasing brain size (Haug, 1967a, 1981b). The 
+significance of this decrease is the corresponding in￾crease of the neuropil, which means that the number of 
+interconnections between the perikarya also increases. 
+This corresponds to the larger number of neurons in the 
+total brain. Figure 12b contains data from some older 
+investigations besides our own values. The variation of 
+values is relatively high; it is a question of whether this 
+variation contains differences between the mammalian 
+families. If such differences of Ne-vo% exist, they will be 
+relatively small. 
+The material of our investigation permits an answer 
+to the question of whether the number of neurons in a 
+certain cylinder of Cc is independent of species and 
+family. Bok and Taalman Kip (1939) and Rockel et al. 
+(1980) have postulated that this number is, in all mam￾malian Cc, the same below a certain surface area of Cc. 
+Only the visual cortex has about double the number in 
+such a cylinder. Our square is, with a 1-mm edge size, 
+about 1,111 times larger than that calculated by Rockel 
+et al. (1980). On the other hand, we also considered the 
+three-dimensional shrinkage. 
+Our own results concerning Ne-de (1,000 per mm2) can 
+almost be compared with those of Bok and Taalman Kip 
+by multiplication by a factor of 60 and with Rockel's by 
+multiplication by 1,900. Both factors reflect the mean 
+shrinkage and the different sizes of surface area of Cc. 
+Figure 13 shows our results. The range extends from 
+about 19 (1,000 neurons per 100 pm2 times cortex thick￾ness) in the elephant up to 190 in the woolly monkey 
+(NL). Also in man we have found large differences in 
+neuronal density, between 37 and 92. An unpublished 
+personal recalculation of the values of Economo and 
+Koskinas (1925) for man has found Ne-de of 35 in area 8 
+and over 100 in all primary sensory Cc, with a total 
+mean of 50. I think that Rockel's assumption is re￾stricted only to primates, some rodents, and carnivores. 
+It cannot be a general rule for all mammals. 
+In conclusion, we may state, there is a certain frame￾work of allometric connection within the brain and Cc 
+structures within the order of mammals. The allometric 
+correlation is relatively high concerning the macro￾scopic measurements. However, the different families 
+deviate from this main correlation in a special direction 
+for each family (Jerison, 1974). The primates have 
+evolved a deviation in the direction of a high fraction of 
+granular neurons in Cc. Furthermore, their cortices are 
+distinctly thicker compared with other mammals. The 
+result is an increasing complexity in the vertical col￾umns of the cortex. The Odontoceti, however, have not 
+developed a granular neuronal system. They have in￾creased the Cc folding distinctly more than the pri￾mates; however, we do not know anything about their 
+cortical columns. 
+The high folding of Cc and the relatively thin Cc in 
+whales may be a development which has, on the whole, 
+the same functional significance as the development in 
+primates. Furthermore, it is possible that the low thick￾ness of Cc in the whales has a greater window function 
+of convolution (Prothero and Sundsten, 1984). The win￾dow function is connected with the number of fibers 
+which can pass into the space between the gray matter 
+of the convolution. This assumption explains the devel￾opment of large brains in whales. Prothero and Sund￾sten (1984) postulated for a 2-mm-thick Cc a brain size 
+of about 2,800 cm3 for an optimal function. But accord￾ing to our own observation and those of Kesarev et al. 
+(1977) and Morgane and Jacobs (1972), the whales have 
+a Cc thickness distinctly less than 2 mm. 
+Hans Elias with his remarkable engagement in stereo￾logical procedures in general, and his introduction of 
+macroscopic measurements of brain structures as to sur￾face and length of the cerebral convolution, helped to 
+obtain a new insight into brain composition. I, person￾ally, have been greatly impressed by his work, and our 
+association influenced my macroscopic and microscopic 
+survey of the cortex of man with respect to age, varia￾tion, and comparison to other mammals. 
+ACKNOWLEDGMENTS 
+This article is written in memory of Hans Elias, who 
+was a very good friend of mine. Some of his results are 
+summarized and completed in this paper. The author is 
+grateful to Prof. Spann, Munich, and Dr. Stephan, 
+Frankfurt, for the material. He thanks Dr. Eggers for 
+his collaboration; Mrs. G. Knebel, P. Lau, E. Mecke, and 
+Mr. Ch. Orun for their technical assistance; and Mrs. R. 
+Nielsen for typing this manuscript. This work was sup￾ported by the German research association (Ha 239). 
+LITERATURE CITED 
+Barmwater, U. 1982 Stereologische Untersuchungen iiber die Alte￾rung der extrapyramidalen Hirnrinde des Menschen (Brodmann 
+Area 06), verbunden mit einer Analyse iiber die Genauigkeit und 
+Konstanz der Dicke von histologischen Schnitten. Dissertation, 
+Med. University Liibeck. 
+Bauchot, R. 1978 Encephalization in vertebrates. A new mode of cal￾culation for allometry cGefficients and isoponderal indices. Brain 
+Behav. Evol.. I5:1-18. 
+Blinkov, S.M., and 1.1. Glezer 1968 The human brain in figures and 
+tables. Basic Books, New York. 
+Bok, S.T. 1959 Histonomy of the Cerebral Cortex. Elsevier Publishing, 
+Amsterdam. 
+Bok, S.T., and M.J. van Erp Taalman Kip 1939 The size of the body 
+and the size and the number of nerve cells in the cerebral cortex. 
+Acta Neerl. Morphol., 3:l-22. 
+
+=== PDF PAGE 16 ===
+COMPARATIVE MORPHOMETRY OF CORTEX CEREBRI 141 
+Brodmann, K. 1909 Vergleichende Lokalisationslehre der 
+GroBhirnrinde. J.A. Barth, Leipzig. 
+Decker, H. 1979 Ein Beitrag zur Methodik der makrosopisch-stereo￾logischen Bestimmung von Volumenanteilen und Oberflachen am menschlichen Gehirn. Disseration, Med. University Liibeck. 
+Dohler, K.-D., and R.A. Gorski 1981 Sexual differentiation of the brain: 
+Past, present and future. BRI Bull., 5.59. 
+Dubois, E. 1914 Die gesetzmailligen Beziehungen von Gehirnmasse zur 
+Korpergrok. Z. Morphol. Anthropol., 18t323-350. 
+Economo, C. v. 1926 Ein Koeffzient fur die Organisationshohe der 
+Grosshirnrinde. (Zellanzahl derselben und einige andere Cortex￾Mafie.). Klin. Wochenschr., 5.593-595. 
+Economo, C. v., and G.N. Koskinas 1925 Die Cytoarchitektonik der 
+Hirnrinde des erwachsenen Menschen. Springer, Wien, Berlin. 
+Eggers, R., H. Haug, and D. Fischer 1984a Preliminary report on 
+macroscopic age changes in the human prosencephalon. A stereo￾logic investigation. J. Hirnforsch., 25:129-139. 
+Eggers, R., H. Haug, and Ch. Oriin 1984 Praparative Einflusse auf das 
+Schrumpfungsverhalten und das mikroskopische Bild von Gehirn￾gewebe. Verh. Anat. Ges., 78t529-531. 
+Elias, H. 1962 Stereology, scope and limits. Stereology, 1:l-2. 
+Elias, H. 1967 Introduction: problems of stereology. In: Stereology: 
+Proceedings of Second International Congress for Stereology. H. 
+Elias, ed. Springer, New York, pp. 1-11. 
+Elias, H., and D. Schwartz 1969 Surface areas of the cerebral cortex of 
+mammals determined by stereological methods. Science, 166:lll￾113. 
+Elias, H., and D. Schwartz 1971 Cerebro-cortical surface areas, vol￾umes, length of gyri and their interdependence in mammals, in￾cluding man. Z. Saugetierkunde, 36t147-163. 
+Elias, H., H. Haug, W. Lange, and D. Schwartz 1967a Cerebro-cortical 
+surface areas of some mammals. Am. Zoologist, 7t291. 
+Elias, H., St. Kolodny, and D. Schwartz 196713 Surface area and length 
+of convolutions of the cerebral cortex. In: Stereology: Proceedings 
+of the Second International Congress for Stereology. H. Elias, ed. 
+Springer, New York, pp. 77-78. 
+Elias, H., H. Haug, W. Lange, G. Schlenska, and D. Schwartz 1969 
+Oberfachenmessungen der GroBhirnrinde von Saugern mit beson￾derer Beriicksichtigung des Menschen, der Cetacea, des Elefanten 
+und der Marsupalia. Anat. Anz., 124r461-463. 
+Fischer, D. 1982 Altersabhangige Volumen- und Oberflachenverande￾rungen definierter corticaler und nichtcorticaler Strukturen des 
+menschlichen Grosshirns-Eine makroskopische Untersuchung mit 
+stereologischen Methoden. Dissertation, Med. University Liibeck. 
+Floderns, S. 1944 Untersuchungen iiber den Bau der menschlichen 
+Hypophyse mit besonderer Beriicksichtigung der quantitativen 
+mikromorphologischen Verhaltnisse. Acta Pathol. Microbiol. Scand. 
+Gundersen, H.J.G. 1978 Estimators of the number of objects per area unbiased by edge effects. Microsc. Acta, 81t107-117. 
+Gunschmann, R. 1972 Vergleichende Studie iiber die Nervenzelldichte 
+der GroOhirnrinde von Mensch, Elefant und einigen Delphino￾ideae. Dissertation, Christian-Albrechts-Universitat Kiel. 
+Haug, H. 1953 Der Grawellkoeffizient des Stirnhirnes der Mammalia 
+in einer phylogenetischen Betrachtung. Acta Anat. (Basel), 19:60- 
+100,153-190,239-270, 
+Haug, H. 1956 Remarks on the determination and significance of the 
+gray cell coefficient. J. Comp. Neurol., 104t473-492. 
+Haug, H. 1958 Quantitative Untersuchungen an der Sehrinde. G. 
+[Suppl.], 53. 
+Thieme, Stuttgart. 
+Haug, H. 1960 Die quantitativen Zellvolumenverhaltnisse der Hirn￾rinde. Ein Vergleich der menschichen Ontogenese mit den Verhalt￾nissen bei den Mammalia. In: Structure and Function of the 
+Cerebral Cortex. D.B. Tower and J.P. Schade, eds. Elsevier, Am￾sterdam, pp. 28-35. 
+Haug, H. 1967a Zytoarchitektonische Untersuchungen an der Hirn￾rinde des Elefanten. Anat. Anz., 120t331-337. 
+Haug, H. 1967b Uber die exakte Feststellung der Anzahl Nervenzellen 
+pro Volumeneinheit des Cortex cerbri, zugleich ein Beispiel fur die 
+Durchfiihrung genauer Zahlungen. Acta Anat. (Basel), 67t53-73. 
+Haug, H. 1970a Der makroskopische Aufiau daes GroBhirns. Qualita￾tive und quantitative Untersuchungen an den Gehirnen des 
+Menschen, der Delphinoideae und des Elefanten. Ergebn. Anat. 
+Entwicklungsgesch., 4314. 
+Haug, H. 1970b Quantitative data in neuroanatomy. Prog. Brain Res., 
+33r113-127. 
+Haug, H. 1976 Die Zelldichte im Cortex der Primaten und ihre Bedeu￾tung fiir die Phylogenese der Schaltzellen. Verh. Anat. Ges., 70.253- 
+258. 
+Haug, H. 1979 The evaluation of cell-densities and of nerve-cell-size 
+distribution by stereological procedures in a layered tissue (cortex 
+cerebri). Microsc. Acta, 82147-161. 
+Haug, H. 1981a On the proper use of point-counting and semi-auto￾matic procedures in stereology. Microsc. Acta, 85t141-152. 
+Haug, H. 1981b Die Evolution der Interneurone in der Hirnrinde von Af'fen und Delphinen sowie ihre Bedeutung fur komplexe Funkti- onen einschlieBich der Sprache. Nova Acta Leopoldina N.F., 
+245:763-777. 
+Haug, H. 1982 The location and size distribution of neurons in the 
+layered cortex. Acta Stereol., lr259-267. 
+Haug, H. 1984 Der EinfluB der sakularen Akzeleration auf das Hirn￾gewicht des Menschen und dessen Anderung wahrend der Alte￾rung. Gegenbaurs Morphol. Jahrb., 130~481-500. 
+Haug, H. 1985 Are neurons of the human cerebral cortex really lost 
+during aging? A morphometric examination. In: Senile Dementia 
+of the Alzheimer Type. J. Traber and W.H. Gipsen, eds. Springer, 
+Berlin, pp. 150-163. 
+Haug, H. 1986 History of neuromorphometry. J. Neurosci. Methods 
+18tl-17. 
+Haug, H., J. Kebbel, and G.-L. Wiedemeyer 1971 Die Messung der 
+mittleren Zelldichte und ihre Verteilung in Geweben mit erheb￾lichen Zelldichteunterschieden. Auswertung am Cortex cerebri als 
+Beispiel. Microsc. Acta, 71:121-128. 
+Haug, H., S. Kuhl, E. Mecke, N.-L. Sass, and K. Wasner 1984 The 
+significance of morphometric procedures in the investigation of age 
+changes in cytoarchitectonic structures of human brain. J. Hirn￾forsch., 25t353-374. 
+Hennig, A. 1958 Kritische Betrachtungen zur Volumen- und Ober￾flachenmessung in der Mikroskopie. Zeiss-Werkzeitschrift, 30t3- 
+12. 
+Hofman, M.A. 1984 Towards a General Theory of Encephalization. An 
+Allometric Study on the Evolution and Morphogenesis of the Mam￾malian Brain. Academisch Proefschrift, Amsterdam. 
+Jacobs, M.S., A.M. Galaburda, W.L. McFarland, and P.J. Morgane 1984 
+The insular formations of the dolphin brain: Quantitative cytoar￾chitectonic studies of the insular component of the limbic lobe. J. 
+Comp. Neurol., 225:396-432. 
+Jansen, J. 1973 The central nervous system in Cetacea. Nautilus Ciba￾Geigy:7-8. 
+Jerison, H.J. 1974 On the meaning of brain size. Science, 184:677-679. 
+Kesarev, V.S., L.I. Malofeyeva, and O.V. Trykova 1977 Ecological spec￾ificity of cetacean neocortex. J. Hirnforsch., 18:447-460. 
+Kiihl, S. 1981 Altersabhangige Veranderungen im Gyrus rectus des 
+Menschen. Eine quantitative cytoarchitektonische Untersuchung 
+der Area 11 von zwanzig Gehirnen MannIicher Individuen, verbun￾den mit einer Analyse von Nervenzellformen zur morphome￾trischen Bestimmung von Perikaryon-volumina. Dissertation, Med. 
+University Liibeck. 
+Kiihl, S., H. Haug, and W. SchlieBer 1982 Morphometry of cortical neurons. The best estimation of perikaryon voiume from the projec￾tion area. Microsc. Acta, 86~315-322. 
+Langworthy, O.R. 1932 A description of the central nervous system of 
+the porpoise (Tursiops truncatus). J. Comp. Neurol., 54:437-500. 
+Moral, J.R., and H. Haug 1982 The monocular and binocular segment 
+of cat's visual cortex. A cytoarchitectonic study with stereological 
+procedures. Anat. Enibryol. (Bed.), 163t487-500. 
+Morgane, P.J., and M.S. Jacobs 1972 Comparative anatomy of the 
+Cetacean nervous system. In: Functional Anatomy of Marine Mam￾mals. R.J. Harrison, ed. Academic Press, London, pp. 117-244. 
+Morgane, P.J., M.S. Jacobs, and W.L. McFarland 1980 The anatomy of 
+the brain of the bottlenose dolphin (Turszops truncatus). Surface 
+configurations of the telencephalon of the bottlenose dolphin with 
+comparative anatomical observations in four other Cetacean spe￾cies. Brain Res. Bull., 5:Suppl. 3. 
+Morgane, P.J., M.S. Jacobs, and A. Galaburda 1985 Conservative fea￾tures of neocortical evolution in dolphin brain. Brain Behav. Evol., 
+26t176-184. 
+Nass, E. 1985 Altersabhangige Veranderungen im Lobus temporalis 
+(Area 20 nach Brodmann) des Menschen. Eine lichtmikroskopische 
+Untersuchung mit morphometrischer Bestimmung von Zell￾dichte und ZellgroRe, verbunden mit einer Betrachtung von Ges￾chlechtsunterschieden. Dissertation, Med. University Liibeck. 
+Pirlot, P. 1974 Size and activity ofbrain-structures, Z. Zool. Systematik 
+Evolutionsforsch., 12:152-155. 
+Prothero, J.W., and J.W. Sundsten 1984 Folding of the cerebral cortex 
+in mammals. A scaling model. Brain Behav. Evol., 24t152-167. 
+Rockel, A.J., R.W. Hiorns, and T.P.S. Powell 1980 The basic uniformity 
+in structure of the neocortex. Brain, 103r221-244. 
+
+=== PDF PAGE 17 ===
+142 H. HAUG 
+Ryzen, M., and B. Campbell 1955 Organization of the cerebral cortex. Ann N.Y. Acad. Sci., 167:370-387. 
+111. The cortex of Sorexpucificus. J. Comp. Neurol., 20.2365-423. Stephan, H., H.D. Frahm, and G. Baron 1984 Comparison of brain 
+Sass, N.-L. 1982a Altersabhangige Veranderungen im Gyrus rectus structure volumes in Insectivora and primates N. Non-cortical 
+des Menschen nach dem 35. Lebensjahr. Eine lichtmikroskopisch- visual structures. J. Hirnforsch., 25:385-403. 
+morphometrische Untersuchung zur Anderung von Zelldichten und Swaab, D.F., and M.A. Hofman 1984 Sexual differentiation of the 
+Perikaryon-volumina, verbunden mit einer Analyse des Verhal- human brain. A historical perspective. Prog. Brain Res., 61t361- 
+tens der Einbettungs-schrumpfung in verschiedenen Lebensaltern 374. 
+und weitem merlegungen zur Methodik. Dissertation, Med. Uni- Tjan, Th.-F. 1974 Vergleichende Zytoarchitektonik des Cortex cerebri 
+versity Liibeck. von Zahnwalen und Elefant. Dissertation, Christian-Albrechts￾Universitat Kiel. 
+shrinkage of neurohistological sections. Mikroskopie (Wien), Tower, D.B. 1954 Structural and functional organization of mamma￾39:278-281. lian cerebral cortex: The correlation of neuron density with brain 
+Schlenska, G. 1969 Messungen der Oberflache and der Volumenanteile size. J. Comp. Neurol., 101:19-51. 
+des Gehirnes menschlicher Erwachsener mit neuen Methoden. Z. Wagner, R. 1864 Messungen der Hirnoberflache mit besonderer Bezie￾Anat. Entwicklungsgesch., 128:47-59. hung auf Windungs- und Furchenbildung und deren Beziehung 
+Stephan, H. 1960 Methodische Studien uber den quantitativen Ver- zur Intelligenz. Abh. Ges. Wiss. Gottingen, 10r90-97. 
+gleich architektonischer Struktureinheiten des Gehirns. Z. Wiss. Weibel, E.R. 1979 Stereological Methods. Practical Methods for Biolog￾Zool., 164:143-172. ical Morphometry. Academic Press, London. 
+Stephan, H. 1972 Evolution of Primate brains: A comparative anatom- Wiedemeyer, G.-L. 1974 Vergleichende stereologische Bestimmung der 
+ical investigation. In: The Functional and Evolutionary Biology of Massen und der Oberflachen der verschiedenen GroRhirnanteile 
+Primates. R. Tuttle, ed. AldineiAinerton Inc., Chicago, Vol. 6, pp. sowie der Zelldichte bei niedrigen Saugern (Opossum, Igel, Maul￾155-174. wurf). Z. Mikrosk. Anat. Forsch, 88:299-324. 
+Stephan, H. 1976 Vergleichende Anatomie des Allocortex. Verh. Anat. Wirz, K. 1950 Studien uber die Cerebralisation: Zur quantitativen 
+Ges., 70:217-251. Bestimmung der Rangordnung bei Saugetieren. Acta Anat., 9:134- 
+Stephan, H., and O.J. Andy 1969 Quantitative comparative neuroana- 196. 
+tomy of primates: An attempt at a phylogenetic interpretation. 
+Sass, N.-L. 1982b The age-dependent variation of the embedding- 

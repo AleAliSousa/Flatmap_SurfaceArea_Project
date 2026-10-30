@@ -1,0 +1,1466 @@
+
+
+=== PDF PAGE 1 ===
+REVIEW ARTICLE
+published: 09 October 2013
+doi: 10.3389/fnhum.2013.00620
+Cortical plasticity within and across lifetimes: how can
+development inform us about phenotypic transformations?
+Leah Krubitzer 1,2* and James C. Dooley1
+1 Center for Neuroscience, University of California, Davis, Davis, CA, USA
+2 Department of Psychology, University of California, Davis, Davis, CA, USA
+Edited by:
+Roberto Lent, Federal University of
+Rio de Janeiro, Brazil
+Reviewed by:
+Alessandro Vercelli, University of
+Torino, Italy
+Jean C. Houzel, Universidade
+Federal do Rio de Janeiro, Brazil
+Federico Calegari, CRTD, Germany
+*Correspondence:
+Leah Krubitzer, Center for
+Neuroscience, University of
+California, Davis, 1544 Newton Ct.,
+Davis, CA 95616, USA
+e-mail: lakrubitzer@ucdavis.edu
+The neocortex is the part of the mammalian brain that is involved in perception, cognition,
+and volitional motor control. It is a highly dynamic structure that is dramatically altered
+within the lifetime of an animal and in different lineages throughout the course of evolution.
+These alterations account for the remarkable variations in behavior that species exhibit.
+Of particular interest is how these cortical phenotypes change within the lifetime of
+the individual and eventually evolve in species over time. Because we cannot study the
+evolution of the neocortex directly we use comparative analysis to appreciate the types
+of changes that have been made to the neocortex and the similarities that exist across
+taxa. Developmental studies inform us about how these phenotypic transitions may arise
+by alterations in developmental cascades or changes in the physical environment in which
+the brain develops. Both genes and the sensory environment contribute to aspects of the
+phenotype and similar features, such as the size of a cortical field, can be altered in a
+variety of ways. Although both genes and the laws of physics place constraints on the
+evolution of the neocortex, mammals have evolved a number of mechanisms that allow
+them to loosen these constraints and often alter the course of their own evolution.
+Keywords: epigenetic, comparative neuroanatomy, cortical development, evolution, Evo-Devo
+“We certainly need to remember that between the genotype and
+phenotype, and connecting them to each other, there lies a whole
+complex of developmental processes.”
+Waddington, 1942.
+Evolution and development of the nervous system are inex￾tricably intertwined. Studies that link these two biological pro￾cesses have recently re-emerged from the older foundations of
+comparative neuroanatomy and descriptive neurodevelopment as
+the flashy new discipline often referred to as “Evo-Devo.” This
+re-awakening was made possible by two events. First, descrip￾tive neurodevelopment transformed into an experimental dis￾cipline with the advent of molecular and genetic techniques
+that allowed scientists to figuratively “poke the frog.” The abil￾ity to make targeted changes, via genetic manipulations that
+differentially affect specific aspects of development, allowed us
+to appreciate the contingencies inherent in the developmental
+process and to understand the role these genetic cascades play
+in the construction of specific features of the nervous system.
+Importantly, it is becoming increasingly clear that the corti￾cal field is not a static entity, but transforms continually at
+all stages of development. The second event was the emer￾gence of new technologies in genetics that allowed scientists to
+decode and compare entire genomes of selected species. The
+prospect that this would ultimately uncover the fundamen￾tal differences between species propelled the somewhat aging
+field of evolutionary neurobiology to the forefront of neuro￾science.
+Our laboratory has long been interested in the evolution of
+the neocortex and has used comparative studies to formulate
+testable hypotheses regarding neurodevelopment. Specifically we
+are interested in the developmental mechanisms that give rise
+to aspects of neocortical organization that have changed sig￾nificantly in species over the course of evolution. We focus
+on the neocortex for two important reasons. The first is that
+the neocortex is the portion of the brain involved in complex
+behaviors including perception, cognition, language, and tem￾poral planning of events. Second, it is the portion of the brain
+that has changed most dramatically in mammals compared to
+other parts of the brain (Krubitzer, 2007). The neocortex has
+expanded tremendously in human and non-human primates, and
+has expanded independently in several other orders of mam￾mals including cetaceans, proboscidea, and rodentia. However, it
+is not just an increase in the size that distinguishes some large￾brained mammals from others, but also an increase in the number
+of functional subdivisions, and importantly, alterations in their
+patterns of connectivity. Studies of endocasts of the skulls of
+early mammals (Luo et al., 2001) as well as comparative stud￾ies (Meredith et al., 2011; O’Leary et al., 2013) suggest that the
+first mammals that roamed the earth some 200 million years
+ago had a small neocortex with perhaps 10–15 cortical fields,
+and a relatively large pyriform cortex and olfactory bulbs (Rowe
+et al., 2011; Dooley et al., 2013; see Kaas, 2011 for review). This
+early mammaliform and its descendants evolved to produce some
+extant species with a neocortex that dominates the rest of the
+nervous system and contains billions of cells with hundreds of
+cortical fields. The question is how did this occur, and what
+factors contribute to this increased complexity of form, function
+and behavior.
+Frontiers in Human Neuroscience www.frontiersin.org October 2013 | Volume 7 | Article 620 | 1
+HUMAN NEUROSCIENCE
+
+=== PDF PAGE 2 ===
+Krubitzer and Dooley Cortical plasticity within and across lifetimes
+One obstacle in addressing this question is that cortical
+evolution in mammals cannot be studied directly. The types of
+changes that brains have evolved occur over multiple generations
+and often take tens of thousands to millions of years to emerge.
+However, there are two ways to circumvent this problem. The first
+is to examine the products of evolution, extant animal brains and
+bodies, to determine what changes have occurred. This compara￾tive approach has been used to good effect to appreciate common
+features of the neocortex that all species share as well as deriva￾tions that have been made to the basic plan of organization.
+Unfortunately, comparative studies do not provide information
+on how phenotypic transformations occur, or the rate at which
+changes can happen. To appreciate how changes occurred we
+study the developmental mechanisms that are proposed to give
+rise to some aspect of cortical organization. Thus, it is critical
+to appreciate how processes such as neurogenesis, cell migration,
+neuronal differentiation, and axon guidance are altered in mam￾mals with different cortical phenotypes. These alterations give rise
+to some feature of organization that we study in our compar￾ative analysis such as cortical sheet size, cortical field size, and
+connectivity. For these reasons developmental studies tell us how
+phenotypic changes occur.
+It is important to stress that any theory of brain evolution,
+cortical function or cortical plasticity should not consider the
+neocortex in isolation, but must recognize that the neocortex
+is only one component of the entire nervous system. Further,
+the nervous system is embedded in a body, which interacts with
+other organisms and the environment. This group of organisms
+and their environment generates a complex and highly dynamic
+“collective biomass” that itself has emergent properties which dif￾fer from, and in some instances exceed, the individual elements
+of which it is composed (Krubitzer, 2009). Further, it is criti￾cal to appreciate that the relationship between genes, the brain,
+the body, and the target of natural selection (behavior) is often
+highly convoluted and indirect (see Krubitzer and Seelke, 2012
+for review).
+In the following review we first provide an overview from
+comparative studies that outlines common features of cortical
+organization that have been identified in all species examined and
+how aspects of this common plan have been modified. Second,
+we address the question of how these phenotypic transformations
+have occurred, including a review of studies that examine how
+genes contribute to neurogenesis, cortical sheet size, and aspects
+of cortical arealization across development. We underscore the
+importance of examining not only genes intrinsic to the neo￾cortex, but also genes that regulate the body plan and limb and
+effector morphology. Next, we discuss activity-driven alterations
+to the cortical phenotype. To appreciate the gene/environment
+interactions we look to natural examples of extreme morpholog￾ical/behavioral specialization that is accompanied by exaggerated
+aspects of cortical organization, and describe our developmental
+studies in which we try to mimic these changes to the neocor￾tex by radically altering sensory inputs. Finally, we describe more
+subtle examples in which animals of the same species, reared in
+different sensory environments, develop alterations to the corti￾cal phenotype. We discuss potential epigenetic mechanisms that
+construct context dependent alterations to the phenotype.
+WHAT IS THE PLAN AND HOW HAS IT CHANGED?
+Comparative studies use multiple criteria to define a cortical
+field including functional techniques (e.g., electrophysiological
+recording, imaging, intracortical microstimulation), combined
+with architectonic and neuroanatomical techniques. In our exper￾iments we survey a large extent of the neocortex by recording
+neural activity from hundreds of sites while successively present￾ing visual, auditory, and tactile stimulation to determine sensory
+domain allocation (the amount of cortex devoted to a particu￾lar sensory system). These techniques also allow us to determine
+the number and overall organization of different cortical fields
+within a sensory domain. These data can be combined with archi￾tectonic techniques in which the region of interest is stained
+for particular cell types, myelinated axons, enzymatic activity,
+or any number of other histochemical markers that illuminate
+cortical field boundaries, which are then directly related to func￾tional techniques. Cortical regions can also be divided using
+neuroanatomical techniques to examine subcortical, cortical and
+interhemispheric connections of the field in question.
+Using such techniques in a number of different species, our
+own and other laboratories have generated schemes of cortical
+organization composed of architectonically, connectionally, and
+functionally distinct maps of the sensory receptor arrays associ￾ated with visual, somatosensory, and auditory processing. These
+comparative studies indicate that there is a constellation of cor￾tical fields that all mammals possess that can be defined using
+multiple criteria. These include primary visual, somatosensory,
+and auditory cortical fields (V1, S1, and A1 respectively) as well as
+one or two additional sensory areas (Figure 1; e.g., V2, S2/PV, R)
+(Dooley et al., 2013; see Kaas, 2011 for review).
+Interestingly, these fields are present even in the absence of
+apparent use in animals showing extreme specialization such
+as blind mole rats (Cooper et al., 1993; Bronchti et al., 2002).
+Moreover, independently evolved modifications to this plan take
+a similar form in different lineages (Krubitzer and Kaas, 2005).
+Systems-level evolved changes in cortical organization include:
+1. The absolute and relative size of the cortical sheet
+2. Sensory domain allocation
+3. Response properties and stimulus preference of neurons
+within a cortical field
+4. Relative size of cortical fields
+5. Magnification of behaviorally relevant body parts
+6. Addition of modules to cortical fields
+7. Number of cortical fields
+8. Connections of cortical fields
+The persistence of the shared cortical field plan across all mam￾mals and the similarities in its modifications suggest that there
+are large constraints on how cortical fields evolve. For further dis￾cussion of constraints and variability see Krubitzer and Seelke,
+2012.
+WHAT FACTORS CONTRIBUTE TO THESE CHANGES?
+As noted above, while comparative studies allow us to appreciate
+the types of changes that have been made to the neocortex, devel￾opmental studies provide insights into how these changes occur.
+Frontiers in Human Neuroscience www.frontiersin.org October 2013 | Volume 7 | Article 620 | 2
+
+=== PDF PAGE 3 ===
+Krubitzer and Dooley Cortical plasticity within and across lifetimes
+FIGURE 1 | The organization of the neocortex in the macaque
+monkey and mouse in cortex that has been peeled from the
+brainstem and thalamus and flattened. Homologous cortical fields
+include the primary somatosensory area (S1/3b; red), the second
+somatosensory area and the parietal ventral area (S2/PV; rose), the
+primary visual area (V1; dark blue), the second visual area (V2; light
+blue), the primary auditory area (A1; yellow) and motor cortex (M1;
+green). While this common plan of organization can be identified in
+these species, there are also notable differences. Specifically, in
+macaque monkeys the neocortex has greatly expanded and multiple
+additional cortical areas have been added. Further, the relative size of
+homologous cortical fields (as a percentage of overall cortical area) is
+different. While different investigators have proposed different schemes
+of cortical organization in the macaque and mouse, it is clear that
+macaque monkeys have many more cortical fields than does the
+mouse. Modified from Krubitzer (2009). See Table 1 for abbreviations.
+All abbreviations for the macaque monkey are not provided; this figure
+simply demonstrates that the number of cortical fields has increased.
+Thus, the next question that arises from our comparative analy￾sis is what factors contribute to within-species variability of the
+features of cortical organization listed above. This is a question
+that has been posed for decades, commonly presented as a nature
+vs. nurture debate. Recently, advances in comparative genomics
+and epigenetics confirm the contributions of both genetic and
+context-dependent factors to different aspects of the cortical phe￾notype and within-species variability. Still contentious, however,
+is the extent to which each factor shapes or constructs any given
+phenotype.
+Traditionally, context-dependent changes to cell phenotypes
+during development had been referred to as “epigenetic”
+(Waddington, 1942). Waddington coined the term epigenetics to
+explain how cells in the developing organism can have the same
+genotype, but gradually differentiate into different tissue. This
+phenomenon underscores that there is not a one-to-one corre￾spondence between genotype and phenotype, and that there must
+be something beyond the genotype that generates this diversity.
+We now appreciate that this same ability to alter a cellular, sys￾tems, or behavioral phenotype occurs in mature, non-dividing
+cells in the central nervous system (Day and Sweatt, 2010), and
+this phenomenon has also been termed epigenetics. While early
+in development, context-dependent changes may be as simple
+as folic acid availability or location of a particular cell on a
+developing blastocyst, as development progresses, the context
+(and thus its potential for change) becomes more complicated.
+This is particularly true for the mammalian neocortex, where
+environmental context routinely molds the phenotype. A partic￾ular cortical phenotype may persist for multiple generations if
+the context in which it develops is static, but these features of
+cortical organization are not inherited and thus do not evolve.
+However, new studies, which we will discuss below, have over￾turned some assumptions about heritability and have begun to
+uncover the mechanisms that generate contextually dependent
+phenotypes that can be expressed in multiple generations, and
+in some instances become incorporated into the germ line and
+evolve.
+CORTICAL SHEET SIZE
+One of the well-defined systems-level changes to the brain has
+been an expansion of the cortical sheet. Throughout the course
+of mammalian evolution, this expansion has taken two differ￾ent forms: (1) Absolute increase in size (direct scaling), and (2)
+Relative increases in size (non-linear scaling). Direct scaling con￾sistently occurs with an increase in body size. The brain scales
+directly with the body, and every structure, including the neo￾cortex and constituent fields, expand roughly equally. This is
+exemplified by the comparison of two closely-related rodents: The
+guinea pig (700 g) and the South American capybara, the largest
+rodent on earth which weighs up to 91 kg (200 lbs; Figure 2).
+The neocortex of the guinea pig is much smaller than that of the
+capybara, but relative to body size, the size of the neocortex and
+Frontiers in Human Neuroscience www.frontiersin.org October 2013 | Volume 7 | Article 620 | 3
+
+=== PDF PAGE 4 ===
+Krubitzer and Dooley Cortical plasticity within and across lifetimes
+Table 1 | Abbreviations used throughout the text.
+A1—Primary auditory cortex
+Emx2—Empty spiracles homeobox 2—transcription factor expressed in a
+caudal (high) rostral (low) gradient
+FGF8—Fibroblast growth factor 8—morphogen important for generating
+the rostral-caudal axis
+GR—Glucocorticoid receptor
+HPA—Hypothalamic–pituitary–adrenal
+IPC—Intermediate progenitor cells
+ISVZ—Inner subventricular zone
+LG—Licking and grooming
+M1—Primary motor cortex
+oRG—Outer radial glial cells
+OSVZ—Outer subventricular zone
+Pax6—Paired box protein 6—transcription factor expressed in a rostral
+(high) caudal (low) gradient
+PV—Parietal ventral area
+R—Rostral somatosensory field
+RG—Radial glial cells
+S1—Primary somatosensory cortex
+S2—Second somatosensory area
+SVZ—Subventricular zone
+V1—Primary visual cortex
+V2—Second visual area
+VZ—Ventricular zone
+the primary sensory fields are comparable (Campos and Welker,
+1976).
+The second type of increase in the size of the cortical sheet
+is non-linear and is related to a different type of cortical organi￾zation. The California ground squirrel is similar in overall body
+size to the guinea pig (700 g), but its neocortex is substantially
+larger both absolutely and relative to the body or rest of the brain
+(Campi and Krubitzer, 2010). This non-linear increase in the size
+of the cortical sheet is accompanied by a decrease in the overall
+percentage of neocortex occupied by primary sensory areas along
+with an increase in the absolute number of cortical fields on the
+cortical sheet (Figure 2), a pattern even better exemplified in non￾human primates such as squirrel monkeys. Squirrel monkeys have
+about the same body mass as both California ground squirrels and
+guinea pigs (750 g), but have an extraordinarily large neocortex
+compared to the body and the rest of the brain, and a dramatic
+increase in the number of cortical fields. Thus, an absolute (lin￾ear) increase in the size of the neocortex is not sufficient to yield
+an increase in its complexity (i.e., more cortical fields/changes
+in connections). Conversely, a relative (non-linear) increase in
+the size of the neocortex does appear to be necessary to increase
+number of cortical fields, but may not be sufficient to induce this
+change.
+Some questions that emerge are: (1) How is an increase in
+the size of the cortical sheet accomplished? (2) Are the under￾lying mechanisms of direct and non-linear scaling of the cortex
+different? (3) What is the link between changes in brain and
+body size? and (4) Are the underlying mechanisms that give
+rise to increases in cortical sheet size similar in species that
+have independently increased the size of the cortical sheet (e.g.,
+primates and cetaceans)?
+THE EVOLUTION OF NEUROGENESIS
+Recent studies of neurogenesis have made important inroads into
+understanding, at least in some species, the mechanisms that
+contribute to tangential increases in the size of cortical sheet dur￾ing development and how these mechanisms may be altered in
+different species to produce differences in the size of the corti￾cal sheet. Historically, researchers investigating neurogenesis have
+hypothesized that animals with larger (usually gyrencephalic)
+brains have an increased duration of neurogenesis and modi￾fied cell cycle kinetics, and that such alterations are not present
+in small (lissencephalic) brained animals. This notion is sup￾ported by comparative studies in mice and macaque monkeys that
+demonstrate that more rounds of cell division occur over a longer
+period of time in the macaque compared to the mouse (Takahashi
+et al., 1995; Kornack and Rakic, 1998; Kornack, 2000). Subsequent
+studies described additional changes in neurogenesis that could
+account for an expanded cortical sheet in some lineages. One
+important alteration, first described in the macaque monkey, was
+the presence of an outer subventricular zone (OSVZ, Smart et al.,
+2002; Figure 3). Additionally, within the OSVZ are proliferative
+radial glia-like cells termed outer radial glial cells (oRG) that gen￾erate neurons that will compose the cerebral cortex (Fietz et al.,
+2010; Hansen et al., 2010; Reillo et al., 2011; Shitamukai et al.,
+2011; Wang et al., 2011; Martínez-Cerdeño et al., 2012). This large
+OSVZ and the oRG proliferative cells, at least in part, account for
+the exponential expansion of the cerebral cortex in some orders
+such as primates.
+Initially, this expanded OSVZ and the corresponding oRG
+cells were considered an adaptation limited to large-brained,
+gyrencephalic mammals, but recently a much smaller OSVZ
+has been described in rats. This OSVZ shares many of the
+same features found in larger brained ferrets and macaques,
+such as the presence of oRG proliferative cells (Martínez￾Cerdeño et al., 2012). There is also evidence for an OSVZ
+in the marmoset (a dwarfed, nearly lissencephalic primate)
+and the agouti (a gyrencephalic rodent; García-Moreno et al.,
+2012). Thus, small-brained mammals from multiple orders pos￾sess the basic ventricular compartments (OSVZ) and prolifer￾ative cells (oRG) that can generate expansions in the cortical
+sheet.
+If not the presence of OSVZ and oRG, what differentiates
+large and small brains? It appears that large-brained animals have
+an increased generation of intermediate progenitor cells (Wang
+et al., 2011), a greater number of oRGs present across develop￾ment (Hevner and Haydar, 2012), and a thicker OSVZ (Bystron
+et al., 2008; Martínez-Cerdeño et al., 2012), all of which can
+lead to a larger neocortex with a greater number of neurons
+(Figure 3). Additionally, while oRGs have been shown to produce
+neurons and intermediate progenitor cells in primates, which fur￾ther divide into post-mitotic neurons (Hansen et al., 2010), in
+mice they have only been shown to divide directly into neurons
+(Wang et al., 2011), although this is not the case for all rodents
+(Martínez-Cerdeño et al., 2012). While more comparative studies
+need to be done, mounting evidence suggests that changes in the
+Frontiers in Human Neuroscience www.frontiersin.org October 2013 | Volume 7 | Article 620 | 4
+
+=== PDF PAGE 5 ===
+Krubitzer and Dooley Cortical plasticity within and across lifetimes
+FIGURE 2 | Scaling of the neocortex in different mammals. Comparative
+studies demonstrate that the neocortex scales linearly or non-linearly.
+Capybaras can weigh up to 91 kg and have an enlarged brain and neocortex
+compared to the closely related guinea pig, which weighs 700 g. The more
+distantly related California ground squirrel has a similar body size to that of
+the guinea pig, but the scaling of the cortical sheet and cortical fields
+compared to the capybara is non-linear, and there is an increase in the
+number of cortical fields. An extreme example of a non-linear increase in the
+size of the cortical sheet is observed in squirrel monkeys. Although squirrel
+monkeys are of a similar weight (750 g) compared to the guinea pig and
+California ground squirrel, they have a relatively large neocortex (about the
+size of the capybara’s), a relative decrease in the size of primary cortical
+fields (e.g., A1, S1, V1) as a percentage of overall cortical area, and the
+addition of cortical fields (note that not all known cortical fields in the
+squirrel monkey neocortex are shown; the blank areas contain additional
+cortical fields). All brains are drawn to scale. The work on the guinea pig and
+capybara is modified from Campos and Welker (1976); the divisions of the
+ground squirrel are redrawn from Krubitzer et al. (2011); divisions of the
+squirrel monkey are redrawn from Kaas (2012). Other conventions as in
+previous figure.
+size of the cortical sheet are due to expansions of existing popu￾lations of cells and cell cycle kinetics, rather than the creation of
+novel mechanisms.
+Exciting research published in the last year has identified pro￾teins which appear to regulate the population of oRG cells (Trnp1;
+Stahl et al., 2013) and intermediate progenitor cells (BAF170;
+Tuoc et al., 2013), such that both over expression and under
+expression of these proteins in the neocortex alter the num￾ber of these progenitor cells and ultimately alter cortical sheet
+size. Further, research by Nonaka-Kinoshita et al. (2013) shows
+that increasing the pool of basal progenitors in the lissencephalic
+mouse increases the size of the neocortical sheet, but is not suf￾ficient to induce gyrencephally; however, the same manipulation
+in the naturally gyrecephalic ferret both increased the size of the
+cortical sheet and induced additional cortical sulci. Thus, while
+increasing the number of progenitor cells invariably leads to a
+larger cortical sheet, existing data suggests that a sufficient pop￾ulation of oRG cells must also be present to create sulci and gyri
+in a naturally lissencephalic cortex (Stahl et al., 2013; Tuoc et al.,
+2013).
+It is important to note that epigenetic events can also reg￾ulate the size of the cortical sheet. These context-dependent
+alterations in cortical sheet size appear to be caused by a vari￾ety of factors. For example, it has been well documented that
+folic acid (and cholate) regulates neurogenesis and apoptosis
+in the developing fetal brain, and differences in intake can
+alter the number of progenitor cells undergoing mitosis by
+33–54% in the neocortex of mice (Craciunescu et al., 2004,
+2010). Although a number of studies have demonstrated that
+domestication also has a profound impact on the size of the
+cortical sheet (see Kruska, 2005), it is difficult to disambiguate
+the contribution of genes vs. environment on cortical sheet
+size.
+CORTICAL FIELD SIZE AND CONNECTIVITY
+Like cortical sheet size, both genetic and epigenetic factors con￾tribute to aspects of cortical field size and connectivity. A plethora
+of studies demonstrate that intrinsic factors contribute to a num￾ber of features of cortical organization including relative position
+on the cortical sheet, relative size of the cortical field, and cor￾tical field connections (e.g., Bishop et al., 2000; O’Leary and
+Sahara, 2008; Assimacopoulos et al., 2012). For example, ground￾breaking studies from a number of laboratories demonstrated
+that morphogens such as FGF8 generate a rostral cortical iden￾tity, and that these early signaling centers set up genetic cascades
+which regulate position, size, and connectivity of cortical fields.
+The importance of these early signaling centers is clearly demon￾strated in recent studies in which Fgf8 was electroporated into
+different regions of the developing mouse embryo and duplicate
+fields (with rostrocaudal axes) were observed (Assimacopoulos
+et al., 2012, Figure 4). Electroporating Fgf8 into a caudal (aber￾rant) location results in an almost complete duplication of corti￾cal maps with a mirror reversal of V1 and S1 at mid cortex, with
+two distinct “rostral” poles and a shared caudal pole boundary
+(Figure 4B). This compelling result presents a possible mecha￾nism for mirror reversal organization of cortical fields (such as
+Frontiers in Human Neuroscience www.frontiersin.org October 2013 | Volume 7 | Article 620 | 5
+
+=== PDF PAGE 6 ===
+Krubitzer and Dooley Cortical plasticity within and across lifetimes
+FIGURE 3 | Changes in the subventricular zone (SVZ; blue) in
+vertebrates (top row). Specific alterations in cell cycle kinetics, the overall
+thickness of the SVZ, the proportion of the SVZ corresponding to the inner
+and outer layers (ISVZ and OSVZ respectively), and the proportion of
+asymmetrical radial glial (RG) and outer radial glial (oRG) cell divisions
+producing intermediate progenitor cells account for expansion of the
+neocortex in some lineages, such as primates (right half of bottom panel).
+The SVZ and particularly the OSVZ is larger in primates than in many other
+species. While mammals with both a large and small neocortex share a
+number of aspects of neurogenesis (steps 1–5 bottom figure), several
+additional adaptations are observed in animals with a large neocortex such
+as primates. This includes increased thickness of particular layers (such as
+the OSVZ), additional rounds of division for RGs that re-enter the cell cycle
+in the ventricular zone (VZ) (6), division of oRGs into intermediate progenitor
+cells (IPC) in the OSVZ (7), which ultimately divide again to produce neurons
+(8). Whether oRGs also divide to produce IPCs in rodents is still contentious
+(dotted line on left side, 7). These figures have been modified from Molnár
+(2011) and Molnár and Clowry (2012). Abbreviations in Table 1.
+in anterior parietal fields 3a, 3b, 1 and 2 in primates). These natu￾rally occurring duplicate somatotopic maps could have originated
+as an alteration in location and strength of these early signaling
+centers in parietal cortex. While the connectivity of duplicated
+cortical maps is not known, they do appear to be functionally
+responsive and topographically organized (Assimacopoulos et al.,
+2012).
+Generation of this rostral-caudal axis by FGF8 influences
+downstream transcription factors expressed early in develop￾ment, such as Pax6 and Emx2, which themselves appear to be
+FIGURE 4 | Early in development the position and strength of
+morphogens, such as FGF8, determines the location and patterning of
+cortical fields on the cortical sheet. In normal mice (A), FGF8 is
+expressed early in development in the rostromedial neocortical primordium
+and forms a rostro-caudal gradient that regulates subsequent rostrocaudal
+patterns of gene expression. Studies in which Fgf8 is electroporated at
+differing levels and in different locations in the embryonic mouse (E10.5)
+demonstrate its importance as an early cortical map organizer. Ectopic
+placement can result in the duplication of a cortical field (B; S11 and S12) or
+multiple cortical fields arranged along variant rostro-caudal axes (C). These
+new duplicated fields are also functionally distinct and form topographic
+maps, as in normal animals. Modified from Assimacopoulos et al. (2012).
+critical for establishing appropriate expression patterns of cell
+adhesion molecules (Bishop et al., 2000, 2002; Hamasaki et al.,
+2004; O’Leary and Sahara, 2008; Figure 5). These molecules in
+turn regulate a number of aspects of the cortical phenotype
+including the relative size of cortical fields and their connectiv￾ity (Suzuki et al., 1997; Inoue et al., 1998; Bishop et al., 2002;
+Terakawa et al., 2013). For example, over or under expression of
+Emx2 in the early developing mouse neocortex has been shown
+to alter expression of cell adhesion molecules (Stoykova et al.,
+1997; Bishop et al., 2000, 2002; Andrews and Mastick, 2003), ulti￾mately resulting in an increase or decrease (respectively) in the
+size of cortical fields on the caudal pole of the neocortex includ￾ing V1, and alterations in thalamocortical connections (Bishop
+et al., 2000; Hamasaki et al., 2004; Figure 5). Importantly, in the
+Frontiers in Human Neuroscience www.frontiersin.org October 2013 | Volume 7 | Article 620 | 6
+
+=== PDF PAGE 7 ===
+Krubitzer and Dooley Cortical plasticity within and across lifetimes
+absence of thalamocortical afferents, the expression patterns of
+some of these early transcription factors and genes are maintained
+(Nakagawa et al., 1999) indicating that activity is not requisite for
+their expression and thus certain aspects of cortical organization
+are immutable, regardless of context.
+GENES EXTRINSIC TO THE DEVELOPING NEOCORTEX CONTRIBUTE TO
+CORTICAL ORGANIZATION AND CONNECTIVITY
+Most studies of cortical development focus almost exclusively on
+genes that are intrinsic to the developing neocortex. However, as
+noted in our introduction, brains do not develop or evolve in
+isolation, but in the context of the body, behavior, and a rich
+sensory environment generated by biological and non-biological
+FIGURE 5 | (A) Graded expression of Emx2 in the normal (left) and mutant
+(right) mice. Normal expression generates normal patterns of cortical fields
+(B; left) and absence of Emx2 generates altered patterns of organization
+such that caudal domains have decreased (V1 is small) and rostral domains
+have expanded into the caudal territories (B; right). (C) Injections into
+parietal cortex (what will become S1) and occipital cortex (what will
+become V1) demonstrated altered patterns of thalamocortical connections
+(D). In mutants what would normally develop into visual cortex has
+projections from VP, normally associated with somatosensory processing.
+The schematic in (E) demonstrates normal thalamocortical connections of
+S1 and V1 (left) and the caudal shift of VP projections into what would
+normally be visual cortex (E; right). These figures are modified from Bishop
+et al. (2000, 2002). Conventions as in previous figures.
+sources. An excellent example of the interaction between genes
+that regulate body morphology and the effect of this on the brain
+and behavior comes from comparisons of limb development in
+species that have radically different forelimb phenotypes, such
+as the mouse and the short-tailed fruit bat (Figure 6). The early
+development of the mouse and bat forelimb is remarkably similar.
+However, at mid stages of limb development, the interdigit mem￾branes in the mouse undergo apoptosis, which results in a sepa￾ration of individual digits of the forepaw (Cretekos et al., 2008).
+Conversely, at this stage of limb development in the bat apoptosis
+does not occur. In addition, in the bat there is a lengthening of
+the forelimb and elongation of the digit phalanges. Together these
+alterations generate much of the phenotypic differences in these
+species, which in turn are related to radical differences in the use
+of the forelimb. Comparative studies of gene expression during
+FIGURE 6 | Development (A) and morphology (B) of the forelimb, and
+the representation of the forelimb in somatosensory cortex (C) in mice
+and bats. (A) At middle stages of forelimb development the expression of
+Prx1 (purple) is expanded in the distal forelimb (red arrows). This alteration,
+among a number of other molecular changes, accounts for the radical
+differences in the rat forepaw compared to the bat wing (B). These
+morphological differences in the distal forelimb in addition to differential use
+of the paw vs. wing have likely contributed to the differences in size and
+internal organization of the forelimb representation in S1 (C). Figures are
+modified from Cretekos et al. (2001, 2008); Woolsey (1967), and Wise et al.
+(1986). Other conventions as in previous figures.
+Frontiers in Human Neuroscience www.frontiersin.org October 2013 | Volume 7 | Article 620 | 7
+
+=== PDF PAGE 8 ===
+Krubitzer and Dooley Cortical plasticity within and across lifetimes
+limb development indicate that there are several key genetic alter￾ations that account for these differences. In the bat, upregulation
+of Prx1 results in a lengthening of the distal forelimb (Cretekos
+et al., 2008; Behringer et al., 2009; Figure 6A) and a posterior
+shift in Hoxd13 expression reduces some skeletal elements. In
+the mouse, BMPs trigger apoptosis of interdigit membranes. In
+the bat BMPs are inhibited by Gremlin thus preserving interdigit
+membranes and this inhibition is accompanied by an increase
+in FGF8 in the apical ectodermal ridge, which extends the dis￾tal growth of the forelimb. Another important distinction of the
+bat forelimb is the presence of touch domes. These specialized
+receptor assemblies are found across the wing membranes and are
+beautifully sensitive to small changes in air pressure (Zook and
+Fowler, 1986; Sterbing-D’Angelo et al., 2011).
+These changes to the forelimb are associated with differential
+use of the limb and the ability to make fine discriminations with
+the wing for self propelled flight and wing to mouth feeding
+behavior (Sterbing-D’Angelo et al., 2011). Studies of neocortical
+organization of the somatosensory cortex demonstrate an expan￾sion of the forelimb and digit (wing) representation within S1
+of the bat compared to the mouse (Woolsey, 1967; Wise et al.,
+1986; Cretekos et al., 2001, 2008, Figure 6C). Additionally differ￾ences in the interhemispheric connections of the forelimb in bats
+have been observed. In both large and small-brained mammals
+with discrete digits, the forepaw/hand representation within S1
+is almost devoid of connections across hemispheres (for review,
+see Innocenti, 1986). These acallosal hand/paw representations in
+S1 and associated anterior parietal fields are particularly discrete
+in species like primates that use the glabrous digits as a major
+effector for object exploration. In bats digits 2–4 are fused by
+the wing membranes and tactile stimulation of the wings is used
+for fine control in self-propelled flight. The wing representation
+in primary somatosensory cortex and associated fields receives
+dense callosal inputs for rapid interhemispheric communication
+between centers that process incoming inputs and generate fine
+motor control of the wing during flight (Krubitzer et al., 1998).
+There are numerous other model systems demonstrating the
+role peripheral body morphology can have on the develop￾ment of the neocortex in the scientific literature. Perhaps the
+most extensively studied peripheral/central system is the vib￾rissae and their corresponding barrels in S1 (for review, see
+Erzurumlu and Gaspar, 2012). While a complete discussion of
+the experimentally-induced plasticity of this system is beyond
+the scope of this review, genetic manipulations have produced
+mice which possess additional whisker follicles (Welker and Van
+der Loos, 1986) or which lack several whisker follicles (North
+et al., 2010). Welker and Van der Loos generated six strains of
+mice with differing patterns of extra vibrissae and found that
+regardless of the peripheral patterns of vibrissae, all extra vibris￾sae were represented cortically with extra barrels (Welker and Van
+der Loos, 1986). Likewise, mice lacking particular vibrissae also
+lacked the corresponding barrels in S1, as the representations of
+these vibrissae in associated subcortical pathways (North et al.,
+2010).
+It should be noted that environmental factors also contribute
+to features of body morphology and in turn brain organization.
+For instance, gravitational stress can affect craniomandibular
+morphology including bone density (Singh et al., 2005), and diet
+and associated mastication behavior affects craniofacial morphol￾ogy (He, 2004; Koyabu and Endo, 2009). Environmental factors
+such as salinity, temperature and humidity also contribute to
+body morphology (Johnston and Gottlieb, 1990), and even sex
+determination (Matsumoto et al., 2013). Together these body
+morphology changes could radically affect a number of aspects
+of behavior including self-propelled flight and feeding, which in
+turn could alter aspects of sensorimotor cortex organization and
+connectivity.
+What is not understood is the extent to which these changes to
+peripheral morphology and use can drive fundamental changes in
+cortical organization, connectivity, sensory mediated discrimina￾tions, perceptions, and higher level cognitive processes, and if or
+how these changes to the brain become genetically encoded and
+evolve.
+FIGURE 7 | Examples of extreme cortical magnification of behaviorally
+relevant effectors for somatosensory cortex of the duck-billed platypus
+(A), star-nosed mole (B), raccoon (C), and naked mole-rat (D). Although
+the specialized morphological structure and associated sensory receptor
+arrays are on different body parts, the same principle of magnification in the
+neocortex is observed. These figures are modified from Krubitzer et al.
+(1995) (A); Catania (2011) (B); Welker and Seidenstein (1959) and Herron
+(1978) (C); Henry et al. (2006) (D). Conventions as in previous figures.
+Frontiers in Human Neuroscience www.frontiersin.org October 2013 | Volume 7 | Article 620 | 8
+
+=== PDF PAGE 9 ===
+Krubitzer and Dooley Cortical plasticity within and across lifetimes
+OBSERVATIONS FROM THE NATURAL WORLD
+For decades comparative neurobiologists have examined mam￾mals that have evolved extreme specializations in an attempt
+to uncover general rules of construction as well as constraints
+imposed on the evolving nervous system. These types of obser￾vations highlight features that may be more difficult to uncover
+when only subtle differences exist in some aspect of brain orga￾nization in different species. One of the most extraordinary
+examples of this comes from studies of the duck-billed platypus
+(Figure 7A). The platypus has evolved electrosensory receptors
+that form anteroposterior rows on the bill that interdigitate with
+rows of mechanosensory receptors (Scheich et al., 1986; Gregory
+et al., 1987, 1988; Iggo et al., 1992). Most activities of the platypus
+are performed in the water during which time its eyes, ears and
+nose are closed. Thus, inputs from the bill, and to a limited extent
+the body, are the brain’s source of information about the animal’s
+immediate environment. Examination of the organization of the
+neocortex indicates an enormous expansion of the bill represen￾tation with clear territories devoted to processing electrosensory
+vs. mechanosensory inputs. There are three separate representa￾tions of the bill, which together occupy about 50% of the cortical
+sheet. In S1 alone, this magnification of a behaviorally relevant
+body part is enormous; the bill representation occupies 95% of S1
+(Krubitzer et al., 1995).
+Additional examples of extreme magnification have been
+observed in the primary somatosensory area of a number of
+mammals including the naked mole rat and star-nosed mole
+(Figure 7). This expansion of cortical territory related to effec￾tor specific inputs and active use is also observed in other sensory
+systems including an expansion of central vision in diurnal pri￾mates, and an expansion of ultrasonic frequency representations
+in echolocating bats (Suga et al., 1987). These alterations are
+due to changes in peripheral morphology, use, and the physical
+environment in which the animal develops and ultimately lives.
+To determine the extent to which sensory receptor arrays,
+as well as inputs from multiple sensory systems, contribute to
+aspects of the cortical phenotype, our lab bilaterally enucleated
+short-tailed opossums very early in development, before thala￾mocortical afferents reached the cortex and before retinal gan￾glion cell axons reached the thalamus (Taylor and Guillery, 1994;
+Molnár et al., 1998). We found that loss of visual input results in a
+massive reallocation of sensory cortex (cortical domain changes)
+in that “visual cortex” is functionally taken over by the audi￾tory and somatosensory systems (Kahn and Krubitzer, 2002;
+Figure 8A). This early loss of visual input resulted in a decrease
+in the size of architectonically defined V1 as well as an increase in
+the size of S1 (Karlen and Krubitzer, 2009). Further, cortex in the
+expected location of V1 received aberrant inputs from somatosen￾sory and auditory structures of the cortex and thalamus (Karlen
+et al., 2006; Figure 8B). Studies in anophthalmic mice have also
+demonstrated alterations in subcortical connections and large
+changes in functional organization of “visual cortex” (Godement
+et al., 1979; Chabot et al., 2007), and studies of congenitally deaf
+mice show that auditory cortex is taken over by the visual and
+somatosensory systems (Hunt et al., 2006). Work in experimen￾tally deafened cats supports these data. Cats that are deafened
+early have superior peripheral visual localization and motion
+detection abilities, and these abilities can be abolished when
+FIGURE 8 | Alterations in the functional organization (A) and
+connectivity (B) in bilaterally enucleated opossums. In normal animals
+(left) much of cortex is devoted to visual processing. With early and
+complete loss of vision (right) all of what would normally develop into
+visual cortex is taken over by the spared sensory systems. This functional
+reorganization is accompanied by alterations in thalamocortical and
+corticocortical connections (B). Modified from Kahn and Krubitzer (2002)
+(A); Karlen et al. (2006) (B). Conventions as in previous figures.
+Frontiers in Human Neuroscience www.frontiersin.org October 2013 | Volume 7 | Article 620 | 9
+
+=== PDF PAGE 10 ===
+Krubitzer and Dooley Cortical plasticity within and across lifetimes
+specific areas of auditory cortex are deactivated (the posterior
+auditory field and the dorsal zone, respectively; Lomber et al.,
+2010). Recently it was shown that projections from extrastriate
+visual areas to the dorsal zone of auditory cortex provides the
+anatomical substrate for this behavioral plasticity (Kok et al.,
+2013).
+Armed with knowledge of the types of alterations that occur
+with extreme changes in receptor array and major loss of sensory
+input, scientists can determine if these same types of alterations
+occur with changes in environmental context in which the animal
+develops. There are numerous examples in the auditory, visual,
+and somatosensory systems that demonstrate physical rearing
+conditions produce changes to the cortical phenotype. For exam￾ple dark-rearing or stripe-rearing in cats and ferrets leads to
+a decrease in neural responses to visual stimuli in orientations
+in which the manipulated animals lack experience (e.g., Blasdel
+et al., 1977; Sengpiel et al., 1999; Li et al., 2006) and recent stud￾ies in rodents have corroborated these results, demonstrating that
+diverse visual experience is necessary for normal visual develop￾ment (O’Hashi et al., 2007; Kreile et al., 2011). Similar findings
+have been found in the auditory system, in which repeated presen￾tation of specific auditory stimuli early in development produces
+an expansion of the cortical representation of the tones presented
+(Zhang et al., 2001). Finally, an increase in the amount of cortex
+devoted to representing particular regions of the body have been
+generated either through extensive use of the animal’s optimal
+effector (Recanzone et al., 1992), or in some cases, training using
+the non-optimal effector (Tennant et al., 2012).
+Recently we examined the effects of lifestyle and exposure to
+radically different sensory environments on the size and cellular
+composition of cortical fields in different rodents for differ￾ent sensory systems. First, we quantified relative cortical field
+size in diurnal vs. nocturnal rodents and terrestrial vs. arboreal
+rodents (Figure 9A). We found differential expansions and con￾tractions of visual, auditory and somatosensory cortex that were
+related to lifestyle. For example, diurnal squirrels had a rela￾tively larger V1 while nocturnal rats had a relatively larger S1
+and A1 (expressed as a percentage of the entire cortical sheet,
+Campi and Krubitzer, 2010). Furthermore, arboreal squirrels,
+which live in a visually demanding environment, had a larger V1
+and showed an expansion of visual cortex compared to terrestrial
+squirrels.
+We also quantified and compared differences in cortical field
+size and cellular composition of primary visual cortex between
+wild-caught Norway rats and Norway rats reared in the labo￾ratory. Obviously the sensory experience, motor demands and
+sensory mediated behaviors in a natural (and pervasive) envi￾ronment are more dynamic and complex than the more limited
+demands of the laboratory environment. We found that there
+were significant differences in the size of primary sensory areas
+with laboratory rats having larger a S1 and A1 compared to
+wild caught animals (Campi and Krubitzer, 2010; Figure 9A).
+Conversely, V1 in wild caught rats had a larger percentage of neu￾rons and a greater density of neurons compared to laboratory rats
+(Campi et al., 2011; Figures 9B,C). These studies indicate that
+the fundamental structure of neocortex can be modified through
+experience.
+FIGURE 9 | Alterations in the relative size of primary cortical areas (A)
+and cellular composition (B,C) between different populations of
+rodents. These features of organization are related to lifestyle (diurnal vs.
+nocturnal; arboreal vs. terrestrial) and rearing condition (laboratory, yellow vs.
+wild-caught, green). Bars represent mean ± standard error, asterisks
+represent statistical significance. Modified from Campi and Krubitzer (2010)
+(A); Campi et al. (2011) (B,C).
+WHAT ARE THE MECHANISMS THAT GENERATE EPIGENETIC
+ALTERATIONS TO THE NEOCORTEX?
+Decades of studies on developmental and adult plasticity of the
+neocortex demonstrate that sensory experience can profoundly
+transform features of cortical organization that are known to be
+altered throughout the course of evolution, such as cortical field
+size, organization, cellular composition, neural response proper￾ties, and connectivity. Rather than a simple and small refinement
+of parameters initiated by genes, experience plays a critical role in
+the construction of the neocortex. This should not be surprising
+since the role of the neocortex appears to be that of a comparative
+predictor for the generation of adaptive behavior, and behavior is
+the target of natural selection. These behaviors are often tightly
+temporally correlated with the stimulus, or temporally uncorre￾lated in which a substantial amount of time may have elapsed
+between the stimulus and behavior. In any case, the predictive
+precision of the neocortex is built by accurate representations of
+the physical context or collective biomass in which the animal
+develops and behaves. Thus, it is not surprising that there are
+mechanisms that allow the animal, and the brain, which generates
+its behavior, to change substantially within a lifetime.
+Although the field of epigenetics has had a recent resurgence,
+as noted above, the notion that a number of processes occur
+Frontiers in Human Neuroscience www.frontiersin.org October 2013 | Volume 7 | Article 620 | 10
+
+=== PDF PAGE 11 ===
+Krubitzer and Dooley Cortical plasticity within and across lifetimes
+between the genotype and the ultimate phenotype has been
+appreciated since the last half of the previous century (Holliday,
+2006 for review). The current review has attempted to provide
+a number of concrete examples in which aspects of the corti￾cal phenotype can vary based on a number of different genetic
+and experience dependent factors. While describing the details of
+epigenetic mechanisms is beyond the scope of our laboratory’s
+purview, it would be remiss not to discuss how environmental sig￾nals program the operation of the genome, and the mechanisms
+by which these effects endure beyond the period of exposure
+during development (Kappeler and Meaney, 2010).
+Some of the best examples of these interactions come from
+studies of mother–offspring interactions in rats. Maternal lick￾ing and grooming (LG) of pups is a variable trait in Long-Evans
+rats (Champagne et al., 2003), and the frequency of the mater￾nal LG is dictated by environmental factors such as stress lev￾els and light/dark cycles (Champagne and Meaney, 2006; Toki
+et al., 2007). For example, natural variations in LG of pups
+during the early postnatal period affect the development of the
+hypothalamic–pituitary–adrenal (HPA) axis (Liu et al., 1997;
+Caldji et al., 1998; Menard et al., 2004). In adulthood, offspring
+of high LG mothers have lower circulating adrenocorticotropic
+hormone levels during stress. This blunted stress response is asso￾ciated with changes in glucocorticoid receptor (GR) mRNA and
+protein expression in the hippocampus, which regulates gluco￾corticoid feedback sensitivity (Weaver et al., 2004). Importantly,
+these behavioral effects and changes in gene expression that regu￾late the HPA in adults are initiated by mother-infant interactions
+during the early postpartum period. It is proposed that during
+the early postnatal period variations in tactile stimulation dur￾ing LG induce epigenetic modifications in the promoter region
+of the GR gene resulting in alterations of GR expression in the
+hippocampus that persist throughout life. Increased tactile stim￾ulation received by offspring of high LG mothers results in an
+increase in neurotransmitter binding and subsequent intracellular
+signaling in the hippocampus, which activates GR gene tran￾scription. Importantly, the pattern of increased GR transcription
+persists into adulthood because of a reduction in methylation
+of the GR gene. DNA methylation is typically associated with
+a repression of gene expression (Miranda and Jones, 2007; see
+Kappeler and Meaney, 2010 for review), therefore a reduction in
+methylation of the promoter region of the GR gene is associated
+with increased GR gene expression (Meaney and Szyf, 2005). This
+modification of the genome and the behaviors ultimately gener￾ated by these changes can be transmitted to the second generation
+offspring, but are reversed with cross-fostering (rearing low LG
+pups with high LG parents).
+There are also examples of epigenetic mechanisms operat￾ing directly on the nervous system. Work by Putignano et al.
+(2007) demonstrates that during visual critical periods, sensory
+inputs can directly turn on and off regulatory factors which alter
+the accessibility of gene promoters. When these genes are made
+experimentally accessible in adulthood, much of the ocular domi￾nance plasticity that is observed early in development is reinstated
+(Putignano et al., 2007). Further studies have identified a specific
+histone deacetylase (HDAC9) which has been shown to translo￾cate from the nucleus to the cytoplasm following neural activity
+early in development. When HDAC9 was experimentally pre￾vented from translocating, manipulated cells showed decreased
+dendritic branches, while knockdown of HDAC9 increased den￾dritic growth (Sugo et al., 2010).
+Despite the constraints imposed by genes and the contingen￾cies of genetic cascades, and the laws of physics that govern all
+forms of matter and energy, biological organisms have evolved
+mechanisms that allow them to loosen these constraints and
+dynamically adapt both within a lifetime and across generations.
+In a sense, the strength of this evolvability (Earl and Deem, 2004)
+and the evolution of a large, malleable comparative predictor
+(neocortex), rather than specific genes or gene products, may be
+one of the fundamental differences that distinguish humans from
+other animals.
+ACKNOWLEDGMENTS
+The authors would like to thank Deepa Ramamurthy, Mary
+Baldwin, Adele Seelke, Dylan Cooke, and Danielle Stolzenberg
+for helpful comments on the manuscript. Leah Krubitzer is
+supported by NEI (R01 EY022987). James Dooley has been sup￾ported by NEI (T32-EY015387-05).
+REFERENCES
+Andrews, G. L., and Mastick, G.
+S. (2003). R-cadherin is a Pax6-
+regulated, growth-promoting cue
+for pioneer axons. J. Neurosci. 23,
+9873–9880.
+Assimacopoulos, S., Kao, T., Issa,
+N. P., and Grove, E. A. (2012).
+Fibroblast growth factor 8 orga￾nizes the neocortical area map and
+regulates sensory map topography.
+J. Neurosci. 32, 7191–7201. doi:
+10.1523/JNEUROSCI.0071-12.2012
+Behringer, R. R., Rasweiler, J. J.
+4th., Chen, C.-H., and Cretekos,
+C. J. (2009). Genetic regulation
+of mammalian diversity. Cold
+Spring Harb. Symp. Quant. Biol.
+74, 297–302. doi: 10.1101/sqb.
+2009.74.035
+Bishop, K. M., Goudreau, G., and
+O’Leary, D. D. (2000). Regulation
+of area identity in the mam￾malian neocortex by Emx2 and
+Pax6. Science 288, 344–349. doi:
+10.1126/science.288.5464.344
+Bishop, K. M., John, L. R. R., and
+O’Leary, D. D. M. (2002). Distinct
+actions of Emx1, Emx2, and Pax6
+in regulating the specification of
+areas in the developing neocortex.
+J. Neurosci. 22, 7627–7638.
+Blasdel, G. G., Mitchell, D. E., Muir, D.
+W., and Pettigrew, J. D. (1977). A
+physiological and behavioural study
+in cats of the effect of early visual
+experience with contours of a single
+orientation. J. Physiol. 265, 615–636.
+Bronchti, G., Heil, P., Sadka, R. Hess,
+A. Scheich, H., and Wollberg, Z.
+(2002). Auditory activation of
+‘visual’ cortical areas in the blind
+mole rat (Spalax ehrenbergi).
+Eur. J. Neurosci. 16, 311–329. doi:
+10.1046/j.1460-9568.2002.02063.x
+Bystron, I., Blakemore, C., and Rakic,
+P. (2008). Development of the
+human cerebral cortex: boulder
+Committee revisited. Nat. Rev.
+Neurosci. 9, 110–122. doi: 10.1038/
+nrn2252
+Caldji, C., Tannenbaum, B., Sharma,
+S., Francis, D., Plotsky, P. M., and
+Meaney, M. J. (1998). Maternal care
+during infancy regulates the devel￾opment of neural systems mediat￾ing the expression of fearfulness in
+the rat. Proc. Natl. Acad. Sci. U.S.A.
+95, 5335–5340. doi: 10.1073/pnas.
+95.9.5335
+Campi, K. L., Collins, C. E., Todd,
+W. D., Kaas, J., and Krubitzer,
+L. (2011). Comparison of area
+17 cellular composition in labora￾tory and wild-caught rats includ￾ing diurnal and nocturnal species.
+Brain Behav. Evol. 77, 116–130. doi:
+10.1159/000324862
+Campi, K. L., and Krubitzer, L. (2010).
+Comparative studies of diurnal and
+nocturnal rodents: differences in
+lifestyle result in alterations in
+cortical field size and number.
+J. Comp. Neurol. 518, 4491–4512.
+doi: 10.1002/cne.22466
+Campos, G. B., and Welker, W. I.
+(1976). Comparisons between
+brains of a large and a small
+hystricomorph rodent: capybara,
+Hydrochoerus and guinea pig,
+Frontiers in Human Neuroscience www.frontiersin.org October 2013 | Volume 7 | Article 620 | 11
+
+=== PDF PAGE 12 ===
+Krubitzer and Dooley Cortical plasticity within and across lifetimes
+Cavia; neocortical projection
+regions and measurements of brain
+subdivisions. Brain Behav. Evol. 13,
+243–266. doi: 10.1159/000123814
+Catania, K. C. (2011). The sense of
+touch in the star-nosed mole:
+from mechanoreceptors to the
+brain. Philos. Trans. R. Soc. Lond.
+B. Biol. Sci. 366, 3016–3025. doi:
+10.1098/rstb.2011.0128
+Chabot, N., Robert, S., Tremblay, R.,
+Miceli, D., Boire, D., and Bronchti,
+G. (2007). Audition differently acti￾vates the visual system in neona￾tally enucleated mice compared
+with anophthalmic mutants. Eur.
+J. Neurosci. 26, 2334–2348. doi:
+10.1111/j.1460-9568.2007.05854.x
+Champagne, F. A., and Meaney, M.
+J. (2006). Stress during gestation
+alters postpartum maternal care
+and the development of the off￾spring in a rodent model. Biol.
+Psychiatry 59, 1227–1235. doi:
+10.1016/j.biopsych.2005.10.016
+Champagne, F. A., Weaver, I. C., Diorio,
+J., Sharma, S., and Meaney, M. J.
+(2003). Natural variations in mater￾nal care are associated with estro￾gen receptor alpha expression and
+estrogen sensitivity in the medial
+preoptic area. Endocrinology 144,
+4720–4724. doi: 10.1210/en.2003-
+0564
+Cooper, H. M., Herbin, H., and Nevo,
+E. (1993). Visual system of a natu￾rally microphthalmic mammal: the
+blind mole rat, Spalax ehrenbergi.
+J. Comp. Neurol. 328, 313–350. doi:
+10.1002/cne.903280302
+Craciunescu, C. N., Brown, E. C., Mar,
+M. H., Albright, C. D., Nadeau, M.
+R., and Zeisel, S. H. (2004). Folic
+acid deficiency during late gestation
+decreases progenitor cell prolifera￾tion and increases apoptosis in fetal
+mouse brain. J. Nutr. 134, 162–166.
+Craciunescu, C. N., Johnson, A. R., and
+Zeisel, S. H. (2010). Dietary choline
+reverses some, but not all, effects
+of folate deficiency on neurogen￾esis and apoptosis in fetal mouse
+brain. J. Nutr. 140, 1162–1166. doi:
+10.3945/jn.110.122044
+Cretekos, C. J., Rasweiler, J. J.,
+and Behringer, R. R. (2001).
+Comparative studies on limb
+morphogenesis in mice and bats:
+a functional genetic approach
+towards a molecular understanding
+of diversity in organ formation.
+Reprod. Fertil. Dev. 13, 691–695.
+doi: 10.1071/RD01115
+Cretekos, C. J., Wang, Y., Green, E. D.,
+Martin, J. F., Rasweiler, J. J. 4th., and
+Behringer, R. R. (2008). Regulatory
+divergence modifies limb length
+between mammals. Genes Dev. 22,
+141–151. doi: 10.1101/gad.1620408
+Day, J. J., and Sweatt, J. D. (2010). DNA
+methylation and memory forma￾tion. Nat. Neurosci. 13, 1319–1323.
+doi: 10.1038/nn.2666
+Dooley, J. C., Franca, J. G., Seelke, A. M.
+H., Cooke, D. F., and Krubitzer, L.
+A. (2013). A connection to the past:
+monodelphis domestica provides
+insight into the organization and
+connectivity of the brains of early
+mammals. J. Comp. Neurol. doi:
+10.1002/cne.23383. [Epub ahead of
+print].
+Earl, D. J., and Deem, M. W. (2004).
+Evolvability is a selectable
+trait. Proc. Natl. Acad. Sci.
+U.S.A. 101, 11531–11536. doi:
+10.1073/pnas.0404656101
+Erzurumlu, R. S., and Gaspar, P. (2012).
+Development and critical period
+plasticity of the barrel cortex. Eur.
+J. Neurosci. 35, 1540–1553. doi:
+10.1111/j.1460-9568.2012.08075.x
+Fietz, S. A., Kelava, I., Vogt, J., Wilsch￾Bräuninger, M., Stenzel, D., Fish,
+J. L., et al. (2010). OSVZ progen￾itors of human and ferret neocor￾tex are epithelial-like and expand by
+integrin signaling. Nat. Neurosci. 13,
+690–699. doi: 10.1038/nn.2553
+García-Moreno, F., Vasistha, N.
+V., Trevia, N., Bourne, J.
+A., and Molnár, Z. (2012).
+Compartmentalization of cere￾bral cortical germinal zones
+in a lissencephalic primate
+and gyrencephalic rodent.
+Cereb. Cortex 22, 482–492. doi:
+10.1093/cercor/bhr312
+Godement, P., Saillour, P., and Imbert,
+M. (1979). Thalamic afferents to
+the visual cortex in congenitally
+anophthalmic mice. Neurosci. Lett.
+13, 271–278. doi: 10.1016/0304-
+3940(79)91506-4
+Gregory, J. E., Iggo, A., McIntyre,
+A. K., and Proske, U. (1987).
+Electroreceptors in the platy￾pus. Nature 326, 386–387. doi:
+10.1038/326386a0
+Gregory, J. E., Iggo, A., McIntyre, A. K.,
+and Proske, U. (1988). Receptors in
+the bill of the platypus. J. Physiol.
+400, 349–366.
+Hamasaki, T., Leingärtner, A.,
+Ringstedt, T., and O’Leary, D.
+D. (2004). EMX2 regulates sizes
+and positioning of the primary
+sensory and motor areas in neo￾cortex by direct specification of
+cortical progenitors. Neuron 43,
+359–372. doi: 10.1016/j.neuron.
+2004.07.016
+Hansen, D. V., Lui, J. H., Parker, P.
+R., and Kriegstein, A. R. (2010).
+Neurogenic radial glia in the outer
+subventricular zone of human neo￾cortex. Nature 464, 554–561. doi:
+10.1038/nature08845
+He, T. (2004). Craniofacial morphol￾ogy and growth in the ferret: effects
+from alteration of masticatory func￾tion. Swed. Dent. J. Suppl. 165, 1–72.
+Henry, E. C., Remple, M. S., O’Riain,
+M. J., and Catania, K. C. (2006).
+Organization of somatosen￾sory cortical areas in the naked
+mole-rat (Heterocephalus glaber).
+J. Comp. Neurol. 495, 434–452. doi:
+10.1002/cne.20883
+Herron, P. (1978). Somatotopic orga￾nization of mechanosensory pro￾jections to SII cerebral neocor￾tex in the raccoon (Procyon lotor).
+J. Comp. Neurol. 181, 717–727. doi:
+10.1002/cne.901810403
+Hevner, R. F., and Haydar, T. F.
+(2012). The (not necessarily)
+convoluted role of basal radial
+glia in cortical neurogenesis.
+Cereb. Cortex 22, 465–468. doi:
+10.1093/cercor/bhr336
+Holliday, R. (2006). Dual inher￾itance. Curr. Top. Microbiol.
+Immunol. 301, 243–256. doi:
+10.1007/3-540-31390-7_9
+Hunt, D. L., Yamoah, E. N., and
+Krubitzer, L. (2006). Multisensory
+plasticity in congenitally
+deaf mice: how are cortical
+areas functionally specified?
+Neuroscience 139, 1507–1524. doi:
+10.1016/j.neuroscience.2006.01.023
+Iggo, A., Gregory, J. E., and Proske,
+U. (1992). The central projection
+of electrosensory information
+in the platypus. J. Physiol.447,
+449–465.
+Innocenti, G. M. (1986). “General orga￾nization of callosal connections in
+the cerebral cortex,” in Cerebral
+Cortex, Vol. 5, eds A. Peters and E.
+G. Jones (New York, NY: Plenum),
+291–353.
+Inoue, T., Tanaka, T., Suzuki, S. C., and
+Takeichi, M. (1998). Cadherin-6 in
+the developing mouse brain: expres￾sion along restricted connection
+systems and synaptic localization
+suggest a potential role in neuronal
+circuitry. Dev. Dyn. 211, 338–351.
+doi: 10.1002/(SICI)1097-0177(1998
+04)211:4<338::AID-AJA5>3.3.CO;
+2-R
+Johnston, T. D., and Gottlieb, G.
+(1990). Neophenogenesis: a
+developmental theory of phe￾notypic evolution. J. Theor.
+Biol. 147, 471–495. doi:
+10.1016/S0022-5193(05)80260-7
+Kaas, J. H. (2011). Reconstructing
+the areal organization of the
+neocortex of the first mammals.
+Brain Behav. Evol. 78, 7–21. doi:
+10.1159/000327316
+Kaas, J. H. (2012). Evolution of
+columns, modules, and domains
+in the neocortex of primates.
+Proc. Natl. Acad. Sci. U.S.A.
+109(Suppl. 1), 10655–10660. doi:
+10.1073/pnas.1201892109
+Kahn, D. M., and Krubitzer, L. (2002).
+Massive cross-modal cortical plas￾ticity and the emergence of a new
+cortical area in developmentally
+blind mammals. Proc. Natl. Acad.
+Sci. U.S.A. 99, 11429–11434. doi:
+10.1073/pnas.162342799
+Kappeler, L., and Meaney, M. J.
+(2010). Epigenetics and parental
+effects. Bioessays 32, 818–827. doi:
+10.1002/bies.201000015
+Karlen, S. J., Kahn, D. M., and
+Krubitzer, L. (2006). Early blindness
+results in abnormal corticocortical
+and thalamocortical connections.
+Neuroscience 142, 843–858. doi:
+10.1016/j.neuroscience.2006.06.055
+Karlen, S. J., and Krubitzer, L. (2009).
+Effects of bilateral enucleation on
+the size of visual and nonvisual
+areas of the brain. Cereb. Cortex
+19, 1360–1371. doi: 10.1093/cer￾cor/bhn176
+Kok, M. A., Chabot, N., and Lomber,
+S. G. (2013). Crossmodal reorgani￾zation of cortical afferents to dorsal
+auditory cortex following early￾and Late-onset deafness. J. Comp.
+Neurol. doi: 10.1002/cne.23439.
+[Epub ahead of print].
+Kornack, D. R. (2000). Neurogenesis
+and the evolution of cortical diver￾sity: mode, tempo, and partitioning
+during development and persistence
+in adulthood. Brain Behav. Evol. 55,
+336–344. doi: 10.1159/000006668
+Kornack, D. R., and Rakic, P. (1998).
+Changes in cell-cycle kinetics dur￾ing the development and evolution
+of primate neocortex. Proc. Natl.
+Acad. Sci. U.S.A. 95, 1242–1246. doi:
+10.1073/pnas.95.3.1242
+Koyabu, D. B., and Endo, H. (2009).
+Craniofacial variation and dietary
+adaptations of african colobines.
+J. Hum. Evol. 56, 525–536. doi:
+10.1016/j.jhevol.2008.12.009
+Kreile, A. K., Bonhoeffer, T., and
+Hübener, M. (2011). Altered visual
+experience induces instructive
+changes of orientation prefer￾ence in mouse visual cortex.
+J. Neurosci. 31, 13911–13920.
+doi: 10.1523/JNEUROSCI.2143-
+11.2011
+Krubitzer, L. (2007). The magnificent
+compromise: cortical field evolution
+in mammals. Neuron 56, 201–208.
+doi: 10.1016/j.neuron.2007.10.002
+Krubitzer, L. (2009). In search of a
+unifying theory of complex brain
+evolution. Ann. N.Y. Acad. Sci.
+1156, 44–67. doi: 10.1111/j.1749-
+6632.2009.04421.x
+Krubitzer, L., Campi, K. L., and Cooke,
+D. F. (2011). All rodents are not the
+Frontiers in Human Neuroscience www.frontiersin.org October 2013 | Volume 7 | Article 620 | 12
+
+=== PDF PAGE 13 ===
+Krubitzer and Dooley Cortical plasticity within and across lifetimes
+same: A modern synthesis of corti￾cal organization. Brain Behav. Evol.
+78, 51–93. doi: 10.1159/000327320
+Krubitzer, L., Clarey, J. C., Tweedale,
+R., and Calford, M. B. (1998).
+Interhemispheric connections of
+somatosensory cortex in the flying
+fox. J. Comp. Neurol. 402, 538–559.
+doi: 10.1002/(SICI)1096-9861(19
+981228)402:4<538::AID-CNE7>3.
+3.CO;2-K
+Krubitzer, L., and Kaas, J. (2005).
+The evolution of the neocortex
+in mammals: how is phenotypic
+diversity generated? Curr. Opin.
+Neurobiol. 15, 444–453. doi:
+10.1016/j.conb.2005.07.003
+Krubitzer, L., Manger, P., Pettigrew,
+J., and Calford, M. (1995).
+Organization of somatosen￾sory cortex in monotremes: in
+search of the prototypical plan.
+J. Comp. Neurol. 351, 261–306. doi:
+10.1002/cne.903510206
+Krubitzer, L. A., and Seelke, A.
+M. (2012). Cortical evolution
+in mammals: the bane and
+beauty of phenotypic variabil￾ity. Proc. Natl. Acad. Sci. U.S.A.
+109(Suppl. 1), 10647–10654. doi:
+10.1073/pnas.1201891109
+Kruska, D. C. T. (2005). On the
+evolutionary significance of
+encephalization in some euthe￾rian mammals: effects of adaptive
+radiation, domestication, and
+feralization. Brain Behav. Evol. 65,
+73–108. doi: 10.1159/000082979
+Li, Y., Fitzpatrick, D., and White, L. E.
+(2006). The development of direc￾tion selectivity in ferret visual cor￾tex requires early visual experi￾ence. Nat. Neurosci. 9, 676–681. doi:
+10.1038/nn1684
+Liu, D., Diorio, J., Tannenbaum, B.,
+Caldji, C., Francis, D., Freedman,
+A., et al. (1997). Maternal care,
+hippocampal glucocorticoid recep￾tors, and hypothalamic-pituitary￾adrenal responses to stress. Science
+277, 1659–1662. doi: 10.1126/sci￾ence.277.5332.1659
+Lomber, S. G., Meredith, M. A., and
+Kral, A. (2010). Cross-modal plas￾ticity in specific auditory cortices
+underlies visual compensations
+in the deaf. Nat. Neurosci. 13,
+1421–1427. doi: 10.1038/nn.2653
+Luo, Z. X., Crompton, A. W., and
+Sun, A. L. (2001). A new mammali￾aform from the early Jurassic and
+evolution of mammalian character￾istics. Science 292, 1535–1540. doi:
+10.1126/science.1058476
+Martínez-Cerdeño, V., Cunningham,
+C. L., Camacho, J., Antczak, J.
+L., Prakash, A. N., Cziep, M. E.,
+et al. (2012). Comparative analy￾sis of the subventricular zone in
+rat, ferret and macaque: evidence
+for an outer subventricular zone in
+rodents. PLoS ONE 7:e30178. doi:
+10.1371/journal.pone.0030178
+Matsumoto, Y., Buemio, A., Chu,
+R., Vafaee, M., and Crews, D.
+(2013). Epigenetic control of
+gonadal aromatase (cyp19a1)
+in temperature-dependent sex
+determination of red-eared slider
+turtles. PLoS ONE 8:e63599. doi:
+10.1371/journal.pone.0063599
+Meaney, M. J., and Szyf, M.
+(2005). Maternal care as a
+model for experience-dependent
+chromatin plasticity? Trends
+Neurosci. 28, 456–463. doi:
+10.1016/j.tins.2005.07.006
+Menard, J. L., Champagne, D. L.,
+and Meaney, M. J. (2004).
+Variations of maternal care dif￾ferentially influence ‘fear’ reactivity
+and regional patterns of cFos
+immunoreactivity in response
+to the shock-probe burying test.
+Neuroscience 129, 297–308. doi:
+10.1016/j.neuroscience.2004.08.009
+Meredith, R. W., Janecka, J. E., Gatesy, ˇ
+J., Ryder, O. A., Fisher, C. A.,
+Teeling, E. C., Goodbla, A., et al.
+(2011). Impacts of the Cretaceous
+Terrestrial Revolution and KPg
+extinction on mammal diversifi￾cation. Science 334, 521–524. doi:
+10.1126/science.1211028
+Miranda, T. B., and Jones, P. A.
+(2007). DNA methylation: the
+nuts and bolts of repression.
+J. Cell. Physiol. 213, 384–390. doi:
+10.1002/jcp.21224
+Molnár, Z. (2011). Evolution of
+cerebral cortical development.
+Brain Behav. Evol. 78, 94–107. doi:
+10.1159/000327325
+Molnár, Z., and Clowry, G. (2012).
+Cerebral cortical development in
+rodents and primates. Prog. Brain
+Res. 195, 45–70. doi: 10.1016/B978-
+0-444-53860-4.00003-9
+Molnár, Z., Knott, G. W., Blakemore,
+C., and Saunders, N. R. (1998).
+Development of thalamocor￾tical projections in the South
+American gray short-tailed opos￾sum (Monodelphis domestica).
+J. Comp. Neurol. 398, 491–514.
+doi: 10.1002/(SICI)1096-9861(1998
+0907)398:4<491::AID-CNE3>3.3.
+CO;2-B
+Nakagawa, Y., Johnson, J. E., and
+O’Leary, D. D. (1999). Graded and
+areal expression patterns of regula￾tory genes and cadherins in embry￾onic neocortex independent of tha￾lamocortical input. J. Neurosci. 19,
+10877–10885.
+Nonaka-Kinoshita, M., Reillo, I.,
+Artegiani, B., Martínez-Martínez,
+M. A., Nelson, M., Borrell, V.,
+et al. (2013). Regulation of cere￾bral cortex size and folding by
+expansion of basal progenitors.
+EMBO J. 32, 1817–1828. doi:
+10.1038/emboj.2013.96
+North, H. A., Karim, A., Jacquin, M. F.,
+and Donoghue, M. J. (2010). EphA4
+is necessary for spatially selective
+peripheral somatosensory topogra￾phy. Dev. Dyn. 239, 630–638. doi:
+10.1002/dvdy.22185
+O’Hashi, K., Miyashita, M., and
+Tanaka, S. (2007). Experience￾dependent orientation plasticity in
+the visual cortex of rats chronically
+exposed to a single orientation.
+Neurosci. Res. 58, 86–90. doi:
+10.1016/j.neures.2007.01.005
+O’Leary, D. D., and Sahara, S. (2008).
+Genetic regulation of arealiza￾tion of the neocortex. Curr.
+Opin. Neurobiol. 18, 90–100. doi:
+10.1016/j.conb.2008.05.011
+O’Leary, M. A., Bloch, J. I., Flynn, J.
+J., Gaudin, T. J., Giallombardo,
+A., Giannini, N. P., Goldberg,
+S. L., et al. (2013). The placen￾tal mammal ancestor and the
+post-K-Pg radiation of placen￾tals. Science 339, 662–667. doi:
+10.1126/science.1229237
+Putignano, E., Lonetti, G., Cancedda,
+L., Ratto, G., Costa, M., Maffei, L.,
+et al. (2007). Developmental
+downregulation of histone
+posttranslational modifications
+regulates visual cortical plastic￾ity. Neuron 53, 747–759. doi:
+10.1016/j.neuron.2007.02.007
+Recanzone, G. H., Merzenich, M. M.,
+Jenkins, W. M., Grajski, K. A., and
+Dinse, H. R. (1992). Topographic
+reorganization of the hand repre￾sentation in cortical area 3b owl
+monkeys trained in a frequency￾discrimination task. J. Neurophysiol.
+67, 1031–1056.
+Reillo, I., de Juan Romero, C., García￾Cabezas, M. Á., and Borrell, V.
+(2011). A role for intermediate
+radial glia in the tangential expan￾sion of the mammalian cerebral cor￾tex. Cereb. Cortex 21, 1674–1694.
+doi: 10.1093/cercor/bhq238
+Rowe, T. B., Macrini, T. E., and
+Luo, Z. X. (2011). Fossil evidence
+on origin of the mammalian
+brain. Science 332, 955–957. doi:
+10.1126/science.1203117
+Scheich, H., Langner, G., Tidemann,
+C., Coles, R. B., and Guppy, A.
+(1986). Electroreception and elec￾trolocation in platypus. Nature 319,
+401–402. doi: 10.1038/319401a0
+Sengpiel, F., Stawinski, P., and
+Bonhoeffer, T. (1999). Influence of
+experience on orientation maps in
+cat visual cortex. Nat. Neurosci. 2,
+727–732. doi: 10.1038/11192
+Shitamukai, A., Konno, D., and
+Matsuzaki, F. (2011). Oblique
+radial glial divisions in the devel￾oping mouse neocortex induce
+self-renewing progenitors out￾side the germinal zone that
+resemble primate outer sub￾ventricular zone progenitors.
+J. Neurosci. 31, 3683–3695. doi:
+10.1523/JNEUROSCI.4773-10.2011
+Singh, R., Carvalho, T., and Gerstner,
+G. E. (2005). Loading effects on
+rat craniomandibular morphol￾ogy: a system for gravity studies.
+Acta Astronaut. 56, 357–366. doi:
+10.1016/j.actaastro.2004.06.002
+Smart, I. H. M., Dehay, C., Giroud,
+P., Berland, M., and Kennedy, H.
+(2002). Unique morphological
+features of the proliferative zones
+and postmitotic compartments
+of the neural epithelium giving
+rise to striate and extrastriate cor￾tex in the monkey. Cereb. Cortex
+12, 37–53. doi: 10.1093/cercor/
+12.1.37
+Stahl, R., Walcher, T., De Juan Romero,
+C., Pilz, G. A., Cappello, S., Irmler,
+M., et al. (2013). Trnp1 regulates
+expansion and folding of the
+mammalian cerebral cortex by
+control of radial glial fate. Cell
+153, 535–549. doi: 10.1016/j.cell.
+2013.03.027
+Sterbing-D’Angelo, S., Chadha, M.,
+Chiu, C., Falk, B., Xian, W., Barcelo,
+J., et al. (2011). Bat wing sensors
+support flight control. Proc. Natl.
+Acad. Sci. U.S.A. 108, 11291–11296.
+doi: 10.1073/pnas.1018740108
+Stoykova, A., Götz, M., Gruss, P., and
+Price, J. (1997). Pax6-dependent
+regulation of adhesive pattern￾ing, R-cadherin expression and
+boundary formation in develop￾ing forebrain. Development 124,
+3765–3777.
+Suga, N., Niwa, H., Taniguchi, I., and
+Margoliash, D. (1987). The person￾alized auditory cortex of the mus￾tached bat: adaptation for echoloca￾tion. J. Neurophysiol. 58, 643–654.
+Sugo, N., Oshiro, H., Takemura,
+M., Kobayashi, T., Kohno,
+Y., Uesaka, N., et al. (2010).
+Nucleocytoplasmic translocation
+of HDAC9 regulates gene expres￾sion and dendritic growth in
+developing cortical neurons. Eur.
+J. Neurosci. 31, 1521–1532. doi:
+10.1111/j.1460-9568.2010.07218.x
+Suzuki, S. C., Inoue, T., Kimura, Y.,
+Tanaka, T., and Takeichi, M. (1997).
+Neuronal circuits are subdivided
+by differential expression of type￾II classic cadherins in postnatal
+mouse brains. Mol. Cell. Neurosci.
+9, 433–447. doi: 10.1006/mcne.
+1997.0626
+Frontiers in Human Neuroscience www.frontiersin.org October 2013 | Volume 7 | Article 620 | 13
+
+=== PDF PAGE 14 ===
+Krubitzer and Dooley Cortical plasticity within and across lifetimes
+Takahashi, T., Nowakowski, R. S., and
+Caviness, V. S. Jr. (1995). The cell
+cycle of the pseudostratified ventric￾ular epithelium of the embryonic
+murine cerebral wall. J. Neurosci. 15,
+6046–6057.
+Taylor, J. S., and Guillery, R. W.
+(1994). Early development of the
+optic chiasm in the gray short-tailed
+opossum, Monodelphis domestica.
+J. Comp. Neurol. 350, 109–121. doi:
+10.1002/cne.903500108
+Tennant, K. A., Adkins, D. L., Scalco,
+M. D., Donlan, N. A., Asay, A.
+L., Thomas, N., et al. (2012).
+Skill learning induced plasticity of
+motor cortical representations
+is time and age-dependent.
+Neurobiol. Learn. Mem. 98,
+291–302. doi: 10.1016/j.nlm.
+2012.09.004
+Terakawa, Y. W., Inoue, Y. U., Asami,
+J., Hoshino, M., and Inoue, T.
+(2013). A sharp cadherin-6 gene
+expression boundary in the devel￾oping mouse cortical plate demar￾cates the future functional areal bor￾der. Cereb. Cortex. 23, 2293–2308.
+doi: 10.1093/cercor/bhs221
+Toki, S., Morinobu, S., Imanaka, A.,
+Yamamoto, S., Yamawaki, S., and
+Honma, K. (2007). Importance
+of early lighting conditions in
+maternal care by dam as well as
+anxiety and memory later in life
+of offspring. Eur. J. Neurosci. 25,
+815–829. doi: 10.1111/j.1460-9568.
+2007.05288.x
+Tuoc, T. C., Boretius, S., Sansom, S. N.,
+Pitulescu, M.-E., Frahm, J., Livesey,
+F. J., et al. (2013). Chromatin regu￾lation by BAF170 controls cerebral
+cortical size and thickness. Dev. Cell
+25, 256–269. doi: 10.1016/j.devcel.
+2013.04.005
+Waddington, C. H. (1942). The
+Epigenotype. Endeavour 1, 18–20.
+Wang, X., Tsai, J. W., LaMonica, B.,
+and Kriegstein, A. R. (2011). A
+new subtype of progenitor cell in
+the mouse embryonic neocortex.
+Nat. Neurosci. 14, 555–561. doi:
+10.1038/nn.2807
+Weaver, I. C. G., Cervoni, N.,
+Champagne, F. A., D’Alessio,
+A. C., Sharma, S., Seckl, J. R.,
+et al. (2004). Epigenetic program￾ming by maternal behavior. Nat.
+Neurosci. 7, 847–854. doi: 10.1038/
+nn1276
+Welker, E., and Van der Loos, H. (1986).
+Quantitative correlation between
+barrel-field size and the sensory
+innervation of the whiskerpad:
+a comparative study in six strains of
+mice bred for different patterns of
+mystacial vibrissae. J. Neurosci. 6,
+3355–3373.
+Welker, W. I., and Seidenstein,
+S. (1959). Somatic sensory
+representation in the cerebral
+cortex of the racoon (Procyon
+Lotor). J. Comp. Neurol. 111,
+469–501. doi: 10.1002/cne.
+901110306
+Wise, L. Z., Pettigrew, J. D.,
+and Calford, M. B. (1986).
+Somatosensory cortical represen￾tation in the Australian ghost bat,
+Macroderma gigas. J. Comp. Neurol.
+248, 257–262. doi: 10.1002/cne.
+902480208
+Woolsey, T. A. (1967). Somatosensory,
+auditory and visual cortical areas of
+the mouse. Johns Hopkins Med. J.
+121, 91–112.
+Zhang, L. I., Bao, S., and Merzenich,
+M. M. (2001). Persistent and specific
+influences of early acoustic environ￾ments on primary auditory cortex.
+Nat. Neurosci. 4, 1123–1130. doi:
+10.1038/nn745
+Zook, J. M., and Fowler, B. C. (1986). A
+specialized mechanosensory array
+of the bat wing. Myotis 23–24,
+31–36.
+Conflict of Interest Statement: The
+authors declare that the research
+was conducted in the absence of any
+commercial or financial relationships
+that could be construed as a potential
+conflict of interest.
+Received: 21 June 2013; accepted: 08
+September 2013; published online: 09
+October 2013.
+Citation: Krubitzer L and Dooley JC
+(2013) Cortical plasticity within and
+across lifetimes: how can development
+inform us about phenotypic transforma￾tions? Front. Hum. Neurosci. 7:620. doi:
+10.3389/fnhum.2013.00620
+This article was submitted to the journal
+Frontiers in Human Neuroscience.
+Copyright © 2013 Krubitzer and
+Dooley. This is an open-access article dis￾tributed under the terms of the Creative
+Commons Attribution License (CC BY).
+The use, distribution or reproduction
+in other forums is permitted, provided
+the original author(s) or licensor are
+credited and that the original publication
+in this journal is cited, in accordance
+with accepted academic practice. No use,
+distribution or reproduction is permitted
+which does not comply with these
+terms.
+Frontiers in Human Neuroscience www.frontiersin.org October 2013 | Volume 7 | Article 620 | 14

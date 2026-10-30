@@ -1,0 +1,894 @@
+{
+  "processed_views": 2,
+  "measured_fields": 74,
+  "unmeasured_fields": 3,
+  "overlaps": [
+    {
+      "map_id": "fig02",
+      "field_a": "5",
+      "field_b": "7b",
+      "overlap_pixels": 40
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "5",
+      "field_b": "2",
+      "overlap_pixels": 49
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "5",
+      "field_b": "23",
+      "overlap_pixels": 1
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "5",
+      "field_b": "MDP",
+      "overlap_pixels": 32
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "7b",
+      "field_b": "SII",
+      "overlap_pixels": 47
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "7b",
+      "field_b": "2",
+      "overlap_pixels": 56
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "7b",
+      "field_b": "STPp",
+      "overlap_pixels": 2
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "7b",
+      "field_b": "Ri",
+      "overlap_pixels": 36
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "7a",
+      "field_b": "MSTd",
+      "overlap_pixels": 64
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "7a",
+      "field_b": "LIP",
+      "overlap_pixels": 7
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "7a",
+      "field_b": "V4",
+      "overlap_pixels": 28
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "SII",
+      "field_b": "2",
+      "overlap_pixels": 46
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "SII",
+      "field_b": "Ig",
+      "overlap_pixels": 49
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "SII",
+      "field_b": "Id",
+      "overlap_pixels": 5
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "SII",
+      "field_b": "Ri",
+      "overlap_pixels": 56
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "4",
+      "field_b": "6",
+      "overlap_pixels": 85
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "4",
+      "field_b": "3a",
+      "overlap_pixels": 86
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "4",
+      "field_b": "23",
+      "overlap_pixels": 3
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "4",
+      "field_b": "SMA",
+      "overlap_pixels": 111
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "4",
+      "field_b": "MEF",
+      "overlap_pixels": 48
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "4",
+      "field_b": "Pall",
+      "overlap_pixels": 84
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "6",
+      "field_b": "SMA",
+      "overlap_pixels": 5
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "6",
+      "field_b": "MEF",
+      "overlap_pixels": 51
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "6",
+      "field_b": "FEF",
+      "overlap_pixels": 104
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "6",
+      "field_b": "9",
+      "overlap_pixels": 44
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "6",
+      "field_b": "Pall",
+      "overlap_pixels": 34
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "3b",
+      "field_b": "3a",
+      "overlap_pixels": 245
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "3b",
+      "field_b": "1",
+      "overlap_pixels": 280
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "3a",
+      "field_b": "23",
+      "overlap_pixels": 6
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "3a",
+      "field_b": "Pall",
+      "overlap_pixels": 1
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "1",
+      "field_b": "2",
+      "overlap_pixels": 193
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "1",
+      "field_b": "Pall",
+      "overlap_pixels": 7
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "23",
+      "field_b": "24",
+      "overlap_pixels": 21
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "23",
+      "field_b": "SMA",
+      "overlap_pixels": 19
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "23",
+      "field_b": "MDP",
+      "overlap_pixels": 52
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "23",
+      "field_b": "29",
+      "overlap_pixels": 77
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "24",
+      "field_b": "32",
+      "overlap_pixels": 18
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "24",
+      "field_b": "SMA",
+      "overlap_pixels": 49
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "24",
+      "field_b": "9",
+      "overlap_pixels": 51
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "32",
+      "field_b": "25",
+      "overlap_pixels": 34
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "32",
+      "field_b": "14",
+      "overlap_pixels": 3
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "32",
+      "field_b": "10",
+      "overlap_pixels": 78
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "32",
+      "field_b": "9",
+      "overlap_pixels": 73
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "25",
+      "field_b": "14",
+      "overlap_pixels": 99
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "14",
+      "field_b": "10",
+      "overlap_pixels": 77
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "10",
+      "field_b": "46",
+      "overlap_pixels": 26
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "10",
+      "field_b": "9",
+      "overlap_pixels": 30
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "SMA",
+      "field_b": "MEF",
+      "overlap_pixels": 55
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "11",
+      "field_b": "12",
+      "overlap_pixels": 42
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "11",
+      "field_b": "13",
+      "overlap_pixels": 17
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "12",
+      "field_b": "13",
+      "overlap_pixels": 17
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "12",
+      "field_b": "45",
+      "overlap_pixels": 40
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "13",
+      "field_b": "Pall",
+      "overlap_pixels": 24
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "45",
+      "field_b": "FEF",
+      "overlap_pixels": 23
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "45",
+      "field_b": "Pall",
+      "overlap_pixels": 99
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "G",
+      "field_b": "Id",
+      "overlap_pixels": 20
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "G",
+      "field_b": "Pro",
+      "overlap_pixels": 79
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "G",
+      "field_b": "Pall",
+      "overlap_pixels": 87
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "PIR",
+      "field_b": "PAC",
+      "overlap_pixels": 90
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "PIR",
+      "field_b": "ER anterior",
+      "overlap_pixels": 22
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "DP",
+      "field_b": "LIP",
+      "overlap_pixels": 7
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "DP",
+      "field_b": "V4",
+      "overlap_pixels": 26
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "PITd",
+      "field_b": "PITv",
+      "overlap_pixels": 34
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "PITd",
+      "field_b": "CITd",
+      "overlap_pixels": 188
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "PITd",
+      "field_b": "FST",
+      "overlap_pixels": 16
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "PITd",
+      "field_b": "V4t",
+      "overlap_pixels": 41
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "PITd",
+      "field_b": "MT",
+      "overlap_pixels": 16
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "PITd",
+      "field_b": "VOT",
+      "overlap_pixels": 27
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "PITd",
+      "field_b": "V4",
+      "overlap_pixels": 143
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "PITv",
+      "field_b": "CITv",
+      "overlap_pixels": 68
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "PITv",
+      "field_b": "TF",
+      "overlap_pixels": 78
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "PITv",
+      "field_b": "VOT",
+      "overlap_pixels": 125
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "CITd",
+      "field_b": "CITv",
+      "overlap_pixels": 21
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "CITd",
+      "field_b": "AITd",
+      "overlap_pixels": 34
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "CITd",
+      "field_b": "FST",
+      "overlap_pixels": 34
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "CITv",
+      "field_b": "AITv",
+      "overlap_pixels": 49
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "CITv",
+      "field_b": "TF",
+      "overlap_pixels": 137
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "AITd",
+      "field_b": "AITv",
+      "overlap_pixels": 26
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "AITd",
+      "field_b": "STPa",
+      "overlap_pixels": 23
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "AITd",
+      "field_b": "FST",
+      "overlap_pixels": 8
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "AITv",
+      "field_b": "36",
+      "overlap_pixels": 309
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "TF",
+      "field_b": "ER posterior",
+      "overlap_pixels": 1
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "TF",
+      "field_b": "36",
+      "overlap_pixels": 45
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "TF",
+      "field_b": "TH",
+      "overlap_pixels": 77
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "TF",
+      "field_b": "VOT",
+      "overlap_pixels": 40
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "TF",
+      "field_b": "V4",
+      "overlap_pixels": 68
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "TF",
+      "field_b": "V2",
+      "overlap_pixels": 58
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "STPp",
+      "field_b": "STPa",
+      "overlap_pixels": 16
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "STPp",
+      "field_b": "FST",
+      "overlap_pixels": 36
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "STPp",
+      "field_b": "MSTd",
+      "overlap_pixels": 63
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "STPp",
+      "field_b": "MSTl",
+      "overlap_pixels": 54
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "FST",
+      "field_b": "MSTl",
+      "overlap_pixels": 23
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "FST",
+      "field_b": "MT",
+      "overlap_pixels": 46
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "PO",
+      "field_b": "MDP",
+      "overlap_pixels": 22
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "PO",
+      "field_b": "MIP",
+      "overlap_pixels": 29
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "PO",
+      "field_b": "V2",
+      "overlap_pixels": 73
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "MDP",
+      "field_b": "MIP",
+      "overlap_pixels": 64
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "MDP",
+      "field_b": "30",
+      "overlap_pixels": 19
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "MSTd",
+      "field_b": "MSTl",
+      "overlap_pixels": 11
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "MSTd",
+      "field_b": "MT",
+      "overlap_pixels": 109
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "MSTl",
+      "field_b": "MT",
+      "overlap_pixels": 108
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "FEF",
+      "field_b": "46",
+      "overlap_pixels": 90
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "FEF",
+      "field_b": "9",
+      "overlap_pixels": 99
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "FEF",
+      "field_b": "Pall",
+      "overlap_pixels": 11
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "46",
+      "field_b": "9",
+      "overlap_pixels": 142
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "MIP",
+      "field_b": "PIP",
+      "overlap_pixels": 4
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "MIP",
+      "field_b": "V3",
+      "overlap_pixels": 31
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "LIP",
+      "field_b": "PIP",
+      "overlap_pixels": 48
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "LIP",
+      "field_b": "VIP",
+      "overlap_pixels": 21
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "PIP",
+      "field_b": "VIP",
+      "overlap_pixels": 5
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "PIP",
+      "field_b": "V3",
+      "overlap_pixels": 105
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "PIP",
+      "field_b": "V2",
+      "overlap_pixels": 11
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "V3A",
+      "field_b": "V3",
+      "overlap_pixels": 103
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "V3A",
+      "field_b": "V4",
+      "overlap_pixels": 12
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "29",
+      "field_b": "PSd",
+      "overlap_pixels": 31
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "29",
+      "field_b": "V2",
+      "overlap_pixels": 26
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "RL",
+      "field_b": "AI",
+      "overlap_pixels": 15
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "RL",
+      "field_b": "L",
+      "overlap_pixels": 4
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "RL",
+      "field_b": "PA",
+      "overlap_pixels": 1
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "Ig",
+      "field_b": "PA",
+      "overlap_pixels": 12
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "Pro",
+      "field_b": "Pall",
+      "overlap_pixels": 17
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "Ri",
+      "field_b": "PA",
+      "overlap_pixels": 37
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "AI",
+      "field_b": "CM",
+      "overlap_pixels": 48
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "AI",
+      "field_b": "PA",
+      "overlap_pixels": 26
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "CM",
+      "field_b": "L",
+      "overlap_pixels": 17
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "30",
+      "field_b": "V2",
+      "overlap_pixels": 7
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "ER posterior",
+      "field_b": "36",
+      "overlap_pixels": 139
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "ER posterior",
+      "field_b": "TH",
+      "overlap_pixels": 101
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "V1",
+      "field_b": "V2",
+      "overlap_pixels": 22
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "PAC",
+      "field_b": "ER anterior",
+      "overlap_pixels": 133
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "ER anterior",
+      "field_b": "35",
+      "overlap_pixels": 74
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "35",
+      "field_b": "36",
+      "overlap_pixels": 160
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "V3",
+      "field_b": "V2",
+      "overlap_pixels": 241
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "V4t",
+      "field_b": "MT",
+      "overlap_pixels": 47
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "V4t",
+      "field_b": "V4",
+      "overlap_pixels": 49
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "TH",
+      "field_b": "V2",
+      "overlap_pixels": 67
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "VOT",
+      "field_b": "V4",
+      "overlap_pixels": 182
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "V4",
+      "field_b": "V2",
+      "overlap_pixels": 38
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "V4",
+      "field_b": "VP",
+      "overlap_pixels": 215
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "V2",
+      "field_b": "VP",
+      "overlap_pixels": 172
+    }
+  ],
+  "native_imagej_roundtrip": "passed",
+  "anatomical_review": "provisional; pending user review",
+  "reference_comparison": "not_run; core workflow does not require reference data",
+  "geometry_overlap_audit": "passed; shared-border slivers and explicitly documented source overlaps reviewed",
+  "all_numbered_figures_assessed": true,
+  "numbered_figures_assessed": 3,
+  "assessment_status": "eligible_views_digitized_provisional",
+  "whole_neocortex_summary": "unavailable; no independently established complete-neocortex view",
+  "source_visual_review": "completed; anatomical certification pending",
+  "figure2_color_revision": {
+    "date": "2026-10-20",
+    "current_contours": 74,
+    "added": [
+      "35",
+      "36",
+      "ER anterior",
+      "MT",
+      "PAC",
+      "TH",
+      "V2",
+      "V3",
+      "V4",
+      "V4t",
+      "VOT",
+      "VP"
+    ],
+    "native_imagej_roundtrip": "passed",
+    "internal_label_exclusions": 0,
+    "TF_white_label_test": {
+      "box_xyxy": [
+        1060,
+        1366,
+        1118,
+        1402
+      ],
+      "white_label_pixels": 415,
+      "included_pixels": 415
+    },
+    "ER_anterior_test": {
+      "target_tissue_included": true,
+      "external_label_excluded": true
+    },
+    "calibration_and_source_coordinates_unchanged": true,
+    "other_view_canonical_geometry_unchanged": true,
+    "interior_overlap_2px_eroded": 0,
+    "anatomical_certification": false
+  }
+}

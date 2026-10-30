@@ -1,0 +1,411 @@
+{
+  "map_id": "fig17_local",
+  "figure": 17,
+  "panel": null,
+  "pdf_page": 26,
+  "printed_page": 286,
+  "species": "Tachyglossus aculeatus",
+  "specimen": "E11",
+  "hemisphere": "not assigned",
+  "view_type": "local_physiological_map",
+  "hemisphere_relation": "not assigned",
+  "linked_main_map": "fig15",
+  "repeat_of": "fig15",
+  "specimen_link_status": "caption_identified",
+  "relationship_note": "Repeated views do not represent additional animals. No cross-publication pooling; source labels preserved.",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 4,
+  "crop_xyxy": [
+    290,
+    1760,
+    1210,
+    2800
+  ],
+  "supersample": 4,
+  "scale_length_mm": 1,
+  "scale_endpoints_px": [
+    [
+      750,
+      132
+    ],
+    [
+      750,
+      196
+    ]
+  ],
+  "scale_note": "Own printed 1 mm scale stroke in the unrotated local source; endpoints reviewed.",
+  "scale_reference_map": null,
+  "outline": null,
+  "rois": [
+    {
+      "label": "A",
+      "polygons": [
+        [
+          [
+            400.82825334760173,
+            695.4163243853665
+          ],
+          [
+            407.29349122312163,
+            694.606153876964
+          ],
+          [
+            417.2178573610257,
+            694.7426080680133
+          ],
+          [
+            432.51872905663026,
+            698.3019372596416
+          ],
+          [
+            446.34503416931875,
+            704.0716256199518
+          ],
+          [
+            455.16649249549306,
+            708.7622586546652
+          ],
+          [
+            469.22744925327277,
+            718.3076331464579
+          ],
+          [
+            493.04789412797845,
+            737.3638516064822
+          ],
+          [
+            497.9379938953473,
+            742.1928236322822
+          ],
+          [
+            501.812449438235,
+            751.061607351348
+          ],
+          [
+            503.061505936347,
+            757.9149638399476
+          ],
+          [
+            502.7346455235459,
+            764.8831062471052
+          ],
+          [
+            498.3294515741837,
+            790.4141534439109
+          ],
+          [
+            499.5163821843444,
+            798.9638489946847
+          ],
+          [
+            504.677268924893,
+            812.5664392174762
+          ],
+          [
+            505.81924790176646,
+            818.4280513181468
+          ],
+          [
+            505.7252007517316,
+            823.4013520197321
+          ],
+          [
+            503.61457171797105,
+            831.9728347169545
+          ],
+          [
+            502.607055845916,
+            843.3051763894292
+          ],
+          [
+            504.96929583983183,
+            856.9708188060785
+          ],
+          [
+            504.6178627315946,
+            867.9366377928809
+          ],
+          [
+            503.7500190889287,
+            872.8454213819257
+          ],
+          [
+            502.2582625359028,
+            876.5005233665892
+          ],
+          [
+            499.7023120250746,
+            879.4641632279589
+          ],
+          [
+            496.2746978212578,
+            881.3959561988132
+          ],
+          [
+            491.45263262235414,
+            882.6004596838553
+          ],
+          [
+            486.4802936202331,
+            883.0048799553301
+          ],
+          [
+            481.49578306357006,
+            882.7525693079398
+          ],
+          [
+            466.6670621681553,
+            880.6571410174513
+          ],
+          [
+            461.68043403058243,
+            880.8041786725032
+          ],
+          [
+            456.80536375826404,
+            881.7983747852893
+          ],
+          [
+            450.3997205435281,
+            884.3466187742712
+          ],
+          [
+            443.08695672150014,
+            888.9703076941871
+          ],
+          [
+            437.15419889071154,
+            893.7048230322919
+          ],
+          [
+            427.0893117484994,
+            904.7393430599458
+          ],
+          [
+            422.2227644992468,
+            908.1925806556194
+          ],
+          [
+            418.56926529480415,
+            909.7704374985981
+          ],
+          [
+            414.69923079262566,
+            910.689411033519
+          ],
+          [
+            408.05320599022895,
+            911.6196696619932
+          ],
+          [
+            401.1731355894726,
+            911.4013860610621
+          ],
+          [
+            398.39373293685065,
+            912.2500029064987
+          ],
+          [
+            394.56561763622113,
+            915.3292242712764
+          ],
+          [
+            389.9121536168665,
+            921.3932202259176
+          ],
+          [
+            385.39834948103464,
+            931.2912325953564
+          ],
+          [
+            381.77353183935156,
+            936.9218414650106
+          ],
+          [
+            377.49764600445144,
+            939.0981307908543
+          ],
+          [
+            371.5945372352356,
+            939.4483687827412
+          ],
+          [
+            367.7287474519435,
+            938.5343806482307
+          ],
+          [
+            363.18577135386556,
+            936.490059529854
+          ],
+          [
+            355.58247855320974,
+            931.6873596701893
+          ],
+          [
+            350.02810835624035,
+            927.437970940715
+          ],
+          [
+            340.3609297347885,
+            918.7576679313876
+          ],
+          [
+            325.2184686542217,
+            900.7753727687534
+          ],
+          [
+            312.71690382936686,
+            888.4187423043558
+          ],
+          [
+            287.6982348549261,
+            866.9445127061234
+          ],
+          [
+            264.9698525531386,
+            850.6212535388647
+          ],
+          [
+            238.72559109090437,
+            826.0051981938242
+          ],
+          [
+            227.45813984750103,
+            811.991877751762
+          ],
+          [
+            223.06559203634217,
+            804.1678478800196
+          ],
+          [
+            220.67802955929577,
+            797.7053988126156
+          ],
+          [
+            219.02160052896517,
+            788.1494900283698
+          ],
+          [
+            219.04806064526315,
+            782.1783759144323
+          ],
+          [
+            220.4820309007931,
+            776.3911490448014
+          ],
+          [
+            223.3312493096152,
+            771.155170256448
+          ],
+          [
+            227.45282334923974,
+            766.8505530035701
+          ],
+          [
+            233.39206641450122,
+            763.2140009635102
+          ],
+          [
+            243.8252914475235,
+            759.8055065076284
+          ],
+          [
+            256.60349431371094,
+            757.4552825100034
+          ],
+          [
+            278.0406275333778,
+            752.5247095253376
+          ],
+          [
+            289.3834558368088,
+            748.6919320180792
+          ],
+          [
+            291.9344288929928,
+            747.2808846698903
+          ],
+          [
+            298.71156223990954,
+            741.9635031879443
+          ],
+          [
+            311.35801621577514,
+            728.4534085369756
+          ],
+          [
+            317.1819722061418,
+            724.6101312820958
+          ],
+          [
+            322.69661111231534,
+            722.2982492987375
+          ],
+          [
+            327.56739366540944,
+            721.2767268797074
+          ],
+          [
+            331.5479263523403,
+            721.2005268639115
+          ],
+          [
+            348.2261460825269,
+            723.8111689458412
+          ],
+          [
+            354.8677663740919,
+            723.3351154339924
+          ],
+          [
+            358.682409377303,
+            722.2659461374546
+          ],
+          [
+            362.2046393102247,
+            720.4181993746733
+          ],
+          [
+            367.0196327467096,
+            716.8523659333703
+          ],
+          [
+            383.9462152818862,
+            702.0014816217496
+          ],
+          [
+            388.39694320604997,
+            699.7729373105512
+          ]
+        ]
+      ],
+      "extent": "complete",
+      "boundary_note": "Closed printed field perimeter followed densely; internal recording marks and text retained. Short symbol interruptions interpolated where stated.",
+      "tracing_method": "Dense closed source compartment contour, visually reviewed"
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "SI",
+      "status": "not_measurable",
+      "reason": "Local recording/body-part envelopes are not closed total-field boundaries. These panels are retained as source evidence and linked to the reconstruction; individual body parts and cortical drawing edges are not substituted for field totals."
+    },
+    {
+      "label": "PV",
+      "status": "not_measurable",
+      "reason": "Local recording/body-part envelopes are not closed total-field boundaries. These panels are retained as source evidence and linked to the reconstruction; individual body parts and cortical drawing edges are not substituted for field totals."
+    },
+    {
+      "label": "R",
+      "status": "not_measurable",
+      "reason": "Local recording/body-part envelopes are not closed total-field boundaries. These panels are retained as source evidence and linked to the reconstruction; individual body parts and cortical drawing edges are not substituted for field totals."
+    },
+    {
+      "label": "other contextual fields",
+      "status": "not_measurable",
+      "reason": "Local recording/body-part envelopes are not closed total-field boundaries. These panels are retained as source evidence and linked to the reconstruction; individual body parts and cortical drawing edges are not substituted for field totals."
+    }
+  ],
+  "review_note": "Reassessed from the full source page; cortical inset crop and each field perimeter reviewed separately."
+}

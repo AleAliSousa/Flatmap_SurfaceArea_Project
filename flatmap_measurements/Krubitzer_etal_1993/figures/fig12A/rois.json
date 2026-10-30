@@ -2247,7 +2247,7 @@
     {
       "label": "SMA",
       "status": "not_measurable",
-      "reason": "No complete uniquely reproducible field envelope in this view: limits are open, dashed, tracer-obscured or extend beyond the depicted reconstruction. Receptive body-part cells and tracer foci are not substituted for a whole field."
+      "reason": "2026-10-20 reassessment: The upper SMA dashed border has a broad undrawn interval before its rostral arc, and is partly near the panel/crop edge. No complete total accepted from this panel."
     },
     {
       "label": "SII",
@@ -2287,13 +2287,18 @@
     {
       "label": "A-I",
       "status": "not_measurable",
-      "reason": "Tracer deposit or dense recording symbols coalesce with a substantial part of the outer field border. A stain-free compartment is not the whole cortical field; no uniquely reproducible total envelope is saved from this panel. Repeated views may supply a clearer boundary."
+      "reason": "2026-10-20 reassessment: The enlarged upper panel shows the left A-I border coalescing with dense tracer over a substantial interval. Its top and lower/right strokes do not uniquely fix the obscured left arc."
     },
     {
       "label": "VS",
       "status": "not_measurable",
-      "reason": "Tracer deposit or dense recording symbols coalesce with a substantial part of the outer field border. A stain-free compartment is not the whole cortical field; no uniquely reproducible total envelope is saved from this panel. Repeated views may supply a clearer boundary."
+      "reason": "2026-10-20 reassessment: Tracer obscures the upper VS/SII/PV junction. The lower visible VS arc alone cannot determine the whole field."
     }
   ],
-  "review_note": "Dense tracing on 4 pixels/PDF point source rendering. Anatomical interpretation provisional; hide overlay in the precision review to inspect the printed stroke."
+  "review_note": "20 October 2026 missing-region actions completed for this view. See documentation/missing_region_actions_2026-10-20.md for additions and remaining source limits.",
+  "missing_region_action_review": {
+    "date": "2026-10-20",
+    "status": "listed action assessed; accepted geometry saved, remaining limits recorded individually",
+    "anatomical_certification": false
+  }
 }

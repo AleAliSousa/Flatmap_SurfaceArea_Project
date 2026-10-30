@@ -1,3 +1,6 @@
+<!-- missing-region-actions-2026-10-20 -->
+**20 October update:** 1 contours added; 0 revised. [Results and remaining limits](documentation/missing_region_actions_2026-10-20.md) · [Before/after review](review/missing_region_actions.html). Earlier counts and generic exclusions below describe the previous state.
+
 <!-- full-dataset-recheck-2026-10-16 -->
 # Krubitzer_Kaas_1993 · current recheck
 

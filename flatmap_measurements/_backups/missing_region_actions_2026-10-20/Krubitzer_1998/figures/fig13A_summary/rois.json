@@ -1,0 +1,375 @@
+{
+  "map_id": "fig13A_summary",
+  "figure": 13,
+  "pdf_page": 14,
+  "printed_page": 1140,
+  "species": "Ornithorhynchus anatinus",
+  "specimen": "illustrative summary",
+  "hemisphere": "not reported",
+  "hemisphere_relation": "not assigned",
+  "view_type": "illustrative_summary_flatmap",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "outline": null,
+  "supersample": 4,
+  "render_scale": 4,
+  "relationship_note": "Proposed organization or comparative literature summary, adapted from Krubitzer_etal_1995. This scale drawing is excluded from independent specimen summaries.",
+  "specimen_link_status": "caption identified",
+  "panel": null,
+  "crop_xyxy": [
+    150,
+    240,
+    1120,
+    980
+  ],
+  "rois": [
+    {
+      "label": "R",
+      "polygons": [
+        [
+          [
+            260.83500086278394,
+            265.2380157440125
+          ],
+          [
+            262.82307901844837,
+            266.8930538406645
+          ],
+          [
+            265.8802710599431,
+            271.93487607729804
+          ],
+          [
+            270.26079056212654,
+            277.35352151399144
+          ],
+          [
+            273.5610843313276,
+            283.4583623066531
+          ],
+          [
+            278.9871076633073,
+            290.5564757933396
+          ],
+          [
+            333.23649482344416,
+            399.18516324669287
+          ],
+          [
+            339.41877400887887,
+            409.08783178493167
+          ],
+          [
+            348.8278418975267,
+            426.14318411287553
+          ],
+          [
+            351.7347784395254,
+            429.8281358790299
+          ],
+          [
+            354.55463091041105,
+            435.0156201852142
+          ],
+          [
+            358.9232054702125,
+            440.4404166753715
+          ],
+          [
+            362.7741215049881,
+            447.3666884999913
+          ],
+          [
+            368.70112257799246,
+            454.981984964473
+          ],
+          [
+            377.7283719917108,
+            465.099839500112
+          ],
+          [
+            384.24296506314397,
+            470.69188353274944
+          ],
+          [
+            392.83660881567147,
+            479.0213341873084
+          ],
+          [
+            400.5282924785638,
+            484.8402885535135
+          ],
+          [
+            408.1968376394551,
+            489.37672800880904
+          ],
+          [
+            418.1137204690987,
+            499.69204508161687
+          ],
+          [
+            426.0683912264361,
+            505.28231736496815
+          ],
+          [
+            437.93295099223985,
+            511.5767376939971
+          ],
+          [
+            450.3999089307402,
+            519.2833119163773
+          ],
+          [
+            453.1804321241324,
+            521.8477199687483
+          ],
+          [
+            453.73961578545016,
+            523.5785633905181
+          ],
+          [
+            453.63485171668754,
+            525.4420550590971
+          ],
+          [
+            452.78106788708635,
+            528.1944161265855
+          ],
+          [
+            451.3171862359477,
+            530.6606419643579
+          ],
+          [
+            431.6471840358927,
+            550.5334147642155
+          ],
+          [
+            427.3668818875354,
+            557.1752415107493
+          ],
+          [
+            424.48486099937105,
+            559.741430268676
+          ],
+          [
+            421.73158428045355,
+            560.783032859145
+          ],
+          [
+            418.79057305630033,
+            561.2462455012558
+          ],
+          [
+            408.85984935677084,
+            560.7074836423336
+          ],
+          [
+            398.85645903724276,
+            556.3321592770393
+          ],
+          [
+            389.13110178294994,
+            551.306097191653
+          ],
+          [
+            384.5511373102484,
+            547.4877770864198
+          ],
+          [
+            361.1943827811912,
+            524.1828390901672
+          ],
+          [
+            356.47106698182444,
+            518.1416786555902
+          ],
+          [
+            343.3951947361837,
+            504.58646174259746
+          ],
+          [
+            339.6489502345054,
+            498.97114956851857
+          ],
+          [
+            335.3716799738363,
+            494.85554320268386
+          ],
+          [
+            321.5446700278542,
+            489.9212204099334
+          ],
+          [
+            310.6691631440644,
+            489.1296506882074
+          ],
+          [
+            303.19348453517887,
+            487.1762783846333
+          ],
+          [
+            298.3488558321905,
+            483.8089933367049
+          ],
+          [
+            294.2117161710957,
+            479.4726721963973
+          ],
+          [
+            291.9157329090192,
+            476.24075484650393
+          ],
+          [
+            287.27544206655546,
+            466.36417125045284
+          ],
+          [
+            286.4008448980761,
+            453.47358636368875
+          ],
+          [
+            284.9944869841528,
+            444.95064874703274
+          ],
+          [
+            281.9267489494324,
+            432.6782575176583
+          ],
+          [
+            279.332579122949,
+            426.26650923808813
+          ],
+          [
+            276.83529163814376,
+            412.92839429443035
+          ],
+          [
+            258.64478390165533,
+            375.3553934247673
+          ],
+          [
+            257.9239202664168,
+            371.4635772133624
+          ],
+          [
+            257.09350397262784,
+            353.52519248490256
+          ],
+          [
+            254.21132783598412,
+            340.3294457890467
+          ],
+          [
+            250.54753397377505,
+            331.35683949767883
+          ],
+          [
+            248.70209950194112,
+            324.70888644037814
+          ],
+          [
+            245.7531144834454,
+            320.79751651104317
+          ],
+          [
+            232.2124818732282,
+            307.501071967591
+          ],
+          [
+            227.97398157835968,
+            305.303453209951
+          ],
+          [
+            218.7313881369056,
+            302.6967328928037
+          ],
+          [
+            216.61707684413813,
+            300.7532931724243
+          ],
+          [
+            215.15249221144683,
+            297.1833114630087
+          ],
+          [
+            215.18691339877762,
+            293.272415175931
+          ],
+          [
+            217.13963349582355,
+            288.7961744465846
+          ],
+          [
+            224.66478992592508,
+            280.8113595318915
+          ],
+          [
+            229.15660805532838,
+            276.8763123418115
+          ],
+          [
+            239.82131956622507,
+            271.5326950786817
+          ],
+          [
+            246.54595422055394,
+            269.8165846198912
+          ],
+          [
+            256.5468481520505,
+            265.448219989139
+          ],
+          [
+            259.2522940414099,
+            264.9172174661766
+          ]
+        ]
+      ],
+      "extent": "complete",
+      "tracing_method": "Manually identified source compartment, relative-contrast perimeter extraction and sub-stroke pixel regularization",
+      "boundary_note": "Illustrative summary geometry only, not a new animal. Closed source boundaries retained; no whole-neocortex denominator assigned."
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "Vr",
+      "status": "not_measurable",
+      "reason": "The reduced comparative print does not reliably close the white Vr compartment separately from the neighbouring Vc tone margin. Vc/Vr are measured from the explicit closed source outlines in figure 11 instead."
+    },
+    {
+      "label": "Vc (VI?)",
+      "status": "not_measurable",
+      "reason": "Reduced comparative print does not resolve the complete source perimeter independently of overprinted lettering, shading texture or merged adjoining fields. Candidate rejected rather than measuring a glyph or an interior patch."
+    },
+    {
+      "label": "PV",
+      "status": "not_measurable",
+      "reason": "Reduced comparative print does not resolve the complete source perimeter independently of overprinted lettering, shading texture or merged adjoining fields. Candidate rejected rather than measuring a glyph or an interior patch."
+    },
+    {
+      "label": "SI",
+      "status": "not_measurable",
+      "reason": "Reduced comparative print does not resolve the complete source perimeter independently of overprinted lettering, shading texture or merged adjoining fields. Candidate rejected rather than measuring a glyph or an interior patch."
+    },
+    {
+      "label": "M",
+      "status": "not_measurable",
+      "reason": "Reduced comparative print does not resolve the complete source perimeter independently of overprinted lettering, shading texture or merged adjoining fields. Candidate rejected rather than measuring a glyph or an interior patch."
+    }
+  ],
+  "repeat_of": "illustrative_summary",
+  "linked_main_map": "illustrative_summary",
+  "scale_endpoints_px": [
+    [
+      754,
+      376
+    ],
+    [
+      788,
+      376
+    ]
+  ],
+  "scale_length_mm": 2,
+  "scale_note": "Own local printed scale stroke, endpoints reviewed on the source.",
+  "review_note": "Reassessed from the full source page; cortical inset crop and each field perimeter reviewed separately."
+}

@@ -1,0 +1,8 @@
+map_id	roi_index	label	area_pixels	area_calibrated	unit	original_fractional_pixels	pixel_difference_percent	roi_roundtrip_pixels_equal
+fig04_human	0	V1	26569	26569.0	pixel^2	26376.5	0.7298163137641461	true
+fig04_human	1	V2/V3	25652	25652.0	pixel^2	25498.125	0.60347574576562	true
+fig04_human	2	V3A	2885	2885.0	pixel^2	2869.9375	0.5248372133539494	true
+fig04_human	3	MT/MST	3396	3396.0	pixel^2	3373.9375	0.6539095641220384	true
+fig04_human	4	S1_areas2_1_3b_3a	31599	31599.0	pixel^2	31476.75	0.3883819009268746	true
+fig04_human	5	M1	19188	19188.0	pixel^2	19039.25	0.7812807752406213	true
+fig04_human	6	SII	1371	1371.0	pixel^2	1361.0625	0.7301281168204987	true

@@ -1,0 +1,65 @@
+{
+  "map_id": "fig21B",
+  "figure": 21,
+  "panel": null,
+  "pdf_page": 31,
+  "printed_page": 291,
+  "species": "Tachyglossus aculeatus",
+  "specimen": "E6",
+  "hemisphere": "not assigned",
+  "view_type": "case_flatmap",
+  "hemisphere_relation": "not assigned",
+  "linked_main_map": "fig21A",
+  "repeat_of": "fig21A",
+  "specimen_link_status": "caption_identified",
+  "relationship_note": "Repeated cases and source views are linked within this paper. Possible reuse in Krubitzer1998 remains visible; do not pool publications as independent animals. Complete neocortex outline not established.",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 4,
+  "crop_xyxy": [
+    560,
+    1494,
+    2140,
+    3000
+  ],
+  "supersample": 4,
+  "scale_length_mm": null,
+  "scale_endpoints_px": [],
+  "scale_note": "No calibration assigned to this source-only open-field view; no closed field area measured.",
+  "scale_reference_map": null,
+  "outline": null,
+  "rois": [],
+  "unmeasured": [
+    {
+      "label": "SI",
+      "status": "not_measurable",
+      "reason": "Whole-field perimeter is open, dashed, interrupted or outside this local sampling reconstruction. Thin body-part cells and isolated myelinated patches do not establish a complete total field."
+    },
+    {
+      "label": "R",
+      "status": "not_measurable",
+      "reason": "Whole-field perimeter is open, dashed, interrupted or outside this local sampling reconstruction. Thin body-part cells and isolated myelinated patches do not establish a complete total field."
+    },
+    {
+      "label": "PV",
+      "status": "not_measurable",
+      "reason": "Whole-field perimeter is open, dashed, interrupted or outside this local sampling reconstruction. Thin body-part cells and isolated myelinated patches do not establish a complete total field."
+    },
+    {
+      "label": "M",
+      "status": "not_measurable",
+      "reason": "Whole-field perimeter is open, dashed, interrupted or outside this local sampling reconstruction. Thin body-part cells and isolated myelinated patches do not establish a complete total field."
+    },
+    {
+      "label": "A",
+      "status": "not_measurable",
+      "reason": "Whole-field perimeter is open, dashed, interrupted or outside this local sampling reconstruction. Thin body-part cells and isolated myelinated patches do not establish a complete total field."
+    },
+    {
+      "label": "V",
+      "status": "not_measurable",
+      "reason": "Whole-field perimeter is open, dashed, interrupted or outside this local sampling reconstruction. Thin body-part cells and isolated myelinated patches do not establish a complete total field."
+    }
+  ],
+  "review_note": "Dense tracing on 4 pixels/PDF point source rendering. Anatomical interpretation provisional; hide overlay in the precision review to inspect the printed stroke."
+}

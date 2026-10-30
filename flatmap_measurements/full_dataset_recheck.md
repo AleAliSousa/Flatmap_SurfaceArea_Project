@@ -1,3 +1,8 @@
+<!-- missing-region-actions-current -->
+**20 October executed actions:** 28 contours added and one revised; current project total 1,116. [Completed actions and area changes](review_missing_region_actions.html). Earlier counts below are historical.
+
+> **20 October 2026 update:** [Felleman–Van Essen figure 2 correction](Felleman_VanEssen_1991/review/fig02_revision.html) adds 12 atlas-field observations and revises 50 existing contours. The current project total is 1088 observations; counts in the 16 October narrative below describe that earlier pass.
+
 # Full dataset coverage and contour recheck · 16 October 2026
 
 All 21 publications and 370 numbered figures were rechecked from the supplied source figures and captions. This is a renewed source review, not a claim that every possible region in every reduced comparative drawing has a reliable complete area. Source-limited or unresolved totals remain explicit NA.

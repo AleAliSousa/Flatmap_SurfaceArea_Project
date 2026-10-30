@@ -1,0 +1,444 @@
+{
+  "map_id": "fig23",
+  "figure": 23,
+  "panel": null,
+  "pdf_page": 33,
+  "printed_page": 293,
+  "species": "Tachyglossus aculeatus",
+  "specimen": "E2",
+  "hemisphere": "not assigned",
+  "view_type": "case_flatmap",
+  "hemisphere_relation": "not assigned",
+  "linked_main_map": null,
+  "repeat_of": null,
+  "specimen_link_status": "caption_identified",
+  "relationship_note": "Repeated cases and source views are linked within this paper. Possible reuse in Krubitzer1998 remains visible; do not pool publications as independent animals. Complete neocortex outline not established.",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 4,
+  "crop_xyxy": [
+    290,
+    340,
+    2180,
+    1960
+  ],
+  "supersample": 4,
+  "scale_length_mm": 1,
+  "scale_endpoints_px": [
+    [
+      898,
+      214
+    ],
+    [
+      966,
+      214
+    ]
+  ],
+  "scale_note": "Own printed 1 mm scale stroke in the unrotated local source; endpoints reviewed.",
+  "scale_reference_map": null,
+  "outline": null,
+  "rois": [
+    {
+      "label": "A",
+      "polygons": [
+        [
+          [
+            309.28271810307274,
+            628.52641305015
+          ],
+          [
+            312.827670736026,
+            620.1039077586473
+          ],
+          [
+            315.131247817287,
+            611.4862075716194
+          ],
+          [
+            315.25033158482364,
+            608.6728344839545
+          ],
+          [
+            313.7344894144085,
+            602.3555256507558
+          ],
+          [
+            314.54356821030285,
+            598.5393305082998
+          ],
+          [
+            315.9861678367888,
+            594.8349576863696
+          ],
+          [
+            318.9493104369352,
+            591.0985686936089
+          ],
+          [
+            323.21692006466554,
+            589.322652836159
+          ],
+          [
+            326.27130431545413,
+            587.2204517875048
+          ],
+          [
+            336.89469419168876,
+            574.054483115659
+          ],
+          [
+            338.7889304941236,
+            570.7500384284498
+          ],
+          [
+            338.9111372869741,
+            565.0307693798546
+          ],
+          [
+            339.414638237427,
+            563.2585636517244
+          ],
+          [
+            341.7326190961521,
+            560.1501408200784
+          ],
+          [
+            344.80153956422964,
+            557.6560881885918
+          ],
+          [
+            380.4395332950461,
+            541.9666478833885
+          ],
+          [
+            384.1064775890003,
+            541.8014109676221
+          ],
+          [
+            389.5108029034262,
+            544.090513781879
+          ],
+          [
+            392.2467430480013,
+            544.4752312473421
+          ],
+          [
+            409.4652055377983,
+            539.6229075904135
+          ],
+          [
+            412.71421574165026,
+            537.7668181736698
+          ],
+          [
+            415.48687864311466,
+            533.841729936732
+          ],
+          [
+            417.7177884433056,
+            532.1932753243003
+          ],
+          [
+            432.0295986085661,
+            527.9269980112756
+          ],
+          [
+            435.7802559406488,
+            527.5796027293977
+          ],
+          [
+            441.38274827454916,
+            530.8788670303467
+          ],
+          [
+            444.17638171750457,
+            531.2124152893095
+          ],
+          [
+            451.091262743422,
+            530.6185593639452
+          ],
+          [
+            463.8933292747799,
+            527.2647078170999
+          ],
+          [
+            467.90403743416596,
+            524.9601466268604
+          ],
+          [
+            476.59978675711756,
+            515.5522788279484
+          ],
+          [
+            478.29136963980557,
+            514.8051458155027
+          ],
+          [
+            483.94342730416383,
+            513.7693978285947
+          ],
+          [
+            490.6206641689169,
+            513.6670578005208
+          ],
+          [
+            499.8392570959964,
+            512.688461364473
+          ],
+          [
+            516.9347918851264,
+            514.9065224474086
+          ],
+          [
+            528.4633915733642,
+            517.8944850773298
+          ],
+          [
+            535.1650294789856,
+            521.5958745709125
+          ],
+          [
+            546.2236871879525,
+            531.3410445875296
+          ],
+          [
+            551.8018629891635,
+            537.8585492848396
+          ],
+          [
+            560.7495456842597,
+            549.9298824557885
+          ],
+          [
+            568.0991878850868,
+            563.3419020114351
+          ],
+          [
+            573.8076096870784,
+            583.4697843045551
+          ],
+          [
+            574.2502968631675,
+            592.8028385080895
+          ],
+          [
+            573.936975884636,
+            594.5022024021267
+          ],
+          [
+            562.4868640430369,
+            607.6552162850218
+          ],
+          [
+            548.5860076171106,
+            619.5262058734894
+          ],
+          [
+            537.7010435166774,
+            624.4515506774162
+          ],
+          [
+            532.8297331249391,
+            627.4307692824074
+          ],
+          [
+            518.1734523480415,
+            633.7844460454667
+          ],
+          [
+            513.9815032265715,
+            636.4391394051207
+          ],
+          [
+            504.66981731707233,
+            646.0097921624559
+          ],
+          [
+            499.9000298553644,
+            651.7417254405644
+          ],
+          [
+            496.2381635050588,
+            657.0501289469423
+          ],
+          [
+            493.8334972902518,
+            665.1516027221204
+          ],
+          [
+            488.3536007976526,
+            671.3858146596934
+          ],
+          [
+            483.95018257017006,
+            674.8483446777242
+          ],
+          [
+            475.76936532398344,
+            678.316117407242
+          ],
+          [
+            473.9457377430972,
+            678.4348021180966
+          ],
+          [
+            471.2957226794403,
+            677.4800763110724
+          ],
+          [
+            463.1615220718574,
+            671.2323499874751
+          ],
+          [
+            459.99884019681315,
+            669.2766041446831
+          ],
+          [
+            456.3953219012338,
+            667.8197238640983
+          ],
+          [
+            431.6276365179869,
+            660.0725898953756
+          ],
+          [
+            428.83927528346663,
+            660.1277994434519
+          ],
+          [
+            424.3862475252904,
+            662.0440842266627
+          ],
+          [
+            421.6048097706821,
+            662.5227931189703
+          ],
+          [
+            408.8503878074062,
+            660.7273565457115
+          ],
+          [
+            406.41741420007315,
+            659.3974544728203
+          ],
+          [
+            401.2480932003483,
+            653.59136808864
+          ],
+          [
+            398.6678117783068,
+            652.5139053446405
+          ],
+          [
+            394.7625771538145,
+            651.9585922228478
+          ],
+          [
+            384.4545071854784,
+            652.9288093680161
+          ],
+          [
+            377.983434785553,
+            654.3059394999057
+          ],
+          [
+            374.7764235091421,
+            656.1986645524127
+          ],
+          [
+            369.7907179227272,
+            662.1990537245699
+          ],
+          [
+            365.36754811344815,
+            663.9002228092088
+          ],
+          [
+            352.63554043521924,
+            666.3967144995568
+          ],
+          [
+            343.00479153814155,
+            667.1442367596321
+          ],
+          [
+            337.15843301398024,
+            666.8283451239338
+          ],
+          [
+            332.5434062192539,
+            667.3489902467089
+          ],
+          [
+            326.0968701683133,
+            666.0872891912057
+          ],
+          [
+            316.0200626075901,
+            661.809616658627
+          ],
+          [
+            311.1168724873646,
+            658.4882244890034
+          ],
+          [
+            304.99729461081654,
+            651.2642099871025
+          ],
+          [
+            296.326307241754,
+            636.3653227876001
+          ],
+          [
+            295.495023888163,
+            633.6502909518505
+          ],
+          [
+            296.0456819377109,
+            631.622233632983
+          ],
+          [
+            298.42770823646765,
+            630.7972230797312
+          ],
+          [
+            307.20405862652024,
+            629.5055545081296
+          ]
+        ]
+      ],
+      "extent": "complete",
+      "tracing_method": "Manually identified anatomical envelope with regularized stroke-center following",
+      "boundary_note": "Closed auditory-field envelope recovered from the local repeated source map. Recording marks do not define the envelope. Dashed short interruptions follow the continuing printed boundary."
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "SI",
+      "status": "not_measurable",
+      "reason": "Whole-field perimeter is open, dashed, interrupted or outside this local sampling reconstruction. Thin body-part cells and isolated myelinated patches do not establish a complete total field."
+    },
+    {
+      "label": "R",
+      "status": "not_measurable",
+      "reason": "Whole-field perimeter is open, dashed, interrupted or outside this local sampling reconstruction. Thin body-part cells and isolated myelinated patches do not establish a complete total field."
+    },
+    {
+      "label": "PV",
+      "status": "not_measurable",
+      "reason": "Whole-field perimeter is open, dashed, interrupted or outside this local sampling reconstruction. Thin body-part cells and isolated myelinated patches do not establish a complete total field."
+    },
+    {
+      "label": "M",
+      "status": "not_measurable",
+      "reason": "Whole-field perimeter is open, dashed, interrupted or outside this local sampling reconstruction. Thin body-part cells and isolated myelinated patches do not establish a complete total field."
+    },
+    {
+      "label": "V",
+      "status": "not_measurable",
+      "reason": "Whole-field perimeter is open, dashed, interrupted or outside this local sampling reconstruction. Thin body-part cells and isolated myelinated patches do not establish a complete total field."
+    }
+  ],
+  "review_note": "Reassessed from the full source page; cortical inset crop and each field perimeter reviewed separately."
+}

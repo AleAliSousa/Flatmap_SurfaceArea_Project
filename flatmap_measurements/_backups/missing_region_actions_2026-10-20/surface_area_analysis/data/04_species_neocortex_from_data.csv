@@ -1,0 +1,6 @@
+species,n_specimens_with_outline,median_neocortex_mm2,min_mm2,max_mm2,papers
+Aotus trivirgatus,5,1431.1228780864196,1304.0314429012344,1812.7476811291324,Krubitzer_Kaas_1990|Krubitzer_Kaas_1993
+Callithrix jacchus,3,654.6020802377416,588.2144899322684,851.2859157986111,Krubitzer_Kaas_1990|Krubitzer_Kaas_1993
+Galago senegalensis,4,588.929546809885,511.4242264604425,792.9067543078756,Krubitzer_Kaas_1990|Krubitzer_Kaas_1993
+Miopithecus talapoin,1,2317.488775510204,2317.488775510204,2317.488775510204,Krubitzer_Kaas_1993
+Saimiri sciureus,6,3014.9261706186576,2135.0067561959454,5989.430055401661,Krubitzer_Kaas_1990|Krubitzer_Kaas_1993

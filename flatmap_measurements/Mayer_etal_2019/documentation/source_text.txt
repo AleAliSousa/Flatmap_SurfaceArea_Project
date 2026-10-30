@@ -1,0 +1,852 @@
+
+
+=== PDF PAGE 1 ===
+Systems/Circuits
+The Multiple Representations of Complex Digit Movements
+in Primary Motor Cortex Form the Building Blocks for
+Complex Grip Types in Capuchin Monkeys
+XAndrei Mayer,1 Mary K.L. Baldwin,2 Dylan F. Cooke,3 Bruss R. Lima,4 Jeffrey Padberg,5 Gabriela Lewenfus,4
+Joa˜o G. Franca,4 and Leah Krubitzer2
+1
+Department of Physiological Science, Federal University of Santa Catarina, Florianopolis, SC 88040-900, Brazil, 2
+Center for Neuroscience, University of
+California Davis, Davis, California 95616, 3
+Department of Biomedical Physiology and Kinesiology, Simon Fraser University, Burnaby, British Columbia V5A
+1S6, Canada, 4
+Carlos Chagas Filho Institute of Biophysics, Federal University of Rio de Janeiro, Rio de Janeiro, RJ 21941-902, Brazil, and 5
+Department of
+Biology, University of Central Arkansas, Conway, Arkansas 72035
+In the present study, we investigated motor cortex (M1) and a small portion of premotor and parietal cortex using intracortical micro￾stimulation in anesthetized capuchin monkeys. Capuchins are the only New World monkeys that have evolved an opposable thumb and
+use tools in the wild. Like most Old World monkeys and humans, capuchin monkeys have highly dexterous hands. We surveyed a large
+extent of M1 and found that 22% of all evoked movements in M1 involved the digits, and the majority of these consisted of finger
+flexions and extensions. Different subtypes of movements could be identified, including opposable movements of digits 1 and 2 (D1 and
+D2). Interestingly, the pattern of such movements varied between animals. In one case, movements involved the adduction of the medial
+surface of D1 toward the lateral surface of D2, whereas in the other case, the tips of D1 and D2 came in contact. Unlike other primates
+examined, we also found extensive representations of the prehensile foot and tail. We propose that the manual behavioral repertoire of
+capuchin monkeys, which includesthe use oftools inthe wild, is well represented withinthe motor cortex inthe form of muscle synergies
+between different body parts that compose these larger, complex behaviors.
+Key words: finger; grasping; motor cortex; primate
+Introduction
+Until relatively recently, the extensive and pervasive use of tools
+was considered a unique behavior of humans, and one of the
+major foundations of our culture. However, stone tool use has
+now been documented in macaque monkeys in Thailand
+(Gumert et al., 2009; Gumert and Malaivijitnond, 2013), and in
+capuchin monkeys in Brazil (e.g., Fragaszy et al., 2004; Visal￾berghi et al., 2009). This lithic percussive behavior requires the
+implicit knowledge of object features, such as size, shape, and
+density, and how objects can be manipulated to alter or transform
+other objects. In capuchins, these abilities and other behaviors
+that require complex digit movements co-evolved with an elab￾oration of motor areas, such as primary motor cortex (M1), sup￾Received March 8, 2019; revised May 17, 2019; accepted June 12, 2019.
+Author contributions: A.M., D.F.C., B.R.L., J.P., J.G.F., and L.K. performed experiments; A.M., M.K.L.B., G.L., and
+J.G.F. analyzed data; A.M. wrote the first draft of the paper; A.M., M.K.L.B., D.F.C., J.P., J.G.F., and L.K. edited the
+paper; A.M. and L.K. wrote the paper; J.G.F. and L.K. designed research.
+This work was supported by National Institute of Health (FIRCA (Fogarty International Research Collaboration
+Award), Effects of reversible deactivation of posterior parietal cortex in New World Cebus monkeys), National
+Institutes ofHealth R03 Grant TW008928, and ConselhoNacional de Desenvolvimento Científico e Tecnolo´gico Grant
+402143/2012-4.
+The authors declare no competing financial interests.
+Correspondence should be addressed to Leah Krubitzer at lakrubitzer@ucdavis.edu.
+https://doi.org/10.1523/JNEUROSCI.0556-19.2019
+Copyright © 2019 the authors
+Significance Statement
+The abilityto usetoolsis a milestonein human evolution. Capuchin monkeys are one ofthefew non-human primatesthat usetools
+in the wild. The present study is the first detailed exploration of the motor cortex of these primates using long-train intracortical
+microstimulation. Within primary motor cortex, we evoked finger movements involving flexions and extensions of multiple
+digits, or of the first and second digits alone. Interestingly, flexion of tail and toes could also be evoked. Together, these results
+suggest that the functional organization of the motor cortex represents not just muscles of the body, but muscle synergies that
+form the building blocks of the complex behavioral repertoire of these animals.
+6684 • The Journal of Neuroscience, August 21, 2019 • 39(34):6684 – 6695
+
+=== PDF PAGE 2 ===
+plementary motor area (SMA), ventral premotor cortex (PMv),
+and dorsal premotor cortex (PMd) (e.g., Dum and Strick, 2005;
+Dea et al., 2016; Hamadjida et al., 2016; Coˆ te´ et al., 2017), the
+addition of parietal areas, such as area 2 and an expanded area 5
+(e.g., Padberg et al., 2007; Mayer et al., 2016, 2019), the emer￾gence of specializations in the skeletal morphology of the hand
+(e.g., Spinozzi et al., 2004, 2007; Aversi-Ferreira et al., 2011), and
+corticospinal projections involved in fine
+control of individual digits (Heffner and
+Masterton, 1983; Bortoff and Strick,
+1993). However, these features of organi￾zation have evolved independently from
+similar alterations in the body and brain
+of Old World primates, and are not pres￾ent in other New World monkeys. Thus,
+while most New World monkeys exclu￾sively perform whole-hand grips during
+object manipulation, capuchin monkeys
+can execute up to 16 different types of pre￾cision grips (Christel and Fragaszy, 2000;
+Spinozzi et al., 2004, 2007). Furthermore,
+capuchin monkeys spontaneously use tools
+in the wild. They use rocks as hammers and
+anvils (Fragaszy et al., 2004; Moura and Lee,
+2004; Visalberghi et al., 2007), manufacture
+tools (e.g., by shaping sticks as insect prob￾ing tools) (Mannu and Ottoni, 2009), and
+select the best tool for a specific task based
+on its physical properties (Visalberghi et al.,
+2009; Manrique et al., 2011).
+Despite their extraordinarily dexter￾ous manual behaviors, the functional or￾ganization of their motor cortex has not
+been explored in detail. In the early 1970s,
+Asanuma and Rose´n (1972) evoked spe￾cific finger movements in M1 of capu￾chins (i.e., extension, flexion, adduction,
+and abduction) using short-train int￾racortical microstimulation (ST-ICMS),
+and recently a large representation of the
+digits was described by Hamadjida et al.
+(2016). Subsequent studies focused on the
+neural response properties of M1 (Rose´n
+and Asanuma, 1972; Conrad et al., 1974;
+Lucier et al., 1975), its connectivity
+(Hoover and Strick, 1999; Kelly and
+Strick, 2003; Dum and Strick, 2005; Dea et
+al., 2016; Hamadjida et al., 2016), and
+M1’s functional relationship with the
+premotor cortex (PM) (Ohbayashi et
+al., 2016; Quessy et al., 2016; Coˆ te´ et al.,
+2017). In most of these studies, only a
+small portion of M1 was explored. Fur￾thermore, except for the study of
+Asanuma and Rosén (1972), no other
+study in capuchins has described the de￾tails of the evoked movements of differ￾ent body parts.
+In the current study, we use long-train
+intracortical microstimulation (LT-ICMS)
+to define the functional organization of
+motor cortex in capuchins; LT-ICMS evokes relatively complex
+(i.e., multi-joint and multi-body part) movements, instead of
+isolated muscle contractions (Graziano et al., 2002). Further, LT￾ICMS has been used as a robust technique in a wide range of
+mammals to compare organizational features of motor and pari￾etal cortex (for review, see Graziano, 2016; Baldwin et al., 2018).
+Figure 1. LT-ICMS map for Cases 15-01 and 15-04. Enlarged representation of the corticalsurface region mapped in the frontal
+and parietal cortex of the left hemisphere of Cases 15-01 (A) and 15-04 (B), corresponding to the black rectangles in the brain
+drawings (top and bottom right corners). Movements here were categorized according to the body part(s) that moved during
+LT-ICMS.White dots representthe electrode penetrationsite. Tilessurroundingthe white dots representthe body part(s) involved
+in the evoked movement according to the color code at right. Striped tiles represent movements involving multiple body parts. X’s
+indicate sites where no movement was elicited during LT-ICMS. Dashed lines indicate anatomical borders between cortical areas
+defined by Nissl-stained sections.
+Mayer et al. • Movement Representations in Capuchins Cortex J. Neurosci., August 21, 2019 • 39(34):6684 – 6695 • 6685
+
+=== PDF PAGE 3 ===
+In our previous studies of parietal cortex,
+we proposed that there are inescapable
+outcomes of cortical organization that
+emerge due to homologous developmen￾tal programs that unravel in the context of
+specialized hand morphology and the use
+of a limb (Padberg et al., 2007). The goal
+of the present investigation was to deter￾mine if this was also true for motor cortex
+organization. Here we explore how digit
+and hand movements are represented in
+motor cortex in capuchin monkeys, and
+how these movement representations of
+the digits compare with those of other pri￾mates. We hypothesize that motor cortex
+organization is not a manifestation of tool
+use per se, but rather co-evolved with
+modifications to the hand and its biome￾chanics, which allows for multiple com￾plex grip types, and is built during
+development based on commonly used
+muscle synergies.
+Materials and Methods
+Experimental design and statistical analysis. The
+organization of motor and parietal cortex was
+examined using LT-ICMS in 4 adult (age
+unknown), anesthetized capuchin monkeys
+Figure2. LT-ICMSmapforCases15– 02and15-03.EnlargedrepresentationofthecorticalsurfaceregionmappedinthefrontalcortexofthelefthemisphereofCases15– 02(A)and15-03(B),corresponding
+tothe blackrectangles inthe brain drawings above each ofthe enlargedmaps.Movements herewere categorized accordingtothe body part(s)thatmovedduring LT-ICMS.White dotsrepresentthe electrode
+penetrationsite. Tilessurroundingthe white dotsrepresentthe body part(s) involved inthe evokedmovement accordingtothe color code atright. Stripedtilesrepresentmovements involvingmultiple body
+parts. X’s indicatesites where nomovement was elicited during LT-ICMS. Dashed lines indicate anatomical borders between cortical areas defined byNissl-stainedsections.
+Figure3. Photomicrographsshowingthe architecture offrontal and parietal areasrevealed byNisslstaining. Photomicrographs atthe
+topwere alltakenfromthesamehorizontalsectionshown inrightbottom corner.Blackrectangles correspondto corticalregions enlarged
+above. Dashed lines indicate anatomical borders. Thescale bar in the top left image (PMC) is thesame for all top images. PMC, Premotor
+cortex.
+6686 • J. Neurosci., August 21, 2019 • 39(34):6684 – 6695 Mayer et al. • Movement Representations in Capuchins Cortex
+
+=== PDF PAGE 4 ===
+(Sapajus spp. formerly Cebus spp.) (Martins et al., 2015) of both sexes (3
+males and 1 female) weighing between 1.9 and 4.6 kg. Movements evoked
+by LT-ICMS were digitally recorded from two separate angles (Sanyo
+Xacti VPC-HD2000A, 1920  1080 resolution, 60 frames/s) and an￾alyzed offline (see Movement analysis). Each experiment revealed
+variations in the movement maps generated, but conclusions were
+drawn based on similarities between individual animals. Raw data
+(uninterpreted) for each experiment are presented in Fig. 1-1 (avail￾able at https://doi.org/10.1523/JNEUROSCI.0556-19.2019.f1-1), Fig.
+1-2 (available at https://doi.org/10.1523/JNEUROSCI.0556-19.2019.f1-
+2), Fig. 2-1 (available at https://doi.org/10.1523/JNEUROSCI.0556-
+19.2019.f2-1), and Fig. 2-2 (available at https://doi.org/10.1523/
+JNEUROSCI.0556-19.2019.f2-2).We only used statistical tests to analyze
+differences in the threshold values between cortical regions (i.e., premo￾tor vs motor vs parietal cortices). For that, we used a standard two-tailed
+unequal variance t test in Microsoft Excel.
+Surgical procedures. Animals were obtained from the animal facility of
+the Institute of Biophysics Carlos Chagas Filho, under the license of the
+Brazilian Institute of the Environment and Renewable Natural Re￾sources. All experimental procedures were approved by the local animal
+care and use committee (CEUA-CCS/UFRJ, protocol #IBCCF-123) and
+are in accordance with the Brazilian Law and National Institutes of
+Health guidelines.
+Animals were initially anesthetized with an intramuscular (IM) injec￾tion of ketamine (20 –50 mg/kg). Once anesthetized, atropine (0.05– 0.12
+mg/kg; IM), diazepam (0.5–1.0 mg/kg; IM), and dexamethasone (0.4 –
+1.0 mg/kg; IM) were administered. Animals were then intubated, cannu￾lated, and catheterized. Surgical levels of anesthesia were maintained
+with supplemental doses of ketamine (1–25 mg/kg) and xylazine (0.01–
+0.03 mg/kg) delivered intramuscularly, as well as a continuous infusion
+of ketamine administered intravenously (1–35 mg/kg/h). In 3 animals,
+the inhalant anesthetic halothane (0.25%–2%) was used in conjunction
+with the ketamine infusion. Heart rate, respiration rate, body tempera￾ture, muscle tone, and reflexes were monitored throughout the experi￾ment to assure a constant level of anesthesia.
+After animals were anesthetized, subcutaneous injections of lidocaine
+(2%) were placed at the ears, and topical lidocaine was applied to the
+external ear canals. Animals were then placed in a stereotax and posi￾tioned such that their upper trunk and forelimbs were unobstructed.
+Ophthalmic ointment was placed in the eyes to prevent drying. Subcu￾taneous injections of lidocaine (2%) were made at the midline of the
+scalp before making a surgical incision to expose the skull. The scalp was
+cut, the temporal muscles were retracted, and a craniotomy was made to
+expose portions of frontal and parietal cortex. Once the dura was re￾moved, dimethylpolysiloxane was placed over the cortex to prevent des￾iccation, and the cortical surface was photographed and printed to
+directly relate stimulation site locations with cortical vascular patterns
+and sulcal landmarks.
+ICMS motor mapping. Stimulation was generated with a Grass S88
+stimulator (RRID:SCR_016192) and two SIU6 stimulus isolation units
+and delivered using a low impedance (0.1 M) microelectrode. Ampli￾tude, duration, and frequency of stimulation were measured by the volt￾age drop across a 10-k resistor in series with the return lead of the
+stimulation isolation units. An LED light source positioned in the video
+frame and loudspeaker were connected to the stimulator sync output to
+provide stimulation train timing in visual and auditory form. Electrical
+stimulation consisted of 500 ms trains of biphasic square wave pulses
+(two 0.2 ms pulses) delivered at 200 Hz.
+Figure 4. Examples ofmulti-joint/multi-body partmovements evoked after LT-ICMS inM1. A,Movement evoked fromsite 98 of Case 15-01(see Figure 1-1, available at https://doi.org/10.1523/
+JNEUROSCI.0556-19.2019.f1-1). Thismovement involved an elevation ofthe entire arm plusforearmsupination and elbowflexion,which broughtthe handtothemouth.B,Movement evokedfrom
+site 73 of Case 15– 02 (see Figure 2-1, available at https://doi.org/10.1523/JNEUROSCI.0556-19.2019.f2-1). Stimulation at this site evoked movements of the face (e.g., mouth closing; cheeks
+elevating) accompanied by shoulder elevation.C, Movement evoked from site 16 of Case 15– 02 (see Figure 2-1, available at https://doi.org/10.1523/JNEUROSCI.0556-19.2019.f2-1) involved an
+arm elevation, elbow flexion, and digit extension. D, Movements evoked from site 68 of Case 15-01 (see Figure 1-1, available at https://doi.org/10.1523/JNEUROSCI.0556-19.2019.f1-1) involved
+both the forelimb and hindlimb. Drawings were obtained from video frames taken from two different moments: (1) before ICMS (i.e., body in the startingposition; gray lines); and (2) at the apex
+of the movement during ICMS (black lines).
+Mayer et al. • Movement Representations in Capuchins Cortex J. Neurosci., August 21, 2019 • 39(34):6684 – 6695 • 6687
+
+=== PDF PAGE 5 ===
+The stimulation electrode was lowered into
+the cortex to a depth of 1500 m (to layers V
+and VI) using a micromanipulator. To stimu￾late cortex within the sulci, the electrode was
+advanced parallel to the pial surface, and stim￾ulation sites were tested every 500 m down to
+a maximum depth of 8 mm. We began explor￾ing different cortical fields using stimulation
+pulses with an amplitude of 50 A. However, if
+this current was not strong enough to elicit a
+movement, we increased the amplitude. If no
+movement was detected for amplitudes up to
+300 A in the frontal cortex, or up to 600A in
+the parietal cortex, the site was labeled as “no
+response.” Fiducial probes (fluorescent dyes)
+were placed at different locations at the end of
+the experiment to aid in the alignment of func￾tional and histological data (see below).
+Histological procedures. When ICMS map￾ping was complete, animals were given a lethal
+dose of sodium pentobarbital, and perfused
+transcardially with saline, followed by either
+2% or 4% paraformaldehyde (PFA), then 2%
+or 4% PFA with 10% sucrose added, pH 7.3.
+The brains were removed, postfixed with 4%
+PFA for 3–36 h, and then placed in a 30% su￾crose solution for 48 – 60 h.
+The brain was blocked to include only the
+region of cortex posterior to the arcuate sulcus,
+anterior to the lunate sulcus, and dorsal to the
+posterior inferior temporal sulcus. This block
+was sectioned horizontally while a camera
+(Nikon DSLR 5200) mounted over the brain
+collected block-face images of each section.
+The tissue was cut at a thickness of 60m using
+a freezing microtome and processed in four se￾ries. One series of sections was processed for
+Nissl and used for identifying borders of corti￾cal areas. The remaining series were saved for
+another study.
+The boundaries of areas 3a, 3b, 1, 2, 5v, and
+5d were identified on Nissl-stained sections us￾ing the architectonic criteria established by
+Mayer et al. (2016) in capuchin monkeys. The
+rostral boundary of area M1 was determined
+using the same criteria used for macaque mon￾keys (Vogt and Vogt, 1919; Jones et al., 1978;
+Baldwin et al., 2018). We did not distinguish
+between subdivisions of PM (e.g., F2, F5, and
+F4) (Luppino and Rizzolatti, 2000) but instead
+only defined the larger subdivisions of PMv,
+located rostral to F1 and ventral to the superior
+arcuate sulcus, and PMd, located rostral to F1
+and dorsal to the superior arcuate sulcus.
+Physiological and anatomical reconstruction.
+Block-face images of all cortical sections were processed in Photoshop
+(Adobe) (see Baldwin et al., 2018). Cortical borders identified in Nissl￾stained sections were superimposed onto the corresponding block￾face images, as were the locations of fiducial probes. These images
+were then imported into Fiji processing package (Schindelin et al.,
+2012), and a 3D reconstruction was made using the “3D view”
+plug-in. The 3D reconstructions were then aligned to images of the
+surface of the brain using fiducial probes, penetration sites, and local
+landmarks, including sulci and gyri. This process allowed us to accu￾rately align our microstimulation sites with architectonically defined
+cortical field boundaries.
+Movement analysis. During the experiments, all movements were char￾acterized by 2 observers and digitally recorded. These movements were
+later confirmed and analyzed offline. Movements were characterized by
+the joint and body part moving, such as the wrist or tongue. When
+multiple joints or body parts moved together, these movements were
+labeled as “complex” movements. Because we were interested in specific
+digit movements associated with grasping behaviors, we defined digit
+movements based on whether the movements were due to joint flexion,
+extension, abduction, or adduction.
+Representative movements were illustrated from frames captured just
+before stimulation initiation (baseline), and at the peak of the movement
+amplitude (apex). These frames were imported into Adobe Illustrator
+where the outline of the body part(s) involved in the movement was
+traced. We did not monitor eye movements.
+The total area of M1 from which digit movements could be evoked was
+measured. First, a Voronoi tessellation of the motor map of each case was
+created based on the location of ICMS sites to have a more precise and
+Figure 5. Movement map for digits and toes. A, Case 15-01. B, Case 15-03.C, Case 15-04. D, Case 15– 02. Some LT-ICMS sites
+that elicited digit flexion fell into two major categories: one in which digit 1 was opposed to one or more of digits 2–5; and one in
+which one or more digits flexed toward the palm. Interestingly, these categories were subsets of digit movements used by
+capuchin monkeys in the wild (Costello and Fragazy, 1988; Spinozzi et al., 2004). The color code of this map is indicated at the
+bottom. Other conventions are the same as in Figure 3.
+6688 • J. Neurosci., August 21, 2019 • 39(34):6684 – 6695 Mayer et al. • Movement Representations in Capuchins Cortex
+
+=== PDF PAGE 6 ===
+reliable border between these sites (for details, see Baldwin et al., 2018).
+Then the area of all sites in the motor map at which digit movements were
+evoked was also measured using Adobe Illustrator script. The area for
+which a specific type of digit movement could be evoked was also mea￾sured. This was done by taking the area within M1 from which the spe￾cific digit movement could be evoked and dividing it by the total area of
+M1 for which any digit movement could be evoked. Specific digit move￾ments were classified into seven groups and included the following: (1)
+distal portion of D1 touches the middle or distal portion of any digit; (2)
+flexion of D1 and/or D2; (3) flexion of all digits; (4) other movements
+involving flexion of 2 digits or D3 or D4 or D5; (5) extension of 2
+digits or D3 or D4 or D5; (6) extension of D1 and/or D2; and (7) mix of
+flexion and extension of only D1 and D2. Thus, it was possible to calcu￾late the proportion of M1 within the digit region that evoked each type of
+digit movement (see Fig. 6). When an ICMS site could be categorized as
+two different types of movements (see, e.g., Fig. 5B, purple/lavender
+striped sites), half of the area of these sites was considered as part of one
+category and the other half was considered as part of the other category.
+Current threshold. The threshold was determined for each site by
+lowering the current amplitude by half (e.g., from 100 A to 50 A,
+and then to 25 A) until no movement could be evoked. The halfway
+point between the current value that resulted in no movement and the
+previous current applied in which the movement could be evoked was
+defined as the threshold. To confirm the stability of anesthesia, and
+therefore our ability to consistently evoke movements throughout the
+experiment, we periodically returned to stimulation sites to retest
+threshold values. Differences in threshold values across cortical areas
+and regions were tested using a standard two-tailed unequal variance
+t test in Microsoft Excel.
+Results
+In the present study, 483 sites within frontal and parietal cortex
+were stimulated using LT-ICMS in 4 capuchin monkeys (3 males
+and 1 female). Of these, movements could be evoked from 298 of
+sites within M1, 55 within parietal areas, and 38 within premotor
+areas. Movement maps for our 4 cases are illustrated in Figures 1
+and 2, and descriptions of the movements at each microstimula￾tion site that were used to generate these maps are presented in
+Fig. 1-1 (available at https://doi.org/10.1523/JNEUROSCI.0556-
+19.2019.f1-1), Fig. 1-2 (available at https://doi.org/10.1523/
+JNEUROSCI.0556-19.2019.f1-2), Fig. 2-1 (available at https://
+doi.org/10.1523/JNEUROSCI.0556-19.2019.f2-1), and Fig. 2-2
+(available at https://doi.org/10.1523/JNEUROSCI.0556-19.2019.
+f2-2). We first describe the architectonic appearance of the
+cortical field from which movements were evoked, including
+M1, PM, areas 3a, 1, 2, and 5 (Fig. 3), and the general move￾ment map organization in motor and parietal cortex (Figs. 1,
+2). We next provide details on the types of hand and foot
+movements that were evoked in motor and parietal cortex,
+followed by movement thresholds for the different fields.
+Movement representations in motor and parietal cortex and
+their relation to architectonically determined cortical field
+boundaries
+Stimulation sites were directly related to cortical field boundaries
+using Nissl-stained horizontal sections. Parietal areas were iden￾tified according to the criteria previously described by Mayer et
+al. (2016) for capuchin monkeys and by Baldwin et al. (2018) for
+macaque monkeys. Briefly, M1 was characterized by a poorly
+developed layer 4, and the presence of large pyramidal cells distrib￾uted throughout layer 5 (Fig. 3); whereas in the premotor areas
+(PMd and PMv), the cells in layer 5 were smaller and sparser (Fig. 3).
+Area 3a was characterized by a well-developed layer 3 and the pres￾Figure 6. Quantification of evoked digit movement types in the hand representation of M1. A, Total area of hand representation within M1. Only sites that evoked digits movements were
+considered(Fig. 5).B, Color code ofthe pie charts presented in C–F.C–F, Proportion of differenttypes of digitsmovementswithinthe handrepresentation of each case. In all cases,most evoked digit
+movements in M1 involved D1 touching any other finger or the flexion of D1 and/or D2 alone.
+Mayer et al. • Movement Representations in Capuchins Cortex J. Neurosci., August 21, 2019 • 39(34):6684 – 6695 • 6689
+
+=== PDF PAGE 7 ===
+ence of sparsely distributed large pyramidal
+cells in layer 5. Area 1 had a striated appear￾ance with moderate staining of layer 4, and
+area 2 exhibited much less densely staining
+and densely packed layers 4 and 6. Area 5d
+had well-developed layers 3 and 5 (Fig. 3).
+Across all cortical areas from which
+movements could be evoked, there was a
+general topographic organization that has
+been described in other primates and
+other mammals (for review, see Baldwin
+et al., 2018). Movements could be elicited
+from frontal and parietal cortical areas.
+The majority (76%) of microsimulation
+sites from which movements could be
+evoked were located within the M1 (Figs.
+1, 2), in which the full contralateral extent
+of the body was represented, including the
+face, forelimb, hindlimb, trunk, and tail.
+A rough somatotopic organization could
+be identified, with hindlimb and tail rep￾resented medially and forelimb and face
+laterally.
+In all cases, forelimb movements could
+also be evoked from sites located rostral to
+the anterior border of M1 (Figs. 1, 2), in
+PM. In 3 cases, movements of the face,
+trunk, and portions of the hindlimb were
+also evoked from PM (Figs. 1B, 2). In 2
+cases, forelimb movements could be
+evoked from anterior parietal areas 1 and
+2(Fig. 1); and in 1 case, face movements
+were evoked from the posterior parietal
+area 7b (Fig. 1A).
+In all cases, at least one of two types of
+tail movement could be evoked from M1:
+(1) contraction of its base, with no partic￾ular direction; and (2) flexion of its distal
+portion. The former type was evoked in all
+cases and, except for two ICMS sites in
+Case 15-04 (Fig. 1B), it was always accom￾panied by the movement of other body
+parts, especially the hindlimb (Figs. 1, 2,
+striped light gray with shades of purple).
+On the other hand, flexion of the distal
+portion of the tail was always isolated
+from movements of other body parts, al￾though the number of sites evoking this
+type of movement was relatively small
+(two sites in Case 15-04 and four in Case
+15-03; Fig. 1B and Fig. 2B, respectively).
+Most of the evoked movements in￾volved multiple joints and/or multiple body parts. Some exam￾ples of these movements are illustrated in Figure 4. Some
+investigators have classified these as “ethologically relevant be￾haviors,” such as “hand to mouth,” “face defense,” and “reach”
+(e.g., Stepniewska et al., 2005). Rather than use this terminol￾ogy, we decided to describe evoked movements by reporting
+co-displacement patterns of different joints, which allows for
+more precise descriptions of synergies (see Fig. 1-1, available at
+https://doi.org/10.1523/JNEUROSCI.0556-19.2019.f1-1; Fig. 1-2,
+available at https://doi.org/10.1523/JNEUROSCI.0556-19.2019.
+f1-2; Fig. 2-1, available at https://doi.org/10.1523/JNEURO￾SCI.0556-19.2019.f2-1; Fig. 2-2, available at https://doi.org/10.1523/
+JNEUROSCI.0556-19.2019.f2-2; and Fig. 4). We focus on
+characterizing movements of the digits and toes.
+Characterization of hand and foot movements
+From the 391 ICMS sites that evoked movement in the frontal
+and parietal cortex of all cases, finger movements were evoked
+from 22% of sites, and toe movements were evoked from 10% of
+sites. Figure 5 illustrates a map of these movements, classified
+according to the fingers or toes that moved and how they
+moved. No clear topographic organization could be observed
+Figure 7. Examples of evoked hand and foot movements. A–C, Evoked hand movements in which all digits flex toward the
+palm. In this particular case (Case 15-03), the animal was missing D5 in the right hand. This movement was evoked atsite 11 (see
+Figure 2-2, available at https://doi.org/10.1523/JNEUROSCI.0556-19.2019.f2-2). Dorsal(D–F) and ventral(G–I) views ofthe foot
+in which all toes flex toward the sole of the foot; site 115 of Case 15-03 (see Figure 2-2, available at https://doi.org/10.1523/
+JNEUROSCI.0556-19.2019.f2-2). C, F, I, Tracing from video frames showing the starting position (light gray line) and the apex
+(black line) of each movement.
+6690 • J. Neurosci., August 21, 2019 • 39(34):6684 – 6695 Mayer et al. • Movement Representations in Capuchins Cortex
+
+=== PDF PAGE 8 ===
+when comparing ICMS sites that evoked
+finger flexions versus finger extensions.
+Rather, the maps of these movements
+were organized in a mosaic fashion. For
+instance, in 1 case (Fig. 5A), a “finger
+extension zone” (dark and light blue
+tiles) in M1 could be identified rostral to a
+“finger flexion zone” (purple/red tiles);
+whilein another case (Fig. 5D),finger exten￾sionwas located lateral tofingerflexion.Fig￾ure 5 illustrates the details of how these
+movement representations were clustered
+in M1.
+Figure 6 shows the total cortical area
+occupied by the finger representation
+within M1 (ranging from 8.1 mm2 in
+Cases 15-03 and 15-04 to 19.3 mm2 in
+Case 15-01) as well as the proportion of
+each digit movement type. In all cases,
+most evoked digits movements in M1 in￾volved D1 touching any other finger or
+the flexion of D1 and/or D2 alone, ranging
+from 33% to 51% of the total cortical
+hand/digit area within M1 (calculated by
+the sum of the purple parts of the pie
+charts in Fig. 6C–F). In all cases, the cor￾tical area within M1 dedicated to only
+digit flexions (ranging from 63% to 92%;
+sum of the purple and red parts in the pie
+charts of Fig. 6) was at least twice the size
+of the area that evoked only digit exten￾sions (8%–30%; sum of the blue parts in
+the pie charts).
+As expected, toe movements were
+evoked along the most medial aspect of
+each ICMS motor map. The number of
+ICMS sites from which toe flexions com￾pared with toe extensions could be
+evoked, as well as their location in relation
+to each other, was highly variable (Fig. 5),
+although this could be a result of the small
+number of toe sites explored. Overall,
+most evoked toe movements were related
+to the flexion of more than two toes (usu￾ally all toes flexed together; Fig. 7D–I),
+followed by the extension of more than
+two toes (Fig. 5B–D). However, in 1 case
+(Fig. 5A), most evoked foot movements
+were a flexion of only T1.
+One of the major findings of the cur￾rent study was the observation of two spe￾cific types of hand movements: (1) when
+digit 1 touched the middle or distal por￾tions of any of the other four fingers (Figs.
+8, 9); and (2) when all fingers flexed to￾ward the palm (Fig. 7A–C). A similar
+movement type was observed for the foot
+where all toes flexed toward the plantar
+surface of the foot (Fig. 7D–I). Among all
+sites within the motor cortex in which D1
+touched any other finger, the most com￾mon type of movement was the opposi￾tion between D1 and D2 (73% of all 24
+Figure 8. Examples of evokedmovements involving D1 and D2. A–C, Evokedmovements in whichthetips of D1 and D2 oppose
+each other(B; D2 also moves but with asmaller amplitude;see ruler underthe fingers), evoked by LT-ICMS atsite 98 of Case 15-03
+(see Figure 2-2, available at https://doi.org/10.1523/JNEUROSCI.0556-19.2019.f2-2). D–F, A movement in which D2 is adducted,
+while D1 abducts and extends and itstiptouchesthesecond phalange of D2(other digits alsomove). Thismovement was observed
+in site 9 of Case 15-03 (see Figure 2-2, available at https://doi.org/10.1523/JNEUROSCI.0556-19.2019.f2-2). The tips of D2– 4 are
+occluded in D andEbut were reconstructed in the drawingsshown in F. G–K, Relatively complex movement of the digits in which
+a D1–D2 opposition first opens (H) and then closes so that the distal phalange of D1 touches the proximal and middle phalanges
+of D2 (I); evoked by LT-ICMS at site 149 of Case 15-04 (see Figure 1-2, available at https://doi.org/10.1523/JNEUROSCI.0556-
+19.2019.f1-2).J, Illustratesthe first phase ofthe “complex”movement. Light gray line indicatesthestarting position(baseline, G).
+Black line indicatesthe end ofthe first phase(H). K, Illustratesthesecond phase ofthemovement. Other conventions arethesame
+as in Figure 6.
+Mayer et al. • Movement Representations in Capuchins Cortex J. Neurosci., August 21, 2019 • 39(34):6684 – 6695 • 6691
+
+=== PDF PAGE 9 ===
+sites of all cases; Figs. 6, 8, 9G–I). This type
+of evoked movement of the digits varied
+between animals. In 1 case, this move￾ment was achieved mostly by the adduc￾tion of D1 toward D2 such that the ulnar
+surface of D1 touched the radial surface of
+D2 (Fig. 9G–I). In another case, the volar
+aspect of D2 was mostly touched by the tip
+of D1 (Fig. 8A–F). Other variations con￾sisted of the opposition between D1 and
+D2D3 (18%; Fig. 9A–C), and between
+the tip of D1 and other fingers (9%; Fig.
+9D–F). However, it is important to note
+that this quantification of different types
+of digit movements does not have any sta￾tistical validity, which was not possible
+due to the low number of sites that could
+be categorized (varying between 1 and 13
+among cases; Fig. 5D and Fig. 5A,
+respectively).
+Movement representations in parietal
+cortex and premotor cortex
+As noted above, movements were evoked
+outside of M1, in PM and parietal areas 1,
+2, and 7b. In PM, movements of portions
+of the forelimb were evoked in all cases,
+although in 1 case (Fig. 1A), there were
+only 2 stimulation sites in PM. In another
+case, movements of individual digits
+alone were evoked in PMv (Fig. 1B); and
+in the other cases, movements of individ￾ual digits and other portions of the fore￾limb were evoked in PMd (Figs. 1A,
+2A,B). In PMd, movements of the
+shoulder, elbow, and wrist were evoked
+alone or in combination with other por￾tions of the forelimb. In 3 cases, move￾ments of the hindlimb were evoked in
+PMd (Figs. 1B, 2); and in 1 of these cases
+included movements of the toes (Fig.
+2B). Finally, in 2 cases, movements of
+the ear were also evoked in PMd (Fig. 2);
+and in 3 cases, movements of different
+portions of the face and head were
+evoked in PMv (Figs. 1B, 2).
+In anterior parietal areas 1 and 2, the
+only evoked movements were on portions
+of the forelimb (Fig. 1A,B). However, the majority of the move￾ments evoked were for individual digits. In 1 case, movements of
+the digits, shoulder, and portions of the face were evoked at a few
+stimulation sites in area 7b (Fig. 1A).
+Movement thresholds in M1
+In M1, threshold values ranged from 2.5 to 250 A in Case 15-01,
+7.5 to 155 A in Case 15–02, 15 to 225 A in Case 15-03, and 35
+to 275 A in Case 15-04 (Fig. 10). In 2 cases (Cases 15-01 and
+15-04), threshold values in the parietal cortex were relatively
+higher than in M1 (p  0.0001), but there was no statistically
+significant difference between thresholds in M1 and PM (Fig. 10).
+Therefore, differences in threshold value could not be used as a
+criterion to identify the rostral border of M1. Because our ani￾mals were anesthetized, some of the differences in threshold
+could be due to anesthetic state. M1 threshold levels are consis￾tent with those previously reported for anesthetized macaque
+monkeys (Baldwin et al., 2018).
+Discussion
+Comparisons with behavioral studies in capuchin monkeys
+In a previous study, manual behavior of capuchin monkeys was
+videotaped by Costello and Fragaszy (1988), who described cri￾teria to classify power grips and precision grips. In a power grip,
+all fingers flexed toward the palm, regardless of the position of the
+thumb relative to the plane of the palm. In a precision grip, the
+distal phalanx of the thumb touched the middle or distal phalanx
+of any finger(s), regardless of the movement of the other digits
+that were not touching the thumb. Spinozzi et al. (2004) subse￾quently identified 16 variants of the precision grip in capuchin
+monkeys.
+Figure9. Examples of othertypes of digitmovements.A–C,Amovement inwhichthere is an abduction/flexion ofD1 combined
+with the flexion of D2 and D3, evoked by LT-ICMS at site 49 of Case 15-01 (see Figure 1-1, available at https://doi.org/10.1523/
+JNEUROSCI.0556-19.2019.f1-1). The distal phalange of D1 touches the distal articulation/phalange of D2 and D3. The wrist also
+flexes dorsally. Other digits also move. D–F, An evoked movement in which there is a flexion/abduction of all digits. The tip of D1
+touches the tip of other digits. In this example, a subtle wrist pronation was also observed; site 45 of Case 15-01 (see Figure 1-1,
+available at https://doi.org/10.1523/JNEUROSCI.0556-19.2019.f1-1).G–I,D1movedtowardD2 andtouched it laterally(thetip of
+D1 touches the middle phalange of D2), while all other digits abduct and the wrist flexes dorsally and laterally; site 93 of
+Case 15-01 (see Figure 1-1, available at https://doi.org/10.1523/JNEUROSCI.0556-19.2019.f1-1). Other conventions are
+the same as in Figure 6.
+6692 • J. Neurosci., August 21, 2019 • 39(34):6684 – 6695 Mayer et al. • Movement Representations in Capuchins Cortex
+
+=== PDF PAGE 10 ===
+While the movements we evoke do not reflect an intentional
+manual behavior, we did observe that many ICMS sites from
+which digit flexions were evoked parallel those of published cri￾teria (Costello and Fragaszy, 1988; Spinozzi et al., 2004) for “pre￾cision grip” in which the distal portion of D1 touches any other
+digit (Figs. 8, 9; Fig. 5 dark purple). However, in some cases, very
+few sites could be categorized as such (e.g., Case 15–02; Fig. 5D).
+Thus, the movements we evoked in anesthetized animals were
+only a subset of those described previously in behaving animals,
+possibly because we did not survey all of cortex from which
+movements could be evoked. Still, the fact that we could identify
+digit movements that resembled specific grip types in previous
+studies in behaving capuchins, or formed some of the compo￾nents of complex hand movements, begs the question of what are
+the basic organizational principles of motor cortex. Obviously,
+“precision grip-like” movements can be evoked only in primates
+that have the requisite hand morphology to form a precision grip.
+Further, it is clear from this study and previous studies in other
+species that motor cortex organization co-evolved with modifi￾cations to forelimb and hand morphology (for review, see Bald￾win et al., 2018). We add here the possibility that motor cortex
+may be constructed during development based on commonly
+used muscle synergies, many of which may involve social learning
+(Coelho et al., 2015; Eshchar et al., 2016).
+Stimulation of motor cortex
+in primates
+Over the past century, motor cortex has
+been explored in a number of primates,
+including anthropoid apes, using a variety
+of electrode types and stimulation param￾eters, in both awake and anesthetized
+preparations (Leyton and Sherrington,
+1917; Woolsey et al., 1952; Kwan et al.,
+1978; Waters et al., 1990). Despite the dif￾ferences in the methods used to explore
+motor cortex, there are several similarities
+across these studies and across primates.
+These include a gross topographic organi￾zation of movement representations on
+the precentral gyrus, with a relatively large
+representation of the hand and forelimb.
+In some studies, there were large regions
+of cortex where stimulation evoked finger
+flexions, similar to those described in the
+present investigation (e.g., Leyton and
+Sherrington, 1917; Kwan et al., 1978; Wa￾ters et al., 1990).
+More recently, LT-ICMS has been
+used to explore motor and parietal cortex
+in prosimians (Stepniewska et al., 2005,
+2009, 2014), macaques (Griffin et al.,
+2014; Baldwin et al., 2018), and New
+World squirrel monkeys and owl mon￾keys (Gharbawie et al., 2010, 2011a,b;
+Stepniewska et al., 2014). Results from
+these studies were similar to those in the
+present investigation in that a gross topo￾graphic organization was observed in mo￾tor cortex. Further, movement maps were
+fractured, with similar body part move￾ments represented at multiple locations.
+However, there were two important dif￾ferences between the present study and
+previous investigations. First, while “power grasping” move￾ments were reported to be evoked in motor cortex of prosimians
+and New World monkeys, movements that resembled, or could
+be components of, a precision grip were not evoked in motor
+cortex, as they were in the capuchins and macaques. Second, in
+these other species of primates, the cortex that represented the
+foot and the tail was not explored, or was relatively small com￾pared with this motor representation in capuchin monkeys (see
+below).
+Macaques have an opposable thumb and engage in a variety of
+dexterous manual behaviors using multiple types of precision
+grips (Macfarlane and Graziano, 2009). However, previous work
+that used LT-ICMS to explore motor cortex of macaques de￾scribed hand movements in a different way (i.e., ICMS-evoked
+contraction pattern of hand muscles (Park et al., 2001; Overduin
+et al., 2012; Griffin et al., 2014) or did not provided details of
+precision-like grips at all (Graziano et al., 2002, 2005; Gharbawie
+et al., 2011b). An exception was the study of Baldwin et al. (2018),
+which described the fine details of digit movements evoked by
+LT-ICMS in motor and parietal cortex. The evoked movements
+and the maps of M1 in capuchin monkeys strongly resemble the
+movement representations of macaques in three important ways:
+(1) M1 was dominated by the forelimb representation; (2) the
+hand representation in M1 is located at the level of the superior
+Figure 10. Threshold maps for all cases. A, Case 15-01. B, Case 15-03.C, Case 15-04. D, Case 15– 02. Color code in A applies to
+all figures. Darker tiles represent lower thresholds. Lighter tiles represent higher thresholds. White tiles represent that a threshold
+was not measured. Other conventions are the same as in Figure 1.
+Mayer et al. • Movement Representations in Capuchins Cortex J. Neurosci., August 21, 2019 • 39(34):6684 – 6695 • 6693
+
+=== PDF PAGE 11 ===
+arcuate sulcus; and (3) many of the evoked hand movements,
+specifically those involving flexion of the digits, were similar to
+those performed by behaving animals (Macfarlane and Graziano,
+2009).
+Thus, the organization of the hand representation of capuchin
+monkeys looks more like that of macaque monkeys (Graziano et
+al., 2002; Gharbawie et al., 2011b; Rathelot et al., 2017; Baldwin et
+al., 2018) than that of the more closely related New World mon￾keys (Gharbawie et al., 2010, 2011a; Stepniewska et al., 2014).
+Padberg et al. (2007) and Mayer et al. (2016) have observed that
+the anatomical and functional organization of the parietal cortex
+of capuchins and macaques are also highly similar. These parallels
+in the parietal and motor cortices of capuchins and macaques
+suggest that the sensory-motor circuits that subserve the execu￾tion of complex manual behaviors involving complex digit
+movements, although independently evolved, follow a common
+principle of organization.
+Movements of the prehensile toes and tail
+Many sites involved flexion of all toes (Figs. 5, 7D–I), which
+could be a movement involved in a variety of behaviors, such as
+locomotion on tree branches or stabilization of the body with the
+feet during tool use (Spagnoletti et al., 2011; Mangalam et al.,
+2018). Curiously, in some cases, ICMS evoked a flexion or abduc￾tion of only T1 (Fig. 5), suggesting that motor cortex of capuchin
+monkeys may also represent the independent movement of toes,
+which could be an important neural substrate for the execution of
+relatively precise movements with the toes.
+In addition to evoking movements from the toes, we also
+evoked different types of tail movements, including: (1) the con￾traction of the base of the tail, and (2) the flexion of the distal
+portion of the tail. The former type was usually accompanied by
+trunk and hindlimb movements, and could be related to posture
+maintenance during the execution of behaviors that require the
+tail for stabilization (Massaro et al., 2016). The second type of tail
+movement we observed, flexion of its distal portion, was always
+isolated from the movement of other body parts, and could be
+related to grasping behaviors with the tail, such as branch￾hooking during feeding, foraging, and locomotion (Garber and
+Rehg, 1999), or pulling food to within reach of the hand (Fulton
+and Barenne, 1983). This type of tail movement has been ob￾served in ICMS studies of other New World monkeys (i.e., spider
+monkey and owl monkey) (Fulton and Barenne, 1983; Gould et
+al., 1986), which also engage in tail prehension, but not in ma￾caques (Fulton and Barenne, 1983; Baldwin et al., 2018), which
+do not. The relatively small representation of the tail in motor
+cortex in macaques may be due to the lack of tail prehension in
+this species or because only a limited extent of cortex in the ex￾pected location of the tail representation was explored (Fulton
+and Barenne, 1983).
+In the current study, we evoked four major types of move￾ments of the digits, toes, and tail in M1 that appear to be related to
+grasping: (1) flexion of all digits toward the palmar surface; (2)
+flexion of D1 to the distal or middle phalange of other digits; (3)
+flexion of toes toward the plantar surface; and (4) flexion of the
+tail tip. Although tail and foot movements may not be directly
+related to object manipulation, as noted above, they might be
+relevant to other aspects of behaviors, such as stabilization of the
+body during use of the hammer and anvil (Mangalam et al.,
+2018). These data, along with data from other mammals, indicate
+that motor cortex organization reflects the configuration of pe￾ripheral morphology, the biomechanics of different body parts
+(e.g., an opposable thumb and prehensile tail), and the synergistic
+use of these body parts. We propose that the execution of com￾plex behavior is generated by the temporally coordinated and
+combinatorial recruitment of the representations of these muscle
+synergies in motor cortex.
+References
+Asanuma H, Rose´n I (1972) Topographical organization of cortical efferent
+zones projecting to distal forelimb muscles in the monkey. Exp Brain Res
+14:243–256.
+Aversi-Ferreira TA, Maior RS, Carneiro-E-Silva FO, Aversi-Ferreira RA, Ta￾vares MC, Nishijo H, Tomaz C (2011) Comparative anatomical analyses
+of the forearm muscles of Cebus libidinosus (Rylands et al. 2000): manip￾ulatory behavior and tool use. PLoS One 6:e22165.
+Baldwin MK, Cooke DF, Goldring AB, Krubitzer L (2018) Representations
+of fine digit movements in posterior and anterior parietal cortex revealed
+using long-train intracortical microstimulation in macaque monkeys.
+Cereb Cortex 28:4244 –4263.
+Bortoff GA, Strick PL (1993) Corticospinal terminations in two new-world
+primates: further evidence that corticomotoneuronal connections pro￾vide part of the neural substrate for manual dexterity. J Neurosci
+13:5105–5118.
+Christel MI, Fragaszy D (2000) Manual function in Cebus apella. digital
+mobility, preshaping, and endurance in repetitive grasping. Int J Primatol
+21:697–719.
+Coelho CG, Falo´ tico T, Izar P, Mannu M, Resende BD, Siqueira JO, Ottoni EB
+(2015) Social learning strategies for nut-cracking by tufted capuchin
+monkeys (Sapajus spp.). Anim Cogn 18:911–919.
+Conrad B, Matsunami K, Meyer-Lohmann J, Wiesendanger M, Brooks VB
+(1974) Cortical load compensation during voluntary elbow movements.
+Brain Res 71:507–514.
+Costello MB, Fragaszy DM (1988) Prehension in Cebus and Saimiri: I. grip
+type and hand preference. Am J Primatol 15:235–245.
+Coˆ te´ SL, Hamadjida A, Quessy S, Dancause N (2017) Contrasting modula￾tory effects from the dorsal and ventral premotor cortex on primary mo￾tor cortex outputs. J Neurosci 37:5960 –5973.
+Dea M, Hamadjida A, Elgbeili G, Quessy S, Dancause N (2016) Different
+patterns of cortical inputs to subregions of the primary motor cortex hand
+representation in Cebus apella. Cereb Cortex 26:1747–1761.
+Dum RP, Strick PL (2005) Frontal lobe inputs to the digit representations of
+the motor areas on the lateral surface of the hemisphere. J Neurosci 25:
+1375–1386.
+Eshchar Y, Izar P, Visalberghi E, Resende B, Fragaszy D (2016) When and
+where to practice: social influences on the development of nut-cracking in
+bearded capuchins (Sapajus libidinosus). Anim Cogn 19:605–618.
+Fragaszy D, Izar P, Visalberghi E, Ottoni EB, de Oliveira MG (2004) Wild
+capuchin monkeys (Cebus libidinosus) use anvils and stone pounding
+tools. Am J Primatol 64:359 –366.
+Fulton J, Barenne J (1983) The representation of the tail in the motor cortex
+of primates, with special reference to spider monkeys. J Cel Comp Physiol
+2:399 –426.
+Garber PA, Rehg JA (1999) The ecological role of the prehensile tail in
+white-faced capuchin (Cebus capucinus). Am J Phys Anthropol 110:325–
+339.
+Gharbawie OA, Stepniewska I, Burish MJ, Kaas JH (2010) Thalamocortical
+connections of functional zones in posterior parietal cortex and frontal
+cortex motor regions in new world monkeys. Cereb Cortex 20:2391–2410.
+Gharbawie OA, Stepniewska I, Kaas JH (2011a) Cortical connections of
+functional zones in posterior parietal cortex and frontal cortex motor
+regions in new world monkeys. Cereb Cortex 21:1981–2002.
+Gharbawie OA, Stepniewska I, Qi H, Kaas JH (2011b) Multiple parietal￾frontal pathways mediate grasping in macaque monkeys. J Neurosci 31:
+11660 –11677.
+Gould HJ 3rd, Cusick CG, Pons TP, Kaas JH (1986) The relationship of
+corpus callosum connections to electrical stimulation maps of motor,
+supplementary motor, and the frontal eye fields in owl monkeys. J Comp
+Neurol 247:297–325.
+Graziano MS (2016) Ethological action maps: a paradigm shift for the mo￾tor cortex. Trends Cogn Sci 20:121–132.
+Graziano MS, Taylor CS, Moore T (2002) Complex movements evoked by
+microstimulation of precentral cortex. Neuron 34:841–851.
+Graziano MS, Aflalo TN, Cooke DF (2005) Arm movements evoked by elec￾6694 • J. Neurosci., August 21, 2019 • 39(34):6684 – 6695 Mayer et al. • Movement Representations in Capuchins Cortex
+
+=== PDF PAGE 12 ===
+trical stimulation in the motor cortex of monkeys. J Neurophysiol
+94:4209 –4223.
+Griffin DM, Hudson HM, Belhaj-Saïif A, Cheney PD (2014) EMG activa￾tion patterns associated with high frequency, long-duration intracortical
+microstimulation of primary motor cortex. J Neurosci 34:1647–1656.
+Gumert MD, Malaivijitnond S (2013) Long-tailed macaques select mass of
+stone tools according to food type. Philos Trans R Soc Lond B Biol Sci
+368:1–13.
+Gumert MD, Kluck M, Malaivijitnond S (2009) The physical characteristics
+and usage patterns of stone axe and pounding hammers used by long￾tailed macaques in the Andaman Sea region of Thailand. Am J Primatol
+71:594 –608.
+Hamadjida A, Dea M, Deffeyes J, Quessy S, Dancause N (2016) Parallel
+cortical networks formed by modular organization of primary motor
+cortex outputs. Curr Biol 26:1737–1743.
+Heffner RS, Masterton RB (1983) The role of the corticospinal tract in the
+evolution of human digital dexterity. Brain Behav Evol 23:165–183.
+Hoover JE, Strick PL (1999) The organization of cerebellar and basal ganglia
+outputs to primary motor cortex as revealed by retrograde transneuronal
+transport of herpes simplex virus type 1. J Neurosci 19:1446 –1463.
+Jones EG, Coulter JD, Hendry SH (1978) Intracortical connectivity of archi￾tectonic fields in the somatic sensory, motor and parietal cortex of mon￾keys. J Comp Neurol 181:291–347.
+Kelly RM, Strick PL (2003) Cerebellar loops with motor cortex and prefron￾tal cortex of a nonhuman primate. J Neurosci 23:8432–8444.
+Kwan HC, MacKay WA, Murphy JT, Wong YC (1978) Spatial organization
+of precentral cortex in awake primates: II. Motor outputs. J Neurophysiol
+41:1120 –1131.
+Leyton A, Sherrington C (1917) Observations on the excitable cortex of the
+chimpanzee, orangutan, and gorilla. Exp Physiol 11:135–222.
+Lucier GE, Ru¨egg DD, Wiesendanger M (1975) Responses of neurones in
+motor cortex and in area 3a to controlled stretches of forelimb muscles in
+Cebus monkeys. J Physiol 251:833–853.
+Luppino G, Rizzolatti G (2000) The organization of the frontal motor cor￾tex. News Physiol Sci 15:219 –224.
+Macfarlane NB, Graziano MS (2009) Diversity of grip in Macaca mulatta.
+Exp Brain Res 197:255–268.
+Mangalam M, Rein R, Fragaszy DM (2018) Bearded capuchin monkeys use
+joint synergies to stabilize the hammer trajectory while cracking nuts in
+bipedal stance. Proc Biol Sci 285:20181797.
+Mannu M, Ottoni EB (2009) The enhanced tool-kit of two groups of wild
+bearded capuchin monkeys in the Caatinga: tool making, associative use,
+and secondary tools. Am J Primatol 71:242–251.
+Manrique HM, Sabbatini G, Call J, Visalberghi E (2011) Tool choice on the
+basis of rigidity in capuchin monkeys. Anim Cogn 14:775–786.
+Martins AM Jr, Amorim N, Carneiro JC, de Mello Affonso PR, Sampaio I,
+Schneider H (2015) Alu elements and the phylogeny of capuchin (Cebus
+and Sapajus) monkeys. Am J Primatol 77:368 –375.
+Massaro L, Massa F, Simpson K, Fragaszy D, Visalberghi E (2016) The stra￾tegic role of the tail in maintaining balance while carrying a load bipedally
+in wild capuchins (Sapajus libidinosus): a pilot study. Primates 57:231–
+239.
+Mayer A, Nascimento-Silva ML, Keher NB, Bittencourt-Navarrete RE, Gat￾tass R, Franca JG (2016) Architectonic mapping of somatosensory areas
+involved in skilled forelimb movements and tool use. J Comp Neurol
+524:1399 –1423.
+Mayer A, Lewenfus G, Bittencourt-Navarrete RE, Clasca F, da Franca JG
+(2019) Thalamic inputs to posterior parietal cortical areas involved in
+skilled forelimb movement and tool use in the capuchin monkey. Cereb
+Cortex. Advance online publication. Retrieved March 19, 2019. doi:
+10.1093/cercor/bhz051.
+Moura AC, Lee PC (2004) Capuchin stone tool use in caatinga dry forest.
+Science 306:1909.
+Ohbayashi M, Picard N, Strick PL (2016) Inactivation of the dorsal premo￾tor area disrupts internally generated, but not visually guided, sequential
+movements. J Neurosci 36:1971–1976.
+Overduin SA, d’Avella A, Carmena JM, Bizzi E (2012) Microstimulation
+activates a handful of muscle synergies. Neuron 76:1071–1077.
+Padberg J, Franca JG, Cooke DF, Soares JG, Rosa MG, Fiorani M Jr, Gattass R,
+Krubitzer L (2007) Parallel evolution of cortical areas involved in skilled
+hand use. J Neurosci 27:10106 –10115.
+Park M, Belhaj-Saïf A, Gordon M, Cheney PD (2001) Consistent features in
+the forelimb representation of primary motor cortex in rhesus macaques.
+J Neurosci 21:2784 –2792.
+Quessy S, Coˆ te´ SL, Hamadjida A, Deffeyes J, Dancause N (2016) Modula￾tory effects of the ipsi and contralateral ventral premotor cortex (PMv) on
+the primary motor cortex (M1) outputs to intrinsic hand and forearm
+muscles in Cebus apella. Cereb Cortex 26:3905–3920.
+Rathelot JA, Dum RP, Strick PL (2017) Posterior parietal cortex contains a
+command apparatus for hand movements. Proc Natl Acad Sci U S A
+114:4255–4260.
+Rose´n I, Asanuma H (1972) Peripheral afferent inputs to the forelimb area
+of the monkey motor cortex: input– output relations. Exp Brain Res
+14:257–273.
+Schindelin J, Arganda-Carreras I, Frise E, Kaynig V, Longair M, Pietzsch T,
+Preibisch S, Rueden C, Saalfeld S, Schmid B, Tinevez JY, White DJ,
+Hartenstein V, Eliceiri K, Tomancak P, Cardona A (2012) Fiji: an open
+source platform for biological image analysis. Nat Methods 9:676 –682.
+Spagnoletti N, Visalberghi E, Ottoni E, Izar P, Fragaszy D (2011) Stone tool
+use by adult wild bearded capuchin monkeys (Cebus libidinosus): fre￾quency, efficiency and tool selectivity. J Hum Evol 61:97–107.
+Spinozzi G, Truppa V, Lagana` T (2004) Grasping behavior in tufted capu￾chin monkeys (Cebus apella): grip types and manual laterality for picking
+up a small food item. Am J Phys Anthropol 125:30 –41.
+Spinozzi G, Lagana` T, Truppa V (2007) Hand use by tufted capuchins (Ce￾bus apella) to extract a small food item from a tube: digit movements,
+hand preference, and performance. Am J Primatol 69:336 –352.
+Stepniewska I, Fang PC, Kaas JH (2005) Microstimulation reveals special￾ized subregions for different complex movements in posterior parietal
+cortex of prosimian galagos. Proc Natl Acad Sci U S A 102:4878 –4883.
+Stepniewska I, Fang PC, Kaas JH (2009) Organization of the posterior pari￾etal cortex in galagos: I. Functional zones identified by microstimulation.
+J Comp Neurol 517:765–782.
+Stepniewska I, Gharbawie OA, Burish MJ, Kaas JH (2014) Effects of musci￾mol inactivations of functional domains in motor, premotor, and poste￾rior parietal cortex on complex movements evoked by electrical
+stimulation. J Neurophysiol 111:1100 –1119.
+Visalberghi E, Fragaszy D, Ottoni E, Izar P, de Oliveira MG, Andrade FR
+(2007) Characteristics of hammer stones and anvils used by wild bearded
+capuchin monkeys (Cebus libidinosus) to crack open palm nuts. Am J Phys
+Anthropol 132:426 –444.
+Visalberghi E, Addessi E, Truppa V, Spagnoletti N, Ottoni E, Izar P, Fragaszy
+D (2009) Selection of effective stone tools by wild bearded capuchin
+monkeys. Curr Biol 19:213–217.
+Vogt C, Vogt O (1919) Allgemeine ergebnisse unserer hirnforschung. J Psy￾chol Neurol 25:279 –462.
+Waters RS, Samulack DD, Dykes RW, McKinley PA (1990) Topographic
+organization of baboon primary motor cortex: face, hand, forelimb, and
+shoulder representation. Somatosens Mot Res 7:485–514.
+Woolsey CN, Settlage PH, Meyer DR, Sencer W, Pinto Hamuy T, Travis AM
+(1952) Patterns of localization in precentral and “supplementary” motor
+areas and their relation to the concept of premotor area. Res Publ Assoc
+Res Nerv Ment Dis 30:238 –264.
+Mayer et al. • Movement Representations in Capuchins Cortex J. Neurosci., August 21, 2019 • 39(34):6684 – 6695 • 6695

@@ -1,0 +1,16 @@
+map_id,label,extent,vertices,source_render_pixels_per_pdf_point,source_visual_check,tracing_method,anatomical_certification
+fig02_case4,S1_lower_incisor,complete,705,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig02_case4,S1_upper_incisor,complete,349,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig02_case4,S1_buccal_cavity_tongue,complete,487,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig02_case4,S1_chin,complete,363,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig02_case4,S1_hindlimb,complete,262,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig02_case4,S1_forelimb,complete,372,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig02_case4,S1_trunk_tail,complete,413,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig02_case4,S1_vibrissae_head,complete,408,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig02_case4,S1,complete,1885,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig04A_rat,S1,complete,351,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig04A_rat,S2/PV,complete,176,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig04A_rat,V1,complete,217,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig04A_rat,A1,complete,172,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig04B_naked_mole_rat,S1,complete,425,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig04B_naked_mole_rat,S2/PV,complete,153,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending

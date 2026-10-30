@@ -1,0 +1,343 @@
+{
+  "overlap_method": "Each binary mask eroded by a 5x5 square (two pixels per side); report intersection before and after erosion. This is a geometry diagnostic, not uncertainty estimation.",
+  "overlaps": [
+    {
+      "map_id": "fig05A_case1",
+      "field_a": "PIP",
+      "field_b": "LIP_combined",
+      "overlap_pixels": 16,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig05A_case1",
+      "field_a": "PIP",
+      "field_b": "VIP",
+      "overlap_pixels": 5,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig05A_case1",
+      "field_a": "MT",
+      "field_b": "MST_combined",
+      "overlap_pixels": 31,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig05A_case1",
+      "field_a": "MT",
+      "field_b": "V4t",
+      "overlap_pixels": 118,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig05A_case1",
+      "field_a": "FST",
+      "field_b": "MST_combined",
+      "overlap_pixels": 18,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig05A_case1",
+      "field_a": "LIP_combined",
+      "field_b": "VIP",
+      "overlap_pixels": 27,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig05A_case1",
+      "field_a": "MST_combined",
+      "field_b": "V4t",
+      "overlap_pixels": 1,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig06A_case2",
+      "field_a": "PIP",
+      "field_b": "LIP_combined",
+      "overlap_pixels": 6,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig06A_case2",
+      "field_a": "MT",
+      "field_b": "MST_combined",
+      "overlap_pixels": 63,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig06A_case2",
+      "field_a": "MT",
+      "field_b": "V4t",
+      "overlap_pixels": 75,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig06A_case2",
+      "field_a": "FST",
+      "field_b": "MST_combined",
+      "overlap_pixels": 34,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig06A_case2",
+      "field_a": "FST",
+      "field_b": "V4t",
+      "overlap_pixels": 13,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig06A_case2",
+      "field_a": "LIP_combined",
+      "field_b": "VIP",
+      "overlap_pixels": 26,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig06A_case2",
+      "field_a": "MST_combined",
+      "field_b": "V4t",
+      "overlap_pixels": 12,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig07A_case3",
+      "field_a": "PIP",
+      "field_b": "LIP_combined",
+      "overlap_pixels": 11,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig07A_case3",
+      "field_a": "MT",
+      "field_b": "MST_combined",
+      "overlap_pixels": 25,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig07A_case3",
+      "field_a": "MT",
+      "field_b": "V4t",
+      "overlap_pixels": 121,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig07A_case3",
+      "field_a": "FST",
+      "field_b": "MST_combined",
+      "overlap_pixels": 11,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig07A_case3",
+      "field_a": "FST",
+      "field_b": "V4t",
+      "overlap_pixels": 19,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig07A_case3",
+      "field_a": "LIP_combined",
+      "field_b": "VIP",
+      "overlap_pixels": 9,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig07A_case3",
+      "field_a": "MST_combined",
+      "field_b": "V4t",
+      "overlap_pixels": 3,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig08A_case4",
+      "field_a": "PIP",
+      "field_b": "LIP_combined",
+      "overlap_pixels": 15,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig08A_case4",
+      "field_a": "PIP",
+      "field_b": "VIP",
+      "overlap_pixels": 2,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig08A_case4",
+      "field_a": "MT",
+      "field_b": "MST_combined",
+      "overlap_pixels": 70,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig08A_case4",
+      "field_a": "MT",
+      "field_b": "V4t",
+      "overlap_pixels": 81,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig08A_case4",
+      "field_a": "FST",
+      "field_b": "MST_combined",
+      "overlap_pixels": 28,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig08A_case4",
+      "field_a": "FST",
+      "field_b": "V4t",
+      "overlap_pixels": 7,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig08A_case4",
+      "field_a": "LIP_combined",
+      "field_b": "VIP",
+      "overlap_pixels": 10,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig08A_case4",
+      "field_a": "MST_combined",
+      "field_b": "V4t",
+      "overlap_pixels": 2,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig09A_case5",
+      "field_a": "PIP",
+      "field_b": "LIP_combined",
+      "overlap_pixels": 9,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig09A_case5",
+      "field_a": "PIP",
+      "field_b": "VIP",
+      "overlap_pixels": 1,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig09A_case5",
+      "field_a": "MT",
+      "field_b": "MST_combined",
+      "overlap_pixels": 54,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig09A_case5",
+      "field_a": "MT",
+      "field_b": "V4t",
+      "overlap_pixels": 59,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig09A_case5",
+      "field_a": "FST",
+      "field_b": "MST_combined",
+      "overlap_pixels": 22,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig09A_case5",
+      "field_a": "FST",
+      "field_b": "V4t",
+      "overlap_pixels": 17,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig09A_case5",
+      "field_a": "LIP_combined",
+      "field_b": "VIP",
+      "overlap_pixels": 30,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig10A_case6",
+      "field_a": "PIP",
+      "field_b": "VIP",
+      "overlap_pixels": 6,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig10A_case6",
+      "field_a": "MT",
+      "field_b": "MST_combined",
+      "overlap_pixels": 16,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig10A_case6",
+      "field_a": "MT",
+      "field_b": "V4t",
+      "overlap_pixels": 64,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig10A_case6",
+      "field_a": "FST",
+      "field_b": "MST_combined",
+      "overlap_pixels": 5,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig10A_case6",
+      "field_a": "FST",
+      "field_b": "V4t",
+      "overlap_pixels": 24,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig10A_case6",
+      "field_a": "LIP_combined",
+      "field_b": "VIP",
+      "overlap_pixels": 10,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    }
+  ],
+  "new_tracings_source_visually_inspected": true,
+  "anatomical_certification": false
+}

@@ -1,0 +1,82 @@
+{
+  "reconciled": [
+    {
+      "paper": "Rosa_etal_1993",
+      "map_id": "fig06A_case2",
+      "fields": [
+        "V1",
+        "V2"
+      ],
+      "overlap_pixels": 70,
+      "overlap_fraction_smaller": 0.0004914453407471373,
+      "max_overlap_radius_source_pixels": 1.0
+    },
+    {
+      "paper": "Rosa_etal_1993",
+      "map_id": "fig06A_case2",
+      "fields": [
+        "PO",
+        "PIP"
+      ],
+      "overlap_pixels": 4,
+      "overlap_fraction_smaller": 0.0005091649694501018,
+      "max_overlap_radius_source_pixels": 1.0
+    },
+    {
+      "paper": "Rosa_etal_1993",
+      "map_id": "fig06A_case2",
+      "fields": [
+        "MT",
+        "FST"
+      ],
+      "overlap_pixels": 25,
+      "overlap_fraction_smaller": 0.0024649970420035495,
+      "max_overlap_radius_source_pixels": 1.0
+    },
+    {
+      "paper": "Rosa_etal_1993",
+      "map_id": "fig07A_case3",
+      "fields": [
+        "V1",
+        "V2"
+      ],
+      "overlap_pixels": 281,
+      "overlap_fraction_smaller": 0.0015004832517234198,
+      "max_overlap_radius_source_pixels": 2.79998779296875
+    },
+    {
+      "paper": "Rosa_etal_1993",
+      "map_id": "fig07A_case3",
+      "fields": [
+        "PO",
+        "V2"
+      ],
+      "overlap_pixels": 436,
+      "overlap_fraction_smaller": 0.02967803417058063,
+      "max_overlap_radius_source_pixels": 5.393798828125
+    },
+    {
+      "paper": "Rosa_etal_1993",
+      "map_id": "fig07A_case3",
+      "fields": [
+        "PO",
+        "POm"
+      ],
+      "overlap_pixels": 19,
+      "overlap_fraction_smaller": 0.007350096711798839,
+      "max_overlap_radius_source_pixels": 1.0
+    },
+    {
+      "paper": "Rosa_etal_1993",
+      "map_id": "fig07A_case3",
+      "fields": [
+        "MT",
+        "FST"
+      ],
+      "overlap_pixels": 236,
+      "overlap_fraction_smaller": 0.01886038519939263,
+      "max_overlap_radius_source_pixels": 5.1968994140625
+    }
+  ],
+  "unresolved": []
+}

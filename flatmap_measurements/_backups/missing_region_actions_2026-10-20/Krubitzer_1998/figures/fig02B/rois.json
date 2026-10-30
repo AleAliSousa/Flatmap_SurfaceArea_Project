@@ -1,0 +1,40 @@
+{
+  "map_id": "fig02B",
+  "figure": 2,
+  "panel": "b",
+  "pdf_page": 3,
+  "printed_page": 1129,
+  "species": "echidna (source label; species not assigned)",
+  "specimen": "not reported",
+  "hemisphere": "not assigned",
+  "view_type": "redrawn_historical_map",
+  "hemisphere_relation": "not assigned",
+  "linked_main_map": null,
+  "repeat_of": null,
+  "specimen_link_status": "unresolved",
+  "relationship_note": "Repeated views do not represent additional animals. No cross-publication pooling; source labels preserved.",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 4,
+  "crop_xyxy": [
+    280,
+    928,
+    1100,
+    1800
+  ],
+  "supersample": 4,
+  "scale_length_mm": null,
+  "scale_endpoints_px": [],
+  "scale_note": "No recoverable physical calibration assigned; retain pixels only where geometry is defensible.",
+  "scale_reference_map": null,
+  "outline": null,
+  "rois": [],
+  "unmeasured": [
+    {
+      "label": "SI",
+      "status": "not_measurable",
+      "reason": "Historical map consists of body-part icons with an open cortical boundary. Icons are receptive-field drawings, not closed cortical regions; no hull is constructed."
+    }
+  ],
+  "review_note": "Dense tracing on 4 pixels/PDF point source rendering. Anatomical interpretation provisional; hide overlay in the precision review to inspect the printed stroke."
+}

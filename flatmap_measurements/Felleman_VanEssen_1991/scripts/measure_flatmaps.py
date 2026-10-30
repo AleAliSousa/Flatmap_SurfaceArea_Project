@@ -80,9 +80,13 @@ def resolve_imagej(java, ij_jar):
 
 def rebuild(root, java=None, ij_jar=None):
     manifest = json.loads((root/'source/manifest.json').read_text())
-    pdf_path = root/'source/paper.pdf'
-    if digest(pdf_path) != manifest['source_sha256']:
+    primary_pdf = root/'source'/manifest['source_pdf']
+    if digest(primary_pdf) != manifest['source_sha256']:
         raise ValueError('Source PDF checksum changed; inspect provenance before rebuilding')
+    # Saved crops and calibration belong to the original scan, not a replacement edition.
+    pdf_path = root/'source'/manifest.get('measurement_pdf', manifest['source_pdf'])
+    if digest(pdf_path) != manifest.get('measurement_sha256', manifest['source_sha256']):
+        raise ValueError('Measurement PDF checksum changed; inspect coordinate provenance')
     definitions = sorted((root/'figures').glob('*/rois.json'))
     if not definitions:
         raise ValueError('No saved rois.json definitions; inspect and digitize a view first')

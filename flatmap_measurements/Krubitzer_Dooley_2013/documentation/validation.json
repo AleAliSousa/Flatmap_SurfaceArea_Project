@@ -1,0 +1,37 @@
+{
+  "processed_views": 14,
+  "measured_fields": 135,
+  "unmeasured_fields": 14,
+  "overlaps": [
+    {
+      "map_id": "fig08A_enucleated_opossum",
+      "field_a": "A1",
+      "field_b": "multimodal_envelope_including_A1_area17_CT",
+      "overlap_pixels": 3813
+    },
+    {
+      "map_id": "fig08A_enucleated_opossum",
+      "field_a": "area17",
+      "field_b": "multimodal_envelope_including_A1_area17_CT",
+      "overlap_pixels": 1335
+    },
+    {
+      "map_id": "fig08A_enucleated_opossum",
+      "field_a": "multimodal_envelope_including_A1_area17_CT",
+      "field_b": "CT",
+      "overlap_pixels": 3465
+    }
+  ],
+  "native_imagej_roundtrip": "passed",
+  "anatomical_review": "provisional; pending user review",
+  "reference_comparison": "not_run; core workflow does not require reference data",
+  "geometry_overlap_audit": "passed; no undeclared interior overlaps; explicitly declared parent/subregion pairs are non-additive",
+  "not_yet_digitized_fields": 0,
+  "fully_digitized": true,
+  "all_numbered_figures_assessed": true,
+  "numbered_figures_assessed": 9,
+  "assessment_status": "eligible_views_digitized_provisional",
+  "whole_neocortex_summary": "unavailable; no independently established complete-neocortex view",
+  "source_visual_review": "completed; anatomical certification pending",
+  "pending_anatomical_review_fields": 0
+}

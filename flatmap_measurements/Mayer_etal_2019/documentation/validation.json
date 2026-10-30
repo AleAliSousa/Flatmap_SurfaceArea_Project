@@ -1,0 +1,433 @@
+{
+  "processed_views": 8,
+  "measured_fields": 51,
+  "unmeasured_fields": 25,
+  "overlaps": [
+    {
+      "map_id": "fig05A_case15_01",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_opposition_D1",
+      "overlap_pixels": 18464
+    },
+    {
+      "map_id": "fig05A_case15_01",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_flex_D1_D2",
+      "overlap_pixels": 2133
+    },
+    {
+      "map_id": "fig05A_case15_01",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_flex_all_digits",
+      "overlap_pixels": 937
+    },
+    {
+      "map_id": "fig05A_case15_01",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_flex_other_digits",
+      "overlap_pixels": 4536
+    },
+    {
+      "map_id": "fig05A_case15_01",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_extend_other_digits",
+      "overlap_pixels": 6928
+    },
+    {
+      "map_id": "fig05A_case15_01",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_extend_D1_D2",
+      "overlap_pixels": 2314
+    },
+    {
+      "map_id": "fig05A_case15_01",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_mixed_D1_D2",
+      "overlap_pixels": 1058
+    },
+    {
+      "map_id": "fig05A_case15_01",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_flex_other_toes",
+      "overlap_pixels": 1262
+    },
+    {
+      "map_id": "fig05A_case15_01",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_flex_T1_T2",
+      "overlap_pixels": 8275
+    },
+    {
+      "map_id": "fig05A_case15_01",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 36370
+    },
+    {
+      "map_id": "fig05A_case15_01",
+      "field_a": "M1_sampled_opposition_D1",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 18464
+    },
+    {
+      "map_id": "fig05A_case15_01",
+      "field_a": "M1_sampled_flex_D1_D2",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 2133
+    },
+    {
+      "map_id": "fig05A_case15_01",
+      "field_a": "M1_sampled_flex_all_digits",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 937
+    },
+    {
+      "map_id": "fig05A_case15_01",
+      "field_a": "M1_sampled_flex_other_digits",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 4536
+    },
+    {
+      "map_id": "fig05A_case15_01",
+      "field_a": "M1_sampled_extend_other_digits",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 6936
+    },
+    {
+      "map_id": "fig05A_case15_01",
+      "field_a": "M1_sampled_extend_D1_D2",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 2314
+    },
+    {
+      "map_id": "fig05A_case15_01",
+      "field_a": "M1_sampled_mixed_D1_D2",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 1059
+    },
+    {
+      "map_id": "fig05B_case15_03",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_opposition_D1",
+      "overlap_pixels": 4778
+    },
+    {
+      "map_id": "fig05B_case15_03",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_flex_D1_D2",
+      "overlap_pixels": 4126
+    },
+    {
+      "map_id": "fig05B_case15_03",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_flex_all_digits",
+      "overlap_pixels": 3509
+    },
+    {
+      "map_id": "fig05B_case15_03",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_flex_other_digits",
+      "overlap_pixels": 3284
+    },
+    {
+      "map_id": "fig05B_case15_03",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_extend_other_digits",
+      "overlap_pixels": 1969
+    },
+    {
+      "map_id": "fig05B_case15_03",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_mixed_D1_D2",
+      "overlap_pixels": 713
+    },
+    {
+      "map_id": "fig05B_case15_03",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_flex_all_toes",
+      "overlap_pixels": 15895
+    },
+    {
+      "map_id": "fig05B_case15_03",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_flex_other_toes",
+      "overlap_pixels": 5295
+    },
+    {
+      "map_id": "fig05B_case15_03",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_flex_T1_T2",
+      "overlap_pixels": 993
+    },
+    {
+      "map_id": "fig05B_case15_03",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_extend_toes",
+      "overlap_pixels": 1483
+    },
+    {
+      "map_id": "fig05B_case15_03",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 18653
+    },
+    {
+      "map_id": "fig05B_case15_03",
+      "field_a": "M1_sampled_opposition_D1",
+      "field_b": "M1_sampled_flex_D1_D2",
+      "overlap_pixels": 2
+    },
+    {
+      "map_id": "fig05B_case15_03",
+      "field_a": "M1_sampled_opposition_D1",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 4778
+    },
+    {
+      "map_id": "fig05B_case15_03",
+      "field_a": "M1_sampled_flex_D1_D2",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 4123
+    },
+    {
+      "map_id": "fig05B_case15_03",
+      "field_a": "M1_sampled_flex_all_digits",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 3509
+    },
+    {
+      "map_id": "fig05B_case15_03",
+      "field_a": "M1_sampled_flex_other_digits",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 3262
+    },
+    {
+      "map_id": "fig05B_case15_03",
+      "field_a": "M1_sampled_extend_other_digits",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 1964
+    },
+    {
+      "map_id": "fig05B_case15_03",
+      "field_a": "M1_sampled_mixed_D1_D2",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 708
+    },
+    {
+      "map_id": "fig05C_case15_04",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_opposition_D1",
+      "overlap_pixels": 2636
+    },
+    {
+      "map_id": "fig05C_case15_04",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_flex_D1_D2",
+      "overlap_pixels": 1474
+    },
+    {
+      "map_id": "fig05C_case15_04",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_flex_all_digits",
+      "overlap_pixels": 2822
+    },
+    {
+      "map_id": "fig05C_case15_04",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_flex_other_digits",
+      "overlap_pixels": 2545
+    },
+    {
+      "map_id": "fig05C_case15_04",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_extend_other_digits",
+      "overlap_pixels": 1499
+    },
+    {
+      "map_id": "fig05C_case15_04",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_extend_D1_D2",
+      "overlap_pixels": 4259
+    },
+    {
+      "map_id": "fig05C_case15_04",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_mixed_D1_D2",
+      "overlap_pixels": 1715
+    },
+    {
+      "map_id": "fig05C_case15_04",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_flex_all_toes",
+      "overlap_pixels": 4461
+    },
+    {
+      "map_id": "fig05C_case15_04",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_flex_other_toes",
+      "overlap_pixels": 4492
+    },
+    {
+      "map_id": "fig05C_case15_04",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_flex_T1_T2",
+      "overlap_pixels": 2020
+    },
+    {
+      "map_id": "fig05C_case15_04",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_extend_toes",
+      "overlap_pixels": 5483
+    },
+    {
+      "map_id": "fig05C_case15_04",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 17042
+    },
+    {
+      "map_id": "fig05C_case15_04",
+      "field_a": "M1_sampled_opposition_D1",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 2630
+    },
+    {
+      "map_id": "fig05C_case15_04",
+      "field_a": "M1_sampled_flex_D1_D2",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 1474
+    },
+    {
+      "map_id": "fig05C_case15_04",
+      "field_a": "M1_sampled_flex_all_digits",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 2818
+    },
+    {
+      "map_id": "fig05C_case15_04",
+      "field_a": "M1_sampled_flex_other_digits",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 2545
+    },
+    {
+      "map_id": "fig05C_case15_04",
+      "field_a": "M1_sampled_extend_other_digits",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 1498
+    },
+    {
+      "map_id": "fig05C_case15_04",
+      "field_a": "M1_sampled_extend_D1_D2",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 4260
+    },
+    {
+      "map_id": "fig05C_case15_04",
+      "field_a": "M1_sampled_mixed_D1_D2",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 1704
+    },
+    {
+      "map_id": "fig05D_case15_02",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_opposition_D1",
+      "overlap_pixels": 2115
+    },
+    {
+      "map_id": "fig05D_case15_02",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_flex_all_digits",
+      "overlap_pixels": 3694
+    },
+    {
+      "map_id": "fig05D_case15_02",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_flex_other_digits",
+      "overlap_pixels": 13873
+    },
+    {
+      "map_id": "fig05D_case15_02",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_extend_other_digits",
+      "overlap_pixels": 12735
+    },
+    {
+      "map_id": "fig05D_case15_02",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_extend_D1_D2",
+      "overlap_pixels": 2970
+    },
+    {
+      "map_id": "fig05D_case15_02",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_flex_all_toes",
+      "overlap_pixels": 1478
+    },
+    {
+      "map_id": "fig05D_case15_02",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_flex_other_toes",
+      "overlap_pixels": 960
+    },
+    {
+      "map_id": "fig05D_case15_02",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_flex_T1_T2",
+      "overlap_pixels": 1850
+    },
+    {
+      "map_id": "fig05D_case15_02",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_extend_toes",
+      "overlap_pixels": 3083
+    },
+    {
+      "map_id": "fig05D_case15_02",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 35572
+    },
+    {
+      "map_id": "fig05D_case15_02",
+      "field_a": "M1_sampled_opposition_D1",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 2115
+    },
+    {
+      "map_id": "fig05D_case15_02",
+      "field_a": "M1_sampled_flex_all_digits",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 3694
+    },
+    {
+      "map_id": "fig05D_case15_02",
+      "field_a": "M1_sampled_flex_other_digits",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 13816
+    },
+    {
+      "map_id": "fig05D_case15_02",
+      "field_a": "M1_sampled_extend_other_digits",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 12703
+    },
+    {
+      "map_id": "fig05D_case15_02",
+      "field_a": "M1_sampled_extend_D1_D2",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 2970
+    }
+  ],
+  "native_imagej_roundtrip": "passed",
+  "anatomical_review": "provisional; pending user review",
+  "reference_comparison": "not_run; core workflow does not require reference data",
+  "geometry_overlap_audit": "passed; no undeclared interior overlaps; explicitly declared parent/subregion pairs are non-additive",
+  "not_yet_digitized_fields": 0,
+  "pending_anatomical_review_fields": 0,
+  "fully_digitized": true,
+  "all_numbered_figures_assessed": true,
+  "numbered_figures_assessed": 10,
+  "assessment_status": "eligible_views_digitized_provisional",
+  "whole_neocortex_summary": "unavailable; no independently established complete-neocortex view",
+  "source_visual_review": "completed; anatomical certification pending"
+}

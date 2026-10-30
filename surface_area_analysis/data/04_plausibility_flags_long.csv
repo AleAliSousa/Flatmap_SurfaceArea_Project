@@ -34,6 +34,12 @@ Krubitzer_Kaas_1993,Callithrix jacchus,89-78,MT,MT,16.0283203125,flag_borderline
 Krubitzer_Kaas_1993,Callithrix jacchus,89-78,PV,PV,5.6689453125,flag_outlier_species_region
 Krubitzer_Kaas_1993,Callithrix jacchus,89-78,R,R,2.364583333333333,flag_insufficient_comparison
 Krubitzer_Kaas_1993,Callithrix jacchus,89-78,SII,S2,5.128255208333333,flag_borderline_species_region
+Rosa_etal_1993,Cebus apella (source taxonomy),case 1,V1,V1 (area 17),787.7541057003505,flag_no_denominator
+Rosa_etal_1993,Cebus apella (source taxonomy),case 2,V1,V1 (area 17),742.911376953125,flag_no_denominator
+Rosa_etal_1993,Cebus apella (source taxonomy),case 3,V1,V1 (area 17),826.5204394327833,flag_no_denominator
+Rosa_etal_1993,Cebus apella (source taxonomy),case 4,V1,V1 (area 17),911.157829378858,flag_no_denominator
+Rosa_etal_1993,Cebus apella (source taxonomy),case 5,V1,V1 (area 17),794.511596699247,flag_no_denominator
+Rosa_etal_1993,Cebus apella (source taxonomy),case 6,V1,V1 (area 17),693.1613901695418,flag_no_denominator
 Preuss_Kaas_1996,Cheirogaleus medius,single adult female,Aud (auditory complex),Aud (auditory complex),9.856610516107269,flag_insufficient_comparison
 Preuss_Kaas_1996,Cheirogaleus medius,single adult female,Aud (auditory complex),Aud (auditory complex),9.856610516107269,flag_no_denominator
 Preuss_Kaas_1996,Cheirogaleus medius,single adult female,V1,V1 (area 17),60.8739221411705,flag_insufficient_comparison
@@ -147,6 +153,24 @@ Krubitzer_Kaas_1990,Galago senegalensis,88-5,FV,FV,3.168681520113724,flag_insuff
 Krubitzer_Kaas_1990,Galago senegalensis,88-5,M,M,12.996432737597788,flag_insufficient_comparison
 Krubitzer_Kaas_1993,Galago senegalensis,89-11,SII,S2,8.900902777777778,flag_outlier_species_region
 Krubitzer_Kaas_1993,Galago senegalensis,89-11,VPP,VPP,5.4347916666666665,flag_insufficient_comparison
+Catania_Remple_2002,Heterocephalus glaber,case 4,S1,S1 / 3b,11.58445601851852,flag_insufficient_comparison
+Catania_Remple_2002,Heterocephalus glaber,case 4,S1,S1 / 3b,11.58445601851852,flag_no_denominator
+Catania_Remple_2002,Heterocephalus glaber,case 4,S1_buccal_cavity_tongue,S1_buccal_cavity_tongue,1.109891975308642,flag_insufficient_comparison
+Catania_Remple_2002,Heterocephalus glaber,case 4,S1_buccal_cavity_tongue,S1_buccal_cavity_tongue,1.109891975308642,flag_no_denominator
+Catania_Remple_2002,Heterocephalus glaber,case 4,S1_chin,S1_chin,0.677920524691358,flag_insufficient_comparison
+Catania_Remple_2002,Heterocephalus glaber,case 4,S1_chin,S1_chin,0.677920524691358,flag_no_denominator
+Catania_Remple_2002,Heterocephalus glaber,case 4,S1_forelimb,S1_forelimb,1.2206153549382717,flag_insufficient_comparison
+Catania_Remple_2002,Heterocephalus glaber,case 4,S1_forelimb,S1_forelimb,1.2206153549382717,flag_no_denominator
+Catania_Remple_2002,Heterocephalus glaber,case 4,S1_hindlimb,S1_hindlimb,0.8711766975308642,flag_insufficient_comparison
+Catania_Remple_2002,Heterocephalus glaber,case 4,S1_hindlimb,S1_hindlimb,0.8711766975308642,flag_no_denominator
+Catania_Remple_2002,Heterocephalus glaber,case 4,S1_lower_incisor,S1_lower_incisor,2.146359953703704,flag_insufficient_comparison
+Catania_Remple_2002,Heterocephalus glaber,case 4,S1_lower_incisor,S1_lower_incisor,2.146359953703704,flag_no_denominator
+Catania_Remple_2002,Heterocephalus glaber,case 4,S1_trunk_tail,S1_trunk_tail,1.9823167438271605,flag_insufficient_comparison
+Catania_Remple_2002,Heterocephalus glaber,case 4,S1_trunk_tail,S1_trunk_tail,1.9823167438271605,flag_no_denominator
+Catania_Remple_2002,Heterocephalus glaber,case 4,S1_upper_incisor,S1_upper_incisor,1.4235127314814815,flag_insufficient_comparison
+Catania_Remple_2002,Heterocephalus glaber,case 4,S1_upper_incisor,S1_upper_incisor,1.4235127314814815,flag_no_denominator
+Catania_Remple_2002,Heterocephalus glaber,case 4,S1_vibrissae_head,S1_vibrissae_head,1.868371913580247,flag_insufficient_comparison
+Catania_Remple_2002,Heterocephalus glaber,case 4,S1_vibrissae_head,S1_vibrissae_head,1.868371913580247,flag_no_denominator
 Krubitzer_Kaas_1993,Macaca fascicularis,92-7,DM,DM,68.53235873850197,flag_insufficient_comparison
 Krubitzer_Kaas_1993,Macaca fascicularis,92-7,DM,DM,68.53235873850197,flag_no_denominator
 Krubitzer_Kaas_1993,Macaca fascicularis,92-7,MT,MT,49.04057161629435,flag_insufficient_comparison
@@ -261,6 +285,8 @@ Luethke_etal_1988,Sciurus carolinensis,85-15,M,M,16.431538461538462,flag_no_deno
 Luethke_etal_1988,Sciurus carolinensis,85-15,R,R,2.170340236686391,flag_no_denominator
 Luethke_etal_1988,Sciurus carolinensis,85-15,S-II,S2,3.579985207100592,flag_insufficient_comparison
 Luethke_etal_1988,Sciurus carolinensis,85-15,S-II,S2,3.579985207100592,flag_no_denominator
+Luethke_etal_1988,Sciurus carolinensis,85-15,TAi,TAi,3.4359023668639055,flag_insufficient_comparison
+Luethke_etal_1988,Sciurus carolinensis,85-15,TAi,TAi,3.4359023668639055,flag_no_denominator
 Luethke_etal_1988,Sciurus carolinensis,85-15,TArv + TAcv,TArv + TAcv,5.045059171597634,flag_insufficient_comparison
 Luethke_etal_1988,Sciurus carolinensis,85-15,TArv + TAcv,TArv + TAcv,5.045059171597634,flag_no_denominator
 Luethke_etal_1988,Sciurus carolinensis,85-15,TP,TP,14.942396449704145,flag_insufficient_comparison

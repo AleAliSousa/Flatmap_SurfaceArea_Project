@@ -1,0 +1,6 @@
+figure,pdf_page,panel,specimen,interpretation,processing_status,reason_or_result,linked_main_map
+1,2,all,,source_figure_assessment,assessed_excluded,"External animal anatomy photographs, not cortical surfaces.",
+2,3,all,,source_figure_assessment,digitized_provisional,"1 measured view(s), 9 field/component observations; 0 boundaries remain NA for anatomical review. Illustrative, partial, repeated and unscaled restrictions apply.",fig02_case4
+3,4,all,,source_figure_assessment,assessed_excluded,Animal drawing and pie chart; not cortical-field geometry.,
+4,5,all,,source_figure_assessment,digitized_provisional,"2 measured view(s), 6 field/component observations; 0 boundaries remain NA for anatomical review. Illustrative, partial, repeated and unscaled restrictions apply. Panels A/B are measured. C is a flattened-section photograph with lesion markers but no independently closed field perimeter.",fig04A_rat;fig04B_naked_mole_rat
+5,5,all,,source_figure_assessment,assessed_excluded,Bar chart of reported area proportions; no independently traceable field geometry.,

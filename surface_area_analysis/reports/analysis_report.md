@@ -1,27 +1,27 @@
 # Flatmap surface-area analysis report
 
-Generated 2026-10-17 08:08 from `flatmap_measurements/*/data/measurements.csv`.
+Generated 2026-10-21 01:13 from `flatmap_measurements/*/data/measurements.csv`.
 
 ## Input coverage
 
-- 21 paper folders read (19 with measurement rows); 2296 measurement rows; 970 rows with calibrated area (mm2); 43 species.
+- 31 paper folders read (28 with measurement rows); 3038 measurement rows; 1387 rows with calibrated area (mm2); 54 species.
 
 ## Row-level usability tiers (data/02_flag_counts.csv)
 
 | usability_tier | n |
 |---|---|
-| A_field_complete_identified |  423 |
+| A_field_complete_identified |  440 |
 | A_outline_complete_identified |   19 |
 | B_complete_unidentified_specimen |   11 |
-| C_incomplete_or_section |  240 |
-| D_not_a_specimen_view |  277 |
-| X_no_calibrated_area | 1326 |
+| C_incomplete_or_section |  348 |
+| D_not_a_specimen_view |  569 |
+| X_no_calibrated_area | 1651 |
 
 Only tier `A_*` rows enter per-specimen averages. `C_incomplete_or_section` rows are partial extents, approximate borders, single sections/zooms, insets or component labels: they do not give the full surface area of the region. `D_not_a_specimen_view` rows are illustrative, composite or schematic drawings. `B_*` rows are complete but cannot be attributed to an identified animal.
 
 ## Per-specimen averages (data/03_specimen_region_means.csv)
 
-- 494 specimen x region combinations; 87 measured in more than one view; 42 averaged over >1 usable view; 6 where usable views disagree by CV > 0.25.
+- 618 specimen x region combinations; 88 measured in more than one view; 42 averaged over >1 usable view; 6 where usable views disagree by CV > 0.25.
 
 ### Specimens whose repeated views disagree
 
@@ -39,9 +39,9 @@ Only tier `A_*` rows enter per-specimen averages. `C_incomplete_or_section` rows
 | plausibility | n |
 |---|---|
 | FLAG: implausible for species/region |  24 |
-| no usable value | 105 |
-| plausible | 151 |
-| usable with caution | 214 |
+| no usable value | 212 |
+| plausible | 152 |
+| usable with caution | 230 |
 
 ### Specimens whose regions deviate together (suspected scale/calibration offset)
 
@@ -86,9 +86,9 @@ Checks: robust z on log10 area within species x region_group (>= 3 specimens; al
 | species | label | n_specimens | n_papers | mean_mm2 | sd_mm2 | min_mm2 | max_mm2 | n_flagged_excluded |
 |---|---|---|---|---|---|---|---|---|
 | Aotus trivirgatus | DM | 6 | 2 |  23.820 |  |  23.820 |  23.820 | 1 |
+| Aotus trivirgatus | 17 | 5 | 2 | 219.000 |  | 219.000 | 219.000 | 0 |
 | Aotus trivirgatus | FST | 5 | 2 |  26.010 |  |  26.010 |  26.010 | 0 |
 | Aotus trivirgatus | MT | 5 | 2 |  29.150 |  |  29.150 |  29.150 | 0 |
-| Aotus trivirgatus | 17 | 4 | 2 | 229.800 |  | 229.800 | 229.800 | 0 |
 | Aotus trivirgatus | FEF | 3 | 2 |   5.469 |  |   5.469 |   5.469 | 0 |
 | Aotus trivirgatus | FV | 3 | 2 |   6.054 |  |   6.054 |   6.054 | 0 |
 | Aotus trivirgatus | MST | 3 | 2 |  24.930 |  |  24.930 |  24.930 | 0 |
@@ -114,6 +114,7 @@ Checks: robust z on log10 area within species x region_group (>= 3 specimens; al
 | Callithrix jacchus | DL | 2 | 1 |  24.580 |  |  24.580 |  24.580 | 0 |
 | Callithrix jacchus | MST | 2 | 1 |  10.340 |  |  10.340 |  10.340 | 0 |
 | Callithrix jacchus | PV | 2 | 1 |   2.422 |  |   2.422 |   2.422 | 1 |
+| Cebus apella (source taxonomy) | V1 | 6 | 1 | 792.700 |  | 792.700 | 792.700 | 0 |
 | Dasyurus hallucatus | C | 2 | 1 |   2.896 |  |   2.896 |   2.896 | 0 |
 | Dasyurus hallucatus | SII/PV | 2 | 1 |   3.055 |  |   3.055 |   3.055 | 0 |
 | Didelphis virginiana | PV | 9 | 1 |   9.640 |  |   9.640 |   9.640 | 0 |
@@ -175,6 +176,7 @@ Checks: robust z on log10 area within species x region_group (>= 3 specimens; al
 | Sciurus carolinensis | A-I | 2 | 1 |   3.930 |  |   3.930 |   3.930 | 0 |
 | Sciurus carolinensis | M | 2 | 1 |  27.070 |  |  27.070 |  27.070 | 0 |
 | Sciurus carolinensis | S-II | 2 | 1 |   4.896 |  |   4.896 |   4.896 | 0 |
+| Sciurus carolinensis | TAi | 2 | 1 |   3.299 |  |   3.299 |   3.299 | 0 |
 | Sciurus carolinensis | TArv + TAcv | 2 | 1 |   5.739 |  |   5.739 |   5.739 | 0 |
 | Sciurus carolinensis | TP | 2 | 1 |  22.920 |  |  22.920 |  22.920 | 0 |
 | Sciurus carolinensis | UZ | 2 | 1 |   1.857 |  |   1.857 |   1.857 | 0 |
@@ -188,11 +190,13 @@ Checks: robust z on log10 area within species x region_group (>= 3 specimens; al
 
 - figures/species_region_dotplot_Aotus_trivirgatus.png
 - figures/species_region_dotplot_Callithrix_jacchus.png
+- figures/species_region_dotplot_Cebus_apella_source_taxonomy_.png
 - figures/species_region_dotplot_Dactylopsila_trivirgata.png
 - figures/species_region_dotplot_Dasyurus_hallucatus.png
 - figures/species_region_dotplot_Didelphis_virginiana.png
 - figures/species_region_dotplot_Echinops_telfairi.png
 - figures/species_region_dotplot_Galago_senegalensis.png
+- figures/species_region_dotplot_Heterocephalus_glaber.png
 - figures/species_region_dotplot_Miopithecus_talapoin.png
 - figures/species_region_dotplot_Monodelphis_domestica.png
 - figures/species_region_dotplot_Pteropus_poliocephalus.png

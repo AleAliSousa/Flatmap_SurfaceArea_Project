@@ -1,0 +1,56 @@
+{
+  "map_id": "fig09_local",
+  "figure": 9,
+  "panel": null,
+  "pdf_page": 15,
+  "printed_page": 275,
+  "species": "Ornithorhynchus anatinus",
+  "specimen": "P5",
+  "hemisphere": "not assigned",
+  "view_type": "local_physiological_map",
+  "hemisphere_relation": "not assigned",
+  "linked_main_map": "fig08",
+  "repeat_of": "fig08",
+  "specimen_link_status": "caption_identified",
+  "relationship_note": "Repeated views do not represent additional animals. No cross-publication pooling; source labels preserved.",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 4,
+  "crop_xyxy": [
+    0,
+    0,
+    3312,
+    2448
+  ],
+  "supersample": 4,
+  "scale_length_mm": null,
+  "scale_endpoints_px": [],
+  "scale_note": "Own printed scale stroke after lossless270-degree counterclockwise page rotation; no stretching or borrowed figure calibration.",
+  "scale_reference_map": null,
+  "outline": null,
+  "rois": [],
+  "unmeasured": [
+    {
+      "label": "SI",
+      "status": "not_measurable",
+      "reason": "Local recording/body-part envelopes are not closed total-field boundaries. These panels are retained as source evidence and linked to the reconstruction; individual body parts and cortical drawing edges are not substituted for field totals."
+    },
+    {
+      "label": "PV",
+      "status": "not_measurable",
+      "reason": "Local recording/body-part envelopes are not closed total-field boundaries. These panels are retained as source evidence and linked to the reconstruction; individual body parts and cortical drawing edges are not substituted for field totals."
+    },
+    {
+      "label": "R",
+      "status": "not_measurable",
+      "reason": "Local recording/body-part envelopes are not closed total-field boundaries. These panels are retained as source evidence and linked to the reconstruction; individual body parts and cortical drawing edges are not substituted for field totals."
+    },
+    {
+      "label": "other contextual fields",
+      "status": "not_measurable",
+      "reason": "Local recording/body-part envelopes are not closed total-field boundaries. These panels are retained as source evidence and linked to the reconstruction; individual body parts and cortical drawing edges are not substituted for field totals."
+    }
+  ],
+  "review_note": "Dense tracing on 4 pixels/PDF point source rendering. Anatomical interpretation provisional; hide overlay in the precision review to inspect the printed stroke.",
+  "source_rotation_degrees": 270
+}

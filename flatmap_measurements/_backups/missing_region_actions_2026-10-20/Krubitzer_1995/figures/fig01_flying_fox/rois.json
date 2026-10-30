@@ -1,0 +1,183 @@
+{
+  "map_id": "fig01_flying_fox",
+  "figure": 1,
+  "pdf_page": 3,
+  "printed_page": 410,
+  "species": "Pteropus poliocephalus",
+  "specimen": "illustrative summary",
+  "hemisphere": "not reported",
+  "hemisphere_relation": "not assigned",
+  "view_type": "illustrative_summary_flatmap",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "outline": null,
+  "supersample": 4,
+  "render_scale": 4,
+  "relationship_note": "Repeated views retain the same specimen identity and are excluded from extra animal counts.",
+  "specimen_link_status": "caption identified",
+  "panel": null,
+  "crop_xyxy": [
+    950,
+    1220,
+    1570,
+    1820
+  ],
+  "rois": [
+    {
+      "label": "MT",
+      "polygons": [
+        [
+          [
+            170.4523049952741,
+            315.74946131756434
+          ],
+          [
+            177.56063181527358,
+            305.4292929358267
+          ],
+          [
+            180.16916989273687,
+            302.6638359760475
+          ],
+          [
+            181.86915583161905,
+            301.96412699578684
+          ],
+          [
+            183.78519918321874,
+            301.6373397327168
+          ],
+          [
+            196.7055345298368,
+            300.35474097999867
+          ],
+          [
+            199.590130041099,
+            300.4596855684522
+          ],
+          [
+            202.22942221606593,
+            301.5492393929343
+          ],
+          [
+            215.53866709375808,
+            310.3871048299414
+          ],
+          [
+            218.46285559734036,
+            313.00141371088984
+          ],
+          [
+            231.87460470555743,
+            334.0490885365317
+          ],
+          [
+            240.83101794704078,
+            355.22028086562295
+          ],
+          [
+            242.3597310502159,
+            359.9559704668495
+          ],
+          [
+            245.3034411107211,
+            374.64969206104865
+          ],
+          [
+            245.44228116735178,
+            377.49495400355414
+          ],
+          [
+            244.88493632104684,
+            379.25230316599936
+          ],
+          [
+            243.89130001882552,
+            380.91600904756524
+          ],
+          [
+            236.83824504924834,
+            390.4901368641893
+          ],
+          [
+            235.35385166475325,
+            391.49205813475163
+          ],
+          [
+            232.5999218563462,
+            391.9702191039761
+          ],
+          [
+            221.61818633042824,
+            391.9875515007099
+          ],
+          [
+            217.72176679710566,
+            391.54877760272325
+          ],
+          [
+            214.97644919085738,
+            390.4699256701186
+          ],
+          [
+            200.67819620416182,
+            383.31146157398416
+          ],
+          [
+            198.2212113948899,
+            381.7026864143411
+          ],
+          [
+            196.85592247003268,
+            380.30825696517803
+          ],
+          [
+            182.20480614001625,
+            360.08410814215637
+          ],
+          [
+            170.96801451274172,
+            337.7831669326308
+          ],
+          [
+            170.35114475375892,
+            335.9287901290147
+          ],
+          [
+            170.02344544556001,
+            333.00614944192927
+          ],
+          [
+            170.02977335380834,
+            318.12286355836517
+          ]
+        ]
+      ],
+      "extent": "complete",
+      "boundary_note": "Named closed comparative source compartment. Short intervals covered by large lettering are interpolated along the continuing outer anatomical curve; glyph outlines and label holes are not field boundaries. Reduced illustrative source, not an additional animal.",
+      "tracing_method": "Manually positioned source-envelope vertices with sub-stroke interpolation at occluding text"
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "saturated primary-field totals",
+      "status": "not_measurable",
+      "reason": "Merged black fills do not resolve separate complete field envelopes."
+    }
+  ],
+  "repeat_of": "illustrative_summary",
+  "linked_main_map": "illustrative_summary",
+  "scale_endpoints_px": [
+    [
+      494,
+      480
+    ],
+    [
+      524,
+      480
+    ]
+  ],
+  "scale_length_mm": 1,
+  "scale_note": "Own local printed scale stroke, endpoints reviewed on the source.",
+  "review_note": "Reassessed from the full source page; cortical inset crop and each field perimeter reviewed separately."
+}

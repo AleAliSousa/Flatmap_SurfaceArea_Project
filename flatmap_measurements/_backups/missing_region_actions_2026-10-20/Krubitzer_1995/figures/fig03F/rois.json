@@ -1,0 +1,50 @@
+{
+  "map_id": "fig03F",
+  "figure": 3,
+  "panel": "F",
+  "pdf_page": 5,
+  "printed_page": 412,
+  "species": "striped possum (source label)",
+  "specimen": "not reported",
+  "hemisphere": "not assigned",
+  "view_type": "review_histological_panel",
+  "hemisphere_relation": "not assigned",
+  "linked_main_map": null,
+  "repeat_of": null,
+  "specimen_link_status": "unresolved",
+  "relationship_note": "Repeated views do not represent additional animals. No cross-publication pooling; source labels preserved.",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 4,
+  "crop_xyxy": [
+    870,
+    1322,
+    1614,
+    1876
+  ],
+  "supersample": 4,
+  "scale_length_mm": null,
+  "scale_endpoints_px": [],
+  "scale_note": "Caption states 1 mm bars. No absolute area is assigned because the available scan lacks defensible complete field contours; no endpoint is guessed in saturated/cropped regions.",
+  "scale_reference_map": null,
+  "outline": null,
+  "rois": [],
+  "unmeasured": [
+    {
+      "label": "VI",
+      "status": "not_measurable",
+      "reason": "Myelin/CO photo is strongly saturated in this available scan. Field labels, stain transitions and internal light gaps do not establish reproducible complete field envelopes; no thresholded dark blob or panel rectangle is substituted for cortex or field area."
+    },
+    {
+      "label": "SI",
+      "status": "not_measurable",
+      "reason": "Myelin/CO photo is strongly saturated in this available scan. Field labels, stain transitions and internal light gaps do not establish reproducible complete field envelopes; no thresholded dark blob or panel rectangle is substituted for cortex or field area."
+    },
+    {
+      "label": "AI",
+      "status": "not_measurable",
+      "reason": "Myelin/CO photo is strongly saturated in this available scan. Field labels, stain transitions and internal light gaps do not establish reproducible complete field envelopes; no thresholded dark blob or panel rectangle is substituted for cortex or field area."
+    }
+  ],
+  "review_note": "Dense tracing on 4 pixels/PDF point source rendering. Anatomical interpretation provisional; hide overlay in the precision review to inspect the printed stroke."
+}

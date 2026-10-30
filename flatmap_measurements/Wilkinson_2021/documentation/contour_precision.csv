@@ -1,0 +1,8 @@
+map_id,label,extent,vertices,source_render_pixels_per_pdf_point,source_visual_check,tracing_method,anatomical_certification
+fig04_human,V1,complete,473,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig04_human,V2/V3,complete,455,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig04_human,V3A,complete,73,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig04_human,MT/MST,complete,75,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig04_human,S1_areas2_1_3b_3a,complete,345,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig04_human,M1,approximate,473,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig04_human,SII,complete,47,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending

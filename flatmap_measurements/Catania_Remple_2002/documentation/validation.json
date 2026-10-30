@@ -1,0 +1,67 @@
+{
+  "processed_views": 3,
+  "measured_fields": 15,
+  "unmeasured_fields": 2,
+  "overlaps": [
+    {
+      "map_id": "fig02_case4",
+      "field_a": "S1_lower_incisor",
+      "field_b": "S1",
+      "overlap_pixels": 69585
+    },
+    {
+      "map_id": "fig02_case4",
+      "field_a": "S1_upper_incisor",
+      "field_b": "S1",
+      "overlap_pixels": 46217
+    },
+    {
+      "map_id": "fig02_case4",
+      "field_a": "S1_buccal_cavity_tongue",
+      "field_b": "S1",
+      "overlap_pixels": 36075
+    },
+    {
+      "map_id": "fig02_case4",
+      "field_a": "S1_chin",
+      "field_b": "S1",
+      "overlap_pixels": 22022
+    },
+    {
+      "map_id": "fig02_case4",
+      "field_a": "S1_hindlimb",
+      "field_b": "S1",
+      "overlap_pixels": 28265
+    },
+    {
+      "map_id": "fig02_case4",
+      "field_a": "S1_forelimb",
+      "field_b": "S1",
+      "overlap_pixels": 39593
+    },
+    {
+      "map_id": "fig02_case4",
+      "field_a": "S1_trunk_tail",
+      "field_b": "S1",
+      "overlap_pixels": 64272
+    },
+    {
+      "map_id": "fig02_case4",
+      "field_a": "S1_vibrissae_head",
+      "field_b": "S1",
+      "overlap_pixels": 60635
+    }
+  ],
+  "native_imagej_roundtrip": "passed",
+  "anatomical_review": "provisional; pending user review",
+  "reference_comparison": "not_run; core workflow does not require reference data",
+  "geometry_overlap_audit": "passed; no undeclared interior overlaps; explicitly declared parent/subregion pairs are non-additive",
+  "not_yet_digitized_fields": 0,
+  "fully_digitized": true,
+  "all_numbered_figures_assessed": true,
+  "numbered_figures_assessed": 5,
+  "assessment_status": "eligible_views_digitized_provisional",
+  "whole_neocortex_summary": "unavailable; no independently established complete-neocortex view",
+  "source_visual_review": "completed; anatomical certification pending",
+  "pending_anatomical_review_fields": 0
+}

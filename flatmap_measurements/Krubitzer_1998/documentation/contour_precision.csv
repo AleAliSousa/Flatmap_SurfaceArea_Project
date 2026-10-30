@@ -60,3 +60,7 @@ fig14F_summary,VI ventral,complete,48,4,enlarged perimeter reviewed; short symbo
 fig14F_summary,MT,complete,32,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source compartment, relative-contrast perimeter extraction and sub-stroke pixel regularization",pending
 fig14F_summary,AI,complete,36,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source compartment, relative-contrast perimeter extraction and sub-stroke pixel regularization",pending
 fig14F_summary,FV,complete,23,4,enlarged perimeter reviewed; short symbol continuations documented,Source tone compartment with source-stroke envelope refinement,pending
+fig14F_summary,FEF,complete,74,4,enlarged perimeter reviewed; short symbol continuations documented,manually inspected anatomical guides with dense interpolating curve,pending
+fig14F_summary,R,complete,58,4,enlarged perimeter reviewed; short symbol continuations documented,manually inspected anatomical guides with dense interpolating curve,pending
+fig14F_summary,M,complete,393,4,enlarged perimeter reviewed; short symbol continuations documented,manually bounded source-edge fitting; local smooth normal offsets,pending
+fig14F_summary,FST,complete,180,4,enlarged perimeter reviewed; short symbol continuations documented,manually inspected anatomical guides with dense interpolating curve,pending

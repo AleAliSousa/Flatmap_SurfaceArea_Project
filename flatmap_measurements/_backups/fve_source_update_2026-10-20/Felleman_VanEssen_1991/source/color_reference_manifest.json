@@ -1,0 +1,12 @@
+{
+  "source_file": "color_reference.pdf",
+  "sha256": "daa0ee6465f13a40ad8371d08ff1f169d7f1214cdcf13e25165e6041cb725f5b",
+  "source_url": "https://www.hms.harvard.edu/bss/neuro/bornlab/lab/figures/FVE_map.html",
+  "accessed": "2026-10-20",
+  "attribution": "Felleman, D. J. and Van Essen, D. C. (1991) Cerebral Cortex 1:1\u201347.",
+  "use": "Color aid for field identity and merged monochrome borders; measurements remain on original figure 2 PDF crop.",
+  "embedded_image_dimensions": [
+    432,
+    444
+  ]
+}

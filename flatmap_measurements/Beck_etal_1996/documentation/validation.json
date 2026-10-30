@@ -264,16 +264,5 @@
   "numbered_figures_assessed": 18,
   "assessment_status": "eligible_views_digitized_provisional",
   "whole_neocortex_summary": "unavailable; no independently established complete-neocortex view",
-  "source_visual_review": "completed; anatomical certification pending",
-  "internal_annotation_correction": {
-    "date": "2026-10-16",
-    "view": "fig12A",
-    "changed_region": "SR",
-    "internal_text_excluded": false,
-    "native_mask_annotation_check": "passed; all sampled S1/SC/SR label ink remains inside its field",
-    "unchanged_regions": [
-      "S1",
-      "SC"
-    ]
-  }
+  "source_visual_review": "completed; anatomical certification pending"
 }

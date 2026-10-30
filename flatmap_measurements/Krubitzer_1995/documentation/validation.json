@@ -1,8 +1,39 @@
 {
   "processed_views": 18,
-  "measured_fields": 10,
-  "unmeasured_fields": 58,
-  "overlaps": [],
+  "measured_fields": 31,
+  "unmeasured_fields": 43,
+  "overlaps": [
+    {
+      "map_id": "fig01_macaque",
+      "field_a": "DLr",
+      "field_b": "MT",
+      "overlap_pixels": 1
+    },
+    {
+      "map_id": "fig01_macaque",
+      "field_a": "2",
+      "field_b": "1",
+      "overlap_pixels": 42
+    },
+    {
+      "map_id": "fig01_macaque",
+      "field_a": "MT",
+      "field_b": "MSTv",
+      "overlap_pixels": 16
+    },
+    {
+      "map_id": "fig01_marmoset",
+      "field_a": "MT",
+      "field_b": "FST",
+      "overlap_pixels": 20
+    },
+    {
+      "map_id": "fig01_marmoset",
+      "field_a": "MT",
+      "field_b": "DLr + DLc",
+      "overlap_pixels": 1
+    }
+  ],
   "native_imagej_roundtrip": "passed",
   "anatomical_review": "provisional; pending user review",
   "reference_comparison": "not_run; core workflow does not require reference data",
@@ -11,14 +42,5 @@
   "numbered_figures_assessed": 7,
   "assessment_status": "eligible_views_digitized_provisional",
   "whole_neocortex_summary": "unavailable; no independently established complete-neocortex view",
-  "source_visual_review": "completed; anatomical certification pending",
-  "full_dataset_recheck": {
-    "date": "2026-10-16",
-    "source_figure_inventory_rechecked": true,
-    "canonical_contour_count": 10,
-    "geometry_changed": true,
-    "anatomical_certification": false,
-    "review": "review/full_dataset_audit.html",
-    "geometry_review": "passed by audit_geometry.py; shared-stroke slivers or documented source overlaps retained"
-  }
+  "source_visual_review": "completed; anatomical certification pending"
 }

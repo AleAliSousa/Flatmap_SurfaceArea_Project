@@ -1,0 +1,303 @@
+[
+  {
+    "map_id": "fig05A_case15_01",
+    "label": "M1_sampled_opposition_D1",
+    "area_pixels": 18651,
+    "outside_parent_pixels": 0,
+    "outside_parent_plus_2px": 0
+  },
+  {
+    "map_id": "fig05A_case15_01",
+    "label": "M1_sampled_flex_D1_D2",
+    "area_pixels": 2187,
+    "outside_parent_pixels": 0,
+    "outside_parent_plus_2px": 0
+  },
+  {
+    "map_id": "fig05A_case15_01",
+    "label": "M1_sampled_flex_all_digits",
+    "area_pixels": 980,
+    "outside_parent_pixels": 0,
+    "outside_parent_plus_2px": 0
+  },
+  {
+    "map_id": "fig05A_case15_01",
+    "label": "M1_sampled_flex_other_digits",
+    "area_pixels": 4695,
+    "outside_parent_pixels": 0,
+    "outside_parent_plus_2px": 0
+  },
+  {
+    "map_id": "fig05A_case15_01",
+    "label": "M1_sampled_extend_other_digits",
+    "area_pixels": 7256,
+    "outside_parent_pixels": 9,
+    "outside_parent_plus_2px": 0
+  },
+  {
+    "map_id": "fig05A_case15_01",
+    "label": "M1_sampled_extend_D1_D2",
+    "area_pixels": 2390,
+    "outside_parent_pixels": 0,
+    "outside_parent_plus_2px": 0
+  },
+  {
+    "map_id": "fig05A_case15_01",
+    "label": "M1_sampled_mixed_D1_D2",
+    "area_pixels": 1095,
+    "outside_parent_pixels": 0,
+    "outside_parent_plus_2px": 0
+  },
+  {
+    "map_id": "fig05A_case15_01",
+    "label": "M1_sampled_flex_other_toes",
+    "area_pixels": 1317,
+    "outside_parent_pixels": 0,
+    "outside_parent_plus_2px": 0
+  },
+  {
+    "map_id": "fig05A_case15_01",
+    "label": "M1_sampled_flex_T1_T2",
+    "area_pixels": 8567,
+    "outside_parent_pixels": 0,
+    "outside_parent_plus_2px": 0
+  },
+  {
+    "map_id": "fig05A_case15_01",
+    "label": "M1_sampled_digit_response_territory",
+    "area_pixels": 37254,
+    "outside_parent_pixels": 9,
+    "outside_parent_plus_2px": 0
+  },
+  {
+    "map_id": "fig05C_case15_04",
+    "label": "M1_sampled_opposition_D1",
+    "area_pixels": 2680,
+    "outside_parent_pixels": 0,
+    "outside_parent_plus_2px": 0
+  },
+  {
+    "map_id": "fig05C_case15_04",
+    "label": "M1_sampled_flex_D1_D2",
+    "area_pixels": 1520,
+    "outside_parent_pixels": 0,
+    "outside_parent_plus_2px": 0
+  },
+  {
+    "map_id": "fig05C_case15_04",
+    "label": "M1_sampled_flex_all_digits",
+    "area_pixels": 2897,
+    "outside_parent_pixels": 0,
+    "outside_parent_plus_2px": 0
+  },
+  {
+    "map_id": "fig05C_case15_04",
+    "label": "M1_sampled_flex_other_digits",
+    "area_pixels": 2598,
+    "outside_parent_pixels": 0,
+    "outside_parent_plus_2px": 0
+  },
+  {
+    "map_id": "fig05C_case15_04",
+    "label": "M1_sampled_extend_other_digits",
+    "area_pixels": 1543,
+    "outside_parent_pixels": 0,
+    "outside_parent_plus_2px": 0
+  },
+  {
+    "map_id": "fig05C_case15_04",
+    "label": "M1_sampled_extend_D1_D2",
+    "area_pixels": 4379,
+    "outside_parent_pixels": 0,
+    "outside_parent_plus_2px": 0
+  },
+  {
+    "map_id": "fig05C_case15_04",
+    "label": "M1_sampled_mixed_D1_D2",
+    "area_pixels": 1768,
+    "outside_parent_pixels": 0,
+    "outside_parent_plus_2px": 0
+  },
+  {
+    "map_id": "fig05C_case15_04",
+    "label": "M1_sampled_flex_all_toes",
+    "area_pixels": 4598,
+    "outside_parent_pixels": 0,
+    "outside_parent_plus_2px": 0
+  },
+  {
+    "map_id": "fig05C_case15_04",
+    "label": "M1_sampled_flex_other_toes",
+    "area_pixels": 4643,
+    "outside_parent_pixels": 0,
+    "outside_parent_plus_2px": 0
+  },
+  {
+    "map_id": "fig05C_case15_04",
+    "label": "M1_sampled_flex_T1_T2",
+    "area_pixels": 2085,
+    "outside_parent_pixels": 0,
+    "outside_parent_plus_2px": 0
+  },
+  {
+    "map_id": "fig05C_case15_04",
+    "label": "M1_sampled_extend_toes",
+    "area_pixels": 5631,
+    "outside_parent_pixels": 0,
+    "outside_parent_plus_2px": 0
+  },
+  {
+    "map_id": "fig05C_case15_04",
+    "label": "M1_sampled_digit_response_territory",
+    "area_pixels": 17458,
+    "outside_parent_pixels": 1,
+    "outside_parent_plus_2px": 0
+  },
+  {
+    "map_id": "fig05B_case15_03",
+    "label": "M1_sampled_opposition_D1",
+    "area_pixels": 4982,
+    "outside_parent_pixels": 0,
+    "outside_parent_plus_2px": 0
+  },
+  {
+    "map_id": "fig05B_case15_03",
+    "label": "M1_sampled_flex_D1_D2",
+    "area_pixels": 4353,
+    "outside_parent_pixels": 0,
+    "outside_parent_plus_2px": 0
+  },
+  {
+    "map_id": "fig05B_case15_03",
+    "label": "M1_sampled_flex_all_digits",
+    "area_pixels": 3639,
+    "outside_parent_pixels": 0,
+    "outside_parent_plus_2px": 0
+  },
+  {
+    "map_id": "fig05B_case15_03",
+    "label": "M1_sampled_flex_other_digits",
+    "area_pixels": 3437,
+    "outside_parent_pixels": 2,
+    "outside_parent_plus_2px": 0
+  },
+  {
+    "map_id": "fig05B_case15_03",
+    "label": "M1_sampled_extend_other_digits",
+    "area_pixels": 2051,
+    "outside_parent_pixels": 4,
+    "outside_parent_plus_2px": 0
+  },
+  {
+    "map_id": "fig05B_case15_03",
+    "label": "M1_sampled_mixed_D1_D2",
+    "area_pixels": 747,
+    "outside_parent_pixels": 0,
+    "outside_parent_plus_2px": 0
+  },
+  {
+    "map_id": "fig05B_case15_03",
+    "label": "M1_sampled_flex_all_toes",
+    "area_pixels": 16208,
+    "outside_parent_pixels": 0,
+    "outside_parent_plus_2px": 0
+  },
+  {
+    "map_id": "fig05B_case15_03",
+    "label": "M1_sampled_flex_other_toes",
+    "area_pixels": 5476,
+    "outside_parent_pixels": 1,
+    "outside_parent_plus_2px": 0
+  },
+  {
+    "map_id": "fig05B_case15_03",
+    "label": "M1_sampled_flex_T1_T2",
+    "area_pixels": 1022,
+    "outside_parent_pixels": 0,
+    "outside_parent_plus_2px": 0
+  },
+  {
+    "map_id": "fig05B_case15_03",
+    "label": "M1_sampled_extend_toes",
+    "area_pixels": 1532,
+    "outside_parent_pixels": 0,
+    "outside_parent_plus_2px": 0
+  },
+  {
+    "map_id": "fig05B_case15_03",
+    "label": "M1_sampled_digit_response_territory",
+    "area_pixels": 19322,
+    "outside_parent_pixels": 7,
+    "outside_parent_plus_2px": 0
+  },
+  {
+    "map_id": "fig05D_case15_02",
+    "label": "M1_sampled_opposition_D1",
+    "area_pixels": 2163,
+    "outside_parent_pixels": 0,
+    "outside_parent_plus_2px": 0
+  },
+  {
+    "map_id": "fig05D_case15_02",
+    "label": "M1_sampled_flex_all_digits",
+    "area_pixels": 3813,
+    "outside_parent_pixels": 0,
+    "outside_parent_plus_2px": 0
+  },
+  {
+    "map_id": "fig05D_case15_02",
+    "label": "M1_sampled_flex_other_digits",
+    "area_pixels": 14302,
+    "outside_parent_pixels": 6,
+    "outside_parent_plus_2px": 0
+  },
+  {
+    "map_id": "fig05D_case15_02",
+    "label": "M1_sampled_extend_other_digits",
+    "area_pixels": 13068,
+    "outside_parent_pixels": 10,
+    "outside_parent_plus_2px": 0
+  },
+  {
+    "map_id": "fig05D_case15_02",
+    "label": "M1_sampled_extend_D1_D2",
+    "area_pixels": 3077,
+    "outside_parent_pixels": 1,
+    "outside_parent_plus_2px": 0
+  },
+  {
+    "map_id": "fig05D_case15_02",
+    "label": "M1_sampled_flex_all_toes",
+    "area_pixels": 1519,
+    "outside_parent_pixels": 0,
+    "outside_parent_plus_2px": 0
+  },
+  {
+    "map_id": "fig05D_case15_02",
+    "label": "M1_sampled_flex_other_toes",
+    "area_pixels": 998,
+    "outside_parent_pixels": 0,
+    "outside_parent_plus_2px": 0
+  },
+  {
+    "map_id": "fig05D_case15_02",
+    "label": "M1_sampled_flex_T1_T2",
+    "area_pixels": 1897,
+    "outside_parent_pixels": 0,
+    "outside_parent_plus_2px": 0
+  },
+  {
+    "map_id": "fig05D_case15_02",
+    "label": "M1_sampled_extend_toes",
+    "area_pixels": 3126,
+    "outside_parent_pixels": 0,
+    "outside_parent_plus_2px": 0
+  },
+  {
+    "map_id": "fig05D_case15_02",
+    "label": "M1_sampled_digit_response_territory",
+    "area_pixels": 36266,
+    "outside_parent_pixels": 14,
+    "outside_parent_plus_2px": 0
+  }
+]

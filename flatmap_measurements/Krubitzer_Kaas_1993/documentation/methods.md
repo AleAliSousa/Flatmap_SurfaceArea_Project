@@ -1,3 +1,6 @@
+<!-- missing-region-actions-2026-10-20 -->
+[20 October correction and field-specific decisions](missing_region_actions_2026-10-20.md) supersede earlier generic exclusions for the affected views.
+
 <!-- full-dataset-recheck -->
 ## 16 October 2026 source recheck
 

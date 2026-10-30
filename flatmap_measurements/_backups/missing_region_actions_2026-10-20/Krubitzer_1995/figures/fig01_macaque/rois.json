@@ -1,0 +1,118 @@
+{
+  "map_id": "fig01_macaque",
+  "figure": 1,
+  "pdf_page": 3,
+  "printed_page": 410,
+  "species": "Macaca mulatta",
+  "specimen": "illustrative summary",
+  "hemisphere": "not reported",
+  "hemisphere_relation": "not assigned",
+  "view_type": "illustrative_summary_flatmap",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "outline": null,
+  "supersample": 4,
+  "render_scale": 4,
+  "relationship_note": "Caption describes flattened cortex, adapted from multiple studies. This comparative source illustration is not an additional specimen. Saturated fills that merge several fields are not partitioned.",
+  "specimen_link_status": "caption identified",
+  "panel": null,
+  "crop_xyxy": [
+    860,
+    1940,
+    1650,
+    2590
+  ],
+  "rois": [],
+  "unmeasured": [
+    {
+      "label": "saturated primary-field totals",
+      "status": "not_measurable",
+      "reason": "Black source fills merge multiple somatosensory, visual and motor fields. Named closed white compartments are measured independently; missing field dividers are not invented."
+    },
+    {
+      "label": "VPP",
+      "status": "not_measurable",
+      "reason": "Separate named perimeter remains unresolved in the small comparative print; no enclosing cortical white space retained."
+    },
+    {
+      "label": "2",
+      "status": "not_measurable",
+      "reason": "Separate named perimeter remains unresolved in the small comparative print; no enclosing cortical white space retained."
+    },
+    {
+      "label": "MSTv",
+      "status": "not_measurable",
+      "reason": "The reduced print does not uniquely separate the full border from overprinted MSTv lettering and adjoining MT/SII boundaries; no glyph or enclosing cortex area retained."
+    },
+    {
+      "label": "DLr",
+      "status": "not_measurable",
+      "reason": "The small comparative print is overprinted or joins neighbouring contours. No glyph-shaped or enclosing-cortex candidate is accepted as a complete field boundary."
+    },
+    {
+      "label": "DLc",
+      "status": "not_measurable",
+      "reason": "The small comparative print is overprinted or joins neighbouring contours. No glyph-shaped or enclosing-cortex candidate is accepted as a complete field boundary."
+    },
+    {
+      "label": "VP",
+      "status": "not_measurable",
+      "reason": "The small comparative print is overprinted or joins neighbouring contours. No glyph-shaped or enclosing-cortex candidate is accepted as a complete field boundary."
+    },
+    {
+      "label": "1",
+      "status": "not_measurable",
+      "reason": "The small comparative print is overprinted or joins neighbouring contours. No glyph-shaped or enclosing-cortex candidate is accepted as a complete field boundary."
+    },
+    {
+      "label": "DI",
+      "status": "not_measurable",
+      "reason": "The small comparative print is overprinted or joins neighbouring contours. No glyph-shaped or enclosing-cortex candidate is accepted as a complete field boundary."
+    },
+    {
+      "label": "FEF",
+      "status": "not_measurable",
+      "reason": "The small comparative print is overprinted or joins neighbouring contours. No glyph-shaped or enclosing-cortex candidate is accepted as a complete field boundary."
+    },
+    {
+      "label": "FV",
+      "status": "not_measurable",
+      "reason": "The small comparative print is overprinted or joins neighbouring contours. No glyph-shaped or enclosing-cortex candidate is accepted as a complete field boundary."
+    },
+    {
+      "label": "FST",
+      "status": "not_measurable",
+      "reason": "The small comparative print is overprinted or joins neighbouring contours. No glyph-shaped or enclosing-cortex candidate is accepted as a complete field boundary."
+    },
+    {
+      "label": "R",
+      "status": "not_measurable",
+      "reason": "The small comparative print is overprinted or joins neighbouring contours. No glyph-shaped or enclosing-cortex candidate is accepted as a complete field boundary."
+    },
+    {
+      "label": "MT",
+      "status": "not_measurable",
+      "reason": "The small comparative print is overprinted or joins neighbouring contours. No glyph-shaped or enclosing-cortex candidate is accepted as a complete field boundary."
+    },
+    {
+      "label": "SMA",
+      "status": "not_measurable",
+      "reason": "The small comparative print is overprinted or joins neighbouring contours. No glyph-shaped or enclosing-cortex candidate is accepted as a complete field boundary."
+    }
+  ],
+  "repeat_of": "illustrative_summary",
+  "linked_main_map": "illustrative_summary",
+  "scale_endpoints_px": [
+    [
+      602,
+      510
+    ],
+    [
+      648,
+      510
+    ]
+  ],
+  "scale_length_mm": 10,
+  "scale_note": "Own local printed scale stroke, endpoints reviewed on the source.",
+  "review_note": "Reassessed from the full source page; cortical inset crop and each field perimeter reviewed separately."
+}

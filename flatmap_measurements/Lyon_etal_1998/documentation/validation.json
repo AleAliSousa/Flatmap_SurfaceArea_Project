@@ -1,7 +1,7 @@
 {
   "processed_views": 20,
   "measured_fields": 33,
-  "unmeasured_fields": 168,
+  "unmeasured_fields": 169,
   "overlaps": [
     {
       "map_id": "fig09_C",
@@ -24,13 +24,5 @@
   "numbered_figures_assessed": 15,
   "assessment_status": "eligible_views_digitized_provisional",
   "whole_neocortex_summary": "unavailable; no independently established complete-neocortex view",
-  "source_visual_review": "completed; anatomical certification pending",
-  "full_dataset_recheck": {
-    "date": "2026-10-16",
-    "source_figure_inventory_rechecked": true,
-    "canonical_contour_count": 33,
-    "geometry_changed": false,
-    "anatomical_certification": false,
-    "review": "review/full_dataset_audit.html"
-  }
+  "source_visual_review": "completed; anatomical certification pending"
 }

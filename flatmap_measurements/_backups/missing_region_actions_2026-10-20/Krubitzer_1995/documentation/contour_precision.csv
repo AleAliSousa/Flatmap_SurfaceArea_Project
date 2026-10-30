@@ -1,0 +1,11 @@
+map_id,label,extent,vertices,source_render_pixels_per_pdf_point,source_visual_check,tracing_method,anatomical_certification
+fig01_flying_fox,MT,complete,31,4,enlarged perimeter reviewed; short symbol continuations documented,Manually positioned source-envelope vertices with sub-stroke interpolation at occluding text,pending
+fig01_marmoset,MT,complete,30,4,enlarged perimeter reviewed; short symbol continuations documented,Manually positioned source-envelope vertices with sub-stroke interpolation at occluding text,pending
+fig01_squirrel,AUD,complete,29,4,enlarged perimeter reviewed; short symbol continuations documented,Manually positioned source-envelope vertices with sub-stroke interpolation at occluding text,pending
+fig01_squirrel,R,complete,27,4,enlarged perimeter reviewed; short symbol continuations documented,Manually positioned source-envelope vertices with sub-stroke interpolation at occluding text,pending
+fig01_squirrel,TP,complete,51,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02_ghost_bat,SII,complete,27,4,enlarged perimeter reviewed; short symbol continuations documented,Manually identified anatomical envelope with regularized stroke-center following,pending
+fig02_ghost_bat,V,complete,37,4,enlarged perimeter reviewed; short symbol continuations documented,Manually identified anatomical envelope with regularized stroke-center following,pending
+fig02_platypus,M bill,complete,54,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig02_platypus,V,complete,31,4,enlarged perimeter reviewed; short symbol continuations documented,Manually identified anatomical envelope with regularized stroke-center following,pending
+fig02_star_nosed_mole,V,complete,29,4,enlarged perimeter reviewed; short symbol continuations documented,Manually identified anatomical envelope with regularized stroke-center following,pending

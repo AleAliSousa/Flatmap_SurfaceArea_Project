@@ -1,7 +1,7 @@
 {
   "processed_views": 14,
-  "measured_fields": 101,
-  "unmeasured_fields": 98,
+  "measured_fields": 102,
+  "unmeasured_fields": 97,
   "overlaps": [
     {
       "map_id": "fig02inset",
@@ -74,6 +74,18 @@
       "field_a": "TArv + TAcv",
       "field_b": "R",
       "overlap_pixels": 11
+    },
+    {
+      "map_id": "fig05",
+      "field_a": "TArv + TAcv",
+      "field_b": "TAi",
+      "overlap_pixels": 21
+    },
+    {
+      "map_id": "fig05",
+      "field_a": "R",
+      "field_b": "TAi",
+      "overlap_pixels": 105
     },
     {
       "map_id": "fig06",
@@ -318,14 +330,5 @@
   "numbered_figures_assessed": 19,
   "assessment_status": "eligible_views_digitized_provisional",
   "whole_neocortex_summary": "unavailable; no independently established complete-neocortex view",
-  "source_visual_review": "completed; anatomical certification pending",
-  "full_dataset_recheck": {
-    "date": "2026-10-16",
-    "source_figure_inventory_rechecked": true,
-    "canonical_contour_count": 101,
-    "geometry_changed": true,
-    "anatomical_certification": false,
-    "review": "review/full_dataset_audit.html",
-    "geometry_review": "passed by audit_geometry.py; shared-stroke slivers or documented source overlaps retained"
-  }
+  "source_visual_review": "completed; anatomical certification pending"
 }

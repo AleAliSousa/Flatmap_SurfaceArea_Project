@@ -1,0 +1,341 @@
+{
+  "date": "2026-10-20",
+  "scope": "Execution of all 22 listed review actions: accepted additions plus field-specific assessment of unresolved candidates; not an exhaustive new dataset-wide tracing pass.",
+  "added_contours": 28,
+  "revised_contours": 1,
+  "new_approximate_contours": 1,
+  "modified_views": 11,
+  "modified_papers": 8,
+  "backup": "_backups/missing_region_actions_2026-10-20",
+  "results": [
+    {
+      "paper": "Krubitzer_Kaas_1993",
+      "map_id": "fig05",
+      "status": "completed_added_tracings",
+      "added": [
+        "17"
+      ],
+      "revised": [],
+      "approximate": [],
+      "updated_unmeasured": [
+        "18",
+        "DL",
+        "DM",
+        "DI",
+        "M",
+        "VPP",
+        "2",
+        "1",
+        "3b",
+        "3a",
+        "MI",
+        "FEF",
+        "FV",
+        "FR",
+        "IT",
+        "VP + VA",
+        "MST"
+      ],
+      "outcome": "Added 17. Remaining field limits are recorded individually in the canonical unmeasured entries."
+    },
+    {
+      "paper": "Krubitzer_1995",
+      "map_id": "fig01_macaque",
+      "status": "completed_added_tracings",
+      "added": [
+        "FST",
+        "R",
+        "DI",
+        "DLr",
+        "DLc",
+        "FV",
+        "FEF",
+        "SMA",
+        "VPP",
+        "2",
+        "1",
+        "VP",
+        "MT",
+        "MSTv"
+      ],
+      "revised": [],
+      "approximate": [],
+      "updated_unmeasured": [
+        "saturated primary-field totals"
+      ],
+      "outcome": "Added FST, R, DI, DLr, DLc, FV, FEF, SMA, VPP, 2, 1, VP, MT, MSTv. Remaining field limits are recorded individually in the canonical unmeasured entries."
+    },
+    {
+      "paper": "Krubitzer_1995",
+      "map_id": "fig01_marmoset",
+      "status": "completed_added_tracings",
+      "added": [
+        "FST",
+        "R",
+        "SMA",
+        "FEF",
+        "FV",
+        "DI",
+        "DLr + DLc"
+      ],
+      "revised": [
+        "MT"
+      ],
+      "approximate": [],
+      "updated_unmeasured": [
+        "saturated primary-field totals",
+        "2",
+        "DLr",
+        "DLc"
+      ],
+      "outcome": "Added FST, R, SMA, FEF, FV, DI, DLr + DLc. Revised MT. Remaining field limits are recorded individually in the canonical unmeasured entries."
+    },
+    {
+      "paper": "Krubitzer_etal_1995",
+      "map_id": "fig19",
+      "status": "completed_added_tracings",
+      "added": [
+        "V"
+      ],
+      "revised": [],
+      "approximate": [
+        "V"
+      ],
+      "updated_unmeasured": [
+        "A"
+      ],
+      "outcome": "Added V. Remaining field limits are recorded individually in the canonical unmeasured entries. V is explicitly approximate because the enlarged image revealed a gap among recording symbols; excluded from complete-field summaries."
+    },
+    {
+      "paper": "Krubitzer_1998",
+      "map_id": "fig14F_summary",
+      "status": "completed_added_tracings",
+      "added": [
+        "FEF",
+        "R",
+        "M",
+        "FST"
+      ],
+      "revised": [],
+      "approximate": [],
+      "updated_unmeasured": [
+        "SI",
+        "DM",
+        "MST",
+        "SII",
+        "PV",
+        "VS"
+      ],
+      "outcome": "Added FEF, R, M, FST. Remaining field limits are recorded individually in the canonical unmeasured entries."
+    },
+    {
+      "paper": "Lyon_etal_1998",
+      "map_id": "fig04_A",
+      "status": "completed_assessment",
+      "added": [],
+      "revised": [],
+      "approximate": [],
+      "updated_unmeasured": [
+        "S (medial component)"
+      ],
+      "outcome": "Remaining field limits are recorded individually in the canonical unmeasured entries."
+    },
+    {
+      "paper": "Krubitzer_1995",
+      "map_id": "fig01_quoll",
+      "status": "completed_assessment",
+      "added": [],
+      "revised": [],
+      "approximate": [],
+      "updated_unmeasured": [
+        "saturated primary-field totals",
+        "A",
+        "VIS",
+        "DSc",
+        "SII/PV",
+        "AUD",
+        "PYR"
+      ],
+      "outcome": "Remaining field limits are recorded individually in the canonical unmeasured entries."
+    },
+    {
+      "paper": "Luethke_etal_1988",
+      "map_id": "fig05",
+      "status": "completed_added_tracings",
+      "added": [
+        "TAi"
+      ],
+      "revised": [],
+      "approximate": [],
+      "updated_unmeasured": [
+        "A-I",
+        "S-I",
+        "PV",
+        "PM",
+        "18",
+        "TI",
+        "TArv",
+        "TAcv",
+        "PR"
+      ],
+      "outcome": "Added TAi. Remaining field limits are recorded individually in the canonical unmeasured entries."
+    },
+    {
+      "paper": "Krubitzer_etal_1993",
+      "map_id": "fig12A",
+      "status": "completed_assessment",
+      "added": [],
+      "revised": [],
+      "approximate": [],
+      "updated_unmeasured": [
+        "SMA",
+        "A-I",
+        "VS"
+      ],
+      "outcome": "Remaining field limits are recorded individually in the canonical unmeasured entries."
+    },
+    {
+      "paper": "Beck_etal_1996",
+      "map_id": "fig15",
+      "status": "completed_assessment",
+      "added": [],
+      "revised": [],
+      "approximate": [],
+      "updated_unmeasured": [
+        "S1",
+        "SC",
+        "SR",
+        "PV",
+        "V1",
+        "Aud"
+      ],
+      "outcome": "Remaining field limits are recorded individually in the canonical unmeasured entries."
+    },
+    {
+      "paper": "Krubitzer_Kaas_1993",
+      "map_id": "fig03",
+      "status": "completed_assessment",
+      "added": [],
+      "revised": [],
+      "approximate": [],
+      "updated_unmeasured": [
+        "18",
+        "FEF",
+        "SII",
+        "PV",
+        "FR"
+      ],
+      "outcome": "Remaining field limits are recorded individually in the canonical unmeasured entries."
+    },
+    {
+      "paper": "Beck_Kaas_1998",
+      "map_id": "fig04",
+      "status": "completed_assessment",
+      "added": [],
+      "revised": [],
+      "approximate": [],
+      "updated_unmeasured": [],
+      "outcome": "Prior assessment retained; no additional defensible complete field identified in this view."
+    },
+    {
+      "paper": "Huffman_etal_1999",
+      "map_id": "fig05",
+      "status": "completed_assessment",
+      "added": [],
+      "revised": [],
+      "approximate": [],
+      "updated_unmeasured": [],
+      "outcome": "Prior assessment retained; no additional defensible complete field identified in this view."
+    },
+    {
+      "paper": "Krubitzer_Kaas_1990",
+      "map_id": "fig12",
+      "status": "completed_assessment",
+      "added": [],
+      "revised": [],
+      "approximate": [],
+      "updated_unmeasured": [],
+      "outcome": "Prior assessment retained; no additional defensible complete field identified in this view."
+    },
+    {
+      "paper": "Krubitzer_etal_1997",
+      "map_id": "fig08",
+      "status": "completed_assessment",
+      "added": [],
+      "revised": [],
+      "approximate": [],
+      "updated_unmeasured": [],
+      "outcome": "Prior assessment retained; no additional defensible complete field identified in this view."
+    },
+    {
+      "paper": "Luethke_etal_1989",
+      "map_id": "fig10_A",
+      "status": "completed_assessment",
+      "added": [],
+      "revised": [],
+      "approximate": [],
+      "updated_unmeasured": [],
+      "outcome": "Prior assessment retained; no additional defensible complete field identified in this view."
+    },
+    {
+      "paper": "Manger_etal_2002",
+      "map_id": "fig02",
+      "status": "completed_assessment",
+      "added": [],
+      "revised": [],
+      "approximate": [],
+      "updated_unmeasured": [],
+      "outcome": "Prior assessment retained; no additional defensible complete field identified in this view."
+    },
+    {
+      "paper": "Preuss_Kaas_1996",
+      "map_id": "fig02_left",
+      "status": "completed_assessment",
+      "added": [],
+      "revised": [],
+      "approximate": [],
+      "updated_unmeasured": [],
+      "outcome": "Prior assessment retained; no additional defensible complete field identified in this view."
+    },
+    {
+      "paper": "Preuss_etal_1993",
+      "map_id": "fig02_schematic",
+      "status": "completed_assessment",
+      "added": [],
+      "revised": [],
+      "approximate": [],
+      "updated_unmeasured": [],
+      "outcome": "Prior assessment retained; no additional defensible complete field identified in this view."
+    },
+    {
+      "paper": "Slutsky_etal_2000",
+      "map_id": "fig01A",
+      "status": "completed_assessment",
+      "added": [],
+      "revised": [],
+      "approximate": [],
+      "updated_unmeasured": [],
+      "outcome": "Prior assessment retained; no additional defensible complete field identified in this view."
+    },
+    {
+      "paper": "VanEssen_Drury_1997",
+      "map_id": "fig03_left",
+      "status": "completed_assessment",
+      "added": [],
+      "revised": [],
+      "approximate": [],
+      "updated_unmeasured": [],
+      "outcome": "Prior assessment retained; no additional defensible complete field identified in this view."
+    },
+    {
+      "paper": "Lyon_etal_1998",
+      "map_id": "fig04_B",
+      "status": "completed_assessment",
+      "added": [],
+      "revised": [],
+      "approximate": [],
+      "updated_unmeasured": [],
+      "outcome": "Prior assessment retained; no additional defensible complete field identified in this view."
+    }
+  ]
+}

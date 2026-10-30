@@ -1,0 +1,271 @@
+{
+  "processed_views": 8,
+  "measured_fields": 107,
+  "unmeasured_fields": 124,
+  "overlaps": [
+    {
+      "map_id": "fig05A_case1",
+      "field_a": "PIP",
+      "field_b": "LIP_combined",
+      "overlap_pixels": 16
+    },
+    {
+      "map_id": "fig05A_case1",
+      "field_a": "PIP",
+      "field_b": "VIP",
+      "overlap_pixels": 5
+    },
+    {
+      "map_id": "fig05A_case1",
+      "field_a": "MT",
+      "field_b": "MST_combined",
+      "overlap_pixels": 31
+    },
+    {
+      "map_id": "fig05A_case1",
+      "field_a": "MT",
+      "field_b": "V4t",
+      "overlap_pixels": 118
+    },
+    {
+      "map_id": "fig05A_case1",
+      "field_a": "FST",
+      "field_b": "MST_combined",
+      "overlap_pixels": 18
+    },
+    {
+      "map_id": "fig05A_case1",
+      "field_a": "LIP_combined",
+      "field_b": "VIP",
+      "overlap_pixels": 27
+    },
+    {
+      "map_id": "fig05A_case1",
+      "field_a": "MST_combined",
+      "field_b": "V4t",
+      "overlap_pixels": 1
+    },
+    {
+      "map_id": "fig06A_case2",
+      "field_a": "PIP",
+      "field_b": "LIP_combined",
+      "overlap_pixels": 6
+    },
+    {
+      "map_id": "fig06A_case2",
+      "field_a": "MT",
+      "field_b": "MST_combined",
+      "overlap_pixels": 63
+    },
+    {
+      "map_id": "fig06A_case2",
+      "field_a": "MT",
+      "field_b": "V4t",
+      "overlap_pixels": 75
+    },
+    {
+      "map_id": "fig06A_case2",
+      "field_a": "FST",
+      "field_b": "MST_combined",
+      "overlap_pixels": 34
+    },
+    {
+      "map_id": "fig06A_case2",
+      "field_a": "FST",
+      "field_b": "V4t",
+      "overlap_pixels": 13
+    },
+    {
+      "map_id": "fig06A_case2",
+      "field_a": "LIP_combined",
+      "field_b": "VIP",
+      "overlap_pixels": 26
+    },
+    {
+      "map_id": "fig06A_case2",
+      "field_a": "MST_combined",
+      "field_b": "V4t",
+      "overlap_pixels": 12
+    },
+    {
+      "map_id": "fig07A_case3",
+      "field_a": "PIP",
+      "field_b": "LIP_combined",
+      "overlap_pixels": 11
+    },
+    {
+      "map_id": "fig07A_case3",
+      "field_a": "MT",
+      "field_b": "MST_combined",
+      "overlap_pixels": 25
+    },
+    {
+      "map_id": "fig07A_case3",
+      "field_a": "MT",
+      "field_b": "V4t",
+      "overlap_pixels": 121
+    },
+    {
+      "map_id": "fig07A_case3",
+      "field_a": "FST",
+      "field_b": "MST_combined",
+      "overlap_pixels": 11
+    },
+    {
+      "map_id": "fig07A_case3",
+      "field_a": "FST",
+      "field_b": "V4t",
+      "overlap_pixels": 19
+    },
+    {
+      "map_id": "fig07A_case3",
+      "field_a": "LIP_combined",
+      "field_b": "VIP",
+      "overlap_pixels": 9
+    },
+    {
+      "map_id": "fig07A_case3",
+      "field_a": "MST_combined",
+      "field_b": "V4t",
+      "overlap_pixels": 3
+    },
+    {
+      "map_id": "fig08A_case4",
+      "field_a": "PIP",
+      "field_b": "LIP_combined",
+      "overlap_pixels": 15
+    },
+    {
+      "map_id": "fig08A_case4",
+      "field_a": "PIP",
+      "field_b": "VIP",
+      "overlap_pixels": 2
+    },
+    {
+      "map_id": "fig08A_case4",
+      "field_a": "MT",
+      "field_b": "MST_combined",
+      "overlap_pixels": 70
+    },
+    {
+      "map_id": "fig08A_case4",
+      "field_a": "MT",
+      "field_b": "V4t",
+      "overlap_pixels": 81
+    },
+    {
+      "map_id": "fig08A_case4",
+      "field_a": "FST",
+      "field_b": "MST_combined",
+      "overlap_pixels": 28
+    },
+    {
+      "map_id": "fig08A_case4",
+      "field_a": "FST",
+      "field_b": "V4t",
+      "overlap_pixels": 7
+    },
+    {
+      "map_id": "fig08A_case4",
+      "field_a": "LIP_combined",
+      "field_b": "VIP",
+      "overlap_pixels": 10
+    },
+    {
+      "map_id": "fig08A_case4",
+      "field_a": "MST_combined",
+      "field_b": "V4t",
+      "overlap_pixels": 2
+    },
+    {
+      "map_id": "fig09A_case5",
+      "field_a": "PIP",
+      "field_b": "LIP_combined",
+      "overlap_pixels": 9
+    },
+    {
+      "map_id": "fig09A_case5",
+      "field_a": "PIP",
+      "field_b": "VIP",
+      "overlap_pixels": 1
+    },
+    {
+      "map_id": "fig09A_case5",
+      "field_a": "MT",
+      "field_b": "MST_combined",
+      "overlap_pixels": 54
+    },
+    {
+      "map_id": "fig09A_case5",
+      "field_a": "MT",
+      "field_b": "V4t",
+      "overlap_pixels": 59
+    },
+    {
+      "map_id": "fig09A_case5",
+      "field_a": "FST",
+      "field_b": "MST_combined",
+      "overlap_pixels": 22
+    },
+    {
+      "map_id": "fig09A_case5",
+      "field_a": "FST",
+      "field_b": "V4t",
+      "overlap_pixels": 17
+    },
+    {
+      "map_id": "fig09A_case5",
+      "field_a": "LIP_combined",
+      "field_b": "VIP",
+      "overlap_pixels": 30
+    },
+    {
+      "map_id": "fig10A_case6",
+      "field_a": "PIP",
+      "field_b": "VIP",
+      "overlap_pixels": 6
+    },
+    {
+      "map_id": "fig10A_case6",
+      "field_a": "MT",
+      "field_b": "MST_combined",
+      "overlap_pixels": 16
+    },
+    {
+      "map_id": "fig10A_case6",
+      "field_a": "MT",
+      "field_b": "V4t",
+      "overlap_pixels": 64
+    },
+    {
+      "map_id": "fig10A_case6",
+      "field_a": "FST",
+      "field_b": "MST_combined",
+      "overlap_pixels": 5
+    },
+    {
+      "map_id": "fig10A_case6",
+      "field_a": "FST",
+      "field_b": "V4t",
+      "overlap_pixels": 24
+    },
+    {
+      "map_id": "fig10A_case6",
+      "field_a": "LIP_combined",
+      "field_b": "VIP",
+      "overlap_pixels": 10
+    }
+  ],
+  "native_imagej_roundtrip": "passed",
+  "anatomical_review": "provisional; pending user review",
+  "reference_comparison": "not_run; core workflow does not require reference data",
+  "geometry_overlap_audit": "passed; no undeclared interior overlaps; explicitly declared parent/subregion pairs are non-additive",
+  "not_yet_digitized_fields": 0,
+  "pending_anatomical_review_fields": 35,
+  "fully_digitized": false,
+  "all_numbered_figures_assessed": true,
+  "numbered_figures_assessed": 12,
+  "assessment_status": "defensible contours measured; unresolved anatomical boundaries remain NA",
+  "whole_neocortex_summary": "unavailable; no independently established complete-neocortex view",
+  "source_visual_review": "completed; anatomical certification pending"
+}

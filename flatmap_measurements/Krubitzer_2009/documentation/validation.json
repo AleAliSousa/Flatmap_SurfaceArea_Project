@@ -1,0 +1,61 @@
+{
+  "processed_views": 11,
+  "measured_fields": 109,
+  "unmeasured_fields": 17,
+  "overlaps": [
+    {
+      "map_id": "fig04A_normal_mouse",
+      "field_a": "A1",
+      "field_b": "auditory_domain_including_A1",
+      "overlap_pixels": 4101
+    },
+    {
+      "map_id": "fig05A_wildtype_mouse",
+      "field_a": "A1",
+      "field_b": "auditory_domain_including_A1",
+      "overlap_pixels": 5652
+    },
+    {
+      "map_id": "fig05B_deaf_mouse",
+      "field_a": "A1",
+      "field_b": "multimodal_domain_including_A1",
+      "overlap_pixels": 5253
+    },
+    {
+      "map_id": "fig05C_normal_opossum",
+      "field_a": "A1",
+      "field_b": "auditory_domain_including_A1",
+      "overlap_pixels": 15875
+    },
+    {
+      "map_id": "fig05D_enucleated_opossum",
+      "field_a": "area17",
+      "field_b": "multimodal_domain_including_area17_CT",
+      "overlap_pixels": 6645
+    },
+    {
+      "map_id": "fig05D_enucleated_opossum",
+      "field_a": "CT",
+      "field_b": "multimodal_domain_including_area17_CT",
+      "overlap_pixels": 12851
+    },
+    {
+      "map_id": "fig07_mouse",
+      "field_a": "A1",
+      "field_b": "auditory_domain_including_A1",
+      "overlap_pixels": 4343
+    }
+  ],
+  "native_imagej_roundtrip": "passed",
+  "anatomical_review": "provisional; pending user review",
+  "reference_comparison": "not_run; core workflow does not require reference data",
+  "geometry_overlap_audit": "passed; no undeclared interior overlaps; explicitly declared parent/subregion pairs are non-additive",
+  "not_yet_digitized_fields": 0,
+  "fully_digitized": true,
+  "all_numbered_figures_assessed": true,
+  "numbered_figures_assessed": 9,
+  "assessment_status": "eligible_views_digitized_provisional",
+  "whole_neocortex_summary": "unavailable; no independently established complete-neocortex view",
+  "source_visual_review": "completed; anatomical certification pending",
+  "pending_anatomical_review_fields": 0
+}

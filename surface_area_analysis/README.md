@@ -58,3 +58,16 @@ Soft flags (`plausibility = "usable with caution"`): borderline z (2.5–3), vie
 
 `data/04_specimen_region_means_flagged.csv`, one row per paper × species × specimen × label:
 `mean_mm2` (over usable views), `n_views_usable` / `n_views_calibrated`, `sd_mm2`, `cv_within_specimen`, `map_ids_usable`, `map_ids_excluded`, `excluded_view_reasons`, `plausibility`, `recommend_use`, `hard_flags`, `soft_flags`, `robust_z`, `ratio_to_group_median`, `fraction_of_neocortex`, `denominator_source`. `mean_mm2_all_views` additionally averages the partial/section views and is for reference only.
+
+
+## Pre-analysis (relative <-> absolute, cross-project)
+
+`preanalysis/` is the assumption-bearing companion to the Evo-M1-Trait-Data cortical-areas merge: it
+converts published percentages to mm2 with species-level denominators (one row per assumption), stages
+the flatmap specimen means in merge vocabulary, and compares traced percentages with the published
+Krubitzer & Kaas 1990 Table 1. See `preanalysis/README.md`. Run order: `run_all.R` -> merge
+`cortical_areas_compiled.R` -> `preanalysis/run_preanalysis.R`.
+
+## Workbook PDF batch, 21 October 2026
+
+The pipeline includes the ten newly assessed papers. `illustrative_flatmap` is explicitly a non-specimen view; the new partial anatomical and functional map types remain subject to field-level completeness checks. Mayer sampled response areas and printed-color allocations are partial and do not enter complete-field means. No new view supplies a complete-neocortex denominator. See [batch review](../flatmap_measurements/review_workbook_batch_2026-10-20.html).

@@ -1,0 +1,63 @@
+{
+  "overlap_method": "Each binary mask eroded by a 5x5 square (two pixels per side); report intersection before and after erosion. This is a geometry diagnostic, not uncertainty estimation.",
+  "overlaps": [
+    {
+      "map_id": "fig04A_normal_mouse",
+      "field_a": "A1",
+      "field_b": "auditory_domain_including_A1",
+      "overlap_pixels": 4101,
+      "overlap_after_eroding_both_masks_2px": 3505,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05A_wildtype_mouse",
+      "field_a": "A1",
+      "field_b": "auditory_domain_including_A1",
+      "overlap_pixels": 5652,
+      "overlap_after_eroding_both_masks_2px": 4964,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05B_deaf_mouse",
+      "field_a": "A1",
+      "field_b": "multimodal_domain_including_A1",
+      "overlap_pixels": 5253,
+      "overlap_after_eroding_both_masks_2px": 4449,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05C_normal_opossum",
+      "field_a": "A1",
+      "field_b": "auditory_domain_including_A1",
+      "overlap_pixels": 15875,
+      "overlap_after_eroding_both_masks_2px": 14700,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05D_enucleated_opossum",
+      "field_a": "area17",
+      "field_b": "multimodal_domain_including_area17_CT",
+      "overlap_pixels": 6645,
+      "overlap_after_eroding_both_masks_2px": 5629,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05D_enucleated_opossum",
+      "field_a": "CT",
+      "field_b": "multimodal_domain_including_area17_CT",
+      "overlap_pixels": 12851,
+      "overlap_after_eroding_both_masks_2px": 11747,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig07_mouse",
+      "field_a": "A1",
+      "field_b": "auditory_domain_including_A1",
+      "overlap_pixels": 4343,
+      "overlap_after_eroding_both_masks_2px": 3757,
+      "interpretation": "declared non-additive parent/subregion"
+    }
+  ],
+  "new_tracings_source_visually_inspected": true,
+  "anatomical_certification": false
+}

@@ -1982,101 +1982,930 @@
       "extent": "complete",
       "boundary_note": "Compound auditory region printed AI + R; no internal border supplied, so not split into two independent fields. Precision refinement 2026-10-15: dense source-stroke tracing replaces angular/off-stroke portions; recording symbols remain internal. Short gaps retain source-limited interpolation. Physical calibration and extent interpretation unchanged.",
       "boundary_note_before_precision_audit": "Compound auditory region printed AI + R; no internal border supplied, so not split into two independent fields."
+    },
+    {
+      "label": "17",
+      "polygons": [
+        [
+          [
+            320.0,
+            21.25
+          ],
+          [
+            316.75,
+            21.75
+          ],
+          [
+            304.375,
+            28.375
+          ],
+          [
+            281.25,
+            44.125
+          ],
+          [
+            258.375,
+            62.375
+          ],
+          [
+            240.125,
+            81.0
+          ],
+          [
+            235.375,
+            87.625
+          ],
+          [
+            234.375,
+            91.125
+          ],
+          [
+            228.375,
+            102.75
+          ],
+          [
+            213.625,
+            124.375
+          ],
+          [
+            207.5,
+            137.375
+          ],
+          [
+            206.25,
+            144.25
+          ],
+          [
+            206.875,
+            146.25
+          ],
+          [
+            207.625,
+            148.875
+          ],
+          [
+            211.375,
+            151.0
+          ],
+          [
+            211.75,
+            153.0
+          ],
+          [
+            210.5,
+            155.25
+          ],
+          [
+            212.0,
+            158.5
+          ],
+          [
+            214.25,
+            158.625
+          ],
+          [
+            217.75,
+            156.5
+          ],
+          [
+            219.75,
+            157.625
+          ],
+          [
+            219.875,
+            162.375
+          ],
+          [
+            219.125,
+            164.375
+          ],
+          [
+            218.875,
+            167.625
+          ],
+          [
+            218.0,
+            169.625
+          ],
+          [
+            216.0,
+            176.375
+          ],
+          [
+            208.75,
+            189.625
+          ],
+          [
+            204.625,
+            190.5
+          ],
+          [
+            199.375,
+            192.125
+          ],
+          [
+            196.125,
+            194.5
+          ],
+          [
+            194.0,
+            194.375
+          ],
+          [
+            192.0,
+            195.75
+          ],
+          [
+            189.875,
+            196.25
+          ],
+          [
+            187.25,
+            198.0
+          ],
+          [
+            185.625,
+            200.125
+          ],
+          [
+            181.75,
+            204.0
+          ],
+          [
+            176.5,
+            213.5
+          ],
+          [
+            173.875,
+            220.75
+          ],
+          [
+            171.375,
+            225.625
+          ],
+          [
+            170.625,
+            228.5
+          ],
+          [
+            168.375,
+            233.625
+          ],
+          [
+            167.75,
+            237.0
+          ],
+          [
+            166.125,
+            240.25
+          ],
+          [
+            164.875,
+            244.75
+          ],
+          [
+            163.25,
+            247.875
+          ],
+          [
+            162.75,
+            250.125
+          ],
+          [
+            161.25,
+            252.875
+          ],
+          [
+            160.5,
+            255.875
+          ],
+          [
+            156.875,
+            263.875
+          ],
+          [
+            151.75,
+            271.75
+          ],
+          [
+            145.875,
+            277.625
+          ],
+          [
+            144.875,
+            280.75
+          ],
+          [
+            143.75,
+            281.75
+          ],
+          [
+            140.375,
+            281.875
+          ],
+          [
+            133.25,
+            287.625
+          ],
+          [
+            127.75,
+            297.125
+          ],
+          [
+            126.75,
+            301.75
+          ],
+          [
+            125.25,
+            304.125
+          ],
+          [
+            124.75,
+            307.25
+          ],
+          [
+            123.25,
+            311.875
+          ],
+          [
+            122.875,
+            315.625
+          ],
+          [
+            122.0,
+            318.125
+          ],
+          [
+            121.0,
+            325.875
+          ],
+          [
+            120.0,
+            328.875
+          ],
+          [
+            119.0,
+            335.125
+          ],
+          [
+            118.25,
+            337.375
+          ],
+          [
+            118.625,
+            340.75
+          ],
+          [
+            117.25,
+            343.125
+          ],
+          [
+            116.625,
+            346.75
+          ],
+          [
+            114.375,
+            354.375
+          ],
+          [
+            113.875,
+            358.625
+          ],
+          [
+            113.125,
+            360.375
+          ],
+          [
+            112.875,
+            363.625
+          ],
+          [
+            112.125,
+            365.625
+          ],
+          [
+            111.875,
+            370.375
+          ],
+          [
+            111.125,
+            372.625
+          ],
+          [
+            111.125,
+            377.375
+          ],
+          [
+            111.75,
+            380.75
+          ],
+          [
+            111.0,
+            392.25
+          ],
+          [
+            110.125,
+            395.25
+          ],
+          [
+            109.75,
+            398.375
+          ],
+          [
+            107.625,
+            404.25
+          ],
+          [
+            103.0,
+            412.5
+          ],
+          [
+            98.375,
+            422.75
+          ],
+          [
+            96.0,
+            425.5
+          ],
+          [
+            93.875,
+            423.375
+          ],
+          [
+            90.375,
+            416.875
+          ],
+          [
+            83.25,
+            409.625
+          ],
+          [
+            76.375,
+            406.25
+          ],
+          [
+            67.25,
+            405.0
+          ],
+          [
+            64.375,
+            404.125
+          ],
+          [
+            59.625,
+            403.875
+          ],
+          [
+            57.25,
+            403.0
+          ],
+          [
+            50.125,
+            401.25
+          ],
+          [
+            36.25,
+            394.25
+          ],
+          [
+            19.125,
+            383.875
+          ],
+          [
+            14.125,
+            385.125
+          ],
+          [
+            12.125,
+            393.75
+          ],
+          [
+            11.125,
+            396.25
+          ],
+          [
+            11.125,
+            398.75
+          ],
+          [
+            11.75,
+            400.125
+          ],
+          [
+            11.125,
+            404.25
+          ],
+          [
+            11.125,
+            419.625
+          ],
+          [
+            11.875,
+            424.125
+          ],
+          [
+            12.125,
+            431.875
+          ],
+          [
+            12.875,
+            434.75
+          ],
+          [
+            13.125,
+            440.25
+          ],
+          [
+            14.0,
+            443.0
+          ],
+          [
+            15.125,
+            450.375
+          ],
+          [
+            16.75,
+            455.0
+          ],
+          [
+            17.25,
+            458.75
+          ],
+          [
+            18.75,
+            461.125
+          ],
+          [
+            19.75,
+            465.625
+          ],
+          [
+            24.25,
+            478.375
+          ],
+          [
+            25.375,
+            483.25
+          ],
+          [
+            28.125,
+            488.875
+          ],
+          [
+            31.75,
+            498.75
+          ],
+          [
+            33.75,
+            502.0
+          ],
+          [
+            34.375,
+            504.25
+          ],
+          [
+            37.0,
+            508.375
+          ],
+          [
+            39.875,
+            514.375
+          ],
+          [
+            43.0,
+            519.125
+          ],
+          [
+            52.125,
+            535.5
+          ],
+          [
+            62.375,
+            550.375
+          ],
+          [
+            69.25,
+            561.0
+          ],
+          [
+            78.125,
+            571.75
+          ],
+          [
+            97.5,
+            588.75
+          ],
+          [
+            134.125,
+            614.125
+          ],
+          [
+            144.875,
+            624.125
+          ],
+          [
+            149.625,
+            630.875
+          ],
+          [
+            151.875,
+            630.0
+          ],
+          [
+            153.0,
+            623.0
+          ],
+          [
+            154.0,
+            618.125
+          ],
+          [
+            154.75,
+            599.875
+          ],
+          [
+            154.0,
+            594.875
+          ],
+          [
+            152.875,
+            586.875
+          ],
+          [
+            150.625,
+            581.5
+          ],
+          [
+            146.625,
+            569.5
+          ],
+          [
+            145.375,
+            563.5
+          ],
+          [
+            141.25,
+            551.125
+          ],
+          [
+            138.375,
+            544.375
+          ],
+          [
+            137.625,
+            540.5
+          ],
+          [
+            135.25,
+            534.0
+          ],
+          [
+            133.875,
+            527.375
+          ],
+          [
+            132.125,
+            521.75
+          ],
+          [
+            131.25,
+            510.625
+          ],
+          [
+            131.875,
+            507.25
+          ],
+          [
+            132.125,
+            501.75
+          ],
+          [
+            133.0,
+            499.125
+          ],
+          [
+            134.125,
+            492.5
+          ],
+          [
+            135.75,
+            488.125
+          ],
+          [
+            136.25,
+            485.0
+          ],
+          [
+            137.75,
+            482.0
+          ],
+          [
+            138.5,
+            478.375
+          ],
+          [
+            141.5,
+            471.75
+          ],
+          [
+            143.625,
+            466.25
+          ],
+          [
+            154.0,
+            447.25
+          ],
+          [
+            159.5,
+            439.375
+          ],
+          [
+            161.5,
+            435.625
+          ],
+          [
+            165.625,
+            430.25
+          ],
+          [
+            168.125,
+            426.125
+          ],
+          [
+            170.75,
+            423.0
+          ],
+          [
+            175.875,
+            415.375
+          ],
+          [
+            201.125,
+            383.375
+          ],
+          [
+            212.5,
+            367.375
+          ],
+          [
+            217.375,
+            357.875
+          ],
+          [
+            218.5,
+            353.0
+          ],
+          [
+            221.5,
+            343.625
+          ],
+          [
+            222.125,
+            337.625
+          ],
+          [
+            222.875,
+            335.625
+          ],
+          [
+            223.25,
+            331.75
+          ],
+          [
+            224.75,
+            326.125
+          ],
+          [
+            225.25,
+            321.125
+          ],
+          [
+            226.875,
+            316.375
+          ],
+          [
+            228.125,
+            308.5
+          ],
+          [
+            229.75,
+            303.125
+          ],
+          [
+            231.125,
+            296.25
+          ],
+          [
+            240.125,
+            272.75
+          ],
+          [
+            255.125,
+            248.125
+          ],
+          [
+            261.375,
+            239.75
+          ],
+          [
+            273.375,
+            221.625
+          ],
+          [
+            284.5,
+            203.0
+          ],
+          [
+            301.625,
+            176.375
+          ],
+          [
+            307.0,
+            166.75
+          ],
+          [
+            315.5,
+            153.375
+          ],
+          [
+            322.5,
+            140.5
+          ],
+          [
+            331.0,
+            126.25
+          ],
+          [
+            333.75,
+            119.375
+          ],
+          [
+            334.25,
+            115.875
+          ],
+          [
+            335.75,
+            112.125
+          ],
+          [
+            336.125,
+            109.25
+          ],
+          [
+            336.875,
+            107.625
+          ],
+          [
+            337.125,
+            104.375
+          ],
+          [
+            337.875,
+            101.25
+          ],
+          [
+            337.875,
+            89.75
+          ],
+          [
+            337.125,
+            86.5
+          ],
+          [
+            336.875,
+            82.5
+          ],
+          [
+            336.125,
+            80.625
+          ],
+          [
+            335.75,
+            76.875
+          ],
+          [
+            334.25,
+            72.125
+          ],
+          [
+            333.875,
+            68.375
+          ],
+          [
+            332.75,
+            64.75
+          ],
+          [
+            330.125,
+            49.875
+          ],
+          [
+            328.25,
+            44.125
+          ],
+          [
+            327.25,
+            39.125
+          ],
+          [
+            322.5,
+            25.0
+          ]
+        ]
+      ],
+      "extent": "complete",
+      "boundary_note": "2026-10-20 omission correction: inspected source-coordinate envelope; internal letters and recording symbols included as tissue. External source perimeter extracted; the printed 17/18 divider meets the tissue boundary at both ends. Tracer dots and the 17 label are internal tissue.",
+      "tracing_method": "source-perimeter extraction with annotation repair and local stroke-scale smoothing"
     }
   ],
   "unmeasured": [
     {
-      "label": "17",
-      "status": "not_yet_digitized",
-      "reason": "First-run pilot traces MT, FST and AI + R only; this field awaits anatomical tracing and boundary assessment."
-    },
-    {
       "label": "18",
-      "status": "not_yet_digitized",
-      "reason": "First-run pilot traces MT, FST and AI + R only; this field awaits anatomical tracing and boundary assessment."
+      "status": "not_measurable",
+      "reason": "2026-10-20 reassessment: The ventral 18 border ends at approximately (181,619), before joining the tissue cut; its dorsal continuation is also interrupted toward M. No unique complete envelope."
     },
     {
       "label": "DL",
-      "status": "not_yet_digitized",
-      "reason": "First-run pilot traces MT, FST and AI + R only; this field awaits anatomical tracing and boundary assessment."
+      "status": "not_measurable",
+      "reason": "2026-10-20 reassessment: The medial/rostral DL limit is not drawn as a complete connection between the DI/DM zone and MT; the DL label sits in an open territory."
     },
     {
       "label": "DM",
-      "status": "not_yet_digitized",
-      "reason": "First-run pilot traces MT, FST and AI + R only; this field awaits anatomical tracing and boundary assessment."
+      "status": "not_measurable",
+      "reason": "2026-10-20 reassessment: The upper DM/M boundary coalesces with the dense injection near (354,244); the unobscured lower arc does not determine the complete upper envelope."
     },
     {
       "label": "DI",
-      "status": "not_yet_digitized",
-      "reason": "First-run pilot traces MT, FST and AI + R only; this field awaits anatomical tracing and boundary assessment."
+      "status": "not_measurable",
+      "reason": "2026-10-20 reassessment: The dashed DI limits terminate near the DM and DL territories without a uniquely closed full envelope."
     },
     {
       "label": "M",
-      "status": "not_yet_digitized",
-      "reason": "First-run pilot traces MT, FST and AI + R only; this field awaits anatomical tracing and boundary assessment."
+      "status": "not_measurable",
+      "reason": "2026-10-20 reassessment: Only fragments of the M border are shown above the injection; its upper/medial limit is not closed."
     },
     {
       "label": "VPP",
-      "status": "not_yet_digitized",
-      "reason": "First-run pilot traces MT, FST and AI + R only; this field awaits anatomical tracing and boundary assessment."
+      "status": "not_measurable",
+      "reason": "2026-10-20 reassessment: The upper and right VPP arc is visible, but its left segment between the DM junction near (397,222) and the lower arc near (417,269) is interrupted/obscured. No unique complete envelope."
     },
     {
       "label": "2",
-      "status": "not_yet_digitized",
-      "reason": "First-run pilot traces MT, FST and AI + R only; this field awaits anatomical tracing and boundary assessment."
+      "status": "not_measurable",
+      "reason": "2026-10-20 reassessment: The dashed longitudinal area-2 limits have no complete upper and lower transverse closures."
     },
     {
       "label": "1",
-      "status": "not_yet_digitized",
-      "reason": "First-run pilot traces MT, FST and AI + R only; this field awaits anatomical tracing and boundary assessment."
+      "status": "not_measurable",
+      "reason": "2026-10-20 reassessment: The area-1 dashed longitudinal border terminates superiorly and inferiorly; a complete strip cannot be closed from these endpoints."
     },
     {
       "label": "3b",
-      "status": "not_yet_digitized",
-      "reason": "First-run pilot traces MT, FST and AI + R only; this field awaits anatomical tracing and boundary assessment."
+      "status": "not_measurable",
+      "reason": "2026-10-20 reassessment: The long 3b/3a stroke ends near (582,326) without a drawn inferior closure for 3b."
     },
     {
       "label": "3a",
-      "status": "not_yet_digitized",
-      "reason": "First-run pilot traces MT, FST and AI + R only; this field awaits anatomical tracing and boundary assessment."
+      "status": "not_measurable",
+      "reason": "2026-10-20 reassessment: The 3a/MI dashed inferior limit and upper junctions do not define a unique complete 3a envelope."
     },
     {
       "label": "MI",
-      "status": "not_yet_digitized",
-      "reason": "First-run pilot traces MT, FST and AI + R only; this field awaits anatomical tracing and boundary assessment."
+      "status": "not_measurable",
+      "reason": "2026-10-20 reassessment: The MI lateral stroke terminates at the frontal-field territory and the medial border remains open; the cortex outline is not a substitute."
     },
     {
       "label": "FEF",
-      "status": "not_yet_digitized",
-      "reason": "First-run pilot traces MT, FST and AI + R only; this field awaits anatomical tracing and boundary assessment."
+      "status": "not_measurable",
+      "reason": "2026-10-20 reassessment: Dashed FEF/FV/FR junctions do not identify a unique shared boundary through the central label/symbol junction. Retained NA rather than independent overlapping ovals."
     },
     {
       "label": "FV",
-      "status": "not_yet_digitized",
-      "reason": "First-run pilot traces MT, FST and AI + R only; this field awaits anatomical tracing and boundary assessment."
+      "status": "not_measurable",
+      "reason": "2026-10-20 reassessment: The small FV field touches the dashed FEF/FR junction without a uniquely recoverable shared separator; label location is not its boundary."
     },
     {
       "label": "FR",
-      "status": "not_yet_digitized",
-      "reason": "First-run pilot traces MT, FST and AI + R only; this field awaits anatomical tracing and boundary assessment."
+      "status": "not_measurable",
+      "reason": "2026-10-20 reassessment: The inferior FR/FV dashed junction is incomplete; no independent closed total is accepted."
     },
     {
       "label": "IT",
-      "status": "not_yet_digitized",
-      "reason": "First-run pilot traces MT, FST and AI + R only; this field awaits anatomical tracing and boundary assessment."
+      "status": "not_measurable",
+      "reason": "2026-10-20 reassessment: No complete IT perimeter is drawn around the contextual label between FST and the ventral tissue."
     },
     {
       "label": "VP + VA",
-      "status": "not_yet_digitized",
-      "reason": "First-run pilot traces MT, FST and AI + R only; this field awaits anatomical tracing and boundary assessment."
+      "status": "not_measurable",
+      "reason": "2026-10-20 reassessment: The dashed rostral boundary ends near (258,594) without joining the 18 border or a drawn ventral limit."
     },
     {
       "label": "MST",
       "status": "not_measurable",
-      "reason": "Visible rostral MST boundary terminates without a closed connection to the MT perimeter; no long artificial closure imposed."
+      "reason": "2026-10-20 reassessment: The rostral MST arc ends near (380,339) without a closed connection to the MT perimeter. No new long closure."
     }
   ],
-  "review_note": "First-run pilot: whole outline plus MT, FST and AI + R. Remaining fields are NA. Anatomical review is pending; this is not a completed paper.",
+  "review_note": "20 October 2026 missing-region actions completed for this view. See documentation/missing_region_actions_2026-10-20.md for additions and remaining source limits.",
   "precision_audit": {
     "date": "2026-10-15",
     "source_review": "completed; provisional anatomical interpretation",
@@ -2108,5 +2937,10 @@
       }
     ],
     "previous_geometry": "documentation/rois_before_precision_audit.json"
+  },
+  "missing_region_action_review": {
+    "date": "2026-10-20",
+    "status": "listed action assessed; accepted geometry saved, remaining limits recorded individually",
+    "anatomical_certification": false
   }
 }

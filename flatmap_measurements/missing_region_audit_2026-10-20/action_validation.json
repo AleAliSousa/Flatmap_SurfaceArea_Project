@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "papers_rebuilt": 8,
+  "changed_views": 11,
+  "added_contours": 28,
+  "revised_contours": 1,
+  "native_imagej_roundtrip": "passed for all affected papers",
+  "vertex_and_interior_overlap_checks": "passed; unchanged documented source overlaps retained",
+  "unchanged_prior_source_overlaps": 2,
+  "scale_crop_outline_and_specimen_metadata": "unchanged",
+  "new_approximate_and_illustrative_summary_exclusions": "passed",
+  "verified_hashed_files": 1606,
+  "verified_review_links": 301,
+  "anatomical_certification": false,
+  "project_analysis": "rebuilt; all 29 changed measurement values and approximate/illustrative exclusions verified"
+}

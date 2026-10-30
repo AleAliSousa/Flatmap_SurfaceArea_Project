@@ -104,6 +104,14 @@
       "overlap_pixels": 6,
       "overlap_after_eroding_both_masks_2px": 0,
       "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig14F_summary",
+      "field_a": "MT",
+      "field_b": "FST",
+      "overlap_pixels": 15,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
     }
   ],
   "new_tracings_source_visually_inspected": true,

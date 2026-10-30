@@ -1,6 +1,47 @@
 {
   "overlap_method": "Each binary mask eroded by a 5x5 square (two pixels per side); report intersection before and after erosion. This is a geometry diagnostic, not uncertainty estimation.",
-  "overlaps": [],
+  "overlaps": [
+    {
+      "map_id": "fig01_macaque",
+      "field_a": "DLr",
+      "field_b": "MT",
+      "overlap_pixels": 1,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig01_macaque",
+      "field_a": "2",
+      "field_b": "1",
+      "overlap_pixels": 42,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig01_macaque",
+      "field_a": "MT",
+      "field_b": "MSTv",
+      "overlap_pixels": 16,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig01_marmoset",
+      "field_a": "MT",
+      "field_b": "FST",
+      "overlap_pixels": 20,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig01_marmoset",
+      "field_a": "MT",
+      "field_b": "DLr + DLc",
+      "overlap_pixels": 1,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    }
+  ],
   "new_tracings_source_visually_inspected": true,
   "anatomical_certification": false
 }

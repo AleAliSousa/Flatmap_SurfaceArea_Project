@@ -924,7 +924,17 @@
       "label": "TPI",
       "status": "not_measurable",
       "reason": "Full closed field perimeter is not recoverable: medial or ventral boundary ends remain open. Thin exposed-surface projection line is not an areal boundary and is not used to manufacture closure."
+    },
+    {
+      "label": "S (medial component)",
+      "status": "not_measurable",
+      "reason": "2026-10-20 reassessment: Additional S component identified. Its border is interrupted at the medial-wall tissue cut, with separate ends near (650,345) and (735,250) in source coordinates. The thin transverse exposed-surface projection is not a field border; no complete area assigned."
     }
   ],
-  "review_note": "Dense tracing on 4 pixels/PDF point source rendering. Anatomical interpretation provisional; hide overlay in the precision review to inspect the printed stroke."
+  "review_note": "20 October 2026 missing-region actions completed for this view. See documentation/missing_region_actions_2026-10-20.md for additions and remaining source limits.",
+  "missing_region_action_review": {
+    "date": "2026-10-20",
+    "status": "listed action assessed; accepted geometry saved, remaining limits recorded individually",
+    "anatomical_certification": false
+  }
 }

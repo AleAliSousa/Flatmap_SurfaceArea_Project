@@ -12,6 +12,10 @@ Render the original PDF pixels at a recorded scale, crop without stretching and 
 
 Trace complete field envelopes, retaining tracer dots, labels and injection patches inside tissue. Keep tears/cut gaps outside tissue. Document any interpolation; a missing boundary does not justify a long invented closure. Whole-tissue outlines are independent of field boundaries. Multiple disconnected tissue pieces may require multiple polygons; holes/artifacts use explicit exclusions.
 
+Follow external label leaders to the tissue compartment at their endpoints. Do not trace the leader or the region behind its letters. Uniformly dark fields still include their labels and require their full external envelope. Use color references for identity only unless coordinate correspondence and calibration have been established. For neighboring fields, reuse inspected shared boundaries and smooth only at the visible source-stroke scale. In this project, see [the worked tracing method](../../../flatmap_measurements/tracing_method.md).
+
+Before calling a figure complete, compare every named field and component with both the saved ROI list and the unmeasured list. Audit omitted labels, additional specimens, insets and multiple components separately. Generic rejection reasons such as dark fill or label overprint require renewed visual assessment; record the specific missing boundary when measurement remains impossible. Inventory checks and targeted visual checks must be reported separately from an exhaustive anatomical review.
+
 `area_mm2 = area_px2 * (scale_length_mm / scale_length_px)^2`
 
 `percent_of_drawn_neocortex = 100 * field_area_px2 / whole_neocortex_area_px2`

@@ -1,0 +1,43 @@
+{
+  "processed_views": 4,
+  "measured_fields": 14,
+  "unmeasured_fields": 1,
+  "overlaps": [
+    {
+      "map_id": "fig03a_human",
+      "field_a": "S1",
+      "field_b": "S1_face",
+      "overlap_pixels": 1435
+    },
+    {
+      "map_id": "fig03b_macaque",
+      "field_a": "S1",
+      "field_b": "S1_face",
+      "overlap_pixels": 956
+    },
+    {
+      "map_id": "fig03c_mouse",
+      "field_a": "S1",
+      "field_b": "S1_face",
+      "overlap_pixels": 20860
+    },
+    {
+      "map_id": "fig03d_naked_mole_rat",
+      "field_a": "S1",
+      "field_b": "S1_face",
+      "overlap_pixels": 43041
+    }
+  ],
+  "native_imagej_roundtrip": "passed",
+  "anatomical_review": "provisional; pending user review",
+  "reference_comparison": "not_run; core workflow does not require reference data",
+  "geometry_overlap_audit": "passed; no undeclared interior overlaps; explicitly declared parent/subregion pairs are non-additive",
+  "not_yet_digitized_fields": 0,
+  "pending_anatomical_review_fields": 0,
+  "fully_digitized": true,
+  "all_numbered_figures_assessed": true,
+  "numbered_figures_assessed": 3,
+  "assessment_status": "eligible_views_digitized_provisional",
+  "whole_neocortex_summary": "unavailable; no independently established complete-neocortex view",
+  "source_visual_review": "completed; anatomical certification pending"
+}

@@ -1,0 +1,111 @@
+{
+  "overlap_method": "Each binary mask eroded by a 5x5 square (two pixels per side); report intersection before and after erosion. This is a geometry diagnostic, not uncertainty estimation.",
+  "overlaps": [
+    {
+      "map_id": "fig11A",
+      "field_a": "Vc",
+      "field_b": "Vr",
+      "overlap_pixels": 71,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig14A_summary",
+      "field_a": "SC",
+      "field_b": "SI",
+      "overlap_pixels": 3,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig14A_summary",
+      "field_a": "SI",
+      "field_b": "SII",
+      "overlap_pixels": 19,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig14C_summary",
+      "field_a": "VI",
+      "field_b": "VII",
+      "overlap_pixels": 117,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig14C_summary",
+      "field_a": "SII",
+      "field_b": "VS",
+      "overlap_pixels": 13,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig14C_summary",
+      "field_a": "SII",
+      "field_b": "SI",
+      "overlap_pixels": 14,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig14C_summary",
+      "field_a": "SI upper island",
+      "field_b": "SI upper strip",
+      "overlap_pixels": 3,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig14D_summary",
+      "field_a": "VII",
+      "field_b": "VI",
+      "overlap_pixels": 89,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig14D_summary",
+      "field_a": "SII",
+      "field_b": "SI",
+      "overlap_pixels": 4,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig14D_summary",
+      "field_a": "SI",
+      "field_b": "R",
+      "overlap_pixels": 67,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig14D_summary",
+      "field_a": "SI upper island",
+      "field_b": "R",
+      "overlap_pixels": 123,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig14E_summary",
+      "field_a": "VI",
+      "field_b": "VII",
+      "overlap_pixels": 176,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig14E_summary",
+      "field_a": "MT",
+      "field_b": "FST",
+      "overlap_pixels": 6,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    }
+  ],
+  "new_tracings_source_visually_inspected": true,
+  "anatomical_certification": false
+}

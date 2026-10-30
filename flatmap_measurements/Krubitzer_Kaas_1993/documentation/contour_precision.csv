@@ -39,6 +39,7 @@ fig03,AI + R,complete,62,2,enlarged perimeter reviewed; short symbol continuatio
 fig05,MT,complete,38,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
 fig05,FST,complete,38,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
 fig05,AI + R,complete,35,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig05,17,complete,206,2,enlarged perimeter reviewed; short symbol continuations documented,source-perimeter extraction with annotation repair and local stroke-scale smoothing,pending
 fig06,17,complete,284,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
 fig06,DM,complete,217,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
 fig06,MT,complete,93,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending

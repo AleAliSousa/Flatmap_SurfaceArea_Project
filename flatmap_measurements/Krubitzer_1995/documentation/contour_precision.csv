@@ -1,6 +1,27 @@
 map_id,label,extent,vertices,source_render_pixels_per_pdf_point,source_visual_check,tracing_method,anatomical_certification
 fig01_flying_fox,MT,complete,31,4,enlarged perimeter reviewed; short symbol continuations documented,Manually positioned source-envelope vertices with sub-stroke interpolation at occluding text,pending
-fig01_marmoset,MT,complete,30,4,enlarged perimeter reviewed; short symbol continuations documented,Manually positioned source-envelope vertices with sub-stroke interpolation at occluding text,pending
+fig01_macaque,FST,complete,35,4,enlarged perimeter reviewed; short symbol continuations documented,source-perimeter extraction with annotation repair and local stroke-scale smoothing,pending
+fig01_macaque,R,complete,17,4,enlarged perimeter reviewed; short symbol continuations documented,source-perimeter extraction with annotation repair and local stroke-scale smoothing,pending
+fig01_macaque,DI,complete,41,4,enlarged perimeter reviewed; short symbol continuations documented,source-perimeter extraction with annotation repair and local stroke-scale smoothing,pending
+fig01_macaque,DLr,complete,37,4,enlarged perimeter reviewed; short symbol continuations documented,source-perimeter extraction with annotation repair and local stroke-scale smoothing,pending
+fig01_macaque,DLc,complete,52,4,enlarged perimeter reviewed; short symbol continuations documented,source-perimeter extraction with annotation repair and local stroke-scale smoothing,pending
+fig01_macaque,FV,complete,18,4,enlarged perimeter reviewed; short symbol continuations documented,source-perimeter extraction with annotation repair and local stroke-scale smoothing,pending
+fig01_macaque,FEF,complete,21,4,enlarged perimeter reviewed; short symbol continuations documented,source-perimeter extraction with annotation repair and local stroke-scale smoothing,pending
+fig01_macaque,SMA,complete,96,4,enlarged perimeter reviewed; short symbol continuations documented,manually inspected anatomical guides with dense interpolating curve,pending
+fig01_macaque,VPP,complete,95,4,enlarged perimeter reviewed; short symbol continuations documented,manually inspected anatomical guides with dense interpolating curve,pending
+fig01_macaque,2,complete,105,4,enlarged perimeter reviewed; short symbol continuations documented,manually inspected anatomical guides with dense interpolating curve,pending
+fig01_macaque,1,complete,132,4,enlarged perimeter reviewed; short symbol continuations documented,manually inspected anatomical guides with dense interpolating curve,pending
+fig01_macaque,VP,complete,62,4,enlarged perimeter reviewed; short symbol continuations documented,source exterior extraction with localized annotation-notch closure,pending
+fig01_macaque,MT,complete,132,4,enlarged perimeter reviewed; short symbol continuations documented,shared source-guided dense anatomical curve,pending
+fig01_macaque,MSTv,complete,92,4,enlarged perimeter reviewed; short symbol continuations documented,shared source-guided dense anatomical curve,pending
+fig01_marmoset,MT,complete,158,4,enlarged perimeter reviewed; short symbol continuations documented,Manually positioned source-envelope vertices with sub-stroke interpolation at occluding text,pending
+fig01_marmoset,FST,complete,239,4,enlarged perimeter reviewed; short symbol continuations documented,source-perimeter extraction with annotation repair and local stroke-scale smoothing,pending
+fig01_marmoset,R,complete,33,4,enlarged perimeter reviewed; short symbol continuations documented,source-perimeter extraction with annotation repair and local stroke-scale smoothing,pending
+fig01_marmoset,SMA,complete,40,4,enlarged perimeter reviewed; short symbol continuations documented,source-perimeter extraction with annotation repair and local stroke-scale smoothing,pending
+fig01_marmoset,FEF,complete,19,4,enlarged perimeter reviewed; short symbol continuations documented,source-perimeter extraction with annotation repair and local stroke-scale smoothing,pending
+fig01_marmoset,FV,complete,17,4,enlarged perimeter reviewed; short symbol continuations documented,source-perimeter extraction with annotation repair and local stroke-scale smoothing,pending
+fig01_marmoset,DI,complete,35,4,enlarged perimeter reviewed; short symbol continuations documented,source-perimeter extraction with annotation repair and local stroke-scale smoothing,pending
+fig01_marmoset,DLr + DLc,complete,57,4,enlarged perimeter reviewed; short symbol continuations documented,source-perimeter extraction with annotation repair and local stroke-scale smoothing,pending
 fig01_squirrel,AUD,complete,29,4,enlarged perimeter reviewed; short symbol continuations documented,Manually positioned source-envelope vertices with sub-stroke interpolation at occluding text,pending
 fig01_squirrel,R,complete,27,4,enlarged perimeter reviewed; short symbol continuations documented,Manually positioned source-envelope vertices with sub-stroke interpolation at occluding text,pending
 fig01_squirrel,TP,complete,51,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending

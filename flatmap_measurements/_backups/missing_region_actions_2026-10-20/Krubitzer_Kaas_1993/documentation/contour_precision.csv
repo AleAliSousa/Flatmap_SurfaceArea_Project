@@ -1,0 +1,107 @@
+map_id,label,extent,vertices,source_render_pixels_per_pdf_point,source_visual_check,tracing_method,anatomical_certification
+fig01_summary,M,complete,59,4,enlarged perimeter reviewed; short symbol continuations documented,Manually identified anatomical envelope with regularized stroke-center following,pending
+fig01_summary,DM,complete,80,4,enlarged perimeter reviewed; short symbol continuations documented,Manually identified anatomical envelope with regularized stroke-center following,pending
+fig01_summary,MT,complete,59,4,enlarged perimeter reviewed; short symbol continuations documented,Manually identified anatomical envelope with regularized stroke-center following,pending
+fig01_summary,3b,complete,105,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig01_summary,3a,complete,68,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig01_summary,MI,complete,72,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig01_summary,SMA,complete,43,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig01_summary,SII,complete,40,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig01_summary,PV,complete,53,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig01_summary,VS,complete,61,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig01_summary,FEF,complete,36,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig01_summary,FV,complete,41,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig01_summary,AI + R,complete,59,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig01_summary,MST,complete,59,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig01_summary,FST,complete,72,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig01_summary,ITc,complete,82,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig01_summary,VP + VA,complete,69,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig01_summary,DLr,complete,107,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig01_summary,DI,complete,60,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig01_summary,DLc,complete,65,4,enlarged perimeter reviewed; short symbol continuations documented,Manually identified anatomical envelope with regularized stroke-center following,pending
+fig01_summary,1,complete,71,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
+fig01_summary,VPP,complete,53,4,enlarged perimeter reviewed; short symbol continuations documented,Manually identified anatomical envelope with regularized stroke-center following,pending
+fig02A_cortex,DM,complete,63,4,enlarged perimeter reviewed; short symbol continuations documented,Manually identified anatomical envelope with regularized stroke-center following,pending
+fig02B_cortex,DM,complete,59,4,enlarged perimeter reviewed; short symbol continuations documented,Manually identified anatomical envelope with regularized stroke-center following,pending
+fig02C_cortex,DM,complete,53,4,enlarged perimeter reviewed; short symbol continuations documented,Manually identified anatomical envelope with regularized stroke-center following,pending
+fig03,MT,complete,115,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig03,MST,complete,77,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig03,FST,complete,107,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig03,FV,complete,23,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig03,1,complete,127,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig03,2,complete,111,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig03,3b,complete,174,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig03,DM,complete,37,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig03,VPP,complete,43,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig03,17,complete,113,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig03,SMA,complete,32,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig03,AI + R,complete,62,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig05,MT,complete,38,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig05,FST,complete,38,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig05,AI + R,complete,35,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig06,17,complete,284,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig06,DM,complete,217,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig06,MT,complete,93,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig06,FEF,complete,24,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig06,MST,complete,45,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig06,FST,complete,45,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig06,VPP,complete,38,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig06,FV,complete,24,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig11A,DM,complete,39,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig11B,DM,complete,32,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig12A,DM,complete,48,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig12A,VPP,complete,44,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig13,DM,complete,39,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig13,VPP,complete,39,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig13,MT,complete,39,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig13,FST,complete,65,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig13,AI + R,complete,51,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig13,3b,complete,119,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig13,3a,complete,31,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig13,PV,complete,35,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig13,SII,complete,36,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig14,MT,complete,94,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig14,FST,complete,157,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig14,AI,complete,68,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig14,SII,complete,28,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig14,PV,complete,27,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig14,3b,complete,182,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig14,17,complete,211,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig14,DM,complete,36,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig15,17,complete,535,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig15,18,complete,442,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig15,DM,complete,120,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig15,MT,complete,92,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig15,FST,complete,89,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig15,AI,complete,30,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig15,SII,complete,30,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig15,PV,complete,28,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig15,FEF,complete,27,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig15,FV,complete,23,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig15,R,complete,28,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig15,3b,complete,191,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig15,3a,complete,146,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig16,DM,complete,205,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig16,MT,complete,53,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig16,17,complete,848,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig17,17,complete,429,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig17,18,complete,308,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig17,MST,complete,117,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig17,FST,complete,118,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig17,AI,complete,86,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig17,PV,complete,71,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig17,DM,complete,36,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig17,SII,complete,73,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig17,3b,complete,368,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig17,VPP,complete,32,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig17,MT,complete,46,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig17,DL,complete,58,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig18,17,complete,913,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig18,MT,complete,136,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig18,DM,complete,65,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig19,DM,complete,123,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig19,MT,partial,106,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig19,17 + 18,partial,353,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig20,DM,complete,49,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig20,MT,complete,44,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig20,17,partial,139,2,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending

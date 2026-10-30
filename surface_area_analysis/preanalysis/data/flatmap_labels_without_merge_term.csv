@@ -1,0 +1,32 @@
+region_group,label,n_specimen_means
+1,1,5
+2,2,5
+3a,3a,8
+A,A,13
+AI + R,AI + R,1
+Aud,Aud,2
+Aud (auditory complex),Aud (auditory complex),3
+C,C,4
+CT,CT,4
+FEF,FEF,12
+FV,FV,15
+M,M,4
+MI,MI,1
+Motor & Premotor,Motor & Premotor,1
+PV,PV,19
+PV/IG,PV/IG,5
+PV/S2,PV/S2,2
+R,R,6
+RV,RV,1
+S,S,2
+SC,SC,2
+SII/PV,SII/PV,3
+SR,SR,2
+TAi,TAi,2
+TArv + TAcv,TArv + TAcv,2
+TI,TI,4
+TP,TP,2
+UZ,UZ,2
+V,V,3
+VPP,VPP,2
+VS,VS,1

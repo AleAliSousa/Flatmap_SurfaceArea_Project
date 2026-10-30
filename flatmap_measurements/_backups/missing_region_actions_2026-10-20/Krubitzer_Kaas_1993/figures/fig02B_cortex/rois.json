@@ -1,0 +1,295 @@
+{
+  "map_id": "fig02B_cortex",
+  "figure": 2,
+  "pdf_page": 6,
+  "printed_page": 502,
+  "species": "Aotus trivirgatus",
+  "specimen": "owl monkey; figure 2, identity unreported",
+  "hemisphere": "not reported",
+  "hemisphere_relation": "not assigned",
+  "view_type": "repeated_physiological_map",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "outline": null,
+  "supersample": 4,
+  "render_scale": 4,
+  "relationship_note": "A, B and C repeat cortical geometry from one owl monkey, not three animals. Only B retains the local printed 2 mm stroke; A/C remain pixels-only. The owl is not identified by case number; possible overlap with other owl monkeys in this paper is unresolved, so these observations do not enter independent-animal means.",
+  "specimen_link_status": "unresolved_possible_overlap",
+  "panel": "B lower cortical map",
+  "crop_xyxy": [
+    910,
+    1260,
+    1480,
+    2130
+  ],
+  "rois": [
+    {
+      "label": "DM",
+      "polygons": [
+        [
+          [
+            290.5624209266758,
+            438.0339015933944
+          ],
+          [
+            297.3247224709432,
+            435.27232389525625
+          ],
+          [
+            342.70828255900204,
+            419.6473864144702
+          ],
+          [
+            374.3567682362754,
+            410.32181355675345
+          ],
+          [
+            381.9279096862973,
+            409.10070566340755
+          ],
+          [
+            404.0465808751333,
+            402.9028422618447
+          ],
+          [
+            431.08861456186895,
+            399.09971880855517
+          ],
+          [
+            449.8578946265294,
+            401.1275446593675
+          ],
+          [
+            463.4482880705928,
+            405.9892320431565
+          ],
+          [
+            470.93759798455966,
+            410.2064400180778
+          ],
+          [
+            481.2392516797819,
+            418.0548427316837
+          ],
+          [
+            491.7283095488393,
+            429.25327321156567
+          ],
+          [
+            499.09447141635934,
+            441.86576986880175
+          ],
+          [
+            509.4635861748382,
+            466.77739437657596
+          ],
+          [
+            511.87796533630683,
+            476.0352866419642
+          ],
+          [
+            518.8686354380712,
+            509.0348899371581
+          ],
+          [
+            521.1119622594805,
+            528.1973250984041
+          ],
+          [
+            523.909478498788,
+            541.5522291834232
+          ],
+          [
+            527.357337343555,
+            575.3486787473707
+          ],
+          [
+            529.2773494331414,
+            584.8020089893765
+          ],
+          [
+            530.6828255328146,
+            610.7326676677654
+          ],
+          [
+            531.8693384905763,
+            618.3107217803598
+          ],
+          [
+            532.7480855854044,
+            651.287827172227
+          ],
+          [
+            528.3660371168351,
+            677.8791616693686
+          ],
+          [
+            525.1547629465647,
+            685.9347617094667
+          ],
+          [
+            521.9532173614637,
+            691.8067320697374
+          ],
+          [
+            510.5865565675979,
+            704.4019371745569
+          ],
+          [
+            506.2213122513857,
+            708.4954822635158
+          ],
+          [
+            498.48714937807887,
+            714.3102602824456
+          ],
+          [
+            480.09745766776854,
+            724.3821465953935
+          ],
+          [
+            472.9647123019688,
+            727.1894427047499
+          ],
+          [
+            463.2501070169428,
+            732.322198030519
+          ],
+          [
+            455.9821537905278,
+            735.5757628293253
+          ],
+          [
+            451.06027873341174,
+            738.4713076654992
+          ],
+          [
+            428.8353179598191,
+            747.4446121197694
+          ],
+          [
+            421.21230327147754,
+            751.538506580109
+          ],
+          [
+            398.9689653070167,
+            760.492081115947
+          ],
+          [
+            393.4352592679881,
+            761.9072149127006
+          ],
+          [
+            384.22415016216723,
+            765.6083850231299
+          ],
+          [
+            368.55268592476506,
+            770.240547779929
+          ],
+          [
+            358.42318099849194,
+            774.3263733645564
+          ],
+          [
+            354.7967578537773,
+            774.6888939485274
+          ],
+          [
+            353.1332668020403,
+            774.3247752791005
+          ],
+          [
+            351.83982255377606,
+            773.438852296046
+          ],
+          [
+            350.56621607392697,
+            770.0272134181417
+          ],
+          [
+            347.7867670695687,
+            755.2923566127853
+          ],
+          [
+            346.8153053593026,
+            744.7017273874749
+          ],
+          [
+            317.75356489646464,
+            589.401944438944
+          ],
+          [
+            315.22216785043605,
+            581.1265046774155
+          ],
+          [
+            312.3526520284906,
+            566.4544099571879
+          ],
+          [
+            310.2581697478385,
+            560.0998442952389
+          ],
+          [
+            299.1848130688434,
+            501.14764629552076
+          ],
+          [
+            296.85097104276423,
+            493.846269363048
+          ],
+          [
+            290.71630289312236,
+            461.4514529607548
+          ],
+          [
+            288.8440795043684,
+            456.0548462304032
+          ],
+          [
+            286.70219296119245,
+            445.3195055397979
+          ],
+          [
+            285.0707835147788,
+            439.8803068549325
+          ],
+          [
+            285.065810684504,
+            438.2104319907983
+          ],
+          [
+            285.771418161441,
+            437.20307250419296
+          ]
+        ]
+      ],
+      "extent": "complete",
+      "tracing_method": "Manually identified anatomical envelope with regularized stroke-center following",
+      "boundary_note": "Observed printed anatomical perimeter followed as a smooth continuous line. Internal recording marks, text and body-part subdivisions remain inside the field. Short print interruptions interpolated only along the continuing envelope."
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "M",
+      "status": "not_measurable",
+      "reason": "The anterior field envelope remains open; the dashed horizontal-meridian representation is internal retinotopy, not a closed field boundary."
+    }
+  ],
+  "repeat_of": "unresolved_owl_case_identity",
+  "linked_main_map": null,
+  "scale_endpoints_px": [
+    [
+      20,
+      30
+    ],
+    [
+      130,
+      30
+    ]
+  ],
+  "scale_length_mm": 2,
+  "scale_note": "Own local printed scale stroke, endpoints reviewed on the source.",
+  "review_note": "Reassessed from the full source page; cortical inset crop and each field perimeter reviewed separately."
+}

@@ -1,0 +1,10 @@
+figure,pdf_page,panel,specimen,interpretation,processing_status,reason_or_result,linked_main_map
+1,19,all,,source_figure_assessment,assessed_excluded,Phylogenetic diagram with folded/lateral brain silhouettes; projected regions and hidden cortex do not define flatmap surface area.,
+2,20,all,,source_figure_assessment,assessed_excluded,"Connectivity network, not spatial cortical geometry.",
+3,21,all,,source_figure_assessment,assessed_excluded,Limb/embryonic gene-expression illustration; no cortical field map.,
+4,22,all,,source_figure_assessment,digitized_provisional,"5 measured view(s), 24 field/component observations; 0 boundaries remain NA for anatomical review. Illustrative, partial, repeated and unscaled restrictions apply.",fig04A_normal_mouse;fig04B_COUPTFI_mouse;fig04C_platypus;fig04D_normal_opossum;fig04E_enucleated_opossum
+5,23,all,,source_figure_assessment,digitized_provisional,"4 measured view(s), 22 field/component observations; 0 boundaries remain NA for anatomical review. Illustrative, partial, repeated and unscaled restrictions apply.",fig05A_wildtype_mouse;fig05B_deaf_mouse;fig05C_normal_opossum;fig05D_enucleated_opossum
+6,24,all,,source_figure_assessment,assessed_excluded,Folded brain external views; buried cortex is not represented.,
+7,25,all,,source_figure_assessment,digitized_provisional,"2 measured view(s), 63 field/component observations; 0 boundaries remain NA for anatomical review. Illustrative, partial, repeated and unscaled restrictions apply.",fig07_macaque;fig07_mouse
+8,26,all,,source_figure_assessment,assessed_excluded,Phylogeny and folded/parietal surface views; no complete planar field envelope.,
+9,27,all,,source_figure_assessment,assessed_excluded,Brain silhouettes and cellular module arrays; no full cortical field borders.,

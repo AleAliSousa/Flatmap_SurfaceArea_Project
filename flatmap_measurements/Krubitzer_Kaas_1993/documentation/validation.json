@@ -1,7 +1,7 @@
 {
   "processed_views": 20,
-  "measured_fields": 106,
-  "unmeasured_fields": 89,
+  "measured_fields": 107,
+  "unmeasured_fields": 88,
   "overlaps": [
     {
       "map_id": "fig01_summary",
@@ -313,13 +313,7 @@
   "native_imagej_roundtrip": "passed",
   "anatomical_review": "provisional; pending user review",
   "reference_comparison": "not_run; core workflow does not require reference data",
-  "full_dataset_recheck": {
-    "date": "2026-10-16",
-    "source_figure_inventory_rechecked": true,
-    "canonical_contour_count": 106,
-    "geometry_changed": true,
-    "anatomical_certification": false,
-    "review": "review/full_dataset_audit.html",
-    "geometry_review": "passed by audit_geometry.py; shared-stroke slivers or documented source overlaps retained"
-  }
+  "full_dataset_recheck_date": "2026-10-16",
+  "geometry_overlap_audit": "passed; no overlap after removing shared-border raster slivers",
+  "anatomical_certification": false
 }

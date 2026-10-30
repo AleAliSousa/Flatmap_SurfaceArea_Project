@@ -1,0 +1,5 @@
+figure,pdf_page,panel,specimen,interpretation,processing_status,reason_or_result,linked_main_map
+1,7,all,,source_figure_assessment,assessed_excluded,"Visual-field symptom charts, not cortex.",
+2,9,all,,source_figure_assessment,assessed_excluded,"Body symptom charts, not cortex.",
+3,10,all,,source_figure_assessment,assessed_excluded,"Body symptom charts, not cortex.",
+4,12,all,,source_figure_assessment,digitized_provisional,"1 measured view(s), 7 field/component observations; 0 boundaries remain NA for anatomical review. Illustrative, partial, repeated and unscaled restrictions apply.",fig04_human

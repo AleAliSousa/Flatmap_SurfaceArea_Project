@@ -1,0 +1,527 @@
+{
+  "map_id": "fig01_squirrel",
+  "figure": 1,
+  "pdf_page": 3,
+  "printed_page": 410,
+  "species": "Sciurus carolinensis",
+  "specimen": "illustrative summary",
+  "hemisphere": "not reported",
+  "hemisphere_relation": "not assigned",
+  "view_type": "illustrative_summary_flatmap",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "outline": null,
+  "supersample": 4,
+  "render_scale": 4,
+  "relationship_note": "Caption describes flattened cortex, adapted from multiple studies. This comparative source illustration is not an additional specimen. Saturated fills that merge several fields are not partitioned.",
+  "specimen_link_status": "caption identified",
+  "panel": null,
+  "crop_xyxy": [
+    120,
+    1220,
+    770,
+    1820
+  ],
+  "rois": [
+    {
+      "label": "AUD",
+      "polygons": [
+        [
+          [
+            288.6154338716022,
+            408.2270928654071
+          ],
+          [
+            291.0041969175693,
+            407.51124298720526
+          ],
+          [
+            306.74132737797356,
+            404.8773666852229
+          ],
+          [
+            311.60505967772,
+            404.46670375117174
+          ],
+          [
+            315.2276721379413,
+            405.75591807180274
+          ],
+          [
+            334.5932485975696,
+            416.1771645311082
+          ],
+          [
+            337.06591550918995,
+            417.7682103883593
+          ],
+          [
+            338.9574581313939,
+            419.940380535027
+          ],
+          [
+            349.91505159284543,
+            440.1354657180377
+          ],
+          [
+            351.5717128533388,
+            443.7285103301
+          ],
+          [
+            352.2887973834861,
+            447.60044469200017
+          ],
+          [
+            353.68972777736565,
+            464.5325760080095
+          ],
+          [
+            353.57419869149135,
+            467.42372208215806
+          ],
+          [
+            352.95386314392647,
+            469.2044104909468
+          ],
+          [
+            339.7912871573253,
+            487.9657141538637
+          ],
+          [
+            322.814647262626,
+            503.44969035709477
+          ],
+          [
+            320.4734746234111,
+            505.19910516031626
+          ],
+          [
+            318.7140142750219,
+            505.90572179772226
+          ],
+          [
+            299.8663439965578,
+            507.66706340655304
+          ],
+          [
+            296.0040532144215,
+            507.4879511174499
+          ],
+          [
+            293.35868421216367,
+            506.3163177130864
+          ],
+          [
+            282.3796098196024,
+            499.41972000608007
+          ],
+          [
+            280.4068127689844,
+            497.4422696775242
+          ],
+          [
+            279.68216290826365,
+            495.72339029482555
+          ],
+          [
+            276.075188897529,
+            475.09894226336087
+          ],
+          [
+            276.1654671345742,
+            448.1245667665809
+          ],
+          [
+            281.9007523628595,
+            422.7943908518223
+          ],
+          [
+            286.8032888840445,
+            410.8205571633635
+          ],
+          [
+            287.6028453256698,
+            409.25595712613836
+          ]
+        ]
+      ],
+      "extent": "complete",
+      "boundary_note": "Named closed comparative source compartment. Short intervals covered by large lettering are interpolated along the continuing outer anatomical curve; glyph outlines and label holes are not field boundaries. Reduced illustrative source, not an additional animal.",
+      "tracing_method": "Manually positioned source-envelope vertices with sub-stroke interpolation at occluding text"
+    },
+    {
+      "label": "R",
+      "polygons": [
+        [
+          [
+            374.5602470497476,
+            364.70791789163195
+          ],
+          [
+            376.0558382418726,
+            364.61286515632924
+          ],
+          [
+            378.8525209831776,
+            365.21413207302294
+          ],
+          [
+            394.36690448068083,
+            369.1040007323019
+          ],
+          [
+            398.0076366543638,
+            370.49774249482795
+          ],
+          [
+            400.2952738882106,
+            372.3253155469023
+          ],
+          [
+            410.13578490051805,
+            382.2345595504568
+          ],
+          [
+            411.58058003874817,
+            384.6361058093512
+          ],
+          [
+            411.92468389797494,
+            386.4935733239946
+          ],
+          [
+            411.98525780561386,
+            402.4586172017437
+          ],
+          [
+            411.4945592357585,
+            406.3334920035771
+          ],
+          [
+            409.85928974549097,
+            409.91650807169833
+          ],
+          [
+            401.20535611896366,
+            425.6797346037995
+          ],
+          [
+            399.3835753888718,
+            427.9141933719239
+          ],
+          [
+            397.80435964937914,
+            429.02587995531394
+          ],
+          [
+            383.54064988890497,
+            436.21602123829865
+          ],
+          [
+            380.8650694558344,
+            437.2032422510184
+          ],
+          [
+            379.0968032320799,
+            437.1501668053917
+          ],
+          [
+            377.3420221200592,
+            436.4764832038172
+          ],
+          [
+            365.12933201094313,
+            429.7081824208172
+          ],
+          [
+            362.9683747616525,
+            427.9796969033425
+          ],
+          [
+            362.0941760908896,
+            425.4940783289095
+          ],
+          [
+            362.0079817620269,
+            405.5505607584594
+          ],
+          [
+            362.45456952864316,
+            400.6103669363523
+          ],
+          [
+            368.2728756480628,
+            379.40896061906375
+          ],
+          [
+            373.1544286821771,
+            366.39979941259406
+          ],
+          [
+            374.00060697165264,
+            365.0679995970384
+          ]
+        ]
+      ],
+      "extent": "complete",
+      "boundary_note": "Named closed comparative source compartment. Short intervals covered by large lettering are interpolated along the continuing outer anatomical curve; glyph outlines and label holes are not field boundaries. Reduced illustrative source, not an additional animal.",
+      "tracing_method": "Manually positioned source-envelope vertices with sub-stroke interpolation at occluding text"
+    },
+    {
+      "label": "TP",
+      "polygons": [
+        [
+          [
+            160.4965974013682,
+            399.4532877151018
+          ],
+          [
+            163.1586026764664,
+            398.9028238551306
+          ],
+          [
+            166.10024590505316,
+            398.9484440558739
+          ],
+          [
+            171.85261818951918,
+            400.49336679712826
+          ],
+          [
+            180.88397823737947,
+            404.72896147567354
+          ],
+          [
+            187.10231882506383,
+            409.69989446575227
+          ],
+          [
+            190.59888385355544,
+            414.53415289662667
+          ],
+          [
+            193.9073503036866,
+            421.80301279776506
+          ],
+          [
+            196.83762752109646,
+            432.2868510864035
+          ],
+          [
+            198.6575112710353,
+            436.62946779608075
+          ],
+          [
+            201.54984423081058,
+            446.1746671015502
+          ],
+          [
+            204.56847229630915,
+            453.57765564333545
+          ],
+          [
+            210.9862212441439,
+            466.0116026103002
+          ],
+          [
+            218.7973294535053,
+            477.6146354005091
+          ],
+          [
+            221.46824897699764,
+            480.5490269259656
+          ],
+          [
+            225.50083694862298,
+            483.47169612410323
+          ],
+          [
+            249.8646579207497,
+            496.26663360530756
+          ],
+          [
+            253.5848733701743,
+            499.5557683904724
+          ],
+          [
+            256.5787333294732,
+            503.5386603202551
+          ],
+          [
+            259.2113035884678,
+            508.90405907098796
+          ],
+          [
+            263.04196076134133,
+            520.2723934029935
+          ],
+          [
+            264.12760134768604,
+            525.1323226877203
+          ],
+          [
+            264.1763638048607,
+            529.0947100076492
+          ],
+          [
+            263.07870970548834,
+            532.84364709952
+          ],
+          [
+            261.35059827183096,
+            535.2202598027126
+          ],
+          [
+            252.58630443405036,
+            541.7939603005397
+          ],
+          [
+            249.03177897811486,
+            543.532198865196
+          ],
+          [
+            246.1346804113493,
+            544.1731807277279
+          ],
+          [
+            242.1609986072219,
+            544.2542641015444
+          ],
+          [
+            237.24053738229532,
+            543.4655976935355
+          ],
+          [
+            216.23698682386453,
+            536.9981710375326
+          ],
+          [
+            209.7195953529364,
+            535.7418764943353
+          ],
+          [
+            203.05218592946457,
+            533.7393111764502
+          ],
+          [
+            189.2406075699915,
+            528.9840505498547
+          ],
+          [
+            179.98672906444241,
+            525.2053393198637
+          ],
+          [
+            168.82094377507678,
+            518.5815318420438
+          ],
+          [
+            160.94649445294326,
+            512.43464963864
+          ],
+          [
+            149.2181390974157,
+            500.15597736394244
+          ],
+          [
+            135.7391824094778,
+            488.26875280895393
+          ],
+          [
+            132.03590128873768,
+            483.5826500724624
+          ],
+          [
+            129.95944514113734,
+            479.23280256476903
+          ],
+          [
+            127.6474898103495,
+            466.9728181649904
+          ],
+          [
+            125.93031354831172,
+            443.12308770982844
+          ],
+          [
+            126.28299525726716,
+            439.15836471716074
+          ],
+          [
+            127.4515629256909,
+            434.314632822995
+          ],
+          [
+            129.12811414721378,
+            430.7198126405063
+          ],
+          [
+            132.1703224439426,
+            426.7833883820172
+          ],
+          [
+            139.84555261801293,
+            419.38348713958624
+          ],
+          [
+            145.1318874414175,
+            414.9886795626502
+          ],
+          [
+            149.87331343820065,
+            408.63374885134306
+          ],
+          [
+            155.92334775790317,
+            402.51733923752494
+          ]
+        ]
+      ],
+      "extent": "complete",
+      "boundary_note": "Closed printed field perimeter followed densely; internal recording marks and text retained. Short symbol interruptions interpolated where stated.",
+      "tracing_method": "Dense closed source compartment contour, visually reviewed"
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "saturated primary-field totals",
+      "status": "not_measurable",
+      "reason": "Black source fills merge multiple somatosensory, visual and motor fields. Named closed white compartments are measured independently; missing field dividers are not invented."
+    },
+    {
+      "label": "PM",
+      "status": "not_measurable",
+      "reason": "The small comparative print is overprinted or joins neighbouring contours. No glyph-shaped or enclosing-cortex candidate is accepted as a complete field boundary."
+    },
+    {
+      "label": "OTc",
+      "status": "not_measurable",
+      "reason": "The small comparative print is overprinted or joins neighbouring contours. No glyph-shaped or enclosing-cortex candidate is accepted as a complete field boundary."
+    },
+    {
+      "label": "OTm",
+      "status": "not_measurable",
+      "reason": "The small comparative print is overprinted or joins neighbouring contours. No glyph-shaped or enclosing-cortex candidate is accepted as a complete field boundary."
+    },
+    {
+      "label": "OTr",
+      "status": "not_measurable",
+      "reason": "The small comparative print is overprinted or joins neighbouring contours. No glyph-shaped or enclosing-cortex candidate is accepted as a complete field boundary."
+    }
+  ],
+  "repeat_of": "illustrative_summary",
+  "linked_main_map": "illustrative_summary",
+  "scale_endpoints_px": [
+    [
+      514,
+      516
+    ],
+    [
+      544,
+      516
+    ]
+  ],
+  "scale_length_mm": 1,
+  "scale_note": "Own local printed scale stroke, endpoints reviewed on the source.",
+  "review_note": "Reassessed from the full source page; cortical inset crop and each field perimeter reviewed separately."
+}

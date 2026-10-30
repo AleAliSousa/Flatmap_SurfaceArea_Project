@@ -1,0 +1,71 @@
+{
+  "overlap_method": "Each binary mask eroded by a 5x5 square (two pixels per side); report intersection before and after erosion. This is a geometry diagnostic, not uncertainty estimation.",
+  "overlaps": [
+    {
+      "map_id": "fig02_case4",
+      "field_a": "S1_lower_incisor",
+      "field_b": "S1",
+      "overlap_pixels": 69585,
+      "overlap_after_eroding_both_masks_2px": 64161,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig02_case4",
+      "field_a": "S1_upper_incisor",
+      "field_b": "S1",
+      "overlap_pixels": 46217,
+      "overlap_after_eroding_both_masks_2px": 43441,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig02_case4",
+      "field_a": "S1_buccal_cavity_tongue",
+      "field_b": "S1",
+      "overlap_pixels": 36075,
+      "overlap_after_eroding_both_masks_2px": 32354,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig02_case4",
+      "field_a": "S1_chin",
+      "field_b": "S1",
+      "overlap_pixels": 22022,
+      "overlap_after_eroding_both_masks_2px": 19107,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig02_case4",
+      "field_a": "S1_hindlimb",
+      "field_b": "S1",
+      "overlap_pixels": 28265,
+      "overlap_after_eroding_both_masks_2px": 26115,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig02_case4",
+      "field_a": "S1_forelimb",
+      "field_b": "S1",
+      "overlap_pixels": 39593,
+      "overlap_after_eroding_both_masks_2px": 36599,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig02_case4",
+      "field_a": "S1_trunk_tail",
+      "field_b": "S1",
+      "overlap_pixels": 64272,
+      "overlap_after_eroding_both_masks_2px": 60972,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig02_case4",
+      "field_a": "S1_vibrissae_head",
+      "field_b": "S1",
+      "overlap_pixels": 60635,
+      "overlap_after_eroding_both_masks_2px": 57441,
+      "interpretation": "declared non-additive parent/subregion"
+    }
+  ],
+  "new_tracings_source_visually_inspected": true,
+  "anatomical_certification": false
+}

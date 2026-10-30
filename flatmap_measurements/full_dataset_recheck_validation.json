@@ -2,7 +2,9 @@
   "date": "2026-10-16",
   "papers": 21,
   "source_reviews_checked": 22,
-  "issues": [],
+  "issues": [
+    "Krubitzer_Kaas_1990: saved-area/hash verification failed: Traceback (most recent call last):\n  File \"/Users/crossmodal/Library/CloudStorage/OneDrive-AllenInstitute/Flatmap_SurfaceArea_Project/flatmap_measurements/Krubitzer_Kaas_1990/scripts/rebuild.py\", line 369, in <module>\n    if __name__=='__main__':main()\n                            ^^^^^^\n  File \"/Users/crossmodal/Library/CloudStorage/OneDrive-AllenInstitute/Flatmap_SurfaceArea_Project/flatmap_measurements/Krubitzer_Kaas_1990/scripts/rebuild.py\", line 350, in main\n    verify_checksums();verify();return\n    ^^^^^^^^^^^^^^^^^^\n  File \"/Users/crossmodal/Library/CloudStorage/OneDrive-AllenInstitute/Flatmap_SurfaceArea_Project/flatmap_measurements/Krubitzer_Kaas_1990/scripts/rebuild.py\", line 151, in verify_checksums\n    raise ValueError('File changed since the last rebuild: '+name)\nValueError: File changed since the last rebuild: comparison/.Rhistory\n"
+  ],
   "results": [
     {
       "paper": "Beck_Kaas_1998",
@@ -27,10 +29,10 @@
     {
       "paper": "Felleman_VanEssen_1991",
       "geometry_changed": true,
-      "saved_contours": 62,
-      "measurement_rows": 75,
+      "saved_contours": 74,
+      "measurement_rows": 77,
       "independent_case_field_selections": 0,
-      "checksum_files": 50,
+      "checksum_files": 63,
       "saved_area_hash_verification": "passed",
       "native_readback": "passed"
     },
@@ -81,7 +83,7 @@
       "measurement_rows": 505,
       "independent_case_field_selections": 0,
       "checksum_files": 465,
-      "saved_area_hash_verification": "passed",
+      "saved_area_hash_verification": "failed",
       "native_readback": "prior accepted geometry retained"
     },
     {

@@ -1,0 +1,16 @@
+figure,pdf_page,panel,specimen,interpretation,processing_status,reason_or_result,linked_main_map
+1,3,all,illustrative summary,Cross-species composite illustrations,digitized_provisional,"Full-dataset recheck 2026-10-16: 5 field/component observations across 5 saved view(s). Each perimeter reviewed separately; repeated views and illustrative summaries are retained without adding independent animals. Source-limited totals remain explicit NA. Map IDs: fig01_flying_fox, fig01_macaque, fig01_marmoset, fig01_quoll, fig01_squirrel.",
+2,4,all,illustrative summary,Specialized-species comparative cartoons,digitized_provisional,"Full-dataset recheck 2026-10-16: 5 field/component observations across 3 saved view(s). Each perimeter reviewed separately; repeated views and illustrative summaries are retained without adding independent animals. Source-limited totals remain explicit NA. Map IDs: fig02_ghost_bat, fig02_platypus, fig02_star_nosed_mole.",
+3,5,A,not reported,squirrel cortical photograph,assessed_not_measurable,Dark field fills merge in this scan; no reproducible complete VI/SI/AI perimeters. Preserved crop and explicit NA rows.,fig03A
+3,5,B,not reported,mouse cortical photograph,assessed_not_measurable,Dark field fills merge in this scan; no reproducible complete VI/SI/AI perimeters. Preserved crop and explicit NA rows.,fig03B
+3,5,C,not reported,quoll cortical photograph,assessed_not_measurable,Dark field fills merge in this scan; no reproducible complete VI/SI/AI perimeters. Preserved crop and explicit NA rows.,fig03C
+3,5,D,not reported,fat-tailed dunnart cortical photograph,assessed_not_measurable,Dark field fills merge in this scan; no reproducible complete VI/SI/AI perimeters. Preserved crop and explicit NA rows.,fig03D
+3,5,E,not reported,brush-tailed possum cortical photograph,assessed_not_measurable,Dark field fills merge in this scan; no reproducible complete VI/SI/AI perimeters. Preserved crop and explicit NA rows.,fig03E
+3,5,F,not reported,striped possum cortical photograph,assessed_not_measurable,Dark field fills merge in this scan; no reproducible complete VI/SI/AI perimeters. Preserved crop and explicit NA rows.,fig03F
+4,6,A,not reported,flying fox cortical photograph,assessed_not_measurable,No reproducible complete SI perimeter in the saturated photograph; preserve source and NA.,fig04A
+4,6,B,not reported,marmoset cortical photograph,assessed_not_measurable,No reproducible complete SI perimeter in the saturated photograph; preserve source and NA.,fig04B
+4,6,C,not reported,squirrel cortical photograph,assessed_not_measurable,No reproducible complete SI perimeter in the saturated photograph; preserve source and NA.,fig04C
+4,6,D,not reported,macaque cortical photograph,assessed_not_measurable,No reproducible complete SI perimeter in the saturated photograph; preserve source and NA.,fig04D
+5,8,all,not reported,Cortical modules,assessed_excluded,Modules and saturated photographs do not supply complete field envelopes.,
+6,9,all,not reported,Connectivity illustrations,assessed_excluded,Projected cartoons of connections; no planar specimen field-area geometry.,
+7,9,all,not reported,Developmental network model,assessed_excluded,Network diagram without cortical surface geometry.,

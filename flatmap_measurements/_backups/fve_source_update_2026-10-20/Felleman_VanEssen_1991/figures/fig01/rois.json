@@ -1,0 +1,49 @@
+{
+  "map_id": "fig01",
+  "figure": 1,
+  "panel": null,
+  "pdf_page": 3,
+  "printed_page": 3,
+  "species": "Macaca (source label)",
+  "specimen": "80G-R",
+  "hemisphere": "not assigned",
+  "view_type": "cortical_map_geometry",
+  "hemisphere_relation": "not assigned",
+  "linked_main_map": null,
+  "repeat_of": null,
+  "specimen_link_status": "caption_identified",
+  "relationship_note": "Repeated views do not represent additional animals. No cross-publication pooling; source labels preserved.",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 4,
+  "crop_xyxy": [
+    420,
+    240,
+    2240,
+    2240
+  ],
+  "supersample": 4,
+  "scale_length_mm": 10,
+  "scale_endpoints_px": [
+    [
+      1499,
+      1944
+    ],
+    [
+      1627,
+      1944
+    ]
+  ],
+  "scale_note": "Own printed scale stroke; local measured endpoints. Endpoints checked on the complete printed stroke, and refined to its visible dark horizontal extent.",
+  "scale_reference_map": null,
+  "outline": null,
+  "rois": [],
+  "unmeasured": [
+    {
+      "label": "whole neocortex",
+      "status": "not_measurable",
+      "reason": "Enclosing drawing includes archicortex, paleocortex and transitional cortex; sulcal/section lines are not field boundaries. Independent neocortex perimeter not fully established."
+    }
+  ],
+  "review_note": "Dense tracing on 4 pixels/PDF point source rendering. Anatomical interpretation provisional; hide overlay in the precision review to inspect the printed stroke."
+}

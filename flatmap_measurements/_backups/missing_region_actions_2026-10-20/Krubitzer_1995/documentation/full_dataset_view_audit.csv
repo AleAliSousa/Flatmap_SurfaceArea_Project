@@ -1,0 +1,19 @@
+map_id,figure,pdf_page,species,specimen,view_type,repeat_of,fields,complete_fields,partial_fields,unmeasured,audit_date,review
+fig01_flying_fox,1,3,Pteropus poliocephalus,illustrative summary,illustrative_summary_flatmap,illustrative_summary,1,1,0,saturated primary-field totals,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig01_macaque,1,3,Macaca mulatta,illustrative summary,illustrative_summary_flatmap,illustrative_summary,0,0,0,saturated primary-field totals; VPP; 2; MSTv; DLr; DLc; VP; 1; DI; FEF; FV; FST; R; MT; SMA,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig01_marmoset,1,3,Callithrix jacchus,illustrative summary,illustrative_summary_flatmap,illustrative_summary,1,1,0,saturated primary-field totals; R; 2; FEF; FV; DI; DLr; DLc; FST; SMA,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig01_quoll,1,3,Dasyurus hallucatus,illustrative summary,illustrative_summary_flatmap,illustrative_summary,0,0,0,saturated primary-field totals; A,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig01_squirrel,1,3,Sciurus carolinensis,illustrative summary,illustrative_summary_flatmap,illustrative_summary,3,3,0,saturated primary-field totals; PM; OTc; OTm; OTr,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig02_ghost_bat,2,4,Macroderma gigas,illustrative summary,illustrative_summary_flatmap,illustrative_summary,2,2,0,saturated primary-field totals,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig02_platypus,2,4,Ornithorhynchus anatinus,illustrative summary,illustrative_summary_flatmap,illustrative_summary,2,2,0,saturated primary-field totals,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig02_star_nosed_mole,2,4,Condylura cristata,illustrative summary,illustrative_summary_flatmap,illustrative_summary,1,1,0,other primary-field totals,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig03A,3,5,squirrel (source label),not reported,review_histological_panel,,0,0,0,VI; SI; AI,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig03B,3,5,mouse (source label),not reported,review_histological_panel,,0,0,0,VI; SI; AI,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig03C,3,5,quoll (source label),not reported,review_histological_panel,,0,0,0,VI; SI; AI,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig03D,3,5,fat-tailed dunnart (source label),not reported,review_histological_panel,,0,0,0,VI; SI; AI,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig03E,3,5,brush-tailed possum (source label),not reported,review_histological_panel,,0,0,0,VI; SI; AI,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig03F,3,5,striped possum (source label),not reported,review_histological_panel,,0,0,0,VI; SI; AI,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig04A,4,6,flying fox (source label),not reported,review_histological_panel,,0,0,0,SI,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig04B,4,6,marmoset (source label),not reported,review_histological_panel,,0,0,0,SI,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig04C,4,6,squirrel (source label),not reported,review_histological_panel,,0,0,0,SI,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig04D,4,6,macaque (source label),not reported,review_histological_panel,,0,0,0,SI,2026-10-16,source visually inspected; provisional anatomical interpretation

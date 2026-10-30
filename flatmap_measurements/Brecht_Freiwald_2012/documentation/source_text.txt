@@ -1,0 +1,844 @@
+
+
+=== PDF PAGE 1 ===
+The many facets of facial interactions in mammals
+Michael Brecht1 and Winrich A Freiwald2
+Facial interactions are prominent behaviors in primates.
+Primate facial signaling, which includes the expression of
+emotions, mimicking of facial movements, and gaze
+interactions, is visually dominated. Correspondingly, in
+primate brains an elaborate network of face processing
+areas exists within visual cortex. But other mammals also
+communicate through facial interactions using additional
+sensory modalities. In rodents, multisensory facial
+interactions are involved in aggressive behaviors and social
+transmission of food preferences. The eusocial naked mole￾rat, whose face is dominated by prominent incisors, uses
+facial aggression to enforce reproductive suppression. In
+burrow-living mammals like the naked mole-rat in particular,
+and in rodents in general, somatosensory face
+representations in cortex are enlarged. Diversity of sensory
+domains mediating facial communication might belie
+underlying common mechanisms. As a case in point,
+neurogenetics has revealed strongly heritable traits in face
+processing and identified gene defects that disrupt facial
+interactions both in humans and rodents.
+Addresses
+1Bernstein Center for Computational Neuroscience Berlin, Humboldt
+University, 10115 Berlin, Philippstr. 13 Haus 6, Germany 2 The Rockefeller University, 1230 York Avenue, New York, NY 10065,
+USA
+Corresponding authors: Brecht, Michael (michael.brecht@bccn-berlin.de)
+and Freiwald, Winrich A (wfreiwald@rockefeller.edu)
+Current Opinion in Neurobiology 2012, 22:259–266
+This review comes from a themed issue on
+Neuroethology
+Edited by Michael Dickinson and Cynthia Moss
+Available online 28th December 2011
+0959-4388 # 2012 Elsevier Ltd.
+DOI 10.1016/j.conb.2011.12.003
+Introduction
+Since the pioneering nineteenth century work of Duch￾enne de Boulogne [1], the mechanisms of facial signaling
+in primates have been a focus of experimental neuro￾science, which, in the past decades, has provided detailed
+information about the neural processes underlying
+primate face perception. While facial interactions in
+primates are easily recognized by researchers belonging
+to a primate species, only in recent years has it become
+clear that other mammals engage in elaborate facial
+interactions as well. Facial interactions are not stereo￾typed across mammals but are mediated through beha￾viors and sensory routes commensurate with the general
+motor and sensory specializations of each species. Here
+we review commonalities and differences in the anatomy
+of faces, facial behaviors, neural mechanism and neuro￾genetics of mammalian facial interactions. We suggest
+that a neuroethological framework will help unifying the
+diverse research approaches and make results from one
+species productive for research on another, thus creating
+the new field of facial neuroscience.
+Primate and rodent faces
+Mammals (Figure 1), in contrast to other terrestrial
+vertebrates, possess facial muscles that directly insert
+at the outer ears, the vibrissae, and the skin, allowing
+for active signaling and thus direct facial communication.
+Primate faces
+Primate species are all highly social. Their social behaviors
+frequently involve facial communication that can include
+tactile signals (as in kissing) or scents, but is primarily
+mediated through auditory and visual channels. Supporting
+these forms of communication, the facial musculature of
+primates is complex, consisting of numerous muscles with
+discrete attachmentsites.In the rhesus monkey (Figure 1a),
+24 facial muscles have been identified [2
+], a number close
+to the 23 found in chimpanzee and human (Figure 1b) [3].
+In all three species, it has been possible to directly map
+activity of individual facial muscles, elicited by intramus￾cular electrical stimulation, to facial movements [4], and
+compositions of these individual muscle movements
+explain naturally occurring facial expressions [5]. These
+species similarities support Darwin’s hypothesis that
+human facial expressions are an evolutionary heritage [6].
+Rodent faces
+Rodent facial signaling includes tactile interactions by
+highly mobile whiskers (Figure 1c) supported by an elab￾orate musculature [7], visual signals such as ear wiggling,
+pheromonal signals from cheek glands [8], and facially
+transmitted combined olfactory-gustatory signals [9]. This
+genuinely multisensory facial signaling, which dis￾tinguishes rodents from visually dominated primates,
+requires close facial contact between animals. Close con￾tacts arise, because many rodents are small, nocturnal and
+live in burrows. Facial contacts are prominent in exper￾imental burrow habitats in rats [10] and are of utmost
+importance in entirely burrow-living (fossorial) mammals
+like the naked mole-rat (Figure 1d).
+Primate facial interactions and their neural
+mechanisms
+Primates rapidly recognize facial signals, which might
+combine with a specific body posture or vocalization,
+Available online at www.sciencedirect.com
+www.sciencedirect.com Current Opinion in Neurobiology 2012, 22:259–266
+Open access under CC BY-NC-ND license.
+
+=== PDF PAGE 2 ===
+and often reciprocate with their own facial response, thus
+engaging in a facial interaction. Prominent examples are
+contagious yawning [11], exchange of facial expressions,
+gaze following, and facial mimicking.
+Facial expression
+Facial expressions can signal the emotional state of an
+animal. Despite similarity of facial expressions across
+species[12], the same facial expression mightsignal differ￾ent emotional states in closely related species [13]. This
+raises the question of whether the patterns of muscle
+contractions forming a facial expression are arbitrary or
+serve an adaptive function [6]. One kind of adaptive
+advantage a facial expression, for example, fear, can carry,
+is an alteration ofsensory acquisition, for example, through
+widening of the eyes, which might be advantageous for
+acquiring more information about the source of fear.
+Indeed, the muscle contraction patterns of human fearful
+and disgusted expressions enhance and reduce acquisition
+of sensory information, respectively [14
+]. While little is
+known about the neurophysiology of facial expression
+generation, facial expression recognition has been inten￾sively studied. The discrimination of human basic facial
+expressions relies on those parts of the face that are the
+physically most distinctive for a given expression, for
+example, the smiling mouth in ‘happy’ or the wide-opened
+eyesin ‘fear’[15
+]. Use ofthese diagnostic facialfeaturesin
+fear recognition is impaired after lesion of the amygdala
+[16], a brain region known from single unit recordings to
+contain neurons selective for facial expressions[17]. Facial
+expression-selective neurons have further been found in
+inferotemporal cortex [18], orbitofrontal cortex [19], and
+the pulvinar [20].
+Gaze following
+Gaze, head, and body direction can reveal an animal’s
+interests and intentions. Gaze direction is particularly
+important in primates for anatomical reasons [21]: First,
+head orientation is discriminated easily only in heads with
+large protrusions like snouts, features that are reduced in
+many primate species (Figure 1b). Second, in primates
+gaze direction cannot be inferred from head orientation,
+since primate facial musculature allows for fine control of
+eye movements independently of head orientation.
+Third, gaze direction can be easily inferred from particu￾larly visible eyes like those of humans [22] — which
+might in fact have been the reason for the white sclera
+of the human eye to evolve [23]. Primates recognize gaze
+in othersto orient their own attention [24]. Gaze following
+has a fast, reflexive component [25] and occurs even when
+detrimental to task performance [26]. The neural net￾works mediating this behavior have to link gaze direction
+analyzers to attentional control regions. Gaze-selective
+neurons and areas have been found inside the superior
+temporal sulcus (STS) and the amygdala [27–29], struc￾tures whose lesioning impairs gaze following [30,31]. A
+recent electrophysiological study [32
+] found a putative
+neural correlate of attentive orienting during gaze follow￾ing: neurons in the lateral intraparietal area, thought to
+represent the focus of attention and movement inten￾tions, were modulated by perceived gaze.
+Facial mimicking
+Newborn primates are, amazingly, able to imitate facial
+gestures and expressions. Facial mimicking has been
+found in several primate species including humans
+[33], chimpanzees [34], and macaques [35] for a limited
+period of time after birth. The neural underpinnings of
+facial mimicking are unknown, but facial mirror-neurons
+[36] might be involved.
+Neural specializations for face recognition
+Primate facial interactions are based on visual face-recog￾nition. The primate brain exhibits at least four levels of
+specialization for face recognition. First, face-selective
+neurons were found in the macaque temporal lobe
+260 Neuroethology
+Figure 1
+(a) (b) (c) (d)
+Current Opinion in Neurobiology
+Rodent and primate faces. (a) A face of macaque monkey. Gaze is a prominent signal in primates. (b) The human face differs in many significant ways
+from other primate faces. Derived features include white sclerae, hair-free skin and red lips. (c) A rat face. Many parts of the rat face (the highly mobile
+whiskers, cheek glands, saliva from the mouth) have been shown to be involved in social signaling. (d) The naked mole-rat’s face is dominated by its
+huge incisors. In this eusocial mammal pheromonal signaling appears to be reduced, but antagonistic tactile facial signals such as incisor fencing and
+shoving are prominent. Modified from [81].
+Current Opinion in Neurobiology 2012, 22:259–266 www.sciencedirect.com
+
+=== PDF PAGE 3 ===
+[37,38]. Second, face-selective columns were described
+[39]. Third, face-selective cortical patches of a few milli￾meters diameter were discovered in macaques [40–43],
+similar to the larger face-selective areas in humans [44].
+Face patches were found to be almost exclusively com￾posed of face-selective neurons [45,46]. Fourth, face
+patches and face areas are selectively coupled to form
+face-processing networks [47,48] (Figure 2). Spatial
+organization of face-cells correlates with functional
+specialization: while cells within a face patch seem to
+encode faces in similar ways, for example, via tuning to
+facial parts [49], face-cells in different brain regions are
+specialized for different aspects of faces [18,46,50]. Sim￾ilarly in humans, face areas are differentially specialized
+[51–53]. These different levels of organization have been
+linked to face-recognition abilities through comparison of
+neural tuning to psychophysics [54], correlation of face￾selectivity and face-recognition abilities [55], co-variation
+analysis of activity in face areas and face-recognition
+performance [56], causation of face detection biases
+through electrical stimulation in clusters of face cells
+[57], and transcranial magnetic stimulation induced
+face-recognition deficits [58].
+Rodent facial interactions
+Rat active sensing, facial touch, and the role of whiskers
+in aggression
+Rats possess an elaborate whisker active sensing system
+that participates in social interactions. Specifically, facial
+touch is an amazing behavior involving intense mutual
+facial whisking [59
+]. When rats are introduced to each
+other, they engage in anogenital sniffing and facial inter￾actions. Anogenital sniffing predominates in the first
+minutes. Thereafter, facial interactions occur more fre￾quently. As rats approach each other, whisking amplitude
+decreases and whisker set angle increases. Contact is
+made first with the noses, while the rats align face-to￾face. Whisker trimming disrupts this alignment and
+diminishes facial interactions. Whisker trimming also
+increases aggressive behaviors such as biting and strongly
+suppresses boxing behavior [60,61]. Additional obser￾vations underscore the importance of whiskers in social
+signaling. Mice perform mutual whisker removal, the so￾called ‘barbering behavior’, tightly related to dominance
+[62]. In aggressive interactions, rats keep whiskers pro￾tracted and move them with higher amplitude than
+during non-aggressive interactions. These findings
+suggest that rodents use their whiskers to display facial
+expressions [59
+].
+Facial interactions and the social transmission of food
+preferences
+In rodents, a demonstrator’s food consumption can be
+sensed by observers and facilitates their later consump￾tion of novel diets or the searching out of distant food
+sources [63,64]. Early work emphasized the purely olfac￾tory transmission of preferences without demonstrator–
+observer interactions [63,64]. Subsequent studies, how￾ever, identified a strong influence of facial interactions
+[65] with live demonstrators in social transmission. Obser￾vers detect the combination of novel food smells and
+carbon sulfides contained in rodent saliva [9]. Recent
+work identified the olfactory receptors for carbon disul￾fides and demonstrated their involvement in transmission
+of food preferences [66
+].
+Social suppression by facial aggression in the naked
+mole-rat
+The eusocial naked mole-rat shows a unique set of
+aggressive facial behaviors. Antagonistic facial behaviors
+include open-mouth gaping, incisor fencing, biting, tug￾ging, and shoving [67]. Shoving is a particularly frequent
+behavior directed from the queen to high-ranking colony
+members [68], lazy workers [69], and pups. Queen
+removal experiments suggest that shoving enforces repro￾ductive suppression of workers [68].
+Primary sensory cortices, the hippocampus, and facial
+interactions
+The neural analysis of rodent facial interactions is in its
+infancy and is thus difficult to compare to that of primates.
+However, comparison of the earliest stages of sensory
+cortical processing and of high-level representations in
+the hippocampus can serve as starting points for such a
+comparison.
+Facial interactions in mammals Brecht and Freiwald 261
+Figure 2
+PL MF
+ML AF
+AL
+AM
+PO
+PA
+PV
+Current Opinion in Neurobiology
+Macaque cortical face-processing network. Lateral view of macaque brain
+with approximate locations of six temporal and three prefrontal face
+patches (green/yellow ellipses, [40–42]) and known connections ([47] and
+Moeller S, Freiwald WA, Tsao DY: A direct link between face-selective
+regions in temporal and prefrontal cortex. Soc. Neurosci. Abstr. 2008,
+261.5). Functional specialization of face patches ([46]) is indicated by
+schematic recording electrodes and sample tuning to head orientation in
+middle face patches (top left panel), face patch AL (middle) and face patch
+AM (top right). Cells in the middle face patches are tuned to one head
+orientation, cells in AL to multiple, typically mirror-symmetric head
+orientations, and cells in AM are almost invariant to head orientation.
+www.sciencedirect.com Current Opinion in Neurobiology 2012, 22:259–266
+
+=== PDF PAGE 4 ===
+Primary sensory cortices and the modality of facial
+signaling
+Primary sensory cortices in rodent and primate species are
+of strikingly different sizes (Figure 3). Large visual cor￾tices are thought to go along with diurnal arboreal life
+styles [70], typical for many primate species, while large
+somatosensory cortices are found in nocturnal [71] and
+fossorial animals [72], such as many rodents. Thus eco￾logical factors might also explain the predominance of
+visual facial signaling in primates and tactile facial beha￾viors in rodents, as well as the large differences in primary
+somatosensory representations of faces, which occupy
+0.5% of cortical surface area in macaques, 0.7% in
+humans, 10% in mice, and 20% in naked mole-rats.
+The sheer size of the rodent somatosensory face repres￾entation necessitates an investigation into its contribution
+to the complex facial interactions described above. Even
+though the somatosensory face representation in primates
+is relatively smaller than that in rodents, it is large in
+absolute size, and cortical face representations of primates
+and rodents show remarkable similarities in their fine
+structure and modular architecture [73].
+Expansion of the face representation and social
+suppression in naked mole-rats
+In the mole-rat face representation, the teeth (which
+figure prominently in digging) are emphasized [74]. A
+similar expansion of the somatosensory face and tooth
+cortex is seen in unrelated and solitary subterranean
+mole-rats [72]. Thus face expansion in mole-rats is prob￾ably related to subterranean life-style and not to social
+interactions. We hypothesize that neural face expansion
+preceded the evolution of eusociality in mole-rats. This
+neural face expansion, then, likely is the key reason why
+262 Neuroethology
+Figure 3
+10 mm
+(a)
+Human
+Macaque Naked Mole-Rat
+1 mm
+10 mm
+Mouse
+1 mm
+S1
+S1
+S1
+S1
+S1-Face
+S1-Face
+S1-Face
+S1-Face
+V1 V1
+V1
+A1
+A1
+A1
+(b) (d)
+(c)
+Current Opinion in Neurobiology
+Flat maps of rodent and primate cortices. Side views and flat maps of right cortical hemispheres of (a) human, (b) macaque monkey, (c) mouse and (d)
+naked mole-rat with superimposed outlines of primary sensory cortices (S1 = primary somatosensory area, V1 = primary visual cortex, A1 = primary
+auditory cortex. In all four species the flat map has been normalized to the same area. In monkey and human the outline of somatosensory cortex
+refers to putative areas 3a and 3b. In (a) and (b) scale bar apply both to the side view and the flat map, whereas in (c) and (d) different scales apply with
+the lower one referring to the flat map. Data have been modified from [97–100].
+Current Opinion in Neurobiology 2012, 22:259–266 www.sciencedirect.com
+
+=== PDF PAGE 5 ===
+facial interactions are so prominent in this species. Naked
+mole-rats are able to dominate conspecifics through facial
+behaviors (shoving). Consistent with facially mediated
+dominance, reproductive suppression in naked mole-rats
+does not appear to be mediated by primer pheromones
+[75]. The vomeronasal organ, key mediator of phero￾monal transmission in rodents [76], is reduced in naked
+mole-rats [77
+]. As pheromones mediate reproductive
+suppression in other mammals [78,79] and insects, the
+mole-rat is highly unusual in this regard.
+In naked mole-rat colonies, facial aggression shapes social
+structure, and social status (queen vs. worker) rather than
+gender appears to shape the mole-rat’s brain. Holmes et al.
+[80] analyzed a set of subcortical nuclei involved in
+reproductive behavior. While in most mammals the size
+of these nuclei issexually dimorphic, in naked mole-rats, it
+instead depends on socialstatus and not gender.The loss of
+neural sexual dimorphisms parallels the loss of sexually
+dimorphic genitalia in the evolution of mole-rat eusociality.
+Hippocampus and social concepts
+In the human hippocampus, neurons selective for familiar
+individuals have been found [81], thought to represent
+conceptual knowledge relevant for social interactions.
+Subsequently, hippocampal activity in interacting rats
+has been investigated with electrophysiology and
+immediate-early-gene expression mapping [82
+,83
+].
+Rodent hippocampal neurons hardly responded to and
+did not discriminate between conspecifics [82
+]. Even
+during facial interactions place cell activity was only
+modestly modulated by conspecifics. Similarly, most
+[84,85], but not all [86] rodent lesion studies argue against
+a social role of the rodent hippocampus.
+Neurogenetics of facial interactions
+Genetics of face processing
+Are neural specializations for faces present from birth, or
+do specializations develop inside a general purpose object
+recognition system that frequently encounters faces?
+Innate mechanisms are suggested by facial mimicking
+in newborns [35] and preferential looking at faces over
+non-face objects in macaque monkeys raised without
+exposure to faces [87]. Yet the same monkeys experi￾enced declined recognition abilities for faces of a primate
+species they did not encounter.
+Two twin studies [88,89] provided stunning evidence
+for a strong genetic component in human face processing.
+Face processing abilities were much more strongly cor￾related in monozygotic twins than in same-sex dizygotic
+twins. A genetic basis specifically for face recognition is
+the likely cause, since face recognition performance cor￾related only weakly with other visual and cognitive abil￾ities. Recently identified heritable forms of face￾blindness (prosopagnosia) [90,91] also point to a specific
+genetic substrate of face processing. Facial processing
+deficits were remarkably specific in some cohorts, impair￾ing face identification, without compromising facial
+attractiveness judgments [92].
+Disturbed facial interactions in autism
+Autism Spectrum Disorders (ASDs) are heritable con￾ditions associated with deficits in social communication,
+impaired language skills and stereotypy. Converging evi￾dence from monogenetic defects and genetic screens
+identified two major pathways contributing many autistic
+phenotypes [93]. One pathway leads to macrocephaly and
+ASD through abnormal growth rates. Other pathways
+affect synaptic function through alterations in synaptic
+proteins such as neuroligins [94
+], shank-proteins [95]
+and neurexins and leads to mental retardation, autism or
+Asperger syndrome. Many autistic patients suffer from
+heritable face recognition defects. Mice with gene defects
+involved in autism also show aberrant social behavior [94
+]
+and provided intriguing similarities in facial interactions of
+mice and men. The Phelan-McDermid syndrome is a
+monogenetic form of autism, in which the synaptic scaf￾folding protein Shank 3 is affected. Patients often show
+poor eye contact [96] similar to other autistic patients.
+Remarkably, the corresponding mouse model also engages
+in fewer facial contacts [95]. To understand how altera￾tions ofsynaptic proteins might cause specific impairments
+of facial behaviors, will require a synthesis of molecular
+neuroscience with primate and rodent facial neurobiology.
+Neurogenetics might also reveal whether facial inter￾actionsin mammals evolved from the same neural machin￾ery or not. A common mammalian predisposition for facial
+interaction stems from suckling, by which all mammals
+establish a first, highly significant and intense social inter￾action.
+Conclusion
+The discovery of face cells spawned one of the most
+fascinating chapters of neuroscience. With increased
+recognition that facial interactions are not restricted to
+primates, studies on visual face perception should be
+complemented by broad neuroethological work on
+facially interacting mammals. Rodent facial interactions
+are elaborate behaviors, which are particularly highly
+developed in the eusocial naked mole-rat. Powerful neu￾rogenetic tools spur interest in combining rodent and
+primate face neuroscience.
+Acknowledgements
+We wish to thank Evgeny Bobrov, Anne Burrows, Brad Duchaine, Moritz
+von Heimendahl, Lucy Petro, Rajnish Rao, and Stephen Shepherd for
+comments on the manuscript, and Sebastian Moeller and Carolin Mende for
+contributions to figures. This work was supported by Neurocure, Bernstein
+Center for Computational Neuroscience (BMBF), Humboldt University,
+and Neuro-behavior ERC grants (M.B.), the Pew Scholars Program, the
+McKnight Endowment Fund for Neuroscience, the National Science
+Foundation (Award # 1057006), the Esther & Joseph Klingenstein Fund,
+the Irma T. Hirschl/Monique Weill-Caulier Trusts, and the Alexandrine
+and Alexander L. Sinsheimer Fund (W.A.F.).
+Facial interactions in mammals Brecht and Freiwald 263
+www.sciencedirect.com Current Opinion in Neurobiology 2012, 22:259–266
+
+=== PDF PAGE 6 ===
+References and recommended reading
+Papers of particular interest, published within the period of review,
+have been highlighted as:
+ of special interest
+ of outstanding interest
+1. Duchenne de Boulogne G-B: Me´canisme de la physionomie
+humaine. Renouard; 1862.
+2.
+
+Burrows AM, Waller BM, Parr LA: Facial musculature in the
+rhesus macaque (Macaca mulatta): evolutionary and
+functional contexts with comparisons to chimpanzees and
+humans. J Anat 2009, 215:320-334.
+Detailed anatomical investigation of mimetic musculature in Macaca
+mulatta, leading to the description of a larger number of muscles than
+previously described. The study demonstrates that muscle plans are
+more conserved across primate species than previously appreciated and
+helped establish a macaque facial action coding system [5].
+3. Burrows AM, Waller BM, Parr LA, Bonar CJ: Muscles of facial
+expression in the chimpanzee (Pan troglodytes): descriptive,
+comparative and phylogenetic contexts. J Anat 2006,
+208:153-167.
+4. Waller BM, Parr LA, Gothard KM, Burrows AM, Fuglevand AJ:
+Mapping the contribution of single muscles to facial
+movements in the rhesus macaque. Physiol Behav 2008,
+95:93-100.
+5. Parr LA, Waller BM, Burrows AM, Gothard KM, Vick SJ: Brief
+communication: MaqFACS: a muscle-based facial movement
+coding system for the rhesus macaque. Am J Phys Anthropol
+2010, 143:625-630.
+6. Darwin C: The Expression of the Emotions in Man and Animals.
+John Murray; 1872.
+7. Do¨ rfl J: The musculature of the mystacial vibrissae of the white
+mouse. J Anat 1982, 135:147-154.
+8. Kannan S, Archunan G: Rat cheek gland compounds:
+behavioural response to identified compounds. Indian J Exp
+Biol 2001, 39:887-891.
+9. Galef BG Jr, Mason JR, Preti G, Bean NJ: Carbon disulfide: a
+semiochemical mediating socially-induced diet choice in rats.
+Physiol Behav 1988, 42:119-124.
+10. Blanchard RJ, Dulloog L, Markham C, Nishimura O, Nikulina F,
+Compton J, Jun A, Han C, Blanchard DC: Sexual and aggressive
+interactions in a visible burrow system with provisioned
+burrows. Physiol Behav 2001, 72:245-254.
+11. Anderson JR, Myowa-Yamakoshi M, Matsuzawa T: Contagious
+yawning in chimpanzees. Proc Biol Sci 2004, 271(Suppl 6):
+S468-S470.
+12. Chevalier-Skolnikoff S: Facial expression of emotion in
+nonhuman primates. In Darwin and Facial Expression: A Century
+11-89. of Research in Review. Edited by Ekman P. Academic Press; 1973:
+13. de Waal FB: Darwin’s legacy and the study of primate visual
+communication. Ann N Y Acad Sci 2003, 1000:7-31.
+14.
+
+Susskind JM, Lee DH, Cusi A, Feiman R, Grabski W, Anderson AK:
+Expressing fear enhances sensory acquisition. Nat Neurosci
+2008, 11:843-850.
+The authors investigate structural and physiological consequences of
+facial expressions of fear and disgust. Using computer vision analysis of
+pictures of faces expressing fear, perimetry, physiological and structural
+MRI measurements, they find, during fear expressions, a larger visual
+field, faster eye movements and an increase in nasal volume and air
+velocity, and the opposite pattern during expression of disgust.
+15.
+
+Schyns PG, Petro LS, Smith ML: Transmission of facial
+expressions of emotion co-evolved with their efficient
+decoding in the brain: behavioral and brain evidence. PLoS
+One 2009, 4:e5625.
+Conceiving of the face as a channel for transmitting emotional states and
+the brain as a co-evolved optimal receiver for these signals, the authors
+re-analyze earlier human behavioral and electroencephalographic data,
+describing the temporal progression of the decoding processes, and
+computational modeling in support of this concept.
+16. Adolphs R, Gosselin F, Buchanan TW, Tranel D, Schyns P,
+Damasio AR: A mechanism for impaired fear recognition after
+amygdala damage. Nature 2005, 433:68-72.
+17. Gothard KM, Battaglia FP, Erickson CA, Spitler KM, Amaral DG:
+Neural responses to facial expression and face identity in the
+monkey amygdala. J Neurophysiol 2007, 97:1671-1683.
+18. Hasselmo ME, Rolls ET, Baylis GC: The role of expression and
+identity in the face-selective responses of neurons in the
+temporal visual cortex of the monkey. Behav Brain Res 1989,
+32:203-218.
+19. Rolls ET, Critchley HD, Browning AS, Inoue K: Face-selective and
+auditory neurons in the primate orbitofrontal cortex. Exp Brain
+Res 2006, 170:74-87.
+20. Maior RS, Hori E, Tomaz C, Ono T, Nishijo H: The monkey
+pulvinar neurons differentially respond to emotional
+expressions of human faces. Behav Brain Res 2010,
+215:129-135.
+21. Emery NJ: The eyes have it: the neuroethology, function and
+evolution of social gaze. Neurosci Biobehav Rev 2000,
+24:581-604.
+22. Kobayashi H, Kohshima S: Unique morphology of the human
+eye. Nature 1997, 387:767-768.
+23. Tomasello M, Hare B, Lehmann H, Call J: Reliance on head
+versus eyes in the gaze following of great apes and human
+infants: the cooperative eye hypothesis. J Hum Evol 2007,
+52:314-320.
+24. Tomasello M, Call J, Hare B: Five primate species follow the
+visual gaze of conspecifics. Anim Behav 1998, 55:1063-1069.
+25. Friesen CK, Kingstone A: The eyes have it! Reflexive orienting is
+triggered by nonpredictive gaze. Psychonomic Bull Rev 1998,
+5:490-495.
+26. Driver J, Davis G, Ricciardelli P, Kidd P, Maxwell E, Baron￾Cohen S: Gaze perception tirggers visuospatial orienting by
+adults in a reflexive manner. Visual Cogn 1999, 6:509-540.
+27. Perrett DI, Smith PAJ, Potter DD, Mistlin AJ, Head AS, Milner AD,
+Jeeves MA: Visual cells in the temporal cortex sensitive to face
+view and gaze direction. Proc R Soc Lond B 1985, 223:293-317.
+28. Kamphuis S, Dicke PW, Thier P: Neuronal substrates of gaze
+following in monkeys. Eur J Neurosci 2009, 29:1732-1738.
+29. Hoffman KL, Gothard KM, Schmid MC, Logothetis NK: Facial￾expression and gaze-selective responses in the monkey
+amygdala. Curr Biol 2007, 17:766-772.
+30. Akiyama T, Kato M, Muramatsu T, Umeda S, Saito F, Kashima H:
+Unilateral amygdala lesions hamper attentional orienting
+triggered by gaze direction. Cereb Cortex 2007, 17:2593-2600.
+31. Campbell R, Heywood CA, Cowey A, Regard M, Landis T:
+Sensitivity to eye gaze in prosopagnosic patients and
+monkeys with superior temporal sulcus ablation.
+Neuropsychologia 1990, 28:1123-1142.
+32.
+
+Shepherd SV, Klein JT, Deaner RO, Platt ML: Mirroring of
+attention by neurons in macaque parietal cortex. Proc Natl
+Acad Sci USA 2009, 106:9489-9494.
+In this study, neurons in area LIP were recorded in macaque monkeys
+confronted with task-irrelevant gaze cues. Two populations of neurons,
+one increasing, the other decreasing activity in response to social gaze
+cues, were found. The authors discuss their result in light of an attentional
+‘mirror-neuron’ hypothesis of attentional mimicking.
+33. Meltzoff AN, Moore MK: Imitation of facial and manual gestures
+by human neonates. Science 1977, 198:75-78.
+34. Myowa-Yamakoshi M, Tomonaga M, Tanaka M, Matsuzawa T:
+Imitation in neonatal chimpanzees (Pan troglodytes). Dev Sci
+2004, 7:437-442.
+35.
+
+Ferrari PF, Visalberghi E, Paukner A, Fogassi L, Ruggiero A,
+Suomi SJ: Neonatal imitation in rhesus macaques. PLoS Biol
+2006, 4:1501-1508.
+The authors report that, for a few days after birth, infant rhesus monkeys
+mimic facial gestures like mouth opening, lip smacking, or tongue pro￾trusion, an ability previously thought to be confined to apes.
+264 Neuroethology
+Current Opinion in Neurobiology 2012, 22:259–266 www.sciencedirect.com
+
+=== PDF PAGE 7 ===
+36. Ferrari PF, Gallese V, Rizzolatti G, Fogassi L: Mirror neurons
+responding to the observation of ingestive and
+communicative mouth actions in the monkey ventral premotor
+cortex. Eur J Neurosci 2003, 17:1703-1714.
+37. Bruce CJ, Desimone R, Gross CG: Visual properties of neurons
+in a polysensory area in superior temporal sulcus of the
+macaque. J Neurophysiol 1981, 46:369-384.
+38. Perrett DI, Rolls ET, Caan W: Visual neurons responsive to
+faces in the monkey temporal cortex. Exp Brain Res 1982,
+47:329-342.
+39. Wang G, Tanaka K, Tanifuji M: Optical imaging of functional
+organization in the monkey inferotemporal cortex. Science
+1996, 272:1665-1668.
+40. Tsao DY, Freiwald WA, Knutsen TA, Mandeville JB, Tootell RB:
+Faces and objects in macaque cerebral cortex. Nat Neurosci
+2003, 6:989-995.
+41. Tsao DY, Moeller S, Freiwald WA: Comparing face patch
+systems in macaques and humans. Proc Natl Acad Sci USA
+2008, 105:19514-19519.
+42. Tsao DY, Schweers N, Moeller S, Freiwald WA: Patches of face￾selective cortex in the macaque frontal lobe. Nat Neurosci
+2008, 11:862-864.
+43. Ku SP, Tolias AS, Logothetis NK, Goense J: fMRI of the face￾processing network in the ventral temporal lobe of awake and
+anesthetized macaques. Neuron 2011, 70:352-362.
+44. Kanwisher N, McDermott J, Chun MM: The fusiform face area: a
+module in human extrastriate cortex specialized for face
+perception. J Neurosci 1997, 17:4302-4311.
+45. Tsao DY, Freiwald WA, Tootell RBH, Livingstone MS: A cortical
+region consisting entirely of face-selective cells. Science 2006,
+311:670-674.
+46. Freiwald WA, Tsao DY: Functional compartmentalization and
+viewpoint generalization within the macaque face-processing
+system. Science 2010, 330:845-851.
+47. Moeller S, Freiwald WA, Tsao DY: Patches with links: a unified
+system for processing faces in the macaque temporal lo.
+Science 2008, 320:1355-1359.
+48. Geschwind M, Pourtois G, Schwartz S, Van De Ville D,
+Vuilleumier P: White-matter connectivity between face￾responsive regions in the human brain. Cereb Cortex, Adv
+Access 2011.
+49. Freiwald WA, Tsao DY, Livingstone MS: A face feature space in
+the macaque temporal lobe. Nat Neurosci 2009, 12:1187-1196.
+50. De Souza WC, Eifuku S, Tamura R, Nishijo H, Ono T: Differential
+characteristics of face neuron responses within the anterior
+superior temporal sulcus of macaques. J Neurophysiol 2005,
+94:1252-1266.
+51. Hoffman EA, Haxby JV: Distinct representations of eye gaze
+and identity in the distributed human neural system for fac
+eperception. Nat Neurosci 2000, 3:80-84.
+52. Liu J, Harris A, Kanwisher N: Perception of face parts and face
+configurations: an FMRI study. J Cogn Neurosci 2010,
+22:203-211.
+53. Pitcher D, Dilks DD, Saxe RR, Triantafyllou C, Kanwisher N:
+Differential selectivity for dynamic versus static information in
+face-selective cortical regions. Neuroimage 2011,
+56:2356-2363.
+54. Leopold DA, Bondar IV, Giese MA: Norm-based face encoding
+by single neurons in monkey inferotemporal cortex. Nature
+2006, 442:572-575.
+55. Furl N, Garrido L, Dolan RJ, Driver J, Duchaine B: Fusiform gyrus
+face selectivity relates to individual differences in facial
+recognition ability. J Cogn Neurosci 2011, 23:1723-1740.
+56. Grill-Spector K, Knouf N, Kanwisher N: The fusiform face area
+subserves face perception, not generic within-category
+identification. Nat Neurosci 2004, 7:555-562.
+57. Afraz S-R, Kiani R, Esteky H: Microstimulation of inferotemporal
+cortex influences face categorization. Nature 2006,
+442:692-695.
+58. Pitcher D, Walsh V, Yovel G, Duchaine B: TMS evidence for the
+involvement of the right occipital face area in early face
+processing. Curr Biol 2007, 17:1568-1573.
+59.
+
+Wolfe J, Mende C, Brecht M: Social Facial Touch in Rat.
+BehavNeurosci 2011, 125:900-910.
+The authors apply high-speed videography and automatized whisker
+tracking to derive a first description of rat facial touch. Facial touch is
+sexually dimorphic. Signaling of facial expressions via whiskers is sug￾gested by the observation that protacted whisker positions correlate with
+aggressive behaviors.
+60. Blanchard RJ, Takahashi MK, Fukunaga KK, Blanchard DC:
+Functions of the vibrissae in the defensive and aggressive
+behavior of the rat. Aggressive Behav 1977, 3:231-240.
+61. Thor DH: Enhanced social docility in male hooded rats by
+dermal cauteryof the vibirssal pads. Aggressive Behav 1976,
+2:39-53.
+62. Sarna JR, Dyck RH, Whishaw IQ: The Dalila effect: C57BL6 mice
+barber whiskers by plucking. Behav Brain Res 2000, 108:39-45.
+63. Posadas-Andrews A, Roper TJ: Social transmission of food￾preferences in adult rats. Anim Behav. 1983, 31:265-271.
+64. Galef BG Jr, Wigmore SW: Transfer of information concerning
+distant foods: a laboratory investigation of the ‘information￾centre’ hypothesis. Anim Behav 1983, 31:748-758.
+65. Galef BG Jr, Kennett DJ, Stein M: Demonstrator influence on
+observer diet preference: effects of simple exposure and the
+presence of a demonstrator. Anim Learn Behav 1985, 13:25-30.
+66.
+
+Munger SD, Leinders-Zufall T, McDougall LM, Cockerham RE,
+Schmid A, Wandernoth P, Wennemuth G, Biel M, Zufall F,
+Kelliher KR: An olfactory subsystem that detects carbon
+disulfide and mediates food-related social learning. Curr Biol
+2010, 20:1438-1444.
+The investigators identify an olfactory subsystem involved in detecting
+carbon disulfides from rodent saliva. Interference with this system impairs
+social transmission of food preferences
+67. Lacey EA, Alexander RD, Braude SH, Sherman PW, Jarvis JUM:
+An ethogram for the naked mole-rat: nonvocal behaviors. In
+The Biology of the Naked Mole-Rat. Edited by Sherman PW, Jarvis
+JUM, Alexander RD. Princeton Univ. Press; 1991:209-242.
+68. Clarke FM, Faulkes CG: Dominance and queen succession in
+captive colonies of the eusocial naked mole-rat,
+Heterocephalus glaber. Proc R Soc Lond B 1997, 264:993-1000.
+69. Reeve HK: Queen activation of lazy workers in colonies of the
+eusocial naked mole-rat. Nature 1992, 358:147-149.
+70. Kaas JH, Hall WC, Diamond IT: Visual cortex of the grey squirrel
+(Sciurus carolinensis): architectonic subdivisions and
+connections from the visual thalamus. J Comp Neurol 1972,
+145:273-305.
+71. Kaas J, Hall WC, Diamond IT: Cortical visual areas I and II in the
+hedgehog: relation between evoked potential maps and
+architectonic subdivisions. J Neurophysiol 1970, 33:595-615.
+72. Necker R, Rehka¨ mper G, Nevo E: Electrophysiological mapping
+of body representation in the cortex of the blind mole rat.
+Neuroreport 1992, 3:505-508.
+73. Catania KC, Henry EC: Touching on somatosensory
+specializations in mammals. Curr Opin Neurobiol 2006,
+16:467-473.
+74. Catania KC, Remple MS: Somatosensory cortex dominated by
+the representation of teeth in the naked mole-rat brain. Proc
+Natl Acad Sci USA 2002, 99:5692-5697.
+75. Faulkes CG, Abbott DH: Evidence that primer pheromones do
+not cause social suppression of reproduction in male and
+female naked mole-rats (Heterocephalus glaber). J Reprod
+Fertil 1993, 99:225-230.
+76. Halpern M, Martı´nez-Marcos A: Structure and function of the
+vomeronasal system: an update. Prog Neurobiol 2003, 70:245-318.
+Facial interactions in mammals Brecht and Freiwald 265
+www.sciencedirect.com Current Opinion in Neurobiology 2012, 22:259–266
+
+=== PDF PAGE 8 ===
+77.
+
+Smith TD, Bhatnagar KP, Dennis JC, Morrison EE, Park TJ:
+Growth-deficient vomeronasal organs in the naked mole-rat
+(Heterocephalus glaber). Brain Res 2007, 1132:78-83.
+The investigators show a growth reduction of the vomeronasal organ of
+the naked mole-rat. The data support older findings of a lack of effects of
+primer hormones in mole rats.
+78. Drickamer LC: Sexual maturation of female house mice: social
+inhibition. Develop Psychobiol 1974, 7:257-265.
+79. Lepri JJ, Vandenbergh JG: Puberty in pine voles. Microtus
+pinetorum, and the influence of chemosignals on female
+reproduction. Biol Reproduct 1986, 34:370-377.
+80.
+
+Holmes MM, Rosen GJ, Jordan CL, de Vries GJ, Goldman BD,
+Forger NG: Social control of brain morphology in a eusocial
+mammal. Proc Natl Acad Sci USA 2007, 104:10548-10552.
+The authors find that status rather than gender determines brain mor￾phology in naked mole-rats.
+81. Quiroga RQ, Reddy L, Kreiman G, Koch C, Fried I: Invariant visual
+representation by single neurons in the human brain. Nature
+2005, 435:1102-1107.
+82.
+
+von Heimendahl M, Rao R, Brecht Mm: Weak and
+indiscriminative responses to conspecifics in the rat
+hippocampus. J Neurosci 2012. in press.
+Hippocampal recordings from interacting rats reveal that rat hippocampal
+neurons carry remarkably little social information.
+83.
+
+Zynyuk L, Huxter J, Muller RU, Fox SE: The presence of a second
+rat has only subtle effects on the location-specific firing of
+hippocampal place cells. Hippocampus 2011.
+Hippocampal unit recordings from interacting rats reveal the presence of
+a conspecific has very little effect on place cell discharges.
+84. Petrulis A, Eichenbaum H: The perirhinal–entorhinal cortex, but
+not the hippocampus, is critical for expression of individual
+recognition in the context of the Coolidge effect. Neuroscience
+2003, 122:599-607.
+85. Bannerman DM, Lemaire M, Beggs S, Rawlins JN, Iversen SD:
+Cytotoxic lesions of the hippocampus increase social
+investigation but do not impair social-recognition memory.
+Exp Brain Res 2001, 138:100-109.
+86. Lai WS, Ramiro LL, Yu HA, Johnston RE: Recognition of familiar
+individuals in golden hamsters: a new method and functional
+neuroanatomy. J Neurosci 2005, 25:11239-11247.
+87.
+
+Sugita Y: Face perception in monkeys reared with no exposure
+to faces. Proc Natl Acad Sci USA 2008, 105:394-398.
+The authors shows that macaque monkeys, raised without exposure to
+any faces, preferred looking at pictures of human and macaque faces
+more than at non-face control objects. These innate face-recognition
+abilities are suggested to arise from proprioceptive and somatosensory
+experience with the own face. Exposure to faces of one species causes a
+reduction in discrimination ability for faces of the other species.
+88.
+
+Wilmer JB, Germine L, Chabris CF, Chatterjee G, Williams M,
+Loken E, Nakayama K, Duchaine B: Human face recognition
+ability is specific and highly heritable. Proc Natl Acad Sci USA
+2010, 107:5238-5241.
+This study of 289 twin pairs, tested on a standardized face recognition
+and memory test, found a high correlation (0.70) of performance scores
+between monozygotic twins, more than twice score correlations of
+dizygotic twins (0.29). The findings of the study suggest a strong genetic
+influence on face processing.
+89.
+
+Zhu Q, Song Y, Hu S, Li X, Tian M, Zhen Z, Dong Q, Kanwisher N,
+Liu J: Heritability of the specific cognitive ability of face
+perception. Curr Biol 2010, 20:137-142.
+Face recognition abilities of pairs of monozygotic and dizygotic twins
+were probed in three face-specific abilities, including the face inversion
+and composite effect. The finding that each of three measures of face￾specific processing was more correlated in monozygotic than dizygotic
+twins, suggests a strong and specific genetic influence on face proces￾sing.
+90. Duchaine B, Germine L, Nakayama K: Family resemblance: ten
+family members with prosopagnosia and within-class object
+agnosia. Cogn Neuropsychol 2007, 24:419-430.
+91. Schmalzl L, Palermo R, Coltheart M: Cognitive heterogeneity in
+genetically based prosopagnosia: a family study. J
+Neuropsychol 2008, 2:99-117.
+92.
+
+Carbon CC, Gru¨ ter T, Gru¨ ter M, Weber JE, Lueschow A:
+Dissociation of facial attractiveness and distinctiveness
+processing in congenital prosopagnosia. Visual Cogn 2010,
+18:641-654.
+This study describes a heritable, highly selective form of prosopagnosia.
+Subjects suffer from a profound face learning and recognition deficit, but
+are perfectly able to judge the attractiveness of faces. This genetic
+evidence supports the idea of parallel and segregated processing of
+facial information.
+93. Bourgeron T: A synaptic trek to autism. Curr Opin Neurobiol
+2009, 19:231-234.
+94.
+
+Jamain S, Radyushkin K, Hammerschmidt K, Granon S,
+Boretius S, Varoqueaux F, Ramanantsoa N, Gallego J,
+Ronnenberg A, Winter D et al.: Reduced social interaction and
+ultrasonic communication in a mouse model of monogenic
+heritable autism. Proc Natl Acad Sci USA 2008, 105:1710-1715.
+The first report of an alteration of ultrasonic vocalizations in a mouse
+model of autism spectrum disorder.
+95.
+
+Pec¸a J, Feliciano C, Ting JT, Wang W, Wells MF, Venkatraman TN,
+Lascola CD, Fu Z, Feng G: Shank3 mutant mice display autistic￾like behaviours and striatal dysfunction. Nature 2011,
+472:437-442.
+The authors describe a mouse model of autism in which the synaptic
+scaffolding protein shank-3 is defective. Shank-3 knockout mice show a
+variety of social deficits including reduced facial interactions.
+96. Prasad C, Prasad AN, Chodirker BN, Lee C, Dawson AK,
+Jocelyn LJ, Chudley AE: Genetic evaluation of pervasive
+developmental disorders: the terminal 22q13 deletion
+syndrome may represent a recognizable phenotype. Clin Genet
+2000, 57:103-109.
+97. Orban GA, Van Essen D, Vanduffel W: Comparative mapping of
+higher visual areas in monkeys and humans. Trends Cogn Sci
+2004, 8:315-324.
+98. Rosa MG, Tweedale R: The dorsomedial visual areas in New
+World and Old World monkeys: homology and function. Eur J
+Neurosci 2001, 13:421-427.
+99. Airey DC, Wu F, Guan M, Collins CE: Geometric morphometrics
+defines shape differences in the cortical area map of C57BL/
+6J and DBA/2J inbred mice. BMC Neurosci 2006, 15:63.
+100. Henry EC, Remple MS, O’Riain MJ, Catania KC: Organization of
+somatosensory cortical areas in the naked mole-rat
+(Heterocephalus glaber). J Comp Neurol 2006, 495:434-452.
+266 Neuroethology
+Current Opinion in Neurobiology 2012, 22:259–266 www.sciencedirect.com

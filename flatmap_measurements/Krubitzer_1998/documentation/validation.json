@@ -1,7 +1,7 @@
 {
   "processed_views": 18,
-  "measured_fields": 61,
-  "unmeasured_fields": 60,
+  "measured_fields": 65,
+  "unmeasured_fields": 56,
   "overlaps": [
     {
       "map_id": "fig11A",
@@ -80,6 +80,12 @@
       "field_a": "MT",
       "field_b": "FST",
       "overlap_pixels": 6
+    },
+    {
+      "map_id": "fig14F_summary",
+      "field_a": "MT",
+      "field_b": "FST",
+      "overlap_pixels": 15
     }
   ],
   "native_imagej_roundtrip": "passed",
@@ -90,14 +96,5 @@
   "numbered_figures_assessed": 15,
   "assessment_status": "eligible_views_digitized_provisional",
   "whole_neocortex_summary": "unavailable; no independently established complete-neocortex view",
-  "source_visual_review": "completed; anatomical certification pending",
-  "full_dataset_recheck": {
-    "date": "2026-10-16",
-    "source_figure_inventory_rechecked": true,
-    "canonical_contour_count": 61,
-    "geometry_changed": true,
-    "anatomical_certification": false,
-    "review": "review/full_dataset_audit.html",
-    "geometry_review": "passed by audit_geometry.py; shared-stroke slivers or documented source overlaps retained"
-  }
+  "source_visual_review": "completed; anatomical certification pending"
 }

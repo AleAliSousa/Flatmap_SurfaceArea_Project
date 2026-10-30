@@ -1,0 +1,19 @@
+map_id,figure,pdf_page,species,specimen,view_type,repeat_of,fields,complete_fields,partial_fields,unmeasured,audit_date,review
+fig02A,2,3,Ornithorhynchus anatinus,not reported,redrawn_historical_map,,1,1,0,SI absolute area,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig02B,2,3,echidna (source label; species not assigned),not reported,redrawn_historical_map,,0,0,0,SI,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig03,3,4,echidna (source label; species not assigned),not reported,redrawn_case_map,,1,1,0,SI; PV; R; V,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig06,6,6,echidna (source label; species not assigned),E2,partial_case_reconstruction,,3,0,2,SI; R; SII/PV?; Visual; Motor,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig07A,7,7,Ornithorhynchus anatinus,not reported,cortical_subregion_map,,1,0,1,SI total; Electrosensory island i,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig09C,9,9,echidna (source label; species not assigned),not reported,redrawn_case_map,,1,1,0,A1?; Ar,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig10A,10,10,Ornithorhynchus anatinus,not reported,visual_case_map,,0,0,0,Vc; Vr; SI; Vc + Vr,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig11A,11,12,Ornithorhynchus anatinus,not reported,repeated_visual_map,fig10A,2,2,0,,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig11B,11,12,Ornithorhynchus anatinus,not reported,repeated_physiological_map,fig11A,2,2,0,,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig12,12,13,echidna (source label; species not assigned),E3,partial_case_reconstruction,,3,1,1,SI; PV?; R; Vis. caudal,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig13A_summary,13,14,Ornithorhynchus anatinus,illustrative summary,illustrative_summary_flatmap,illustrative_summary,1,1,0,Vr; Vc (VI?); PV; SI; M,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig13B_summary,13,14,Tachyglossus aculeatus,illustrative summary,illustrative_summary_flatmap,illustrative_summary,3,0,3,R; Vc (VI?); Vr; PV; M,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig14A_summary,14,15,Didelphis virginiana,illustrative summary,illustrative_summary_flatmap,illustrative_summary,5,5,0,SR; PV; VII,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig14B_summary,14,15,Echinops telfairi,illustrative summary,illustrative_summary_flatmap,illustrative_summary,4,4,0,R; M; PV/S2,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig14C_summary,14,15,Pteropus poliocephalus,illustrative summary,illustrative_summary_flatmap,illustrative_summary,10,10,0,PV; 3a (R); M,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig14D_summary,14,15,Sciurus carolinensis,illustrative summary,illustrative_summary_flatmap,illustrative_summary,9,9,0,PV; M,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig14E_summary,14,15,Callithrix jacchus,illustrative summary,illustrative_summary_flatmap,illustrative_summary,10,10,0,FEF; 3a; SMA; M; DM,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig14F_summary,14,15,Macaca mulatta,illustrative summary,illustrative_summary_flatmap,illustrative_summary,5,5,0,SI; VII; DM; MST; FST; R; FEF; SII; PV; VS; M,2026-10-16,source visually inspected; provisional anatomical interpretation

@@ -1,0 +1,1486 @@
+
+
+=== PDF PAGE 1 ===
+Visual Neuroscience (1993), 10, 827-855. Printed in the USA.
+Copyright © 1993 Cambridge University Press 0952-5238/93 $5.00 + .00
+Cortical afferents of visual area MT
+in the Cebus monkey:
+Possible homologies between New
+and Old World monkeys
+MARCELLO G.P. ROSA,12
+ JULIANA G.M. SOARES,1
+MARIO FIORANI, JR.,1
+ AND RICARDO GATTASS1
+1
+ Departamento de Neurobiologia, Instituto de Biofisica Carlos Chagas Filho,
+CCS, Bloco G, Ilha do Fundao, Rio de Janeiro 21941, Brazil 2
+Vision, Touch, and Hearing Research Centre, Department of Physiology and Pharmacology, University of Queensland QLD 4072, Australia
+(RECEIVED October 19, 1992; ACCEPTED February 1, 1993)
+Abstract
+Cortical projections to the middle temporal (MT) visual area were studied by injecting the retrogradely
+transported fluorescent tracer Fast Blue into MT in adult New World monkeys {Cebus apella). Injection
+sites were selected based on electrophysiological recordings, and covered eccentricities from 2-70 deg, in
+both the upper and lower visual fields. The position and laminar distribution of labeled cell bodies were
+correlated with myeloarchitectonic boundaries and displayed in flat reconstructions of the neocortex. Topographically organized projections were found to arise mainly from the primary, second, third, and
+fourth visual areas (VI, V2, V3, and V4). Coarsely topographic patterns were observed in transitional V4
+(V4t), in the parieto-occipital and parieto-occipital medial areas (PO and POm), and in the temporal ventral
+posterior area (TVP). In addition, widespread or nontopographic label was found in visual areas of the
+superior temporal sulcus (medial superior temporal, MST, and fundus of superior temporal, FST), annectent gyrus (dorsointermediate area, DI; and dorsomedial area, DM), intraparietal sulcus (lateral
+intraparietal, LIP; posterior intraparietal, PIP; and ventral intraparietal, VIP), and in the frontal eye field
+(FEF). Label in PO, POm, and PIP was found only after injections in the representation of the peripheral
+visual field (>10 deg), and label in V4 and FST was more extensive after injections in the central
+representation. The projections from VI and V2 originated predominantly from neurons in supragranular
+layers, whereas those from V3, V4t, DM, DI, POm, and FEF consisted of intermixed patches with either
+supragranular or infragranular predominance. All of the other projections were predominantly
+infragranular. Invasion of area MST by the injection site led to the labeling of further pathways, including
+substantial projections from the dorsal prelunate area (DP) and from an ensemble of areas located along
+the medial wall of the hemisphere. In addition, weaker projections were observed from the parieto-occipital
+dorsal area (POd), area 7a, area prostriata, the posterior bank of the arcuate sulcus, and areas in the
+anterior part of the lateral sulcus. Despite the different nomenclatures and areal boundaries recognized by
+different models of simian cortical organization, the pattern of projections to area MT is remarkably similar
+among primates. Our results provide evidence for the existence of many homologous areas in the
+extrastriate visual cortex of New and Old World monkeys.
+Keywords: Platyrrhyni, Visual cortex, Connections, Myeloarchitecture, Evolution
+Introduction cal visual areas for which a homology can be established with
+Since its description by Allman and Kaas (1971), the middle tern- certainty across a wide range of primate species using a variety
+poral visual area (MT) has been one of the most intensively stud-
+ o f
+ independent criteria (Aotus: Allman & Kaas, 1971; Galago:
+ied subdivisions of the extrastriate cortex. The middle temporal, Allman et al., 1973; Macaca: Gattass & Gross, 1981; Van Essen
+primary (VI), and second (V2) visual areas are the only corti-
+ e t al-> 1981 ! Cebus: Fiorani et al., 1989; Callithrix: Spatz &
+Tigges, 1972; Saimiri: Tigges et al., 1981; Miopithecus: Kaas
+& Krubitzer, 1991). Area MT can be identified in all of the
+Reprint requests to: Marcello G.P. Rosa, Vision, Touch, and Hear- above-mentioned species by its heavy myelination, by the direct
+ing Research Centre, University of Queensland, QLD 4072, Australia. projections it receives from V1, and by its first-order represen￾827
+https://doi.org/10.1017/S0952523800006064 Published online by Cambridge University Press
+
+=== PDF PAGE 2 ===
+828 M.G.P. Rosa et al. 
+tation of the visual hemifield (Allman & Kaas, 1971; Lund et al., 
+1975; Spatz, 1977; Lin et al., 1982; Wall et al., 1982; Desimone 
+& Ungerleider, 1986; Ungerleider & Desimone, 1986a,b; Fiorani 
+et al., 1989; Krubitzer & Kaas, 1990; Sousa et al., 1991; Pessoa 
+et al., 1992). MT also contains a large proportion of neurons 
+sensitive to the direction of movement (Zeki, 1974; Van Essen 
+et al., 1981; Maunsell & Van Essen, 1983a; Felleman & Kaas, 
+1984). 
+The boundaries and characteristics of other extrastriate visual 
+areas are still the subject of considerable debate. There are con￾flicting models of the organization of simian extrastriate cor￾tex, not only across studies of diverse genera, but also between 
+studies of single genera like Macaca or Aotus (Fig. 1). These 
+differences may result from a number of factors, including the 
+phylogenetic history of the animals, interspecific allometric 
+effects (Fleagle, 1988), possible effects of ecological niche on 
+the development of the visual system and, last but not least, the 
+different methods and criteria used by different investigators. 
+The involvement of the last factor is, in part, supported by the 
+conflicting models generated to describe the extrastriate orga￾nization of a single genus (e.g. Fig. 1). Conversely, when similar 
+methods are used, the same general subdivisions of extrastriate 
+cortex can be defined in primate species that are widely sepa￾rated in evolutionary terms, as are representatives of Strep￾sirhini, Platyrrhini, and Catarrhini (Kaas & Krubitzer, 1991; 
+Preuss & Goldman-Rakic, 1991). However, there is experimen￾tal evidence to support each of the different models, and it is 
+difficult at present to choose the one closest to a generalized 
+primate plan, or even to decide if the variation among species 
+reflects real biological differences. For this reason, studies 
+employing multiple criteria that can be reliably tested in differ￾ent species are needed. 
+This paper is part of a series of studies which seek to eluci￾date the organization of the visual cortex in Cebus apella, a New 
+World (Platyrrhine) monkey. Cebus was originally chosen as 
+a model for studies of the New World monkey visual cortical 
+organization due to the fact that it is more readily comparable 
+in many respects to the most intensively studied Old World 
+(Catarrhine) monkey, Macaca fascicularis, than the previously 
+employed New World monkey models. First, both the brain size 
+and body size of Cebus are similar to those of Macaca fascicu￾laris. Thus, allometric effects (Fleagle, 1988) can, to a large 
+extent, be accounted for. Second, the sulcal pattern is, in most 
+individuals, indistinguishable from that of a macaque (Le Gros 
+Clark, 1959). Our previous experience with Cebus demonstrates 
+that the position of homologous visual areas in relation to gyral 
+morphology is very similar to that of macaques (Gattass et al., 
+1987; Rosa et al., 1988; Fiorani et al., 1989). Finally, many 
+aspects of visual behavior such as diurnality, reliance on color 
+vision, skilled use of the hands for foraging, a complex pattern 
+of social interactions (including visual displays as a form of com￾munication), and the absence of extreme dietary specializations 
+link Cebus and Macaca fascicularis (Fleagle, 1988). On the other 
+hand, we also believe that because Cebus is a New World mon￾key, comparisons with more common Platyrrhine models such 
+as the squirrel monkey, marmoset, and owl monkey can be read￾ily made. Because of this unique combination of characteris￾tics, the study of the Cebus monkey may serve as an important 
+link between the models of New and Old World monkey visual 
+cortex. 
+A model of the organization of the visual areas in the Cebus 
+monkey has been described by Sousa et al. (1991), based on pre￾Abbreviations 
+6d cytoarchitectonic area 6i dorsal subdivision 
+6v cytoarchitectonic area '6, ventral subdivision 
+7a cytoarchitectonic area 7, subdivision a 
+7b cytoarchitectonic area 7, subdivision b 
+7m cytoarchitectonic area 7, medial subdivision 
+ArS arcuate sulcus 
+CaS calcarine sulcus 
+CGp posterior area of the cingulate gyrus 
+CMAc cingulate motor area, caudal subdivision 
+CoS collateral sulcus 
+DI dorsointermediate area 
+DLa dorsolateral anterior area 
+DLc caudal subdivision of dorsolateral area 
+DLi dorsolateral intermediate area 
+DLp dorsolateral posterior area 
+DLr rostral subdivision of dorsolateral area 
+DM dorsomedial area 
+DP dorsal prelunate area 
+FEF frontal eye fields 
+FST fundus of superior temporal area 
+HM horizontal meridian 
+IOS inferior occipital sulcus 
+IPS intraparietal sulcus 
+IT inferior temporal cortex 
+LaS lateral sulcus 
+LIP lateral intraparietal area 
+LIPd lateral intraparietal area, dorsal subdivision 
+LIPv lateral intraparietal area, ventral subdivision 
+LuS lunate sulcus 
+M medial visual area 
+MIP medial intraparietal area 
+MT middle temporal area 
+MTc MT crescent 
+MST medial superior temporal area 
+MST-1 medial superior temporal area, subdivision 1 
+MST-2 medial superior temporal area, subdivision 2 
+OTS occipito-temporal sulcus 
+PaS paraoccipital sulcus 
+PIP posterior intraparietal area 
+PO parieto-occipital area 
+POd parieto-occipital dorsal area 
+POm parieto-occipital medial area 
+POmS parieto-occipital medial sulcus 
+POS parieto-occipital sulcus 
+PP posterior parietal cortex 
+STP superior temporal polysensory cortex 
+STS superior temporal sulcus 
+TEO cytoarchitectonic area TEO 
+TVP temporal ventral posterior area 
+VI primary visual area 
+V2 second visual area 
+V3 third visual area 
+V3A visual area V3A 
+V3s third visual area, stratified subdivision 
+V3* third visual area, darkly myelinated subdivision 
+V4 fourth visual area 
+V4t transitional V4 
+VIP ventral intraparietal area 
+VM vertical meridian 
+VP ventral posterior area 
+vious electrophysiological recordings in V2 and MT and injec￾tions of fluorescent tracers in VI. Here, we will describe the areal 
+and laminar patterns of cortical projections to MT. In addition, 
+different patterns of label obtained after injections that invaded 
+MST, an area adjacent to MT, will be described. These ana￾tomical data will be correlated to the myeloarchitecture of the 
+https://doi.org/10.1017/S0952523800006064 Published online by Cambridge University Press
+
+=== PDF PAGE 3 ===
+New World monkey extrastriate cortex 829 
+Kaas& 
+Krubitzer, 
+1991; 
+Kaas & Morel, 
+1993 
+B 
+Sereno & 
+Allman, 
+1990 
+C Desimone & 
+Ungerieider 1989; 
+Boussaoud et al. 
+1990,1991 
+UP 
+DP PP IPG 
+Felleman & 
+Van Essen, 
+1991 
+Fig< t Different models of the organi￾zation of the extrastriate cortex in the 
+owl monkey (A,B) and macaque mon￾key (C,D), according to recent studies. 
+Each diagram was drawn as a flat re￾construction of a right hemisphere (dor￾sal upwards; caudal to the left). The 
+location of area V2 is shown in light 
+grey, and that of MT in dark grey. 
+Abbreviations also used in the text are 
+given on page 828; other abbreviations 
+are AITd and AITv: dorsal and ventral 
+subdivisions of anterior inferotemporal; 
+AT: anterior temporal; CITd and CITv: 
+dorsal and ventral subdivisions of cen￾tral inferotemporal; DC: dorsocaudal; 
+ER: entorhinal; FSTd and FSTv: dorsal 
+and ventral subdivisions of the fundal 
+superior temporal area; IPG: inferior 
+parietal gyrus; ITc inferotemporal, 
+caudal subdivision; ITcd: caudal infero￾temporal, dorsal division; ITcv: caudal 
+inferotemporal, ventral division; ITi: 
+intermediate inferotemporal; ITm: infe￾rotemporal, medial subdivision; ITml: 
+medial inferotemporal, lateral division; 
+ITmm: medial inferotemporal, medial 
+division; ITp: inferotemporal polar sub￾division; ITpol: polar inferotemporal; 
+ITr: rostral inferotemporal; MDP: me￾dial dorsal parietal; MSTd medial su￾perior temporal dorsal; MSTI: medial 
+superior temporal lateral; PlTd and 
+PITv: dorsal and ventral subdivisions 
+of inferotemporal; PS: posterior syl￾vian; RM: rostomedial; ST: superior 
+temporal; STPa and STPp: anterior and 
+posterior subdivisions of the superior 
+temporal polysensory area; TEc, TEm, 
+and TEr: caudal, medial, and rostral 
+subdivisions of cytoarchitectonic area 
+TE; TP: temporoparietal; V3d and V3v: 
+dorsal and ventral parts of third visual 
+area; VOT: ventral occipitotemporal; 
+VPP: ventral posterior parietal; and 
+VTF: visual subdivision of architectonic 
+area TF. 
+visual areas of Cebus, to provide an updated model of the orga￾nization of the extrastriate areas in this species. 
+Materials and methods 
+Animal preparation and receptive-field recording 
+Eight adult male Cebus apella monkeys weighing between 1.7 
+and 4.2 kg were used in this study. In each animal, one injec￾tion of the fluorescent tracer Fast Blue was aimed at visual area 
+MT. Out of the eight MT injections, six were later found to be 
+confined to the cortical mantle, and two included MT but spilled 
+out into the white matter. These latter cases were excluded from 
+the analysis. All injections were made under electrophysiologi￾cal guidance using the visual topography of areas in the supe￾rior temporal sulcus (STS) as reference (Fiorani et al., 1989). 
+The experimental procedures for multi-unit recordings were 
+described in detail elsewhere (Rosa et al., 1992). About 10 days 
+prior to the first recording session, under general anesthesia 
+(alphaxalone 10 mg/kg, alphadolone 3 mg/kg, plus ketamine 
+30 mg/kg initial dose, 10 mg/kg in half-hourly doses), the ani￾mal received a cranial prosthesis consisting of a bolt to hold the 
+head in the stereotaxic apparatus in a dental acrylic base. For 
+the recording and injection session, the animal was anesthetized 
+with halothane (2%), followed by a mixture of N 2 0/0 2 (7:3). 
+A 12-mm-diameter trephine hole was made in the region over￾https://doi.org/10.1017/S0952523800006064 Published online by Cambridge University Press
+
+=== PDF PAGE 4 ===
+830 M.C.P. Rosa et al.
+lying the STS. Muscular paralysis was then induced by the i.v.
+injection of 0.1 mg/kg of pancuronium bromide, followed by
+continuous infusion of the same drug (0.1 mg/kg/h in saline).
+The continuous infusion solution also included the neurolep￾tanalgesic sufentanil citrate (2 ^g/kg/h). This dose of sufentanil
+is sufficient to induce a state of light sleep in primates (Lennie
+et al., 1990). In addition, in the present experiments the anes￾thetic effect of this drug was enhanced by artificial ventilation
+with N2O/O2 (7:3) through a tracheal cannula during the
+period of paralysis. The animal's level of expired CO2, its elec￾trocardiogram, and its rectal temperature were continuously
+monitored and kept within the normal physiological range. After
+the application of atropine (2%) and phenylephrine (2%) drops
+to induce mydriasis and cycloplegia, the eye contralateral to the
+experimental hemisphere was fitted with a contact lens which
+focused the eye on the surface of a 57.3-cm-radius transparent
+hemispheric screen placed in front of the animal. The positions
+of the fovea and blind spot were projected onto the screen by
+means of a reversible ophthalmoscope in order to define the ver￾tical and horizontal meridians (VM and HM) of the visual field.
+Varnish-coated tungsten microelectrodes were used to record
+from small clusters of neurons. The microelectrode was ad￾vanced through a 21-gauge guide tube, across the dura mater,
+at 300-500 ixm steps. Visual receptive fields were plotted at each
+site by moving colored bars and, in the case of parietal cortical
+areas, large textured objects in front of the screen. All stimula￾tion was made under light-adapted conditions. The neuronal
+activity was monitored using an amplification system connected
+to a loudspeaker. Changes of neuronal activity were correlated
+with stimulation of specific portions of the visual field. Maps
+of the visual topography of areas MT and V4t (transitional V4;
+Desimone & Ungerleider, 1986; previously referred to as DZ,
+the "dorsal zone," by Fiorani et al., 1989), as well as changes
+in the responsiveness, receptive-field size, and stimulus selec￾tivity were used to guide the electrode towards area MT. Since
+the posterior wall of the STS is nearly vertical in Cebus, pene￾trations were tilted 20-30 deg from the vertical in parasagittal
+planes in order to avoid labeling of other areas during the with￾drawal of the injection syringe (see below). Area MT was read￾ily recognizable by the predominance of direction-selective, brisk
+neuronal responses to moving stimuli. Area V4t showed recep￾tive fields about the same size as those of MT, but the responses
+were less brisk and only a minority of sites yielded direction￾selective responses. These areas could also be distinguished by
+the trends in visual topography. In progressively deeper sites
+along the posterior bank of the STS, receptive fields in V4t move
+towards the VM in the lower contralateral quadrant, while those
+in MT move away from the lower VM and may include both
+the lower and the upper quadrants (Fig. 2). The medial supe￾rior temporal area (MST), located anterior and medial to MT,
+showed much larger receptive fields and brisk responses to fast
+movement of large objects. Finally, recordings from the fun￾dus of superior temporal area (FST), anterior to MT along the
+fundus of the STS, were characterized by large receptive fields
+almost always including the fovea.
+Injections of fluorescent tracers
+Following recording, injections of Fast Blue (5%) were made
+with a short bevelled 1-/*1 Hamilton syringe with a 27-gauge nee￾dle. To allow the positioning of the injection in the desired
+region, the electrode guide tube was advanced through a small
+slit in the dura mater to within 300 fx.m of the intended injec￾tion site. The electrode was advanced again, so that the retino￾topic location of the injection site could be checked. The
+electrode was then replaced by the syringe and 0.2-0.35 ^1 of
+tracer injected at a rate of 0.6 /*l/h. The guide tube was left in
+position for about 30 min after removal of the syringe. This pro￾cedure allowed all injections to be positioned in portions of area
+MT without detectable leakage up the track. However, some
+injections did spread to adjacent cortical areas or to the under￾lying white matter.
+Histological processing
+After variable survival times (20 days typical, 14 days in case 1)
+the animals, under deep anesthesia (pentobarbitone sodium,
+50 mg/kg), were perfused transcardially with normal saline fol￾lowed by paraformaldehyde [2% in phosphate-buffered saline
+(PBS)] with increasing concentrations of either sucrose (from
+10-30%) or glycerol (from 2.5-10%). These survival times were
+demonstrated not to result in transneuronal transport, although
+some leakage to the neuroglia immediately adjacent to the
+labeled cells was apparent (Conde, 1987). Serial 40-fim-thick sec￾tions were obtained using a cryostat. Series of unstained sec￾tions, 200 /im apart, were mounted on double gelatinized slides
+and stored in light-tight boxes. In addition, adjacent series
+were stained with cresyl violet and for myelin with the Gallyas
+(1979) and Heidenhain-Woelcke methods. In cases 3 and 6, the
+Heidenhain-Woelcke method was not used. Instead, a series was
+stained immunocytochemically with the monoclonal antibody
+Cat-301 (Hockfield et al., 1983). A full description of the Cat￾301 patterns in the visual areas will be the subject of a future
+publication, and only some points will be mentioned below.
+Fig. 2. Left column: Parasagittal sections through the STS, from lateral (A) to medial (D) showing recording sites in MT,
+MST, FST, V4, and V4t (small dots). Sites are numbered sequentially along the banks of the STS. Zones 0 and 1 of the injec￾tion site (Conde, 1987) are shown as concentric zones in section B. Architectonic boundaries are shown as dashed lines. Middle
+column: Receptive-field centers recorded in the sites shown in the left column. Each diagram is a representation of a portion
+of the left hemifield with the positions of the VM and HM indicated. Receptive-field centers in MT are shown by filled squares,
+those in MST by dots, FST by circles, V4 by triangles, and V4t by empty squares. Receptive-field centers belonging to the
+same area are joined in sequences. Right column: Receptive fields corresponding to the centers shown in the middle column.
+Fields in MT are shown in different tones of grey (those from section B in dark grey; those from C and D in progressively
+lighter tones of grey), those in MST in continuous outline, FST in dashed outline, V4 in hatch, and V4t in white. Different
+scales were used to represent the centers and fields in MST/FST/V4 (upper row) and those in MT/V4t/FST (middle and lower
+rows).
+https://doi.org/10.1017/S0952523800006064 Published online by Cambridge University Press
+
+=== PDF PAGE 5 ===
+New World monkey extrastriate cortex 831
+B19 B18
+D
+STS
+STS
+STS
+STS
+2mm
+90
+B1S
+20° B1r
+B11 B16
+O
+B7
+B6
+B3°
+VM B16
+B1
+B1
+D6
+C6
+v
+o
+J
+>i/2
+"VM VM
+D6
+D5
+D4
+01
+FIGURE 2.
+https://doi.org/10.1017/S0952523800006064 Published online by Cambridge University Press
+
+=== PDF PAGE 6 ===
+832 M.G.P. Rosaetal.
+Cell plotting, cortical reconstructions, and assessment
+of the extent of the injections
+The unstained sections were scanned with a Zeiss Axioplan flu￾orescence microscope. This microscope was equipped with a
+motorized stage, coupled to an IBM-AT microcomputer which
+ran custom-developed morphometric software. The positions
+of the labeled neurons and of the injections were then trans￾ferred to two-dimensional reconstructions of the neocortex, pre￾pared from the contours of layer IV of sections 1.6 mm apart
+as described by Van Essen and Maunsell (1980). Architectonic
+boundaries, as well as the recording sites, were also transferred
+onto the flattened maps, and used as guides to locate labeled
+cells with respect to specific areas.
+An estimate of the visuotopic extent of the injection site was
+obtained by examining the location of labeled cells in area VI
+and comparing the position of the patches with the visuotopic
+map described by Gattass et al. (1987). This estimate is shown
+in outline in the figures corresponding to each case (Figs. 5-10).
+In addition, the region defined by the borders of receptive fields
+recorded within the injection site is illustrated for each case (stip￾pled in Figs. 5A-10A, insert). Some mismatch was observed
+between the recorded receptive fields and the estimates, but this
+can be accounted for by some individual variability in visual
+topography of VI and by the fact that injections usually occu￾pied a larger volume of cortex than that sampled by an elec￾trode penetration. This last factor is particularly important if
+the small size and low magnification factor of MT are taken
+into account.
+The histological extents of the injection sites were estimated
+using criteria defined by Conde (1987). The zone containing a
+deposit of tracer (zone 0) was found to be confined to MT in
+four out of the six cases. Among these, a second concentric zone
+containing a halo of tracer interspersed among cells and stain￾ing lightly in Nissl preparations (zone 1) was found to encroach
+upon part of V4t in case 3, and part of MST in case 4. The pat￾tern of label in these cases did not differ significantly from that
+observed in the other MT cases (1 and 2), therefore supporting
+Conde's claim that only zone 0 results in retrograde transport.
+The remaining two cases (5 and 6) showed an involvement of
+area MST by zone 0.
+Identification of visual areas
+The primary criterion used for identification of areal bound￾aries was myeloarchitecture. Delimitation of myeloarchitectonic
+fields was found to be easier in low-power (5-8 x) views of the
+slides. We used criteria such as the number and degree of sepa￾ration of myelin-rich and myelin-poor layers, the thickness and
+position of these layers relative to the pia and white matter, the
+presence or absence of clear radial bundles of fibers, and the
+overall intensity of myelination as compared with other areas.
+In addition, Nissl-stained sections were employed to confirm
+some boundaries and visualize others that are not clearly evi￾dent in myelin-stained material. Some of the architectonic
+boundaries were confirmed by electrophysiological recordings
+(Figs. 2 and 4). Descriptions of the architectonic patterns used
+to identify different areas will be presented in the Results section.
+Results
+We will start the description of our results by architectonically
+characterizing the visual areas in Cebus. The following sections
+will deal with the areal, retinotopic, and laminar patterns of con￾nections between these areas and MT, and the effects of involve￾ment of MST in the injection site.
+Architectonic characterization of cortical areas
+A summary of the cortical subdivisions considered in this paper
+is shown in Fig. 3. This figure includes areas (such as VI, V2,
+MT, and PO) whose boundaries were independently confirmed
+by physiological criteria, as well as others based only on con￾nections and/or architecture. We therefore emphasize the pro￾visional character of some of the boundaries shown in Fig. 3,
+in so far as previous experience reveals that a single functional
+area may comprise architectonic subdivisions, and, conversely,
+that different areas may share a similar architectonic pattern
+(Sanides, 1972; Tusa et al., 1979; Fiorani et al., 1989; Ander￾sen et al., 1990).
+Areas in the STS
+Area MT was characterized by its dense myelination rela￾tive to surrounding areas, except parts of MST (Allman & Kaas,
+1971; Ungerleider & Desimone, 1986«; Fiorani etal., 1989). In
+MT, a thick bundle of fibers extends from layer VI to the bot￾tom of layer III, and the inner and outer bands of Baillarger
+are obscured by the overall intensity of staining (Fig. 4B). In
+one animal, a small region of lighter staining (MTp) was also
+present at the fundus and anterior bank of the STS. Based on
+physiological studies in Cebus, we consider this region an inte￾gral part of MT (Fiorani et al., 1989).
+Area MST was located adjacent to MT, in the anterior bank
+of the STS. Most of MST was darkly myelinated, but could be
+distinguished from MT by the presence of a thick, conspicu￾ous outer band of Baillarger which separates the lower, darkly
+staining layers from the upper layers (Fiorani et al., 1989). The
+darkly myelinated subdivision of MST was termed MST-1. By
+taking into account the connectional data, we found it neces￾sary to expand the architectonic definition of MST in Cebus
+to include transitional regions of less-myelinated cortex in the
+anterior bank of the STS and in the caudal tip of the lateral
+sulcus (LaS). The fringe of less-myelinated cortex was termed
+MST-2 (Fig. 4B).
+Area FST (Desimone & Ungerleider, 1986; Fiorani et al.,
+1989) was characterized by a thin and sharp outer band of Bail￾larger which separated a broad, myelin-poor upper stratum from
+a moderately myelinated, nearly homogeneous thin lower stra￾tum. In terms of the overall intensity of myelination, FST was
+intermediate between darkly staining MT and MST dorsocau￾dally, and the lighter staining temporal areas anteriorly. FST
+could also be distinguished from both MST-1 and MST-2 by
+the thickness and relative depth of the outer band of Baillar￾ger. In FST, this band was thinner and closer to the white mat￾ter than in MST.
+Area V4t in Cebus could be distinguished from V4, posteri￾orly, by the absence of the lightly myelinated band between
+the inner and the outer bands of Baillarger, and from MT by
+the presence of a darkly stained sharp outer band of Baillarger
+(Fig. 4B). The density of myelination decreased from lateral to
+medial portions of this area. Complementing our previous obser￾vations (Fiorani et al., 1989), we were able to demonstrate that
+V4t borders the foveal representation of MT, and possibly a
+small portion of the upper quadrant representation.
+https://doi.org/10.1017/S0952523800006064 Published online by Cambridge University Press
+
+=== PDF PAGE 7 ===
+New World monkey extrastriate cortex 833
+POmSpos
+Fig. 3. Architectonic subdivisions
+of the extrastriate cortex in the
+Cebus monkey. Upper: Lateral (A)
+and medial (B) views of a right
+hemisphere of a Cebus monkey,
+with the sulci partially opened.
+These diagrams are based on pho￾tographs of a brain in which the sul￾cal banks were physically retracted.
+The upper inserts in A and B show
+full views of the cerebral hemi￾spheres, with the cortex hidden by
+the sulci in grey and the major folds
+in continuous line; the lower por￾tions show enlarged views of the
+posterior half of the brain, with the
+approximate location of architec￾tonic fields shown by different types
+of stipple and fill. C: The same sub￾divisions shown in A and B are dis￾played in a schematic flat map of a
+right hemisphere. This map incor￾porates features of all cases, and
+therefore does not correspond to
+any specific animal. Dashed lines
+show borders that were estimated on
+the basis of physiological evidence,
+but could not be observed in myelin￾stained sections.
+Areas V3, DM, and Dl
+Anatomical tracer studies (Sousa et al., 1991) and electro￾physiological recordings in Cebus (Gattass et al., 19886; and
+in preparation) showed that V2 is bordered anteriorly by an area
+homologous to the macaque's V3 (Gattass et al., 1988a). The
+myeloarchitecture of V3 presented two alternating patterns,
+which we refer to as V3s (stratified) and V3*. In the V3s pat￾tern, the outer band of Baillarger was more sharply defined
+than in V2, allowing the determination of the V2/V3 bound￾ary (Fig. 4A). Stratified V3 was further characterized by mod￾erate to dark myelination, a sharp limit between the outer band
+and the upper layers, and fuzzy pale bands located between the
+two bands of Baillarger and between the inner band and the
+white matter. The subdivision V3*, named after the possible
+https://doi.org/10.1017/S0952523800006064 Published online by Cambridge University Press
+
+=== PDF PAGE 8 ===
+834 M.C.P. Rosa et al.
+• - _ ^ LuS
+Fig. 4. Myeloarchitecture of the occipital lobe and adjacent cortex in
+Cebus. In each panel, anterior is to the right, dorsal is upwards, and
+the scale bars correspond to 2 mm. The thick black lines across corti￾cal layers mark the center of the transition between cortical areas, the
+dashed lines mark the boundaries between architectonic subdivisions
+of a given area, and the arrowheads in A and C point to the darkly
+myelinated (V3*) patches in V3. Some electrode tracks are also visible.
+homologue in the macaque (Van Essen et al., 1986), was char￾acterized by darker myelination overall and less clearly sepa￾rated bands of Baillarger than in V3s (Fig. 4C). Although most
+of V3 was formed by the V3s pattern, V3* consisted of islands
+within the stratified pattern. These islands were more com￾monly, but not exclusively, found in the peripheral representa￾tion of the lower quadrant, in the annectent gyrus and in the
+parieto-occipital cleft (Fig. 4C). Based solely on the density of
+myelination, V3 could not be reliably separated from V2. V3s
+was at least as myelinated as the central representation in V2,
+and V3* was similar to the peripheral representation in V2 (Rosa
+et al., 1988). Thus, laminar patterns must also be taken into con￾sideration. In contrast to the situation in the macaque (Fig. 1),
+there was no evidence for a gap at the foveal representation sep￾arating the upper and lower quadrant representations in V3.
+Electrophysiological recordings in Cebus monkeys (Gattass
+et al., manuscript in preparation) suggest that V3 is bounded
+anteriorly in the annectent gyrus by another area containing rep￾resentations of both the lower and upper visual quadrants. This
+area probably corresponds to the dorsomedial visual area (DM)
+described in owl monkeys (Allman & Kaas, 1975) and area V3A
+of the macaque (Zeki, 1978; Gattass et al., 1988a). For reasons
+of historical precedence, we favor the first nomenclature. We
+were unable to distinguish V3 from DM based on myeloarchi￾tecture. The architectonic field DI (dorsointermediate area;
+Allman & Kaas, 1975; Krubitzer & Kaas, 1990) comprised cor￾tex anterior to V3/DM and posterior to the dorsal prelunate
+area (DP), mostly in the anterior bank of the paraoccipital sul￾cus (PaS). The main myeloarchitectonic feature of DI was the
+broad and heavily stained outer band of Baillarger (Fig. 4B).
+The lower layers were more densely myelinated than in DP and
+poorly differentiated.
+Areas V4, TEO, and TVP
+The myeloarchitectonic characteristics of V4 in Cebus closely
+resemble those in the macaque (Gattass et al., 1988c). These
+include a moderate degree of myelination, sharply defined bands
+of Baillarger, and a crisp light band separating them (Figs. 4A
+and 4B). Separation of V3 and V4 was made possible by the
+lighter myelination and by the much clearer separation between
+the bands of Baillarger in V4 (Fig. 4A). The anterior limit of
+V4 with area TEO (Von Bonin & Bailey, 1947) was character￾ized by a further decrease in overall myelination and an even
+clearer separation between the bands of Baillarger (Boussaoud
+et al., 1991). The temporal ventral posterior area (TVP; Sousa
+et al., 1991) was characterized by thin, lightly myelinated cor￾tex and sharp bands of Baillarger. TVP was mostly included
+in cytoarchitectonic area TF (Von Bonin & Bailey, 1947).
+Areas 7a and DP
+In Cebus, areas 7a and DP were architectonically similar to
+those same areas defined in the macaque (Andersen et al., 1990).
+In myelin-stained sections they were characterized by light mye￾lination, a sharp outer band of Baillarger, and a lower stratum
+showing clear radial bundles of fibers and little separation
+between the layers (Fig. 4B). A light band separating the inner
+and outer bands of Baillarger was not conspicuous in these
+areas. This characteristic was useful in defining the ventral
+boundary of DP, as in V4 the light band was clearly defined.
+In our anesthetized preparations, we were often able to plot
+receptive fields in DP, but not in 7a. We could not reliably sep￾arate DP from 7a using architectonic criteria, and their bound￾ary is estimated by analogy with the macaque (Andersen et al.,
+1990).
+Areas in the intraparietal sulcus (IPS)
+The lateral intraparietal (LIP) and ventral intraparietal (VIP)
+areas were defined in the Cebus using the same architectonic
+criteria as Blatt et al. (1990) in the macaque. Area LIP, in the
+lateral bank, was formed by two subdivisions. The subdivision
+LIPv (LIP ventral Fig. 4B) had a matted appearance in myelin￾stained sections, with fibers extending from layer VI to the bot￾tom of layer III. Its dark myelination contrasted with that of
+cortex located more dorsally in the ventral bank of IPS, which
+showed the same pattern as area 7a. However, this transition
+was not sharply defined, extending over a strip of cortex about
+2 mm wide. Since the transitional region was also found to
+project to MT, it was considered an integral part of LIP, and
+https://doi.org/10.1017/S0952523800006064 Published online by Cambridge University Press
+
+=== PDF PAGE 9 ===
+New World monkey extrastriate cortex 835
+named LIPd (LIP dorsal) according to Blatt et al. (1990). A
+lightly myelinated region located around the fundus of the IPS
+was considered to be area VIP (Fig. 4B; see also Andersen et al.,
+1990; Colby et al., 1993).
+The parieto-occipital area (PO; Colby et al., 1988) was
+located in the ventral portions of the medial wall of the IPS and
+the anterior wall of the parieto-occipital sulcus (POS), as well
+as in the precuneate gyrus. PO had a darkly myelinated, mat￾ted pattern similar in all aspects to that of MT, which contrasted
+with the surrounding areas (Neuenschwander, 1989; Neuen￾schwander et al., submitted). Area POd corresponds to a sec￾ond representation of the peripheral visual field, dorsally
+adjoining that of PO (Neuenschwander, 1989; Gattass et al.,
+1990). In our material, POd was not as heavily myelinated as
+PO. However, it stained darker than either the dorsally adjoin￾ing caudal subdivision of the somatosensory association cor￾tex (area PE of Von Bonin & Bailey, 1947) or laterally adjoining
+posterior intraparietal (PIP) cortex. Based on its location and
+architecture (Colby et al., 1988), PIP corresponded to a lightly
+myelinated region located at the fundus and medial bank of
+the posterior portion of the IPS. This area had thin and well￾separated bands of Baillarger (Fig. 4C).
+Area POm
+Evidence for a further visual area in the PO complex, adja￾cent to the dorsal tip of V2, was obtained in Cebus by Neuen￾schwander (1989), based on receptive-field mapping. This area
+was called POm, since it crosses both banks of the medial pari￾eto-occipital sulcus (POmS). The myeloarchitectonic differences
+between V2 and POm were subtle. The distinction between these
+areas was possible in some cases due to the more clearly sepa￾rated bands of Baillarger and lighter myelination in the latter.
+In most animals, however, the border between V2 and POm
+was estimated based on physiological studies in other animals
+and topographic and laminar distribution of labeled cells, which
+differed from those in V2.
+Areas in the arcuate sulcus
+The subdivisions of the frontal cortex relevant to this study
+were more easily distinguished in low-power views of Nissl￾stained sections. A cytoarchitectonic boundary roughly coinci￾dent with the fundus of the arcuate sulcus (ArS) marked the
+border between the frontal eye field (FEF), anteriorly, and pre￾motor area 6, posteriorly. In FEF, the granular layer IV was
+visible, while in area 6 it was not (Bruce et al., 1985). The char￾acteristics of layer IV were also used to mark the anterior bor￾der of FEF, close to the lip of the ArS. In anteriorly located
+areas, this layer was sharply defined, while in FEF it was broad
+and fuzzy. In the posterior bank of the ArS, a border between
+dorsal (6d) and ventral (6v) premotor areas was drawn based
+on myeloarchitecture. The dorsal subdivision was densely
+myelinated, while the ventral subdivision was lighter and had
+visible bands of Baillarger.
+Regional and laminar distribution of labeled neurons
+Figs. 5-10 illustrate the regional distribution of labeled cells after
+four injections in area MT (Figs. 5-8), and two injections involv￾ing areas MT and MST (Figs. 9-10).
+Areas VI and V2
+The pattern of projections to MT from both VI and V2 fol￾lowed visuotopic constraints, i.e. only the parts representing the
+same portion of the visual field were connected. This topogra￾phy can be observed in VI by comparing the location of label
+in cases 1, 2, and 5, which form a central-peripheral series.
+Although the injection in the central (5 deg) representation in
+case 1 resulted in label mainly in the occipital operculum (Fig. 5),
+the labeled patches in VI in case 2 (injection at 10 deg; Fig. 6)
+and case 5 (injection in the peripheral representation; Fig. 9)
+are progressively more anterior in the calcarine sulcus (CaS) (to
+the left, in the flat reconstructions). Cases 3 (Fig. 7) and 6
+(Fig. 10), in spite of the imprecision due to the invasion of MST
+in the latter, are illustrative of the distribution of label after
+injections in the lower and upper quadrant representations in
+MT, respectively. In the case with lower quadrant injection
+(Fig. 7), the location of label in VI (and also V2) corresponded
+to the receptive fields recorded in MT but not to the V4t recep￾tive fields. Finally, in case 4 (Fig. 8) the deposit of tracer involved
+both the upper and lower quadrant representations in MT, and
+two labeled patches were found in VI in the expected locations.
+The vast majority of labeled cells in VI were found in layer IVb;
+only a few labeled cells were seen in infragranular layers. This
+laminar distribution was constant irrespective of invasion of
+MST by the injection.
+Retinotopic order could also be observed in the connections
+between V2 and MT. The existence of label in both the dorsal
+and ventral portions of V2 in the cases with injections restricted
+to MT (Figs. 5-8) reflected the inclusion of the representation
+of the HM in the injection site. However, in case 1 there was
+a pronounced bias in the distribution of label towards ventral
+V2, as expected from the receptive fields recorded at the center
+of the injection (Fig. 5). In contrast, an injection in the lower
+quadrant in MT resulted in strong label in dorsal V2 (case 3,
+Fig. 7). The cases with MST involvement were more difficult
+to interpret, as this may have resulted in considerable label in
+peripheral V2 (Boussaoud et al., 1990). For example, in case
+6 (Fig. 10) label in V2 reached the far peripheral representation
+in the anterior portion of the ventral bank of the CaS, in spite
+of the fact that the receptive fields recorded in MT and the label
+in VI were compatible with a mid-peripheral injection. None￾theless, this injection resulted in label almost exclusively in ven￾tral V2, as appropriate for an upper quadrant injection. In case
+5 (Fig. 9), the peripheral parts of both dorsal and ventral V2
+were labeled.
+In every case, serial reconstructions demonstrated that label
+in V2 was located in a series of elongated patches, reminiscent
+of the cytochrome-oxidase stripes described by Tootell et al.
+(1983), with virtually no labeled cells between the patches. This
+characteristic of the V2-MT projection was expected, by anal￾ogy with previous work in other primates (De Yoe et al., 1990;
+Krubitzer & Kaas, 1990). Label in V2 was predominantly supra￾granular. Labeled cells were scattered at all levels of layer III,
+but were more strongly concentrated in the lower half of
+this layer. Infragranular labeled cells were more frequent than
+in VI.
+Areas V3, V4, and DM
+Considering first the representation of the upper quadrant
+in the ventral part of V3, a clear topography was present. After
+an injection in the central upper quadrant representation (case 1,
+Fig. 5), label in V3 was predominantly located in the inferior
+occipital sulcus (IOS) and adjacent tentorial cortex. In succes￾sively more peripheral injections, (Figs. 6, 8, and 9), the patches
+of label were displaced anteriorly and away from the IOS. Injec￾tions restricted to the vicinity of the HM representation resulted
+https://doi.org/10.1017/S0952523800006064 Published online by Cambridge University Press
+
+=== PDF PAGE 10 ===
+836 M.G.P. Rosa et al.
+Case 1 VM
+FIGURE 5A.
+https://doi.org/10.1017/S0952523800006064 Published online by Cambridge University Press
+
+=== PDF PAGE 11 ===
+New World monkey extrastriate cortex 837
+Fig. 5. Summary of data from a case with injection of Fast Blue in the central representation in MT. The deposit of tracer
+was centered on layer IV, but included layers II to VI, as evaluated by examination of serial sections. Part A: Upper left: flat
+reconstruction of the right neocortex, showing the gyral (grey) and sulcal (white) regions. Upper right: Representation of the
+central visual field showing the estimated visuotopic extent of the injection site, determined as explained in "Materials and
+Methods" (outline), and the receptive fields recorded at the injection site (grey). Lower: Flat reconstruction of the neocortex
+showing the distribution of label after an MT injection (in MT, black indicates the effective injection site, and white the halo).
+Discontinuities were made in the process of preparing the flat reconstruction, and the large arrows point to homologous points
+on the two sides of the discontinuities. In this and in the following figures,the following conventions apply: thick lines limit
+the neocortex and indicate the sulcal boundaries; thin lines are areal boundaries; dashed lines are architectonic boundaries between
+subdivisions of a single area (LIPd and LIPv; MST-1 and MST-2); black fill: predominantly supragranular projection patches;
+vertically striped fill: mixed infragranular and supragranular projection patches; light grey: predominantly infragranular pro￾jection patches. Scale bar is uncorrected for shrinkage. Single neurons occasionally found outside the main projection patches
+are not shown in part A, but may appear in part B. Part B: Sections from the same case, showing the laminar location of
+the labeled cells. I-V are parasagittal sections at the levels shown in the dorsal reconstruction (lower right). Architectonic bound￾aries between areas are shown in thick grey line across the cortical layers, and architectonic limits between subdivisions of a
+single area by dashed lines across the cortical layers. The borders of MT are emphasized by arrows. Boundaries that could
+not be directly visualized in the sections are estimated (arrowheads). Only the cortical projections are shown.
+in a concentration of label close to the V2 border (Figs. 6, 8,
+and 9), while injections also involving the vicinity of the upper
+quadrant VM representation resulted in a more even distribu￾tion of projecting cells across the width of V3 (Figs. 5 and 10).
+Finally, an injection largely restricted to the lower quadrant rep￾resentation resulted in only a few labeled cells at the ventral
+V2/V3 border (Fig. 7).
+The pattern of label in the cortex anterior to dorsal V2 was
+more complex, although a crude central-peripheral gradient was
+observed. In the case where the peripheral representation in MT
+https://doi.org/10.1017/S0952523800006064 Published online by Cambridge University Press
+
+=== PDF PAGE 12 ===
+838 M.G.P. Rosa et al
+Case 2
+VM
+FIGURE 6A.
+https://doi.org/10.1017/S0952523800006064 Published online by Cambridge University Press
+
+=== PDF PAGE 13 ===
+New World monkey extrastriate cortex 839
+Case 2
+Fig. 6. Summar y of dat a from case 2. Injection involved layers III to VI in MT. Convention
+Bs are as in Fig. 5.
+was injected, label in V3 extended medially to the border of area
+PO (Fig. 9), while in the case in which the central representa￾tion was injected the label was several millimeters away from
+this border (Fig. 5). However, in most cases label was wide￾spread along the medio-lateral dimension, and usually included
+both myeloarchitectonic subdivisions of V3, as well as cortex
+that may belong to area DM. Moreover, a separation between
+representations of HM and VM was not apparent. Patches of
+label usually occupied the whole anterior-posterior dimension
+of the V3/DM region. In general, these observations agree with
+the hypothesis of two areas in this region, resulting in a more
+complex visual topography.
+The interpretation of the retinotopy in V4 was relatively
+straightforward. Firstly, there is evidence for a large emphasis
+on central representation, as illustrated by the many dense
+patches of label in V4 in case 1 (Fig. 5) and by much less-exten￾sive label in V4 after injections in the peripheral representation
+(e.g. Figs. 6, 8, and 9). Secondly, a central-peripheral gradient
+from lateral to anteromedial was present, with the lower and
+upper visual-field peripheries represented in the posterior bank
+https://doi.org/10.1017/S0952523800006064 Published online by Cambridge University Press
+
+=== PDF PAGE 14 ===
+840 M.G.P. Rosa et al.
+Case 3 VM
+r20°
+FIGURE 7A.
+https://doi.org/10.1017/S0952523800006064 Published online by Cambridge University Press
+
+=== PDF PAGE 15 ===
+New World monkey extrastriate cortex 841
+IPS
+STS
+V4
+LuS
+Case 3
+2 mm
+B
+Fig. 7. Summary of data from case 3. Injection involved layers II to VI in MT. In the upper right portion of A, receptive
+fields recorded along the same electrode track in MT (grey) and V4t (horizontal hatch) are compared with the estimate of the
+effective site (outline). Other conventions are as in Fig. 5.
+of the STS and ventral to the medial lip of the OTS, respec￾tively. Thirdly, the representation of the VM seemed to lie pos￾teriorly (Fig. 8), and that of the vicinities of the HM anteriorly
+(other cases). The near absence of label in dorsal V4 in the case
+shown in Fig. 5 may also indicate that, as in the macaque (Gat￾tass et al., 1988a), the portions of the lower quadrant close to
+the HM were represented in the anterior part of ventral V4,
+rather than in the STS.
+https://doi.org/10.1017/S0952523800006064 Published online by Cambridge University Press
+
+=== PDF PAGE 16 ===
+842 M.G.P. Rosaetal.
+Case 4
+VM
+r15°
+FIGURE 8A.
+In every case, label in V3, DM, and V4 consisted of isolated
+patches, with few if any labeled cells in between. There were,
+however, clear differences between the laminar distribution of
+label in these areas. Patches of label in V3 and DM often showed
+a prominent supragranular component in addition to widespread
+infragranular label, while in V4 nearly all labeled cells were in
+infragranular layers.
+Area DI
+The label in DI included mainly infragranular neurons but
+some "hot spots" containing densely packed labeled supragran￾ular neurons were observed. The supragranular contribution was
+substantially larger in the case with extensive MST involvement
+(Fig. 10). The widespread nature of the label in each case sug￾gests a crudely topographic or non-topographic organization.
+https://doi.org/10.1017/S0952523800006064 Published online by Cambridge University Press
+
+=== PDF PAGE 17 ===
+New World monkey extrastriate cortex 843
+ArS
+IPS
+STS
+Case 4
+Fig. 8. Summary of data from case 4. Injection involved layers I to V in MT. Conventions are as in Fig. 5.
+Areas MST, FST, V4t, and STP
+Extensive label was observed in MST, without clear topo￾graphic order. Within the labeled regions, cells in MST were
+nearly continuously distributed in the infragranular layers, but
+were grouped in small patches in the supragranular layers. No
+supragranular label was found in the MST-2 subdivision, with
+the exception of the case with extensive MST-1 involvement
+(Fig. 10).
+https://doi.org/10.1017/S0952523800006064 Published online by Cambridge University Press
+
+=== PDF PAGE 18 ===
+844 M.G.P. Rosa et al.
+Case 5
+VM
+.40°
+FIGURE 9A.
+https://doi.org/10.1017/S0952523800006064 Published online by Cambridge University Press
+
+=== PDF PAGE 19 ===
+New World monkey extrastriate cortex 845
+IPS
+CaS
+VI
+2 mm Case 5 B
+Fig. 9. Summary of data from case 5. Injection involved layers I to VI in MT, and layers I and II in MST. Conventions are
+as in Fig. 5.
+In FST, no obvious topography was revealed by our data. injections in the representation of the periphery (Figs. 6-10).
+However, some predominance of central representation may Nearly all labeled cells in FST were infragranular.
+exist, as revealed by the more extensive label in case 1 (injec- Only a very crude retinotopic pattern of connections was
+tion at the central representation, Fig. 5) than in the cases with observed between MT and V4t. Note, for example, the displace￾https://doi.org/10.1017/S0952523800006064 Published online by Cambridge University Press
+
+=== PDF PAGE 20 ===
+846 M.G.P. Rosa et al.
+Case 6
+HM
+FIGURE 10A.
+https://doi.org/10.1017/S0952523800006064 Published online by Cambridge University Press
+
+=== PDF PAGE 21 ===
+New World monkey extrastriate cortex 847
+LaS
+-2
+2 mm OTS
+Fig. 10. Summary of data from case 6. Injection involved layers I to V in MT, and I to IV in MST. Conventions are as in
+Fig. 5. In this case, the brain was sectioned in an oblique plane equidistant from the coronal and the horizontal, as shown
+by the lateral reconstruction (insert at right).
+ment of the heavily labeled patches towards the medial end of
+V4t in a case where the representation of the periphery was
+injected (e.g. Fig. 9) as compared with a case where the central
+representation was injected (Fig. 5). Unlike in the other STS
+areas described above, label in V4t was evenly distributed across
+supragranular and infragranular layers.
+In two of the cases with injection restricted to MT (Figs. 5
+and 8), as well as in both MT/MST cases, scattered infragran￾ular labeled cells were also found anterior to MST and FST,
+in the dorsal bank of STS. These cells were assigned to the "supe￾rior temporal polysensory area" (STP; Bruce et al., 1981) on
+a regional basis only.
+https://doi.org/10.1017/S0952523800006064 Published online by Cambridge University Press
+
+=== PDF PAGE 22 ===
+848 M.G.P. Rosa et al.
+Intraparietal sulcus and POm
+The main zone projecting to MT in the IPS was the heavily
+myelinated portion of area LIP (LIPv). However, the patches
+of label also spread to the less-myelinated neighboring cortex
+in the fundus and close to the lip of the sulcus (VIP and LIPd).
+Label in VIP and LIP seemed to be less extensive after an injec￾tion in the central representation (Fig. 5) than in the other cases.
+As in area MST, labeled cells in LIP formed a nearly continu￾ous band in the infragranular layers, but some supragranular
+patches were also present. In VIP, however, only infragranu￾lar label was observed, with the exception of the cases with MST
+involvement. Occasional infragranular neurons were found a
+few millimeters lateral to the architectonic border of LIPd, but
+this may reflect the difficulty in defining a boundary in transi￾tion zones between architectonic patterns.
+A complex of medially located areas showed projections to
+MT and/or MST in all but the case with the central injection
+(Fig. 5). In PIP, label appeared only in infragranular neurons
+irrespective of the invasion of MST by the injections. Patches
+in area PO consisted of continuous infragranular label and iso￾lated supragranular cells. The projections from PO to MT were
+subject to topographic constraints. For example, an injection
+in the lower quadrant representation resulted in labeled cells only
+in the POS (Fig. 7), and an injection in the upper quadrant rep￾resentation labeled only the precuneate gyrus (Fig. 10). In case
+6, a patch with sparsely distributed infragranular neurons was
+found dorsal to PO, in the topographically appropriate portion
+of area POd. This was probably due to the MST involvement.
+Injections involving the HM representation labeled neurons in
+both sulcal and gyral PO (Figs. 6, 8, and 9).
+In contrast, label in area POm had a marked supragranular
+component. The injections in cases 2 and 4, in the mid-periph￾eral HM representation in MT (Figs. 6 and 8), resulted in labeled
+patches both in the anterior, lower quadrant and in the poste￾rior, upper quadrant representations of POm. In addition, an
+injection in the mid-peripheral lower quadrant representation
+(Fig. 7) resulted only in a small patch of label, in the anterior
+part of POm. However, the most extensive label in POm was
+seen after both injections involving MST (Figs. 9 and 10). In
+these cases, the supragranular component was as marked as the
+infragranular one, and label was widespread along virtually the
+whole extent of POm.
+Areas TVP and prostriata
+A crude visuotopy was present in the projections from TVP
+to MT. The injection in the central representation labeled cells
+in and around the OTS (Fig. 5), while the cases with injections
+in the mid-peripheral and peripheral representations labeled cells
+close to the lateral lip of the CaS. In addition, only isolated neu￾rons were labeled after a lower quadrant injection (Fig. 7).
+Except for those in case 6 (Fig. 10), all labeled neurons in TVP
+were located in the infragranular layers. Also in case 6, a fur￾ther patch of labeled neurons was observed in the area adja￾cent to TVP and anterior to VI and V2 in the CaS. Based on
+its location and myeloarchitecture (Sanides, 1972; Gattass et al.,
+1987), we assigned this label to area prostriata.
+Areas FEF and 6d
+Whilst in the MT injection cases most of the label was located
+in patches around the anterior lip and anterior bank of the ArS,
+in the MT/MST cases considerable label was found in the pos￾terior bank and posterior lip of the dorsal branch of the ArS,
+in area 6d. The position of the patches in FEF also varied
+according to the eccentricity of the injection, being more ven￾tral in the case with injection in the central representation
+(Fig. 5) than in the cases with injections in the representations
+of the mid-periphery and periphery (e.g. Figs. 6 and 9).
+Other areas labeled after injections involving MST
+Both cases with MST involvement showed extensive infragran￾ular label in DP and patches composed of scattered infragran￾ular cells in 7a (Figs. 9 and 10). In these cases labeled cells were
+also present in an ensemble of areas located along the medial
+wall of the hemisphere. This is especially evident in Fig. 10,
+where the whole precuneate gyrus is labeled anterior to areas
+PO and POd. The label in this case involved much of area 7m
+of Cavada and Goldman-Rakic (1989), as well as more ventrally
+placed retrosplenial areas, probably including area CGp (Olson
+et al., 1992). A second focus of label in the medial wall was
+located more anteriorly, encompassing the ventral bank of the
+cingulate sulcus (CiS), in the approximate position of the cau￾dal cingulate motor area (CMAc; Hutchins et al., 1988). This
+focus of label seems to correspond to an area that projects to
+the supplementary eye field (Huerta & Kaas, 1990).
+Two different regions in the LaS also showed loosely packed
+patches of label after injections involving MST. One focus was
+located posteriorly, just in front of MST-2, along the fundus
+of the posterior tip of the LaS, and another overlaid the claus￾trum, at the ventral limit of the insular cortex. In both regions,
+labeled neurons were located only in infragranular layers.
+Discussion
+The regional pattern of connections of MT is similar in repre￾sentatives of the two simian superfamilies, suggesting an ho￾mologous organization. By correlating the location of labeled
+neurons with architectonic subdivisions, we propose a model
+of the subdivisions of the visual cortex in a relatively large, diur￾nal and gyrencephalic New World monkey (Fig. 11). This illus￾tration compiles data from many sources, and must be seen as
+a working hypothesis rather than a definitive model. This model
+has the merit of providing a coherent framework in which the
+connections of MT (present data) and VI (Sousa et al., 1991)
+can be classified and interpreted in areal and retinotopic terms.
+Many of the same subdivisions can be recognized in previous
+models based on data from other genera. However, there are
+cases in which the subdivisions proposed here are not compati￾ble with these models, and determining the exact number of
+homologous fields in the two simian lines will require a re-exam￾ination of the areal boundaries and, most desirably, a unifica￾tion of the nomenclature. In our summary (Fig. 11), boundaries
+were placed only where there is independent evidence that a
+physiologically significant border is likely to occur at a given
+location, based either in studies of Cebus or in comparisons with
+other primates. Some of these boundaries are, however, provi￾sional, and many uncertain points remain to be resolved by
+future studies. These controversial points, as well as likely
+homologies and comparisons with previous work, will be treated
+separately as they regard each area in the following sections.
+Areas VI and V2
+Since MT is known to receive afferents from V1 in a range
+of primates (Kuypersetal., 1965; Spatzetal., 1970; Zeki, 1971a;
+https://doi.org/10.1017/S0952523800006064 Published online by Cambridge University Press
+
+=== PDF PAGE 23 ===
+New World monkey extrastriate cortex 849
+Fig. 11. Organization of visual cortex in Cebus apella, in a schematic flat map. For some areas, the visual topography is shown
+according to the insert (upper left): VM representations are indicated by squares, HM by dots, visual periphery by filled trian￾gles, isoeccentricity lines by grey lines, an isopolar line in the lower quadrant by a dashed line, lower quadrant representations
+by the (—) sign, upper quadrant representations by the (+) sign, and the fovea by an (F). Dotted lines indicate borders that
+are not visible in myelin-stained sections. The visual topography and boundaries are based on the present data, complemented
+by the following other sources: VI and PRO: Gattass et al. (1987); V2: Rosa et al. (1988); V3 and V4: Sousa et al., (1991);
+MT, MST, FST, and V4t: Fiorani et al. (1989); PO, POd, and POm: Neuenschwander (1989); and TVP: Sousa et al., (1991).
+Spatz, 1977; Ungerleider & Mishkin, 1979), it is hardly surpris￾ing that we confirmed the existence of such connections in
+Cebus. As noted in previous studies (Spatz, 1977; Ungerleider
+ADesimone, 19866; Krubitzer & Kaas, 1990), the estimateof the
+retinotopic extent of the injection sites based on the visual topog￾raphy of VI closely matched the receptive fields recorded at the
+injection sites. In addition, the laminar pattern of the MT-pro￾jecting neurons in VI corresponds to that reported for other
+species (Spatz, 1977; Tigges et al., 1981; Maunsell & Van Essen,
+19836; Weller et al., 1984).
+In area V2, we confirmed the existence of predominantly
+supragranular projections arranged in stripe-like patches. The
+center-to-center spacing between MT-projecting stripes roughly
+corresponds to the width of a cycle of cytochrome-oxidase
+stripes in Cebus (3-4 mm), an observation that supports previ￾ous proposals that only alternate cytochrome-oxidase-rich
+https://doi.org/10.1017/S0952523800006064 Published online by Cambridge University Press
+
+=== PDF PAGE 24 ===
+850 M.G.P. Rosa et al.
+stripes project to MT (De Yoe & Van Essen, 1985; Shipp & Zeki,
+1985; Krubitzer & Kaas, 1990). Unpublished observations in our
+laboratory also demonstrate a correspondence between the MT￾projecting stripes and Cat-301 rich patches in V2, as shown in
+the macaque (De Yoe et al., 1990).
+Area V3
+Present models of organization of extrastriate cortex in New
+World monkeys such as Aotus and Saimiri do not recognize an
+area comparable to V3 of the macaque. Instead, studies in these
+species suggest that multiple areas occupy the corresponding cor￾tex anterior to V2 (Sereno & Allman, 1990; Kaas & Krubitzer,
+1991; Weller et al., 1991). It has been proposed that the more
+dorsal portion of the macaque's V3 corresponds to part or all
+of area DM of New World monkeys (Lin et al., 1982; Burk￾halter et al., 1986; Krubitzer & Kaas, 1990; Sereno & Allman,
+1990; Kaas & Krubitzer, 1991; Weller et al., 1991), based on its
+location, myeloarchitecture, and on the fact that DM receives
+projections from VI. In addition, the ventral part of V3 would
+be homologous to the ventral posterior area (VP), as suggested
+by Newsome et al. (1986). However, most authors have been
+cautious in proposing an exact correspondence between dorsal
+V3 and DM. Although DM represents (at least in the owl mon￾key) the whole contralateral hemifield, dorsal V3 represents only
+the lower quadrant. Moreover, in the Cebus the whole extra￾striate belt anterior to V2 projects back to VI (Sousa et al.,
+1991), and the differences in myelination between dorsal and
+ventral V3 are inconsistent (in agreement with observations by
+Ungerleider & Desimone, 19866, in the macaque). Therefore,
+the anatomical asymmetry between dorsal and ventral V3 is not
+marked. Finally, a heavier myelination in the lower quadrant
+representation could merely reflect different specializations of
+lower vs. upper quadrants (Previc, 1990). For example, the use
+of a strict myeloarchitectonic criterion in the delimitation of the
+macaque's area MT reveals a strong bias towards lower quad￾rant representation (Maunsell & Van Essen, 1987) that is not
+as marked if anatomical and physiological criteria are also con￾sidered (Desimone & Ungerleider, 1986).
+These arguments call attention to other possibilities. For
+example, the anterior limit of dorsal V3 with area V3A in the
+macaque is hard to define in myeloarchitectonic terms (Gattass
+et al., 1988a). Both dorsal V3 and V3A are known to receive
+projections from VI (Zeki, 1980), but only V3A represents both
+quadrants of the contralateral hemifield (Van Essen & Zeki,
+1978; Gattass et al., 1988a). Thus, it is likely that the densely
+myelinated subdivision anterior to V2 includes two areas, namely
+a portion of V3 proper, posteriorly, and DM (or "V3A"), ante￾riorly. This hypothesis would explain the less-clear visual topog￾raphy in the extrastriate belt immediately anterior to dorsal V2,
+as compared with that anterior to ventral V2, in the data here
+reported. Based on the current evidence, we consider this the
+most likely hypothesis on the organization of the extrastriate
+belt anterior to V2. Another possibility is that the area homol￾ogous to DM is not V3 or V3A, but area PO. This area stains
+darker for myelin than any other dorsal area, including V3, and
+therefore would correspond to the definition of DM proposed
+by Krubitzer and Kaas (1990). Area PO also receives projec￾tions from VI (Colby et al., 1988) and represents both quad￾rants, although with the upper quadrant lying medially rather
+than laterally as in the owl monkey's DM. Although the tendency
+in the literature is to consider PO as homologous with the owl
+monkey's medial area (M; Allman & Kaas, 1976; Gattass et al.,
+1985; Colby et al., 1988), the evidence for other medially located
+visual areas with emphasis on peripheral representation (POd
+and POm; Neuenschwander, 1989; Gattass et al., 1990) raises
+the possibility that one of these areas may correspond to M,
+while PO corresponds to DM. Alternatively, the architectonic
+area DM of Krubitzer and Kaas (1990) could encompass part
+of V3 and area PO, areas V3A and PO, or all of these together.
+Connections of the extrastriate belt immediately anterior to
+V2 with MT can be observed in all of the previously published
+studies on MT connections. These connections were variously
+attributed to "foci 7 and 8" (Spatz & Tigges, 1972), "area 19"
+(Tigges et al., 1981), "areas V3 and VP" (Maunsell & Van Essen,
+1983ft), "DM/caudal DL/ventral visual area" (Weller et al.,
+1984; Steele et al., 1991), and "cortex around the inferotempo￾ral sulcus" (Krubitzer & Kaas, 1990). In addition, Ungerleider
+and Desimone (19866) referred to the strip of cortex anterior
+to V2 as "V3," as we do. Interestingly, all of the studies employ￾ing retrograde tracer injections in MT agree on the fact that pro￾jections from this region arise mainly from layer III, therefore
+conforming to the laminar characteristic of "feedforward con￾nections." In contrast, in our study projections from V3 to MT
+were characterized by patches containing infragranular and
+supragranular neurons in roughly the same number intermixed
+with patches with clear infragranular predominance.
+Areas V4 and V4t
+Area V4, a name coined by Zeki (19716) to define a target
+zone of V2 projections in and around the prelunate gyrus of
+the macaque, was later mapped in detail by Gattass et al. (1985,
+1988a). The Cebus monkey's area V4 resembles the macaque's
+V4 in its extent and position relative to other areas, has similar
+myeloarchitectonic characteristics, and projects with a clear
+topographic order and a well-defined laminar pattern to both
+VI and MT (Sousa et al., 1991). It has been suggested that V4
+is homologous to the dorsolateral area (DL) of New World mon￾keys (Allman & Kaas, 1974; Weller & Kaas, 1985; Kaas &
+Krubitzer, 1991; Steele etal., 1991), in view of single-unit prop￾erties (Baker et al., 1981; Desimone & Schein, 1987), location,
+a large representation of foveal vision, and connections with
+inferotemporal cortex (Desimone et al., 1980; Weller & Kaas,
+1985). In recent years, however, area DL has been subdivided
+into two areas along the antero-posterior dimension (Cusick &
+Kaas, 1988; Sereno et al., 1987; Sereno & Allman, 1990), and
+a third area immediately adjacent to MT has been described
+(DLa of Sereno & Allman, 1990; "MT crescent" of Kaas &
+Morel, 1993) (see Fig. 1). If Cebus is compared with Sereno and
+Airman's (1990) model of owl monkey visual areas (Fig. IB),
+the most likely homologies are between V3 and areas DLp/VP,
+V4 and DLi/VA, and V4t and area DLa. One would expect,
+based on preliminary reports (Newsome & Allman, 1980; Sereno
+et al., 1987), to find mainly upper quadrant representation in
+VP and VA, lower quadrant representation in DLp and DLi,
+and a representation of the VM separating DLp/VP from
+DLi/VA. This configuration would suggest a single area adjoin￾ing V2, similar to V3, bounded anteriorly by another area
+homologous to V4. Comparisons with DLc and DLr (caudal
+and rostral subdivisions of area DL) defined in Saimiri and
+Aotus (Steele et al., 1991; Fig. 1A) are less clear, in view of the
+different methods and criteria used to define these regions. DLc
+is usually depicted as much wider than DLr, and both areas are
+largely restricted to the lateral surface of the occipital lobe. They
+may correspond to the central representation in V3 and V4, a
+https://doi.org/10.1017/S0952523800006064 Published online by Cambridge University Press
+
+=== PDF PAGE 25 ===
+New World monkey extrastriate cortex 851
+hypothesis that would explain the heavy connections between
+DL and IT cortex (Weller & Kaas, 1985; Ungerleider et al., 1986;
+Steele et al., 1991).
+Projections from V4 (or "DL") to MT were observed in pre￾vious studies (Maunsell & Van Essen, 1983ft; Weller et al., 1984;
+Ungerleider & Desimone, 1986ft; Krubitzer & Kaas, 1990; Steele
+et al., 1991). In contrast to previous reports, however, in Cebus
+virtually all labeled cells in V4 after MT injections are infra￾granular. As previously indicated by studies in both Platyrrhine
+(Krubitzer & Kaas, 1990; Sousa etal., 1991; Steele etal., 1991)
+and Catarrhine (Gattass et al., 1988a) monkeys, our data dem￾onstrates the great emphasis on central representation in V4.
+This is compatible with its assignment to the "ventral stream"
+of extrastriate areas likely to process attributes of an image such
+as shape, texture, and color (Desimone et al., 1980; Ungerleider
+& Mishkin, 1982; Weller & Kaas, 1985; Gattass et al., 1990;
+Krubitzer & Kaas, 1990; Boussaoud et al., 1991).
+Areas MST, FST, STP, and lateral sulcus
+We confirm the basic finding of previous reports (Spatz &
+Tigges, 1972; Wall et al., 1982; Maunsell & Van Essen, 1983ft;
+Weller etal., 1984; Ungerleider & Desimone, 1986ft; Krubitzer
+& Kaas, 1990) that many of the connections of MT relate to
+immediately adjoining areas. Our results also support the exis￾tence of an emphasis on central representation in FST, and a
+large peripheral representation in MST (Weller et al., 1984;
+Fiorani et al., 1989; Boussaoud et al., 1990). Although studies
+in the macaque (Desimone & Ungerleider, 1986; Boussaoud
+et al., 1990) usually regard the anterior border of the densely
+myelinated zone of the anterior bank of STS as the outer limit
+of MST, in Cebus we found cells projecting to MT a few milli￾meters beyond this boundary. However, these neurons were not
+as densely packed as those found in heavily myelinated MST
+(MST-1), and, with rare exceptions, were found only in infra￾granular layers. Some cases also showed sparse label in areas
+located even more anteriorly in the STS and LaS. Similar con￾nections have been previously noted in studies of MST projec￾tions in Aotus (Weller et al., 1984) and MT connections in
+Galago (Krubitzer & Kaas, 1990). Studies in the macaque were
+unable to find evidence of projections of the LaS areas to MT
+and MST (Ungerleider & Desimone, 1986ft; Boussaoud et al.,
+1990). However, in macaques the LaS projects to the lateral
+bank of the IPS, which is strongly connected with both MT and
+MST (Cavada & Goldman-Rakic, 1989; Blatt et al., 1990). Thus,
+there is an oligosynaptic pathway between MT and polysensory
+cortex in the anterior bank of STS and in the LaS.
+Areas VIP and LIP
+Area VIP was defined by Maunsell and Van Essen (1983ft)
+as the target of MT projections in the IPS. However, more
+recent evidence from physiological recordings in the macaque
+demonstrated two areas in this region (Andersen et al., 1990;
+Colby et al., 1993). The properties of neurons in the lateral bank
+of IPS point to a clear separation between LIP and VIP (Colby
+et al., 1993), and provide a good example of the point that sin￾gle areas may vary in their architectonic aspect (Andersen et al.,
+1990). Perhaps the most significant result regarding these areas,
+in our study, is the remarkable similarity in location and archi￾tectonic characteristics of VIP and LIP in Cebus and Macaca.
+A densely myelinated field in the ventral posterior parietal cor￾tex has also been observed in the owl monkey (Kaas & Krubit￾zer, 1991) that may correspond to LIPv. Thus, LIP and VIP
+are likely to be among visual areas that are common to all sim￾ians, and may have first appeared at least 30 million years ago,
+before the Platyrrhine/Catarrhine dichotomy (Fleagle, 1988).
+It is clear from studies in different primates that the ventral
+parietal cortex is an important source of projections to MT
+(Maunsell & Van Essen, 1983ft; Weller et al., 1984; Ungerleider
+& Desimone, 1986ft; Krubitzer & Kaas, 1990). Area LIP, like
+MST and FST, is one of the main targets of "feedforward" con￾nections from MT. However, unlike MST and FST, LIP has
+restricted receptive fields and a relatively clear visual topogra￾phy (Blatt et al., 1990). The fact that retinotopic order is pre￾served in LIP and the presence of presaccadic and especially
+"saccadic memory" neurons in this area (Andersen & Gnadt,
+1989) suggest that the IPS visual areas may be related to sac￾cadic preparation and visuomotor orientation to specific por￾tions of the visual space. In contrast, MST may be more
+involved in flow-field processing, optokinetic eye movement
+programming, and other aspects of visuomotor coordination
+that require the analysis of global rather than local features
+(Duffy & Wurtz, 1991). The more extensive connections of FST
+with the anterior STS, including parts of the inferotemporal cor￾tex (Boussaoud et al., 1990; Morel & Bullier, 1990), suggest a
+participation in the integration of motion and form informa￾tion for pattern recognition and figure-ground segregation
+(Baylis et al., 1987; Boussaoud et al., 1990).
+Area DI
+This region was included as part of a more extensive "annec￾tent region" in a previous study of Cebus (Sousa et al., 1991),
+and was found to project very sparsely to lower quadrant VI.
+The present data enabled us to define the anterior boundary of
+DI by using the presence of connections with MT and MST as
+criteria. Although its location anterior to V3 could suggest an
+homology with the macaque's area V3A (Van Essen & Zeki,
+1978; Gattass et al., 1988a), there are reasons why a homology
+between DI and V3A is unlikely. In contrast with V3A, DI is
+readily separable from V3 in myeloarchitectonic terms. More￾over, while both dorsal V3 and V3A in the macaque are rich
+in Cat-301-positive neurons (De Yoe et al., 1990), DI is not
+(unpublished results). In comparison with other New World
+monkeys, the ill-defined visuotopy, architectonic characteris￾tics, location, and projections to MT suggest that this region
+may correspond to the myeloarchitectonic area DI as redefined
+by Krubitzer and Kaas (1990). Connections of MT and DI were
+also observed in the owl monkey by Weller et al. (1984), and
+part of the label attributed to "V3A" by Ungerleider and Desi￾mone (1986ft) may also belong to a homologous region in the
+macaque. Projections from DI to MT are reported to arise
+mainly from supragranular layers, and in this respect the lami￾nar distribution we observed in DI of Cebus is unusual.
+Medial extrastriate cortex and arcuate sulcus
+The extensive label in PO and POm after injections involv￾ing peripheral MT and/or MST provide further evidence for the
+existence of a complex of medially located areas which empha￾size the representation of the visual-field periphery. Although
+some of the visual motion areas in STS, including MT and cen￾tral MST, seem to send projections mainly to the lateral intra￾parietal subdivision of the posterior parietal cortex (PP), area
+PO and peripheral MST are also connected to the inferior pari￾etal gyrus (area 7a) and to portions of PP cortex in the dorsal
+tip of the anterior bank of STS (Colby et al., 1988; Boussaoud
+https://doi.org/10.1017/S0952523800006064 Published online by Cambridge University Press
+
+=== PDF PAGE 26 ===
+852 M.G.P. Rosa et al.
+et al., 1990). These two parallel circuits, emphasizing central
+and peripheral motion processing, respectively, may reflect the
+psychophysical evidence for two parallel motion analysis sys￾tems dealing differently with central and peripheral space (Dich￾gans & Brandt, 1974; Gattass et al., 1990). Evidence for the
+connections between MT and PO is present in studies of other
+species (Weller et al., 1984; Ungerleider & Desimone, 1986ft;
+Colby et al., 1988). Since the evidence for other subdivisions
+in the PO complex is recent, one cannot be sure of the existence
+of the connections between POm and MT/MST in other pri￾mates. An examination of the cases reported by Weller et al.
+(1984) and Boussaoud et al. (1990) suggests that some of the
+label attributed to V2 and PO (or medial visual area, M) may
+in fact belong to POm. Another region apparently devoted to
+peripheral vision is PIP. Apart from a report of projections to
+PO (Colby et al., 1988), little is known about this area. It is likely
+that the region we defined as PIP encompasses both the ma￾caque's areas PIP and medial intraparietal (MIP; Colby et al.,
+1988), but this point will remain unresolved until future work
+combining myeloarchitecture with electrophysiology and con￾nections in this region.
+Besides confirming the existence of sparse connections be￾tween MST and area 7a, our results demonstrate projections
+from the medial subdivision of the PP cortex (area 7m), from
+caudal cingulate cortex and from the posterior bank of the ArS
+to MST. Connections of MST with the region anterior to areas
+M and PO were observed by Weller et al. (1984) in the owl mon￾key and by Cavada and Goldman-Rakic (1989) in the macaque.
+The anteromedial extrastriate region in the macaque has also
+been reported to project to area PO (Colby et al., 1988), and
+some of the label observed in medial extrastriate cortex by Bous￾saoud et al. (1990; e.g. their Fig. 3) is also likely to belong
+to 7m. In addition, cortex corresponding to one of the MST￾projecting medial areas in Cebus was recently found to be visu￾ally responsive, and is believed to be involved in visuomotor
+and visuospatial functions in the macaque (Olson et al., 1992).
+Although no connections between MST and area 6d were
+reported in a recent study in the macaque (Boussaoud et al.,
+1990), in this genus the homologous region seems to project to
+another "dorsal stream" area, PO (see Fig. 8H in Colby et al.,
+1988). The MST-projecting subdivision of the premotor area
+may be involved in oculomotor behavior (Bon & Lucchetti, 1990).
+Area TVP
+The findings of this report confirm the conclusions of Sousa
+et al. (1991) regarding the extent and topographic organization
+of visual area TVP. Studies in the macaque suggest the existence
+of either a single, strip-like area (Felleman & Van Essen, 1991)
+or two areas (Boussaoud et al., 1991) bordering ventral V4 ante￾riorly. Our results favor the second hypothesis. While TVP proj￾ects to both MT and VI (present results; Sousa et al., 1991),
+the area located lateral to the OTS does not. We refer to the
+latter as TEO by analogy with the macaque (Boussaoud et al.,
+1991). In Cebus, however, the border between the two areas is
+located lateral, instead of medial, to the OTS, and TVP seems
+to have an enlarged central representation (Sousa et al., 1991).
+Connections of TVP with MT have not been previously re￾ported, but this may only reflect a less-complete definition of
+areal boundaries in previous work. For example, some of the
+squirrel monkey and marmoset MT injection cases illustrated
+by Krubitzer and Kaas (1990) provide particularly striking exam￾ples of retrograde label in the TVP region (e.g. their Fig. 20).
+Laminar distribution and functional hierarchies
+The concept of "feedforward" and "feedback" patterns of con￾nections among visual areas was initially derived from obser￾vations on the anterogradely mapped connections between VI
+and V2 (Kuypers et al., 1965; Tigges et al., 1973). The basic con￾cept was shown to be valid in other portions of the visual cor￾tex as well, and was expanded to include results based on
+retrograde tracers (Lund et al., 1975; Wong-Riley, 1978; Rock￾land & Pandya, 1979; Tigges et al., 1981; Maunsell & Van Essen,
+1983ft; Andersen et al., 1990). These studies indicate that "for￾ward" connections arise predominantly from cells in the supra￾granular layers of a given area and terminate predominantly in
+layer IV. In contrast, "backward" connections arise mainly from
+infragranular layers of a given area and their termination sites
+avoid layer IV. Based on these principles, Maunsell and Van
+Essen (1983 ft) arranged extrastriate areas in hierarchical levels,
+and the same concept has also been used to fit other areas in
+hierarchical levels (Colby et al., 1988; Boussaoud et al., 1990;
+Andersen et al., 1990; Felleman & Van Essen, 1991). Maunsell
+and Van Essen (1983 ft) have further recognized the existence
+of "intermediate" patterns of connections, and hypothesized that
+these would constitute links between areas at similar hierarchi￾cal levels.
+Application of these criteria to our data (Fig. 12) suggests
+that in the Cebus (1) only areas VI and V2 would send "feed￾forward" projections to MT; (2) areas V3, DM, POm, V4t, and
+perhaps DI would be at the same hierarchical level; and (3) all
+of the other areas, including V4 and PO, would send "back￾wards" projections to MT. This scheme is different from those
+proposed for the macaque, in which MT and V4t are moved
+one step further in the hierarchy to lie at the same level as V4
+and PO (Maunsell & Van Essen, 1983ft; Colby et al., 1988;
+Boussaoud et al., 1990). In addition, results of studies in other
+New World monkeys suggest that they are likely to resemble the
+macaque rather than Cebus since a relatively large number of
+S=l and S<l
+1
+V1 V2 —
+POm
+DI
+DM
+V4t
+V3
+PO
+VIP
+MST
+V4
+PIP
+LIP
+FST
+TVP
+FEF
+Fig. 12. Projections to area MT in Cebus, according to laminar patterns.
+S » I —almost exclusively supragranular projection; S > I —supragran￾ular predominance; S = I —supragranular and infragranular cells in
+roughly the same numbers; S < 1 —infragranular predominance; and
+S « I —almost exclusively infragranular projection. The projection
+from the FEF to MT was variable in its laminar involvement, but usu￾ally included infragranular as well as supragranular cells.
+https://doi.org/10.1017/S0952523800006064 Published online by Cambridge University Press
+
+=== PDF PAGE 27 ===
+New World monkey extrastriate cortex 853
+supragranular MT-projecting cells is observed in areas DM, DI,
+DL, and VP (Weller et al., 1984; Krubitzer & Kaas, 1990). These
+differences are unlikely to reflect tracer sensitivities (e.g. Fast
+Blue vs. HRP), since we in fact observe less laminar involve￾ment than previous studies. Moreover, Sousa et al. (1991), using
+fluorescent tracers, also observed that the "backward" prestri￾ate projections to V1 in Cebus show a much more marked infra￾granular emphasis than that reported in a similar study in the
+macaque (Perkel et al., 1986). Thus, laminar patterns, and
+specifically the relative numbers of projecting cells in the infra￾granular and supragranular layers, are labile characters in evo￾lutionary terms. Whether this indicates that the hierarchical
+position of a given area may also vary across species, or that
+the patterns revealed by retrograde tracers are not reliable in
+establishing hierarchies (as suggested by Felleman & Van Essen,
+1991), will require further work.
+Acknowledgments
+The authors would like to thank Dr. Aglai P.B. Sousa for her invalu￾able help throughout this work; Dr. Leah Krubitzer, Dr. Maree J. Web￾ster, Dr. David Pow, Ms. Rowan Tweedale, and Ms. Leisa Schmid for
+many suggestions on the preparation of the manuscript; Edil S. Silva
+Filho for the histology; and Danny Thomas for help with the comput￾ers. Cat-301 antibody was supplied by Susan Hockfield, from Yale Uni￾versity. This research was supported by grants from F1NEP, CNPq,
+and FAPERJ (Brazil) and ARC (Australia).
+References
+AILMAN, J.M.&KAAS , J.H. (1971). A representation of the visual field
+in the caudal third of the middle temporal gyrus of owl monkeys
+(Aotus trivirgatus). Brain Research 31, 85-105.
+ALLMAN, J.M. & KAAS, J.H. (1974). A crescent-shaped cortical visual
+area surrounding the middle temporal area (MT) in the owl mon￾key (Aotus trivirgatus). Brain Research 81, 199-213.
+ALLMAN, J.M. & KAAS, J.H. (1975). The dorsomedial cortical visual
+area: A third tier area in the occipital lobe of the owl monkey. (Aotus
+trivirgatus). Brain Research 100, 473-487.
+ALLMAN, J.M. & KAAS, J.H. (1976). Representation of the visual field
+in the medial wall of the occipital-parietal cortex in the owl mon￾key. Science 191, 572-576.
+ALLMAN, J.M., KAAS, J.H. & LANE, R.H. (1973). The middle tempo￾ral visual area (MT) in the bushbaby (Galago senegalensis). Brain
+Research 57, 197-202.
+ANDERSEN, R.A., ASANUMA, C , ESSICK, G. & SIEGEL, R.M. (1990).
+Corticocortical connections of anatomically and physiologically
+defined subdivisions within the inferior parietal lobule. Journal of
+Comparative Neurology 296, 65-113.
+ANDERSEN, R.A. & GNADT, J.W. (1989). Role of posterior parietal cor￾tex in saccadic eye movements. In Reviews in Oculomotor Research,
+Vol. 3, ed. WURTZ, R. & GOLDBERG, M., pp. 315-335. Amsterdam:
+Elsevier.
+BAKER, J.F., PETERSEN, S.E., NEWSOME, W.T. & ALLMAN, J.M. (1981).
+Visual response properties of neurons in four extrastriate visual areas
+of the owl monkey (Aotus trivirgatus): A quantitative comparison
+of medial, dorsomedial, dorsolateral, and middle temporal areas.
+Journal of Neurophysiology 45, 397-416.
+BAVLIS, G.C., ROLLS, E.T. & LEONARD, CM . (1987). Functional sub￾divisions of temporal lobe neocortex. Journal of Neuroscience 7,
+330-342.
+BLATT, G.J., ANDERSEN, R.A. & STONER, G.R. (1990). Visual recep￾tive-field organization and cortico-cortical connections of the lat￾eral intraparietal area (Area LIP) in the macaque. Journal of
+Comparative Neurology 299, 421-445.
+BON, L. & LUCCHETTI, C. (1990). Neurons signalling the maintenance
+of attentive fixation in frontal area 6a/3 of macaque monkey. Exper￾imental Brain Research 82, 231-233.
+BOUSSAOUD, D., DESIMONE, R. & UNGERLEIDER, L.G. (1991). Visual
+topography of area TEO in the macaque. Journal of Comparative
+Neurology 306, 554-575.
+BOUSSAOUD, D., UNGERLEIDER, L.G. & DESIMONE, R. (1990). Pathways
+for motion analysis: Cortical connections of the medial superior tem￾poral and fundus of the superior temporal visual areas in the
+macaque. Journal of Comparative Neurology 296, 462-495.
+BRUCE, C.J., DESIMONE, R. & GROSS, C.G. (1981). Properties of neu￾rons in a visual polysensory area in the superior temporal sulcus of
+the macaque. Journal of Neurophysiology 46, 369-384.
+BRUCE, C.J., GOLDBERG, M.E., BUSHNELL, M.C. & STANTON, G.B.
+(1985). Primate frontal eye fields. II. Physiological and anatomi￾cal correlates of electrically evoked eye movements. Journal of Neu￾rophysiology 54, 714-734.
+BURKHALTER, A., FELLEMAN, D.J., NEWSOME, W.T. & VAN ESSEN, D.C.
+(1986). Anatomical and physiological asymmetries related to visual
+areas V3 and VP in macaque extrastriate cortex. Vision Research
+26, 63-80.
+CAVADA, C. & GOLDMAN-RAKIC, P.S. (1989). Posterior parietal cortex
+in rhesus monkey. I: Parcelation of areas based on distinctive lim￾bic and sensory cortico-cortical connections. Journal of Compara￾tive Neurology 287, 393-421.
+COLBY, C.L., GATTASS, R., OLSON, C.R. & GROSS, C.G. (1988).
+Topographical organization of cortical afferents to extrastriate area
+PO in the macaque: A dual tracer study. Journal of Comparative
+Neurology 269, 392-413.
+COLBY, C.L., DUHAMEL, J.N. & GOLDBERG, M.E. (1993). The ventral
+intraparietal area (VIP) of the macaque: Anatomical location and
+visual response properties. Journal of Neurophysiology 69, 902-914.
+CONDE, F. (1987). Further studies on the use of the fluorescent tracers
+Fast blue and Diamidino yellow: Effective uptake area and cellular
+storage sites. Journal of Neuroscience Methods 21, 31-43.
+CUSICK, C.G. & KAAS J.H. (1988). Cortical connections of area 18 and
+dorsolateral visual cortex in squirrel monkeys. Visual Neuroscience
+1, 211-237.
+DESIMONE, R., FLEMING, J. & GROSS, C.G. (1980). Prestriate afferents
+to inferior temporal cortex: An HRP study. Brain Research 184,
+41-55.
+DESIMONE, R. & SCHEIN, S.J. (1987). Visual properties of neurons in
+area V4 of the macaque: Sensitivity to stimulus form. Journal of
+Neurophysiology 57, 835-867.
+DESIMONE, R. & UNGERLEIDER, L.G. (1986). Multiple visual areas in
+the caudal superior temporal sulcus of the macaque. Journal of Com￾parative Neurology 248, 164-189.
+DE YOE, E.A., HOCKFIELD, S., GARREN, H. & VAN ESSEN, D.C. (1990).
+Antibody labeling of functional subdivisions in visual cortex: Cat￾301 immunoreactivity in striate and extrastriate cortex of the
+macaque monkey. Visual Neuroscience 5, 67-81.
+DE YOE, E.A. & VAN ESSEN, D.C. (1985). Segregation of efferent con￾nections and receptive-field properties in visual area V2 of the
+macaque. Nature 317, 58-61.
+DICHGANS, J. & BRANDT, T.H. (1974). The psychophysics of visually
+induced perception of self-motion and tilt. In The Neurosciences—
+Third Study Program, Vol. Ill, ed. SCHMITT, F.O. & WORDEN, F.G.,
+pp. 123-129. Cambridge: MIT Press.
+DUFFY, C.J. & WURTZ, R.H. (1991). Sensitivity of MST neurons to optic
+flow stimuli: I. A continuum of response selectivity to large-field
+stimuli. Journal of Neurophysiology 65, 1329-1345.
+FELLEMAN, D.J. & KAAS, J.H. (1984). Receptive-field properties of neu￾rons in the middle temporal visual area (MT) of owl monkeys. Jour￾nal of Neurophysiology 52, 488-513.
+FELLEMAN, D.J. & VAN ESSEN, D.C. (1991). Distributed hierarchical pro￾cessing in primate cerebral cortex. Cerebral Cortex 1, 1-47.
+FIORANI, M., JR., GATTASS, R., ROSA, M.G.P. & SOUSA, A.P.B. (1989).
+Visual area MT in the Cebus monkey: Location, visuotopic orga￾nization, and variability. Journal of Comparative Neurology 287,
+98-118.
+FLEAGLE, J.G. (1988). Primate Adaptation and Evolution. San Diego,
+California: Academic Press.
+GALLYAS, F. (1979). Silver staining of myelin by means of physical devel￾opment. Neurology Research 1, 203-209.
+GATTASS, R. & GROSS, C.G. (1981). Visual topography of the striate pro￾jection zone in the posterior superior temporal sulcus (MT) of the
+macaque. Journal of Neurophysiology 46, 521-538.
+GATTASS, R., ROSA, M.G.P., SOUSA, A.P.B., PINON, M.C, FIORANI,
+M., JR. & NEUENSCHWANDER, S. (1990). Cortical streams of visual
+https://doi.org/10.1017/S0952523800006064 Published online by Cambridge University Press
+
+=== PDF PAGE 28 ===
+854 M.G.P. Rosa et al.
+information processing in primates. Brazilian Journal of Medical
+and Biological Research 23, 375-393.
+GATTASS, R., SOUSA, A.P.B. & COVEY, E. (1985). Cortical visual areas of the macaque: Possible substrates for pattern recognition mecha- nisms. In Pattern Recognition Mechanisms, ed. CHAGAS, C, GAT- TASS, R. & GROSS, C.G., pp. 1-20. Vatican City: Pontificial Academy of Sciences.
+GATTASS, R., SOUSA, A.P.B. & ROSA, M.G.P. (1987). Visual topogra- phy of VI in the Cebus monkey. Journal of Comparative Neurol￾ogy 259, 529-548.
+GATTASS, R., SOUSA, A.P.B. & GROSS, C.G. (1988a). Visuotopic orga￾nization and extent of V3 and V4 of the macaque. Journal of Neu￾roscience %, 1831-1845.
+GATTASS, R., SOUSA, A.P.B., ROSA, M.G.P. & PINON, M.C. (1988ft).
+Ventral V3 in the Cebus monkey: Visual topography and projec- tions to VI. Society for Neuroscience Abstracts 14, 202.
+HOCKFIELD, S., MCKAY, R.D.G., HENDRY, S.H.C. & JONES, E.G.
+(1983). A surface antigen that identifies ocular-dominance columns in the visual cortex and laminar features of the lateral geniculate nucleus. Cold Spring Harbor Symposium on Quantitative Biology
+48, 877-889.
+HUERTA, M.F. & KAAS, J.H. (1990). Supplementary eye field as defined
+by intracortical microstimulation: Connections in macaques. Jour￾nal of Comparative Neurology 293, 299-330.
+HUTCHINS, K.D., MARTINO, A.M. & STRICK, P.L. (1988). Corticospi￾nal projections from the medial wall of the hemisphere. Experimen￾tal Brain Research 71, 667-672.
+KAAS, J.H. & KRUBITZER, L.A. (1991). The organization of extrastri- ate visual cortex. In Neuroanatomy of the Visual Pathways and Their
+Development, ed. DREHER, B. & ROBINSON, S.R., pp. 302-323. Lon￾don: Macmillan.
+KAAS, J.H. & MOREL, A. (1993). Connections of visual areas of the upper temporal lobe of owl monkeys: The MT crescent and dorsal and
+ventral subdivisions of FST. Journal of Neuroscience 13, 534-546.
+KRUBITZER, L.A. & KAAS, J.H. (1990). Cortical connections of MT in four species of primates: Areal, modular, and retinotopic patterns. Visual Neuroscience 5, 165-204.
+KUYPERS, H.G.J.M. , SZWARCBART, M.K. , MlSHKIN, M . & ROSVOLD,
+H.E. (1965). Occipitotemporal corticocortical connections in the rhe- sus monkey. Experimental Neurology 11, 245-262.
+LE GROS CLARK, W.E. (1959). The Antecedents of Man. Edinburgh: University Press.
+LENNIE, P., KRAUSKOPF, J. & SCLAR, G. (1990). Chromatic mechanisms
+in striate cortex of macaque. Journal of Neuroscience 10, 649-669.
+LIN, C.S., WELLER, R.E. & KAAS, J.H. (1982). Cortical connections of
+striate cortex in owl monkeys. Journal of Comparative Neurology
+211, 165-176.
+LUND, J.S., LUND, R.D., HENDRICKSON, A.E., BUNT, A.H. & FUCHS,
+A.F. (1975). The origin of efferent pathways from the primary visual
+cortex, area 17, of the macaque monkey as shown by retrograde transport of horseradish peroxidase. Journal of Comparative Neu￾rology 164, 287-304.
+MAUNSELL, J.H.R. & VAN ESSEN, D.C. (1983a). Functional properties of neurons in the middle temporal visual area of the macaque mon- key. I. Selectivity for stimulus direction, speed, and orientation. Journal of Neurophysiology 49, 1127-1147.
+MAUNSELL, J.H.R. & VAN ESSEN, D.C. (1983ft). The connections of the middle temporal visual area (MT) and their relationship to a corti- cal hierarchy in the macaque monkey. Journal of Neuroscience 3, 2563-2586.
+MAUNSELL, J.H.R. & VAN ESSEN, D.C. (1987). Topographic organiza- tion of the middle temporal visual area in the macaque monkey: Rep- resentational biases and the relationship to callosal connections and
+myeloarchitectonic boundaries. Journal of Comparative Neurology
+266, 535-555.
+MOREL, A. & BULLLER, J. (1990). Anatomical segregation of two corti- cal visual pathways in the macaque monkey. Visual Neuroscience
+4, 555-578.
+NEUENSCHWANDER, S. (1989). Area visualparieto-occipital do Cebus
+apella: Um estudo anatomico e eletrofisiologico. MSc. Thesis, Rio de Janeiro, Universidade Federal do Rio de Janeiro.
+NEWSOME, W.T. & ALLMAN, J.M. (1980). Interhemispheric connections of visual cortex in the owl monkey Aotus trivirgatus and the bush- baby Galago senegalensis. Journal of Comparative Neurology 194, 209-233.
+NEWSOME, W.T., MAUNSELL, J.H.R. & VAN ESSEN, D.C. (1986). Ven￾tral posterior visual area of the macaque: Visual topography and areal boundaries. Journal ofComparative Neurology 252, 139-153.
+OLSON, C.R., MUSIL, S.Y. & GOLDBERG, M.E. (1992). Posterior cingu￾late cortex and visuospatial cognition: Properties of neurons in the behaving monkey. In The Neurobiology of Cingulate Cortex and
+Limbic Thalamus, ed. VOGT, B.A. & GABRIEL, M. Boston: Birk- hauser (in press).
+PERKEL, D.J., BULLIER, J. & KENNEDY, H. (1986). Topography of the
+afferent connectivity of area 17 in the macaque monkey: A double- labelling study. Journal of Comparative Neurology 253, 374-402.
+PESSOA, V.F., ABRAHAO, J.C.H., PACHECO, R.A., PEREIRA, L.C.M.,
+MAGALHAES-CASTRO, B. & SARATVA, P.E.S. (1992). Relative sizes of
+cortical visual areas in marmosets: Functional and phylogenetic implications. Experimental Brain Research 88, 459-462.
+PREUSS, T.M. & GOLDMAN-RAKIC, P.S. (1991). Architectonics of the
+parietal and temporal association cortex in the strepsirhine primate Galago compared to the anthropoid primate Macaco. Journal of
+Comparative Neurology 310, 475-506.
+PREVIC, F.H. (1990). Functional specialization in the upper and lower visual fields in man: Origins and implications. Behavioral and Brain
+Sciences 13, 519-575.
+ROCKLAND, K.S. & PANDYA, D.N. (1979). Laminar origins and termi- nations of cortical connections of the occipital lobe in the rhesus monkey. Brain Research 179, 3-20.
+ROSA, M.G.P., SOUSA, A.P.B. & GATTASS, R. (1988). Representation
+of the visual field in the second visual area in the Cebus monkey. Journal of Comparative Neurology 275, 326-345.
+ROSA, M.G.P., GATTASS, R., FIORANI, M., JR. & SOARES, J.G.M. (1992).
+Laminar, columnar, and topographic aspects of ocular dominance in the primary visual cortex of Cebus monkeys. Experimental Brain
+Research 88, 249-264.
+SANIDES, F. (1972). Representation in the cerebral cortex and its areal
+lamination patterns. In The Structure and Function of the Nervous
+Tissue, ed. BOURNE, G.H., pp. 329-453. New York: Academic Press.
+SERENO, M.I. & ALLMAN, J.M. (1990). Cortical visual areas in mam- mals. In Vision and Visual Dysfunction Vol. 4: The Neural Basis
+of Visual Function, ed. LEVENTHAL, A.G., pp. 160-172. London: Macmillan.
+SERENO, M.I., MCDONALD, C.T. & ALLMAN, J.M. (1987). Multiple visual
+areas between V2 and MT in the owl monkey. Society for Neuro￾science Abstracts 13, 625.
+SHIPP, S. &ZEKI, S.M. (1985). Segregation of pathways leading from area V2 to areas V4 and V5 of macaque monkey visual cortex. Nature
+315, 322-324.
+SOUSA, A.P.B., PINON, M.C.G.P., GATTASS, R. & ROSA, M.G.P. (1991).
+Topographic organization of cortical input to striate cortex in the Cebus monkey: A fluorescent tracer study. Journal of Compara￾tive Neurology 308, 665-682.
+SPATZ, W.B. (1977). Topographically organized reciprocal connections between areas 17 and MT (visual area of the superior temporal sul- cus) in the marmoset Callithixjacchus. Experimental Brain Research
+27, 559-572.
+SPATZ, W.B. & TIGGES, J. (1972). Experimental-anatomical studies on the "middle temporal visual area" (MT) in primates. I. Efferent cor- tico-cortical connections in the marmoset Callithrix jacchus. Jour￾nal of Comparative Neurology 146, 451-464.
+SPATZ, W.B., TIGGES, J. & TIGGES, M. (1970). Subcortical projections,
+cortical associations, and some intrinsic interlaminar connections of the striate cortex in the squirrel monkey {Saimiri). Journal of
+Comparative Neurology 140, 155-174.
+STEELE, G.E., CUSICK, C.G. & WELLER, R.E. (1991). Cortical connec￾tions of the caudal subdivision of the dorsolateral area (V4) in mon- keys. Journal of Comparative Neurology 306, 495-520.
+TIGGES, J., SPATZ, W.B. & TIGGES, M. (1973). Reciprocal point-to-point
+connections between parastriate and striate cortex in the squirrel
+monkey. Journal of Comparative Neurology 148, 481-490.
+TIGGES, J., TIGGES, M., ANSCHEL, S., CROSS, N.A., LETBETTER, W.D.
+& MCBRIDE, R.L. (1981). Areal and laminar distribution of neu- rons interconnecting the central visual cortical areas 17, 18, 19, and
+MT in squirrel monkey (Saimiri). Journal of Comparative Neurol￾ogy 202, 539-560.
+TOOTELL, R.B.H., SILVERMAN, M.S., DE VALOIS, R.L. & JACOBS, G.H.
+(1983). Functional organization of the second visual area in primates. Science 220, 737-739.
+https://doi.org/10.1017/S0952523800006064 Published online by Cambridge University Press
+
+=== PDF PAGE 29 ===
+New World monkey extrastriate cortex 855
+TUSA, R.J., PALMER, L.A. & ROSENQUIST, A.C. (1979). Retinotopic orga￾nization of areas 18 and 19 in the cat. Journal of Comparative Neu￾rology 185, 657-678.
+UNGERLEIDER, L.G. & DESIMONE, R. (1986a). Projections to the supe- rior temporal sulcus from the central and peripheral field represen- tations of VI and V2. Journal of Comparative Neurology 248, 147-163.
+UNGERLEEDER, L.G. & DESIMONE, R. (19866). Cortical connections of
+visual area MT in the macaque. Journal of Comparative Neurol￾ogy 248, 190-222.
+UNGERLEIDER, L.G., DESMONE, R. & MORAN, J. (1986). Asymmetry
+of central and peripheral inputs from area V4 into the temporal and
+parietal lobes of the macaque. Society for Neuroscience Abstracts
+12, 1182.
+UNGERLEIDER, L.G. & MJSHKIN, M. (1979). The striate projection zone in the superior temporal sulcus of Macaca mulatto: Location and
+topographic organization. Journal of Comparative Neurology 188, 347-366.
+UNGERLEIDER, L.G. & MISHKIN, M. (1982). Two cortical visual systems. In Analysis of Visual Behavior, ed. INGLE, D.J., GOODALE, M.A. & MASNFIELD, R.J.W., pp. 549-586. Cambridge: MIT Press.
+VAN ESSEN, D.C. & MAUNSELL, J.H.R. (1980). Two-dimensional maps of the cerebral cortex. Journal of Comparative Neurology 191, 255-281.
+VAN ESSEN, D.C, MAUNSELL, J.H.R. & BIXBY, J.L. (1981). The mid￾dle temporal visual area in the macaque: Myeloarchitecture, con- nections, functional properties, and topographic organization. Journal of Comparative Neurology 199, 293-326.
+VAN ESSEN, D.C, NEWSOME, W.T., MAUNSELL, J.H.R. & BIXBY, J.L.
+(1986). The projections from striate cortex (VI) to areas V2 and
+V3 in the macaque monkey: Asymmetries, areal boundaries, and
+patchy connections. Journal of Comparative Neurology 244, 451-480.
+VAN ESSEN, D.C. & ZEKI, S.M. (1978). The topographic organization
+of rhesus monkey prestriate cortex. Journal of Physiology (Lon- don) 277, 193-226. VON BONIN, G. & BAILEY, P. (1947). The Neocortex of Macaca mulatto.
+Urbana, Illinois: University of Illinois Press.
+WALL, J.T., SYMONDS, L.L. & KAAS, J.H. (1982). Cortical and subcor￾tical projections of the middle temporal area (MT) and adjacent cor- tex in galagos. Journal of Comparative Neurology 211, 193-214.
+WELLER, R.E. & KAAS, J.H. (1985). Cortical projections of the dorso- lateral visual area in owl monkeys: The prestriate relay to inferior temporal cortex. Journal of Comparative Neurology 234, 35-59.
+WELLER, R.E., STEELE, G.E. & CUSICK, C.G. (1991). Cortical connec￾tions of dorsal cortex rostral to VII in squirrel monkeys. Journal
+of Comparative Neurology 306, 521-537.
+WELLER, R.E., WALL, J.T. & KAAS, J.H. (1984). Cortical connections
+of the middle temporal visual area (MT) and the superior temporal
+cortex in owl monkeys. Journal of Comparative Neurology 228, 81-104.
+WONG-RILEY, M. (1978). Reciprocal connections between striate and
+prestriate in squirrel monkey as demonstrated by combined peroxi- dase histochemistry and autoradiography. Brain Research 147, 159-164.
+ZEKI, S.M. (1971a). Convergent input from striate cortex (area 17) to the cortex of the superior temporal sulcus in the rhesus monkey. Brain Research 28, 338-340
+ZEKI, S.M. (19716). Cortical projections from two prestriate areas in the monkey. Brain Research 34, 19-35. ZEKI, S.M. (1974). Functional organization of a visual area in the pos- terior bank of the superior temporal sulcus of the rhesus monkey. Journal of Physiology (London) 236, 549-573.
+ZEKI, S.M. (1978). The third visual complex of the rhesus monkey pre- striate cortex. Journal of Physiology (London) 277, 245-272. ZEKI, S.M. (1980). A direct projection from area VI and V3A of the rhesus monkey visual cortex. Proceedings of the Royal Society B
+(London) 207, 499-506.
+https://doi.org/10.1017/S0952523800006064 Published online by Cambridge University Press

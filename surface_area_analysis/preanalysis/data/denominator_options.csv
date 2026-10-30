@@ -1,0 +1,99 @@
+Species,denominator_source,denominator_mm2,n_individuals,assumption,denominator_provenance
+Antidorcas marsupialis,NA,9623,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Mota_etal_2019_SupplementaryTableS1
+Aotus nancymaae,NA,2036.5,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Collins_etal_2010_DatasetS1
+Aotus trivirgatus,Krubitzer_Kaas_1990,1640.2459896455862,2,flatmap_same_paper_median,median flatmap-traced neocortex outline of 2 whole-hemisphere case(s) in Krubitzer_Kaas_1990 (recommend_use only)
+Aotus trivirgatus,Krubitzer_Kaas_1993,1418.2346453287198,3,flatmap_same_paper_median,median flatmap-traced neocortex outline of 3 whole-hemisphere case(s) in Krubitzer_Kaas_1993 (recommend_use only)
+Aotus trivirgatus,NA,1431.1228780864196,5,flatmap_species_median,"median flatmap-traced neocortex outline over 5 case(s), all papers"
+Aotus trivirgatus,NA,2214,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Mota_etal_2019_SupplementaryTableS1
+Blarina brevicauda,NA,28.133333333333333,3,species_mean_merge_wide,merge _wide pooled mean of 3 active values from: Catania_etal_1999_Table1
+Blarina brevicauda,Catania_etal_1999_Table1,28.133333333333333,3,species_mean_same_source,mean of 3 individual neocortex values in Catania_etal_1999_Table1
+Bos taurus,NA,49849,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Brodmann__1913_Table1
+Callimico goeldii,NA,1953,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Mota_etal_2019_SupplementaryTableS1
+Callithrix jacchus,Krubitzer_Kaas_1990,621.408285085005,2,flatmap_same_paper_median,median flatmap-traced neocortex outline of 2 whole-hemisphere case(s) in Krubitzer_Kaas_1990 (recommend_use only)
+Callithrix jacchus,Krubitzer_Kaas_1993,851.2859157986111,1,flatmap_same_paper_median,median flatmap-traced neocortex outline of 1 whole-hemisphere case(s) in Krubitzer_Kaas_1993 (recommend_use only)
+Callithrix jacchus,NA,654.6020802377416,3,flatmap_species_median,"median flatmap-traced neocortex outline over 3 case(s), all papers"
+Callithrix jacchus,NA,1534,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Mota_etal_2019_SupplementaryTableS1
+Callithrix sp.,NA,1649,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Brodmann__1913_Table1
+Canis familiaris,NA,10215.5,2,species_mean_merge_wide,merge _wide pooled mean of 2 active values from: Brodmann__1913_Table1; Mota_etal_2019_SupplementaryTableS1
+Capra hircus,NA,12005,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Brodmann__1913_Table1
+Cavia porcellus,NA,377.15,2,species_mean_merge_wide,merge _wide pooled mean of 2 active values from: Campos_Welker_1976_Table1; Mota_etal_2019_SupplementaryTableS1 [CONFLICT FLAG: sources disagree >15% CV]
+Cebus apella,NA,7653,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Mota_etal_2019_SupplementaryTableS1
+Cercopithecus sp.,NA,14641,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Brodmann__1913_Table1
+Cheirogaleus sp.,NA,921,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Brodmann__1913_Table1
+Cryptotis parva,NA,21.8,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Catania_etal_1999_Table1
+Cryptotis parva,Catania_etal_1999_Table1,21.8,1,species_mean_same_source,mean of 1 individual neocortex values in Catania_etal_1999_Table1
+Damaliscus dorcas,NA,16915,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Mota_etal_2019_SupplementaryTableS1
+Dasyprocta prymnolopha,NA,1412.7,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Mota_etal_2019_SupplementaryTableS1
+Dasypus sp.,NA,2010,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Brodmann__1913_Table1
+Dendrohyrax dorsalis,NA,1895.4,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Mota_etal_2019_SupplementaryTableS1
+Dendrolagus goodfellowi,NA,3064.2,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Mota_etal_2019_SupplementaryTableS1
+Didelphis sp.,NA,804,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Brodmann__1913_Table1
+Echinops telfairi,NA,15,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Krubitzer_etal_1997_ResultsText
+Elephas sp.,NA,301843,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Brodmann__1913_Table1
+Equus caballus,NA,56995,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Brodmann__1913_Table1
+Erinaceus europaeus,NA,575,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Brodmann__1913_Table1
+Eulemur macaco,NA,4054,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Brodmann__1913_Table1
+Felis catus,NA,3908,2,species_mean_merge_wide,merge _wide pooled mean of 2 active values from: Brodmann__1913_Table1; Mota_etal_2019_SupplementaryTableS1 [CONFLICT FLAG: sources disagree >15% CV]
+Galago senegalensis,Krubitzer_Kaas_1990,612.2426352864367,3,flatmap_same_paper_median,median flatmap-traced neocortex outline of 3 whole-hemisphere case(s) in Krubitzer_Kaas_1990 (recommend_use only)
+Galago senegalensis,Krubitzer_Kaas_1993,565.6164583333333,1,flatmap_same_paper_median,median flatmap-traced neocortex outline of 1 whole-hemisphere case(s) in Krubitzer_Kaas_1993 (recommend_use only)
+Galago senegalensis,NA,588.929546809885,4,flatmap_species_median,"median flatmap-traced neocortex outline over 4 case(s), all papers"
+Giraffa camelopardalis,NA,40128,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Mota_etal_2019_SupplementaryTableS1
+Heterocephalus glaber,NA,33.7,4,species_mean_merge_wide,merge _wide pooled mean of 4 active values from: Catania_Remple_2002_Table1
+Heterocephalus glaber,Catania_Remple_2002_Table1,33.7,4,species_mean_same_source,mean of 4 individual neocortex values in Catania_Remple_2002_Table1
+Homo sapiens,NA,94990.33333333331,3,species_mean_merge_wide,merge _wide pooled mean of 3 active values from: Brodmann__1913_Table1; Mota_etal_2019_SupplementaryTableS1; VanEssen_Drury_1997_Table1 [CONFLICT FLAG: sources disagree >15% CV]
+Hyaena hyaena,NA,8702,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Mota_etal_2019_SupplementaryTableS1
+Hydrochoerus hydrochaeris,NA,2501,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Campos_Welker_1976_Table1
+Hydrochoerus hydrochoeris,NA,6004.5,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Mota_etal_2019_SupplementaryTableS1
+Hylobates sp.,NA,16301,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Brodmann__1913_Table1
+Loxodonta africana,NA,257067,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Mota_etal_2019_SupplementaryTableS1
+Macaca fascicularis,NA,9381,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Mota_etal_2019_SupplementaryTableS1
+Macaca mulatta,NA,15230,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Turner_etal_2016_Table1
+Macaca mulatta,Turner_etal_2016_Table1,15230,1,species_mean_same_source,mean of 1 individual neocortex values in Turner_etal_2016_Table1
+Macaca nemestrina,NA,15180,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Turner_etal_2016_Table1
+Macaca nemestrina,Turner_etal_2016_Table1,15180,1,species_mean_same_source,mean of 1 individual neocortex values in Turner_etal_2016_Table1
+Macaca radiata,NA,9320.5,2,species_mean_merge_wide,merge _wide pooled mean of 2 active values from: Mota_etal_2019_SupplementaryTableS1; Turner_etal_2016_Table1
+Macaca radiata,Turner_etal_2016_Table1,10200,1,species_mean_same_source,mean of 1 individual neocortex values in Turner_etal_2016_Table1
+Macropus fuliginosus,NA,4150.2,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Mota_etal_2019_SupplementaryTableS1
+Macropus parma,NA,1682.5,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Mota_etal_2019_SupplementaryTableS1
+Macropus rufogriseus,NA,2627.6,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Mota_etal_2019_SupplementaryTableS1
+Mandrillus sphinx,NA,21321,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Brodmann__1913_Table1
+Martes foina,NA,5066,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Brodmann__1913_Table1
+Miopithecus talapoin,Krubitzer_Kaas_1993,2317.488775510204,1,flatmap_same_paper_median,median flatmap-traced neocortex outline of 1 whole-hemisphere case(s) in Krubitzer_Kaas_1993 (recommend_use only)
+Miopithecus talapoin,NA,2317.488775510204,1,flatmap_species_median,"median flatmap-traced neocortex outline over 1 case(s), all papers"
+Mungos mungo,NA,1949,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Mota_etal_2019_SupplementaryTableS1
+Mus musculus,NA,176.4,2,species_mean_merge_wide,merge _wide pooled mean of 2 active values from: Brodmann__1913_Table1; Mota_etal_2019_SupplementaryTableS1 [CONFLICT FLAG: sources disagree >15% CV]
+Mustela putorius,NA,2454,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Brodmann__1913_Table1
+Mustela putorius furo,NA,882,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Mota_etal_2019_SupplementaryTableS1
+Onychomys leucogaster,NA,58.31,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Sarko_etal_2011_ResultsText
+Ornithorhynchus anatinus,NA,753,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Brodmann__1913_Table1
+Oryctolagus cuniculus,NA,1627,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Brodmann__1913_Table1
+Otolemur garnettii,NA,1951.6666666666667,3,species_mean_merge_wide,merge _wide pooled mean of 3 active values from: Collins_etal_2010_DatasetS1; Mota_etal_2019_SupplementaryTableS1
+Ovis aries,NA,14014,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Brodmann__1913_Table1
+Pan troglodytes,NA,36836,2,species_mean_merge_wide,merge _wide pooled mean of 2 active values from: Brodmann__1913_Table1; Collins_etal_2016_Table1
+Pan troglodytes,Collins_etal_2016_Table1,34100,1,species_mean_same_source,mean of 1 individual neocortex values in Collins_etal_2016_Table1
+Panthera leo,NA,18334,2,species_mean_merge_wide,merge _wide pooled mean of 2 active values from: Brodmann__1913_Table1; Mota_etal_2019_SupplementaryTableS1 [CONFLICT FLAG: sources disagree >15% CV]
+Papio cynocephalus anubis,NA,19555.333333333332,3,species_mean_merge_wide,merge _wide pooled mean of 3 active values from: Collins_etal_2010_DatasetS1; Mota_etal_2019_SupplementaryTableS1; Turner_etal_2016_Table1 [CONFLICT FLAG: sources disagree >15% CV]
+Papio cynocephalus anubis,Turner_etal_2016_Table1,23400,1,species_mean_same_source,mean of 1 individual neocortex values in Turner_etal_2016_Table1
+Phoca sp.,NA,27551,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Brodmann__1913_Table1
+Phocoena phocoena,NA,46994,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Brodmann__1913_Table1
+Procavia capensis,NA,2112.6,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Mota_etal_2019_SupplementaryTableS1
+Procyon lotor,NA,3939,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Mota_etal_2019_SupplementaryTableS1
+Rattus norvegicus,NA,355.5,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Mota_etal_2019_SupplementaryTableS1
+Saimiri sciureus,Krubitzer_Kaas_1990,3014.9261706186576,4,flatmap_same_paper_median,median flatmap-traced neocortex outline of 4 whole-hemisphere case(s) in Krubitzer_Kaas_1990 (recommend_use only)
+Saimiri sciureus,NA,3014.9261706186576,4,flatmap_species_median,"median flatmap-traced neocortex outline over 4 case(s), all papers"
+Saimiri sciureus,NA,5250,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Mota_etal_2019_SupplementaryTableS1
+Sarcophilus harrisii,NA,1473.35,2,species_mean_merge_wide,merge _wide pooled mean of 2 active values from: Brodmann__1913_Table1; Mota_etal_2019_SupplementaryTableS1 [CONFLICT FLAG: sources disagree >15% CV]
+Sorex cinereus,NA,14.933333333333334,3,species_mean_merge_wide,merge _wide pooled mean of 3 active values from: Catania_etal_1999_Table1
+Sorex cinereus,Catania_etal_1999_Table1,14.933333333333334,3,species_mean_same_source,mean of 3 individual neocortex values in Catania_etal_1999_Table1
+Sorex sp.,NA,76,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Brodmann__1913_Table1
+Sus scrofa,NA,13022,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Brodmann__1913_Table1
+Sus scrofa domesticus,NA,6593.6,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Mota_etal_2019_SupplementaryTableS1
+Talpa europaea,NA,307,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Brodmann__1913_Table1
+Tenrec ecaudatus,NA,515,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Brodmann__1913_Table1
+Tragelaphus strepsiceros,NA,22203,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Mota_etal_2019_SupplementaryTableS1
+Trichosurus vulpecula,NA,1547,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Brodmann__1913_Table1
+Tupaia belangeri,NA,497,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Mota_etal_2019_SupplementaryTableS1
+Ursus arctos,NA,22394,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Mota_etal_2019_SupplementaryTableS1
+Ursus sp.,NA,29840,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Brodmann__1913_Table1
+Wallabia bicolor,NA,2522,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Mota_etal_2019_SupplementaryTableS1
+Zaglossus sp.,NA,6605,1,species_mean_merge_wide,merge _wide pooled mean of 1 active values from: Brodmann__1913_Table1

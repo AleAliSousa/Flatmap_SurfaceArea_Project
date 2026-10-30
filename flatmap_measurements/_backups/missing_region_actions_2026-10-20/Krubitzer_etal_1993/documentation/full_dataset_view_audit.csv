@@ -1,0 +1,24 @@
+map_id,figure,pdf_page,species,specimen,view_type,repeat_of,fields,complete_fields,partial_fields,unmeasured,audit_date,review
+fig04_local,4,6,Pteropus poliocephalus,183,local_physiological_map,fig05,3,0,3,3b; 3b upper component,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig05,5,7,Pteropus poliocephalus,183,case_flatmap,,6,4,2,3b total; 1/2; 3a; 4; SMA; PV; VS; PR; PP; LP; 18; FV; 3b mapped component 1; 3b mapped component 2,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig06_local,6,8,Pteropus poliocephalus,184,local_physiological_map,fig07,3,0,3,3b,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig07,7,9,Pteropus poliocephalus,184,case_flatmap,,4,3,1,3b total; 1/2; 3a; 4; SMA; PV; VS; PR; PP; LP; FV; 17; 18,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig08_local,8,10,Pteropus poliocephalus,212,local_physiological_map,fig09,8,3,5,3b,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig09,9,11,Pteropus poliocephalus,212,case_flatmap,,6,4,2,3b total; 1/2; 3a; 4; SII; PR; PP; LP; 18; FV; 17; SMA; 3b mapped component 1,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig10A_local,10,15,Pteropus poliocephalus,188,local_physiological_map,fig12A,5,3,2,3b,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig10B_local,10,15,Pteropus poliocephalus,189,local_physiological_map,fig14A,3,3,0,3b,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig10_local,10,15,Pteropus poliocephalus,188;189,local_physiological_map,,0,0,0,3b; 1/2; 3a; PV; VS,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig12A,12,17,Pteropus poliocephalus,188,case_flatmap,,6,2,4,3b total; 1/2; 3a; 4; SMA; SII; PV; PR; PP; LP; 17; 18; A-I; VS,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig12B,12,17,Pteropus poliocephalus,188,repeated_laminar_reconstruction,fig12A,6,3,3,3b total; 1/2; 3a; 4; SMA; SII; VS; PR; PP; LP; 17; 18; PV; 3b mapped component 1,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig14A,14,19,Pteropus poliocephalus,189,case_flatmap,,7,2,5,3b total; 1/2; 3a; 4; SMA; SII; PV; PR; PP; LP; 17; 18; A-I; VS; 3b mapped component 4,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig14B,14,19,Pteropus poliocephalus,189,repeated_laminar_reconstruction,fig14A,6,3,3,3b total; 1/2; 3a; 4; SMA; SII; PR; PP; LP; 17; 18; PV; VS; 3b mapped component 1; 3b mapped component 2; 3b mapped component 3,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig15_local,15,20,Pteropus poliocephalus,199,local_physiological_map,fig16,5,3,2,3b,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig16,16,22,Pteropus poliocephalus,199,case_flatmap,,10,5,5,3b total; 1/2; 3a; 4; SMA; SII; PR; PP; LP; PV; VS,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig17_local,17,23,Pteropus poliocephalus,186,local_physiological_map,fig18A,3,3,0,3b,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig18A,18,24,Pteropus poliocephalus,186,case_flatmap,,6,2,4,3b total; 1/2; 3a; 4; SMA; SII; PV; PR; PP; LP; 17; 18; FV; VS,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig18B,18,24,Pteropus poliocephalus,186,repeated_laminar_reconstruction,fig18A,4,2,2,3b total; 1/2; 3a; 4; SMA; SII; PV; PR; PP; LP; 17; 18; FV; VS; 3b mapped component 2,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig19,19,26,Pteropus poliocephalus,202,case_flatmap,,3,1,2,3b total; 1/2; 3a; 4; SMA; SII; PV; VS; PR; PP; LP; A-I; MT; FV; 18,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig21A_summary,21,29,Callithrix jacchus,illustrative summary,illustrative_summary_flatmap,illustrative_summary,1,1,0,somatosensory summary fields,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig21B_summary,21,29,Pteropus poliocephalus,illustrative summary,illustrative_summary_flatmap,illustrative_summary,2,2,0,somatosensory summary fields,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig21C_summary,21,29,Sciurus carolinensis,illustrative summary,illustrative_summary_flatmap,illustrative_summary,2,2,0,somatosensory summary fields,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig21D_summary,21,29,Felis catus,illustrative summary,illustrative_summary_flatmap,illustrative_summary,1,1,0,somatosensory summary fields,2026-10-16,source visually inspected; provisional anatomical interpretation

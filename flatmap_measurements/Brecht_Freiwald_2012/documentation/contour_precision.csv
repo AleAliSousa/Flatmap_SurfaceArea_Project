@@ -1,0 +1,15 @@
+map_id,label,extent,vertices,source_render_pixels_per_pdf_point,source_visual_check,tracing_method,anatomical_certification
+fig03a_human,S1,complete,167,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig03a_human,S1_face,complete,58,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig03a_human,V1,complete,209,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig03a_human,A1,complete,33,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig03b_macaque,S1,complete,138,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig03b_macaque,S1_face,complete,39,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig03b_macaque,V1,complete,357,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig03b_macaque,A1,complete,68,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig03c_mouse,S1,complete,208,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig03c_mouse,S1_face,complete,183,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig03c_mouse,V1,complete,150,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig03c_mouse,A1,complete,80,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig03d_naked_mole_rat,S1,complete,379,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending
+fig03d_naked_mole_rat,S1_face,complete,291,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense tracing,pending

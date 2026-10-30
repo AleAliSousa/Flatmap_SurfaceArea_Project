@@ -1,0 +1,59 @@
+{
+  "map_id": "fig05",
+  "figure": 5,
+  "panel": "cortical inset",
+  "pdf_page": 8,
+  "printed_page": 116,
+  "species": "Didelphis virginiana",
+  "specimen": "92-57",
+  "hemisphere": "not assigned",
+  "view_type": "repeated_local_somatotopic_map",
+  "hemisphere_relation": "not assigned",
+  "linked_main_map": "fig03_92_57",
+  "repeat_of": "fig03_92_57",
+  "specimen_link_status": "caption_identified",
+  "relationship_note": "Repeated views do not represent additional animals. No cross-publication pooling; source labels preserved.",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 4,
+  "crop_xyxy": [
+    1250,
+    250,
+    1900,
+    1310
+  ],
+  "supersample": 4,
+  "scale_length_mm": 1,
+  "scale_endpoints_px": [
+    [
+      16,
+      490
+    ],
+    [
+      124,
+      490
+    ]
+  ],
+  "scale_note": "Own local printed scale stroke, endpoints reviewed on the source.",
+  "scale_reference_map": null,
+  "outline": null,
+  "rois": [],
+  "unmeasured": [
+    {
+      "label": "S1",
+      "status": "not_measurable",
+      "reason": "The corrected source crop contains the cortical inset, but the illustrated field remains truncated or open at its visible margin; no invented closure. This is a repeat of the identified case in figure 3."
+    },
+    {
+      "label": "S2",
+      "status": "not_measurable",
+      "reason": "The corrected source crop contains the cortical inset, but the illustrated field remains truncated or open at its visible margin; no invented closure. This is a repeat of the identified case in figure 3."
+    },
+    {
+      "label": "PV",
+      "status": "not_measurable",
+      "reason": "The corrected source crop contains the cortical inset, but the illustrated field remains truncated or open at its visible margin; no invented closure. This is a repeat of the identified case in figure 3."
+    }
+  ],
+  "review_note": "Reassessed from the full source page; cortical inset crop and each field perimeter reviewed separately."
+}

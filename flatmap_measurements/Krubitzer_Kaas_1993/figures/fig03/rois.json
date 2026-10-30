@@ -7819,7 +7819,7 @@
     {
       "label": "18",
       "status": "not_measurable",
-      "reason": "Visible border is open, obscured, or cropped; no complete envelope that can be closed without inventing an edge."
+      "reason": "2026-10-20 reassessment: The medial and inferior 18 border ends within the reconstructed tissue; no full transverse closure is drawn."
     },
     {
       "label": "M",
@@ -7849,7 +7849,7 @@
     {
       "label": "FEF",
       "status": "not_measurable",
-      "reason": "Visible border is open, obscured, or cropped; no complete envelope that can be closed without inventing an edge."
+      "reason": "2026-10-20 reassessment: The dashed FEF contour has an unresolved shared junction with the neighboring FV border; no independently fitted overlapping oval accepted."
     },
     {
       "label": "3a",
@@ -7864,20 +7864,20 @@
     {
       "label": "SII",
       "status": "not_measurable",
-      "reason": "Visible border is open, obscured, or cropped; no complete envelope that can be closed without inventing an edge."
+      "reason": "2026-10-20 reassessment: The inferior SII limit follows the tissue cut, but its separation from PV and complete medial termination are not drawn."
     },
     {
       "label": "PV",
       "status": "not_measurable",
-      "reason": "Visible border is open, obscured, or cropped; no complete envelope that can be closed without inventing an edge."
+      "reason": "2026-10-20 reassessment: The PV lateral/medial junctions do not define a unique full separator from SII."
     },
     {
       "label": "FR",
       "status": "not_measurable",
-      "reason": "Rostral/inferior FR boundary is open; no complete envelope."
+      "reason": "2026-10-20 reassessment: The inferior/rostral FR contour remains open near the FV junction."
     }
   ],
-  "review_note": "Provisional image digitization. Inspect field boundaries and short scale bar; no shrinkage correction.",
+  "review_note": "20 October 2026 missing-region actions completed for this view. See documentation/missing_region_actions_2026-10-20.md for additions and remaining source limits.",
   "precision_audit": {
     "date": "2026-10-15",
     "source_review": "completed; provisional anatomical interpretation",
@@ -7963,5 +7963,10 @@
       }
     ],
     "previous_geometry": "documentation/rois_before_precision_audit.json"
+  },
+  "missing_region_action_review": {
+    "date": "2026-10-20",
+    "status": "listed action assessed; accepted geometry saved, remaining limits recorded individually",
+    "anatomical_certification": false
   }
 }

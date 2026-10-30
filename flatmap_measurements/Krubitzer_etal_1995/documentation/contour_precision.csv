@@ -18,4 +18,5 @@ fig15,A,complete,190,4,enlarged perimeter reviewed; short symbol continuations d
 fig16_local,A,complete,110,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
 fig17_local,A,complete,84,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
 fig18,V,approximate_complete,173,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig19,V,approximate,941,4,enlarged perimeter reviewed; short symbol continuations documented,manually inspected anatomical guides with dense interpolating curve,pending
 fig23,A,complete,91,4,enlarged perimeter reviewed; short symbol continuations documented,Manually identified anatomical envelope with regularized stroke-center following,pending

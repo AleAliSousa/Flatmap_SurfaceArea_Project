@@ -1,0 +1,240 @@
+{
+  "map_id": "fig11A",
+  "figure": 11,
+  "panel": "A",
+  "pdf_page": 18,
+  "printed_page": 514,
+  "species": "Aotus trivirgatus",
+  "specimen": "89-35",
+  "hemisphere": "not assigned",
+  "view_type": "contralateral_partial",
+  "hemisphere_relation": "contralateral to injected hemisphere",
+  "linked_main_map": "fig03",
+  "repeat_of": null,
+  "specimen_link_status": "caption_identified",
+  "relationship_note": "Opposite hemisphere of the same identified animal; not an independent specimen.",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 2,
+  "crop_xyxy": [
+    175,
+    145,
+    640,
+    695
+  ],
+  "supersample": 4,
+  "scale_length_mm": 2,
+  "scale_endpoints_px": [
+    [
+      409,
+      57
+    ],
+    [
+      450,
+      57
+    ]
+  ],
+  "scale_note": "Local printed scale bar, measured stroke endpoints on the source rendering.",
+  "scale_reference_map": null,
+  "outline": null,
+  "rois": [
+    {
+      "label": "DM",
+      "polygons": [
+        [
+          [
+            213.2583597074805,
+            326.6145181569935
+          ],
+          [
+            207.6839367604887,
+            326.130658780778
+          ],
+          [
+            195.13061348748576,
+            327.2979050002966
+          ],
+          [
+            172.79899753831853,
+            330.8892371397654
+          ],
+          [
+            163.67127863952433,
+            335.08126525363645
+          ],
+          [
+            158.3901751489385,
+            339.8050085553085
+          ],
+          [
+            156.68992425643552,
+            342.75937204522893
+          ],
+          [
+            154.633085003209,
+            348.70589503173676
+          ],
+          [
+            153.97870816048436,
+            356.44257705216904
+          ],
+          [
+            155.17648103016808,
+            368.06063670244396
+          ],
+          [
+            158.6155640345863,
+            390.26195592507196
+          ],
+          [
+            161.96554233652367,
+            405.2241631611901
+          ],
+          [
+            164.77857141990455,
+            422.8623330031999
+          ],
+          [
+            168.9913705837406,
+            440.20040207157075
+          ],
+          [
+            171.25536798607402,
+            446.12961520148843
+          ],
+          [
+            175.91490486213542,
+            452.93207859115284
+          ],
+          [
+            188.8484290561263,
+            461.6843609377894
+          ],
+          [
+            198.13515319180323,
+            465.94865710161787
+          ],
+          [
+            216.50308885139162,
+            470.82992485060316
+          ],
+          [
+            225.67850266851144,
+            471.8213672114824
+          ],
+          [
+            235.40829197763833,
+            473.71641338506237
+          ],
+          [
+            239.26606854546816,
+            473.77285884911686
+          ],
+          [
+            240.92752236244414,
+            473.0083190616763
+          ],
+          [
+            241.52422371813174,
+            470.3637431694607
+          ],
+          [
+            239.03283334381337,
+            455.11423753258197
+          ],
+          [
+            235.87277608636649,
+            441.9548505397906
+          ],
+          [
+            234.05514474316584,
+            430.3968579432056
+          ],
+          [
+            234.12019795096558,
+            424.9078286437555
+          ],
+          [
+            233.5070871207936,
+            421.3435822537502
+          ],
+          [
+            232.1493785177102,
+            416.10174018968894
+          ],
+          [
+            228.1387319950657,
+            412.2905637265873
+          ],
+          [
+            227.15436495566445,
+            410.64688322410507
+          ],
+          [
+            227.15200436324383,
+            408.8143553279727
+          ],
+          [
+            229.46073789100964,
+            401.95533458400115
+          ],
+          [
+            229.6360101549812,
+            396.4474394590919
+          ],
+          [
+            226.3620835811642,
+            376.9159416348061
+          ],
+          [
+            224.3103830661654,
+            367.1599877963083
+          ],
+          [
+            221.56738528374086,
+            361.3091443173206
+          ],
+          [
+            213.77177799751533,
+            327.4395836415032
+          ]
+        ]
+      ],
+      "extent": "complete",
+      "boundary_note": "Complete DM envelope in cropped contralateral view; Figure11A dashed lateral edge interpolated between strokes. Precision refinement 2026-10-15: dense source-stroke tracing replaces angular/off-stroke portions; recording symbols remain internal. Short gaps retain source-limited interpolation. Physical calibration and extent interpretation unchanged.",
+      "boundary_note_before_precision_audit": "Complete DM envelope in cropped contralateral view; Figure11A dashed lateral edge interpolated between strokes."
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "17",
+      "status": "not_measurable",
+      "reason": "Field extends outside panel or has no closed border; no total field or cortex denominator."
+    },
+    {
+      "label": "18",
+      "status": "not_measurable",
+      "reason": "Field extends outside panel or has no closed border; no total field or cortex denominator."
+    },
+    {
+      "label": "VPP",
+      "status": "not_measurable",
+      "reason": "Field extends outside panel or has no closed border; no total field or cortex denominator."
+    }
+  ],
+  "review_note": "Provisional image digitization. Inspect field boundaries and short scale bar; no shrinkage correction.",
+  "precision_audit": {
+    "date": "2026-10-15",
+    "source_review": "completed; provisional anatomical interpretation",
+    "changed_regions": 1,
+    "regions": [
+      {
+        "kind": "rois",
+        "label": "DM",
+        "status": "refined",
+        "source_limits": "Stroke-supported refinement; obscured/dashed intervals remain approximate."
+      }
+    ],
+    "previous_geometry": "documentation/rois_before_precision_audit.json"
+  }
+}

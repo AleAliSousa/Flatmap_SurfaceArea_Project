@@ -64,7 +64,7 @@ section_view_types <- c(
 nonspecimen_view_types <- c(
   "illustrative_summary_flatmap", "species_summary", "literature_summary",
   "composite_parcellation", "unscaled_schematic", "redrawn_historical_map",
-  "redrawn_case_map", "cortical_map_geometry"
+  "redrawn_case_map", "cortical_map_geometry", "illustrative_flatmap"
 )
 # View types that show only part of the cortex. A field drawn *within* such a view can
 # still be complete: the per-field `extent` and `boundary_note` decide; the view type only
@@ -72,7 +72,7 @@ nonspecimen_view_types <- c(
 partial_view_types <- c(
   "contralateral_partial", "contralateral_zoom", "partial_areal_strip",
   "partial_reconstruction", "partial_case_reconstruction", "cortical_inset",
-  "physiological_inset"
+  "physiological_inset", "specimen_partial_flatmap", "specimen_partial_functional_map"
 )
 outline_labels <- c("Neocortex outline", "Drawn tissue outline", "Drawn schematic outline")
 unidentified_specimen_values <- c("", "not reported", "illustrative summary",

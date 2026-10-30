@@ -1,0 +1,569 @@
+{
+  "map_id": "fig07_main",
+  "figure": 7,
+  "panel": "main",
+  "pdf_page": 9,
+  "printed_page": 117,
+  "species": "Tupaia belangeri",
+  "specimen": "96-81",
+  "hemisphere": "ipsilateral (anatomical side not reported)",
+  "view_type": "case_flatmap",
+  "hemisphere_relation": "ipsilateral",
+  "linked_main_map": null,
+  "repeat_of": null,
+  "specimen_link_status": "caption_identified",
+  "relationship_note": "Repeated views do not represent additional animals. No cross-publication pooling; source labels preserved.",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 4,
+  "crop_xyxy": [
+    470,
+    310,
+    1980,
+    1510
+  ],
+  "supersample": 4,
+  "scale_length_mm": 1,
+  "scale_endpoints_px": [
+    [
+      116.0,
+      999.0
+    ],
+    [
+      161.0,
+      999.0
+    ]
+  ],
+  "scale_note": "Local printed 1-mm horizontal coordinate arm: endpoints refined to the distal arrow tip and axis origin on the actual source stroke (enlarged review). No inter-panel scale transfer.",
+  "scale_reference_map": null,
+  "outline": null,
+  "rois": [
+    {
+      "label": "TI",
+      "polygons": [
+        [
+          [
+            584.879528729862,
+            685.9486505543687
+          ],
+          [
+            589.2869650202484,
+            677.2737201572326
+          ],
+          [
+            592.8330438226286,
+            672.0839075302953
+          ],
+          [
+            600.1053685109241,
+            664.093843295105
+          ],
+          [
+            605.6838262525557,
+            659.516447758932
+          ],
+          [
+            611.6314358252567,
+            655.4845853796803
+          ],
+          [
+            618.839797949621,
+            651.8077653746781
+          ],
+          [
+            627.2875241074952,
+            648.7270280800884
+          ],
+          [
+            633.409629684103,
+            647.3116852537327
+          ],
+          [
+            650.4757942009229,
+            647.3259276474956
+          ],
+          [
+            656.6834181468004,
+            648.34724120632
+          ],
+          [
+            665.3564873794252,
+            650.7117057635692
+          ],
+          [
+            673.6671562957582,
+            654.1498644948468
+          ],
+          [
+            682.3934816449666,
+            658.8163375194715
+          ],
+          [
+            689.220664264245,
+            663.1676325065383
+          ],
+          [
+            698.5491765186439,
+            670.2254109933035
+          ],
+          [
+            706.519684932939,
+            677.5024963160669
+          ],
+          [
+            712.067892305851,
+            683.3981417888735
+          ],
+          [
+            727.2186147442402,
+            703.525344668379
+          ],
+          [
+            737.9475981068057,
+            721.2173008240204
+          ],
+          [
+            741.4661315280156,
+            728.5085306903726
+          ],
+          [
+            746.2304238429675,
+            741.1328645349142
+          ],
+          [
+            747.8684361718556,
+            747.2110729049333
+          ],
+          [
+            749.6477793627444,
+            756.9458824231413
+          ],
+          [
+            751.1654957651161,
+            770.3584949777913
+          ],
+          [
+            751.6557705936556,
+            782.0315008427037
+          ],
+          [
+            750.9551837838957,
+            789.2096566540596
+          ],
+          [
+            749.0451052418692,
+            798.9282376046098
+          ],
+          [
+            745.5601430499441,
+            807.2429861736666
+          ],
+          [
+            742.1909984081178,
+            812.5382050929214
+          ],
+          [
+            737.2865741095081,
+            817.7947682044445
+          ],
+          [
+            734.5248673289805,
+            820.0747704822991
+          ],
+          [
+            728.5497353147566,
+            824.0780293335552
+          ],
+          [
+            720.4304231581159,
+            827.9298139501437
+          ],
+          [
+            715.3646177966991,
+            829.7761848223275
+          ],
+          [
+            706.6254127860223,
+            831.8994350993707
+          ],
+          [
+            688.7425305195002,
+            833.7777948599488
+          ],
+          [
+            673.5109505095115,
+            832.5564127809181
+          ],
+          [
+            667.3400850989508,
+            831.3055535966478
+          ],
+          [
+            656.0973702387707,
+            828.0852672675562
+          ],
+          [
+            649.4013545728521,
+            825.4525233283119
+          ],
+          [
+            642.142286666666,
+            821.8683401803057
+          ],
+          [
+            629.3429317534118,
+            813.5169269019385
+          ],
+          [
+            617.3637392153394,
+            802.6282710703621
+          ],
+          [
+            609.5283201951726,
+            792.7892302657326
+          ],
+          [
+            603.4201807375196,
+            782.8119958890076
+          ],
+          [
+            596.2006593702893,
+            769.32491240811
+          ],
+          [
+            592.1342670144729,
+            760.3016233064958
+          ],
+          [
+            588.3709074309597,
+            750.1807090874072
+          ],
+          [
+            583.2024282501559,
+            731.9898962858425
+          ],
+          [
+            581.6863374179263,
+            720.3859375845514
+          ],
+          [
+            581.4993062172774,
+            704.2052651883583
+          ],
+          [
+            582.831916334317,
+            693.493761487191
+          ]
+        ]
+      ],
+      "extent": "complete",
+      "boundary_note": "Closed printed field envelope, with internal text retained. Thin geographical surface-projection lines are not used as field borders.",
+      "tracing_method": "Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",
+      "tracking_diagnostic": {
+        "mean_displacement": 1.6856,
+        "max_displacement": 4.0,
+        "line_support": 0.8692048828656931,
+        "samples": 625
+      },
+      "tracking_diagnostic_final": {
+        "mean_displacement": 0.028044871794871796,
+        "max_displacement": 0.5,
+        "line_support": 0.8763454936218715,
+        "samples": 624
+      }
+    },
+    {
+      "label": "A",
+      "polygons": [
+        [
+          [
+            415.7851648834032,
+            771.5600141030278
+          ],
+          [
+            418.7848601446823,
+            766.172324628914
+          ],
+          [
+            421.9190241053073,
+            761.7618630437192
+          ],
+          [
+            427.5077273588709,
+            755.83870238806
+          ],
+          [
+            433.089494402481,
+            751.2879014688446
+          ],
+          [
+            443.2917210265772,
+            745.4144211076776
+          ],
+          [
+            456.0571085919697,
+            740.7153011017585
+          ],
+          [
+            466.5826290184307,
+            738.2951097865619
+          ],
+          [
+            475.75545478291997,
+            737.385033833321
+          ],
+          [
+            490.2321925450607,
+            738.0007258187993
+          ],
+          [
+            497.40919541856874,
+            739.1118077363908
+          ],
+          [
+            505.2770033176477,
+            741.1443246727896
+          ],
+          [
+            512.933818769575,
+            743.7758458574829
+          ],
+          [
+            522.7190716057204,
+            748.3249393805272
+          ],
+          [
+            530.488441520458,
+            752.8592187098593
+          ],
+          [
+            539.7486903677184,
+            759.9904681238879
+          ],
+          [
+            545.6392524122073,
+            765.5417392024195
+          ],
+          [
+            553.4519658977456,
+            774.286290105438
+          ],
+          [
+            559.5413772543526,
+            783.2122802913592
+          ],
+          [
+            566.5383467602601,
+            796.8504373112175
+          ],
+          [
+            573.3469142938042,
+            812.5612680396249
+          ],
+          [
+            575.7609311295827,
+            820.2934068983369
+          ],
+          [
+            577.5834767889402,
+            828.2022291351467
+          ],
+          [
+            582.0816255506237,
+            851.1614644419078
+          ],
+          [
+            585.2030057635016,
+            877.9787136294406
+          ],
+          [
+            585.1488444484767,
+            883.3978062248389
+          ],
+          [
+            586.0508638359719,
+            889.6466468571834
+          ],
+          [
+            586.2552086154354,
+            898.6413943193766
+          ],
+          [
+            587.0688124472177,
+            907.5995962181975
+          ],
+          [
+            587.0574576705004,
+            928.2954021583354
+          ],
+          [
+            587.9700491025371,
+            944.4542395880395
+          ],
+          [
+            587.7764467572155,
+            982.2460172066569
+          ],
+          [
+            589.8276336144373,
+            1000.124302365903
+          ],
+          [
+            596.5888219362238,
+            1035.4728207585488
+          ],
+          [
+            596.8292790891609,
+            1042.6760735320877
+          ],
+          [
+            595.9215158628394,
+            1045.095785952391
+          ],
+          [
+            594.4097915866982,
+            1045.6768689230908
+          ],
+          [
+            591.9400377373074,
+            1044.604457621448
+          ],
+          [
+            575.0614498376127,
+            1028.307615964289
+          ],
+          [
+            558.9151902673407,
+            1013.9626999897232
+          ],
+          [
+            541.4371387458302,
+            997.0965509666114
+          ],
+          [
+            533.9901881771287,
+            989.2598375870701
+          ],
+          [
+            525.6480349473554,
+            977.4769599888937
+          ],
+          [
+            518.9545116878068,
+            965.7453046364244
+          ],
+          [
+            510.43058715478764,
+            947.8668340555364
+          ],
+          [
+            498.48487641334566,
+            917.5462630445893
+          ],
+          [
+            481.39792699115725,
+            889.2889814966305
+          ],
+          [
+            472.84278255508286,
+            877.4398790550445
+          ],
+          [
+            468.0655798088463,
+            872.0093182947406
+          ],
+          [
+            461.2421661751606,
+            864.93429465204
+          ],
+          [
+            427.06543552027745,
+            832.3442965432097
+          ],
+          [
+            421.6881689242513,
+            826.2940118873313
+          ],
+          [
+            418.0321337883861,
+            821.1559042895918
+          ],
+          [
+            414.44137924301174,
+            813.8515935994508
+          ],
+          [
+            411.9188689427124,
+            799.659934722039
+          ],
+          [
+            412.1121117822659,
+            787.9823451898312
+          ],
+          [
+            413.78610646235694,
+            777.2874205164023
+          ]
+        ]
+      ],
+      "extent": "complete",
+      "boundary_note": "Closed printed field envelope, with internal text retained. Thin geographical surface-projection lines are not used as field borders.",
+      "tracing_method": "Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",
+      "tracking_diagnostic": {
+        "mean_displacement": 2.046674445740957,
+        "max_displacement": 4.0,
+        "line_support": 0.7102265518329927,
+        "samples": 857
+      },
+      "tracking_diagnostic_final": {
+        "mean_displacement": 1.3245109321058688,
+        "max_displacement": 10.0,
+        "line_support": 0.8295191674334472,
+        "samples": 869
+      }
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "V1",
+      "status": "not_measurable",
+      "reason": "Full closed field perimeter is not recoverable: medial or ventral boundary ends remain open. Thin exposed-surface projection line is not an areal boundary and is not used to manufacture closure."
+    },
+    {
+      "label": "V2",
+      "status": "not_measurable",
+      "reason": "Full closed field perimeter is not recoverable: medial or ventral boundary ends remain open. Thin exposed-surface projection line is not an areal boundary and is not used to manufacture closure."
+    },
+    {
+      "label": "TA",
+      "status": "not_measurable",
+      "reason": "Full closed field perimeter is not recoverable: medial or ventral boundary ends remain open. Thin exposed-surface projection line is not an areal boundary and is not used to manufacture closure."
+    },
+    {
+      "label": "TAL",
+      "status": "not_measurable",
+      "reason": "Full closed field perimeter is not recoverable: medial or ventral boundary ends remain open. Thin exposed-surface projection line is not an areal boundary and is not used to manufacture closure."
+    },
+    {
+      "label": "TD",
+      "status": "not_measurable",
+      "reason": "Full closed field perimeter is not recoverable: medial or ventral boundary ends remain open. Thin exposed-surface projection line is not an areal boundary and is not used to manufacture closure."
+    },
+    {
+      "label": "TP",
+      "status": "not_measurable",
+      "reason": "Full closed field perimeter is not recoverable: medial or ventral boundary ends remain open. Thin exposed-surface projection line is not an areal boundary and is not used to manufacture closure."
+    },
+    {
+      "label": "TPI",
+      "status": "not_measurable",
+      "reason": "Full closed field perimeter is not recoverable: medial or ventral boundary ends remain open. Thin exposed-surface projection line is not an areal boundary and is not used to manufacture closure."
+    },
+    {
+      "label": "S (lateral component)",
+      "status": "not_measurable",
+      "reason": "S contour terminates at the incomplete reconstruction/medial component. The thin projected lateral-surface guide cannot supply the missing anatomical border. No arbitrary closing chord retained."
+    }
+  ],
+  "review_note": "Dense tracing on 4 pixels/PDF point source rendering. Anatomical interpretation provisional; hide overlay in the precision review to inspect the printed stroke."
+}

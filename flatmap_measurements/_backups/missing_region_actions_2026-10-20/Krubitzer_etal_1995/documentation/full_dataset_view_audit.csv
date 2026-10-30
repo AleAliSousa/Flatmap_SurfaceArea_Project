@@ -1,0 +1,24 @@
+map_id,figure,pdf_page,species,specimen,view_type,repeat_of,fields,complete_fields,partial_fields,unmeasured,audit_date,review
+fig02,2,6,Tachyglossus aculeatus,not reported,unidentified_unfolded_reconstruction,,2,2,0,R; PV; M; V,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig03,3,8,Ornithorhynchus anatinus,P4,case_flatmap,,2,1,0,SI; R; PV; M,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig04,4,10,Ornithorhynchus anatinus,P8,physiological_flatmap,,2,0,1,SI; R; PV; M; V,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig05,5,11,Ornithorhynchus anatinus,P8,repeated_physiological_flatmap,fig04,1,0,0,SI; R; PV; M; V,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig06_local,6,12,Ornithorhynchus anatinus,P8,local_physiological_map,fig04,1,1,0,SI; PV; R; other contextual fields,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig07_local,7,13,Ornithorhynchus anatinus,P8,local_physiological_map,fig04,2,1,1,SI; PV; R; other contextual fields,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig08,8,14,Ornithorhynchus anatinus,P5,case_flatmap,,1,0,0,SI; R; PV; M; A,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig09_local,9,15,Ornithorhynchus anatinus,P5,local_physiological_map,fig08,0,0,0,SI; PV; R; other contextual fields,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig12A,12,18,Tachyglossus aculeatus,E10,case_flatmap,,1,0,0,SI; R; PV; M; V,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig12B,12,18,Tachyglossus aculeatus,E10,case_flatmap,fig12A,1,1,0,SI; R; PV; M; V,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig13_local,13,20,Tachyglossus aculeatus,E10,local_physiological_map,fig12A,1,1,0,SI; PV; R; other contextual fields,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig14,14,22,Tachyglossus aculeatus,E11,physiological_flatmap,,1,1,0,SI; R; PV; M; V,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig15,15,23,Tachyglossus aculeatus,E11,repeated_physiological_flatmap,fig14,1,1,0,SI; R; PV; M; V,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig16_local,16,25,Tachyglossus aculeatus,E11,local_physiological_map,fig15,1,1,0,SI; PV; R; other contextual fields,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig17_local,17,26,Tachyglossus aculeatus,E11,local_physiological_map,fig15,1,1,0,SI; PV; R; other contextual fields,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig18,18,28,Tachyglossus aculeatus,E3,case_flatmap,,1,0,0,SI; R; PV; M; A,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig19,19,29,Tachyglossus aculeatus,E3,repeated_physiological_flatmap,fig18,0,0,0,SI; R; PV; M; A; V,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig20_local,20,30,Tachyglossus aculeatus,E3,local_physiological_map,fig18,0,0,0,SI; PV; R; other contextual fields,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig21A,21,31,Tachyglossus aculeatus,E6,case_flatmap,,0,0,0,SI; R; PV; M; A; V,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig21B,21,31,Tachyglossus aculeatus,E6,case_flatmap,fig21A,0,0,0,SI; R; PV; M; A; V,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig22A,22,32,Tachyglossus aculeatus,E4,case_flatmap,,0,0,0,SI; R; PV; M; A; V,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig22B,22,32,Tachyglossus aculeatus,E4,case_flatmap,fig22A,0,0,0,SI; R; PV; M; A; V,2026-10-16,source visually inspected; provisional anatomical interpretation
+fig23,23,33,Tachyglossus aculeatus,E2,case_flatmap,,1,1,0,SI; R; PV; M; V,2026-10-16,source visually inspected; provisional anatomical interpretation

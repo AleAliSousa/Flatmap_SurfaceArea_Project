@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-20",
+  "papers": 21,
+  "saved_views": 304,
+  "saved_rois": 1116,
+  "saved_unmeasured_entries": 1157,
+  "explicit_not_yet_digitized": 1,
+  "targeted_visual_views": 22,
+  "targeted_visual_papers": 18,
+  "findings_by_disposition": {
+    "missing_tracing": 5,
+    "inventory_gap": 1,
+    "candidate": 5,
+    "source_limit_supported": 7,
+    "no_new_omission_found": 4
+  },
+  "measurement_geometry_changed": true,
+  "executed_actions": 22,
+  "added_contours": 28,
+  "revised_contours": 1
+}

@@ -1,0 +1,31 @@
+{
+  "overlap_method": "Each binary mask eroded by a 5x5 square (two pixels per side); report intersection before and after erosion. This is a geometry diagnostic, not uncertainty estimation.",
+  "overlaps": [
+    {
+      "map_id": "fig09A_enucleated_opossum",
+      "field_a": "area17",
+      "field_b": "auditory_somatosensory_domain",
+      "overlap_pixels": 2759,
+      "overlap_after_eroding_both_masks_2px": 1907,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig09A_enucleated_opossum",
+      "field_a": "A1",
+      "field_b": "auditory_somatosensory_domain",
+      "overlap_pixels": 6376,
+      "overlap_after_eroding_both_masks_2px": 5620,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig09A_enucleated_opossum",
+      "field_a": "CT",
+      "field_b": "auditory_somatosensory_domain",
+      "overlap_pixels": 5105,
+      "overlap_after_eroding_both_masks_2px": 4399,
+      "interpretation": "declared non-additive parent/subregion"
+    }
+  ],
+  "new_tracings_source_visually_inspected": true,
+  "anatomical_certification": false
+}

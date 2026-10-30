@@ -1,3 +1,5 @@
+> **20 October 2026:** Figure 2 now has 74 observations after the [color-assisted correction](fig02_revision_2026-10-20.md). The 16 October counts below describe the earlier pass.
+
 # Full-dataset recheck · 2026-10-16
 
 Felleman_VanEssen_1991: **62 saved field/component observations**, compared with 62 before this pass. Counts refer to view observations, not animals.

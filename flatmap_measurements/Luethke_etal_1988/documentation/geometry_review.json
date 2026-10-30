@@ -98,6 +98,22 @@
       "interpretation": "shared-border raster sliver"
     },
     {
+      "map_id": "fig05",
+      "field_a": "TArv + TAcv",
+      "field_b": "TAi",
+      "overlap_pixels": 21,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig05",
+      "field_a": "R",
+      "field_b": "TAi",
+      "overlap_pixels": 105,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
       "map_id": "fig06",
       "field_a": "M",
       "field_b": "S-I",

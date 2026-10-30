@@ -1,0 +1,1028 @@
+
+
+=== PDF PAGE 1 ===
+In search of a unifying theory of complex brain evolution
+Leah Krubitzer
+Center for Neuroscience and Department of Psychology, University of California, Davis, Davis, CA
+95618
+How does evolution produce a complex brain? What are the factors that contribute to aspects
+of cortical expansion and organization in different mammals? How did human brains become
+so large and complex, and are they fundamentally different than the brains of other mammals?
+While these questions are inherently interesting, generating theories about brain evolution is
+a tricky business because one must strike a balance between known experimental data from
+extant mammals and inferences that can be made from these data regarding the unknown form
+of ancestral brains. For this reason, studies of brain evolution have not been at the forefront of
+neuroscience research until quite recently. Without question, it can be more rewarding to
+directly record from a neuron and characterize its response properties, or identify cells on a
+microscope than to assemble data from diverse disciplines to weave a cohesive story about a
+process that has been occurring for over 4 billion years.
+However, within the last five years one can find numerous research papers, books and popular
+press articles about brain evolution, and this resurgence of interest is due in large part to the
+development of new techniques. For example, recent advances in genetics have allowed us to
+sequence the genome of a number of animals including humans (Venter et al., 2001; also see,
+Gregory et al., 2002; Waterston et al., 2002; The Chimpanzee Sequencing and Analysis
+Consortium, 2005; Mikkelsen et al., 2007). By comparing the genomes from these different
+species we are beginning to appreciate the genetic similarities that species share as well as the
+unique genetic alterations that have evolved in different species, especially in humans (e.g.
+Enard et al., 2002a; b; Hill and Walsh, 2005; Mekel-Bobrov and Lahn, 2006; Vallender and
+Lahn, 2006). Another contributing factor to the resurgence of interest in brain evolution is the
+advancement of molecular techniques that have expanded our knowledge of the genetic and
+molecular mechanisms involved in neural development. Results from these studies enable us
+to make inferences about how developmental mechanisms may have been altered during
+evolution to produce variant phenotypes (see below). Finally, the use of non-invasive brain
+imaging techniques has allowed us to directly study the human brain and appreciate its stunning
+complexity in terms of sheer size, number of cortical fields, space allocation and cognitive
+processing capacity. Our increased understanding of the brain and its development garnered
+from the techniques mentioned above has sparked a new interest, or at least revived a sleeping
+dinosaur in the field of neuroscience, and permits us to move out of the realm of speculation
+and into the realm of testable hypotheses.
+What is a cortical field and why study it?
+Despite disagreement about how complex brains may have evolved and the relative
+contribution of genetic versus activity dependent mechanisms to cortical development (see
+Krubitzer and Hunt, 2007; Larsen and Krubitzer, 2008 for review), most would agree that for
+mammals, the major structure of the brain associated with higher level processes such as
+perception, cognition and voluntary motor control is the neocortex. Support for this is
+particularly compelling in comparative studies of both primates and non-primate mammals
+that demonstrate that the neocortex has changed dramatically in different lineages in terms of
+size and organization compared to other structures. In addition, increases in size and complexity
+NIH Public Access
+Author Manuscript
+Ann N Y Acad Sci. Author manuscript; available in PMC 2010 March 1.
+Published in final edited form as:
+Ann N Y Acad Sci. 2009 March ; 1156: 44–67. doi:10.1111/j.1749-6632.2009.04421.x.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+=== PDF PAGE 2 ===
+of organization are particularly pronounced in species that are considered “sentient” or those
+that exhibit complex behavior such as dolphins, elephants and humans.
+The neocortex is subdivided into basic units of processing that we term cortical fields. Cortical
+fields are identified and segregated from each other based on a number of criteria including a
+unique set of cortical and subcortical connections, neural response properties, a distinct
+appearance in histologically processed tissue, and sometimes a unique molecular signature.
+These criteria provide an important and useful means of subdividing the neocortex into distinct
+cortical fields, and allow us to appreciate how cortical fields function collectively to generate
+particular types of perceptual, cognitive, and motor behaviors. However, theories of cortical
+evolution and studies of developmental and adult plasticity suggest that a cortical field is not
+a static structure, but rather a dynamic process or an event that changes throughout the life of
+an individual, either dramatically during development, or in a more limited fashion in
+adulthood. Because of this, it is important to keep in mind that how we define a cortical field
+should be relative to the time during development or adulthood at which it is studied. Further,
+this view of a cortical field as a dynamic process or event underscores the difficulty inherent
+in the study of brain evolution.
+How do we study cortical evolution?
+One of the largest problems confronting the study of brain evolution is that it cannot be studied
+directly. For example, while a great deal can be learned about evolutionary trends and the
+genetic underpinning of mechanisms that generate specific phenotypes in a variety of different
+animals, it is much more difficult, and probably impossible to directly study how complex
+circuits in mammalian brains evolve. Fortunately, there are two approaches, the comparative
+approach and the developmental approach, that can be used to uncover the types of alterations
+that have occurred in the neocortex throughout the course of mammalian evolution, and how
+those alterations were achieved.
+The comparative approach
+The comparative approach is a compelling method for examining similar features that all brains
+share as well as derivations or specializations that have arisen in different mammalian brains
+as a consequence of adaptation to a unique lifestyle and environment (Kaas, 2007; Krubitzer,
+2007). This approach involves comparing distinct features of the neocortex of select mammals
+that ideally represent a number of phylogenetic branches of evolution, rather than just a few
+species such as monkeys, cats and mice (Fig. 1). There are a number of techniques that have
+been used to study the neocortex in different mammalian brains so that comparisons in the
+number, location and connections of cortical fields can be made across different brains (Kaas,
+1982).
+The traditional method used to make comparisons of the neocortex of different mammals is
+the architectonic method. This includes the use of cytoarchitecture, myeloarchitecture,
+chemoarchitecture and a variety of other histological stains in different animals to examine
+various characteristics of a cortical field such as laminar organization, neurotransmitters
+utilized and types of receptors present. Another set of techniques that are utilized to subdivide
+the neocortex are electrophysiological recording techniques for sensory cortex and intracortical
+microstimulation for motor cortex. Multi unit and single unit electrophysiological recording
+techniques allow us to determine the topographic organization of cortical fields, or cortical
+maps, as well as the response properties of neurons when stimulated with a unique type of
+sensory stimulus. Using this type of data we can segregate cortical fields based on modality to
+which neurons respond, as well as the features of a stimulus (e.g. direction, orientation) that
+neurons within a particular cortical field or cortical module prefer. Comparisons across brains
+can be quite compelling when electrophysiological recording data are combined with
+Krubitzer Page 2
+Ann N Y Acad Sci. Author manuscript; available in PMC 2010 March 1.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+=== PDF PAGE 3 ===
+architectonic and histochemical distinctions. Studies that have combined these techniques have
+revealed an underlying organization of sensory and motor areas of the neocortex that all species
+share. This organization consists of a constellation of cortical fields including a primary visual
+area (V1), somatosensory area (S1; 3b in primates), and auditory area (A1), second sensory
+areas (e.g. V2, AAF or R, S2 and/or PV), a small posterior parietal region, and in eutherian
+mammals a primary motor area (Fig. 1; Krubitzer and Hunt, 2007 for review).
+In addition to electrophysiological and architectonic techniques, neuroanatomical tracing
+techniques that reveal the connections of a cortical field are also used to make comparisons
+between species. These comparisons reveal that there are basic patterns of thalamocortical and
+cortico-cortical connections which are present in different species, but that elaborations in
+connectivity have been made with the addition of new cortical fields in some lineages (Fig. 2).
+Similarities in cortical field organization, connectivity, and architectonic appearance that are
+ubiquitous across species are considered to be inherited from a common ancestor and thus
+homologous. On the other hand, there are aspects of organization, connectivity and architecture
+that can be remarkably similar in one or two groups of mammals, but are found to be
+independently evolved through a comparative analysis. Such similarities are homoplaseous
+and indicate that there are serious constraints imposed on evolving nervous systems (see
+below). Taken together, the comparative approach allows us to appreciate similarities in brains
+that may be homologous or homoplaseous. This approach also allows us to identify the
+differences that have evolved in different lineages, and to determine if the ways in which brains
+have been modified is restricted (Krubitzer and Kaas, 2005).
+Because the cortical field is a dynamic event rather than a concrete immutable structure, any
+type of analysis we perform on the brain of an extant (living) mammal only provides a snapshot
+in the process of evolution. While the comparative approach has provided a lens with which
+to view these snapshots, it tells us little about the time dependent mechanisms that drive these
+alterations, or how these alterations are produced.
+The developmental approach
+The study of the evolution of a cortical field or any other portion of the brain is actually the
+study of the evolution of developmental mechanisms that give rise to an adult phenotype.
+Presumably developmental mechanisms are ‘tweaked’ during evolution and these changes in
+developmental regimes produce variant adult phenotypes. Studies of development have
+revealed that both intrinsic genetic and activity dependent mechanisms contribute to the
+formation of the body and the brain, and that alterations in both produce species differences.
+In terms of the former, there is a large body of work that demonstrates that the expression
+patterns for genes involved in the patterning of the body plan and basic brain morphology are
+highly conserved (e.g. Tallafub and Baily-Cuif, 2002; Hirth and Reichert, 2007 for review).
+For example, homeobox genes from the Hox family are involved in forelimb development in
+all mammals that have been studied, and in mammals with specialized forelimb morphology,
+such as bats, the expression pattern of these genes is slightly altered during forelimb
+development (Chen et al., 2005; Fig. 3). These “tweaks” are thought to be involved in the
+transformation of the forelimb/hand morphology into a wing (Cretekos et al., 2001; Sears,
+2008; Sears et al., 2006). Specifically, retention of the webbing is accomplished through a
+combination of increased FGF and reduced BMP signaling, elongation of wing skeletal
+elements is thought to arise from increased BMP during chondrocyte maturation, and reduction
+of wing skeletal elements appears to arise from a posteriorization in the expression of Hoxd13
+in comparison to the expression of these genes in mice. Like portions of the body, the
+emergence of the vertebrate forebrain and its major subdivisions is also accomplished by highly
+conserved homeobox genes from the Hox and Otx families, and similar combinatorial patterns
+of expression of these genes that generate basic forebrain organization are observed in both
+Krubitzer Page 3
+Ann N Y Acad Sci. Author manuscript; available in PMC 2010 March 1.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+=== PDF PAGE 4 ===
+mammalian and non-mammalian vertebrates (Boncinelli et al., 1995; 2000; Hirth and Reichert,
+2007).
+In terms of the mammalian neocortex, there has been tremendous progress in identifying the
+early patterning genes that specify the location and size of cortical fields (e.g. Shimamura and
+Rubenstein, 1997; Monuki et al., 2001; Grove, and Fukuchi-Shimogori, 2003; see O'Leary et
+al., 2007 for review). For example, early in development signaling molecules are expressed in
+patterning centers in the commissural plate (Fgfs), the cortical hem (Bmps and Wnts), and the
+ventral telencephalon (Shh). These signaling molecules define the major axes of the cortex
+(e.g. anterior/posterior, dorsal/ventral), and direct the graded expression of transcriptional
+factors such as Pax6, Emx2, and COUP-TFI. These transcriptional factors provide positional
+identities to cortical progenitors and their progeny in the cortical plate (e.g. Bishop et al.,
+2000; Fukuchi-Shimogori and Grove, 2001; Armentano et. al., 2007), and in turn guide the
+expression of other genes (e.g. cadherins and ephrins) that are localized to regions of the
+developing cortex and particular layers of the cortex. The genes expressed later in development
+are involved in a variety of functions that establish the identities of individual cortical fields.
+(see O'Leary et al., 2007 for review). In addition to specifying the axis and location of cortical
+fields, a number of genes, including the ephrins, slits, and semaphorins through a process of
+attraction and repulsion are involved in the axon guidance and fasciculation, and synaptic
+development (Strochlic et al., 2007 for review). Studies in which the signaling molecules and
+transcription factors expressed early in development have been disrupted demonstrate that
+aspects of cortical organization including size and position of cortical fields can be altered
+dramatically (e.g. Bishop et al., 2000; Hamasaki et al., 2004; Armentano et. al., 2007), but are
+never lost (Fig. 4).
+In addition to intrinsic genetic mechanisms, activity dependent processes also play a major role
+in development. There is a plethora of studies which demonstrate that both spontaneous and
+sensory driven activity in development play a role in the emergence of a number of aspects of
+cortical and subcortical organization including cortical field size, map formation, and
+connectivity (e.g. Feller and Scanziani, 2005; Smith and Trachtenberg, 2007; White and
+Fitzpatrick, 2007 for review). The contributions of sensory input and sensory driven activity
+to cortical organization are well demonstrated in studies that have removed sensory inputs or
+have modified sensory driven neural activity. For example, both classic and modern studies in
+the visual system in cats and monkeys in which one or both eyes were sutured or removed early
+in development demonstrate that features of the organization of V1 and the response of neurons
+in V1, such as ocular dominance, orientation selectivity and direction preference are altered
+(White and Fitzpatrick, 2007 for review). At a systems level, bilateral enucleations which
+results in complete loss of visual input to subcortical structures result in a reduced size of V1
+in both monkeys (Dehay et al., 1991; Rakic et a., 1991) and opossums (Kahn and Krubitzer;
+2002; Karlen and Krubitzer, 2008). Further, the internal organization of V1, and both cortical
+and subcortical connections are altered (Karlen et al., 2006). Specifically, neurons in V1
+respond to stimulation of other sensory modalities (Fig. 5), and V1 receives cortical and
+subcortical inputs from both visual and non-visual structures. Major re-routing of subcortical
+connections has also been observed in congenitally blind and bilaterally enucleated mice in
+that ascending somatosensory projections from the dorsal column nucleus innervate the lateral
+geniculate nucleus (LGd; Asanuma and Stanfield, 1990). In bilaterally enucleated hamsters
+and blind mole rats, the inferior colliculus, normally associated with auditory processing,
+innervates the LGd (Izraeli et al., 2002; Piche et al., 2004; Doron and Wollberg, 1994).
+Experiments in the auditory system in mice in which the cochlea was still present but
+functionally impaired (Hunt et al., 2006) demonstrate similar alterations in the organization
+and connections of the primary auditory area (A1). In these mice, A1 is reduced in size and
+neurons in A1 respond to somatosensory and visual stimulation (Fig. 5). Studies in rats in which
+Krubitzer Page 4
+Ann N Y Acad Sci. Author manuscript; available in PMC 2010 March 1.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+=== PDF PAGE 5 ===
+the cochlea was intact and fully functioning but acoustic stimulation was greatly modified early
+in development demonstrate that cortical maps of A1 were dramatically altered, as were neural
+response properties (Viller-Sidani et al., 2008; Zhou et al., 2008; Zhou and Merzenich,
+2008). These types of changes in map organization, cortical field size and neural response
+properties have also been demonstrated in adults when sensory driven activity is altered with
+loss of input or with skilled learning (e.g. Kaas, 2000; Recanzone, 2000). This cortical plasticity
+that occurs during development to construct cortical fields, and the persistence of cortical
+plasticity throughout adulthood to more subtlety alter cortical maps, neural response properties
+and connections is a defining and extraordinary feature the mammalian neocortex.
+The detailed molecular changes that allow for this plasticity in cortical organization are often
+driven by changes in gene expression during development (Hooks and Chen, 2007 for review).
+However, the resulting phenotype produced by such molecular based changes is not heritable,
+and thus only persist when the environment in which the individual develops is relatively static.
+While much of the work described above was done in mice, it is likely that the early genetic
+patterning of cortex involving the same genes exists in all species. This would explain the
+persistence of a common plan of organization in every mammal examined (Fig. 1), and the
+existence of vestigial sensory apparatus and cortical areas in mammals that do not appear to
+use a particular sensory system (see below). Many of the alterations to the cortical phenotype
+in terms of cortical field size, number and connectivity, occur via alterations in transcription
+factors and the genes they regulate, but can also be achieved through activity dependent
+mechanisms (Fig. 4 and 5). However, unlike the known mechanisms for the formation of the
+wing of a bat, we do not know how these early genetic cascades are modified in the cortex of
+different species to produce variable phenotypes. Alterations in gross morphology of the brain,
+including the proportion of neural tissue devoted to the telencephalon, diencephalon and
+midbrain structures, for example, are likely due to alterations in the expression patterns of early
+homeobox genes. But again, how these genes are altered in different species of mammals with
+different gross brain morphologies has only been studied in a limited fashion. Developmental
+studies identifying the genes and genetic cascades involved in cortical development provide
+an important foundation for future investigations of brain evolution. Specifically they have
+introduced the “major players” we can examine across multiple species with markedly different
+cortical organization (Fig. 4). This type of comparative gene expression analysis would allow
+us to determine if alterations in both spatial and temporal patterns of expression have actually
+occurred in the past to produce the plethora of different cortical phenotypes observed in living
+mammals.
+Levels of organization and complexity
+Two important factors to consider in any discussion of the evolution of complex nervous
+systems is how we define and measure complexity (Bullock, 2007) and what level of
+organization we are interested in. The Oxford English dictionary defines complex as:
+“consisting of parts”, “formed by combination”, “intricate, not easily analyzed or
+disentangled”, and I think a good definition from a biological perspective is to consider brains
+with many parts as complex, and a complex neocortex as one with multiple cortical fields.
+When we examine the brain we can look at many levels of organization from the macro level
+that includes social systems, individuals and cortical networks to the micro level that includes
+individual neurons, synapses and molecules.
+At a macro level of organization, groups of individuals (brains) interact to form social systems,
+and this level of organization has been observed in a variety of mammals from prairie voles to
+primates to dolphins. Some social systems are relatively simple such as that of the prairie vole
+in which alloparenting and pair bonding occur (Carter and Getz, 1993), while others are more
+Krubitzer Page 5
+Ann N Y Acad Sci. Author manuscript; available in PMC 2010 March 1.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+=== PDF PAGE 6 ===
+complex. For example, a number of primate species have been observed to form cooperative
+alliances, engage in alloparenting, and disseminate culture and tradition throughout the group
+(e.g. Whiten et al., 1999; Perry, 2008). It is interesting that other species such as dolphins (e.g.
+Marino, 2002) and elephants (Shoshani et al., 2006), also engage in some of these behaviors,
+and like many primates, have advanced cognitive abilities (Connor, 2007). All of these species
+that have complex social interactions also have an extremely large cortical sheet (Fig. 6).
+While this increase in the size of the cortical sheet was independently evolved in elephants,
+cetaceans and primates, developmental studies suggest that increases in the size of the cortical
+sheet can be accomplished by altering cell cycle kinetics during neurogenesis in a variety of
+ways (e.g. Kriegstein et al., 2006; Chenn and Walsh, 2002; see Fish et al., 2008). For example,
+the period of neurogenesis may be lengthened, the rate at which cells divide may be increased,
+and/or the number of cells that re-enter the cell cycle and divide may be increased in mammals
+with a large cortical sheet compared to animals that have a small cortical sheet (e.g. Kornack
+and Rakic, 1998; Kornack, 2000). Regardless of the mechanism employed during evolution to
+produce changes in the size of the neocortex, it appears that increasing the size of the cortical
+sheet is necessary, although it may not be sufficient, to generate the type of cortical complexity
+necessary to support sophisticated social systems.
+Not only is the overall size of the cortical sheet variable in different mammals, the number of
+cortical fields is variable as well. Some mammals such as mice have about 10 cortical fields;
+other mammals such as macaque monkeys have more than 50 cortical fields (Fig. 7), and it is
+likely that humans have over a hundred cortical fields. While different areas are often associated
+with a particular function, in large brains with multiple cortical fields processing is distributed
+in networks so that a single cortical field often participates in multiple tasks or behaviors, and
+a given behavior is generated by multiple cortical fields. Further, larger brains with multiple
+cortical areas have increased the numbers of connections and this increased connectivity
+endows the brain with both tremendous processing power and flexibility in processing (Fig.
+2).
+In addition to and increase in the number of cortical fields and their connections, there is a
+change in the type of connectional network that has evolved, and this may fundamentally alter
+how bigger brains process information compared to smaller brains. For example, larger brains
+appear to have relatively fewer long range connections which connect distant areas of the cortex
+or the cerebral hemispheres, and more short, local connections necessary for time critical tasks
+(Ringo et al., 1991; 1994). These connections have optimal layouts based on the number, size
+and location of cortical areas (e.g. Cherniak et al., 2004), and it has been proposed that such
+“small-world” networks within the cortex have evolved to maximize complexity of processing
+with minimal costs (Bassett and Bullmore, 2006). Selection for minimizing wiring costs such
+as decreasing the length of axons, decreasing brain size, and reducing conduction delays is
+exemplified in a number of aspects of cortical organization including the segregation of gray
+and white matter (Wen and Chklovskii, 2005), the dimensions of axonal and dendritic arbors,
+and the existence of topographic maps to name a few (see Chklovskii et al., 2002; Bassett and
+Bullmore, 2006 for review).
+Micro levels of organization, like the macro levels discussed above also vary in terms of their
+complexity in different mammals. At a cellular level, one can count the number of neurons in
+larger brains with more cortical areas and ask if neurons become more plentiful, if they become
+more densely packed, or if neurons get larger. Using a technique called isotropic fractionation,
+Herculano-Houzel and colleagues (2007; 2008) found that for primates, larger brains have
+more neurons (and more glia) and that the number of neurons scale linearly with the increased
+size of the brain. Thus, the average size of neurons does not increase in bigger brains, neurons
+are just more plentiful, although there are some exceptions. This conclusion is supported by
+Krubitzer Page 6
+Ann N Y Acad Sci. Author manuscript; available in PMC 2010 March 1.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+=== PDF PAGE 7 ===
+comparative studies of basic cellular morphology in large-brained macaque monkeys and small
+brained dunnarts (Tyler et al., 1998). These studies demonstrate that despite the differences in
+the size of the primary visual area (V1) and the thickness of the cortex, the size of pyramidal
+neurons and their branching patterns is constant, as are the patterns of intrinsic connections
+(Tyler et al., 1998). In general, other features of cellular organization including the types of
+cortical neurons present and the percentage, length and density of synapses appear to be
+constant in mammals (DeFelipe et al., 2007). Thus, certain features of cellular morphology are
+relatively stable across species.
+However, alterations to these conserved features of cellular morphology have been observed.
+For example, in primates, specialized dendritic branching patterns and increases in spine
+density have been observed in pyramidal cells in sensory, motor and prefrontal cortex (e.g.
+Elston et al., 2005a; b), and some of these specializations appear to be linear (e.g. more spines)
+as brains increase in size. Comparative studies of cell morphology demonstrate that humans
+and some great apes have distinct cellular subtypes such as spindle-shaped cells in anterior
+cingulate, frontoinsular and primary motor cortex, and that only humans have a distinct type
+of pyramidal cell (CR-ir) in anterior paracingulate cortex (Sherwood and Hof, 2007). Further,
+humans appear to have more interneurons and more types of interneurons (DeFilipe et al.,
+2007). Finally, the basic electrochemical properties of neurons are highly conserved across the
+animal kingdom. The presence of sodium and potassium channels, aspects of membrane
+permeability and synaptic transmission, for example, are observed universally. However, the
+addition of pre-and post-synaptic elements, such as the evolution of new receptor types or the
+cooperative function of receptors (e.g. NMDA and AMPA) in some groups of animals change
+the conditions under which neurons fire, and have important implications for learning and
+plasticity.
+The observations that, in general, neurons do not change in size and basic synaptic structure,
+and that basic electrochemical properties of neurons are highly conserved suggests that there
+are large constraints on cellular evolution. Recent computational studies provide some insight
+into this issue and suggest that dendritic branching patterns of neurons have evolved to
+minimize costs while optimizing information processing of synaptic inputs that combine
+nonlinearly (Wen and Chklovskii; 2008). These investigators demonstrate that the optimal
+dendritic arbor for the Purkinje cell for example, which reduces the cost of plasma membrane
+(associated with energy to maintain the resting potential) would be planar, compact and
+centripetal. Thus, although subject to a number of constraints, neurons tend to optimize their
+morphology based on a few simple requirements.
+There appears to be a loose correlation between the emergence of complexity at the different
+levels of organization; complex social systems are associated with a larger and complex
+neocortex, and a large complexly organized neocortex has more neurons that have
+morphological specializations associated with increased processing capacity. What is not clear
+is whether similar principles or rules for generating more parts are applied to all levels of
+organization, and how changes that have evolved at one level affect the organization of other
+levels. It is likely that these interactions are complex and non-linear. Further the resultant
+phenotype at any given level may be functionally optimal, but not necessarily the best
+independent solution to a particular challenge.
+Finally, it is important to note that while brains have generally increased in size from that of
+the common ancestor, this is not always the case for all lineages (Kaas, 2002). From an
+evolutionary standpoint, a neocortex that is more complex does not necessarily provide a
+selective advantage. For example, rodents are a highly successful order composed of species
+occupying terrestrial, arboreal, aquatic and fossorial habitats as well as diurnal and nocturnal
+lifestyles, and with few exception, rodents have relatively small brains. In fact, most mammals
+Krubitzer Page 7
+Ann N Y Acad Sci. Author manuscript; available in PMC 2010 March 1.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+=== PDF PAGE 8 ===
+have relatively small brains that are functionally optimized for cortical processing in their
+respective environment (Catania, 2007).
+Convergent evolution and constraints imposed on developing and evolving
+nervous systems
+Before we discuss the factors that constrain evolution, it is important to establish that such
+constraints exist. Examples of both homologous and homplastic features of cortical
+organization are compelling evidence for these constraints. For instance, the ubiquity of a
+common mammalian plan of cortical organization (homology) with a consistent spatial layout
+is remarkable. This is particularly compelling when one considers that some animals may not
+use the visual system for activities other than circadian rhythms such as blind mole rats, but
+still maintain a primary visual area (V1; Heil et al., 1991; Bronchti et al., 2002). Further, in
+experimental paradigms in opossums in which both eyes were removed very early in
+development (Kahn and Krubitzer, 2002) V1 is still present (Fig. 5). In both blind mole rats
+and opossums, V1 is reduced in size and some aspects of connectivity are maintained while
+others are altered (e.g. Bronchti et al., 1989; Karlen et al., 2006), suggesting that while some
+features of a primary cortical field can be altered, primary cortical fields cannot be eliminated.
+This persistence of highly conserved features of structure and function occurs at cellular and
+molecular levels as well (see above).
+Another indication that very large constraints are imposed on evolving nervous systems is that
+structures or aspects of organization look remarkably similar despite distant phylogenetic
+relationships (Homoplasy). This convergent evolution is observed at all levels of organization.
+Anthropoid primates and cetaceans (dolphins, whales and porpoises) have differences in body
+and brain morphology and cortical organization compared to other mammals. Despite these
+differences and the differences in the environments they inhabit (aquatic versus terrestrial/
+arboreal) both groups have similar social structure (fission-fusion), both groups form
+cooperative alliances or coalitions, and both engage in alloparenting, tradition, and culture (see
+Marino, 2002; 2007; Marino et al., 2007 for review). In addition, both groups have evolved
+complex communication systems, and self-recognition ability. Finally, as noted in the previous
+section of this review, both groups have independently undergone extreme cortical expansion.
+This convergence of complex, high-level social and cognitive abilities in primates and
+cetaceans is remarkable given that the divergence between the ancestral mammal groups that
+eventually led to cetaceans and primates occurred around 90-95 million years ago (MYA;
+Kumar and Blair Hedges, 1998).
+At the level of the cortex, convergent layouts of visual areas and their interconnections have
+emerged independently in squirrels and tree shrews (see Kaas, 2002). In the somatosensory
+cortex, individual cortical areas that are similar in location, organization and connectivity have
+emerged in New World cebus monkeys and anthropoid primates (Fig. 8; Padberg at al,
+2007). Cebus monkeys have an opposable thumb that has evolved independently from that of
+anthropoid primates (Napier and Napier, 1967; Fleagel and Simons, 1995; Rose, 1996). In
+addition, they have the highest encephalization quotient of all New World monkeys (Rilling
+and Insel, 1999), and are considered to be socially complex because of sophisticated tool use
+and social transmission of culture and tradition (Fernandes, 1991; Frazaszi et al., 2004; Waga
+et al., 2006; Perry, 2008). Despite sixty million years of independent evolution, like anthropoid
+primates but unlike other New World monkeys, cebus monkeys have a cortical proprioceptive
+area, termed area 2 and an expanded posterior parietal cortical area 5 (Fig. 8), and both of these
+areas are involved in intentional reaching and grasping.
+Convergence has also been observed at the level of modules within cortical fields in that many
+rodents and at least one species of marsupial (Weller, 1993; see Karlen and Krubitzer, 2007
+Krubitzer Page 8
+Ann N Y Acad Sci. Author manuscript; available in PMC 2010 March 1.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+=== PDF PAGE 9 ===
+for review) have evolved a barrel field in S1 associated with the mystacial vibrissae. The
+ancestral mammals that ultimately gave rise to rodents and marsupials diverged about 180
+MYA. Similar barrel-like arrangements of cells have been observed in insular cortex in
+dolphins (Manger et al., 1998). It is interesting that although the dolphin brain is about 3000
+times larger than the brains of most rodents and marsupials, the size of the “barrels” observed
+in each is similar. In fact, a comparative analysis of module size in different cortical areas in
+a variety of mammals indicates that the range of module size is limited, regardless of the overall
+size of the brain or cortical field (Manger et al., 1998). It has been suggested that selection for
+minimal wiring length drives the size of modules in all mammals (Manger et al., 1998). Finally,
+convergence has been observed at the level of individual neurons. Electrophysiological
+recordings in V1 of the diurnal wallaby indicate that a number of response properties including
+orientation selectivity and spatiotemporal tuning are similar to that of primates, but not other
+marsupials (Ibbotson and Mark, 2003), most of which are nocturnal.
+The studies cited above represent only a few of the many examples of convergent evolution in
+mammals from the level of social systems and cognition to the level of neural response
+properties. These examples of independent emergence of behaviors, brains, and cortical fields
+indicate that the evolution, and thus the development of the nervous system are highly
+constrained. Although genes are the cornerstones of evolution, natural selection acts on
+individuals and behaviors, rather than on larger or smaller levels of organization. Because the
+constraints imposed on developing nervous systems are the same for all animals, it is not
+surprising that cortical phenotypes are highly predictable. In fact, it has been argued that
+homologous developmental programs that are subject to similar selective pressures and the
+same intrinsic and extrinsic constraints generate inescapable outcomes at all levels of
+organization (e.g. Padberg et al., 2007).
+The persistence of a common plan of organization and the independent evolution of similar
+types of modifications to this basic plan are due to two major constraints imposed on developing
+and evolving nervous systems, the genetic code and the laws of physics. There are several ways
+in which genes constrain the evolution of the nervous system. First, several highly conserved
+genes expressed early in development in animals ranging from arthropods to mammals generate
+immutable aspects of body plan development including establishing the anterior/posterior axis,
+segmentation of limbs, and midline designation (See Hirth and Reichert, 2007 for review).
+Second, highly conserved homeobox genes such as those from the Otx and Hox families,
+Emx genes and Pax families and columnar genes (e.g. Msx, Dsh, Nkx) regulate the major axes
+of the brain including the head/trunk boundary (Tallafub and Balley-Cuif, 2002), the
+dorsoventral axis (see Urbach and Technau, 2008) and anterior/posterior axis (see Lichtneckert
+and Reichert, 2008). While the amount of territory devoted to different major brain subdivisions
+varies across species, these subdivisions are never lost, the axes of organization is maintained,
+and their spatial relationship is highly consistent. Third, recent evidence has shown that there
+are very old, highly conserved non-coding elements of genes in both vertebrates and
+invertebrates and these elements (cis-regulatory) regulate genes involved in major
+developmental processes such as body patterning and morphogenesis (McEwen et al., 2006;
+Vavouri et al., 2007). Thus, not only are genes that regulate major aspects of the brain and
+body highly conserved, but also how they are coordinated appears to predate vertebrates.
+A final way in which genes constrain cortical evolution is the way in which they are deployed
+during development. As noted in the above section entitled: The developmental approach, there
+is a cascade of genetic events, possibly coordinated by duplication of highly conserved, cis￾regulatory elements (see above) that set up contingencies that effectively constrain how
+development proceeds. If we consider cortical development as an “if/then” proposition, then
+the removal of one event will halt or disrupt the subsequent cascade of events necessary for
+individual and brain viability. The earlier in development that some change to this genetic
+Krubitzer Page 9
+Ann N Y Acad Sci. Author manuscript; available in PMC 2010 March 1.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+=== PDF PAGE 10 ===
+cascade occurs, the greater the probability for significant change to the phenotype, but also for
+decreased viability. Thus, while evolution is the continuing process of modifying
+contingencies, selection acts to reduce change that results in early death or decreased neural
+viability.
+The second major constraint on evolving nervous systems is the shared physical environment
+that includes but is not limited to light, sound, temperature, heat and gravity. The nervous
+system must interpret the patterns and intensity of these stimuli as they occur in different
+combinations and different media. There is a large body of evidence that these factors directly
+affect the developing body and behavior, which in turn affects brain organization, and further
+evidence indicates that these factors can also affect the developing brain directly. For example,
+different gravitational forces can alter body morphology by affecting bone density (Singh et
+al., 2005), and the extracellular matrix of tissue such as muscle via changes in gene expression
+(Silver and Siperko, 2003). Thus, different gravitational stress conditions (e.g. terrestrial versus
+aquatic) produce different and optimal morphological phenotypes, and these types of
+alterations to the body can affect the organization of both sensory and motor cortical areas.
+Gravity also has a direct effect on the development of descending pathways of the spinal cord,
+motor neuron development (Brocard et al., 2003), the levels of nerve growth factor and brain￾derived nerve growth factor produced, and even behavior (Santucci et al., 2008). Salinity and
+humidity can affect body morphology (Johnston and Gottleib, 1990), and temperature can
+affect body mass, body length, and ear and tail length (e.g. Villarreal et al., 2007). Temperature
+can also affect the genes associated with neural development whose pattern of expression is
+thermosensitive (Tsai et al., 2007). In some amniotes such as lizards, temperature can determine
+the sex of the offspring, and different incubation temperatures differentially affect male versus
+female the fitness (Warner and Shine, 2008).
+At a more refined level, there is a wealth of data that demonstrates the important role of sensory
+driven activity during early development. For example, alterations in the acoustic environment
+can result in changes in the size and internal organization of the primary auditory area (A1),
+and the neural response properties of A1 (deVillers-Sidani et al., 2008; Zhou et al., 2008; Zhou
+and Merzenich, 2008). Complete loss of input or lack of sensory driven activity from one
+sensory system can dramatically alter cortical field size, functional organization and
+connectivity (Fig. 5; Kahn and Krubitzer, 2002; Karlen et al., 2006; Karlen and Krubitzer,
+2008; see Krubitzer and Hunt, 2007 for review). I use only a few examples of the systems level
+changes that can occur when sensory driven activity is altered or lost during development to
+underscore that the amount and types of physical stimulation present during development are
+crucial for determining the phenotype that emerges. These stimuli, even when they take the
+form of a mother's voice, screaming siblings, or a television droning, are nothing more than
+complex packages of physical stimuli present in any given environment.
+Given that the laws of physics are invariant, it is not surprising that sensory driven activity not
+only plays a major role in shaping the cortex to function optimally in a given environment, but
+that the physical parameters of any form of energy place formidable constraints on brain
+evolution (see Krubitzer, 2007, for review).
+Questions posed
+If I return to the questions posed at the beginning of this review I think we can begin to answer
+some of them. We have some understanding about how brains become larger; we also know
+that genes provide the basic framework of body plan and brain organization. On the other hand,
+the ultimate adult phenotype that is produced owes as much to the specific parameters of the
+physical environment in which it develops as it does to genes. Because all mammals are
+Krubitzer Page 10
+Ann N Y Acad Sci. Author manuscript; available in PMC 2010 March 1.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+=== PDF PAGE 11 ===
+enslaved by the same rules of construction during development and by the laws of physics,
+there are far more similarities between species than there are differences.
+But what about humans; are they fundamentally different? Human brains have undergone
+enormous expansion during evolution, cortical asymmetries have emerged which allow
+particular tasks to be processed intrahemispherically (Corbalis, 2007). Human brains have
+more cortical fields, cortical fields have more neurons and specific cortical fields are associated
+with unique behavioral specializations such as language. Humans have unique types of neurons
+and more and varied interneurons, and several features of the genome that have been
+characterized as unique to humans are involved in brain development. So, of course humans
+have specializations that make them unique, but so do all other species. The difficult part is to
+figure out how these varied specializations observed at all levels of organization make us
+uniquely human, rather than uniquely cat or uniquely platypus.
+Probably the most remarkable feature of the human neocortex is one that is difficult to measure
+and cannot be reduced to a cell type or a particular cortical field. That is the ability to loosen
+the constraints imposed on the development and evolution of our own nervous system; the
+ability to be plastic; the ability of our neocortex, and in turn our behavior to change dramatically
+throughout a lifetime. This plasticity is present in all mammals, but appears to be exaggerated
+in humans. Thus the dynamic alterations to the physical environment that include changes in
+voice cadence, light levels, and even global temperature that humans so notoriously produce,
+allow us to directly and often knowingly influence the development and evolution of our own
+brains and the brains of other mammals.
+Is there a unifying theory for brain evolution?
+Yes, Darwin provided the most important unifying theory in biology with his discovery that
+evolution is driven through natural selection of variant phenotypes. While his theory is still the
+foundation of all biological science, at the time it was proposed it was incomplete because there
+was no information about molecules or genes, and our understanding of brains was in its
+infancy. Since that time, there has been tremendous progress on all fronts of biology as well
+as in physics. Today, science is becoming more multidisciplinary, and we have more
+information from more disciplines on brain evolution and development then we have ever had
+in the history of science. However, despite our progress, we are restricted by our own capacity
+to understand the larger levels of organization and their boundary conditions, and the interplay
+between different levels of organization to produce complex biological systems (Polyani,
+1968; Streidter, 2007).
+What we know is that the brain and particularly the neocortex is not a static entity, but a dynamic
+process that is continuously shifting and changing within the life of an individual and in species
+over time. When we consider larger levels of organization in which groups of individuals within
+and across species interact within a common physical environment, we have a collective
+biomass or an emergent entity in which the behavior of individuals and populations
+substantially alters the physical environment in which an individual develops, and thus the
+brain itself. Because of this, we need to put the neurons that we study back into the brain, the
+brain back into the body, and the body back into a physical environment if we hope to achieve
+an understanding of the larger story of the evolution of complex nervous systems.
+Literature Cited
+Armentano M, Chou SJ, Srubek Tomassy G, Leingartner A, O'Leary DD, Studer M. COUP-TFI regulates
+the balance of cortical patterning between frontal/motor and sensory areas. Nat Neurosci
+2007;10:1277–1286. [PubMed: 17828260]
+Krubitzer Page 11
+Ann N Y Acad Sci. Author manuscript; available in PMC 2010 March 1.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+=== PDF PAGE 12 ===
+Asanuma C, Stanfield BB. Induction of somatic sensory inputs to the lateral geniuclate nucleus in
+congenitally blind mice and in phenotypically normal mice. Neuroscience 1990;39:533–569.
+[PubMed: 1711167]
+Bassett DS, Bullmore E. Small-world brain networks. Neuroscientist 2006;12:512–523. [PubMed:
+17079517]
+Bishop, K.; Goudreau, G.; O'Leary, D. Science. New York, NY: 2000. Emx2 and Pax6 regulate area
+identity in the mammalian neocortex. in press
+Boncinelli E, Gulisano M, Spada F, Broccoli V. Emx and Otx gene expression in the developing mouse
+brain. Ciba Foundation Symposium 1995;193:100–116. [PubMed: 8727489]
+Boncinelli, E.; Mallamaci, A.; Muzio, L. Evolutionary Developmental Biology of the Cerebral Cortex.
+Chichester: John Wiley and Sons, LTD; 2000. Genetic control of regional identity in the developing
+vertebrate forebrain; p. 53-61.
+Brocard F, Clarac F, Vinay L. Gravity influences the development of inputs from the brain to lumbar
+motoneurons in the rat. Neuroreport 2003;14:1697–1700. [PubMed: 14512840]
+Bronchti G, Heil P, Sadka R, Hess A, Scheich H, Wollberg Z. Auditory activation of “visual” cortical
+areas in the blind mole rat (Spalax ehrenbergi). Eur J Neurosci 2002;16:311–329. [PubMed: 12169112]
+Bronchti G, Heil P, Scheich H, Wollberg Z. Auditory pathway and auditory activation of primary visual
+targets in the blind mole rat (Spalax ehrenbergi): I. 2-Deoxyglucose study of subcortical centers.
+Journal of Comparative Neurology 1989;284:253–274. [PubMed: 2754036]
+Bullock, T. Relevance of understanding brain evolution. In: Striedter, G.; Rubenstein, J., editors. The
+Evolution of Nervous Systems, Volume 1: Theories, Development, Invertebrates. Oxford: Academic
+Press; 2007. p. 283-287.
+Carter CS, Getz LL. Monogamy and the prairie vole. Scientific American 1993;268:100–106. [PubMed:
+8516669]
+Catania, K. Epigenetic responses to a changing periphery – Wagging the dog. In: Striedter, G.;
+Rubenstein, J., editors. The Evolution of Nervous Systems, Volume 1: Theories, Development,
+Invertebrates. Oxford: Academic Press; 2007. p. 143-151.
+Chen CH, Cretekos CJ, Rasweiler JJt, Behringer RR. Hoxd13 expression in the developing limbs of the
+short-tailed fruit bat, Carollia perspicillata. Evol Dev 2005;7:130–141. [PubMed: 15733311]
+Chenn, A.; Walsh, CA. Science. Vol. 297. New York, NY: 2002. Regulation of cerebral cortical size by
+control of cell cycle exit in neural precursors; p. 365-369.
+Cherniak C, Mokhtarzada Z, Rodriguez-Esteban R, Changizi K. Global optimization of cerebral cortex
+layout. Proceedings of the National Academy of Sciences of the United States of America
+2004;101:1081–1086. [PubMed: 14722353]
+Chklovskii DB, Schikorski T, Stevens CF. Wiring optimization in cortical circuits. Neuron 2002;34:341–
+347. [PubMed: 11988166]
+Connor RC. Dolphin social intelligence: complex alliance relationships in bottlenose dolphins and a
+consideration of selective environments for extreme brain size evolution in mammals. Philosophical
+transactions of the Royal Society of London 2007;362:587–602. [PubMed: 17296597]
+Consortium TCSaA. Initial sequence of the chimpanzee genome and comparison with the human genome.
+Nature 2005;437:69–87. [PubMed: 16136131]
+Corballis, MC. The evolution of hemispheric specializations of the human brain. In: Kaas, JH.; Preuss,
+TM., editors. The Evolution of Nervous Systems, Volume 4: Primates. Oxford: Academic Press;
+2007. p. 379-394.
+Cretekos CJ, Rasweiler JJ, Behringer RR. Comparative studies on limb morphogenesis in mice and bats:
+a functional genetic approach towards a molecular understanding of diversity in organ formation.
+Reprod Fertil Dev 2001;13:691–695. [PubMed: 11999322]
+de Villers-Sidani E, Simpson KL, Lu YF, Lin RC, Merzenich MM. Manipulating critical period closure
+across different sectors of the primary auditory cortex. Nat Neurosci 2008;11:957–965. [PubMed:
+18604205]
+DeFelipe, J.; Alonso-Nanclares, L.; J, A.; Ballesteros-Yanez, I.; Benavides-Piccione, R.; Munoz, A.
+Specializations of the cortial microstructure of humans. In: Kaas, J.; Preuss, T., editors. The Evolution
+of Nervous Systems , Volume 4: Primates. Oxford: Academic Press; 2007. p. 167-190.
+Krubitzer Page 12
+Ann N Y Acad Sci. Author manuscript; available in PMC 2010 March 1.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+=== PDF PAGE 13 ===
+Dehay C, Horsburgh G, Berland M, Killackey H, Kennedy H. The effects of bilateral enucleation in the
+primate fetus on the parcellation of visual cortex. Developmental Brain Research 1991;62:137–141.
+[PubMed: 1760867]
+Doron N, Wolberg Z. Cross-modal neuroplasticity in the blind mole rat Spalax ehrenbergi: a WGA-HRP
+tracing study. Neuroreport 1994;5:2697–2701. [PubMed: 7535122]
+Elston GN, Benavides-Piccione R, Elston A, Manger PR, Defelipe J. Specialization in pyramidal cell
+structure in the sensory-motor cortex of the Chacma baboon (Papio ursinus) with comparative notes
+on macaque and vervet monkeys. Anat Rec A Discov Mol Cell Evol Biol 2005a;286:854–865.
+[PubMed: 16100710]
+Elston GN, Elston A, Casagrande V, Kaas JH. Pyramidal neurons of granular prefrontal cortex of the
+galago: complexity in evolution of the psychic cell in primates. Anat Rec A Discov Mol Cell Evol
+Biol 2005b;285:610–618. [PubMed: 15912521]
+Enard, W.; Khaitovich, P.; Klose, J.; Zollner, S.; Heissig, F.; Giavalisco, P.; Nieselt-Struwe, K.;
+Muchmore, E.; Varki, A.; Ravid, R.; Doxiadis, GM.; Bontrop, RE.; Paabo, S. Science. Vol. 296. New
+York, NY: 2002a. Intra- and interspecific variation in primate gene expression patterns; p. 340-343.
+Enard W, Przeworski M, Fisher SE, Lai CS, Wiebe V, Kitano T, Monaco AP, Paabo S. Molecular
+evolution of FOXP2, a gene involved in speech and language. Nature 2002b;418:869–872. [PubMed:
+12192408]
+Feller M, Scaziani M. A precritical period for plasticity in visual cortex. Current Opinion in Neurobiology
+2005;15:94–100. [PubMed: 15721750]
+Fernandes M. Tool use and predation of oysters (Crassostrea rhizophorae) by the tufted capuchin, Cebus
+apella apella, in brackish water mangrove swamp. Primates 1991;32:529–531.
+Fish J, Dehay C, Kennedy H, Huttner W. Making bigger brains- the evolution of neural-porgenitor-cell
+division. Journal of Cell Science 2008;121:2783–2793. [PubMed: 18716282]
+Fleagle J, Simons E. Limb skeleton and locomotor adaptations of Apidium phiomens, and Oligocene
+anthropoid from Egypt. American Journal of Physical Anthropology 1995;97:235–289. [PubMed:
+7573376]
+Fragaszy D, Izar P, Visalberghi E, Ottoni E, de Oliveira M. Wild capuchin monkeys (Cebus libidinosus)
+use anvils and stone pounding tools. American Journal of Primatology 2004;64:359–366. [PubMed:
+15580579]
+Fukuchi-Shimogori, T.; Grove, EA. Science. Vol. 294. New York, NY: 2001. Neocortex patterning by
+the secreted signaling molecule FGF8; p. 1071-1074.
+Gregory SG, Sekhon M, Schein J, Zhao S, Osoegawa K, Scott CE, Evans RS, Burridge PW, Cox TV,
+Fox CA, Hutton RD, Mullenger IR, Phillips KJ, Smith J, Stalker J, Threadgold GJ, Birney E, Wylie
+K, Chinwalla A, Wallis J, Hillier L, Carter J, Gaige T, Jaeger S, Kremitzki C, Layman D, Maas J,
+McGrane R, Mead K, Walker R, Jones S, Smith M, Asano J, Bosdet I, Chan S, Chittaranjan S, Chiu
+R, Fjell C, Fuhrmann D, Girn N, Gray C, Guin R, Hsiao L, Krzywinski M, Kutsche R, Lee SS,
+Mathewson C, McLeavy C, Messervier S, Ness S, Pandoh P, Prabhu AL, Saeedi P, Smailus D, Spence
+L, Stott J, Taylor S, Terpstra W, Tsai M, Vardy J, Wye N, Yang G, Shatsman S, Ayodeji B, Geer K,
+Tsegaye G, Shvartsbeyn A, Gebregeorgis E, Krol M, Russell D, Overton L, Malek JA, Holmes M,
+Heaney M, Shetty J, Feldblyum T, Nierman WC, Catanese JJ, Hubbard T, Waterston RH, Rogers J,
+de Jong PJ, Fraser CM, Marra M, McPherson JD, Bentley DR. A physical map of the mouse genome.
+Nature 2002;418:743–750. [PubMed: 12181558]
+Grove E, Fukuchi-Shimogori T. Generating the cerebral cortical map. Annual Review of Neuroscience
+2003;26:355–380.
+Hackett, TA. Organization and correspondence of the auditory cortex of humans and nonhuman primates.
+In: Kaas, JH.; Preuss, TM., editors. The Evolution of Nervous Systems, Volume 4: Primates. Oxford:
+Academic Press; 2007. p. 109-119.
+Hamasaki T, Leingartner A, Ringstedt T, O'Leary DD. EMX2 regulates sizes and positioning of the
+primary sensory and motor areas in neocortex by direct specification of cortical progenitors. Neuron
+2004;43:359–372. [PubMed: 15294144]
+Heil P, Bronchti G, Wollberg Z, Scheich H. Invasion of visual cortex by the auditory system in the
+naturally blind mole rat. NeuroReport 1991;2:735–738. [PubMed: 1724384]
+Krubitzer Page 13
+Ann N Y Acad Sci. Author manuscript; available in PMC 2010 March 1.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+=== PDF PAGE 14 ===
+Herculano-Houzel S, Collins CE, Wong P, Kaas JH. Cellular scaling rules for primate brains. Proceedings
+of the National Academy of Sciences of the United States of America 2007;104:3562–3567.
+[PubMed: 17360682]
+Herculano-Houzel S, Collins CE, Wong P, Kaas JH, Lent R. The basic nonuniformity of the cerebral
+cortex. Proceedings of the National Academy of Sciences of the United States of America
+2008;105:12593–12598. [PubMed: 18689685]
+Hill RS, Walsh CA. Molecular insights into human brain evolution. Nature 2005;437:64–67. [PubMed:
+16136130]
+Hirth, F.; Reichert, H. Basic nervous system types: one or many?. In: Striedter, G.; Rubenstein, J., editors.
+The Evolution of Nervous Systems, Volume 1: Theories, Development, Invertebrates. Oxford:
+Academic Press; 2007. p. 55-72.
+Hof PR, Chanis R, Marino L. Cortical complexity in cetacean brains. Anat Rec A Discov Mol Cell Evol
+Biol 2005;287:1142–1152. [PubMed: 16200644]
+Hooks B, Chen C. Critical periods in the visual system: changing views for a model of experience￾dependent plasticity. Neuron 2007;56:312–326. [PubMed: 17964248]
+Hunt DL, Yamoah EN, Krubitzer L. Multisensory plasticity in congenitally deaf mice: how are cortical
+areas functionally specified? Neuroscience 2006;139:1507–1524. [PubMed: 16529873]
+Ibbotson MR, Mark RF. Orientation and spatiotemporal tuning of cells in the primary visual cortex of
+an Australian marsupial, the wallaby Macropus eugenii. J Comp Physiol A Neuroethol Sens Neural
+Behav Physiol 2003;189:115–123. [PubMed: 12607040]
+Izraeli R, Koay G, Lamish M, Heicklen-Klein AJ, Heffner HE, Heffner RS, Wollberg Z. Cross-modal
+neuroplasticity in neonatally enucleated hamsters: structure, electrophysiology and behavior.
+European Journal of Neuroscience 2002;15:693–712. [PubMed: 11886450]
+Johnston TD, Gottlieb G. Neophenogenesis: a developmental theory of phenotypic evolution. Joural of
+Theoretical Biology 1990;147:471–495.
+Kaas J. Convergences in the modular and areal organization of the forebrain of mammals: implications
+for the reconstruction of forebrain evolution. Brain Behav Evol 2002;59:262–272. [PubMed:
+12207083]
+Kaas JH. The segregation of function in the nervous system: Why do the sensory systems have so many
+subdivisions? Contributions to Sensory Physiology 1982;7:201–240.
+Kaas JH. The reorganization of somatosensory and motor cortex after peripheral nerve or spinal cord
+injury in primates. Progress in Brain Research 2000;128:173–179. [PubMed: 11105677]
+Kaas, JH. Reconstructing the organization of neocortex of the first mammals and subsequent
+modifications. In: Kaas, J.; Krubitzer, L., editors. The Evolution of Nervous Systems, Volume 3:
+Mammals. Oxford: Academic Press; 2007. p. 27-48.
+Kahn DM, Krubitzer L. Massive cross-modal cortical plasticity and the emergence of a new cortical area
+in developmentally blind mammals. Proceedings of the National Academy of Sciences of the United
+States of America 2002;99:11429–11434. [PubMed: 12163645]
+Karlen S, Krubitzer L. Effects of bilateral enucleation on the size of visual and nonvisual areas of the
+brain. Cerebral Cortex. 2008in press
+Karlen SJ, Kahn DM, Krubitzer L. Early blindness results in abnormal corticocortical and thalamocortical
+connections. Neuroscience 2006;142:843–858. [PubMed: 16934941]
+Karlen SJ, Krubitzer L. The functional and anatomical organization of marsupial neocortex: evidence for
+parallel evolution across mammals. Progress in neurobiology 2007;82:122–141. [PubMed:
+17507143]
+Kornack DR. Neurogenesis and the evolution of cortical diversity: Mode, tempo, and partitioning during
+development and persistence in adulthood. Brain Behavior and Evolution 2000;55:336–344.
+Kornack DR, Rakic P. Changes in cell-cycle kinetics during the development and evolution of primate
+neocortex. Proceedings of the National Academy of Science, USA 1998;95:1242–1246.
+Kriegstein A, Noctor S, Martinez-Cerdeno V. Patterns of neural stem and progenitor cell division may
+underlie evolutionary cortical expansion. Nature reviews 2006;7:883–890.
+Krubitzer L. The magnificent compromise: cortical field evolution in mammals. Neuron 2007;56:201–
+208. [PubMed: 17964240]
+Krubitzer Page 14
+Ann N Y Acad Sci. Author manuscript; available in PMC 2010 March 1.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+=== PDF PAGE 15 ===
+Krubitzer, L.; Disbrow, E. The evolution of parietal areas involved in hand use in primates. In: Kaas,
+Jon; Gardner, Ester, editors. The Senses: A Comprehensive Reference. Volume 6, Somatosensation.
+Elsevier; London: 2008. p. 183-214.
+Krubitzer, L.; Hunt, DL. Captured in the Net of Space and Time: Understanding Cortical Field Evolution.
+In: Kaas, JH.; Krubitzer, LA., editors. Evolution of Nervous systems, Volume 3: Mammals. San
+Diego: Elsevier; 2007. p. 49-52.
+Krubitzer L, Kaas J. The evolution of the neocortex in mammals: how is phenotypic diversity generated?
+Curr Opin Neurobiol 2005;15:444–453. [PubMed: 16026978]
+Krubitzer LA, Manger P, Pettigrew JD, Calford MB. The organization of neocortex in monotremes: In
+search of the prototypical plan. J Comp Neurol 1995;348:1–45.
+Kumar S, Blair Hedges S. A molecular time scale for vertebrate evolution. Nature 1998;392:917–920.
+[PubMed: 9582070]
+Larsen DD, Krubitzer L. Genetic and epigenetic contributions to the cortical phenotype in mammals.
+Brain Res Bull 2008;75:391–397. [PubMed: 18331904]
+Lichtneckert R, Reichert H. Anteroposterior regionalization of the brain: genetic and comparative aspects.
+Adv Exp Med Biol 2008;628:32–41. [PubMed: 18683636]
+Lyon, DC. The evolution of visual cortex nad visual systems. In: Kaas, JH.; Krubitzer, LA., editors.
+Evolution of Nervous Systems, Volume 3: Mammals. Oxford: Academic Press; 2007. p. 267-306.
+Manger P, Sum M, Szymanski M, Ridgway S, Krubitzer L. Modular subdivisions of dolphin insular
+cortex: Does evolutionary history repeat itself. Journal of Cognitive Neuroscience 1998;10:153–156.
+[PubMed: 9555104]
+Marino L. Convergence of complex cognitive abilities in cetaceans and primates. Brain Behav Evol
+2002;59:21–32. [PubMed: 12097858]
+Marino, L. Cetacean Brain Evolution. In: Kaas, JH.; Krubitzer, LA., editors. Evolution of Nervous
+Systems, Volume 3: Mammals. Oxford: Academic Press; 2007. p. 261-266.
+Marino L, Connor R, Fordyce R, Herman L, Hof P, Lefebvre L, Lusseau D, McCowan B, Ninchinsky E,
+Pack A, Rendell L, Reidenberg J, Reiss D, Uhen M, Van der Gucht E, Whitehead H. Cetations have
+complex brains for complex cognition. Public Library of Science 2007;5:966–972.
+McEwen GK, Woolfe A, Goode D, Vavouri T, Callaway H, Elgar G. Ancient duplicated conserved
+noncoding elements in vertebrates: a genomic and functional analysis. Genome Res 2006;16:451–
+465. [PubMed: 16533910]
+Mekel-Bobrov N, Lahn B. What makes us human: Revisiting the age-old question in the genomic era.
+Journal of Biomedical Discovery and Collaboration 2006;I:18. [PubMed: 17134487]
+Mikkelsen TS, Wakefield MJ, Aken B, Amemiya CT, Chang JL, Duke S, Garber M, Gentles AJ,
+Goodstadt L, Heger A, Jurka J, Kamal M, Mauceli E, Searle SM, Sharpe T, Baker ML, Batzer MA,
+Benos PV, Belov K, Clamp M, Cook A, Cuff J, Das R, Davidow L, Deakin JE, Fazzari MJ, Glass
+JL, Grabherr M, Greally JM, Gu W, Hore TA, Huttley GA, Kleber M, Jirtle RL, Koina E, Lee JT,
+Mahony S, Marra MA, Miller RD, Nicholls RD, Oda M, Papenfuss AT, Parra ZE, Pollock DD, Ray
+DA, Schein JE, Speed TP, Thompson K, VandeBerg JL, Wade CM, Walker JA, Waters PD, Webber
+C, Weidman JR, Xie X, Zody MC, Graves JA, Ponting CP, Breen M, Samollow PB, Lander ES,
+Lindblad-Toh K. Genome of the marsupial Monodelphis domestica reveals innovation in non-coding
+sequences. Nature 2007;447:167–177. [PubMed: 17495919]
+Monuki E, Porter F, Walsh C. Patterning of the dorsal telencephalon and cerebral cortex by a roof plate￾Lhx2 pathway. Neuron 2001;32:591–604. [PubMed: 11719201]
+Napier, J.; Napier, P. Morphology, ecoloty and behaviour of nonhuman primates. London: Academic;
+1967. A handbook of linving primates.
+O'Leary DD, Chou SJ, Sahara S. Area patterning of the mammalian cortex. Neuron 2007;56:252–269.
+[PubMed: 17964244]
+Padberg J, Franca J, Cooke D, Soares J, Rosa M, Fiorani M, Gattass R, Krubitzer L. Parallel evolution
+of cortical areas involved in skilled hand use. Journal of Neuroscience 2007;27:10106–10115.
+[PubMed: 17881517]
+Perry, S. Manipulative Monkeys: The Capuchins of Lomas Barbudal. Boston: Harvard University Press;
+2008.
+Krubitzer Page 15
+Ann N Y Acad Sci. Author manuscript; available in PMC 2010 March 1.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+=== PDF PAGE 16 ===
+Piche M, Robert S, Miceli D, Bronchti G. Environmental enrichment enhances auditory takeover of the
+occipital cortex in anophthalmic mice. European Journal of Neuroscience 2004;20:3463–3472.
+[PubMed: 15610179]
+Polanyi, M. Science. Vol. 160. New York, NY: 1968. Life's irreducible structure; p. 1308-1312.
+Preuss T. Who's afraid of Homo sapiens? Journal of Biomedical Discovery and Collaboration. 2006;I:
+17.
+Rakic P, Suner I, Williams RW. A novel cytoarchitectonic area induced experimentally within the primate
+visual cortex. Proceedings of the National Acadamy of Science 1991;88:2083–2087.
+Recanzone, G. Cerebral cortical plasticity: Perception and skill acquisition. In: Gazzaniga, M., editor.
+The New Cognitive Neurosciences. Cambridge: MIT Press; 2000. p. 237-247.
+Rilling J, Insel T. The primate neocortex in comparative perspective using magnetic resonance imaging.
+Journal of Human Evolution 1999;37:191–223. [PubMed: 10444351]
+Ringo JL. Neuronal interconnectin as a function of brain size. Brain Behavior and Evolution 1991;38:1–
+6.
+Ringo JL, Doty RW, Demeter S, Simard PY. Time is of the essence: A conjecture that hemispheric
+specialization arises from interhemispheric conduction delay. Cerebral Cortex 1994;4:331–343.
+[PubMed: 7950307]
+Santucci D, Francia N, Trincia V, Chiarotti F, Aloe L, Alleva E. A mouse model of neurobehavioural
+response to altered gravity conditions: An ontogenetical study. Behav Brain Res. 2008
+Sears KE. Molecular determinants of bat wing development. Cells, tissues, organs 2008;187:6–12.
+[PubMed: 18160799]
+Sears KE, Behringer RR, Rasweiler JJt, Niswander LA. Development of bat flight: morphologic and
+molecular evolution of bat wing digits. Proceedings of the National Academy of Sciences of the
+United States of America 2006;103:6581–6586. [PubMed: 16618938]
+Sherwood, CC.; Hof, PR. The evolution of neuron types and cortical histology in apes and humans. In:
+Kaas, JH.; Preuss, TM., editors. The Evolution of Nervous Systems, Volume 4: Primates. Oxford:
+Academic Press; 2007. p. 355-378.
+Shimamura K, Rubenstein JL. Inductive interactions direct early regionalization of the mouse forebrain.
+Development 1997;124:2709–2718. [PubMed: 9226442]
+Shoshani J, Kupsky WJ, Marchant GH. Elephant brain. Part I: gross morphology, functions, comparative
+anatomy, and evolution. Brain Res Bull 2006;70:124–157. [PubMed: 16782503]
+Silver FH, Siperko LM. Mechanosensing and mechanochemical transduction: how is mechanical energy
+sensed and converted into chemical energy in an extracellular matrix? Crit Rev Biomed Eng
+2003;31:255–331. [PubMed: 15095950]
+Smith S, Trachtenberg J. Experience-dependent binocular competition begins at eye opining. Nature
+Neuroscience 2007;10:370–375.
+Striedter, G. A history of ideas in evolutionary neuroscience. In: Striedter, G.; Rubenstein, J., editors.
+The Evolution of Nervous Systems, Volume 1: Theories, Development, Invertebrates. Oxford:
+Academic Press; 2007. p. 1-15.
+Strochlic, L.; Weinl, C.; Piper, M.; Holt, C. Axon Pathfinding. In: Striedter, G.; Rubenstein, J., editors.
+The Evolution of Nervous Systems in Mammals. Oxford: Academic Press; 2007. p. 187-209.
+Tallafuss A, Bally-Cuif L. Formation of the head-trunk boundary in the animal body plan: an evolutionary
+perspective. Gene 2002;287:23–32. [PubMed: 11992719]
+Tsai CL, Wang LH, Shiue YL, Chao TY. Influence of temperature on the ontogenetic expression of neural
+development-related genes from developing tilapia brain expressed sequence tags. Mar Biotechnol
+(NY) 2007;9:243–261. [PubMed: 17252285]
+Tyler CJ, Dunlop SA, Lund RD, Harman AM, Dann JF, Beazley LD, Lund JS. Anatomical comparison
+of the macaque and marsupial visual cortex: common features that may reflect retention of essential
+cortical elements. J Comp Neurol 1998;400:449–468. [PubMed: 9786408]
+Urbach R, Technau GM. Dorsoventral patterning of the brain: a comparative approach. Adv Exp Med
+Biol 2008;628:42–56. [PubMed: 18683637]
+Vallender E, Lahn B. A primate-specific acceleration in the evolution of the caspase-dependent apoptosis
+pathway. Human Molecular Genetics 2006;15:3034–3040. [PubMed: 16980329]
+Krubitzer Page 16
+Ann N Y Acad Sci. Author manuscript; available in PMC 2010 March 1.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+=== PDF PAGE 17 ===
+Vavouri T, Walter K, Gilks WR, Lehner B, Elgar G. Parallel evolution of conserved non-coding elements
+that target a common set of developmental regulatory genes from worms to humans. Genome Biol
+2007;8:R15. [PubMed: 17274809]
+Venter, JC.; Adams, MD.; Myers, EW.; Li, PW.; Mural, RJ.; Sutton, GG.; Smith, HO.; Yandell, M.;
+Evans, CA.; Holt, RA.; Gocayne, JD.; Amanatides, P.; Ballew, RM.; Huson, DH.; Wortman, JR.;
+Zhang, Q.; Kodira, CD.; Zheng, XH.; Chen, L.; Skupski, M.; Subramanian, G.; Thomas, PD.;
+Zhang, J.; Gabor Miklos, GL.; Nelson, C.; Broder, S.; Clark, AG.; Nadeau, J.; McKusick, VA.;
+Zinder, N.; Levine, AJ.; Roberts, RJ.; Simon, M.; Slayman, C.; Hunkapiller, M.; Bolanos, R.;
+Delcher, A.; Dew, I.; Fasulo, D.; Flanigan, M.; Florea, L.; Halpern, A.; Hannenhalli, S.; Kravitz,
+S.; Levy, S.; Mobarry, C.; Reinert, K.; Remington, K.; Abu-Threideh, J.; Beasley, E.; Biddick, K.;
+Bonazzi, V.; Brandon, R.; Cargill, M.; Chandramouliswaran, I.; Charlab, R.; Chaturvedi, K.; Deng,
+Z.; Di Francesco, V.; Dunn, P.; Eilbeck, K.; Evangelista, C.; Gabrielian, AE.; Gan, W.; Ge, W.;
+Gong, F.; Gu, Z.; Guan, P.; Heiman, TJ.; Higgins, ME.; Ji, RR.; Ke, Z.; Ketchum, KA.; Lai, Z.;
+Lei, Y.; Li, Z.; Li, J.; Liang, Y.; Lin, X.; Lu, F.; Merkulov, GV.; Milshina, N.; Moore, HM.; Naik,
+AK.; Narayan, VA.; Neelam, B.; Nusskern, D.; Rusch, DB.; Salzberg, S.; Shao, W.; Shue, B.; Sun,
+J.; Wang, Z.; Wang, A.; Wang, X.; Wang, J.; Wei, M.; Wides, R.; Xiao, C.; Yan, C.; Yao, A.; Ye,
+J.; Zhan, M.; Zhang, W.; Zhang, H.; Zhao, Q.; Zheng, L.; Zhong, F.; Zhong, W.; Zhu, S.; Zhao, S.;
+Gilbert, D.; Baumhueter, S.; Spier, G.; Carter, C.; Cravchik, A.; Woodage, T.; Ali, F.; An, H.; Awe,
+A.; Baldwin, D.; Baden, H.; Barnstead, M.; Barrow, I.; Beeson, K.; Busam, D.; Carver, A.; Center,
+A.; Cheng, ML.; Curry, L.; Danaher, S.; Davenport, L.; Desilets, R.; Dietz, S.; Dodson, K.; Doup,
+L.; Ferriera, S.; Garg, N.; Gluecksmann, A.; Hart, B.; Haynes, J.; Haynes, C.; Heiner, C.; Hladun,
+S.; Hostin, D.; Houck, J.; Howland, T.; Ibegwam, C.; Johnson, J.; Kalush, F.; Kline, L.; Koduru,
+S.; Love, A.; Mann, F.; May, D.; McCawley, S.; McIntosh, T.; McMullen, I.; Moy, M.; Moy, L.;
+Murphy, B.; Nelson, K.; Pfannkoch, C.; Pratts, E.; Puri, V.; Qureshi, H.; Reardon, M.; Rodriguez,
+R.; Rogers, YH.; Romblad, D.; Ruhfel, B.; Scott, R.; Sitter, C.; Smallwood, M.; Stewart, E.; Strong,
+R.; Suh, E.; Thomas, R.; Tint, NN.; Tse, S.; Vech, C.; Wang, G.; Wetter, J.; Williams, S.; Williams,
+M.; Windsor, S.; Winn-Deen, E.; Wolfe, K.; Zaveri, J.; Zaveri, K.; Abril, JF.; Guigo, R.; Campbell,
+MJ.; Sjolander, KV.; Karlak, B.; Kejariwal, A.; Mi, H.; Lazareva, B.; Hatton, T.; Narechania, A.;
+Diemer, K.; Muruganujan, A.; Guo, N.; Sato, S.; Bafna, V.; Istrail, S.; Lippert, R.; Schwartz, R.;
+Walenz, B.; Yooseph, S.; Allen, D.; Basu, A.; Baxendale, J.; Blick, L.; Caminha, M.; Carnes-Stine,
+J.; Caulk, P.; Chiang, YH.; Coyne, M.; Dahlke, C.; Mays, A.; Dombroski, M.; Donnelly, M.; Ely,
+D.; Esparham, S.; Fosler, C.; Gire, H.; Glanowski, S.; Glasser, K.; Glodek, A.; Gorokhov, M.;
+Graham, K.; Gropman, B.; Harris, M.; Heil, J.; Henderson, S.; Hoover, J.; Jennings, D.; Jordan, C.;
+Jordan, J.; Kasha, J.; Kagan, L.; Kraft, C.; Levitsky, A.; Lewis, M.; Liu, X.; Lopez, J.; Ma, D.;
+Majoros, W.; McDaniel, J.; Murphy, S.; Newman, M.; Nguyen, T.; Nguyen, N.; Nodell, M.; Pan,
+S.; Peck, J.; Peterson, M.; Rowe, W.; Sanders, R.; Scott, J.; Simpson, M.; Smith, T.; Sprague, A.;
+Stockwell, T.; Turner, R.; Venter, E.; Wang, M.; Wen, M.; Wu, D.; Wu, M.; Xia, A.; Zandieh, A.;
+Zhu, X. Science. Vol. 291. New York, NY: 2001. The sequence of the human genome; p. 1304-1351.
+Villarreal JA, Schlegel WM, Prange HD. Thermal enviornment affects morphological and behavioral
+development of Rattus norvegicus. Physiology & Behavior 2007;91:26–35. [PubMed: 17341426]
+Waga I, Dacier A, Pinha P, Tavares M. Spontaneous tool use by wild capuchin monkeys (Cebus
+libidnosus) in Cerrado. Folia Primatol 2006;77:337–344. [PubMed: 16912501]
+Warner DA, Shine R. The adaptive significance of temperature-dependent sex determination in a reptile.
+Nature 2008;41:566–568. [PubMed: 18204437]
+Waterston RH, Lindblad-Toh K, Birney E, Rogers J, Abril JF, Agarwal P, Agarwala R, Ainscough R,
+Alexandersson M, An P, Antonarakis SE, Attwood J, Baertsch R, Bailey J, Barlow K, Beck S, Berry
+E, Birren B, Bloom T, Bork P, Botcherby M, Bray N, Brent MR, Brown DG, Brown SD, Bult C,
+Burton J, Butler J, Campbell RD, Carninci P, Cawley S, Chiaromonte F, Chinwalla AT, Church
+DM, Clamp M, Clee C, Collins FS, Cook LL, Copley RR, Coulson A, Couronne O, Cuff J, Curwen
+V, Cutts T, Daly M, David R, Davies J, Delehaunty KD, Deri J, Dermitzakis ET, Dewey C, Dickens
+NJ, Diekhans M, Dodge S, Dubchak I, Dunn DM, Eddy SR, Elnitski L, Emes RD, Eswara P, Eyras
+E, Felsenfeld A, Fewell GA, Flicek P, Foley K, Frankel WN, Fulton LA, Fulton RS, Furey TS,
+Gage D, Gibbs RA, Glusman G, Gnerre S, Goldman N, Goodstadt L, Grafham D, Graves TA, Green
+ED, Gregory S, Guigo R, Guyer M, Hardison RC, Haussler D, Hayashizaki Y, Hillier LW, Hinrichs
+A, Hlavina W, Holzer T, Hsu F, Hua A, Hubbard T, Hunt A, Jackson I, Jaffe DB, Johnson LS, Jones
+M, Jones TA, Joy A, Kamal M, Karlsson EK, Karolchik D, Kasprzyk A, Kawai J, Keibler E, Kells
+Krubitzer Page 17
+Ann N Y Acad Sci. Author manuscript; available in PMC 2010 March 1.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+=== PDF PAGE 18 ===
+C, Kent WJ, Kirby A, Kolbe DL, Korf I, Kucherlapati RS, Kulbokas EJ, Kulp D, Landers T, Leger
+JP, Leonard S, Letunic I, Levine R, Li J, Li M, Lloyd C, Lucas S, Ma B, Maglott DR, Mardis ER,
+Matthews L, Mauceli E, Mayer JH, McCarthy M, McCombie WR, McLaren S, McLay K,
+McPherson JD, Meldrim J, Meredith B, Mesirov JP, Miller W, Miner TL, Mongin E, Montgomery
+KT, Morgan M, Mott R, Mullikin JC, Muzny DM, Nash WE, Nelson JO, Nhan MN, Nicol R, Ning
+Z, Nusbaum C, O'Connor MJ, Okazaki Y, Oliver K, Overton-Larty E, Pachter L, Parra G, Pepin
+KH, Peterson J, Pevzner P, Plumb R, Pohl CS, Poliakov A, Ponce TC, Ponting CP, Potter S, Quail
+M, Reymond A, Roe BA, Roskin KM, Rubin EM, Rust AG, Santos R, Sapojnikov V, Schultz B,
+Schultz J, Schwartz MS, Schwartz S, Scott C, Seaman S, Searle S, Sharpe T, Sheridan A, Shownkeen
+R, Sims S, Singer JB, Slater G, Smit A, Smith DR, Spencer B, Stabenau A, Stange-Thomann N,
+Sugnet C, Suyama M, Tesler G, Thompson J, Torrents D, Trevaskis E, Tromp J, Ucla C, Ureta￾Vidal A, Vinson JP, Von Niederhausern AC, Wade CM, Wall M, Weber RJ, Weiss RB, Wendl
+MC, West AP, Wetterstrand K, Wheeler R, Whelan S, Wierzbowski J, Willey D, Williams S, Wilson
+RK, Winter E, Worley KC, Wyman D, Yang S, Yang SP, Zdobnov EM, Zody MC, Lander ES.
+Initial sequencing and comparative analysis of the mouse genome. Nature 2002;420:520–562.
+[PubMed: 12466850]
+Weller WL. SmI cortical barrels in an Australian marsupial, Trichosurus vulpecula (brush-tailed possum):
+Structural organization, patterned distribution, and somatotopic relationships. The Journal of
+Comparative Neurology 1993;337:471–492. [PubMed: 8282853]
+Wen Q, Chklovskii DB. Segregation of the brain into gray and white matter: a design minimizing
+conduction delays. PLoS Comput Biol 2005;1:e78. [PubMed: 16389299]
+Wen Q, Chklovskii DB. A cost-benefit analysis of neuronal morphology. J Neurophysiol 2008;99:2320–
+2328. [PubMed: 18305091]
+White L, Fitzpatrick D. Vision and cortical map development. Neuron 2007;56:327–338. [PubMed:
+17964249]
+Whiten A, Goodall J, McGrew WC, Nishida T, Reynolds V, Sugiyama Y, Tutin CE, Wrangham RW,
+Boesch C. Cultures in chimpanzees. Nature 1999;399:682–685. [PubMed: 10385119]
+Wise, SP. Evolution of ventral premotor cortex and the primate way of reaching. In: Kaas, JH.; Preuss,
+TM., editors. The Evolution of Nervous Systems, Volume 4: Primates. Oxford: Academic Press;
+2007. p. 157-165.
+Zhou X, Merzenich MM. Enduring effects of early structured noise exposure on temporal modulation in
+the primary auditory cortex. Proceedings of the National Academy of Sciences of the United States
+of America 2008;105:4423–4428. [PubMed: 18332439]
+Zhou X, Nagarajan N, Mossop BJ, Merzenich MM. Influences of un-modulated acoustic inputs on
+functional maturation and critical-period plasticity of the primary auditory cortex. Neuroscience
+2008;154:390–396. [PubMed: 18304741]
+Krubitzer Page 18
+Ann N Y Acad Sci. Author manuscript; available in PMC 2010 March 1.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+=== PDF PAGE 19 ===
+Figure 1.
+Krubitzer Page 19
+Ann N Y Acad Sci. Author manuscript; available in PMC 2010 March 1.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+=== PDF PAGE 20 ===
+Figure 2.
+Krubitzer Page 20
+Ann N Y Acad Sci. Author manuscript; available in PMC 2010 March 1.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+=== PDF PAGE 21 ===
+Figure 3.
+Krubitzer Page 21
+Ann N Y Acad Sci. Author manuscript; available in PMC 2010 March 1.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+=== PDF PAGE 22 ===
+Figure 4.
+Krubitzer Page 22
+Ann N Y Acad Sci. Author manuscript; available in PMC 2010 March 1.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+=== PDF PAGE 23 ===
+Figure 5.
+Krubitzer Page 23
+Ann N Y Acad Sci. Author manuscript; available in PMC 2010 March 1.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+=== PDF PAGE 24 ===
+Figure 6.
+Krubitzer Page 24
+Ann N Y Acad Sci. Author manuscript; available in PMC 2010 March 1.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+=== PDF PAGE 25 ===
+Figure 7.
+Krubitzer Page 25
+Ann N Y Acad Sci. Author manuscript; available in PMC 2010 March 1.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+=== PDF PAGE 26 ===
+Figure 8.
+Krubitzer Page 26
+Ann N Y Acad Sci. Author manuscript; available in PMC 2010 March 1.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+=== PDF PAGE 27 ===
+Figure 9.
+Krubitzer Page 27
+Ann N Y Acad Sci. Author manuscript; available in PMC 2010 March 1.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript

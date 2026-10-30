@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-16",
+  "map_id": "fig12A",
+  "changed_anatomical_region": "SR",
+  "unchanged_regions": [
+    "S1",
+    "SC"
+  ],
+  "internal_label_exclusions": 0,
+  "annotation_samples": [
+    {
+      "label": "S1",
+      "annotation_box": [
+        399,
+        125,
+        444,
+        153
+      ],
+      "annotation_ink_pixels": 283,
+      "included_annotation_ink_pixels": 283,
+      "test": "all sampled internal annotation pixels remain inside the field mask"
+    },
+    {
+      "label": "SC",
+      "annotation_box": [
+        224,
+        129,
+        281,
+        160
+      ],
+      "annotation_ink_pixels": 472,
+      "included_annotation_ink_pixels": 472,
+      "test": "all sampled internal annotation pixels remain inside the field mask"
+    },
+    {
+      "label": "SR",
+      "annotation_box": [
+        501,
+        185,
+        552,
+        214
+      ],
+      "annotation_ink_pixels": 462,
+      "included_annotation_ink_pixels": 462,
+      "test": "all sampled internal annotation pixels remain inside the field mask"
+    }
+  ],
+  "note": "Text is retained in the source image and has no effect on geometric area. Boundary overprints are crossed by smooth continuation of the anatomical line; no glyph snapping in corrected intervals.",
+  "area_changes": [
+    {
+      "label": "S1",
+      "previous_area_px2": "63095.25",
+      "corrected_area_px2": "63095.25",
+      "absolute_mm2": "NA; no physical calibration assigned"
+    },
+    {
+      "label": "SC",
+      "previous_area_px2": "33622.4375",
+      "corrected_area_px2": "33622.4375",
+      "absolute_mm2": "NA; no physical calibration assigned"
+    },
+    {
+      "label": "SR",
+      "previous_area_px2": "33761.25",
+      "corrected_area_px2": "34204.25",
+      "absolute_mm2": "NA; no physical calibration assigned"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "overlap_method": "Each binary mask eroded by a 5x5 square (two pixels per side); report intersection before and after erosion. This is a geometry diagnostic, not uncertainty estimation.",
+  "overlaps": [
+    {
+      "map_id": "fig03a_human",
+      "field_a": "S1",
+      "field_b": "S1_face",
+      "overlap_pixels": 1435,
+      "overlap_after_eroding_both_masks_2px": 1045,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig03b_macaque",
+      "field_a": "S1",
+      "field_b": "S1_face",
+      "overlap_pixels": 956,
+      "overlap_after_eroding_both_masks_2px": 685,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig03c_mouse",
+      "field_a": "S1",
+      "field_b": "S1_face",
+      "overlap_pixels": 20860,
+      "overlap_after_eroding_both_masks_2px": 19433,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig03d_naked_mole_rat",
+      "field_a": "S1",
+      "field_b": "S1_face",
+      "overlap_pixels": 43041,
+      "overlap_after_eroding_both_masks_2px": 40838,
+      "interpretation": "declared non-additive parent/subregion"
+    }
+  ],
+  "new_tracings_source_visually_inspected": true,
+  "anatomical_certification": false
+}

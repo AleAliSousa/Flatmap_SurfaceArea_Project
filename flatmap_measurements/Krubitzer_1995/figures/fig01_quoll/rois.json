@@ -27,12 +27,37 @@
     {
       "label": "saturated primary-field totals",
       "status": "not_measurable",
-      "reason": "Merged black fills do not resolve separate complete field envelopes."
+      "reason": "2026-10-20 reassessment: The large somatomotor black fill contains no recoverable internal field dividers. Uniform darkness does not identify the separate component fields."
     },
     {
       "label": "A",
       "status": "not_measurable",
-      "reason": "The tiny grey auditory envelope merges with the heavy neighbouring black fill. The candidate crossed that interface and was rejected."
+      "reason": "2026-10-20 reassessment: The A-labelled small gray patch near (359,449) merges with the adjacent heavy black border; the larger separate dark auditory-looking patch cannot be assigned the same field name from connected ink alone."
+    },
+    {
+      "label": "VIS",
+      "status": "not_measurable",
+      "reason": "2026-10-20 reassessment: The drawn VIS arc ends near (90,435) before meeting the primary visual fill; its upper-left border is absent. The larger outer white compartment includes non-VIS tissue."
+    },
+    {
+      "label": "DSc",
+      "status": "not_measurable",
+      "reason": "2026-10-20 reassessment: The DSc arc ends near (327,422), and the adjacent filled somatosensory boundary does not supply a complete named DSc envelope."
+    },
+    {
+      "label": "SII/PV",
+      "status": "not_measurable",
+      "reason": "2026-10-20 reassessment: The letters lie below merged dark somatosensory fills without a resolvable internal SII/PV division or a distinct complete combined envelope."
+    },
+    {
+      "label": "AUD",
+      "status": "not_measurable",
+      "reason": "2026-10-20 reassessment: AUD lettering is spread between two filled patches; their correspondence and complete compartment borders are not uniquely identifiable in this monochrome print."
+    },
+    {
+      "label": "PYR",
+      "status": "not_measurable",
+      "reason": "2026-10-20 reassessment: Pyriform cortex is identified separately but excluded from the neocortical-field target and denominator."
     }
   ],
   "repeat_of": "illustrative_summary",
@@ -49,5 +74,10 @@
   ],
   "scale_length_mm": 1,
   "scale_note": "Own local printed scale stroke, endpoints reviewed on the source.",
-  "review_note": "Reassessed from the full source page; cortical inset crop and each field perimeter reviewed separately."
+  "review_note": "20 October 2026 missing-region actions completed for this view. See documentation/missing_region_actions_2026-10-20.md for additions and remaining source limits.",
+  "missing_region_action_review": {
+    "date": "2026-10-20",
+    "status": "listed action assessed; accepted geometry saved, remaining limits recorded individually",
+    "anatomical_certification": false
+  }
 }

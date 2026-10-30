@@ -1,0 +1,559 @@
+{
+  "overlap_method": "Each binary mask eroded by a 5x5 square (two pixels per side); report intersection before and after erosion. This is a geometry diagnostic, not uncertainty estimation.",
+  "overlaps": [
+    {
+      "map_id": "fig05A_case15_01",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_opposition_D1",
+      "overlap_pixels": 18464,
+      "overlap_after_eroding_both_masks_2px": 15967,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05A_case15_01",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_flex_D1_D2",
+      "overlap_pixels": 2133,
+      "overlap_after_eroding_both_masks_2px": 1661,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05A_case15_01",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_flex_all_digits",
+      "overlap_pixels": 937,
+      "overlap_after_eroding_both_masks_2px": 648,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05A_case15_01",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_flex_other_digits",
+      "overlap_pixels": 4536,
+      "overlap_after_eroding_both_masks_2px": 3270,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05A_case15_01",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_extend_other_digits",
+      "overlap_pixels": 6928,
+      "overlap_after_eroding_both_masks_2px": 4891,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05A_case15_01",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_extend_D1_D2",
+      "overlap_pixels": 2314,
+      "overlap_after_eroding_both_masks_2px": 1820,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05A_case15_01",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_mixed_D1_D2",
+      "overlap_pixels": 1058,
+      "overlap_after_eroding_both_masks_2px": 751,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05A_case15_01",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_flex_other_toes",
+      "overlap_pixels": 1262,
+      "overlap_after_eroding_both_masks_2px": 930,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05A_case15_01",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_flex_T1_T2",
+      "overlap_pixels": 8275,
+      "overlap_after_eroding_both_masks_2px": 5998,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05A_case15_01",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 36370,
+      "overlap_after_eroding_both_masks_2px": 29008,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05A_case15_01",
+      "field_a": "M1_sampled_opposition_D1",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 18464,
+      "overlap_after_eroding_both_masks_2px": 15967,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05A_case15_01",
+      "field_a": "M1_sampled_flex_D1_D2",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 2133,
+      "overlap_after_eroding_both_masks_2px": 1661,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05A_case15_01",
+      "field_a": "M1_sampled_flex_all_digits",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 937,
+      "overlap_after_eroding_both_masks_2px": 648,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05A_case15_01",
+      "field_a": "M1_sampled_flex_other_digits",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 4536,
+      "overlap_after_eroding_both_masks_2px": 3270,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05A_case15_01",
+      "field_a": "M1_sampled_extend_other_digits",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 6936,
+      "overlap_after_eroding_both_masks_2px": 4897,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05A_case15_01",
+      "field_a": "M1_sampled_extend_D1_D2",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 2314,
+      "overlap_after_eroding_both_masks_2px": 1820,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05A_case15_01",
+      "field_a": "M1_sampled_mixed_D1_D2",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 1059,
+      "overlap_after_eroding_both_masks_2px": 752,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05B_case15_03",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_opposition_D1",
+      "overlap_pixels": 4778,
+      "overlap_after_eroding_both_masks_2px": 2975,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05B_case15_03",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_flex_D1_D2",
+      "overlap_pixels": 4126,
+      "overlap_after_eroding_both_masks_2px": 2411,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05B_case15_03",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_flex_all_digits",
+      "overlap_pixels": 3509,
+      "overlap_after_eroding_both_masks_2px": 2519,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05B_case15_03",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_flex_other_digits",
+      "overlap_pixels": 3284,
+      "overlap_after_eroding_both_masks_2px": 2347,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05B_case15_03",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_extend_other_digits",
+      "overlap_pixels": 1969,
+      "overlap_after_eroding_both_masks_2px": 1340,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05B_case15_03",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_mixed_D1_D2",
+      "overlap_pixels": 713,
+      "overlap_after_eroding_both_masks_2px": 484,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05B_case15_03",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_flex_all_toes",
+      "overlap_pixels": 15895,
+      "overlap_after_eroding_both_masks_2px": 13196,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05B_case15_03",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_flex_other_toes",
+      "overlap_pixels": 5295,
+      "overlap_after_eroding_both_masks_2px": 3942,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05B_case15_03",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_flex_T1_T2",
+      "overlap_pixels": 993,
+      "overlap_after_eroding_both_masks_2px": 723,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05B_case15_03",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_extend_toes",
+      "overlap_pixels": 1483,
+      "overlap_after_eroding_both_masks_2px": 1136,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05B_case15_03",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 18653,
+      "overlap_after_eroding_both_masks_2px": 13572,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05B_case15_03",
+      "field_a": "M1_sampled_opposition_D1",
+      "field_b": "M1_sampled_flex_D1_D2",
+      "overlap_pixels": 2,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig05B_case15_03",
+      "field_a": "M1_sampled_opposition_D1",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 4778,
+      "overlap_after_eroding_both_masks_2px": 2975,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05B_case15_03",
+      "field_a": "M1_sampled_flex_D1_D2",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 4123,
+      "overlap_after_eroding_both_masks_2px": 2410,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05B_case15_03",
+      "field_a": "M1_sampled_flex_all_digits",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 3509,
+      "overlap_after_eroding_both_masks_2px": 2519,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05B_case15_03",
+      "field_a": "M1_sampled_flex_other_digits",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 3262,
+      "overlap_after_eroding_both_masks_2px": 2326,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05B_case15_03",
+      "field_a": "M1_sampled_extend_other_digits",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 1964,
+      "overlap_after_eroding_both_masks_2px": 1335,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05B_case15_03",
+      "field_a": "M1_sampled_mixed_D1_D2",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 708,
+      "overlap_after_eroding_both_masks_2px": 480,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05C_case15_04",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_opposition_D1",
+      "overlap_pixels": 2636,
+      "overlap_after_eroding_both_masks_2px": 2163,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05C_case15_04",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_flex_D1_D2",
+      "overlap_pixels": 1474,
+      "overlap_after_eroding_both_masks_2px": 1105,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05C_case15_04",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_flex_all_digits",
+      "overlap_pixels": 2822,
+      "overlap_after_eroding_both_masks_2px": 2187,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05C_case15_04",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_flex_other_digits",
+      "overlap_pixels": 2545,
+      "overlap_after_eroding_both_masks_2px": 2068,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05C_case15_04",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_extend_other_digits",
+      "overlap_pixels": 1499,
+      "overlap_after_eroding_both_masks_2px": 1162,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05C_case15_04",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_extend_D1_D2",
+      "overlap_pixels": 4259,
+      "overlap_after_eroding_both_masks_2px": 3269,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05C_case15_04",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_mixed_D1_D2",
+      "overlap_pixels": 1715,
+      "overlap_after_eroding_both_masks_2px": 1238,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05C_case15_04",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_flex_all_toes",
+      "overlap_pixels": 4461,
+      "overlap_after_eroding_both_masks_2px": 3467,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05C_case15_04",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_flex_other_toes",
+      "overlap_pixels": 4492,
+      "overlap_after_eroding_both_masks_2px": 3189,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05C_case15_04",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_flex_T1_T2",
+      "overlap_pixels": 2020,
+      "overlap_after_eroding_both_masks_2px": 1601,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05C_case15_04",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_extend_toes",
+      "overlap_pixels": 5483,
+      "overlap_after_eroding_both_masks_2px": 4181,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05C_case15_04",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 17042,
+      "overlap_after_eroding_both_masks_2px": 13427,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05C_case15_04",
+      "field_a": "M1_sampled_opposition_D1",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 2630,
+      "overlap_after_eroding_both_masks_2px": 2157,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05C_case15_04",
+      "field_a": "M1_sampled_flex_D1_D2",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 1474,
+      "overlap_after_eroding_both_masks_2px": 1105,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05C_case15_04",
+      "field_a": "M1_sampled_flex_all_digits",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 2818,
+      "overlap_after_eroding_both_masks_2px": 2183,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05C_case15_04",
+      "field_a": "M1_sampled_flex_other_digits",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 2545,
+      "overlap_after_eroding_both_masks_2px": 2068,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05C_case15_04",
+      "field_a": "M1_sampled_extend_other_digits",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 1498,
+      "overlap_after_eroding_both_masks_2px": 1161,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05C_case15_04",
+      "field_a": "M1_sampled_extend_D1_D2",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 4260,
+      "overlap_after_eroding_both_masks_2px": 3269,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05C_case15_04",
+      "field_a": "M1_sampled_mixed_D1_D2",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 1704,
+      "overlap_after_eroding_both_masks_2px": 1228,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05D_case15_02",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_opposition_D1",
+      "overlap_pixels": 2115,
+      "overlap_after_eroding_both_masks_2px": 1691,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05D_case15_02",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_flex_all_digits",
+      "overlap_pixels": 3694,
+      "overlap_after_eroding_both_masks_2px": 2857,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05D_case15_02",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_flex_other_digits",
+      "overlap_pixels": 13873,
+      "overlap_after_eroding_both_masks_2px": 10879,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05D_case15_02",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_extend_other_digits",
+      "overlap_pixels": 12735,
+      "overlap_after_eroding_both_masks_2px": 9964,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05D_case15_02",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_extend_D1_D2",
+      "overlap_pixels": 2970,
+      "overlap_after_eroding_both_masks_2px": 2219,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05D_case15_02",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_flex_all_toes",
+      "overlap_pixels": 1478,
+      "overlap_after_eroding_both_masks_2px": 1127,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05D_case15_02",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_flex_other_toes",
+      "overlap_pixels": 960,
+      "overlap_after_eroding_both_masks_2px": 662,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05D_case15_02",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_flex_T1_T2",
+      "overlap_pixels": 1850,
+      "overlap_after_eroding_both_masks_2px": 1471,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05D_case15_02",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_extend_toes",
+      "overlap_pixels": 3083,
+      "overlap_after_eroding_both_masks_2px": 2539,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05D_case15_02",
+      "field_a": "M1_sampled_digit_and_toe_response_territory",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 35572,
+      "overlap_after_eroding_both_masks_2px": 28218,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05D_case15_02",
+      "field_a": "M1_sampled_opposition_D1",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 2115,
+      "overlap_after_eroding_both_masks_2px": 1691,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05D_case15_02",
+      "field_a": "M1_sampled_flex_all_digits",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 3694,
+      "overlap_after_eroding_both_masks_2px": 2857,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05D_case15_02",
+      "field_a": "M1_sampled_flex_other_digits",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 13816,
+      "overlap_after_eroding_both_masks_2px": 10836,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05D_case15_02",
+      "field_a": "M1_sampled_extend_other_digits",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 12703,
+      "overlap_after_eroding_both_masks_2px": 9933,
+      "interpretation": "declared non-additive parent/subregion"
+    },
+    {
+      "map_id": "fig05D_case15_02",
+      "field_a": "M1_sampled_extend_D1_D2",
+      "field_b": "M1_sampled_digit_response_territory",
+      "overlap_pixels": 2970,
+      "overlap_after_eroding_both_masks_2px": 2219,
+      "interpretation": "declared non-additive parent/subregion"
+    }
+  ],
+  "new_tracings_source_visually_inspected": true,
+  "anatomical_certification": false
+}

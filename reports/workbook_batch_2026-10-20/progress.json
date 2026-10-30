@@ -1,0 +1,12 @@
+{
+  "numbered_figures": 91,
+  "views": 57,
+  "field_components": 539,
+  "calibrated_field_components": 374,
+  "pixel_only_field_components": 165,
+  "unresolved_anatomical_boundaries": 35,
+  "papers": 10,
+  "saved_output_verification": "passed for all ten datasets",
+  "anatomical_certification": false,
+  "whole_neocortex_denominator_available": false
+}

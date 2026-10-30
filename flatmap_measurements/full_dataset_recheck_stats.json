@@ -3,11 +3,13 @@
   "papers": 21,
   "numbered_figures": 370,
   "previous_contours": 882,
-  "current_contours": 1076,
+  "current_contours": 1088,
   "withdrawn_observations": 12,
-  "added_observations": 206,
+  "added_observations": 218,
   "added_case_view_observations": 79,
-  "added_illustrative_observations": 127,
-  "refined_existing_contours": 269,
-  "anatomical_certification": false
+  "added_illustrative_observations": 139,
+  "refined_existing_contours": 293,
+  "anatomical_certification": false,
+  "last_revision": "2026-10-20",
+  "latest_revision": "Felleman_VanEssen_1991 fig02: 12 added atlas fields; 50 existing contours revised against color reference."
 }
