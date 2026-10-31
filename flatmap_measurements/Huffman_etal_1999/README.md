@@ -32,3 +32,12 @@ python scripts/measure_flatmaps.py --verify
 `rebuild_all.py` regenerates measurements, native exports, overlap audits, summaries, review pages and final hashes in order; it accepts `--java` and `--ij-jar` for explicit runtime locations. No whole-neocortex denominator is established, so whole-neocortex percentages are unavailable. Absolute summaries use only complete field envelopes in main case views, excluding partial islands/fragments and repeats. All new digitizations are provisional pending anatomical review.
 
 Contours refined on 15 October 2026; prior outlines and area changes are archived in `documentation/`.
+
+<!-- project-tracing-review-2026-10-31 -->
+## Project-wide tracing review, 31 October 2026
+
+[View this dataset's quality review](../project_review_2026-10-31/index.html?paper=Huffman_etal_1999) · [Review methods and changes](../project_review_2026-10-31/README.md)
+
+View-level screening categories: A=10, B=11. A identifies the clearest source/fit examples; B retains caveats; C needs targeted review/retracing; D is unsuitable for the intended anatomical area inference; N has no saved trace. These are not individual-region certification or independent-specimen counts. See the linked report for each map's notes and proposed improvements.
+
+Atlases and guides: see the [project guide](../ReadMe.md). Use same-specimen panels to resolve obscured lines where correspondence is established; use other specimens and atlases for field identity, adjacency and sulcal plausibility only. They do not supply an observed border, justify copying a shape, or establish a missing physical scale.

@@ -1,0 +1,1141 @@
+
+===== PDF PAGE 1 =====
+Received:September 4, 2024.Revised:June 6, 2025.Accepted:June 9, 2025
+© The Author(s) 2025. Published by Oxford University Press.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (https://creativecommons.org/licenses/by/4.0/), which
+permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited.
+Cerebral Cortex, 2025,35, bhaf195
+https://doi.org/10.1093/cercor/bhaf195
+Advance access publication date 21 August 2025
+Original Article
+Movement representations in motor, somatosensory, 
+and posterior parietal cortex of the greater galago
+Andrew C. Halley 1, Iwona Stepniewska2, Qimeng Wa ng2, Jamie L. R eed3, Hui-Xin Qi 2, Jon H. K aas2, a n dLeah A. Krubitzer1,4, * 
+1 Center for Neuroscience, University of California Davis, Grey Hall, 1544 Ne wton Court, Davis, CA 95618, United States
+2 Psychological Sciences, Vanderbilt University, 111 21st Avenue South301 Wilson Hall, Nashville, TN 37240, United States
+3 Department of Radiology , Vanderbilt University, 1211 Medical Center Drive, Nashville, TN 37232, United States
+4 Department of Psychology , University of California Davis, 135 Young Hall, 1 Shields A ve, Davis, CA 95616, United States
+*Corresponding author: Leah A. Krubitzer, Krubitzer Laboratory , University of California, Davis, Center for Neuroscience 1544 Newton Court, Davis, CA 95618,
+United States. Email: lakrubitzer@ucdavis.edu 
+Previous studies suggest that anterior parietal cortical areas including S1 (3b) play a central role in motor control that is distinct from 
+traditionally defined motor areas of the neocortex (eg M1). The role of anterior parietal areas in generating movement has never been 
+described in any prosimian primate, a lineage thought to ref lect the last common ancestor of all living primates. This study describes 
+movements elicited from long-train intracortical microstimulation in the greater galago (Otolemur garnettii) in area 3b and adjacent 
+frontal and parietal cortical fields. We found that the representation of forelimb digits was exceptionall y small relative to other primate
+species, while tongue representations were enlarged—possibly an adaptation for frugivory. We discuss these findings in relation to
+primate behavioral variation, and highlight features of movement representations in 3b and M1 that are common to all mammals
+studied using similar methods.
+Keywords: evolution; primate; prosimian; sensorimotor; s timulation.
+Introduction 
+Motor control in mammals involves a wide range of cortical areas. 
+While traditionally defined motor areas in the frontal neocortex 
+(eg M1, PM, SMA, etc.) play a central role in motor control of the 
+limbs and body , recent work has shown that parietal regions of 
+the neocortex involved in integrative and sensory functions are 
+also important for motor control. For example, posterior parietal
+cortex has long been known to play a role in the integration
+of sensory inputs from the somatosensory and visual systems
+(
+Whitlock 2017), and in primates is involved in the generation of 
+coordinate systems (body , shoulder, eye) for reaching and grasping
+(see
+Goldring and Krubitzer 2017 for review). Recent work has 
+shown that PPC is also involved in the production of muscle 
+coactivations that produce movement types that a re unique to
+different species, such as manual dexterity in monkeys ( Baldwin 
+et al. 2018) or wing orientation during f light in bats ( Halley et al. 
+2022). 
+Similarly , anterior parietal areas including the primary 
+somatosensory cortex (S1/3b) and areas 1 and 2 were long thought 
+to have a restricted role in processing tactile and proprioceptive 
+inputs from the skin, muscle and joints. However, recent evidence 
+suggests that these cortical areas also play a role in motor control. 
+For example, several studies have sho wn that anterior parietal
+areas are central to generating a number of movement types
+observed within a given species, including S1 in mice (
+Matyas 
+et al. 2010), rats ( Halley et al. 2020), and fruit bats ( Halley et al. 
+2022), and areas 1 and 2 in macaques ( Baldwin et al. 2018) a n d 
+capuchin monkeys (Mayer et al. 2019). Importantly , these studies 
+have shown that stimulation of these areas can evoke movements 
+that are distinct from (and complementary to) those elicited 
+from M1. In mice and rats, stimulation of S1 (3b) evokes whisker 
+re traction and forelimb retraction, while stimulation of M1 evokes
+whisker protraction and forelimb extension (mice:
+Matyas et al. 
+2010; Morandell and Huber 2017; r a t s :Brown and Teskey 2014; 
+Halley et al. 2020). In fruit bats, stimulation of M1 evokes full 
+extensions of the tongue, while stimulation of 3b evokes tongue 
+r etraction or small twitches along the dorsal surface of the
+tongue (
+Halley et al. 2022). Further, experiments have shown that 
+inactivation of M1 had a minimal effect on the movements evoked 
+by stimulating area 1 in macaques (
+Bresee et al. 2024), suggesting 
+parallel pathways for motor control in M1 and regions of anterior
+parietal cortex.
+T aken together, these studies suggest that across mammals, 
+traditionally defined somatosensory areas (3b, 1 and 2) play a 
+role in motor control. Additionally , evidence in some species (rats, 
+mice and fruit bats) indicates that M1 generates suites of muscle 
+coactivations that extend limbs away from the body , while area
+3b generates suites of muscle coactivations that retract body parts
+toward the central body axis (
+Matyas et al. 2010; Halley et al. 2020; 
+Halley et al. 2022). This distribution of movement types suggests 
+that distinct roles for 3b and M1 in motor control may be a shared 
+feature of the mammalian neocortex, a hypothesis that can only
+be tested by mapping both fields in additional species.
+In the current study we explore the role of anterior parietal 
+areas involved in motor control in the prosimian galago. Galagos 
+are thought to ref lect the ancestral form of primates, which 
+were small and nocturnal, subsisted on fruit and insects within
+an arboreal niche, and in the visual system had a large binoc-
+ular overlap (
+Charles-Dominique and Martin 1970; Silcox et al. 
+2009; Steiper and Seiffert 2012). This supposition is supported 
+by comparative studies of cortical organization in primates and
+Downloaded from https://academic.oup.com/cercor/article/35/8/bhaf195/8239114 by Kroneson SL user on 17 June 2026
+
+
+===== PDF PAGE 2 =====
+2 | Halley et al.
+non-primate mammals that indicate that galagos share some 
+features of cortical organization with the closest living relative to 
+primates (tree shrews), but also have distinct features of cortical
+organization that are common to primates ( Kaas et al. 2018; Kaas 
+2019). Thus, prosimians such as galagos are uniquely positioned 
+for understanding the brain organization of early primates. Previ-
+ous studies using short-train (ST -) intracortical microstimulation 
+(ICMS) have found a fractured but broadly topographic represen-
+tation of the body in frontal motor fields (e.g. M1, PM) in both
+the Brown greater galago,Otolemur crassicaudatus(
+Fogassi et al. 
+1994) and the species described here, the Northern gr eater galago,
+Otolemur garnettii( Wu et al. 2000; Stepniewska et al. 2018 ). More 
+recently , studies have applied stimulation over longer durations 
+(LT -ICMS) and have shown that distinct cortical areas produce 
+different complex movements that involve multiple body parts 
+and joints—suites of movement such as reaching, grasping, hand-
+to-mouth, forelimb defense and avoidance—both in frontal motor
+fields (
+Stepniewska et al. 2020) and in posterior parietal areas
+(Stepniewska et al. 2005, 2009, 2014; 2020; Cooke et al. 2015). 
+However, previous studies have not examined the role that area 
+3b plays in motor control inOtolemur garnettiior any other species
+of prosimian.
+The current study utilizes long-train intracortical microstimu-
+lation (LT -ICMS) in the Northern greater galago to better under-
+stand how the primate neocortex generates the variety of motor 
+abilities we observe in natural behavior. Our goal was to examine 
+the types of movements that can be elicited in area 3b, how 
+these evoked mov ements differ from those elicited in M1, and
+whether prosimians share features of movement representations
+found in anthropoid primates, e.g. magnified representations of
+forelimb digits (
+Baldwin et al. 2018). Finally , while no living species 
+can represent an ancestral form, prosimian primates like galagos 
+offer a window into the early evolution of the primate branch of 
+mammals, uncovering how the neocortex of our earliest primate 
+ancestors was organized, and the defining features of cortical 
+areas involved in motor control. Equally important, these species 
+can serve as a bridge to understanding how our brains differ from 
+closely related lineages such as rodents—especially mice and rats,
+two species that serve as the primary animal models used in
+neurobiology . This study is part of a larger comparative effort in
+our laboratory using identical stimulation methods to describe
+how motor organization has evolved in diverse mammals, includ-
+ing primates (
+Baldwin et al. 2018; Mayer et al. 2019), tree shre ws
+(Baldwin et al. 2017a ), rats ( Halley et al. 2020), and bats ( Halley 
+et al. 2022). 
+Materials and methods
+Intracortical microstimulation (ICMS) was used to characterize 
+movements elicited from frontal and parietal cortex in four male 
+adult Northern greater galagos (O. garnettii). All animals were 
+3.5–6 years old with an average weight of 1273 g. Experimental
+procedures were approved by Vanderbilt University IACUC and
+conform to NIH guidelines.
+Surgical pr ocedures
+Anesthesia was induced with an intramuscular injection of 
+ketamine (10–30 mg/kg) and subsequent surgical procedures 
+were carried out under isof lurane anesthesia (2.5%). At the 
+time of induction, intramuscular injections of buprenorphine 
+(0.005 mg/kg), ceftiofur sodium (50 mg/ml; 2.2 mg/kg), gly-
+copyrrolate (0.015 mg/kg), and dexamethasone (1.0 mg/kg) 
+were also given. Following surgery , animals were maintained 
+under anesthesia using intravenous administration of ketamine 
+(10–20 mg/kg/hr) and intramuscular injections of xylazine 
+(0.5–2 mg/kg every 2–4 hours). In three cases, diazepam was 
+administered intravenously to prevent seizures (0.5–1.0 mg/kg) in 
+consultation with a veterinarian. We administered a continuous
+infusion of lactated Ringer’s solution with 2.5%–5.0% dextrose
+throughout (1–3 mL/kg/hour; IV). A steady level of anesthesia
+was maintained by monitoring heart rate, respiratory rate, body
+temperature, oxygenation levels, muscle tone, and both eye-blink
+and pinch responses.
+Following anesthetic induction, animals were intubated, can-
+nulated, and catheterized. Lidocaine (2%) was injected subcu-
+taneously behind the ears and along the midline of the scalp, 
+and topical lidocaine ointment was applied to the ear canals. T o 
+prevent drying, ophthalmic ointment was applied to the eyes. The 
+skin and temporal muscles were retracted bilaterally to expose 
+the skull. In the right hemisphere, small screws were inserted 
+into the skull and attached to a stereotaxic frame using dental 
+acrylic. In the left hemisphere, a craniotomy was performed to 
+expose a large region of frontal and parietal cortex, after which the 
+dura was retracted and silicone f luid was applied to prevent des-
+iccation. Digital images were taken of the exposed cortex so that
+stimulation sites could be directly related to cortical vasculature.
+Following surgery , animals were transferred to a cloth hammock
+that allowed free movement of the hindlimbs, trunk, forelimbs,
+and face (see
+Fig. 1A). 
+ICMS mapping 
+A Master 8 stimulator (AMPI) was used to apply 500 ms long trains 
+of 0.4 ms biphasic pulses, delivered at 300 Hz, to the neocortex 
+via a low-impedance tungsten microelectrode (1.0 M-Ohm). Using
+a micromanipulator, the electrode was lowered to a depth of
+1800
+μ m at sites perpendicular to the cortical surface, and a depth
+of 1900–2200 μ m at a small number of sites that were oblique to 
+the cortical surface. Each electrode site was recorded relative to 
+vascular patterns on a high-resolution photograph of the cortical
+surface (
+Fig. 1D). 
+Elicited movements were confirmed by two observers and 
+recorded in a surgical log, and video recorded (GoPro Hero 7; 
+resolution 1920 × 1440) relative to a scale bar for off line frame 
+analysis. Lens distortion was removed using Adobe Premier Pro 
+prior to frame analysis. Each stimulation train was synchronized 
+to both a speaker (audible to observers) and an LED placed within 
+the recording frame. Movement thresholds were measured b y
+taking the average between (i) the lowest current at which a
+movement was observed, and (ii) the next-lowest current at
+which that movement was not observed. The interval between
+these measurements was 10
+μ A for thresholds below 150 μ A, and 
+50 μ A for thresholds above 150 μ A. Figure 2 shows a boxplot of 
+thresholds observed in each cortical field across all four cases.
+Movement maps (Figs. 3 and 4) show suprathreshold movements, 
+as in previous studies from our laboratory (e.g. Halley et al. 2022, 
+2020; Cooke et al. 2012 ; Baldwin et al. 2017a , 2018). At each 
+site, we noted which body part movements were evoked during 
+stimulation (e.g. elbow , wrist, digits) and the type of movement
+evoked (e.g. retraction, extension, pronation).
+Histological pr ocessing
+At the end of each experiment, animals were euthanized 
+with an intravenous injection of pentobarbital sodium and 
+phenytoin sodium (Euthasol, >120 mg/kg, IV), then perfused 
+transcardially with phosphate buffered saline (0.9%) followed
+by 2% paraformaldehyde, and finally 2% paraformaldehyde
+Downloaded from https://academic.oup.com/cercor/article/35/8/bhaf195/8239114 by Kroneson SL user on 17 June 2026
+
+
+===== PDF PAGE 3 =====
+Cerebral Cortex, 2025, Vol. 35, Issue 8 | 3
+Fig. 1. Methods for motor mapping and reconstruction of electrode sites 
+relative to cortical field boundaries. (A) A hammock was used to allow 
+unrestricted movement of the limbs during stimulation, (B) the whole 
+brain was extracted, and (C) the experimental cortical hemisphere was 
+f lattened. (D) Stimulation sites (black circles) were noted on a photograph 
+of the brain surface. (E) Electrode penetrations (white arrows) were iden-
+tified relative to vasculature on sections of the cortical surface stained 
+for cytochrome oxidase. (F) Functional data was then directly related t o
+cortical field boundaries on deeper sections stained for myelin (shown)
+and CO.
+with 10% sucrose. Immediately following extraction ( Fig. 1B), 
+the experimental hemisphere was separated from the thalamus 
+and brainstem, and the cortex was manually f lattened ( Fig. 1C). 
+Flattened hemispheres were post-fixed in 4% paraformaldehyde 
+for 2–7 hours, and then placed in 30% sucrose phosphate buffered 
+Fig. 2. Boxplot of LT -ICMS stimulation thresholds across all four exper-
+iments, according to cortical field. Each data point indicates a single 
+stimulation site in an individual case. “M” includes primary motor cortex, 
+as well as premotor regions. “PC” includes areas 1, 2, and PPC (see text).
+See
+methods for details . 
+solution for 48–96 hours for cryoprotection prior to sectioning on
+a freezing microtome.
+Each f lattened hemisphere was cut tangential to the cortical 
+surface at a thickness of 50–60 μm. The first two to four sections 
+were stained for cytochrome oxidase (CO) which revealed the
+vascular patterns of the exposed cortex ( Fig. 1D ,E); subsequent 
+sections were stained for CO and myelin in an alternating series
+to reveal cortical field boundaries ( Fig. 1F) as described by Wong 
+and Kaas (2010). Abbreviations of cortical fields, brain areas, a nd
+sulci are listed in T able 1. High-resolution scans of stained tissue 
+were taken using a Nikon Multiphot (T okyo, Japan) with a Phase 
+One Powerphase FX1 scan back (Global Manufacturing, Louisville, 
+CO) at the Center for Neuroscience at UC Davis. Scanned
+photos were adjusted for brightness and contrast using Adobe
+Photoshop.
+Aligning functional data with cortical boundaries
+from histology
+Electrode sites were identified relative to cortical field bound-
+aries on stained sections by comparing the vasculature seen
+in photographs of the cortical surface (
+Fig. 1D) with superficial 
+sections of the f lattened cortex stained for CO ( Fig. 1E). Corti-
+cal field boundaries were determined from deeper sections of 
+f lattened cortex, regi stered to the surface section. Movement
+maps ( Figs. 3 and 4) were constructed from this combination of 
+functional and histological data. Map figures were generated in 
+Adobe Illustrator; the polygons that surro und each electrode site
+were generated using a Voronoi tessellation script ( https://github. 
+com/ff6347/Illustrator-Javascript-Voronoi). Polygons filled with a 
+single color indicate sites that produced a single body movement, 
+while polygons that are tiled with multiple colors indicate sites
+that produced multiple body part movements, corresponding to
+the colors in the polygon.
+Averaging functional da ta
+In order to produce an average organization of the movement 
+types elicited from stimulation across the four individual cases,
+Downloaded from https://academic.oup.com/cercor/article/35/8/bhaf195/8239114 by Kroneson SL user on 17 June 2026
+
+
+===== PDF PAGE 4 =====
+4 | Halley et al.
+Fig. 3. Movement maps in cases (A) K22–06 and (B) K22–05. Using long-train (LT -) ICMS, movements were elicited from premotor, motor, somatosensory , 
+and posterior parietal areas of the neocortex. While movement maps were fractured, there was a gross somatotopic organization of movements in 
+each case—moving from medial to lateral areas of the neocortex, movements were elicited from the hindlimb, the forelimb, and the face. Black dots 
+indicate electrode sites, and surrounding polygons are colored to indicate movements elicited from stimulation of that site. Note that at many sites 
+where movements were evoked, multiple body parts were involved in the movement (striped polygons). Polygons that include multiple colors indicate
+sites for which multiple body movements were elicited at maximum stimulation (300
+μ A). X’s indicate electrode sites at which no movements were 
+elicited. Solid lines indicate the borders of cortical fields, determined from histological sections stained for myelin and cytochrome oxidase. Dotted lines 
+indicate borders that were unclear from myeloar chitecture, and were estimated from previous studies. Simplified versions of t hese maps are provided
+in
+Fig. S3. 
+Downloaded from https://academic.oup.com/cercor/article/35/8/bhaf195/8239114 by Kroneson SL user on 17 June 2026
+
+
+===== PDF PAGE 5 =====
+Cerebral Cortex, 2025, Vol. 35, Issue 8 | 5
+Fig. 4.Movement maps in cases K22–04 and K22–03. The overall topographic organization was similar to that observed in the previous two cases. However, 
+there are some notable differences. First, there is a relatively large region of cortex in which the lips (A) or tongue (B) are represented individually rather 
+than in conjunction with other face movements. Second, there is a relatively large area in which e yeblinks could be evoked. Also of note was that in one 
+case (A), fewer sites evoked movements in S1. Conventions follow those of
+Fig. 3. Simplified versions of these maps are provided in Fig. S2. 
+Downloaded from https://academic.oup.com/cercor/article/35/8/bhaf195/8239114 by Kroneson SL user on 17 June 2026
+
+
+===== PDF PAGE 6 =====
+6 | Halley et al.
+Table 1. Abbreviations of cortical fields, brain areas, and major sulci.
+1/2 Areas 1 and 2 IPS intraparietal sulcus OB Olfactory bulb 
+3a Area 3a LS Lateral sulcus PPC Posterior parietal cortex 
+3b Area 3b (S1) M1 Primary motor cortex Pyr Pyriform c ortex 
+A1 Primary auditory cortex MT Middle temporal area V1 Primary visual cortex 
+FS Frontal sulcus PM Premotor cortex 
+functional datasets were aligned using a combination of cortical 
+field boundaries (e.g. rostral border of area 3b) and morphological 
+landmarks (e.g. the frontal sulcus). Following this alignment, 
+average cortical field boundaries and major sulci were gener-
+ated by averaging vectors of their location in Adobe Illustrator. 
+Functional data was averaged across cases by overlapping the 
+polygons corresponding to movements of a given body region 
+(e.g. shoulder, tongue), or a given directional movement of that 
+body part (e.g. tongue extension vs. retraction). This generates 
+average polygon regions for each given movement across the 
+cases, where darker color shades indicate regions in which a 
+gi ven movement was observed in a larger number of cases. In
+each averaged map, the shade of a given color corresponds to the
+number of overlapping cases, shown in a key (e.g. “2/4” indicates
+that in two of the four cases, movements were elicited at that
+location). This method has been described in detail previously
+(
+Halley et al. 2020). Average maps of the face and head are shown
+in Fig. 5, and maps of the forelimb and hindlimb are shown
+in Fig. 6. 
+Data anal ysis
+The minimal current at which movements could be elicited (i.e. 
+thresholds) were recorded at each stim ulation site. For each case
+and for the total dataset, T able 2 describes summary statistics 
+of the total number of stimulation sites, number of sites at 
+which movements could be e licited, sites with threshold data,
+and average thresholds.
+Figure S3 shows the averaged thresholds 
+across all cases relative to averaged cortical fields. The surface 
+area of tongue, shoulder, and forelimb digit representations were 
+measured (mm
+2) in Adobe Photoshop using the scale of individual 
+cases and measuring the size of polygons including those move-
+ments. These individual body part representations are compared
+against the surface area of the entire excitable cortex in each case,
+and are presented as percentages (
+T able 3). 
+Results 
+Movements of the hindlimb, trunk, forelimb, and face were 
+elicited from 541 total sites across four cases in cortical areas
+M1, PM, 3a, 3b, 1/2, and PPC ( Figs. 3 and 4; T able 2). We found the 
+lowest stimulation thresholds were observed in PM/M1 as well 
+as area 3a, while the highest thresholds were observed in areas
+1/2/PPC (
+Fig. 2; T able 2). 
+A range of distinct movements were evoked for multiple body 
+regions following stimulation of these cortical areas. In the fol-
+lowing results we first brief ly describe the myeloarchitecture of 
+cortical fields in which movements were evoked. We then describe 
+the ove rall organization of movement maps from the four cases
+we examined, which are illustrated in
+Figs. 3 and 4. Finally we 
+describe an “average” or composite map generated by combining 
+the four cases anatomically (by body part) and by movement type 
+(e.g. extension vs. retraction) and illustrated movement examples
+for these maps (
+Figs. 5 and 6). 
+Cortical arc hitecture
+The architectonic appearance of motor and somatosensory cortex 
+in galagos has been described previously utilizing differe nt his-
+tological markers in different planes of section (
+Wong and Kaas 
+2010). Here we brief ly describe cortical areas from which move-
+ments can be evoked in cortex that has been f lattened and cut 
+parallel to the cortical surface and then stained for myelin. When 
+def ining architectonic boundaries, the entire series of sections is
+used, as individual sections may not show all of the boundaries
+(
+Fig. 1F). The compilation of individual sections and their bound-
+aries revealed a number of distinct cortical fields. First, area 3b 
+is distinguished as a very densely staining cortical field which 
+is irregularly shaped, and in some locations separated by lightly 
+myelinated strips of cortex. Area 3a appears as a moderately 
+myelinated strip of cortex at the rostral boundary of area 3b. Area 
+1/2 is a moderately myelinated strip at the 3b caudal boundary . 
+M1, located just ro stral to area 3a, is lightly myelinated and in
+most cases, the full boundary of M1 was obtained across multiple
+sections. PPC is lightly to moderately myelinated, allowing us to
+readily draw its boundary with area 1/2 in some cases (
+Fig. 3A, 4B). 
+We were unable to distinguish the caudal boundary of PPC accu-
+rately from o ur preparations.
+As noted above, our methods allowed us to align our architec-
+tonic data directly with our intracortical microstimulation maps 
+so that individual stimulation sites could be accurately assigned 
+to a given cortical field. When area borders wer e difficult to
+distinguish, dashed lines were used to mark boundaries based on
+other cases in this study , as well as previous studies (e.g.
+Wong 
+and Kaas 2010). 
+Movement map organization in areas M1, 3a, 3b,
+and PPC
+In each of the four cases we were able to evoke movements in 
+a large swath of cortex (∼15–22 mm of cortex along the rostro-
+caudal axis, and 9–12 mm of cortex along the mediolateral axis). 
+A range of distinct movements were evoked for multiple body 
+parts following stimulation of M1/PM (185/541 sites), 3a (71/541 
+sites), 3b (220/541 sites) and area 1/2 and PPC (65/541 sites). 
+Unlike sensory maps, movement maps were not tightly orga-
+nized topographically , but rather we observed fractured maps in 
+which indi vidual stimulation sites evoked movements of multiple
+body parts. Thus, although a gross topography can be identified
+across cases in which the foot and hindlimb are represented
+most medially followed by the representations of the forelimb
+and face laterally (
+Fig. 5A), there was a good deal of variability 
+between cases. Further, while different cortical fields could gen-
+erally be distinguished architectonically , determining their func-
+tional boundaries was often difficult for two reasons. First, low 
+thresholds were found not only in primary motor cortex (M1), but
+also adjacent fields 3a and 3b, and threshold level varied within
+each of these fields (
+T able 2; Fig. S5 ). Second, individual fields 
+did not contain a complete representation of movement types,
+Downloaded from https://academic.oup.com/cercor/article/35/8/bhaf195/8239114 by Kroneson SL user on 17 June 2026
+
+
+===== PDF PAGE 7 =====
+Cerebral Cortex, 2025, Vol. 35, Issue 8 | 7
+Fig. 5. Overlap in the movement representations across four cases relative to averaged cortical field boundaries and sulci (seeMethods). (A) A summary 
+of movements observed from four major body parts across all cases, showing a rough somatotopic organization across cortical fields, with hindlimb 
+movements represented medially and face/mouth movements represented laterally . (B–I) Movements of the tongue, lips, ear, jaw , eye, and eyelid. 
+(B) Stimulation sites that evoked tongue retractions are concentrated in medial and caudal portions of the tongue representation, and found mainly 
+in 3b and 3a. Sites that evoked tongue extensions are located rostrolaterally and are concentrated in 3b, 3a, M1, and PMV . (C) The location of tongue 
+movements of all types. The outline indicates all head/face movements. (D) An example of tongue extension and lateral movement, with the apex of 
+movement shown in red. (E) Lip movements were evoked across a wide portion of the face representation (see details in
+fig. S5B). (F) Ear movements 
+were evoked in medial portions of the face representation in 3b. (G) Jaw movements were evoked in a rostr al area (3a, M1) as well as an area of caudal
+3b and 1/2 (see details in fig. S5A). (H) Eye movements were elicited from the frontal eye field. (I) Eyelid movements were elicited from a region of 3a 
+adjacent to the FEF , as well as a caudal region of 3b and adjacent are a 1/2. Scale bars = 3 mm in (E–I).
+but rather some movement types were restricted to a particular
+cortical field.
+There were several noteworthy observations from our study 
+which will be described in detail below . One of the most inter-
+esting results was our ability to evoke movements in area 3b 
+and area 1/2, which has not been reported in previous stud-
+ies of galagos. Other important results included the magnifica-
+tion of particular body part representations such as the tongue 
+and shoulder, the coactivation of body parts involved in what 
+appeared to be ethologically relevant movements, bilateral acti-
+vation of some body parts, and a conspicuous lack of sites in 
+which stimulation evoked movements of digits alone. In addi-
+tion, movement types for some body parts were not repr esented
+continuously across all the fields examined but were in distinct
+locations in some, but not in all of the cortical fields. Finally ,
+while we did encounter stimulation from which movement could
+be evoked from a single joint, most stimulation sites evoked
+movements from several body parts that act synergistically , sim-
+ilar to previous studies in galagos (e.g.
+Stepniewska et al. 2005, 
+2009). 
+Face and mouth mo vements
+Movements of the face and mouth were elicited from stimulation 
+of a continuous region that spans PM, M1, 3a, 3b, 1/2, and PPC, 
+representing the tongue, lips, ear, jaw , eye, and eyelid (
+Fig. 5). One 
+of the distinguishing features of the movement maps of the face 
+was the large magnification of tongue movements, which were 
+observed in areas M1/PM, 3a, 3b, and to a lesser extent area 1/2. 
+These movement representations comprised on average 29.5%
+(range 24.5% to 37.8%) of the sites from which movements could
+Downloaded from https://academic.oup.com/cercor/article/35/8/bhaf195/8239114 by Kroneson SL user on 17 June 2026
+
+
+===== PDF PAGE 8 =====
+8 | Halley et al.
+Fig. 6. Average limb movements across all cases, following conventions in Fig. 5. Most sites in which movements of the forelimb were evoked were 
+medial to the face representation (A, B) Elbow and digit movements were evoked mainly in areas 3a and M1. (C) Sites in which shoulder movements 
+were evoked were broadly distributed across all cortical fields examined and were the most common movement in the forelimb representation. 
+(D) T runk movements were evoked in rostral S1, 3a, and M1. (E–H) Sites which evoked movements of the toe, ankle, knee, and hip were concentrated in 
+areas 3a and M1. (I) Distribution of forelimb digit movement types t hat were evoked, with an example of digit f lexion coupled with shoulder f lexion in (J). 
+Distribution of stimulation sites that evoked different directions of (K) shoulder movements with an example of forward motion in (L). (M) Distribution
+of sites that evoked hip movement in different directions, with an example of forward extension in (N).
+be evoked. ( T able 3; Figs. 3, 4). T ongue extensions were evoked 
+from stimulation of sites in lateral portions of M1 and 3a, while 
+tongue retractions were evok ed from sites in more medial areas
+of sensorimotor cortex, including areas 3a and 3b ( Fig. 5B). Lateral 
+tongue movements and repetitive movements of the tongue were 
+elicited from PMD , M1, and 3b ( Fig. S5D). Upward and downward 
+tongue movements were distributed acr oss every cortical area
+(Fig. S5C). An example of tongue lateral tongue extension is shown 
+in Fig. 5D. 
+Lip movements were also elicited from a large portion of every 
+cortical field, and in two cases ( Fig. 3) almost always overlapped 
+with tongue regions ( Fig. 3A and B). While coactivation of the lips 
+and tongue were observed in the other two cases, there were also 
+large regions of cortex i n which stimulation evoked movements
+of the tongue and lips in isolation ( Fig. 4A and B). Sites in which 
+movements of the ear, jaw , and eyelid were elicited ( Fig. 5F ,G, I) 
+were not continuous across the five fields in which we could 
+evoke movements, but were concentrated in different cortical
+Downloaded from https://academic.oup.com/cercor/article/35/8/bhaf195/8239114 by Kroneson SL user on 17 June 2026
+
+
+===== PDF PAGE 9 =====
+Cerebral Cortex, 2025, Vol. 35, Issue 8 | 9
+Table 2. Summary of site numbers and average thresholds across cortical fields in four experiments. Site numbers include the total 
+number of electrode penetration sites, the number of sites at which movements could be elicited, and the number of sites at which 
+thresholds were measured. Movement threshold sites are then presented by cortical area location. Motor cortex includes both primary 
+motor cortex (M1) and premotor cortex (PM). Posterior cortex includes areas 1 and 2 and posterior parietal cortex (PPC). These r egions
+were grouped because boundaries were indistinct in f lattened preparations.
+All Cases K22–03 K22–04 K22–05 K22–06 
+Site # Th (μA) Site # Th (μA) Site # Th (μA) Site # Th (μA) Site # Th (μA) 
+To t a l S i t e s 633 n/a 113 n/a 175 n/a 176 n/a 169 n/a 
+Mvmt Sites 541 n/a 101 n/a 142 n/a 140 n/a 158 n/a 
+Thresh Sites 521 45.6 97 37.3 138 57.7 133 54.4 153 32.2 
+PM/M1 185 32.0 43 20.4 49 31.9 64 45.9 29 20.9 
+3a 71 20.3 14 10.4 23 31.7 15 25.0 19 8.8 
+3b 220 55.1 40 59.7 59 74.7 58 68.4 63 21.9 
+1/2/PPC 65 79.7 4 102.5 11 140.0 3 108.3 47 62.3 
+Table 3. The size of movement representations in absolute surface area (mm2) and as a percentage of all movements elicited (“All”) for 
+shoulder, digit, and tongue. Representations of the tongue are exceptionally large (29.5%), while representations of the digits ar e 
+exceptionally small (5.3%), especially relative to shoulder movements (35.0%). Sites were included if movements were observed up to 
+300μA, as in primary figures (see Methods). The averages in the “all cases” column a re the simple mean of percentages for the four
+cases.
+All Cases K22–03 K22–04 K22–05 K22–06 
+% mm2 % mm2 % mm2 % mm2 % 
+All n/a 81.6 n/a 117.5 n/a 128.6 n/a 187.8 n/a 
+Shoulder 35.0% 26.3 32.2% 47.2 40.1% 34.6 26.9% 76.5 40.8% 
+Digit 5.3% 7.6 9.3% 0.4 0.4% 6.0 4.7% 12.5 6.6% 
+T ongue 29.5% 30.9 37.8% 34.5 29.3 31.5 24.5% 49.3 26.3% 
+areas: ear movements were mostly evoked caudally in area 3b; 
+jaw movements were evoked at the M1/3a boundary and in area 
+1/2; eyelid movements (blinks) were evoked predominantly in 
+caudal area 3b and area 1/2, and to a lesser extent in area 3a. 
+As shown in the supplementary figures, ev oked jaw openings
+and closings were mostly non-overlapping and concentrated in
+different cortical fields. Detailed movement maps of the jaw and
+lip are shown in
+Fig. S5A, B. 
+Forelimb mov ements
+Forelimb movements were elicited from stimulation of every 
+cortical area investigated (
+Fig. 5A), and most of the forelimb 
+region was occupied by the repr esentation of the shoulder (35% of
+total movement sites; T able 3; Fig. 6C). Sites in which stimulation 
+evoked movements of the elbow and digits were relatively small 
+and were concentrated in areas 3a and M1 ( Figs. 4A, B). Unlike 
+New World and Old World monkeys in which similar methods 
+were used to explore cortical areas involved in motor control
+(Baldwin et al. 2018; Mayer et al. 2019), sites at which stimulation 
+evoked movements of the digits alone were relatively rare (Figs. 3 
+and 4). Representations of the digits made up a small pr oportion
+of total maps (5.3%; T able 3). In most cases, movements of the 
+digits were coupled with mov ements of the shoulder and elbow .
+We categorized shoulder movements into two major types, 
+extension and f lexion. Shoulder extensions—moving the entire 
+forelimb backward—were concentrated in rostral areas 3b, 3a, 
+and M1, while shoulder f lexions—moving the forelimb forward— 
+were concentrated in two regions: a rostrolateral portion of 3a
+and M1, as well as a caudal region in areas 1/2 and PPC ( Fig. 6K). 
+These patterns match those for complex forelimb movement 
+types, with shoulder f lexion vs. extension corr esponding to “raise”
+vs “retract” movements (
+Fig. S6A) respectively . Elbow movements 
+were elicited from stimulation of are a 3a and M1 in all cases
+(Fig. 6A), and from stimulation of rostral area 3b in one case (K22– 
+03). Movements of individual digits were primarily elicited from 
+stim ulation of M1, but were also observed in areas 3b, 3a, and 1/2
+(see Fig. 3; K22–06, K22–05), most often in combination with other 
+parts of the forelimb. These movements of digits were relatively 
+rare, and make up an average of only 5.3% of the excitable area 
+of cortex a cross the four cases. Forelimb digit representations are
+much larger in some species of Haplorrhines (see
+Discussion). 
+Hindlimb & trunk mo vements
+Hindlimb movements were primarily elicited from stimulation of 
+sites in areas M1, 3a, and the rostral portion of area 3b ( Fig. 5A). 
+In one case with extensive 3b representations (Fig. 3A), toe move-
+ments were elicited from most of medial area 3b. Movements of 
+the distal hindlimb (knee , ankle, toe) were concentrated in area 3a
+(
+Fig. 6E-G) and adjacent fields. Movements of the hip overlapped 
+with this area, but also extended rostrally into M1 ( Fig. 6H). Hip 
+f lexions were concentrated in M1 and 3a, while hip extensions 
+were largely observed in regions immediately rostrol ateral, in M1,
+and caudal, in 3b and 1/2 ( Fig. 6M). An example of hip extension, 
+combined with supination and toe extension, is shown in Fig. 6N. 
+Trunk movements were elicited primarily from sites in M1, 3a, 
+and the rostral portion of 3b ( Fig. 6D). Additional trunk move-
+ments were evoked in motor regions later al to the frontal sulcus
+(Fig. 3A; 4A; 4B) and caudal regions along the border of 3b, 1/2, and
+PPC (Fig. 3A; 3B; 4A). 
+Bilateral movements and forelimb/hindlimb
+synergies
+Bilateral movements of the forelimb were primarily elicited from 
+stimulation of areas M1, 3a, and rostral area 3b ( Fig. S3A ), as
+Downloaded from https://academic.oup.com/cercor/article/35/8/bhaf195/8239114 by Kroneson SL user on 17 June 2026
+
+
+===== PDF PAGE 10 =====
+10 | Halley et al.
+Fig. 7. Bilateral coactivation of the forelimb and hindlimb, elicited from 
+two different cases, and in different directions. (A) Stimulation of a site 
+in M1 in case K22–06 caused both limbs to retract toward the midline, 
+involving shoulder extension and hip f lexion. (B) Stimulation of a site 
+in S1 in case K22–04 caused both limbs to stretch outward, including 
+shoulder f lexion and hip extension. The full extensions observed in (B)
+closely resemble galago orientation while leaping between branches.
+well as caudal 3b in some cases ( Fig. S3A ). Bilateral hindlimb 
+movements were concentrated in the medial portions of M1 and
+3a (Fig. S3B). For both forelimb and hindlimb, bilateral movements 
+were elicited preferentially from more r ostral portions of each
+representation.
+Coordinated movement of both forelimb and hindlimb from a 
+single stimulation site was common, with two basic patterns of 
+coactivation. First, a general retraction of the limbs inw ard toward
+the midline of the body , involving shoulder and hip adduction (e.g.
+Fig. 7A, a site in medial M1 in case K22–06). Second, a general 
+forward reach at the shoulder (f lexing forward) and extension of
+the hip backward ( Fig. 7B, a site in medial area 3b in case K22– 
+04). These coactivations are similar to the locomotor pattern of
+clinging-and-leaping observed in natural galago behavior.
+In two cases, K22–04 ( Fig. 4A) and K22–05 ( Fig. 3B), we did not 
+evoke responses from stimulation of the medial portion of area 
+3b. Stimu lation of these same regions elicited movements in
+K22–06 (Fig. 3A) and to some extent in K22–03 ( Fig. 4B). Variation 
+in anesthetic levels across experiments are likely involved in 
+this variation, specifically the administration of k etamine and
+xylazine, adjusted according to real-time monitoring of vital signs
+(see
+Methods). We tried to mitigate the problem of anesthetic 
+variability across the experiment by randomizing site locations 
+(e.g. a site in PPC, followed by a site in M1), rather than testing
+adjacent cortical sites in sequence. Despite this, we found less
+consistent responses and higher stimulation thresholds (
+Fig. S3) 
+in medial 3b. Interestingly , we have observed the same effect 
+in studies using the identical tec hnique in rats (c.f. the lack of
+medial movement in
+Halley et al. 2020 : Fig. 5) and fruit bats 
+(e.g. movement and threshold variation in Fig. 1D, Fig. S2B from 
+Halley et al. 2022). Brief ly , medial portions of 3b—representing 
+the forelimb, torso, and hindlimb—have the highest stimulation 
+thresholds, are the first to disappear as anesthetic levels increase,
+and are sparse in cases K22–04 (
+Fig. 4A) and K22–05 ( Fig. 3B). In 
+contrast, stimulation of lateral portions of 3b—representing the 
+head and face—produced movement in ev ery case, and at lower
+thresholds than medial 3b.
+We suspect that a major source of differences in responsive-
+ness and threshold variation between medial and lateral 3b is that 
+the former rely on corticospinal tracts, while the latter rely on 
+corticobulbar connections. This methodological issue can have an 
+impact on the interpretation of the re sults about the relative size
+of different movement representations across cortical fields. For
+this reason
+T able 3 contains both the average relative size of the 
+shoulder, digit and tongue representations as well as the relative
+size of these representations for individual cases.
+Discussion 
+This study of the Northern greater galago is the first to describe 
+movement maps in the primary somatosensory cortex (area 3b) 
+and area 1/2 in any species of Strepsirrhine or prosimian primate. 
+In order to appreciate the full extent of cortex from which move-
+ments could be evoked, we also characterized the movements 
+elicited from neocortex spanning traditional motor areas (PM, M1), 
+as well as parietal areas adjacent to ar ea 3b and area 1/2 (area 3a,
+PPC). Like other mammals investigated using similar techniques,
+we found that galago area 3b plays a role in generating the range of
+movements observed in natural behavior (e.g.
+Baldwin et al. 2018; 
+Halley et al. 2022). 
+A number of anatomical substrates may contribute to the 
+movements elicited from stimulation of parietal cortex. The 
+corticospinal tract has been shown to originate in area 3b, 1/2
+and PPC in galagos, other primates and non-primate mammals
+(e.g.
+Nudo and Masterton, 1990 ; Remple et al, 2006 ; Galea and 
+Darian-Smith 1994; Lemon and Morecraft 2023). Alternative 
+pathways include connections between these a reas and motor
+cortex (Liao et al. 2013; Fang et al. 2005), as well as transthalamic 
+pathways (Sherman 2016). 
+In terms of overall movement map organization, we observed 
+a relatively small region of the digit representation compared to 
+other primates; an expansion of the tongue representation; and 
+muscle synergies involving the forelimb and hindlimb that are 
+consistent with galago locomotion. While the phenotype of move-
+ment maps in motor and parietal cortex in galagos is different 
+from those in other mammals in which similar techniques were 
+utilized in terms of the types of synergies represented (e.g. bats, 
+rats, tree shrews, macaques, capuchins), the general principles of 
+organization are the same: commonly utilized muscle synergies 
+related to ethologically relevant behaviors are magnified in move-
+ment maps. Below , we describe these findings in detail and then
+compare our results with earlier studies of the galago neocortex.
+Finally , as this study is part of a larger comparative project on
+the evolution of motor neocortex, we compare our galago findings
+to other species (both primate and non-primate mammals) that
+have been studied using similar techniques.
+Downloaded from https://academic.oup.com/cercor/article/35/8/bhaf195/8239114 by Kroneson SL user on 17 June 2026
+
+
+===== PDF PAGE 11 =====
+Cerebral Cortex, 2025, Vol. 35, Issue 8 | 11
+Muscle synergies for directional movement
+A number of studies have suggested that area 3b and M1 play 
+distinct and complementary roles in the generation of directional 
+movement, including protracting vs. retracting the whiskers
+(Matyas et al. 2010) and extending vs. retracting the forelimb
+(Halley et al. 2020). In contrast, in the current study we found that 
+the differences in movement for a given body part (e.g. “shoulder 
+f lexion vs. extension”) did not often correspond to the boundaries 
+of cortical areas, defined using myeloarchitecture. Instead, 
+movement types were usually distributed across multiple cortical
+fields (e.g. “tongue retraction” observed along a continuous strip
+of M1, 3a, 3b, 1/2 [
+Fig. 5B]), and orthogonal to the boundaries of 
+those fields. Complementary movement types were observed in 
+adjacent regions of this sensorimotor cortex, usually along a a 
+combination of medial-lateral and rostral-caudal axes. T ongue
+retraction was concentrated medial to tongue extension ( Fig. 5B). 
+Forelimb digit extension was concentrated medial a nd caudal
+to digit f lexion ( Fig. 6I). Shoulder extension was concentrated 
+medial and caudal to shoulder f lexion ( Fig. 6K). Hip f lexion was 
+concentrated medial and caudal to hip extension ( Fig. 6M). 
+Some of the complex, multi-joint movements were more con-
+sistent across fields. Forelimb “forward/raise” movements were 
+concentrated in more lateral portions of M1, 3a, and 3b, while 
+for elimb retractions were concentrated in more medial and cau-
+dal portions of the same fields ( Fig. S6A). This is similar to how 
+forelimb movements are distributed in 3b vs. M1 in mice ( Matyas 
+et al. 2010) a n d r a t s(Brown and Teskey 2014; Halley et al. 2020). 
+The relationship between cortical areas (defined histologically) 
+and functional domains (defined experimentally) remains poorly 
+understood, particularly for higher order fields a nd, as in the
+present study , for areas involved in motor control.
+Expanded representations of the shoulder and
+tongue
+An important finding in the current study is that in the galago, 
+unlike other primates studied, a relatively small region of cortex 
+represented mov ements of the digits (5.3%)—a finding consistent
+with previous studies of galago M1 utilizing ST -ICMS (
+Wu et al. 
+2000). On the other hand, the representation of the shoulder was 
+extremely large and assumed over a third of the entire movement 
+map representation across all cortical fields. Like previous studies, 
+we found regions in M1 and PPC where digit movements that 
+were part of reaching and grasping behaviors were observed, 
+but these were relatively small when compared to the large
+representation of the shoulder. Often, f lexions of the shoulder
+(moving the whole forelimb forward) were accompanied by hip
+and knee extension (
+Fig. 7B); this synergy resembles the multi-
+joint movements involved in vertical leaping, a form of locomotion
+in galagos.
+We also found an exceptionally large representation of the 
+tongue across multiple cortical fields. This extreme ma gnification
+of the tongue is comparable to the Egyptian fruit bat ( Halley 
+et al. 2022), and in fruit bats may be an adaptation for frugivory 
+and/or echolocation, which is accomplished by tongue clicks. 
+This magnification of the galago tongue r epresentation may be
+related to its diet of fruit, insects, and tree gum ( Harcourt and 
+Nash 1986). T ongue movement types were distributed across the 
+cortex in a similar fashion to forelimb movements. For example, 
+in the tongue representation in 3b, most evoked movements were 
+retraction of the tongue into the mouth, while in M1 stimulation
+produced extensions of the tongue out of the mouth, including
+large lateral extension (e.g.
+Fig. 5D). Thus, the full complement of 
+tongue movements is distributed across these cortical areas.
+Current results compared with previous studies
+A number of studies have characterized the movements elicited 
+from stimulation of M1 and premotor cortex in galagos using both
+short-train ICMS (Fogassi et al. 1994; Wu et al. 2000) and long-train 
+ICMS (Cooke et al. 2015; Stepniewska et al. 2020; Wang et al. 2021). 
+In general, the portion of our maps that cover M1 and PM agree 
+with the findings of these studies in terms of gross topographic 
+organization, but they also differ in some important ways. First,
+our maps differ from short-train studies (Wu et al. 2000; Fang et al. 
+2005), as we describe multi-joint movements of muscle synergies 
+elicited at individual sites, rather than single-joint representa-
+tions at minimal thre sholds. Second, compared with previous LT -
+ICMS studies of M1 (
+Cooke et al. 2015; Stepniewska et al. 2020; 
+Wang et al. 2021), we describe the directional movements of indi-
+vidual joints, rather than grouping them according to ethological
+categories.
+Our study elicited movements from multiple areas of the 
+galago PPC using LT -ICMS, and while we applied a different 
+analytic technique, our results largely agree with the distribution 
+of movement types described in previous reports. For example ,
+we found that jaw opening was only elicited from stimulation of
+PPC areas that were lateral to the IPS (
+Figs. 3, 4), consistent with 
+the suite of movements involved in the “face aggressive” gr ouping,
+relative to the “face defensive” one (Stepniewska et al. 2005; 2009; 
+Cooke et al. 2015). We did not observe eye movements in any
+portion of PPC ( Fig. 5H) as previously reported (Stepniewska et al. 
+2009). 
+In previous studies, complex movements of the forelimb in 
+PPC were evoked medial to the IPS. These included “avoidance,” 
+“defensive,” “hand to mouth,” and “reaching.” In the curr ent study
+we found that in cortex medial to the IPS stimulation elicited
+forward movements of the shoulder (
+Fig. 6K), digit f lexion (Fig. 6I), 
+and forelimb adduction ( Fig. S6B), which are components of the 
+more complex movements evoked in the previous studies. How-
+ever, in the present study , these forelimb mo vements overlapped
+with mouth opening only lateral to the IPS (
+Fig. 4G). We did 
+not observe full forelimb retraction in an y area caudal to area
+3b ( Fig. S6A ), but our study did find a distribution of shoulder 
+movements consistent with the rostral “forelimb defensive” vs. 
+caudal “reaching” regions. Specifically , shoulder movements were 
+backward in rostral portions o f PPC (consistent with retraction),
+forward in caudal sites of PPC (consistent with reaching), and
+mixed in areas 1/2 (
+Fig. 6K). 
+Finally , previous studies found that the most medial areas of 
+PPC elicited movements of the hindlimb and forelimb in tandem, 
+with hindlimb movements largely bilateral and originating at the
+hip (
+Stepniewska et al. 2005, 2009; Wang et al. 2021 ). We found 
+similar results in two cases ( Fig. 3A, Fig. 4A), with several sites in 
+this region eliciting knee, ankle, and toe f lexion as well in one case
+(Fig. 3A). Note that in our study , these movements were elicited 
+from areas 1/2 and caudal 3b, rather than PPC. Many combined 
+movements of both forelimb and hindlimb are similar to limb
+coordination involved in running or climbing (
+Wang et al. 2021). 
+“Intrinsic” vs. “extrinsic” movement 
+representa tion in sensorimotor cortex
+A central question in sensorimotor neuroscience concerns 
+whether neurons represent (i) the activation of individual 
+muscles, (ii) the movement of joints along anatomical axes (e.g.
+f lexion/extension, involving multiple muscles), or (iii) extrinsic
+Downloaded from https://academic.oup.com/cercor/article/35/8/bhaf195/8239114 by Kroneson SL user on 17 June 2026
+
+
+===== PDF PAGE 12 =====
+12 | Halley et al.
+space, independent of the muscles or joint activations required 
+for movement in a particular direction ( Kakei et al. 1999, 2001). 
+Kakei et al. (1999) designed an elegant experiment to distinguish 
+between these possibilities, comparing neuron coactivation 
+with “intrinsic” movements (either muscle activations or joint 
+movements) and “extrinsic” movements (directions in external 
+space). They recorded from individual M1 neurons in awake 
+behaving macaques, and found evidence that the hand region
+of M1 contained neurons whose firing covaried with both wrist
+muscle activation (“intrinsic”) and directional wrist movements
+(“extrinsic”), but not with joint movements.
+The current study found that joint movements in the galago 
+differ systematically across the sensorimotor cortex, consistent
+with previous studies using identical methods in rats ( Halley et al. 
+2020) and fruit bats ( Halley et al. 2022), as well as f indings in
+mice (Matyas et al. 2010). Methodological differences make it 
+difficult to interpret our results relative to Kakei et al. (1999). 
+We stimulated populations of neurons in anesthetized animals, 
+rather than recording from single neurons in awake animals, and 
+our experimental setup did not allow us to distinguish between 
+movements that are “intrinsic” (muscular or joint) and “extrinsic”
+(directions in space). However, the distribution of joint move-
+ment types across cortical fields (e.g. tongue [
+Fig. 5b], forelimb 
+[Fig. 6I-L], hindlimb [ Fig. 6M-N]) suggests that parietal areas of 
+cortex play a distinct role from M1 in motor action, similar to the
+“intrinsic” and “extrinsic” neuron subpopulations in M1 described
+previously (
+Kakei et al. 1999). 
+The evolution of motor cortex in mammals and 
+networks associated with reaching and grasping
+This study is part of a larger comparative effort in our laboratory 
+to characterize areas of the neocortex involved in motor control 
+utilizing similar intracortical microstimulation techniques and 
+methods of analysis. The goal is to leverage the method of LT -ICMS 
+in order to distinguish movement types that are difficult to study 
+using ST -ICMS (e.g. f lexion vs. extension of individual joints) as 
+w ell as to characterize movement synergies that may be unique
+to individual species. Galagos and other prosimian primates are
+thought to most closely resemble the last common ancestor of
+all primates (
+Charles-Dominique and Martin 1970; Silcox et al. 
+2009; Steiper and Seiffert 2012), especially in the organization o f
+their neocortex (Kaas 2012). Therefore, they represent an essential 
+link to translating results from rodent species that serve as model
+organisms in neurobiology to primates, including humans.
+An important finding in the current study is the paucity of 
+stimulation sites in any cortical field examined in which move-
+ments of the digits alone were evoked. A lac k of distinct digit
+representations was also found in previous studies of M1 utilizing
+ST -ICMS in galagos (
+Wu et al. 2000). This result indicates that early 
+primates likely had relatively simple networks for reaching and 
+grasping that do not appear to be associated with fine control of 
+the digits per se, but rather with grasping using all digits, as well as 
+vertical leaping (see below). This is starkly different from studies 
+in both New and Old World monkeys in which a large swath
+of cortex is devoted to the representation of digit movements
+(
+Baldwin et al. 2017b; Baldwin et al. 2018; Mayer et al. 2019). 
+Specifically , movements evoked in monkeys were associated with 
+multiple types of precision grips (macaques and ca puchins) or
+power grasps (titi monkeys).
+Our comparative work also indicates that cortical networks for 
+reaching and grasping are present in non-primate mammals such
+as rats and tree shrews ( Baldwin et al. 2017a ; Halley et al. 2020). 
+For example, in rats M1 and area 3b are involved in motor control 
+of the limbs, but studies using LT -ICMS found no regions in which
+the digits alone are represented (
+Halley et al. 2020). However, indi-
+vidual digit movements are observed in the rostral forelimb area
+in studies using ST -ICMS (Brown and Teskey 2014). In tree shrews, 
+one of the closest living relatives to primates, motor control of 
+the limbs is distributed across M1, 3b, and PPC, but there are only 
+a few sites in which stimulation elicits movements of the digits 
+alone. T aken together, the data indicate that rudimentary cortical 
+networks for reaching and grasping in non-primate mammals 
+expanded in early primates, but still did not include regions that 
+were involved in fine motor control of the digits. These manual 
+abilities and the cortical areas that generate them evolved later
+in primate evolution, and changed dramatically , likely due to
+the evolution of an opposable thumb in some lineages and the
+sophisticated dexterous behaviors that are the hallmark of our
+own species’ evolution.
+Acknowledgments 
+We would like to thank Laura T rice and Cynthia Jordan for their 
+assistance with histology , and the veterinarian staff of Vanderbilt
+University for their assistance with experimental preparation.
+Author contrib utions
+Andrew C. Halley (Conceptualization, Methodology , Software, 
+Formal analysis, Investigation, Writing—original draft, Writing— 
+review & editing, Visualization, Project administration). Iwona 
+Stepniewska (Conceptualization, Methodology , Investigation; 
+Writing—review & editing). Qimeng Wang (Investigation, Writ-
+ing—review & editing). Jamie L. Reed (Investigation, Writing— 
+review & editing). Hui-Xin Qi (Investigation, Writing—review & 
+editing). Jon H. Kaas (Conceptualization, Resources, Supervision,
+Funding acquisition, Writing—review & editing). Leah A. Kru-
+bitzer (Conceptualization, Methodology , Investigation, Funding
+acquisition, Writing—original draft, Writing—review & editing,
+Supervision, Project administration).
+Supplementary mater ial
+Supplementary material is available at Cerebral Cortexonline.
+Funding 
+This research was supported by generous funding from the 
+NIH (EY02686 to JHK) and the James S. McDonnell Foundation
+(220020516 to LK).
+Conf lict of interest statement: No conf licts of inter est to declare.
+Ethics approval disclosure statement
+This study was approved by Vanderbilt IACUC protocol M1600100– 
+01 (PI: J on Kaas).
+References 
+Baldwin MKL , Cooke DF , Krubitzer L . 2017a. Intracortical micros-
+timulation maps of motor, somatosensory , and posterior pari-
+etal cortex in tree shrews (T upaia belangeri) r eveal complex
+movement representations.Cereb Cortex. 27:1439–1456. https:// 
+doi.org/10.1093/cercor/bhv329.
+Downloaded from https://academic.oup.com/cercor/article/35/8/bhaf195/8239114 by Kroneson SL user on 17 June 2026
+
+
+===== PDF PAGE 13 =====
+Cerebral Cortex, 2025, Vol. 35, Issue 8 | 13
+Baldwin MKL, Halley A C, Krubitzer L. 2017b. The functional organi-
+zation of movement maps in New World titi monkeys. Abstract,
+Society for Neuroscience, 47th annual meeting.
+Baldwin MKL, Cooke DF, Goldring AB, Krubitzer L. 2018. Representa-
+tions of fine digit movements in posterior and anterior parietal 
+cortex revealed using long-train i ntracortical microstimulation
+in macaque monkeys.Cereb Cortex. 28:4244–4263. https://doi. 
+org/10.1093/cercor/bhx279. 
+Bresee CS et al. 2024. Reversible deactivation of motor cortex reveals 
+that areas in parietal cortex are differentially dependent on 
+motor cortex for the generation of movement.J Neurophysiol. 131:
+106–123.
+https://doi.org/10.1152/jn.00086.2023. 
+Brown A R, Teskey G C. 2014. Motor cortex is functionally orga-
+nized as a set of spatially distinct repr esentations for complex
+movements.J Neurosci. 34:13574–13585. https://doi.org/10.1523/ 
+JNEUROSCI.2500-14.2014. 
+Charles-Dominique P , Martin RD . 1970. Evolution of lorises and 
+lemurs.Nature. 227:257–260. https://doi.org/10.1038/227257a0. 
+Cooke DF, Padberg J, Zahner T, Krubitzer L. 2012. The functional orga-
+nization and cortical connections of motor cortex i n squirrels.
+Cereb Cortex22:1959–1978. https://doi.org/10.1093/cercor/bhr228. 
+Cooke DF , Stepniewska I , Miller DJ , Kaas JH , Krubitzer L . 2015. 
+Reversible deactivation of motor cortex reveals functional con-
+nectivity with posterior parietal cortex in the prosimian galago
+(Otolemur garnettii).J Neurosci. 35:14406–14422.
+https://doi. 
+org/10.1523/JNEUROSCI.1468-15.2015. 
+Fang P C, Stepniewska I , Kaas JH . 2005. Ipsilateral cortical connec-
+tions of motor, premotor, frontal eye, and posterior parietal fields 
+in a pr osimian primate.Otolemur garnetti J Comp Neurol. 490:
+305–333.
+https://doi.org/10.1002/cne.20665. 
+Fogassi L et al. 1994. The fronto-parietal cortex of the prosimian 
+galago: patterns of cytochrome oxidase acti vity and motor maps.
+Behav Brain Res. 60:91–113. https://doi.org/10.1016/0166-4328(94) 
+90067-1. 
+Galea MP, Darian-Smith I. 1994. Multiple corticospinal neuron pop-
+ulations in the macaque monkey are specified by their unique 
+cortical origins, spinal terminations, and connections.Cereb
+Cortex. 4:166–194. https://doi.org/10.1093/cercor/4.2.166. 
+Goldring AB , Krubitzer L . 2017. Evolution of rietal cortex in mam-
+mals: From manipulation to tool use. In: The evolution of nervous 
+systemsKrubitzer L, Kaas JH (eds), Vol. 3, 2nd edn. London:
+Elsevier, pp 259–286, 10.1016/B978-0-12-804042-3.00086-5 . 
+Halley A C, Baldwin MKL , Cooke DF , Englund M , Krubitzer L . 2020. 
+Distributed motor control of limb movements in rat motor 
+and somatosensory cortex: the sensorimotor amalgam revis-
+ited.Cereb Cortex. 30:6296–6312. https://doi.org/10.1093/cercor/ 
+bhaa186. 
+Halley A C et al. 2022. Coevolution of motor cortex and behav-
+ioral specializations associated with f light and echolocation
+in bats.Curr Biol. 32:2935–2941.e3. https://doi.org/10.1016/j. 
+cub.2022.04.094. 
+Harcourt CS, Nash L T. 1986. Species differences in substrate use and 
+diet between sympatric galagos in two Kenyan coastal forests.
+Primates. 27:41–52. https://doi.org/10.1007/BF02382521. 
+Kaas JH. 2012. The evolution of neocortex in primates. Prog Brain Res.
+195:91–102. https://doi.org/10.1016/B978-0-444-53860-4.00005-2. 
+Kaas JH . 2019. The origin and evolution of neocortex: from early 
+mammals to modern humans. Prog Brain Res. 250:61–81. Amster-
+dam: Elsevier. https://doi.org/10.1016/bs.pbr.2019.03.017 
+Kaas JH, Qi HX, Stepniewska I. 2018. The evolution of parietal cortex 
+in primates.Handb Clin Neurol. 151:31–52. https://doi.org/10.1016/ 
+B978-0-444-63622-5.00002-4 . 
+Kakei S, Hoffman DS, Strick PL. 1999. Muscle and movement repre-
+sentations in the primary motor cortex.Science. 285:2136–2139.
+https://doi.org/10.1126/science.285.5436.2136. 
+Kakei S , Hoffman DS , Strick PL . 2001. Direction of action is repre-
+sented in the v entral premotor cortex.Nat Neurosci. 4:1020–1025.
+https://doi.org/10.1038/nn726. 
+Lemon RN , Morecraft RJ . 2023. The evidence against somatotopic 
+organization of function in the primate corticospinal tract.Brain.
+146:1791–1803. https://doi.org/10.1093/brain/awac496. 
+Liao CC, Gharbawie O A, Qi H, Kaas JH. 2013. Cortical connections to 
+single digit representations in area 3b of somatosensory cortex 
+in squirrel monk eys and prosimian galagos.J Comp Neurol. 521:
+3768–3790. https://doi.org/10.1002/cne.23377. 
+Matyas F et al. 2010. Motor control by sensory cortex.Science. 330:
+1240–1243. https://doi.org/10.1126/science.1195797. 
+Mayer A et al. 2019. The multiple representations of complex 
+digit movements in primary motor cortex form the building 
+blocks for complex grip types in capuchin monkeys.J Neu-
+rosci. 39:6684–6695.
+https://doi.org/10.1523/JNEUROSCI.0556-19. 
+2019. 
+Morandell K , Huber D . 2017. The role of forelimb motor cortex 
+areas in goal directed action in mice.Sci Rep. 7:15759. https://doi. 
+org/10.1038/s41598-017-15835-2 . 
+Nudo RJ, Masterton RB. 1990. Descending pathways to the spinal 
+cord, IV: Some factors related to the amount of cortex devoted
+to the corticospinal tract.J Comp Neurol. 296:584–97. https://doi. 
+org/10.1002/cne.902960406. 
+Remple MS, Reed JL, Stepniewska I, Kaas JH. 2006. Organization 
+of frontoparietal cortex in the tree shrew (T upaia belangeri). 
+I. Arc hitecture, microelectrode maps, and corticospinal con-
+nections.J Comp Neurol497:133–54.
+https://doi.org/10.1002/cne. 
+20975. 
+Sherman SM. 2016. Thalamus plays a central role in ongoing corti-
+cal functioning.Nat Neurosci. 19:533–541. https://doi.org/10.1038/ 
+nn.4269. 
+Silcox MT, Dalmyn CK, Bloch JI. 2009. Virtual endocast of Ignacius 
+graybullianus (Paromomyidae, primates) and brain ev olution in
+early primates.Proc Natl Acad Sci. 106:10987–10992. https://doi. 
+org/10.1073/pnas.0812140106. 
+Steiper ME , Seiffert ER . 2012. Evidence for a convergent slowdown 
+in primate molecular rates and its implications for the timing of
+early primate evolution.Proc Natl Acad Sci. 109:6006–6011. https:// 
+doi.org/10.1073/pnas.1119506109. 
+Stepniewska I, Fang P-C, Kaas JH. 2005. Microstimulation reveals spe-
+cialized subregions for different complex movements in posterior 
+parietal cortex of prosimian galagos. Proc Natl Acad Sci USA. 102:
+4878–4883.
+https://doi.org/10.1073/pnas.0501048102. 
+Stepniewska I , Fang P-C , Kaas JH . 2009. Organization of the Pos-
+terior Parietal Cortex in Galagos: I. Functional zones identi-
+fied by microstimulation.J Comp Neurol. 517:765–782. https://doi. 
+org/10.1002/cne.22181. 
+Stepniewska I , Gharbawie O A, Burish MJ , Kaas JH . 2014. Effects of 
+muscimol inactivations of functional domains in motor, premo-
+tor, and posterior parietal cortex on complex m ovements evoked
+by electrical stimulation.J Neurophysiol. 111:1100–1119. https:// 
+doi.org/10.1152/jn.00491.2013. 
+Stepniewska I, Pouget P, Kaas JH. 2018. Frontal eye field in prosimian 
+galagos: intracortical microstimulation and tracing studies.
+J Comp Neurol. 526:626–652. https://doi.org/10.1002/cne.24355. 
+Stepniewska I , Friedman R M, Miller DJ , Kaas JH . 2020. Interac-
+tions within and between parallel parietal-frontal networks 
+involved in complex motor behaviors in prosimian galagos and a
+Downloaded from https://academic.oup.com/cercor/article/35/8/bhaf195/8239114 by Kroneson SL user on 17 June 2026
+
+
+===== PDF PAGE 14 =====
+14 | Halley et al.
+squirrel monkey . J Neurophysiol. 123:34–56. https://doi.org/10. 
+1152/jn.00576.2019. 
+Wang Q , Liao C-C , Stepniewska I , Gabi M , Kaas JH . 2021. Cortical 
+connections of the functional domain for climbing or running in 
+posterior parietal cortex of galagos.J Comp Neurol. 529:2789–2812.
+https://doi.org/10.1002/cne.25123. 
+Whitlock J R. 2017. Posterior parietal cortex. Curr Biol. 27:R691–R695.
+https://doi.org/10.1016/j.cub.2017.06.007. 
+Wong P, Kaas JH. 2010. Architectonic subdivisions of neocortex in the 
+galago (Otolemur garnetti).Anat Rec. 293:1033–1069. https://doi. 
+org/10.1002/ar.21109. 
+Wu C W, Bichot NP, Kaas JH. 2000. Converging evidence from micros-
+timulation, architecture, and connections for multiple motor 
+areas in the frontal and cingulate cortex of prosimian pri-
+mates.J Comp Neurol. 423:140–177. https://doi.org/10.1002/1096-
+9861(20000717)423:1<140::AID-CNE12>3.0.CO;2-3. 
+© The Author(s) 2025. Published by Oxford University Press. This is an Open Access article distributed under the terms of the Creative Commons Attribution License ( https://creativecommons.org/licenses/by/4.0/), which permits unrestricted reuse, distribution, and 
+reproduction in any medium, provided the original work is properly cited.
+Cerebral Cortex, 2025, 35 , bhaf195
+https://doi.org/10.1093/cercor/bhaf195 
+Original Article
+Downloaded from https://academic.oup.com/cercor/article/35/8/bhaf195/8239114 by Kroneson SL user on 17 June 2026

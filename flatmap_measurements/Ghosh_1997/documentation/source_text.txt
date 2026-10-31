@@ -1,0 +1,1523 @@
+
+===== PDF PAGE 1 =====
+Identiﬁcation of Motor Areas of the Cat
+Cerebral Cortex Based on Studies of
+Cortical Stimulation and Corticospinal
+Connections
+S. GHOSH*
+Department of Physiology and Pharmacology , University of Queensland,
+St. Lucia, Brisbane, Queensland 4072, Australia
+ABSTRACT
+The location and topography of motor areas in the cat cerebral cortex were studied by
+electrical stimulation of the cortex in ﬁve animals, and by the injection of retrograde tracers
+into the spinal cord of four animals. Movements evoked by intracortical microstimulation
+(ICMS) of the anterior, posterior and lateral sigmoid gyri, both banks of the cruciate sulcus
+and the dorsal bank of the presylvian sulcus were observed in anaesthetized cats. Fluorescent
+tracers (Fast Blue and/or Diamadino Y ellow) were injected into the lateral funiculus in the
+second cervical segment, into the gray matter of cervical segments C3–T1 and/or into the gray
+matter of lumbar segments L2–S1.
+Contraction of the contralateral forelimb, hindlimb or facial muscles was observed
+following electrical stimulation of several cytoarchitectonic areas: 4 g,4 d,6 a a,6 a g, and 3a.
+These ﬁndings suggested representations of contralateral forelimb and hindlimb movements
+in areas 4 g and 4 d, and of the contralateral forelimb muscles in areas 6a a and 6a g.
+Corticospinal neurons were located in all the above cytoarchitectonic areas as well as in areas
+3b, 1, 2, 2pri, and 5. Large numbers of neurons were labeled in areas 4 g and 4d, and moderate
+labeling was observed in areas 6a g and 6aa. Corticospinal neurons projecting to cervical and
+lumbar segments were located in areas 4 g and 4 d, while those projecting only to cervical
+segments were detected in areas 6a a and 6ag.
+Based on these ﬁndings it is proposed that within the motor cortex of the cat there are
+representations of limb movements in several cytoarchitectonic subdivisions. Many of these
+representations may be candidate secondary motor areas. J. Comp. Neurol. 380:191–214,
+1997.
+r 1997 Wiley-Liss, Inc.
+Indexing terms: intracortical microstimulation; ﬂuorescent tracers; primary motor area; secondary
+motor area
+The cortical stimulation studies of Woolsey (1958) were
+interpreted to recognize, in a number of different mam-
+mals, at least two major motor areas controlling limb
+movements: the primary motor area (MI) and the supple-
+mentary motor area (SMA or MII). Whether these two
+areas are homologous across species, however, continues to
+be debated (see Wise, 1996). Primates, particularly ma-
+caques, have been extensively studied in this regard, and a
+lateral premotor area (PM) and a cingulate motor area
+(CMA) have also been identiﬁed in these animals (re-
+viewed by Wise et al., 1991; Dum and Strick, 1991; Kurata,
+1994a). A variety of anatomical and physiological tech-
+niques, including cortical stimulation studies, and studies
+of corticospinal and corticocortical connections have been
+used to identify motor areas of the cortex (reviewed by
+Humphrey , 1986; Wise et al., 1991; Dum and Strick, 1991;
+Porter and Lemon, 1993; Wise, 1996).
+Carnivores, particularly cats, are widely used for the
+experimental study of cortical function, including motor
+function. Although there have been many studies that
+have examined the cytoarchitecture (Hassler and Muhs-
+Clements, 1964), motor responses to stimulation (Delgado,
+Contract grant sponsor: NH, MRC; Contract grant number: 7053G.
+*Correspondence to: S. Ghosh, Dept. of Physiology & Pharmacology ,
+University of Queensland, St. Lucia, Brisbane, Qld. 4072, Australia.
+E-mail: ghosh@plpk.uq.oz.au
+Received 15 May 1996; Revised 12 November 1996; Accepted 14 Novem-
+ber 1996
+THE JOURNAL OF COMPARATIVE NEUROLOGY 380:191–214 (1997)
+r 1997 WILEY-LISS, INC.
+
+===== PDF PAGE 2 =====
+1952; Delgado and Livingston, 1955; Asanuma and Ward,
+1971; Nieoullon and Rispal-Padel, 1976; Pappas and Strick,
+1981; Keller, 1993), and corticospinal and corticocortical
+connections (Armand et al., 1974; Groos et al., 1978;
+Reinoso-Suarez, 1984; Yumiya and Ghez, 1984) of the cat
+motor cortex, many questions remain to be answered.
+There appears to be enough data in the literature to locate
+the primary motor area in area 4 g (see Avendano et al.,
+1992), but the ‘‘secondary’’ motor areas (e.g., SMA, PM)
+have not been well characterized in the cat. Data regard-
+ing the location of secondary motor areas in other carni-
+vores (e.g., dog, raccoon) are also meager (Jameson et al.,
+1968; Gorska, 1974).
+Many difficulties in the attempts to characterize ‘‘second-
+ary’’ motor areas in the cat may be traced to differences in
+organization between cat and primate motor areas. For
+example, a more or less complete representation of contra-
+lateral body parts has been demonstrated in area 4 g but
+not in any other parts of area 4 or 6 in the cat (Delgado,
+1952; Delgado and Livingston, 1955; Nieoullon and Rispal-
+Padel, 1976; Keller, 1993). Corticospinal neurons are sparse
+or absent in cytoarchitectonic area 6 (Armand et al., 1974;
+Groos et al., 1978) unlike that demonstrated in the pri-
+mate (Toyoshima and Sakai, 1982; He et al., 1993, 1995;
+Galea and Darian-Smith, 1994).
+Since area 4 of the cat cortex is divisible cytoarchitectoni-
+cally into several subregions (Hassler and Muhs-Clem-
+ents, 1964), it is possible that parts of area 4, particularly
+area 4d, may qualify as candidate ‘‘secondary’’ motor areas.
+Other studies indicate that area 6 may have projections to
+the spinal cord (Hayes and Rustioni, 1981; Catsman-
+Berrevoets and Kuypers, 1981; Nudo and Masterton,
+1990) and electrical stimulation of area 6 may evoke
+movements (Delgado, 1952; Delgado and Livingston, 1955;
+Nieoullon and Rispal-Padel, 1976). In order to deﬁne
+secondary motor areas in the cat, we have reexamined
+area 4 and area 6 of the cat cortex by intracortical
+microstimulation studies, and tracer studies of corticospi-
+nal connections. The results suggest that parts of area 6
+and 4 d project to the spinal cord, have representations of
+contralateral body parts, and may qualify as secondary
+motor areas.
+MATERIALS AND METHODS
+Experiments were conducted on nine adult cats of either
+sex weighing between 2.2 kg and 4 kg. Five animals were
+used for cortical stimulation studies while retrogradetracers
+were injected into the spinal cord of the other four animals.
+All experimental protocols were approved by the University of
+Queensland Animal Experimentation Ethics Committee.
+Cortical stimulation
+Animals were anesthetized with ketamine (5 mg/kg i.m.)
+and xylazine (0.05 mg/kg i.m.). Subsequently , light anesthe-
+sia was maintained with i.v . Ketamine (3 mg/kg) and pentobar-
+bitone (2 mg/kg) based on the appearance of the withdrawal
+reﬂex. Atropine (0.06 mg/kg, s.c) and dexamethazone (0.5
+mg/kg, i.m.) was administered at the beginning of the
+experiment. Blood pressure, expired CO
+2 concentration
+and rectal temperature were monitored throughout the
+experiment. A feedback controlled electric blanket was
+used to keep the animal warm (37.5 6 1°C) and intrave-
+nous ﬂuids (isotonic saline) administered periodically .
+The head was ﬁtted in a sterotaxic frame and the thorax
+and abdomen supported with foam cushions in order to
+allow the limbs to hang loosely by the side. A craniotomy
+was performed on the left side in order to expose the
+frontal lobe. The dura was reﬂected over the pericruciate
+region and the cortical surface kept moist with warm normal
+saline. Glass-coated tungsten electrodes (Re5 0.5MV) were
+inserted into the cortex and a train of cathodal pulses (16
+pulses, each 0.2 msec wide, frequency 400 Hz) was deliv-
+ered at depths from 1.5 mm to 11.0 mm at 1 or 1.5 mm
+intervals. The stimulus current was monitored and varied
+from 1 to 100 µA. The cortex was sampled in a grid-like
+manner at intervals of 1 mm (avoiding surface vessels) and
+penetrations were extended posteriorly up to the caudal
+end of the ansate sulcus in order to reach the depths of the
+cruciate sulcus. Lesions were frequently made (by passing
+10 µA for 10 seconds) when movements were evoked from
+cortical regions deeper than 3–4 mm. At least one lesion
+was made in most successful tracts. However, sometimes
+we avoided making too many closely spaced lesions by not
+lesioning in adjacent penetrations at similar depths.
+At least two observers were present throughout each
+experiment in order to identify the movements evoked by
+intracortical microstimulation (ICMS). Observation and
+palpation of muscle contraction was used to identify
+evoked movements. Limbs were repositioned if initial
+trials were unsuccessful. Current thresholds for evoking
+movements were also determined by both observers.
+Tracer injections
+The ﬂuorescent tracers, Fast Blue (FB, Sigma) and
+Diamadino Y ellow (DY , Sigma) were injected into the
+spinal cord of four animals (cases 6 to 9). Anesthesia was
+induced by ketamine and xylazine and maintained with
+ketamine and pentobarbitone administered intramuscu-
+larly (see above for dosages). Atropine and steroid were
+administered preoperatively (see above). The rectal tem-
+perature was monitored and the animal kept warm using a
+Abbreviations
+Cerebral sulci
+SA ansate sulcus
+dSA, fSA,
+vSA dorsal lip, ﬂoor and ventral lip of ansate sulcus (the above
+preﬁxes apply to maps of all unfolded sulci)
+SCor coronal sulcus
+SCr cruciate sulcus
+SEsA anterior ectosylvian sulcus
+SL lateral sulcus
+SO orbital sulcus
+SPs presylvian sulcus
+SRA anterior rhinal sulcus
+SSp splenial sulcus
+SSs suprasylvian sulcus
+Cytoarchitectonic areas of the cerebral cortex
+r4g rostral subdivision of area 4 g
+c4g caudal subdivision of area 4 g
+r4d rostral subdivision of area 4 d
+c4d caudal subdivision of area 4 d
+Ins insula
+1, 2, 3a, 3b,
+5, 7, 2pri other subdivisions
+Joints moved by intracortical microstimuli
+An ankle
+E elbow
+F face
+H hip
+Kn knee
+Sh shoulder
+Wr wrist
+192 S. GHOSH
+ 10969861, 1997, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1096-9861(19970407)380:2<191::AID-CNE4>3.0.CO;2-Z by University Of Bath, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 3 =====
+feedback controlled electric blanket. The surgery was
+performed under aseptic conditions and antibiotics, analge-
+sics and steroids injected postoperatively .
+The head and pelvis of the animal were ﬁxed in a
+stereotaxic frame and the vertebral spines above and
+below the desired laminectomy were ﬁxed with clamps. A
+laminectomy was then performed to expose the following
+spinal segments: C2, C3 in case 6, C3–T1 in case 7 and
+L2–S1 in case 8. In case 9, two laminectomies were
+performed separated by 3 weeks. The ﬁrst laminectomy
+involved L2 to S1 spinal segements, while the second
+involved C5–T1 segments. Hamilton syringes (1 µl) were
+used to inject tracer into the lateral funiculus (case 6) or
+spinal gray matter (cases 7–9) (Table 1, Fig. 1). After a
+single penetration into the lateral funiculus of C2 segment
+(case 6, Fig. 1) 2.5 µl of tracer (FB) was injected about 3
+mm below the surface. Multiple penetrations, spaced
+about 5 mm apart, were made into the spinal cord of cases
+7–9 to involve the desired spinal segments (Table 1, Fig. 1).
+About 0.5 µl of tracer was injected at each penetration at a
+depth of about 3.5 mm in order to involve the intermediate
+zone (and adjoining parts of the ventral and dorsal horn).
+The penetrations were made vertically , midway between
+the midline and the dorsal root entry zone, through the
+dorsal columns (Fig. 1). The spinal segments were identi-
+ﬁed by counting the dorsal roots below the twelfth thoracic
+vertebra or second cervical vertebra. Approximately 2–4
+weeks following the tracer injection in the cervical or
+lumbar spinal cord, respectively , the animal was reanesthe-
+tized for perfusion.
+Perfusion and histological procedures
+At the end of the ICMS experiments or after appropriate
+survival times (2–4 weeks after tracer injection in the
+spinal cord) the animal was deeply anaesthetized (i.v .
+pentobarbitone 50 mg/kg) and perfused with 2 liters of
+normal saline followed by 2 liters of 4% paraformaldehyde
+in phosphate buffer. The brain was removed, photo-
+graphed and soaked in 30% sucrose. The spinal cord was
+removed from animals with tracer injections.
+Each hemisphere was cut serially on a freezing micro-
+tome (50 µm). Brain sections from cats subjected to cortical
+stimulation were (every alternate 50 µm section) collected
+and mounted onto slides. The sections were stained with
+cresyl violet or thionine, dehydrated, cleared in xylene and
+coverslipped. The sections were then examined for elec-
+trode tracts and lesions (Fig. 2).
+Brain and spinal cord (appropriate segments) sections
+from cats with tracer injections were divided into four
+batches. The ﬁrst batch was mounted on slides, dehy-
+drated, cleared and coverslipped for examination of ﬂuores-
+cent label. The second batch was stained with cresyl violet
+or thionine for cytoarchitectonic study .
+Identiﬁcation of injection sites and labeled
+cortical neurons
+Cresyl violet-stained sections were drawn at a magniﬁ-
+cation of 44 through a binocular microscope (Zeiss Ax-
+ioskop) with a drawing tube (objective 310, drawing tube
+34.4, Fig. 3). The unstained section was then projected to
+overlap the drawing accurately , and labeled neuronal
+proﬁles were identiﬁed and plotted on the drawing. The
+labeled proﬁles were then observed under higher power
+(objective 320, 350) to conﬁrm plotted points or identify
+double labeled neurons (Fig. 3). The injection sites in the
+spinal cord were similarly documented. Cytoarchitectonic
+borders of the cerebral cortex were included in the draw-
+ing.
+Identiﬁcation of cytoarchitectonic
+boundaries
+Cytoarchitecture of the motor and somatosensory areas
+of the cerebral cortex was based on Hassler and Muhs-
+Clements (1964; Figs. 4–7). Subsequently , other studies
+(Avendano and Verdu, 1992; Avendano et al., 1992; LeClerc
+et al., 1994; Myasnikov et al., 1994) have elaborated and
+modiﬁed some of these criteria. One of the major changes
+proposed by Avendano et al. (1992) was the subdivision of
+area 6ab into a laterally located 6ag and a medially located
+6ab. Further, the boundary of area 6a a was extended
+rostrally , so that it occupied a portion of the cortex in the
+anterior sygmoid gyrus. We followed the newer descrip-
+tions of Avendano et al. (1992) because they also distin-
+guished parts of area 6 with and without corticospinal
+projections.
+Hassler and Muhs-Clements (1964) subdivided area 4
+into four cytoarchtectonic areas: 4 g,4 d, 4 suprafundum
+(4sfu) and 4 in fundo (4fu). Of these, only 4 g contains large
+numbers of giant pyramidal cells, often arranged in mul-
+tiple rows. The width of area 4 d cortex is smaller and giant
+pyramidal cells are less frequent (Fig. 4). The cortical
+width in areas 4sfu and 4fu decreases further and the
+pyramidal cells in layer V are even smaller. The overall
+thickness of the cortex diminishes gradually with increas-
+ing depth in the cruciate sulcus and at the border of areas
+4g and 4d the thickness of these two areas may be similar
+(Fig. 2) although the size and clustering of pyramidal cells
+in lamina V still allow distinction of the two areas.
+Differences in the width and cellular arrangement in
+lamina III also distinguish the different subdivisions of
+area 4 (Hassler and Muhs-Clements, 1964). The exact
+borders between areas 4d, 4fu and 4sfu are not always easy
+to deﬁne but the illustrated margins are within 50–200 µm
+of clearly distinguishable cytoarchitecture.
+Hassler and Muhs-Clements (1964) distinguished three
+subdivisions within area 6: area 6a a,6 a b and 6iffu. Area
+6ab (as deﬁned by Hassler and Muhs-Clements, 1964)
+involved a wide region of cortex including the medial
+surface of the cortex (below the cruciate sulcus), a part of
+the rostral or ventral bank of the cruciate sulcus, the
+anterior sygmoid gyrus and the dorsal bank of the presyl-
+vian sulcus. Subsequently , Avendano et al. (1992) have
+pointed out cytoarchitectonic variations within area 6a b,
+which were also conﬁrmed in our study . We found that area
+6ab is conﬁned to a thin strip of cortex in the medial part of
+the anterior sigmoid gyrus, and a thin strip of cortex
+adjoining the cruciate sulcus on the medial surface and in
+the rostral (ventral) bank of the cruciate sulcus. Layer V in
+TABLE 1. Volume and Concentration of Tracers Injected
+in the Spinal Cord
+Animal
+case no.
+Tracer
+and conc. Volume (µl) Penetrations Location
+6F B 1 (5% sol.) 2.5 1 Lateral funiculus
+7D Y 1 (2% sol.) 9.2 20 C3–T1 gray
+8 FB (5% sol.) 6.0 12 L2–S1 gray
+9 DY (2% sol.) 10.0 20 C5–T1 gray
+FB (5% sol.) 5.0 10 L2–S1 gray
+1FB, Fast Blue; DY , Diamadino Y ellow.
+MOTOR CORTICAL AREAS OF THE CAT 193
+ 10969861, 1997, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1096-9861(19970407)380:2<191::AID-CNE4>3.0.CO;2-Z by University Of Bath, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 4 =====
+Fig. 1. Photomicrographs of tracer injection sites in the spinal cord
+of cases 6 (A, C)a n d7( B, D). A and B illustrate the needle tracts in the
+right lateral column (white matter) of case 6 and in the right
+intermediate gray matter of case 7 in lightly stained cross-sections of
+the cervical spinal cord. C and D illustrate the Fast Blue and
+Diamadino Y ellow injection sites, respectively , in these animals.
+Calibration bar 5 0.8 mm in A, B; 0.5 mm in C, D.
+194 S. GHOSH
+ 10969861, 1997, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1096-9861(19970407)380:2<191::AID-CNE4>3.0.CO;2-Z by University Of Bath, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 5 =====
+Fig. 2. Photomicrographs of coronal sections (stained with cresyl violet) of the brain of a cat used for
+the cortical stimulation study , illustrating electrode tracts in the dorsal (caudal) bank of the crucite sulcus
+in areas 4 g (A) and 4 d (B). In this illustration dorsal is down and medial is to the left. Calibration bar 5
+0.5 mm.
+MOTOR CORTICAL AREAS OF THE CAT 195
+ 10969861, 1997, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1096-9861(19970407)380:2<191::AID-CNE4>3.0.CO;2-Z by University Of Bath, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 6 =====
+this region has medium-sized pyramidal cells (Fig. 5). In
+contrast, area 6a g, located in the dorsal bank of the
+presylvian sulcus and at its rostral end, has larger pyrami-
+dal cells, including many giant pyramidal neurons in layer
+V (see Avendano et al., 1992 and Fig. 6). Area 6a a also has
+large pyramidal cells in layer V (and a few giant pyramidal
+cells) and extends into the anterior sigmoid gyrus. The
+border between areas 6a b and 6a a is easily distinguish-
+able: a more clearly deﬁned laminar arrangement and the
+organization of palisades in lamina VI characterize area
+6ab (Fig. 5). Area 6ag has larger pyramidal cells in lamina
+V (than area 6aa), including giant pyramidal neurons, and
+lamina VI is wider (Fig. 6). Area 6iffu located deep in the
+rostral (ventral) bank of the cruciate sulcus has a much
+thinner cortex, and lamina V is narrow with few large
+pyramidal cells (Hassler and Muhs-Clements, 1964; Fig.
+6). The exact border between area 6a a and 6iffu may be
+difficult to deﬁne in the coronal series ( 6100 µm).
+Area 3a is distinguishable from area 4 g by the presence
+of a thin lamina IV , and an overall reduction in cortical
+thickness, but the latter property is not always evident
+(Fig. 7). Large pyramidal cells are frequently located in
+lamina V of area 3a (Avendano and Verdu, 1992). Area 3b
+has a thick and prominent lamina IV (Fig. 7). In lateral
+cortical regions, lamina V is light with no large pyramidal
+cells (Fig. 7), but more medially , large pyramidal cells may
+be frequently seen (LeClerc et al., 1994).
+RESULTS
+Electrical stimulation of the motor cortex
+Intracortical microstimuli were delivered to the ante-
+rior, posterior and lateral sigmoid gyri. In addition, the
+banks of the cruciate sulcus and the dorsal bank of the
+presylvian sulcus were explored. The dorsal surface of the
+cortex was explored in a grid-like manner at intervals of 1
+mm between adjacent penetrations, avoiding surface ves-
+sels. Electrode tracts and lesions were reconstructed from
+histological sections in order to locate the area stimulated
+(Fig. 8). The stimulated points and the joints moved were
+then mapped on the cortical surface and in the banks of the
+cruciate and presylvian sulci (Figs. 9–11). The electrode
+tracts were sometimes found to deviate from the vertical in
+the depths of the cortex (Fig. 8). Therefore, the exploration
+of the depths of the cruciate and presylvian sulci was not
+uniform (Figs. 9, 10).
+The cortical surface was reconstructed from coronal
+sections (in the plane of the upper border of lamina V or
+lower border of lamina IV) as follows. The medial edge of
+the hemisphere was used as the reference to align all
+sections and the distances between this edge and various
+sulci and the inferior edge of the hemisphere were mea-
+sured and plotted. The points were then joined using a
+smooth line. The banks of the presylvian sulcus and
+cruciate sulcus were unfolded separately at the upper
+border of lamina V . The cytoarchitectonic boundaries were
+then included in the drawing.
+The ICMS maps from cases 1 and 2 are presented in
+Figures 9 and 10, respectively , while Figure 11 represents
+results from all ﬁve animals studied. ICMS was effective in
+evoking movements from areas 4 g,4 d,6 aa,6 ag, and area
+3a. Although stimuli in areas 1 and 2 were also effective,
+these areas were not studied in detail; hence, data are not
+included. Electrical stimuli were ineffective in areas 6a b,
+6iffu and 4sfu. Within the areas from which movements
+were successfully evoked, many stimulated points were
+ineffective. In such situations, trials were repeated with
+the limbs repositioned and after a short delay (5–10
+minutes), success was obtained at some points.
+Stimulation of the banks of the cruciate sulcus or
+presylvian sulcus was usually only effective when the
+stimulated point was in lamina V or VI (Fig. 8). Stimuli
+delivered at more superﬁcial cortical laminae rarely evoked
+movements, required high currents, and were not included
+in illustrations or in analysis of current thresholds. Stimu-
+lus points located in white matter were not analyzed.
+Movements were frequently evoked contralaterally in
+the forelimb or hindlimb. These were invariably ﬂexion
+movements, though occasionally pronation and supination
+movements appeared to be superimposed on wrist ﬂexion.
+Similarly , abduction and adduction, in addition to ﬂexion,
+was sometimes observed at the shoulder or hip joints.
+Facial movements involved the contralateral eyelids,
+cheeks or lips; jaw movements were not observed. Since
+facial movements were infrequently evoked in our study ,
+the location of the cortical representation of facial muscle
+must be cautiously interpreted. Forelimb movements were
+evoked from areas 4 g,4 d,6 a a and 6a g, hindlimb move-
+ments from areas 4 g and 4 d and facial movements from
+areas 4g,6 aa and 6ag.
+In dealing with somatotopic organization within these
+areas, we decided to subdivide areas 4 g and 4d into rostral
+(r4g,r 4 g) and caudal (c4 g,c 4 d) sectors, separated by the
+cruciate sulcus (or its fundus) for several reasons. First, it
+has been suggested that electrical thresholds for evoking
+movements are lower in r4 g than c4 g (Nieoullon and
+Rispal-Padel, 1976). Secondly , separate representations of
+the forelimb and hindlimb in r4 g and c4g are suggested by
+the study of Groos et al. (1978). Thirdly it has been shown
+Fig. 3. Photomicrograph of corticospinal neurons labeled in case 9,
+illustrating neurons labeled by Fast Blue ( A, B ), Diamadino Y ellow
+(C), and both tracers (double labeled, A, D, E). Calibration bar 5 100
+µm in A; 20 µm in B–E.
+196 S. GHOSH
+ 10969861, 1997, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1096-9861(19970407)380:2<191::AID-CNE4>3.0.CO;2-Z by University Of Bath, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 7 =====
+that rostral and caudal 4 g have different cortical connec-
+tions and functional specializations (Adkins et al., 1971;
+Vicario et al., 1983; Yumiya and Ghez, 1984). Finally ,
+cortical mapping studies in dogs and racoons suggest that
+there may be separate representations of contralateral
+body parts in the anterior and posterior sigmoid gyri
+(Hardin et al., 1968; Jameson et al., 1968; Gorska, 1974).
+The study found representations of forelimb and hind-
+limb movements in several areas including r4 g,c 4 g,r 4 d
+and c4 d. Stimulation of area 6a a and 6a g resulted in
+Fig. 4. Photomicrographs of coronal sections of the cat cerebral cortex, stained with cresyl violet,
+illustrating the cytoarchitecture of areas 4 g (A) and 4 d (B), in the dorsal (caudal) bank of the cruciate
+sulcus. Dorsal is down and medial is to the right. Calibration bar 5 0.5 mm.
+MOTOR CORTICAL AREAS OF THE CAT 197
+ 10969861, 1997, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1096-9861(19970407)380:2<191::AID-CNE4>3.0.CO;2-Z by University Of Bath, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 8 =====
+Fig. 5. Photomicrographs of coronal sections of the cat cerebral
+cortex, stained with cresyl violet, contrasting the cytoarchitecture of
+areas 6ab and 6aa (A, the border between 6a b, left, and 6a a, right, is
+indicated by the arrowhead above the pia), and 6a a and 4 g (B, the
+border between 6a a, left, and 4 g, right, is indicated by the arrowhead
+above the pia), in the ventral (rostral) bank of the cruciate sulcus.
+Dorsal is up and medial is to the left. Calibration bar 5 0.5 mm.
+198 S. GHOSH
+ 10969861, 1997, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1096-9861(19970407)380:2<191::AID-CNE4>3.0.CO;2-Z by University Of Bath, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 9 =====
+Fig. 6. Photomicrographs of coronal sections of the cat cerebral
+cortex, stained with cresyl violet, illustrating the cytoarchitecture of
+area 6a a in the ventral/rostral bank of the cruciate sulcus ( A), area
+6ag in the dorsal bank of the presylvian sulcus ( B), and area 6iffu in
+the ventral/rostral bank of the cruciate sulcus (C). In A and C, dorsal is
+up and medial is to the left, while in B dorsal is down and medial is to
+the right. Calibration bar 5 0.5 mm.
+ 10969861, 1997, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1096-9861(19970407)380:2<191::AID-CNE4>3.0.CO;2-Z by University Of Bath, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 10 =====
+Fig. 7. Photomicrographs of coronal sections of the cat cerebral
+cortex, stained with cresyl violet, contrasting the cytoarchitecture of
+areas 4 g and 3a ( A; the border between 4 g, left, and 3a, right, is
+indicated by the arrowhead above lamina II), and areas 3b and 3a ( B;
+the border between 3b, left, and 3a, right, is indicated by the
+arrowhead above the pia), in the posterior sigmoid gyrus. Dorsal is to
+the left and medial is down in A, while dorsal is up and medial is to the
+left in B. Calibration bar 5 0.5 mm.
+200 S. GHOSH
+ 10969861, 1997, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1096-9861(19970407)380:2<191::AID-CNE4>3.0.CO;2-Z by University Of Bath, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 11 =====
+forelimb movements frequently and facial movements
+occasionally . Hindlimb movements were not elicited from
+area 6. Separate representations of forelimb and hindlimb
+movements in r4 g and c4 g are suggested by the data in
+Figures 9–11, with the forelimb representation located
+more laterally than the hindlimb. In one animal, facial
+movements were elicited from area r4g (in the rostral bank
+of the cruciate sulcus adjoining area 6a a). Facial move-
+ments were not elicited from c4 g.
+The caudal or dorsal bank of the cruciate sulcus includes
+area c4 g superﬁcially , while area c4 d is located in its
+middle third. Hindlimb movements were evoked medially
+from area c4g in the caudal bank of the cruciate sulcus. At
+the lateral edge of the cruciate sulcus, forelimb movements
+were evoked superﬁcially in the sulcus and this represen-
+tation was continuous with the representation of forelimb
+movements in the lateral and posterior sigmoid gyri.
+However, more deeply and medially in the cruciate sulcus,
+stimulation of some points in area c4 g evoked forelimb
+movements, intermingled with points that evoked hind-
+limb movements. Deeper in the cruciate sulcus, stimula-
+tion of points in area c4 d elicited forelimb and hindlimb
+movements. These results suggest that there is a separate
+representation of the forelimb and hindlimb in the deeper
+parts of the cruciate sulcus involving area c4 d and the
+adjacent part of area c4 g. However, the representation of
+the forelimb and hindlimb in this part of the cortex
+appears to be intermingled or interdigitating with no clear
+topographical relationship between the two. Forelimb and
+hindlimb movements could also be elicited from r4 d, but
+the points evoking these movements were closely inter-
+mingled.
+Forelimb movements and more medially , facial move-
+ments were elicited from area 6a a, in the anterior sigmoid
+gyrus and rostral bank of the cruciate sulcus. Forelimb
+movements were also elicited from the dorsal lip and
+dorsal bank of the presylvian sulcus, in area 6a g. Facial
+movements were also evoked in area 6a g rostral to fore-
+limb movements.
+Stimulus thresholds in areas 4 and 6
+The stimulus currents used for evoking movements
+varied from 0 to 100 µA. The threshold currents required
+in the different areas are compared in Table 2 and Figure
+12. The mean thresholds were found to be lower in area 4 g
+than in areas 4d,6 aa,6 ab, and 3a. However, relatively low
+thresholds were also observed occasionally in area 4 d (case
+3), 6a a (case 2) or 6a g (case 3). Statistical analysis
+(ANOV A) showed that there were no signiﬁcant differ-
+ences (P . 0.05) in the mean thresholds obtained in areas
+4d,6 a a,6 a b, and area 3a, but the mean threshold was
+found to be signiﬁcantly lower in area 4 g (P , 0.05) in two
+animals (cases 1 and 4). Mean threshold was always lower
+in area r4g than c4g but statistically signiﬁcant in only one
+animal (case 2, unpaired t-test, P , 0.01). Thresholds
+varied from 5 to 100 µA in most areas and a bimodal
+distribution of threshold currents was found in area 6a a,
+suggesting some very low and other very high threshold
+points (Fig. 12). Figure 11 suggests that the low threshold
+points were located medially in area 6a a close to its border
+with 4g.
+Fig. 8. A, B: Camera lucida drawings of two representative coronal
+sections of the cortex from case 2 illustrating the reconstruction of
+electrode tracts and stimulated points. The pial surface, the upper
+border of lamina V and the cortex-white matter boundary , are shown.
+Each row of tracts was reconstructed from three adjacent cresyl
+violet-stained sections. Lesions are shown as circular outlines, whereas
+estimated stimulus points shown as large dots. The movements
+evoked from these points are indicated adjacent to the point. Points
+without adjacent lettering were unsuccessful. In this animal, stimuli
+were delivered at depth intervals of 1.5 mm. Cytoarchitectonic borders
+are indicated by dashed lines. Calibration bar 5 2 mm.
+MOTOR CORTICAL AREAS OF THE CAT 201
+ 10969861, 1997, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1096-9861(19970407)380:2<191::AID-CNE4>3.0.CO;2-Z by University Of Bath, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 12 =====
+Fig. 9. Map of the dorsolateral cortical surface ( A) and of the
+unfolded presylvian ( B) and cruciate sulci ( C), illustrating the results
+of intracortical microstimulation of the left hemisphere of case 1. The
+dorsolateral surface of the cortex has been mapped from serial coronal
+sections, in the plane of the upper border of lamina V , using the medial
+edge of the hemisphere as a reference. The presylvian sulcus was
+unfolded in the plane of the upper border of lamina V by reﬂecting the
+dorsal bank upwards and the ventral bank downwards. The cruciate
+sulcus was unfolded by reﬂecting the ventral (rostral) bank to the left
+and the dorsal (caudal) bank to the right. Contralateral joints moved
+by intracortical microstimulation have been depicted on the maps
+from reconstruction of electrode tracts and lesions in the serial
+sections. Calibration bar 5 2 mm.
+ 10969861, 1997, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1096-9861(19970407)380:2<191::AID-CNE4>3.0.CO;2-Z by University Of Bath, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 13 =====
+Fig. 10. Map of the dorsolateral cortical surface ( A) and of the unfolded presylvian ( B) and cruciate
+sulci ( C), illustrating the results of intracortical microstimulation of the left hemisphere of case 2. See
+legend to Figure 9 for mapping techniques used. Calibration bar 5 2 mm.
+MOTOR CORTICAL AREAS OF THE CAT 203
+ 10969861, 1997, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1096-9861(19970407)380:2<191::AID-CNE4>3.0.CO;2-Z by University Of Bath, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 14 =====
+Fig. 11. Map of the dorsolateral cortical surface ( A) and of the
+unfolded presylvian ( B) and cruciate sulci ( C), illustrating the pooled
+results of intracortical microstimulation of the left hemispheres of
+cases 1–5. See Figure 9 legend for mapping techniques used. Sites
+from which movements were evoked in the contralateral forelimb are
+represented by circles, in the hindlimb by squares, and in the face by
+triangles. Filled symbols indicate that currents less than 50 µA were
+required to evoke movements, whereas open symbols indicate the use
+of currents between 50 and 100 µA. Calibration bar 5 2 mm.
+204 S. GHOSH
+ 10969861, 1997, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1096-9861(19970407)380:2<191::AID-CNE4>3.0.CO;2-Z by University Of Bath, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 15 =====
+Tracer injections in the spinal cord
+Fluorescent tracer injections result in three concentric
+zones of labeling: an inner zone with necrotic material and
+bright tissue ﬂuorescence; a middle zone of bright tissue
+ﬂuorescence and labeled neurons and glia; and an outer
+zone with no tissue ﬂuorescence and less intensely labeled
+neurons and glia (Fig. 1, Keizer et al., 1983). The two inner
+zones were taken as constituting the zone of uptake. The
+single tracer injection in case 6 involved a large part of the
+lateral funiculus and included most if not all of the lateral
+corticospinal tract (Fig. 1; Nyberg-Hansen and Brodal,
+1963; Armand et al., 1985). The tracer injections in cases
+7–9 involved part of the dorsal columns, a large part of the
+intermediate zone of the gray matter, and a variable part
+of the dorsal and ventral horn (Figs. 1 and 13). The tracer
+injection never spread into the lateral funiculus but occa-
+sionally came close to the anterior funiculus (Figs. 1 and
+13). However, we felt that involvement of the ventral
+corticospinal tract was unlikely . Each injection involved
+about 2–3 mm of the spinal cord rostrocaudally . However,
+there were segments of the cord between penetrations that
+were not involved by the tracer. Close to the injection site,
+labeled neurons were observed profusely throughout the
+ipsilateral gray matter and less profusely in the contralat-
+eral intermediate zone and ventral horn. Motoneurons
+were well labeled bilaterally .
+Corticospinal neurons
+Neurons labeled following tracer injections in the lateral
+funiculus or gray matter of the spinal cord are mapped in
+Figures 14–16. The mapping procedure is similar to that
+adopted for presentation of ICMS data. All corticospinal
+neurons were located in lamina V of the cortex and labeled
+in clusters (Groos et al., 1976; Jones and Wise, 1977;
+Murray and Coulter, 1981; Hayes and Rustioni, 1981;
+Nudo and Masterton, 1990). In all the animals studied,
+motor areas 4g,4 d,6 aa, and 6ag, and somatosensory areas
+3a, 3b, 1, 2, 2pri, and 5 were well labeled. A few cells were
+located in the insula. Labeled cells were rarely located in
+areas 6a b, 6iffu, 4sfu, or 4fu. In the animal (case 9) with
+dual tracer injections in the cervical and lumbar segments
+of the cord, double labeled neurons were rarely seen (Fig.
+15).
+Dense labeling was observed in areas 4 g and in area 4 d
+in all animals. Labeling in area 6 was observed only
+following tracer injection in the cervical cord, in the gray
+matter or in the lateral funiculus. Labeled neurons were
+distributed throughout area 4 g, but parts of area 4 d,6 a a
+and 6a g were unlabeled in all the four animals (Figs.
+14–16). The medial part of area 6a a and r4 d, the deeper
+parts of c4 d, and parts of area 6a g were consistently
+unlabeled.
+TABLE 2. Mean 6 S.E. Intracortical Microstimulation (ICMS) Thresholds (µA) for Evoking Forelimb Movements
+from Different Motor Areas in Individual Animals
+Animal5 (case no.) r4 g c4g 4g 4d 6aa 6ag 3a
+1 31.0 6 7.2 50.9 6 7.2 43.5 6 5.52 93.3 6 6.7 59.1 6 11.6 73.6 6 7.5 54.0 6 18.1
+(n) (10) (17) (27) (3) (11) (14) (5)
+2 15.8 6 3.91 55.0 6 7.3 41.6 6 5.8 50.9 6 11.0 36.9 6 14.7 75.7 6 15.7 76.0 6 16.9
+(n) (13) (25) (38) (11) (8) (7) (5)
+3 17.0 6 6.2 25.0 6 8.4 22.3 6 5.9 43.9 6 13.0 80.0 6 20.0 43.3 6 23.3 75.0 6 25.0
+(n) (5) (10) (15) (9) (2) (3) (2)
+4 17.5 6 3.1 22.5 6 4.2 20.8 6 3.02 66.3 6 11.9 — 50.0 6 0 50.0 6 0
+(n) (6) (12) (18) (8) (2) (2)
+5 50.0 6 14.7 55.0 6 13.4 53.0 6 9.4 63.3 6 13.1 — — —
+(n) (4) (6) (10) (6)
+1Mean threshold was signiﬁcantly lower in r4 g than c4g.
+2Mean threshold was signiﬁcantly lower in 4 g than other areas.
+Fig. 12. Histograms comparing minimal stimulus currents required to evoke movements in the
+contralateral forelimb following intracortical microstimulation of cortical areas 4 g,4 d,6 aa,6 ag and 3a.
+Data from all ﬁve animals studied were pooled.
+MOTOR CORTICAL AREAS OF THE CAT 205
+ 10969861, 1997, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1096-9861(19970407)380:2<191::AID-CNE4>3.0.CO;2-Z by University Of Bath, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 16 =====
+The topographical relationship between the representa-
+tion of the forelimb and hindlimb in the motor cortex can
+be best appreciated in the animal with dual tracer injec-
+tion (case 9, Fig. 15), but additional information is also
+provided by cases 7 and 8 (Fig. 16). The results suggest
+representations of forelimb and hindlimb movements in
+both the rostral (r4g) and caudal (c4g) subdivisions of area
+4g.I nc 4g, the hindlimb representation is located medial to
+the forelimb representation, while in r4 g, the hindlimb
+representation is located deeper in the cruciate sulcus and
+more medially in the anterior sigmoid gyrus. The forelimb
+representation is clearly continuous between r4 g and c4g,
+and the hindlimb representation also appears to be continu-
+ous. Representations of forelimb and hindlimb movements
+are also seen in areas r4 d and c4d.
+Projections to the cervical spinal cord arise deep in the
+caudal (dorsal) bank of the cruciate sulcus involving both
+area c4 g and c4 d. These forelimb-related corticospinal
+neurons are clearly separate from those located in the
+posterior sigmoid gyrus (Figs. 15, 16). Thus, a separate
+representation of the forelimb and hindlimb in the deeper
+parts of the caudal bank of the cruciate sulcus (involving
+areas c4 g and c4 d) can easily be envisaged. It may be
+suggested that corticospinal neurons projecting to the
+cervical cord are located more superﬁcially in the sulcus
+than those projecting to the lumbar spinal cord, but there
+is considerable interdigitation of the two populations. A
+few double labeled neurons located in the cortex of case 9
+(Fig. 15) were found in the caudal bank of the cruciate
+sulcus (see Hayes and Rustioni, 1981).
+Corticospinal neurons projecting to cervical segments of
+the spinal cord were detected in areas 6a a and 6a g.
+Corticospinal neurons in area 6a g were not spatially
+separate from that in area r4 g, but linked by a band of
+neurons located at the rostrolateral edge of r4 g and at the
+rostral end of area 3a (Figs. 14–16). Similarly , neuronal
+labeling in areas r4g and 6aa were continuous.
+Comparison of ICMS and tracer results
+The data obtained from the ICMS (Figs. 9–11) and tracer
+(Figs. 14–16) studies were complementary . ICMS was
+successful only in those motor areas which subsequently
+were shown to possess corticospinal neurons. Similarly ,
+representations of forelimb and hindlimb movements in
+r4g,c 4 g,r 4 d, and c4 d, and the representation of forelimb
+movements in areas 6a a and 6a g, are suggested by both
+sets of data.
+DISCUSSION
+Motor areas have been deﬁned operationally as those
+regions of the cortex from which movements or brief
+muscle contractions are evoked with lowest threshold
+and/or shortest latency by applied electrical stimuli (Hum-
+phrey , 1986). It has been known for a long time that
+mapping of motor cortical areas using electrical stimuli,
+using relatively low stimulus currents, is dependant greatly
+upon direct corticospinal projections (reviewed by Phillips
+and Porter, 1977; Kuypers, 1982; Humphrey , 1986; Porter
+and Lemon, 1993). Therefore, it may be expected that a
+combination of approaches, utilizing electrical stimulation
+of the cortex and neuroanatomical tracing of corticospinal
+connections, would provide mutually complementary re-
+sults and that such an approach is particularly valuable in
+deﬁning motor areas in animals that lack a signiﬁcant
+corticomotoneuronal connection (e.g., the cat, Lundberg
+and Voorhoeve, 1962). This study has therefore utilized the
+combined approach to demonstrate multiple representa-
+tions of the contralateral limbs in the motor cortex of the
+cat. A similar approach has been used to deﬁne the borders
+of the primary motor area in macaques (Sessle and Wiesen-
+danger, 1982).
+Fig. 13. Camera lucida reconstructions of one of the Diamadino Y ellow injection sites in the cervical
+spinal cord of case 9. The sections are about 800 µm apart. Calibration bar 5 2 mm.
+206 S. GHOSH
+ 10969861, 1997, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1096-9861(19970407)380:2<191::AID-CNE4>3.0.CO;2-Z by University Of Bath, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 17 =====
+Fig. 14. Map of labeled corticospinal neurons in the medial and
+dorsolateral surface of the left hemisphere ( A) and the banks of the
+cruciate sulcus ( B), presylvian sulcus ( C), coronal sulcus ( D), and
+ansate sulcus ( E) of case 6. See legend to Figure 9 for mapping
+techniques used. Labeled neuronal proﬁles were counted in every
+fourth section (each 50-µm-thick) of the series and plotted in 1-mm
+bins within the map. Each dot represents one labeled proﬁle. Calibra-
+tion bar 5 2 mm.
+ 10969861, 1997, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1096-9861(19970407)380:2<191::AID-CNE4>3.0.CO;2-Z by University Of Bath, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 18 =====
+Fig. 15. Map of labeled corticospinal neurons in the medial and
+dorsolateral surface of the left hemisphere ( A) and the banks of the
+cruciate sulcus ( B), presylvian sulcus ( C), coronal sulcus ( D), and
+ansate sulcus ( E) of case 9. See legend to Figure 9 for mapping
+techniques used. Labeled neuronal proﬁles were counted in every
+fourth section (each 50-µm-thick) of the series and plotted in 1-mm
+bins within the map. Each dot represents one labeled proﬁle; red dots
+represent neurons labeled by Fast Blue (injected in the lumbar
+segments of the spinal cord), small black dots represent neurons
+labeled by Diamidino Y ellow (injected in the cervical spinal cord), and
+large black dots represent double labeled neurons. Calibration bar 5
+2 mm.
+ 10969861, 1997, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1096-9861(19970407)380:2<191::AID-CNE4>3.0.CO;2-Z by University Of Bath, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 19 =====
+Fig. 16. Map of labeled corticospinal neurons in the medial and
+dorsolateral surface of the left hemisphere ( A, C) and the banks of the
+cruciate sulcus ( B, D ) of cases 7 (A, B, tracer injected in cervical
+segments of the spinal cord) and 8 (C, D, tracer injected in lumbar
+segments of the spinal cord). See legend to Figure 9 for mapping
+techniques used. Labeled neuronal proﬁles were counted in every
+fourth section (each 50-µm-thick) of the series and plotted in 1-mm
+bins within the map. Each dot represents one labeled proﬁle. Calibra-
+tion bar 5 2 mm.
+MOTOR CORTICAL AREAS OF THE CAT 209
+ 10969861, 1997, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1096-9861(19970407)380:2<191::AID-CNE4>3.0.CO;2-Z by University Of Bath, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 20 =====
+Cortical mapping by electrical stimulation
+Electrical stimulation spreads physically and physiologi-
+cally (Asanuma and Rosen, 1973; Jankowska et al., 1975;
+Asanuma et al., 1976; Phillips and Porter, 1977) and
+therefore cannot always resolve the exact limits of the
+‘‘excitable’’ cortex, nor clearly deﬁne topographical repre-
+sentation of movement where there is considerable overlap
+or interdigitation of the representation of different body
+parts. The use of large currents for ICMS may provide
+misleading results. Nevertheless, electrical stimulation
+studies, particularly in the macaque monkey (using a
+similar range of currents), have provided information on
+cortical topography not only in the MI, but also in the PM,
+SMA and the CMA (Asanuma and Rosen, 1972; Anderson
+et al., 1975; Kwan et al., 1978; MacPherson et al., 1982;
+Mitz and Wise, 1987; Rizzolatti et al., 1988; Luppino et al.,
+1991). The presence of corticomotoneuronal connections in
+primates, particularly involving distal limb muscles (re-
+viewed by Porter and Lemon, 1993), allows the use of
+smaller currents for evoking movements and a greater
+resolution in cortical cartography . However, even in the
+cat, relatively small currents ( ,20 µA) were effective in a
+proportion of the points stimulated in each of the ‘‘excit-
+able’’ areas.
+The results of our microstimulation study agree with the
+previous ﬁndings of Keller (1993), Nieoullon and Rispal-
+Padel (1976), Delgado (1952) and Delgado and Livimgston
+(1955). However, in our study , movements of facial muscles
+were evoked infrequently and jaw and back muscles could
+never be activated. In addition, retraction of claws was
+also not evoked. These differences may in part be due to
+the differences in the preparation, including the state of
+consciousness and depth of anaesthesia, type of anaes-
+thetic used, the techniques utilized to monitor muscle
+contraction (e.g., visual observation, e.m.g. recording or
+transducer techniques), electrode resistance and stimulus
+currents (Delgado, 1952; Schlag and Schlag-Rey , 1970;
+Asanuma and Ward, 1971; Nieoullon and Rispal-Padel,
+1976; Pappas and Strick, 1981; Iwata et al., 1990; Keller,
+1993). Some studies (e.g., Pappas and Strick, 1981; Keller,
+1993) that have made a more detailed study of a part of
+area 4 g (involving mainly or exclusively the forelimb
+representation), have also been able to detect many more
+low threshold points for evoking movements of forelimb
+and facial muscles.
+Our study found representation of limb movements in
+several cytoarchitectonic subdivisions of the motor cortex:
+areas 4 g,4 d,6 a a, and 6a g. While there was considerable
+overlap of stimulus currents required to elicit movements
+from these areas, the mean thresholds were lowest in area
+4g and higher in areas 4 d,6 aa and 6ag.
+Corticospinal projections in the cat
+Corticospinal projections were investigated using tracer
+injections in the lateral funiculus or intermediate gray
+matter of the spinal cord. In both instances, it is unlikely
+that all corticospinal axons or their terminals were ac-
+cessed. The tracer injection in the lateral funciculus was
+located in the region of the lateral corticospinal tract
+(Armand et al., 1985). Damage to the lateral corticospinal
+tract was evident, so that the tracer (Fast Blue) was taken
+up by both damaged and undamaged axons (Payne, 1987).
+Fibers descending in the ventral corticospinal tract, how-
+ever, were not sampled (Armand and Kuypers, 1980). It
+has been estimated that the pyramidal tract of the cat
+contains about 400,000 ﬁbers (both myelinated and unmy-
+elinated, Thomas et al., 1984) and the total (estimated)
+number of neuronal proﬁles labeled (in the contralateral
+hemisphere) in our experiments varied from 14,000 to
+16,000. Whereas not all ﬁbers of the pyramidal tract
+neurons descend into the spinal cord, it would still appear
+that less than 10% of the corticospinal neurons were
+labeled in each experiment.
+Tracer injections were directed to the intermediate zone
+of the gray matter in order to involve corticospinal termina-
+tions, particularly from the motor areas (Nyberg-Hansen
+and Brodal, 1963; Armand et al., 1985). Other studies have
+utilized this technique to investigate corticospinal projec-
+tions (Groos et al., 1978; Hayes and Rustioni, 1981; He et
+al., 1993, 1995). Whereas a large part of the intermediate
+zone was involved in the region of tracer injections, the
+involvement of the dorsal and ventral horn was usually
+small and variable. Therefore, the proportion of corticospi-
+nal neurons labeled in the somatosensory areas may be
+relatively smaller than in the motor area because the
+projections from the former area terminate mainly in the
+dorsal horn (Nyberg-Hansen and Brodal, 1963; Armand et
+al., 1985).
+The use of multiple retrograde tracers to investigate the
+topography of descending projections provides many advan-
+tages (see Catsman-Berrevoets and Kuypers, 1981; Hayes
+and Rustioni, 1981; He et al., 1993, 1995). In this study , the
+descending projections to cervical and lumbar segments of
+the spinal cord were compared in one animal using two
+tracers, and in two other animals, tracers were injected
+either in the cervical or lumbar cord. It was important to
+ensure that decending tracts were not involved in the
+tracer injections at the cervical levels; hence, penetrations
+were made through the dorsal columns (Groos et al., 1978;
+Hayes and Rustioni, 1981; He et al., 1993, 1995) and the
+injections made at depths that precluded involvement of
+the ventral funiculus.
+Corticospinal projections were found to arise from a
+number of agranular regions. Although the bulk of the
+cortical labeling was located in area 4 g, a number of
+neurons were also labeled in areas 4 d,6 aa and 6ag. These
+ﬁndings agree with other reports of the location of cortico-
+spinal neurons in area 6 (Catsman-Berrevoets and
+Kuypers, 1981; Hayes and Rustioni, 1981; Nudo and
+Masterton, 1990). In our study , labeling in area 6a a was
+sparse and that in area 6ag was moderate, suggesting that
+contribution to the corticospinal tract from area 6 is much
+smaller than from area 4.
+Corticospinal neurons projecting to both cervical and
+lumbar segments were rare. Whereas individual corticospi-
+nal axons arborize extensively in the rostrocaudal dimen-
+sions of the spinal cord (Shinoda et al., 1976, 1986), few
+appear to project to both cervical and lumbar segments
+(Shinoda et al., 1976, 1986; Hayes and Rustioni, 1981).
+This study provides evidence for at least three represen-
+tations of the contralateral limb(s) outside area 4 g. One of
+these is located in the depth of the caudal bank of the
+cruciate sulcus, involving area c4d and the adjacent part of
+c4g. The representation of forelimb and hindlimb move-
+ments was also detected in r4d. In these regions, there was
+considerable interdigitation of forelimb and hindlimb re-
+lated areas (see discussion in Groos et al., 1978). A second
+representation of the contralateral forelimb was detected
+in area 6a g, in the dorsal bank of the presylvian sulcus. A
+210 S. GHOSH
+ 10969861, 1997, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1096-9861(19970407)380:2<191::AID-CNE4>3.0.CO;2-Z by University Of Bath, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 21 =====
+smaller region of cortex in area 6a a was also found to be
+involved in the control of forelimb movements. The repre-
+sentation of limb movements in area 4 d appeared to be
+spatially separate from that in area 4g, but the representa-
+tions of forelimb movements in areas 6a a and 6ag were in
+continuity with that observed in r4 g.
+Motor areas in the cat
+Many studies have examined the representation of
+movement in the motor cortex of the cat (MacKibben and
+Wheelis, 1932; Ward and Clark, 1935; Delgado, 1952;
+Delgado and Livingston, 1955; Woolsey , 1964; Asanuma
+and Sakata, 1967; Asanuma et al., 1968; Asanuma and
+Ward, 1971; Nieoullon and Rispal-Padel, 1976; Pappas
+and Strick, 1981; Keller, 1993) and provided a detailed
+account of the topography of movement representation in
+the primary motor area (Delgado, 1952; Delgado and
+Livingston, 1955; Nieoullon and Rispal-Padel, 1976; Keller,
+1993). Nieoullon and Rispal-Padel (1976) used ICMS in
+cats chronically implanted with electrodes to reveal a
+detailed representation of the contralateral head, neck,
+face, back, forelimb, and hindlimb muscles. Their studies
+suggested a single representation of these structures with
+considerable overlap or interdigitation, and involving area
+4g, area 6a a, and possibly area 6a g (see Fig. 5 of their
+study). In their scheme, hindlimb movements were repre-
+sented mainly in the posterior sigmoid gyrus and in the
+caudal bank of the cruciate sulcus, forelimb movements in
+the lateral sigmoid gyrus and adjoining parts of the
+anterior and posterior sigmoid gyri, and face and head
+movements in areas 6a a and 6a g. Although a part of the
+caudal (or dorsal) bank of the cruciate sulcus was explored,
+many other regions in the banks of the cruciate sulcus or
+the presylvian sulcus were not examined. Keller’s (1993)
+study involved area 4 g, and possibly area 6a g, and sug-
+gested that the representation of facial muscles is located
+lateral to that of forelimb muscles. Delgado (1952) and
+Delgado and Livingston’s (1955) studies found a represen-
+tation of cranial and forelimb muscles in the dorsal bank of
+the presylvian sulcus. Whereas there are suggestions that
+certain movements or muscles may be represented more
+than once in the motor cortex (e.g., Pappas and Strick,
+1981; Keller, 1993), all previous studies have implied an
+overall single representation of contralateral body parts in
+the motor cortex of the cat.
+Studies of the representation of movement in other
+carnivores (racoons and dogs), on the other hand, have
+suggested a dual representation of the body in the motor
+cortex, separated by the cruciate sulcus: MI being located
+caudal to the SMA (Hardin et al., 1968; Jameson et al.,
+1968; Gorska, 1974). In these studies, current thresholds
+were found to be higher in the SMA, and more complex and
+bilateral movements were evoked from this area.
+This study found representations of both contralateral
+limbs, using both ICMS and tracer studies, in two cytoar-
+chitectonic areas of the agranular cortex: area 4 g and area
+4d. In addition, the forelimb was found to be represented in
+areas 6aa and 6ag. Further, representation of forelimb and
+hindlimb muscles was detected in both rostral and caudal
+subdivisions of 4g and 4d. Facial muscles were found to be
+represented in areas 6a a,6 ag and in a small part of area
+4g. Whereas these ﬁndings are in broad agreement with
+previous results, they also suggest multiple representa-
+tions of contralateral body parts in the motor cortex of
+the cat.
+For a number of reasons, area 4 g has been considered to
+be the primary motor area in the cat. These include
+cytoarchitectonic criteria, low current requirements for
+evoking movements by cortical stimulation, and the pres-
+ence of large numbers of corticospinal neurons. Neverthe-
+less, while most studies have found large regions of 4 g
+involved in controlling limb movements, many studies
+(including ours) found it difficult to localize a face area in
+4g. Labeled corticospinal neurons were found to involve
+practically the whole extent of area 4 g, leaving free only a
+small part adjacent to area 6a a, from which facial move-
+ments were occasionally evoked. It appears that a substan-
+tial part of the representation of facial movements in cat
+motor cortex lies outside area 4 g. Previous studies have
+included the representation of facial muscles in either area
+6aa,6 ag, or both, within MI (Nieoullon and Rispal-Padel,
+1976; Keller, 1993). The present study found that facial
+movements could be evoked with relatively small currents
+(,50 µA) from a few points within area 6a g, whereas
+current requirements appeared to be higher in area 6a a
+(always . 50 µA, Fig. 11). In addition, Keller (1993), Iwata
+et al. (1990) and Nieoullon and Rispal-Padel’s (1976)
+studies also appear to identify area 6a g as the low thresh-
+old site for evoking facial movements. Thus, one scheme of
+the topographic organization in cat MI could envisage a
+mediolaterally oriented representation of hindlimb, fore-
+limb and facial movements, respectively , and including
+areas 4g and 6ag.
+A representation of forelimb muscles was also detected
+in the dorsal (or lateral) lip and bank of the presylvian
+sulcus. This representation of forelimb muscles in area 6ag
+appears to involve both proximal and distal musculature
+and is the site of origin of large numbers of corticospinal
+neurons. Area 6a g has been considered a part of the
+primary MI by previous studies, because a representation
+of facial muscles has been difficult to detect in the lateral
+parts of area 4 g. Nevertheless, cytoarchitectural and con-
+nectional differences (see below), and differences in cur-
+rents required for evoking movements suggest an alterna-
+tive possibility: that the representation of forelimb
+movements in area 6a g may be separate from that in area
+4g. The representation of facial muscles in area 6a g is also
+not homogeneous. Iwata et al. (1990) distinguish two
+separate representations: one in anterior part of the
+coronal and lateral sigmoid gyri (C-S motor zone) and
+another in the dorsal (lateral) bank of the presylvian
+sulcus (P motor zone) on the basis of ICMS effects and
+responses to peripheral stimulation. Thus, if the C-S zone
+is considered to be part of MI, then a second representation
+of forelimb and facial muscles (P-zone) can be envisaged in
+the dorsal (lateral) bank of the presylvian sulcus. This
+region could possibly be a homologue of the primate PMv
+(see below).
+A second interpretation of results could visualize the
+representation of facial muscles in the medial edge of r4 g
+(and possibly including that in area 6a a) as part of MI,
+with a complete body map folded across the cruciate sulcus
+(Nieoullon and Rispal-Padel, 1976). Further studies may
+be required to indicate whether representations of fore-
+limb and facial movements in area 6a a and 6ag are part of
+or separate from the primary motor cortical representation
+of these movements.
+The supplementary motor area has never been clearly
+deﬁned in the cat. However, a number of studies have
+pointed out differences in the connections and functions of
+MOTOR CORTICAL AREAS OF THE CAT 211
+ 10969861, 1997, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1096-9861(19970407)380:2<191::AID-CNE4>3.0.CO;2-Z by University Of Bath, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 22 =====
+rostral and caudal subdivisions of area 4 g, separated by
+the cruciate sulcus (Adkins et al., 1971; Vicario et al., 1983;
+Yumiya and Ghez, 1984). Because, in other carnivores, the
+SMA has been tentatively identiﬁed in the anterior sig-
+moid gyrus (Hardin et al., 1968; Jameson et al., 1968;
+Gorska, 1974), SMA may also be located in the anterior
+sigmoid gyrus of the cat. The present study found a
+representation of forelimb, hindlimb and facial muscles in
+r4g, and the representation of forelimb and facial muscles
+in 6a a. However, the somatotopic arrangement of these
+structures is less clear than in the posterior sigmoid gyrus.
+A large area of cortex, representing forelimb muscles,
+occupies most of r4 g; very small regions representing
+hindlimb or facial muscles were found in the medial edge
+of r4g and deep in the rostral (ventral) bank of the cruciate
+sulcus. The few points in r4 g, from which facial or hind-
+limb muscles were activated, also precludes a clear indica-
+tion of the somatotopic arrangement in this area. Neverthe-
+less, a case may be made for a representation of
+contralateral body parts in the anterior sigmoid gyrus in
+the cat, which may be a homologue of the primate SMA
+(see below). However, the forelimb representation in r4 g
+appeared to require lower currents for ICMS than c4 g
+(although statistically signiﬁcant observations were made
+in only 1 of 5 animals). This ﬁnding is different from that
+observed in dogs and racoons (Hardin et al., 1968; Jameson
+et al., 1968; Gorska, 1974), although in these animals MI
+was found to encroach upon the anterior sigmoid gyrus,
+and therefore, those studies may not be strictly compa-
+rable with ours. Nevertheless, we or others have not found
+a clearly separate area in the cat r4 g with higher thresh-
+olds. Another important ﬁnding which argues against the
+location of an SMA in the anterior sigmoid gyrus in the cat
+is the scarcity of cortical connections between the anterior
+and posterior sigmoid gyri (Yumiya and Ghez, 1984;
+unpublished observations in our laboratory).
+In this study , a representation of the contralateral limbs
+was detected in area 4 d, and may be an alternative
+candidate for the SMA in the cat. The current thresholds for
+evoking movements were higher than 4g and large numbers of
+corticospinal neurons were detected in this region. The repre-
+sentation of the forelimb and hindlimb appeared to be closely
+interdigitated in this area. This interdigitation of forelimb and
+hindlimb areas in the caudal bank of the cruciate sulcus was
+also reported by Hayes and Rustioni (1981). A representation
+of cranial muscles was not detected in area 4d in this study .
+The medial portion of r4d, found devoid of corticospinal neu-
+rons, may contain such a representation, which was missed in
+this study .
+Comparison with primates
+The structure, function and connections of motor areas
+have been studied most rigorously in macaques. Based on
+studies of cortical architecture, stimulation, connections,
+lesions, and association of neural activity with motor
+performance, at least four major motor areas controlling
+limb movements have been identiﬁed in this species: MI,
+SMA, PM, and CMA (reviewed by Wise et al., 1991; Dum
+and Strick, 1991; Kurata, 1994a). These areas can be
+further subdivided on the basis of structural and func-
+tional differences (e.g., pre-SMA and SMA, PMv and PMd,
+CMAr, CMAv and CMAd; Rizzolatti et al., 1988; Luppino
+et al., 1991; Kurata, 1991, 1994a; He et al., 1993, 1995;
+Ghosh and Gattera, 1995). Many of these areas have also
+been identiﬁed in other primates (Gould et al., 1986;
+Stepniewska et al., 1993; Wise, 1996). However, inspite of the
+availability of detailed information in primates, there are few
+properties, if any , that can be used to unequivocally identify a
+particular motor area (see Stepniewska et al., 1993; Wise,
+1996). It is also clear that boundaries between primary and
+nonprimary motor areas can rarely be deﬁned by ICMS or by
+the mapping of corticospinal neurons alone (Sessle and Wiesen-
+danger, 1982; Mitz and Wise, 1987; Rizzolatti et al., 1988;
+Nudo and Masterton, 1990; He et al., 1993, 1995).
+Whereas MI is considered to be located in area 4 g of the
+cat, there are both similarities and differences between cat
+and primate MI. Similarities include cytoarchitecture, the
+presence of large numbers of corticospinal neurons and the
+requirement of relatively low currents to evoke move-
+ments by stimulation. MI of both cats and monkeys receive
+input predominantly from ‘‘cerebellar’’ thalamic territories
+(Jones et al., 1979; Schell and Strick, 1984; Yumiya and
+Ghez, 1984; Ghosh et al., 1987; Moran and Reinoso-
+Suarez, 1988; Inase and Tanji, 1995). There are major
+differences, between the two orders, in the projection and
+termination of corticospinal axons in the spinal cord
+(reviewed by Phillips and Porter, 1977). In this and
+previous studies, it was noted that the face representation
+in area 4 g is much smaller than that in primate MI (see
+above). In addition, separate rostral and caudal subdivi-
+sions can be identiﬁed in cat MI which do not appear to
+correspond to the rostral and caudal subdivisions identi-
+ﬁed in primate MI (Stepniewska et al., 1993). Firstly ,
+ICMS thresholds appear to be lower in r4g than in c4g, and
+secondly , there are few connections, if any , between r4 g
+and c4 g in the cat (Yumiya and Ghez, 1984) unlike that
+seen in the primate (Stepniewska et al., 1993).
+The SMA is located rostromedial to MI in primates, is
+somatotopically organized, and projects to the spinal cord
+and MI (reviewed by Wise, 1996). Whereas current thresh-
+olds for evoking movements are generally held to be higher
+in SMA, this has not always been found to be so (e.g., Mitz
+and Wise, 1987; see Wise, 1996). In addition, there are
+suggestions that thalamic territories receiving inputs from
+the basal ganglia project preferentially to SMA, although
+‘‘cerebellar’’ thalamic projections to SMA have also been
+described (Schell and Strick, 1984; Weisendanger and
+Wiesendanger, 1985; Darian-Smith et al., 1990; Nakano et
+al., 1993). From the above descriptions, it would be difficult
+to consider a homologue of primate SMA in r4 g of the cat,
+as has been suggested in other carnivores (see above).
+Thresholds in r4 g appear to be lower than c4 g, and
+projections from r4g to c4g are sparse or absent in the cat.
+Further, although thalamic projections to r4 g and c4g are
+clearly different, predominantly ‘‘cerebellar’’ thalamic ter-
+ritories project to both areas (Yumiya and Ghez, 1984;
+Moran and Reinoso-Suarez, 1988). It would be equally
+difficult to locate SMA in area 6a a, because corticospinal
+connections from this area are sparse, and projections
+from 6aa to area 4 g are few and restricted to r4 g (Yumiya
+and Ghez, 1984). An alternative candidate for SMA in the
+cat is area 4 d, which has large numbers of corticospinal
+neurons and a large representation of the contralateral
+limbs. In addition, studies in our laboratory have revealed
+somatotopically organized reciprocal connections between
+areas 4 g and 4 d (unpublished observations). However,
+whereas the origin of thalamic projections to area 4 d is
+different from that to area 4 g, predominantly ‘‘cerebellar’’
+thalamic territories project to area 4d (Moran and Reinoso-
+Suarez, 1988).
+The lateral PM of primates has been located in lateral
+area 6, is somatotopically organized, and projects to the
+212 S. GHOSH
+ 10969861, 1997, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1096-9861(19970407)380:2<191::AID-CNE4>3.0.CO;2-Z by University Of Bath, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 23 =====
+spinal cord and MI (reviewed by Wise et al., 1991; Dum
+and Strick, 1991; Stepniewska et al., 1993; Kurata, 1994a).
+PM has been subdivided into dorsal and ventral subdivi-
+sions (PMd and PMv) on the basis of anatomical and
+functional differences (e.g., Rizzolatti et al., 1988; Kurata,
+1991, 1994b; Boussaoud and Wise, 1993; He et al., 1993;
+Ghosh and Gattera, 1995). PMv in macaques has a repre-
+sentation of forelimb and facial muscles, whereas forelimb
+and hindlimb representations have been identiﬁed in PMd
+(Kurata et al., 1985; Rizzolatti et al., 1988; He et al., 1993;
+Ghosh and Gattera, 1995). A face representation in the
+PMd of new world monkeys has also been identiﬁed
+(Stepniewska et al., 1993). Thalamic territories related to
+the cerebellum and basal ganglia have been shown to
+project to PM, with former regions projecting preferen-
+tially to PMv and the latter to PMd (Schell and Strick,
+1984; Matelli et al., 1989; Kurata, 1994b; Inase and Tanji,
+1994). In this study , a representation of forelimb muscles
+was detected in area 6a g. According to the study of Moran
+and Reinoso-Suarez (1988), thalamic projections to area
+6ag (cases GA-216 and GA-195 of their study; these
+authors have not distinguished between area 6a g and 6ab
+in their study) are different from those to area 4g. Area 6ag
+receives inputs mainly from ‘‘cerebellar’’ thalamic territo-
+ries. Area 6a g projects to area 4 g, but this projection may
+be restricted to r4g (Yumiya and Ghez, 1984). Therefore, it
+may be suggested that area 6a g is homologous to the
+primate PMv . It is difficult to identify a homologue of PMd
+in the cat, although area 6a a needs to be considered as a
+possible candidate, because it receives a large input from
+the ‘‘pallido-nigral’’ thalamic territory (Moran and Reinoso-
+Suarez, 1988), but it has few corticospinal neurons and
+projects sparsely to area 4 g.
+A CMA, comparable to that in the primate, has not been
+identiﬁed in the cat by this or other studies. Cingulate
+areas in the cat (Reinoso-Suarez, 1984; Musil and Olson,
+1988; Olson and Musil, 1992) were not found to be ‘‘excit-
+able’’ or to project to the spinal cord, and they do not project
+to the primary motor area of the cat (Musil and Olson,
+1988; Olson and Musil, 1992).
+ACKNOWLEDGMENTS
+I thank vacation scholars, M. Swarbrick and R. Sy , for
+help with the ICMS studies, G. Elston for help with
+histology , and L. Shannon and the University Photography
+Unit for help with illustrations. Support from the Rama-
+ciotti foundation and University of Queensland New Staff
+Research Fund is also acknowledged.
+LITERATURE CITED
+Adkins, R.J., M.R. Cegnar, and D.D. Rafuse (1971) Differential effects of
+lesions of the anterior and posterior sigmoid gyri in cats. Brain Res.
+30:411–414.
+Andersen, P ., P .J. Hagan, C.G. Phillips, and T.P .S. Powell (1975) Mapping
+by microstimulation of overlapping projections from area 4 to motor
+units of the baboon’s hand. Proc. Roy . Soc. Lond. Ser. B. 188:31–60.
+Armand, J., and H.G.J.M. Kuypers (1980) Cells of origin of crossed and
+uncrossed corticospinal ﬁbers in the cat. Exp. Brain Res. 40:23–34.
+Armand, J., Y . Padel, and A.M. Smith (1974) Somatotopic organization of
+the corticospinal tract in cat motor cortex. Brain Res. 74:209–227.
+Armand, J., G. Holstege, and H.G.J.M. Kuypers (1985) Differential cortico-
+spinal projections in the cat. An autoradiographic tracing study . Brain
+Res. 343:351–355.
+Asanuma, H., and I. Rosen (1972) Topographical organisation of cortical
+efferent zones projecting to distal forelimb muscles in the monkey . Exp.
+Brain Res. 14:243–256.
+Asanuma, H., and I. Rosen (1973) Spread of mono- and polysynaptic
+connections within cat’s motor cortex. Exp. Brain Res. 16:507–520.
+Asanuma, H., and H. Sakata (1967) Functional organization of a cortical
+efferent system examined with focal depth stimulation in cats. J.
+Neurophysiol. 30:35–54.
+Asanuma, H., and J.E. Ward (1971) Patterns of contraction of distal
+forelimb muscles produced by intracortical microstimulation in cats.
+Brain Res. 27:97–109.
+Asanuma, H., S.D. Stoney , and C. Azbug (1968) Relationship between
+afferent input and motor outﬂow in cat motorsensory cortex. J. Neuro-
+physiol. 31:670–681.
+Asanuma, H., A. Arnold, and P . Zarzecki (1976) Further study on the
+excitation of pyramidal tract cells by intracortical microstimulation.
+Exp. Brain Res. 26:443–461.
+Avendano, C., and A. Verdu (1992) Area 3a in the cat. I. A reevaluation of its
+location and architecture on the basis of nissl, myelin, acetylcholinester-
+ase, and cytochrome oxidase staining. J. Comp. Neurol. 321:357–372.
+Avendano, C., A.J. Isla, and E. Raussell (1992) Area 3a in the cat. II.
+Projections to the motor cortex and their relations to other corticocorti-
+cal connections. J. Comp. Neurol. 321:373–386.
+Boussaoud, D., and S.P . Wise (1993) Primate frontal cortex: Neuronal
+activity following attentional versus intentional cues. Exp. Brain Res.
+95:15–27.
+Catsman-Berrevoets, C.E., and H.G.J.M. Kuypers (1981) A search for
+corticospinal collaterals to thalamus and mesencephalon by means of
+multiple retrograde ﬂuorescent tracers in cat and rat. Brain Res.
+218:15–33.
+Darian-Smith, C., I. Darian-Smith, and S. Cheema (1990) Thalamic
+projections to sensorimotor cortex in the macaque monkey: Use of
+multiple retrograde ﬂuorescent tracers. J. Comp. Neurol. 299:17–46.
+Delgado, J.M.R. (1952) Hidden motor cortex of the cat. Am. J. Physiol.
+170:673–681.
+Delgado, J.M.R., and R. Livingston (1955) Motor representation in the
+frontal sulci of the cat. Y ale J. Biol. Med. 28:245–252.
+Dum, R.P ., and P .L. Strick (1991) Premotor areas: Nodal points for parallel
+efferent systems involved in the central control of movement. In E.R.
+Humphrey and H. Freund (eds): Motor Control: Concepts and Issues.
+Chichester: Wiley , pp. 383–397.
+Galea, M.P ., and I. Darian-Smith (1994) Multiple corticospinal neuron popula-
+tions in the macaque monkey are speciﬁed by their unique cortical origins,
+spinal terminations and connections. Cereb. Cortex4:166–194.
+Ghosh, S., and R. Gattera (1995) A comparison of the ipsilateral cortical
+projections to the dorsal and ventral subdivisions of the macaque
+premotor cortex. Somatosens. Motor Res. 12:359–378.
+Ghosh, S., C. Brinkman, and R. Porter (1987) A quantitative study of the
+distribution of neurons projecting to the precentral motor cortex in the
+monkey (M. fascicularis). J. Comp. Neurol. 259:424–444.
+Gorska, T. (1974) Functional organization of cortical motor areas in adult
+dogs and puppies. Acta Neurobiol. Exp. 34:171–203.
+Gould, H.J., C.G. Cusick, T.P . Pons, and J.H. Kaas (1986) The relationship
+of corpus callosum connections to electrical stimulation maps of motor,
+supplementary motor, and frontal eye ﬁelds in owl monkeys. J. Comp.
+Neurol. 247:297–325.
+Groos, W .P ., L.K. Ewing, C.W . Carter, and J.D. Coulter (1978) Organization
+of corticospinal neurons in the cat. Brain Res. 143:393–419.
+Hardin, W .B., N. Arumugasamy , and H.D. Jameson (1968) Pattern of localiza-
+tion in ‘precentral’ motor cortex of racoon. Brain Res.11:611–627.
+Hassler, R., and K. Muhs-Clement (1964) Architonischer aufbau des
+sensorimotorischen and parietalen cortex der katze. J. Hirnforsch.
+6:377–420.
+Hayes, N.L., and A. Rustioni (1981) Descending projections from brainstem
+and sensorimotor cortex to spinal enlargements in the cat. Exp. Brain
+Res. 41:89–107.
+He, S.Q., R.P . Dum, and P .L. Strick (1993) Topographic organization of
+corticospinal projections from the frontal lobe: Motor areas on the
+lateral surface of the hemisphere. J. Neurosci. 13:952–980.
+He, S.Q., R.P . Dum, and P .L. Strick (1995) Topographic organization of
+corticospinal projections from the frontal lobe: Motor areas on the
+medial surface of the hemisphere. J. Neurosci. 15:3284–3306.
+Humphrey , D.R. (1986) Representation of movements and muscles within
+the primate precentral motor cortex: Historical and current perspec-
+tives. Fed. Proc. 45:2687–2697.
+Inase, M., and J. Tanji (1994) Projections from the globus pallidus to the
+thalamic areas projecting to the dorsal area 6 of the macaque monkey: A
+multiple tracing study . Neurosci. Lett.180:135–137.
+MOTOR CORTICAL AREAS OF THE CAT 213
+ 10969861, 1997, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1096-9861(19970407)380:2<191::AID-CNE4>3.0.CO;2-Z by University Of Bath, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 24 =====
+Inase, M., and J. Tanji (1995) Thalamic distribution of projection neurons to
+the primary motor cortex relative to afferent terminal ﬁelds from the
+globus pallidus in the macaque monkey . J. Comp. Neurol. 353:415–426.
+Iwata, K., H. Muramatsu, Y . Tsuboi, and R. Sumino (1990) Input-output
+relationships in the jaw and orofacial motor zones of the cat cerebral
+cortex. Brain Res. 507:337–340.
+Jameson, H.D., N. Arumugasamy , and W .B. Hardin (1968) The supplemen-
+tary motor area of the racoon. Brain Res. 11:628–637.
+Jankowska, E., Y . Padel, and R. Tanaka (1975) The mode of activation of
+pyramidal tract cells by intracortical stimuli. J. Physiol. 249:617–636.
+Jones, E.G., and S.P . Wise (1977) Size, laminar and columnar distribution
+of afferent cells in the sensori-motor cortex of monkeys. J. Comp.
+Neurol. 175:391–437.
+Jones, E.G., S.P . Wise, and J.D. Coulter (1979) Differential thalamic
+relationships of sensory , motor and parietal cortical ﬁelds in monkeys.
+J. Comp. Neurol. 183:833–881.
+Keizer, K., H.G.J.M. Kuypers, A.M. Huisman, and O. Dann (1983) Diami-
+dino Y ellow Dihydrochloride (DY -2HCl); A new ﬂuorescent retrograde
+neuronal tracer, which migrates only very slowly out of the cell. Exp.
+Brain Res. 51:179–191.
+Keller, A. (1993) Intrinsic connections between representation zones in the
+cat motor cortex. Neuroreport 4:515–518.
+Kurata, K. (1991) Cortico-cortical inputs to the dorsal and ventral aspects
+of the premotor cortex of macaque monkeys. Neurosci. Res. 12:263–280.
+Kurata, K. (1994a) Information processing for motor control in primate
+premotor cortex. Behav . Brain Res.61:135–142.
+Kurata, K. (1994b) Site of origin of projections from the thalamus to dorsal
+versus ventral aspects of the premotor cortex of monkeys. Neurosci.
+Res. 21:71–76.
+Kurata, K., K. Okano, and J. Tanji (1985) Distribution of neurons related to
+hindlimb as opposed to forelimb movement in the monkey premotor
+cortex. Exp. Brain Res. 60:188–191.
+Kuypers, H.G.J.M. (1982) A new look at the organization of the motor
+system. In H.G.J.M. Kuypers and G.F . Martin (eds): Anatomy of
+Descending Pathways to the Spinal Cord. Prog. Brain Res. v57.
+Amsterdam: Elsevier, pp. 381–404.
+Kwan, H.C., W .A. MacKay , J.T. Murphy , and Y .C. Wong (1978) Spatial
+organization of precentral cortex in awake primates. II. Motor outputs.
+J. Neurophysiol. 41:1120–1131.
+Leclerc, S.S., C. Avendano, R.W . Dykes, R.S. Waters, and I. Salimi (1994)
+Reevaluation of area 3b in the cat based on architectonic and electro-
+physiological studies: Regional variability with functional and anatomi-
+cal consistencies. J. Comp. Neurol. 341:357–374.
+Lundberg, A., and P . Voorhoeve (1962) Effects from the pyramidal tract on
+spinal reﬂex arcs. Acta Physiol. Scand. 56:201–219.
+Luppino, G., M. Matelli, R. Camarda, V . Gallese, and G. Rizzolatti (1991)
+Multiple representations of body movements in medial area 6 and the
+adjacent cingulate cortex: An intracortical microstimulation study . J.
+Comp. Neurol. 311:463–482.
+MacKibben, P .S., and D.R. Wheelis (1932) Experiments on the motor cortex
+of the cat. J. Comp. Neurol. 56:373–390.
+Macpherson, J.M., C. Marangoz, T.S. Miles, and M. Wiesendanger (1982)
+Microstimulation of the supplementary motor area (SMA) in the awake
+monkey . Exp. Brain Res.45:410–416.
+Matelli, M., G. Luppino, L. Fogassi, and G. Rizzolatti (1989) Thalamic input
+to inferior area 6 and area 4 in the macaque monkey . J. Comp. Neurol.
+280:468–488.
+Mitz, A.R., and S.P . Wise (1987) The somatotopic organization of the
+supplementary motor area: Intracortical microstimulation mapping. J.
+Neurosci. 7:1010–1021.
+Moran, M.A., and F . Reinoso-Suarez (1988) Topographical organization of
+the thalamic afferent connections to the motor cortex in the cat. J.
+Comp. Neurol. 270:64–85.
+Murray , E.A., and J.D. Coulter (1981) Organization of corticospinal neu-
+rons in the monkey . J. Comp. Neurol. 195:339–365.
+Musil, S.Y ., and C.R. Olsen (1991) Organization of cortical and subcortical
+projections to anterior cingulate cortex in the cat. J. Comp. Neurol.
+272:203–218.
+Myasnikov , A.A., R.W . Dykes, and C. Avendano (1994) Cytoarchitecture and
+responsiveness of the medial ansate region of the cat primary somato-
+sensory cortex. J. Comp. Neurol. 349:401–427.
+Nakano, K., Y . Hasegawa, T. Kayahara, A. Tokushige, and Y . Kuga (1993)
+Cortical connections of the motor thalamic nuclei in the Japanese
+monkey ,Macaca fuscata. Stereotact. Funct. Neurosurg. 60:42–61.
+Nieoullon, A., and L. Rispal-Padel (1973) Somatotopic localization in cat
+motor cortex. Brain Res. 105:405–422.
+Nudo, R.J., and R.B. Masterton (1990) Descending pathways to the spinal
+cord, III: Sites of origin of the corticospinal tract. J. Comp. Neurol.
+296:559–583.
+Nyberg-Hansen, R., and A. Brodal (1963) Sites of termination of corticospi-
+nal ﬁbers in the cat. An experimental study with silver impregnation
+methods. J. Comp. Neurol. 120:369–391.
+Olsen, C.R., and S.Y . Musil (1992) Topographical organization of cortical
+and subcortical projections to posterior cingulate cortex in the cat:
+Evidence for somatic, ocular, and complex subregions. J. Comp. Neurol.
+324:237–260.
+Pappas, C.L., and P .L. Strick (1981) Physiological demonstration of mul-
+tiple representation in the forelimb region of the cat motor cortex. J.
+Comp. Neurol. 200:481–490.
+Phillips, C.G., and R. Porter (1977) Corticospinal Neurons: Their Role in
+Movement. London: Academic Press.
+Porter, R., and R.N. Lemon (1993) Corticospinal Function and Voluntary
+Movement. Oxford: Clarendon.
+Reinoso-Suarez, F . (1984) Connectional patterns in parietotemporooccipital
+association cortex of the feline cerebral cortex. In F . Reinoso-Suarez and
+C. Ajmone-Marsan (eds): Cortical Integration. New Y ork: Raven Press,
+pp. 255–278.
+Rizzolatti, G., R. Camarda, L. Fogassi, M. Gentilucci, G. Luppino, and M.
+Matelli (1988) Functional organization of inferior area 6 in the macaque
+monkey . II. Area F5 and the control of distal movements. Exp. Brain
+Res. 71:491–507.
+Schell, G.R., and P .L. Strick (1984) The origin of thalamic inputs to the arcuate
+premotor and supplementary motor areas. J. Neurosci.4:539–560.
+Schlag, J., and M. Schlag-Rey (1970) Induction of oculomotor responses by
+electrical stimulation of the prefrontal cortex in the cat. Brain Res.
+22:1–13.
+Sessle, B.J., and M. Wiesendanger (1982) Structural and functional deﬁni-
+tion of the motor cortex in the monkey (Macaca fascicularis). J. Physiol.
+323:245–265.
+Shinoda, Y ., A.P . Arnold, and H. Asanuma (1976) Spinal branching of
+corticospinal axons in the cat. Exp. Brain Res. 26:215–234.
+Shinoda, Y ., T. Y amaguchi, and T. Futami (1986) Multiple axon collaterals
+of single corticospinal axons in the cat spinal cord. J. Neurophysiol.
+55:425–448.
+Stepniewska, I., T.M. Preuss, and J.H. Kaas (1993) Architectonics, somato-
+topic organization, and ipsilateral cortical connections of the primary
+motor area (M1) of owl monkeys. J. Comp. Neurol. 330:238–271.
+Thomas, A., L.E. Westrum, J.L. Devito, and M.A. Biedenbach (1984)
+Unmyelinated axons in the pyramidal tract of the cat. Brain Res.
+301:162–165.
+Toyoshima, K., and H. Sakai (1982) Exact cortical extent of the origin of
+corticospinal tract (CST) and the quantitative contribution to the CST
+in different cytoarchitectonic areas. A study with horseradish peroxi-
+dase in the monkey . J. Hirnforsch.23:257–269.
+Vicario, D.S., J.H. Martin, and C. Ghez (1983) Specialized subregions in the
+cat motor cortex: A single unit analysis in the behving animal. Exp.
+Brain Res. 51:351–367.
+Ward, J.W ., and S.L. Clark (1935) Speciﬁc responses elicitable from the
+subdivisions of the motor cortex of the cerebrum of the cat. J. Comp.
+Neurol. 63:49–64.
+Wiesendanger, R., and M. Wiesendanger (1985) The thalamic connections
+with medial area 6 (supplementary motor cortex) in the monkey
+(Macaca fascicularis). Exp. Brain Res. 59:91–104.
+Wise, S.P . (1996) Evolutionary and comparative neurobiology of the suplle-
+mentary sensorimotor area. In H.O. Luders (ed): Supplementary Senso-
+rimotor Area, Advances in Neurology Vol. 70. Philadelphia: Lippineon-
+Raven, pp. 71–84.
+Wise, S.P ., G.E. Alexander, J.S. Altman, V .B. Brooks, H-J Freund, C.J.
+Fromm, D.R. Humphrey , K. Sasaki, P .L. Strick, J. Tanji, S. Vogel, and
+M. Wiesendanger (1991) Group report: What are the speciﬁc functions
+of the different motor areas? In D.R. Humphrey and H-J. Freund (eds):
+Motor Control: Concepts and Issues. Chichester: Wiley , pp. 463–485.
+Woolsey , C.N. (1958) Organization of somatic sensory and motor areas of
+the cerebral cortex. In H. Harlow and C.N. Woolsey (eds): Biological and
+Biochemical Bases of Behavior. Madison: University of Wisconsin
+Press, pp. 63–81.
+Woolsey , C.N. (1964) Cortical localization as deﬁned by evoked potential
+and electrical stimulation studies. In G. Schaltenbrand and C.N.
+Woolsey (eds): Cerebral Localization and Organization. Madison: Uni-
+versity of Wisconsin Press, pp. 17–26.
+Yumiya, H., and C. Ghez (1984) Specialized subregions in the cat motor
+cortex: Anatomical demonstration of differential projections to rostral
+and caudal sectors. Exp. Brain Res. 53:259–276.
+214 S. GHOSH
+ 10969861, 1997, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1096-9861(19970407)380:2<191::AID-CNE4>3.0.CO;2-Z by University Of Bath, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

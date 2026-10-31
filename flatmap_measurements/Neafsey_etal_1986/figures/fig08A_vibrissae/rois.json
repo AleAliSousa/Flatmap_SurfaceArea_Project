@@ -1,0 +1,174 @@
+{
+  "map_id": "fig08A_vibrissae",
+  "figure": "8A",
+  "panel": "",
+  "pdf_page": 10,
+  "printed_page": "",
+  "species": "Rattus norvegicus",
+  "specimen": "fig08A_vibrissae_experiment_unresolved",
+  "hemisphere": "unresolved",
+  "view_type": "individual_response_map_on_curved_grid",
+  "hemisphere_relation": "",
+  "linked_main_map": "",
+  "repeat_of": "",
+  "relationship_note": "Distinct panel experiment; animal identity and overlap with other figures unresolved. Do not pool panels as independent animals.",
+  "specimen_link_status": "source_label_preserved; cross-paper overlap unresolved",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 3,
+  "crop_xyxy": [
+    310,
+    170,
+    1420,
+    900
+  ],
+  "scale_endpoints_px": [],
+  "scale_length_mm": null,
+  "scale_note": "Source Fig. 3 states each curved grid cell represents 1 mm\u00b2. The grid is nonuniform in image space: a single pixel/mm scale is invalid. Pixel tracing retained; local grid-based area calibration is required and has not been applied.",
+  "scale_reference_map": "",
+  "outline": null,
+  "rois": [
+    {
+      "label": "vibrissae",
+      "polygons": [
+        [
+          [
+            254.0,
+            132.0
+          ],
+          [
+            288.0,
+            108.0
+          ],
+          [
+            330.0,
+            96.0
+          ],
+          [
+            382.0,
+            78.0
+          ],
+          [
+            438.0,
+            66.0
+          ],
+          [
+            502.0,
+            54.0
+          ],
+          [
+            566.0,
+            46.0
+          ],
+          [
+            628.0,
+            36.0
+          ],
+          [
+            690.0,
+            30.0
+          ],
+          [
+            750.0,
+            28.0
+          ],
+          [
+            768.0,
+            58.0
+          ],
+          [
+            752.0,
+            72.0
+          ],
+          [
+            740.0,
+            90.0
+          ],
+          [
+            742.0,
+            110.0
+          ],
+          [
+            710.0,
+            118.0
+          ],
+          [
+            676.0,
+            122.0
+          ],
+          [
+            650.0,
+            112.0
+          ],
+          [
+            620.0,
+            122.0
+          ],
+          [
+            588.0,
+            148.0
+          ],
+          [
+            570.0,
+            172.0
+          ],
+          [
+            542.0,
+            168.0
+          ],
+          [
+            518.0,
+            174.0
+          ],
+          [
+            494.0,
+            200.0
+          ],
+          [
+            470.0,
+            192.0
+          ],
+          [
+            440.0,
+            186.0
+          ],
+          [
+            400.0,
+            178.0
+          ],
+          [
+            376.0,
+            198.0
+          ],
+          [
+            342.0,
+            208.0
+          ],
+          [
+            308.0,
+            204.0
+          ],
+          [
+            290.0,
+            196.0
+          ],
+          [
+            278.0,
+            172.0
+          ]
+        ]
+      ],
+      "extent": "complete_drawn_response_territory",
+      "boundary_note": "Heavy author-drawn response-territory boundary, traced at stroke centre. Functional response map, not a complete architectonic M1 outline. Dense/merged strokes introduce boundary uncertainty."
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "M1_total",
+      "status": "not_measurable",
+      "reason": "The figure maps selected response territories, not a complete architectonic M1 boundary."
+    }
+  ],
+  "supersample": 4,
+  "protocol": "perpendicular"
+}

@@ -1,0 +1,228 @@
+{
+  "map_id": "fig08_9209_ICMS",
+  "figure": "8",
+  "panel": "",
+  "pdf_page": 12,
+  "printed_page": "",
+  "species": "Monodelphis domestica",
+  "specimen": "9209",
+  "hemisphere": "unresolved",
+  "view_type": "individual_motor_response_map",
+  "hemisphere_relation": "",
+  "linked_main_map": "",
+  "repeat_of": "",
+  "relationship_note": "Motor response territory overlaps sensory cortex. No separate M1 inferred; keep stimulation protocols separate.",
+  "specimen_link_status": "source_label_preserved; cross-paper overlap unresolved",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 3,
+  "crop_xyxy": [
+    980,
+    480,
+    1650,
+    1036
+  ],
+  "scale_endpoints_px": [
+    [
+      362.0,
+      518.0
+    ],
+    [
+      530.0,
+      518.0
+    ]
+  ],
+  "scale_length_mm": 1,
+  "scale_note": "Printed same-panel scale; no shrinkage correction applied.",
+  "scale_reference_map": "",
+  "outline": null,
+  "rois": [
+    {
+      "label": "motor_vibrissae_ICMS",
+      "polygons": [
+        [
+          [
+            30.0,
+            302.0
+          ],
+          [
+            56.0,
+            278.0
+          ],
+          [
+            82.0,
+            268.0
+          ],
+          [
+            104.0,
+            240.0
+          ],
+          [
+            134.0,
+            216.0
+          ],
+          [
+            164.0,
+            190.0
+          ],
+          [
+            196.0,
+            160.0
+          ],
+          [
+            228.0,
+            134.0
+          ],
+          [
+            268.0,
+            116.0
+          ],
+          [
+            270.0,
+            82.0
+          ],
+          [
+            280.0,
+            56.0
+          ],
+          [
+            304.0,
+            36.0
+          ],
+          [
+            344.0,
+            32.0
+          ],
+          [
+            390.0,
+            36.0
+          ],
+          [
+            436.0,
+            36.0
+          ],
+          [
+            484.0,
+            32.0
+          ],
+          [
+            518.0,
+            40.0
+          ],
+          [
+            556.0,
+            58.0
+          ],
+          [
+            592.0,
+            72.0
+          ],
+          [
+            618.0,
+            96.0
+          ],
+          [
+            634.0,
+            122.0
+          ],
+          [
+            640.0,
+            156.0
+          ],
+          [
+            634.0,
+            192.0
+          ],
+          [
+            634.0,
+            234.0
+          ],
+          [
+            628.0,
+            258.0
+          ],
+          [
+            610.0,
+            268.0
+          ],
+          [
+            568.0,
+            274.0
+          ],
+          [
+            546.0,
+            290.0
+          ],
+          [
+            518.0,
+            318.0
+          ],
+          [
+            490.0,
+            338.0
+          ],
+          [
+            464.0,
+            352.0
+          ],
+          [
+            450.0,
+            388.0
+          ],
+          [
+            430.0,
+            414.0
+          ],
+          [
+            388.0,
+            428.0
+          ],
+          [
+            336.0,
+            438.0
+          ],
+          [
+            278.0,
+            438.0
+          ],
+          [
+            230.0,
+            436.0
+          ],
+          [
+            178.0,
+            436.0
+          ],
+          [
+            136.0,
+            432.0
+          ],
+          [
+            120.0,
+            422.0
+          ],
+          [
+            100.0,
+            390.0
+          ],
+          [
+            68.0,
+            360.0
+          ],
+          [
+            36.0,
+            336.0
+          ],
+          [
+            28.0,
+            318.0
+          ]
+        ]
+      ],
+      "extent": "complete_drawn_field",
+      "boundary_note": "Manual outline follows visible source boundary; short label/stroke gaps interpolated. Includes internal symbols and tracer deposits. Provisional."
+    }
+  ],
+  "unmeasured": [],
+  "supersample": 4
+}

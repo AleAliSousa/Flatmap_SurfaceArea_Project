@@ -1,0 +1,17 @@
+{
+  "native_imagej_roundtrip": "passed for four changed datasets",
+  "final_hash_and_area_verification": {
+    "Beck_etal_1996": 222,
+    "Frost_etal_2000": 119,
+    "Krubitzer_1998": 185,
+    "Manger_etal_2002": 88
+  },
+  "canonical_ROIs_changed": 9,
+  "unchanged_view_hashes": "matched baseline inventory",
+  "unaffected_area_values": "identical to archived datasets",
+  "calibration_identity_and_extent": "preserved",
+  "report_local_links_checked": 3160,
+  "missing_report_links": 0,
+  "report_javascript_syntax": "node --check passed",
+  "anatomical_certification": false
+}

@@ -1,0 +1,11 @@
+{
+  "rows": 208,
+  "statuses": {
+    "existing geometry; mm2 unavailable": 40,
+    "no equivalent row": 50,
+    "numeric drawing comparison": 94,
+    "explicit unavailable measurement": 7,
+    "citation mismatch; candidate comparison only": 16,
+    "different field definition; diagnostic numbers only": 1
+  }
+}

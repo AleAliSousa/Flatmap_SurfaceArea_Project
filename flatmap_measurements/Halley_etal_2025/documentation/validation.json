@@ -1,0 +1,64 @@
+{
+  "processed_views": 4,
+  "measured_fields": 13,
+  "unmeasured_fields": 12,
+  "overlaps": [
+    {
+      "map_id": "fig03A_K22_06",
+      "field_a": "PM_M1_sampled_extent",
+      "field_b": "3a_sampled_extent",
+      "overlap_pixels": 145
+    },
+    {
+      "map_id": "fig03A_K22_06",
+      "field_a": "3b_sampled_extent",
+      "field_b": "areas1_2_sampled_extent",
+      "overlap_pixels": 155
+    },
+    {
+      "map_id": "fig03A_K22_06",
+      "field_a": "3b_sampled_extent",
+      "field_b": "3a_sampled_extent",
+      "overlap_pixels": 131
+    },
+    {
+      "map_id": "fig03B_K22_05",
+      "field_a": "PM_M1_sampled_extent",
+      "field_b": "3a_sampled_extent",
+      "overlap_pixels": 149
+    },
+    {
+      "map_id": "fig03B_K22_05",
+      "field_a": "3a_sampled_extent",
+      "field_b": "3b_sampled_extent",
+      "overlap_pixels": 115
+    },
+    {
+      "map_id": "fig04A_K22_04",
+      "field_a": "PM_M1_sampled_extent",
+      "field_b": "3a_sampled_extent",
+      "overlap_pixels": 182
+    },
+    {
+      "map_id": "fig04A_K22_04",
+      "field_a": "3a_sampled_extent",
+      "field_b": "3b_sampled_extent",
+      "overlap_pixels": 143
+    },
+    {
+      "map_id": "fig04B_K22_03",
+      "field_a": "PM_M1_sampled_extent",
+      "field_b": "3a_sampled_extent",
+      "overlap_pixels": 130
+    },
+    {
+      "map_id": "fig04B_K22_03",
+      "field_a": "3a_sampled_extent",
+      "field_b": "3b_sampled_extent",
+      "overlap_pixels": 150
+    }
+  ],
+  "native_imagej_roundtrip": "passed",
+  "anatomical_review": "All exported source/tracing pairs inspected; manual boundaries remain provisional and await domain review.",
+  "reference_comparison": "Frost same-case Table1 comparison saved in batch report; Bock and Halley source tables retained separately. No calibration fitted to reference values."
+}

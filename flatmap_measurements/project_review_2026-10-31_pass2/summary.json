@@ -1,0 +1,66 @@
+{
+  "active_datasets": 44,
+  "active_views": 448,
+  "overview_sheets_reviewed": 128,
+  "traced_views": 385,
+  "regional_ROIs": 1871,
+  "revised_regions": 51,
+  "added_regions": 11,
+  "changed_regions": 62,
+  "changed_views": 14,
+  "changed_papers": 6,
+  "grades": {
+    "B": 262,
+    "N": 63,
+    "C": 58,
+    "A": 60,
+    "D": 5
+  },
+  "rebuild_validation": [
+    {
+      "paper_id": "Beck_Kaas_1998",
+      "changed_regions": 1,
+      "unaffected_areas_identical": true,
+      "scale_identity_repeat_flags_preserved": true,
+      "native_imagej_roundtrip": "passed"
+    },
+    {
+      "paper_id": "Burman_etal_2008",
+      "changed_regions": 2,
+      "unaffected_areas_identical": true,
+      "scale_identity_repeat_flags_preserved": true,
+      "native_imagej_roundtrip": "passed"
+    },
+    {
+      "paper_id": "Ghosh_1997",
+      "changed_regions": 49,
+      "unaffected_areas_identical": true,
+      "scale_identity_repeat_flags_preserved": true,
+      "native_imagej_roundtrip": "passed"
+    },
+    {
+      "paper_id": "Krubitzer_1998",
+      "changed_regions": 1,
+      "unaffected_areas_identical": true,
+      "scale_identity_repeat_flags_preserved": true,
+      "native_imagej_roundtrip": "passed"
+    },
+    {
+      "paper_id": "Krubitzer_2009",
+      "changed_regions": 1,
+      "unaffected_areas_identical": true,
+      "scale_identity_repeat_flags_preserved": true,
+      "native_imagej_roundtrip": "passed"
+    },
+    {
+      "paper_id": "Remple_etal_2006",
+      "changed_regions": 8,
+      "unaffected_areas_identical": true,
+      "scale_identity_repeat_flags_preserved": true,
+      "native_imagej_roundtrip": "passed"
+    }
+  ],
+  "unchanged_view_hashes_verified": true,
+  "source_pixels_scale_and_metadata_preserved": true,
+  "anatomical_certification": false
+}

@@ -1,6 +1,6 @@
 {
   "processed_views": 2,
-  "measured_fields": 74,
+  "measured_fields": 76,
   "unmeasured_fields": 3,
   "overlaps": [
     {
@@ -126,7 +126,7 @@
     {
       "map_id": "fig02",
       "field_a": "4",
-      "field_b": "Pall",
+      "field_b": "Unlabeled compartment ventral to FEF (holds PaI label text)",
       "overlap_pixels": 84
     },
     {
@@ -156,7 +156,7 @@
     {
       "map_id": "fig02",
       "field_a": "6",
-      "field_b": "Pall",
+      "field_b": "Unlabeled compartment ventral to FEF (holds PaI label text)",
       "overlap_pixels": 34
     },
     {
@@ -180,7 +180,7 @@
     {
       "map_id": "fig02",
       "field_a": "3a",
-      "field_b": "Pall",
+      "field_b": "Unlabeled compartment ventral to FEF (holds PaI label text)",
       "overlap_pixels": 1
     },
     {
@@ -192,7 +192,7 @@
     {
       "map_id": "fig02",
       "field_a": "1",
-      "field_b": "Pall",
+      "field_b": "Unlabeled compartment ventral to FEF (holds PaI label text)",
       "overlap_pixels": 7
     },
     {
@@ -318,7 +318,7 @@
     {
       "map_id": "fig02",
       "field_a": "13",
-      "field_b": "Pall",
+      "field_b": "Unlabeled compartment ventral to FEF (holds PaI label text)",
       "overlap_pixels": 24
     },
     {
@@ -330,7 +330,7 @@
     {
       "map_id": "fig02",
       "field_a": "45",
-      "field_b": "Pall",
+      "field_b": "Unlabeled compartment ventral to FEF (holds PaI label text)",
       "overlap_pixels": 99
     },
     {
@@ -348,7 +348,7 @@
     {
       "map_id": "fig02",
       "field_a": "G",
-      "field_b": "Pall",
+      "field_b": "Unlabeled compartment ventral to FEF (holds PaI label text)",
       "overlap_pixels": 87
     },
     {
@@ -624,7 +624,7 @@
     {
       "map_id": "fig02",
       "field_a": "FEF",
-      "field_b": "Pall",
+      "field_b": "Unlabeled compartment ventral to FEF (holds PaI label text)",
       "overlap_pixels": 11
     },
     {
@@ -726,7 +726,7 @@
     {
       "map_id": "fig02",
       "field_a": "Pro",
-      "field_b": "Pall",
+      "field_b": "Unlabeled compartment ventral to FEF (holds PaI label text)",
       "overlap_pixels": 17
     },
     {
@@ -749,9 +749,21 @@
     },
     {
       "map_id": "fig02",
+      "field_a": "AI",
+      "field_b": "AUDITORY (unlabeled remainder)",
+      "overlap_pixels": 1
+    },
+    {
+      "map_id": "fig02",
       "field_a": "CM",
       "field_b": "L",
       "overlap_pixels": 17
+    },
+    {
+      "map_id": "fig02",
+      "field_a": "CM",
+      "field_b": "AUDITORY (unlabeled remainder)",
+      "overlap_pixels": 4
     },
     {
       "map_id": "fig02",

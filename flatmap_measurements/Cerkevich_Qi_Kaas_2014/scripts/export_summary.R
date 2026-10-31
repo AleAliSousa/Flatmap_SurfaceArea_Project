@@ -1,0 +1,6 @@
+source("scripts/summarize_flatmaps.R")
+d <- read.csv("data/measurements.csv", na.strings=c("NA", ""), check.names=FALSE)
+r <- build_flatmap_summary(d, fields=unique(d$label), species_order=unique(d$species))
+write.csv(r$table,"data/species_summary_percent.csv",row.names=FALSE,na="NA")
+write.csv(r$case_key,"data/summary_case_key.csv",row.names=FALSE,na="NA")
+write.csv(r$n,"data/summary_observed_n.csv",row.names=FALSE,na="NA")

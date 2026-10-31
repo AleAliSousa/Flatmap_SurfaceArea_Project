@@ -1,0 +1,65 @@
+{
+  "map_id": "fig04_MRI_flatmap_source",
+  "figure": "4",
+  "panel": "",
+  "pdf_page": 5,
+  "printed_page": "",
+  "species": "Callithrix jacchus",
+  "specimen": "illustrative_MRI_map",
+  "hemisphere": "unresolved",
+  "view_type": "MRI_flatmap_with_nonuniform_distortion",
+  "hemisphere_relation": "",
+  "linked_main_map": "",
+  "repeat_of": "",
+  "relationship_note": "",
+  "specimen_link_status": "source_label_preserved; cross-paper overlap unresolved",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 3,
+  "crop_xyxy": [
+    0,
+    0,
+    1500,
+    2100
+  ],
+  "scale_endpoints_px": [],
+  "scale_length_mm": null,
+  "scale_note": "Physical calibration unavailable or ambiguous; pixel areas only.",
+  "scale_reference_map": "",
+  "outline": null,
+  "rois": [],
+  "unmeasured": [
+    {
+      "label": "M1",
+      "status": "not_measurable",
+      "reason": "Display intensity and labels do not establish a closed reproducible field envelope; flattening distortion prevents a global pixel-to-mm\u00b2 conversion. Table1 native-surface areas are retained separately."
+    },
+    {
+      "label": "S1",
+      "status": "not_measurable",
+      "reason": "Display intensity and labels do not establish a closed reproducible field envelope; flattening distortion prevents a global pixel-to-mm\u00b2 conversion. Table1 native-surface areas are retained separately."
+    },
+    {
+      "label": "V1",
+      "status": "not_measurable",
+      "reason": "Display intensity and labels do not establish a closed reproducible field envelope; flattening distortion prevents a global pixel-to-mm\u00b2 conversion. Table1 native-surface areas are retained separately."
+    },
+    {
+      "label": "MT",
+      "status": "not_measurable",
+      "reason": "Display intensity and labels do not establish a closed reproducible field envelope; flattening distortion prevents a global pixel-to-mm\u00b2 conversion. Table1 native-surface areas are retained separately."
+    },
+    {
+      "label": "A1_R",
+      "status": "not_measurable",
+      "reason": "Display intensity and labels do not establish a closed reproducible field envelope; flattening distortion prevents a global pixel-to-mm\u00b2 conversion. Table1 native-surface areas are retained separately."
+    },
+    {
+      "label": "whole_neocortex",
+      "status": "not_measurable",
+      "reason": "Display intensity and labels do not establish a closed reproducible field envelope; flattening distortion prevents a global pixel-to-mm\u00b2 conversion. Table1 native-surface areas are retained separately."
+    }
+  ],
+  "supersample": 4,
+  "review_note": "Source retained for review; no anatomical ROI was invented. See published_areas.csv for Table1."
+}

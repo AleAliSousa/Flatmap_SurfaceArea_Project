@@ -1,0 +1,7 @@
+figure,pdf_page,interpretation,status,next_action
+1,3,MRI sections,not_applicable,Not a surface map
+2,5,Ten human V1 flatmaps,digitized,10 V1 envelopes; paired subjects preserved
+3,6,Normalized human probability map and overlap,not_independent,Summary of Fig.2; no new cases
+4,6,Normalized macaque probability map,not_measurable_individual,13 pooled surfaces; no individual calibrated outlines
+5,7,Curvature and flattening examples,repeat_or_not_applicable,Human example repeats LH1; no additional target observations
+6,8,Predicted retinotopy models,not_applicable,"Model geometry, not new tissue"

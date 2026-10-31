@@ -1,0 +1,1344 @@
+
+PAGE 1
+Complete flatmounting of the macaque cerebral cortex
+LAWRENCE C. SINCICH, DANIEL L. ADAMS, and JONATHAN C. HORTON
+Beckman Vision Center, University of California—San Francisco, San Francisco
+(Received October 21, 2003; Accepted October 28, 2003)
+Abstract
+The elaborate folding of the brain surface has posed a practical impediment to investigators engaged in mapping
+the areas of the cerebral cortex. This obstacle has been overcome partially by the development of methods to
+erase the sulci and gyri by physically flattening the cortex prior to sectioning. In this study, we have prepared a
+step-by-step atlas of the flatmounting process for the entire cerebral cortex in the macaque monkey. The cortex
+was dissected from the white matter, unfolded, and flattened in a single piece of tissue by making three relieving
+cuts. The flatmount was sectioned at 60–75 mm and processed for cytochrome oxidase (CO) or myelin. From
+animal to animal there was nearly a twofold variation in the surface area of individual cortical regions, and of
+the whole cortex. In each specimen, a close correlation was found between V1 surface area (mean 5 1343 mm
+2 ),
+V2 surface area (mean 5 1012 mm 2 ), hippocampal area (mean 5 181 mm 2 ), and total cerebral cortex area
+(mean 5 10,430 mm 2 ). The complete pattern of CO stripes in area V2 was labeled clearly in several cases; the
+number of cycles of thick-pale-thin-pale stripes ranged from 26 to 34. Characteristic patterns of strong CO
+activity were encountered in areas V3, MT, auditory and somatosensory cortex. In some animals we made
+injections of a retrograde tracer, gold-conjugated cholera toxin B subunit, into area V2 to identify all sources
+of cortical input. In addition to previously described inputs, we identified three new regions in the occipitotemporal
+region that project to V2. Flatmounting the cerebral cortex is a simple, efficient method that can be used routinely
+for mapping areas and connections in the macaque brain, the most widely used primate model of the human brain.
+Keywords: Cortical areal measurements, Brain unfolding, Computer flattening, V2 projections
+Introduction
+The challenge of identifying distinct anatomical areas within the
+cerebral cortex of the primate brain has beckoned neuroanatomists
+for more than a century. The traditional approach, exemplified by
+Brodmann’s (1909) famous cytoarchitectonic atlas, has relied on
+analysis of serial cross sections of the intact brain cut in either the
+coronal, sagittal, or horizontal plane. The borders between differ-
+ent areas can be recognized, in principle, by noting transitions in
+the density, type, and laminar arrangement of cells and processes
+stained with various histological techniques.
+Some architectonic divisions and patterns, however, are more
+evident in tissue sections cut parallel to the pial surface. The barrel
+field in rodent somatosensory cortex furnishes a prime example.
+Numerous classical anatomists observed cell columns in cross
+sections of layer 4, but missed entirely their significance (De Vries,
+1912; Rose, 1912; Droogleever Fortuyn, 1914; Lorente De Nó,
+1922). It was not until Woolsey and Van Der Loos (1970) cut the
+cortex in tangential section that the barrel field leapt into view.
+Moreover, upon seeing its pattern in two dimensions, Woolsey and
+Van Der Loos knew instantly and intuitively that the larger barrel
+field corresponded to the mystacial vibrissae.
+The description of the rodent barrel field provided the impetus
+for the birth of the cortical flatmount technique. To capture the
+barrel field in just a few tangential sections, Welker and Woolsey
+(1974) removed parts of the basal forebrain to relax the brain
+surface. The cortex then was flattened artificially by compressing
+it between two glass slides during fixation and embedding. Welker
+and Woolsey noted “this to be a particularly useful innovation”
+because it yielded large tangential sections of the highly convex
+rodent hemisphere.
+The flatmount technique was later used to flatten the exposed
+opercular surface of macaque striate cortex prior to sectioning for
+deoxyglucose autoradiography (Tootell et al., 1982). It was also
+used to survey the pattern formed by cytochrome oxidase (CO)
+patches throughout striate cortex (Horton, 1984). Cuts were made
+along the crests of gyri and the depths of sulci. The resulting
+fragments, each relatively flat, were then frozen individually against
+glass slides. This permitted tangential sectioning of the entire
+striate cortex, including regions buried within the calcarine fissure.
+A breakthrough occurred in 1985 when a technique was devel-
+oped for unfolding the gyri of the cortex prior to flatmounting
+(Olavarria & Van Sluyters, 1985; Tootell & Silverman, 1985). This
+method allowed flatmounting of vast expanses of cortex, while
+preserving an intact sheet of tissue. Subsequently, complete flat-
+Address correspondence and reprint requests to: Jonathan C. Hor-
+ton, Beckman Vision Center, University of California—San Francisco,
+10 Koret Way, San Francisco, CA 94143-0730, USA. E-mail:
+horton@itsa.ucsf.edu
+Visual Neuroscience (2003), 20, 663–686. Printed in the USA.
+Copyright © 2003 Cambridge University Press 0952-5238 003 $16.00
+DOI: 10.10170S0952523803206088
+663
+
+PAGE 2
+mounts have been prepared of the cerebral cortex in the cat
+(Olavarria & Van Sluyters, 1985), owl monkey (Tootell et al.,
+1985; Krubitzer & Kaas, 1993; Beck & Kaas, 1998), slow loris
+(Preuss et al., 1993), marmoset (Krubitzer & Kaas, 1993; Lyon &
+Kaas, 2001), galago (Krubitzer & Kaas, 1993; Collins et al., 2001),
+and squirrel monkey (Beck & Kaas, 1998). In the macaque, large
+portions of the cerebral cortex have been flatmounted (Felleman
+et al., 1997; Beck & Kaas, 1999; Lyon & Kaas, 2002). However,
+no laboratory has succeeded at flatmounting the entire macaque
+cortex, because of its large size and extensive convolutions. Here,
+we describe complete flatmounting of the macaque cerebral cortex
+and apply this technique in conjunction with histochemistry, my-
+elin staining, and retrograde tracing to map the cortical connec-
+tions of area V2.
+Materials and methods
+Experimental animals and procedures
+Ten fully adult macaque monkeys (three Macaca mulatta and
+seven Macaca fascicularis), were used in this study (Table 1). All
+but one were male. In most cases the animals were used in
+connection with other projects, and consequently only one hemi-
+sphere was available for flatmounting. All procedures followed a
+protocol approved by the Committee on Animal Research at the
+University of California, San Francisco.
+In two animals, tracer injections were made of;140 nl of 0.1%
+gold-conjugated cholera toxin B subunit (CTB) (List Biological
+Laboratories, Campbell, CA) spaced 5.5 mm apart in V2 along the
+posterior lip of the lunate sulcus at a depth of 600 mm (Sincich &
+Horton, 2002 a). Anesthesia was induced with ketamine HCl (15
+mg0kg i.m.). The animal was intubated and respirated with 1–1.5%
+isoflurane in 1:1 N
+2O:O2. After a craniotomy the dura was opened
+to expose 35 mm of the lunate sulcus. CTB was pressure injected
+under direct visual guidance. Postoperatively, animals were treated
+with buprenorphine (0.02 mg 0kg i.m.) ever y 8 h until fully
+recovered.
+The flatmount technique
+After 3–7 days for transport, animals were killed with pentobar-
+bital (150 mg 0kg) and perfused rapidly via the left ventricle with
+1lfiltered0.9%salinefollowedb y1l1% paraformaldehydein
+0.1 M phosphate buffer solution (PB), pH 5 7.4. The brain was
+removed from the skull immediately after perfusion and placed in
+PB. Throughout the dissection, the brain was kept moist with
+buffer; drying of the tissue caused artifactual loss of CO activity.
+The best flatmounts were achieved when dissection began imme-
+diately after removing the brain from the skull; leaving it in
+solution for even a few hours made unfolding the tissue more
+difficult. Unperfused, unfixed cerebral cortex can also be flattened
+easily.
+The flatmount process is illustrated step-by-step in Fig. 1, in
+the hope that it will be useful to other laboratories. For clarity,
+there are two sets of images showing the dissection sequence:
+(1) a series of near life-size photographs, unobscured by labels,
+of the dissection of the right hemisphere of Monkey 1; and (2)
+a companion set of diagrams with the sulci labeled and the
+relieving cuts marked to help the reader follow the topology of
+the hemisphere as it unfolds. After some practice, the dissection
+takes about 4– 6 h per hemisphere. An 18-s movie, prepared by
+blending sequential photographs (Elastic Reality, Avid Technol-
+ogy, Tewksbury, MA), provides a time-lapse view of the flat-
+mount procedure (available at www.ucsf.edu 0hortonlab).
+As the dissection proceeds, the tissue becomes a thin, fragile
+sheet. For ease of handling, it is placed on a 5 3 7 inch glass slide
+(Brain Research Labs, Newton, MA). The flatmount is inverted by
+placing it between two glass slides, and flipping the sandwich. The
+best dissection tools are wet cotton swabs, especially the smaller
+Abbreviations
+The names for sulci and gyri were based on designations pro-
+vided by NeuroNames, University of Washington, at: http: 00
+rprcsgi.rprc.washington.edu0neuronames0index1.html.
+Sulci
+AS Arcuate Sulcus
+CF Calcarine Fissure
+CiS Cingulate Sulcus
+CS Central Sulcus
+ECS Ectocalcarine Sulcus
+FOS Fronto-orbital Sulcus
+IOS Inferior Occipital Sulcus
+IPS Intraparietal Sulcus
+LS Lunate Sulcus
+OTS Occipitotemporal Sulcus
+STS Superior Temporal Sulcus
+POM Parieto-occipital Sulcus (medial)
+POS Parieto-occipital Sulcus
+PS Principal Sulcus
+RS Rhinal Sulcus
+SF Sylvian Fissure
+SPCS Superior Post-central Sulcus
+Gyri
+AG Angular Gyrus
+CG Cuneate Gyrus
+CiG Cingulate Gyrus
+FOG Fronto-orbito Gyrus
+FuG Fusiform Gyrus
+GR Gyrus Rectus
+IFG Inferior Frontal Gyrus
+IOG Inferior Occipital Gyrus
+ITG Inferior Temporal Gyrus
+LiG Lingual Gyrus
+MFG Middle Frontal Gyrus
+MOG Medio-occipital Gyrus
+MTG Middle Temporal Gyrus
+Oper Operculum
+PCG Pre-cuneate Gyrus
+PHG Parahippocampal Gyrus
+PrG Precentral Gyrus
+PoG Postcentral Gyrus
+SFG Superior Frontal Gyrus
+SMG Supra-marginal Gyrus
+SPL Superior Parietal Lobule
+STG Superior Temporal Gyrus
+Thalamic Structures
+cc corpus collosum
+ox optic chiasm
+ac anterior commissure
+ic internal capsule
+664 L.C. Sincich, D.L. Adams, and J.C. Horton
+
+PAGE 3
+sizes, or calcium alginate swabs (Fisher Scientific catalogue #
+14-960-3P and 14-959-77).
+When the tissue is completely unfolded, it is postfixed under
+weight with the pial surface flattened against a glass slide (Fig. 2).
+A soft foam sponge is placed in an 11 3 7 inch glass dish (Pyrex
+# 232-R) and soaked in 1.5 % paraformaldehyde in PB plus 30%
+sucrose, taking care to eliminate any air bubbles. The sponge is
+covered with a sheet of filter paper to prevent formation of an
+imprint of the sponge pattern on the back of the flatmount. The
+cortex is placed (white matter down) on the filter paper and coaxed
+flat for a final time. A 5 3 7 inch slide is then carefully lowered
+onto the tissue, starting from one edge to insure that no air bubbles
+are trapped between the tissue and the slide. A beaker is placed on
+top, filled with sufficient water to achieve the desired flattening
+pressure (about 5 g 0cm
+2 ). The tissue is left overnight at 4 8C for
+cryoprotection and additional fixation.
+The next day, the flatmount (Fig. 3) is peeled off the glass slide
+and placed in a fresh solution of 1.5% paraformaldehyde plus 30%
+sucrose. If it sinks, it is cryoprotected for frozen sectioning.
+Modeling clay is built up around the edges of a freezing stage with
+a5 3 6.5 inch surface (custom-built to this size by Brain Research
+Laboratories, Boston, MA). After dry ice powder is placed in the
+end troughs, the surface of the freezing stage is flooded with
+Tissue-Tek (#4583, Sakura Finetek, Torrance, CA). As soon as it
+freezes, forming a mesa ; 5 mm high, the modeling clay walls are
+peeled away.
+The dry ice is removed from the end troughs and about 50
+randomly spaced holes are drilled 3– 4 mm into the Tissue-Tek
+platform with a 2-mm burr on a Dremel drill. The Tissue-Tek is
+warmed by rubbing with the palm of the hand until the surface
+becomes slightly tacky. These steps are intended to promote ad-
+hesion of the specimen to the platform, so that it does not shear off
+during sectioning. A clean 5 3 7 inch slide is covered with Saran
+Wrap, leaving no wrinkles, and the flatmount is placed on it (white
+matter up). The slide is then flipped over and any air trapped
+between the flatmount pial surface and the glass slide is squeezed
+out using light fingertip pressure. A dollop of fresh Tissue-Tek is
+applied to the surface of the tacky (but still frozen) Tissue-Tek
+platform. The glass slide (with the specimen clinging to its under-
+side) is immediately lowered into place. While the Tissue-Tek
+flows outwards under gentle pressure between the platform and
+specimen, an assistant rapidly dumps spoonfuls of dry ice powder
+onto the top of the glass slide. The entire flatmount freezes within
+30– 60 s. The dry ice is brushed off and the slide removed, leaving
+the film of Saran Wrap on the pial surface of the specimen. This is
+gently pulled off, yielding a perfectly flat surface for cutting.
+It is crucial to leave no air pockets under the specimen, so
+ample liquid Tissue-Tek must be applied while mounting the
+specimen onto the frozen Tissue-Tek platform. Extra Tissue-Tek
+that appears around the flatmount edges during freezing should be
+trimmed away. This can be done with a Dremel drill or a razor
+blade. If Tissue-Tek is left along the leading edge of the specimen,
+score marks will appear on the sections. Dry ice with pure ethanol
+in the end troughs is used to keep the specimen frozen during
+sectioning. About 20 sections are cut at 60–75mm with an AO-860
+sliding microtome. They are mounted immediately from PB onto
+double-subbed (1.5% gelatin, 0.05% chrom alum) 5 3 7 inch
+slides. Usually, the first few sections are too fragmented to retain.
+Excess buffer is drained and the sections are dried at an angle to
+minimize solute precipitation. Sections are air-dried for ; 2 4ha t
+room temperature and then reacted for CO activity (Horton, 1984)
+or stained for myelin with the Gallyas silver method (Gallyas,
+1979). The CO sections are digitally imaged (to document CO
+patterns, before they are obscured by CTB processing) and then
+silver-intensified with an IntenSE-M silver intensification kit (Amer-
+sham Pharmacia, Piscataway, NJ) to reveal CTB label (Llewellyn-
+Smith et al., 1990; Boyd & Casagrande, 1999).
+Data analysis
+Whole flatmount sections were digitized at 400 dpi using a flatbed
+scanner with a transparency adapter. They were imported into
+Photoshop 6.0 or Illustrator 9.0 (Adobe Systems, San Jose, CA) to
+generate figures. Measurements were made from the scanned
+images using CADtools 2.1, an Illustrator plug-in (Hot Door, Inc.,
+Grass Valley, CA). The total hemispheric areas were measured
+from digital photographs of the final tissue flatmounts before they
+were sectioned. Measurements of different functional areas and
+patterns were made from borders drawn onto scanned images of
+the CO- or Gallyas-stained sections. In some instances, regions
+Table 1. Areal measurements in flatmount specimens
+Total area (mm 2 ) % Area of neocortex
+Hemisphere
+Animal
+weight
+(kg) Flatmount V1 V2d V2v V2 MT A1 S1 Hippocampus Neocortex V1 V2
+Monkey 1L 9.0 9174 1106 441 413 854 38 96 183 185 8989 12.3 9.5
+Monkey 1R 8867 1146 463 421 884 68 61 194 146 8721 13.1 10.1
+Monkey 2R
+a 12.0 14,353 1774 671 741 1412 94 91 259 240 14,113 12.6 10.0
+Monkey 3R 9.5 11,230 1485 476 455 931 88 99 265 181 11,049 13.4 8.4
+Monkey 4R 2.8 10,386 1236 543 487 1030 66 75 319 216 10,170 12.2 10.1
+Monkey 5R 7.4 8395 991 426 356 782 99 74 301 109 8286 12.0 9.4
+Monkey 6R
+a,b 8.0 13,037 1817 453 712 1165 58 115 397 258 12,779 14.2 9.1
+Monkey 7L 4.1 10,302 1356 536 524 1060 91 64 282 187 10,115 13.4 10.5
+Monkey 8R 4.0 9297 1123 482 415 897 75 127 317 148 9149 12.3 9.8
+Monkey 9R 8.4 11,070 1393 556 546 1102 54 82 323 144 10,926 12.7 10.1
+Monkey 10R
+a,c 9.9 — 1950 — — — — — — — — — —
+Mean 10,611 1343 505 507 1012 73 88 284 181 10,430 12.8 9.7
+SD 1897 281 74 129 185 20 21 63 47 1859
+aMacaca mulatta.
+bFemale.
+cThis animal not included in means because a complete flatmount was not prepared.
+Flatmounting of macaque cortex 665
+
+PAGE 4
+Fig. 1. Part 1. Monkey 1. Step 1 : Using fingers, the brain hemispheres are gently pried apart and bisected along the midline with a
+scalpel. Step 2: A cotton swab moistened with PB is used to open a dissection plane in the corpus callosum (dashed line in Step 1
+diagram, Medial view), using a combination of stroking and swirling motions. This plane is followed laterally until the thalamus starts
+to separate from the cortex. Jeweler's forceps are used to peel away the pia-arachnoid membranes connecting the temporal lobe and
+the ventral thalamus. A cotton swab is inserted into the white matter, between the parahippocampal gyrus and the optic tract, to open
+another dissection plane that is followed laterally, to connect with that originating from the corpus callosum. At this point, the cortex
+is nearly loose, except for a gray matter connection just below the genu of the corpus collosum at the gyrus rectus ( ** , Step 1 diagram,
+Medial view). This is cut, freeing the cerebral cortex from the rest of the brain.
+666 L.C. Sincich, D.L. Adams, and J.C. Horton
+
+
+PAGE 5
+Fig. 1 continued. Part 1 continued. Step 3, Lateral view : Surface blood vessels are removed with fine forceps. A cotton swab is gently
+insinuated into the base of each sulcus, breaking all arachnoid adhesions. Step 3, Medial view: A subcortical dissection plane is opened,
+starting from the remnants of the splenium of the corpus callosum and extending posteriorly along the calcarine fissure to the occipital
+pole. The first relieving cut (dashed line) is started along the base of the calcarine fissure, from ( 1,1' ) to a point just short of the occipital
+pole.
+Flatmounting of macaque cortex 667
+
+
+PAGE 6
+were photographed at higher power using a SPOT RT digital
+camera (Diagnostic Instruments, Sterling Heights, MI) attached to
+an Olympus SZH10 microscope.
+The distribution of CTB-labeled cells was plotted at 100 x
+using a Zeiss Axioskop microscope. A grid of 2 x 2 mm squares
+(80 rows x 50 columns) was placed onto the glass slide to keep
+track of the location of labeled cells in the flatmount. This was
+done by printing the grid pattern, comprised of fine dotted lines, on
+a piece of paper using a laserjet printer. The underside of the glass
+slide was wetted with xylene and the paper was pressed against it.
+Fig. 1 continued. Part 2. Step 4 : Dissection is extended under the banks of the calcarine fissure (curved arrows) to relax the cortex
+further. The second relieving cut is started at the gyrus rectus ( 2,2' ), allowing the hippocampal region to unroll (curved arrow). Step
+5, Medial view : A swab is inserted under the free edge of the cingulate gyrus and a dissection plane carried dorsally, underneath the
+cingulate sulcus (CiS), as far as possible. The second relieving cut is continued from ( 3,3' ) along the frontal pole of the hemisphere
+(heavy dashed line). This permits the flap of anterior cingulate cortex to swing open (curved arrow).
+668 L.C. Sincich, D.L. Adams, and J.C. Horton
+
+
+PAGE 7
+Fig. 1 continued. Part 2 continued. Step 5, Lateral view: The relieving cut is extended from ( 4,4' ) along the fundus of the principal
+sulcus (PS) (dashed line) to flatten frontal cortex. This cut moves 2' and 2'' (which started out adjacent) far apart. Step 6: The first
+relieving cut continues from ( 5,5' ) to bisect the occipital operculum (horizontal meridian representation in V1). The lunate sulcus (LS)
+and posterior occipital sulcus (POS) are now easily accessible. The third and final relieving cut is made from ( 6,6' ) to the end of the
+superior temporal sulcus (STS).
+Flatmounting of macaque cortex 669
+
+
+PAGE 8
+Fig. 1 continued. Part 3. Step 7 : The cortex is further flattened by removal of white matter from the lunate and the inferior-occipito
+sulcal (IOS) regions. The bulb of the hippocampus is unfurled from the white matter (curved arrow). Step 8 : Further relaxation is
+achieved by rubbing a moistened swab against the white matter to strip it from the cortical sheet. If the white matter is overfixed, a
+blunt microspatula can be used instead, at some risk of puncturing the flatmount.
+670 L.C. Sincich, D.L. Adams, and J.C. Horton
+
+
+PAGE 9
+Fig. 1 continued. Par t 3 continued. Residual pia-arachnoid is stripped away and the flatmount is gradually worked into a flatter
+configuration by gently pulling its edges outward on a 5 x 7 inch glass slide. Step 9: Completely unfolded cor tical hemisphere, just
+prior to application of weight.
+Flatmounting of macaque cortex 671
+
+
+PAGE 10
+After the xylene had evaporated, the paper was peeled away,
+transferring the grid pattern onto the glass slide.
+Each 2 3 2 mm square filled the field of view at 100 3 in a
+Zeiss microscope. Using a camera lucida attachment, we fo-
+cussed on the bottom of the slide to align the edges of the
+counting square with a 200 3 200 mm square on a sheet of
+standard 8.5 3 11 inch paper. We then focussed on the plane
+of the tissue specimen (the grid created no interference) and
+viewed it through crossed polaroid filters to reveal CTB-filled
+cells. The location of every labeled cell was marked, and every
+box in the flatmount was surveyed. Individual sheets were taped
+together to yield a giant quilt that covered the laboratory floor,
+showing the location of each cell in a single section from the
+flatmount.
+Results
+Analysis of complete macaque flatmounts
+Fig. 3 shows the flattened cerebral cortex just prior to cutting with
+a freezing microtome. The sulci and gyri have been eliminated by
+the transformation of the cortex into a flat sheet of tissue. The lo-
+cation of sulci could nonetheless be determined by referring to the
+photographs taken during each stage of the flatmounting process.
+We defined the boundary between sulci and gyri as the line where
+the tissue disappears from surface view in the intact brain. The
+position of minor grooves and cracks in the tissue surface also helped
+to locate sulcal borders, because they often occurred at the transi-
+tion between sulci and gyri. In this example, the total flatmout sur-
+face area was 8867 mm
+2 (8721 mm 2 cortex and 146 mm 2
+hippocampus). The gyri accounted for 67% and the sulci repre-
+sented 33% of the cortical surface area. The flatmount yielded a
+total of 17 sections, each 65 mm thick. The total thickness, only
+1.1 mm, indicates that some compression of the cortex occurs dur-
+ing the application of weight to flatten the surface.
+Fig. 4 shows the flatmounting process for the largest hemi-
+sphere we encountered among ten animals. It measured 14,353 mm
+2
+(14,113 mm2 cortex and 240 mm 2 hippocampus). In Fig. 4, each
+gyrus is depicted on the surface of the intact hemisphere and on the
+flatmount. This helps to visualize the spatial transformation in-
+volved in rendering the cerebral hemisphere into a flat sheet of
+tissue. The gyri in this animal accounted for 54% of the cortical
+surface area.
+In a third monkey, with an intermediate-sized flatmount
+(11,049 mm
+2 cortex and 181 mm 2 hippocampus), the gyri oc-
+cupied 59% of the cortex. These three examples reflect a trend:
+in animals with a greater cortical surface area, a greater propor-
+tion of the tissue was situated within sulci. Animals with a
+larger cortex appear to achieve tissue expansion mostly by
+enlargement of their sulci, rather than their gyri. This makes
+sense, because enlargement of gyri would require enlargement
+of the skull. In Fig. 5, all three flatmounts have been super-
+imposed, to provide a sense of the variation in relative size and
+location of the sulci. A mean of 60% of the cortical sheet was
+occupied by gyri in the macaque.
+The mean flatmount surface area was 10,611 mm
+2 (S.D.
+1897 mm 2 ) (Table 1). Areal shrinkage due to fixation was un-
+known, but was probably , 5%, because the tissue was so lightly
+fixed (Mouritzen Dam, 1979). The mean cortical surface area was
+10,430 mm
+2 (S.D. 1859 mm 2 ). The remainder was hippocampus
+(mean area 181 mm2 ). The mean cortical flatmount shape (Fig. 6)
+was determined by averaging the outlines of eight flatmounts, each
+prepared according to the sequence of relieving cuts described in
+Fig. 1. The shapes of V1 and V2, easily delineated by their
+distinctive CO staining patterns, were also averaged. In every
+specimen, strong CO staining was also visible in the MT (V5)
+complex (in the superior temporal suclus), auditory cortex (in the
+Sylvian fissure), and somatosensory cortex (in the central sulcus).
+These CO-rich areas were outlined by eye, and then averaged to
+indicate their relative size and location.
+Total flatmount area ranged by a factor of 1.7, from 8395 mm
+2
+to 14,353 mm 2. V1 and V2 also showed considerable variability,
+ranging by a factor of almost 2 in surface area. On average, they
+accounted for 12.8% (V1) and 9.7% (V2) of the total cortical
+surface area. The relationship between V1, V2, and total cortical
+surface area is plotted in Fig. 7. The correlation between V1 area
+and total cortical area was 0.97 (Pearson product-moment corre-
+lation, P , 0.001). The correlation between V2 area and total
+cortical area was 0.93 ~P , 0.001). The correlation between
+hippocampus area and total cortical area was 0.79 ~P , 0.01). V1
+area and V2 area were also well correlated ~r 5 0.87, P , 0.002).
+These data indicate that animals with a large cerebral cortex have
+a correspondingly large V1, V2, and hippocampus. Similar analy-
+ses for the CO-rich patterns in area MT, auditory cortex, and
+somatosensory cortex yielded only a weakly positive correlation
+with overall cortical area. This may be due to the fact that CO does
+not delineate sharply the borders of these regions, making detec-
+tion of a correlation difficult. On the other hand, Maunsell and Van
+Essen (1987) have previously noted the lack of a close correlation
+between V1 and MT surface areas.
+It is interesting to compare our mean flatmount, generated by
+actual physical flattening of the cortex, with a virtual flatmount
+prepared by computer reconstruction. Fig. 8 shows the most recent,
+published version of the macaque cerebral cortex flattened with the
+aid of a computer by Van Essen and colleagues (Drury et al., 1996;
+Lewis & Van Essen, 2000; Van Essen et al., 2001). The computer
+flatmount has a rounder overall shape. Area V2 accounts for 8.6%
+of the total cortex, close to the mean percentage occupied by V2 in
+our physical flatmounts. However, area V1 is much larger in the
+computer flatmount than the physical flatmount (15% vs. 12.8%).
+The gyri represent a smaller percentage of the cortical surface
+area in the computer flatmount. They occupy 46% of the cortex
+(Fig. 8), compared with a mean of 60% in our flatmounts. Certain
+gyri appear unusually narrow in the computer flatmount. For
+Fig. 2. Toflattenthecortex,thepialsurfaceispressedagainstaglassslide,
+while the white matter surface sits on a soft, deformable sheet of foam,
+covered with a sheet of filter paper. The fixative and sucrose are able to
+diffuse through the foam, cryoprotecting and postfixing the specimen.
+672 L.C. Sincich, D.L. Adams, and J.C. Horton
+
+PAGE 11
+example, the superior temporal gyrus and the angular gyrus are
+reduced to only ~ 2 mm wide. We have measured their minimum
+width in several intact brains and obtained about 5 mm.
+The shape of a flatmount depends greatly on the placement of
+relieving cuts in the cerebral hemisphere. The computer flatmount
+(Fig. 8) was generated by making three relieving cuts, in addition
+to the V1 relieving cut. The location and extent of these three
+relieving cuts were not specified (Drury et al., 1996). In our
+standard flatmount, three relieving cuts are made, as illustrated in
+Fig. 1. Their placement gives our flatmount a more rectangular
+overall shape.
+To illustrate further how flatmount shape can be influenced by
+relieving cuts, we illustrate two specimens prepared according to a
+different sequence of cuts. In the first flatmount we attempted, V1
+was left intact by making relieving cuts parallel to the V1 / V2
+border (Fig. 9A). In this preparation, as in the original Felleman
+and V an Essen (1991) reconstruction, V1 hangs from the hemi-
+sphere by the foveal representation. It constituted 12.2% of the
+total cortical area (compared with a mean of 12.9%), suggesting
+that less stretching of V1 occurs when relieving cuts are made
+around the outside of V1. The alternative approach, splitting V1
+along the horizontal meridian, results in some enlargement of V1
+because it must be stretched to maintain apposition to V2. This is
+also evident in computer flatmounts. For example, V1 occupies
+13.2% of the whole cortex when prepared by making relieving cuts
+along the V1 / V2 border (see Case 79-0, Fig. 9A, Drury et al.,
+1996). When the very same case is flattened, instead, by making a
+relieving cut down the middle of V1 (Fig. 8), the area of V1
+increases to 15.0% of the cortex (a 14% enlargement).
+In Fig. 9B, the tissue tore along the medial edge of the V1
+operculum while the relieving cut was being made along the
+fundus of the calcarine fissure. An isolated piece of dorsal calca-
+rine V1 remained attached to the cingulate cortex, ending up far
+from the rest of V1. A deep tear also occurred inadvertently in
+cingulate cortex. As a result, the flatmount had a rather anomalous
+shape, but nonetheless it yielded vivid CO staining patterns.
+For many experiments, it may be unnecessary to flatten the
+entire cerebral cortex. It is easier to handle smaller sections,
+Fig. 3. A: Monkey 1. Step 10: Appearance of the cortical sheet, after flattening and post-fixation. B: Diagram showing the sulci (dark
+gray) and gyri (light gray), ascertained from photographs taken at each stage in the unfolding process. The solid lines denote the natural
+edge of the cortex; dashed lines mark relieving cuts. Note that adjacent points (e.g. 1,1' and 2,2'' ) become widely separated by
+flatmounting. Dots represent tracer injection sites in V2. Cortical areas (blue dashed lines) were delineated by their CO patterns (see
+Fig. 10).
+Flatmounting of macaque cortex 673
+
+
+PAGE 12
+especially if they must be processed floating in solutions, rather
+than slide-mounted. Fig. 9C shows a partial flatmount, containing
+just the calcarine fissure, operculum, lunate sulcus, angular gyrus,
+superior temporal sulcus, and inferior occipital sulcus. The reliev-
+ing cut along the V1 horizontal meridian has been eliminated. In
+this animal, the cortices were removed without bisecting the
+cerebral hemispheres, leaving intact the brainstem, cerebellum,
+thalami, and basal ganglia for sectioning in a single block.
+Fig. 4. Monkey 2. Flatmount of the largest specimen in our series (14,353 mm 2 ), a Rhesus macaque, with the gyri indicated with color coding, both on
+the intact hemisphere and the flatmount. Grey regions denote sulci, which accounted for 46% of the cortical surface in this hemisphere. Comparison wi th
+the flatmount with Fig. 3A underscores the variation in cortex surface area from animal to animal.
+674 L.C. Sincich, D.L. Adams, and J.C. Horton
+
+
+PAGE 13
+Cytochrome-oxidase patterns in cortical flatmounts
+V1 and V2 have distinct borders in CO-stained flatmounts, making
+it possible to define their areas precisely (Fig. 10). In each spec-
+imen, V2 was divided into dorsal and ventral halves by drawing a
+line across it at the foveal representation, where it is thinnest. In
+our sample of ten flatmounts, there was no overall difference in the
+surface area of dorsal and ventral V2 (505 mm 2 vs. 507 mm 2 ).
+However, distortion from the flatmounting process made ventral
+V2 appear wider and more curved.
+Fig. 4 continued.
+Flatmounting of macaque cortex 675
+
+
+PAGE 14
+The intrinsic CO staining pattern of V1 requires no mention,
+because it has been fully described previously (Horton & Hubel,
+1981; Horton, 1984; Wong-Riley & Carroll, 1984). V2 contains
+coarse parallel CO stripes (Horton, 1984), organized into a repeat-
+ing pattern of pale-thin-pale-thick (Tootell et al., 1983). Fig. 11
+shows the complete pattern of CO stripes in two flatmounts. In one
+example, there were about 34 cycles of stripes in V2 (17 dorsal V2,
+17 ventral V2). The exact number of cycles was a matter of
+interpretation, because they occasionally bifurcate or break into
+fragments. The V1/ V2 border measured 140.0 mm, yielding 4.1 mm
+per cycle. Thin stripes in the representation of the peripheral visual
+field had a slimmer, more irregular appearance than those in the
+central visual field. We have also observed this eccentricity-
+dependent change in the appearance of the thin stripes in squirrel
+monkeys (Fig. 12), so it does not appear to be a peculiarity limited
+to the macaque. In the squirrel monkey, we have flattened V1 in a
+single piece, so the differing appearance of peripheral versus
+central V2 thin stripes cannot be attributed to splitting V1 down the
+middle.
+Although CO stripes are present in every macaque, their clarity
+varies inexplicably from animal to animal. In many specimens,
+dark stripes cannot be differentiated clearly into thick versus thin.
+The complete pattern of V2 stripes could be reconstructed with
+confidence in only two other macaques. Their flatmounts con-
+tained 26 and 28 cycles of V2 stripes, measuring 4.2 and 4.8 mm/
+cycle, respectively. In these specimens, the thin stripes also displayed
+a more dotted appearance in the peripheral field representation.
+We searched carefully for a CO pattern that might identify the
+next visual area, anterior to dorsal V2, which has been dubbed area
+"V3" or "DM" ( Zeki, 1978; Beck & Kaas, 1999; Lyon & Kaas,
+2002). Fig. 13 shows a wedge-shaped region, about 22 mm long by
+6 mm wide, with a surface area of 103 mm
+2, containing a distinc-
+tive CO pattern. It consisted of about seven pairs of dark and pale
+stripes, each 1-  2
+mm wide, oriented perpendicular to the border
+with V2. These stripes were wider than those in V2. A fine,
+speckled pattern of CO activity was also present, scattered through
+both pale and dark stripes. No such distinctive pattern of CO
+activity was visible anterior to ventral V2.
+Fig. 5. Flatmount outlines of the right hemisphere from three animals,
+superimposed to show variability in overall shape, and in the location of
+sulci (shaded regions). The flatmounts were normalized to the mean
+surface area (10,611 mm 2 ) by expanding Monkey 1 (120%), and by
+contracting Monkey 2 (74%) and Monkey 3 (94%). They were then
+superimposed at the representation of the fovea in V1 / V2 (asterisk). This
+point was located in CO sections by finding the point along the V1 / V2
+border at the apogee of V1 where V2 was thinnest. The flatmounts were
+then rotated to achieve maximum overlap. Increasing scatter in the location
+of the central, arcuate, and principal sulci is due simply to alignment of the
+sections on a more distant point (the fovea in V1 / V2).
+Fig. 6. Mean shapes (black outlines) of the complete flatmount, V1, V2,
+hippocampus, MT complex, auditory cortex, and somatosensory cortex in
+the right hemisphere of the macaque, superimposed on eight individual
+specimens (thin lines). The figure was compiled by reflecting the two left
+flatmounts, normalizing each flatmount to the mean area of 10,611 mm 2,
+aligning the specimens at the V1 / V2 foveal representation, rotating the
+specimens to maximize overlap, and blending them sequentially in pairs
+( Blend Tool, Adobe Illustrator 9.0). The final result, a "mean flatmount" ,
+lacks the sharp angles created by relieving cuts, but gives a fairly accurate
+impression of the general shape of the cortical flatmount, as well as the size
+and position of various areas.
+676 L.C. Sincich, D.L. Adams, and J.C. Horton
+
+
+PAGE 15
+This distinctive CO staining pattern may correspond to "V3 /
+DM" , but it was seen with such clarity in only a single animal. In
+the other eight animals, we saw only a murky pattern of crude
+dark/pale stripes with vague borders, akin to that described by
+others (Tootell & Taylor, 1995; Lyon & Kaas, 2001). It could not
+be used reliably to establish the boundaries of "V3 / DM" . This was
+a disappointment, because our effort to identify a pattern of CO
+staining that would reveal area "V3 / DM" consistently was a
+primary motive for embarking on this flatmount study.
+A pattern of dark CO staining associated with area MT has been
+identified previously (Horton, 1984; Tootell et al., 1985; Krubitzer
+& Kaas, 1990; Tootell & Taylor, 1995). It has indistinct borders,
+making it uncertain if the CO pattern corresponds strictly to area
+MT, or includes nearby, putative visual areas (e.g. "MST," "FST,"
+"V4t" ). The dark CO staining in MT demonstrated marked inter-
+animal variation. In some animals, the pattern consisted of dots
+measuring about 250 µm in diameter, spaced about 1 mm apart,
+organized into an irregular grid (Fig. 14A). In other animals, the
+CO pattern formed crude parallel bands (Fig. 14B). With the
+Gallyas stain (Fig. 14C), adjacent sections exhibited strong myelin
+content, typical of area MT. The dark myelin bands matched the
+pale CO bands, as previously demonstrated in area V2 (Horton &
+Hocking, 1997). The CO pattern in area MT was visible in all
+layers, but seen best in the middle and superficial layers. Its
+functional significance remains unknown.
+A zone of prominent CO activity was visible in the Sylvian
+fissure in every flatmount (Figs. 10 & 15). It consisted of 4- 5
+parallel bands of dark CO activity, about 10 mm long and 0.5 mm
+wide, each separated by a pale gap of comparable size. It corre-
+sponds to the primary auditory cortex (A1), but may also include
+portions of surrounding auditory fields (Tootell et al., 1985; Jones
+et al., 1995; Clarke & Rivier, 1998).
+The final area containing conspicuously robust CO activity was
+primary somatosensory cortex (S1) (Fig. 10). It consisted of a CO-
+dense region, about 50 mm wide by 8 mm across, straddling the
+postcentral gyrus and the central sulcus (Fig. 16). It was recognized
+first in flatmounts of owl monkey cortex (Tootell et al., 1985). Cross
+sections of macaque and human somatosensory cortex show strong
+CO activity in areas 3a, 3b, and 1 (Eskenasy & Clarke, 2000; Jones
+et al., 2002). The dark region of CO activity present in macaque
+flatmounts corresponds to these areas, and may also include area 2.
+V2 connections mapped in cortical flatmounts
+CTB was injected in dorsal V2 in three hemispheres to label all
+cortical regions that project to area V2. A string of six injections,
+each about 1 mm in diameter after silver intensification, was made
+at a depth of 600 µm along the lower vertical meridian represen-
+tation. Tracer was present at the injections sites from layer 1 to 6,
+but did not extend into the white matter.
+Fig. 17 shows the distribution of labeled cells in a single
+section. This section is from the hemisphere used to illustrate the
+flatmounting process (Fig. 1). There were 35,721 cells filled
+retrogradely. V2 had 28,064 labeled cells, reflecting the fact that
+most tracer was transported locally. V1 contained 4905 cells and
+MT 183 cells. The remaining 2569 labeled cells were located in
+other areas (e.g. "V3" , "V4" , etc.). The relative amounts of labeled
+cells in various cortical areas is dependent on layer, and hence, on
+the depth of any given section. More superficial sections passing
+through the CO patches in layers 2/ 3, for example, contained
+Fig. 7. Graph of total cortical surface area versus V1 or V2 surface area for
+ten hemispheres. Different symbols indicate individual monkeys. V1, V2,
+and total cortical area are strongly correlated.
+Fig. 8. Computer-based flatmount, adapted from V an Essen (Lewis & V an
+Essen, 2000, Fig. 12G; V an Essen et al., 2001, Fig. 1E), scaled in size to
+the mean physical flatmount in Fig. 6 by enlarging it 116% from 7923 mm 2
+to 10,611 mm 2. Sulci are marked by gray shading. Areas MT, A1, and 1,
+3b, 3a are shown as delineated by V an Essen and coworkers. The CO-rich
+patterns we have identified in physical flatmounts probably include these
+areas, but may not correspond exactly. Comparison with the physical
+flatmount in Fig. 6 reveals striking similarities and differences. See V an
+Essen (2003) for another version of the macaque map.
+Flatmounting of macaque cortex 677
+
+
+PAGE 16
+greater numbers of labeled cells in V1. Nonetheless, these numbers
+give some impression of the relative strength of inputs to V2. The
+feedforward projection from V1 was about twice as strong as the
+entire feedback projection from higher visual areas.
+By placing six injections along the representation of the lower
+vertical meridian, from 0 deg to 10 deg, we hoped to identify six
+discrete loci of retrogradely filled cells along the vertical meridian
+in each cortical area projecting to V2. Such a strategy would aid in
+mapping the boundaries of extrastriate visual areas. In fact, only
+V1 contained six tidy clusters of labeled cells. In other cortical
+regions the distribution of labeled cells was usually patchy, but
+there were never six clusters corresponding to the six tracer
+injections. The reason, presumably, is that feedback projections are
+divergent. For example, the six tracer injections filled < 1 % of V2,
+but resulted in clumps of labeled cells throughout 10% of area MT
+(judged by reference to its dark CO staining pattern). This dis-
+crepancy implies that single MT neurons project over a wide area
+in V2, thereby obscuring any tendency for six injections in V2 to
+produce six foci of labeled cells in MT.
+Another factor is that compartments within any given cortical
+area often differ in their projections to other cortical areas. Only
+the thick stripes of V2 are thought to be interconnected with MT
+(DeY oe & V an Essen, 1985). In the example shown in Fig. 17,
+only one of six injections landed in a thick V2 stripe. Therefore,
+only a single field of retrogradely filled cells should have been
+expected in MT. However, we found four discrete clusters of cells.
+This probably reflects an intrinsic columnar arrangement of V2-
+projecting cells within MT. All these factors conspire to make it
+difficult to use cell projection patterns to recognize the boundaries
+of extrastriate visual areas.
+Using a sensitive tracer like CTB in giant flatmount sections
+creates a practical problem, namely, how to document the distri-
+Fig. 9. A: Monkey 4. CO-stained section from a flatmount prepared by making a relieving cut parallel to the V1 / V2 border, leaving
+V1 in a single piece. The V1 / V2 border contains the representation of the vertical meridian (LVM 5 lower vertical meridian, UVM 5
+upper vertical meridian); V1 is bisected by the horizontal meridian (HM). B: Monkey 5. CO-stained section from a flatmount where
+V1 tore along the medial edge of the operculum, leaving a large piece of calcarine V1 (arrow) attached to cingulate cor tex. "V3" and
+MT regions are shown at higher power in Figs. 13 and 14, respectively. Neither of these two flatmounts was used to prepare the mean
+flatmount in Fig. 6, because their relieving cuts were placed differently. C: Monkey 10: Partial flatmount, stained for CO, used to map
+connections between V1, V2, MT, and subcortical structures (right). By preparing only a partial flatmount, we avoided bisecting V1.
+In this animal, a Rhesus macaque, V1 was enormous (1950 mm 2 ); it is not incorporated in Table 1 or Fig. 7 because a complete
+flatmount was not prepared. It is worth noting that the three specimens with the largest V1 surface area were Rhesus, suggesting that
+cortical surface area may be greater in M. mulatta than M. fascicularis .
+678 L.C. Sincich, D.L. Adams, and J.C. Horton
+
+
+PAGE 17
+bution of literally hundreds of thousands of retrogradely filled cells
+in each hemisphere. Plotting the exact location of each cell is not
+practical, because it takes weeks for each section. As an alterna-
+tive, one can scan systematically each section, using the grid to
+keep track of one's place, and note regions containing labeled cells.
+Fig. 18 shows where labeled cells were found in a survey of 11
+sections, from layers 2- 6.
+In the lunate sulcus and angular gyrus, abundant cells were
+found in regions known by others as "V3, V3A, V4" or "DM, DI,
+DL" ( Van Essen & Zeki, 1978; Beck & Kaas, 1999). In the
+intraparietal sulcus, a small projection was found in an area that
+could be either "LIP" or "VIP" ( Felleman & Van Essen, 1991). In
+the superior temporal sulcus, many labeled cells were found in area
+MT. In addition, three other discrete fields of cells were present,
+one in the anterior bank ( possibly "MST" ) and two inferolaterally
+along the sulcus floor and posterior bank ( perhaps "FST" ). A
+single, well-labeled zone of cells was present on the inferior
+occipital gyrus in an area known either as "TEO" ( Desimone &
+Ungerleider, 1986) or "PITv" ( Felleman & V an Essen, 1991).
+Finally, three distinct fields of cells were present in the fusiform
+gyrus and middle temporal gyrus. All the fields of labeled cells
+described in this hemisphere were observed in this animal's other
+hemisphere, and also verified in a single hemisphere from another
+animal.
+Discussion
+The deep convolutions of the brain surface in macaques and
+humans have impeded efforts to generate maps of the areas and
+connections of the cerebral cortex. In certain New World primates,
+such as the owl monkey, the cortex is less folded and many visual
+areas, such as V2 and MT, lie exposed on the surface rather than
+buried within sulci. For this reason, Allman and Kaas (1971, 1974,
+1975) chose the owl monkey for their pioneering studies of the
+organization of extrastriate cortical areas.
+A major advance in the effort to overcome the topological chal-
+lenge presented by the brain's folds came with the development of
+methods for creating artificial surface views of the cortex from
+serial cross sections. This general approach involves transferring
+the outline of layer 4 onto a flat surface by systematically unfolding
+the contour of successive sections. It was first used by Hubel and
+Wiesel (1969) to reconstruct the two-dimensional pattern formed
+by ocular dominance columns in the calcarine fissure of the ma-
+caque. It was later refined by V an Essen and others to prepare maps
+of macaque extrastriate visual cortex (V an Essen & Zeki, 1978;
+Gattass & Gross, 1981), and eventually, the entire neocortex (V an
+Essen & Maunsell, 1980; Felleman & V an Essen, 1991). Originally,
+the contours of individual cross sections were aligned manually.
+Subsequently, computer-based approaches were employed to un-
+fold and reconstruct the cortical surface (LeV ay et al., 1985; Sherk,
+1992). The preparation of computer-generated, two-dimensional rep-
+resentations of the convoluted cortical surface has been extremely
+useful for mapping areas in the macaque brain (Drury et al., 1996),
+for localizing f MRI activity in the human brain (Sereno et al., 1995;
+Dale et al., 1999; Fischl et al., 1999), and for interspecies compar-
+isons (V an Essen et al., 2001; Brewer et al., 2002).
+In the present study we have taken an alternative approach,
+namely, to produce a real, physical (as opposed to virtual, computer-
+reconstructed) flatmount of the entire macaque cerebral cortex.
+The cortex has been dissected from the white matter, unfolded, and
+flattened by making relieving cuts. The relieving cuts have been
+placed strategically, to achieve greatest flattening while preserving
+a maximally intact, optimally contiguous specimen. We have
+recorded photographically (Fig. 1) each step of the flattening
+process, providing a surface atlas of the gyri and sulci, so that one
+can see exactly how the intact cortex is rendered into a flatmount.
+If other laboratories decide to adopt the flatmount approach and
+make relieving cuts in the same places, it will facilitate comparison
+of data because all specimens will have the same, canonical shape.
+Preparation of complete flatmounts should be useful to anatomists
+who are mapping the cortical surface, and to physiologists who are
+curious about the internal anatomy of the sulci where they are
+placing their recording electrodes.
+Flattening many macaque hemispheres using an identical ap-
+proach has revealed a nearly two-fold range in the surface area of
+the neocortex. This remarkable range can be appreciated at a
+glance by comparing the flatmounts in Figs. 3A and 4 (step 10).
+There is also a two-fold variation in the surface area of individual
+cortical regions, for example, V1, V2, MT, S1, and A1 (Table 1),
+as shown previously (Brodmann, 1918; Penfield & Boldrey, 1937;
+Stensaas et al., 1974; V an Essen et al., 1981, 1984; Andrews et al.,
+Fig. 10. Monkey 1. CO-stained section, #6, from the flatmount illustrated
+in Fig. 3A, after silver intensification, showing six CTB injections near the
+lower vertical meridian in V2. Areal boundaries are sharply defined by CO
+only for areas V1 and V2. Dark CO patterns are present in other areas, such
+as MT, somatosensory, auditory cortex, the frontal eye fields, but cannot be
+used to define exact boundaries.
+Flatmounting of macaque cortex 679
+
+
+PAGE 18
+1997). We now show that a correlation exists between the surface
+area of the entire neocortex and the surface area of individual
+regions (e.g. V1, V2). The biological significance of variation in
+cortical surface area is unclear. It may simply represent natural
+variation from subject to subject, with no functional correlate.
+Within a single species, no evidence exists to support the idea that
+animals with a larger V1 and V2 have better vision.
+A major advantage of the flatmount technique for cortical
+mapping is that one can easily recognize "signature" patterns, such
+as the CO patches in V1, that are obscured when the brain is cut in
+cross section. In this report we have described characteristic CO
+patterns in macaque MT, A1, and S1. We have also shown the
+complete layout of CO stripes in single flatmount sections of V2.
+Previously, Olavarria and V an Essen (1997) flattened V2 in several
+pieces and found ~ 28 sets of stripes in their three most complete
+reconstructions. We have found a range from 26 to 34 sets,
+reflecting intrinsic variability in the number of cycles, analogous to
+the variability in the number of ocular dominance columns in V1
+(Horton & Hocking, 1996). In the peripheral field representation
+of V2, we report that thin stripes are more irregular and dotted. If
+thin stripes are specialized for handling color information (Liv-
+ingstone & Hubel, 1984; Roe & Ts' o, 1999), this change may
+Fig. 11. A: Monkey 3. CO section showing the distinctive pattern of pale-thin-pale-thick stripes in V2. The thin stripes (arrows) are
+slightly darker than the thick stripes. Twenty-six cycles of stripes are present in this specimen. B: Monkey 6. CO section, from the only
+female in our series, showing another example of stripes in V2. C: Montage of the V2 stripes in B, compiled by including portions
+of adjacent sections to render a more complete view. Note that thin stripes in the periphery of V2 are more punctate and fragmented.
+D: Drawing of C showing ~ 34 cycles of stripes.
+Fig. 12. Flatmount of a normal squirrel monkey, for comparison with the
+macaque, showing CO staining of the V2 stripes. Note the subtle difference
+in the appearance of the thin stripes (arrows) in the periphery versus fovea,
+a feature also present in the macaque.
+680 L.C. Sincich, D.L. Adams, and J.C. Horton
+
+
+PAGE 19
+reflect reduced emphasis on color processing in the peripheral
+visual field.
+In some animals the distinction between thick and thin stripes
+was difficult, or impossible, to discern. We believe that this is a
+genuine feature of the CO stripes in some macaques, and not an
+artifact of variation in the quality of histological processing. In
+primate cerebral cortex, the expression of columnar architecture is
+sometimes capricious. In squirrel monkeys, for example, clear
+cycles of pale-thin-pale-thick V2 stripes are present in every
+animal, but the occurrence of V1 ocular dominance columns is
+sporadic (Adams & Horton, 2003). Conversely, well-formed ocu-
+lar dominance columns are present in every macaque, but V2
+stripes are often poorly differentiated. It would be interesting to
+learn if projections from V1 to V2 are organized differently in
+macaques with weakly developed V2 stripes (Sincich & Horton,
+2002a).
+By preparing a flatmount of the entire hemisphere, one can
+readily trace the complete pattern of projections made by any area
+to all other areas within the cerebral cortex. To demonstrate the
+power of this approach, we injected a retrograde tracer, CTB, into
+area V2. Stepniewska and Kaas (1996) previously flatmounted a
+generous portion of macaque cortex and found projections to V2
+originating in areas "DM" , "DI" , "DL" (also known collectively
+and roughly as "V3" , "V3A" , "V4" ), V1, MT, "MST," "FST,"
+"LIP," and "TEO." We have confirmed each of these projections,
+and in addition, repor t three projections to V2 arising from sepa-
+rate sites in the fusiform and middle temporal gyri ( Fig. 18). These
+regions were not contained in the par tial flatmounts prepared by
+Stepniewska and Kaas. Labeled neurons have been repor ted in the
+occipitotemporal sulcus and inferior temporal cor tex after V2
+tracer injection ( Kennedy & Bullier, 1985; Rockland & Van Hoesen,
+1994). Their location was not illustrated in these previous studies
+so one cannot determine if it corresponds to the sites we have
+identified. It is wor th noting that every region sending a projection
+to V2 has been shown also to receive a projection from V2 (Gattass
+et al., 1997 ), except "FST" and the three fields in inferotemporal
+cortex.
+One disadvantage of flatmounts is that determination of corti-
+cal layer is often more difficult than in cross sections. This
+problem is less serious in certain areas, where various staining
+methods produce characteristic laminar patterns. For example, CO
+has a typical laminar pattern of staining in V1 (Horton, 1984), and
+even in V2 (Sincich & Horton, 2002 b), making it possible to
+Fig. 13. Monkey 5. A distinctive pattern of CO activity from Fig. 9B,
+consisting of alternating light and dark stripes, that may correspond to area
+"V3" . Note the pattern of CO staining in V2. Although robust, it cannot be
+differentiated easily into thick and thin stripes in this particular animal.
+Fig. 14. A: Monkey 5. Region in Fig. 9B, from the superior temporal sulcus, showing CO staining in the vicinity of area MT. In this
+animal, it consists of a fine pattern of dots, aligned roughly into a grid of 6 x 8 rows, with fluctuation in the background density. B:
+Monkey 7: In this animal, the CO activity in area MT has a more stripe-like pattern. Arrows mark dark stripes. C: An adjacent section
+stained with the Gallyas method, showing pale myelin stripes, that are marked by arrows placed in identical locations in B and C. The
+pale myelin stripes correspond to the dark CO stripes. Arrowheads indicate vessel profiles used for alignment.
+Flatmounting of macaque cortex 681
+
+
+PAGE 20
+identify reliably the cortical layer. However, in other cortical
+regions, laminar differences in CO activity are nebulous. More-
+over, there is always a danger of confusing layer transitions within
+a single area with cortical boundaries between different areas.
+One solution is to extrapolate the relative distance from pial
+surface or white matter by multiplying the section number and
+thickness. This is an imperfect approach, because flatmounts are
+not perfectly flat, so layer transitions within single sections are
+common. In addition, cortical layers vary in relative thickness in
+different cortical areas. With these caveats in mind, we used
+section depth as the main criterion to assign cell labeling to cortical
+layer in our analysis of the projections to V2 (Fig. 18). We
+confirmed that the strongest feedback projections arise from the
+superficial layers and the deep layers (Rockland & Pandya, 1979).
+However, in certain strongly projecting regions, for example, MT,
+"V4," and "TEO," the feedback arose from every layer. This was
+confirmed by examining a given field of labeled cells, section by
+section, using radially oriented blood vessels as a guide. Labeled
+cells were found in every single section, from layer 6 (section #14)
+to layer 2 (section #3). Anderson and Martin (2002) have also
+observed labeled neurons in layer 4 of MT after tracer injection
+into V2. We conclude that in many instances, so-called "feedback"
+projections originate from all layers of cortex, not just superficial
+and deep layers. This makes it less reliable to use the laminar
+pattern of retrograde labeling to differentiate between "feedfor-
+ward" and "feedback" projections ( Felleman & Van Essen, 1991).
+The preparation of a flatmount is more than a simple unfolding
+of tissue. The cortex has intrinsic curvature which is eliminated by
+flattening. This process introduces many distortions: in area, shape,
+distance, direction, and contiguity. It is revealing to see how our
+physical flatmount and a computer-generated flatmount have dis-
+torted the cortex differently (compare Figs. 6 & 8). In computer
+flatmounts, average absolute areal distortion is reported to range
+between 16-25%, a figure based on partial cortex reconstructions
+that omit V1 (Drury et al., 1996).
+In physical flatmounts, distortion is hard to measure accurately,
+but some impression can be gained by comparing familiar regions
+flattened by different techniques. When striate cortex is isolated
+and flattened as a single oval piece of tissue (Fig. 9A), the vertical
+meridian representation is longer than the horizontal meridian
+representation, because it runs around the outside of V1. We have
+measured the length of the prime meridia in 12 striate cortices
+(mean area 1072 mm
+2, range 931-1178 mm 2 ), each flatmounted as
+a single oval (Horton & Hocking, 1996). The lower vertical
+meridian was 50.1 mm, the upper vertical meridian was 50.5 mm
+(mean ver tical meridian length = 50.3 mm), and the horizontal
+meridian was 44.2 mm. The ratio of vertical meridian to horizon-
+tal meridian was 1.14:1. In contrast, when striate cortex is split
+down the middle, the horizontal meridian becomes longer than
+the vertical meridian, because it now runs on the outside of
+the specimen. In Fig. 6, the vertical meridian is 54.3 mm and the
+horizontal meridian is 76 mm, for a ratio of 0.71:1. One can
+appreciate that switching the V1 relieving cut from the vertical
+meridian to the horizontal meridian has a huge effect. It increases
+the relative length of the horizontal meridian and probably in-
+creases the overall size of V1, by stretching. The same phenom-
+enon is evident in the computer-generated flatmount. In Fig. 8, the
+V1 vertical meridia average 61 mm and the horizontal meridian
+equals 85 mm, for a ratio of 0.72:1. In real life, of course, the
+cortex has a complex, three-dimensional shape, and the vertical
+and horizontal meridian may actually be equal in length (Rovamo
+& Virsu, 1984). These points are pertinent to theories that have
+argued that ocular dominance columns are oriented perpendicular
+to the vertical meridian because the vertical meridian is longer
+than the horizontal meridian.
+Another example of the distortion created by flatmounting is
+provided by the shapes of dorsal and ventral V2. When V1 is
+flatmounted as an isolated piece, the upper and lower vertical
+meridian (V1 / V2 border) have a perfectly symmetric contour.
+However, when V1 is split along the horizontal meridian and kept
+attached to the rest of the hemisphere, the ventral V1 / V2 border
+assumes a more curved configuration. V2 itself becomes thicker
+and more bowed ventrally, compared to dorsally. This distortion is
+Fig. 15. A: Monkey 6. CO pattern in the right Sylvian fissure correspond-
+ing to primary auditory cortex. B: Monkey 1. CO staining in the left
+Sylvian fissure showing another example of the CO pattern in A1.
+Fig. 16. Monkey 2. Pattern of CO activity in somatosensory cortex of the
+right hemisphere, in areas 3a, 3b, and 1. For orientation, see raw flatmount
+in Fig. 4, step 10.
+682 L.C. Sincich, D.L. Adams, and J.C. Horton
+
+
+PAGE 21
+due to the overall shape of the flatmount, that is, ventral V2 is
+contiguous with the temporal lobe, which has a tightly curved
+perimeter. One could easily eliminate the crescent shape of ventral
+V2 by extending the third relieving cut (6,6
+', Fig. 1, step 6) into the
+occipitotemporal sulcus, rather than towards the superior temporal
+sulcus, but at the cost of a less compact flatmount and greater
+distortion elsewhere.
+The difference in the shapes of dorsal and ventral V2 in
+flatmounts was also observed by Olavarria and V an Essen (1997).
+They felt it was unlikely to be caused by distortion from flattening
+and proposed that dorso-ventral asymmetry in V2 stripe geometry
+should be added to the list of differences between regions of cortex
+associated with lower versus upper visual fields. A striking differ-
+ence in the shape of dorsal and ventral V2 is also visible in V an
+Essen's computer-generated flatmounts, but is not reflected in
+accompanying gray-level maps of areal distortion (Drury et al.,
+1996; Lewis & V an Essen, 2000). Clearly, recognizing and quan-
+tifying distortion is a difficult issue that merits further study. In the
+case of physical flatmounts, one can take some comfort in a crucial
+empiric factor: if one attempts to distort the tissue excessively, it
+simply creates its own relieving cut by tearing. However, lightly
+fixed cortex is distensible, and we have no quantitative measure of
+how much stretching can occur before this happens.
+With the advent of functional brain mapping, noninvasive im-
+aging has played an increasingly important role in neuroanatomy.
+The development of computer-based techniques for generating flat-
+tened cortex has been useful for depicting the location of cerebral
+activity. It is not clear, however, that noninvasive imaging can ac-
+complish the goal of mapping the boundaries and connections of
+the cerebral cortex, because of inherent limitations in resolution.
+This task will still depend, to a great extent, on preparation of his-
+tological sections. Flatmounts allow efficient, direct examination
+of wide areas of tissue, maintain the physical integrity and spatial
+relationships of the cortex, and preserve patterns of functional ar-
+chitecture that are often helpful for recognizing areal boundaries.
+Despite much progress, current maps of the cerebral cortex are still
+largely a matter of conjecture. As noted by Felleman and V an Essen
+(1991), among dozens of suggested visual areas, only the bound-
+aries (and identities) of V1, V2, MT, and V3 are known with any
+real precision. To denote this uncertainty, we have put quotation
+marks around the names of all visual areas mentioned in this paper,
+except V1, V2, and MT. We expect that the concerted application
+of a variety of techniques, including cortical flatmounting, will help
+reduce this uncertainty in the future.
+Starting with a rat cortex sandwiched between two glass slides,
+the art of flatmounting has progressed incrementally over nearly
+Fig. 17. Monkey 1. Portion of section #7, double labeled for CO and CTB, showing six injection sites in V2, near the border with V1.
+The grid pattern was printed on the underside of the glass slide. The numbers indicate the quantity of retrogradely labeled cells in each
+box. The row (K-AI) and column (43-61) labels were moved from their location at the edge of the slide for illustration purposes. The
+boundaries of V1, V2, and MT (approximate) are shown with dashed lines. Scale: each box is 2 x 2 mm.
+Flatmounting of macaque cortex 683
+
+
+PAGE 22
+three decades. Curiously, the idea of preparing cortical tissue by
+stripping away the white matter from the gray matter to aid
+anatomical studies was first put forward in the 16th Century
+(Piccolomini, 1586). Having prepared a flatmount of the entire
+macaque cerebral cortex, the next challenge is to attempt the
+human cerebral cortex. Although it is much larger in surface area
+than the macaque's (Fig. 19), there is no technical reason why it
+cannot be flatmounted successfully.
+Acknowledgments
+This work was supported by grants R01-EY10217 (J .C.H.) and F32-
+EY13676 (L.C.S.) from the National Eye Institute. The Beckman Vision
+Center is supported by core grant P30-EY02162 from the National Eye
+Institute. Support was also received from Larry L. Hillblom Foundation,
+That Man May See, Research to Prevent Blindness, and the Bunter Fund.
+We thank the California Regional Primate Research Center, supported by
+NIH0NCRR Grant #RR00169, for supplying animals used in this study.
+Macaque hemispheres were also donated by Stephen Lisberger and Nicho-
+las Priebe. We are grateful to Davina Hocking for her contributions to the
+flatmount technique and for her artistic drawings. Gloria Choi also pro-
+vided technical assistance. Melville Wohlgemuth and David V an Essen
+provided helpful comments on the manuscript.
+References
+Adams, D.L. & Horton, J .C. (2003). Capricious expression of cortical
+columns in the primate brain. Nature Neuroscience 6, 113-114.
+Allman, J .M. & Kaas, J .H.(1971). A representation of the visual field in
+the caudal third of the middle temporal gyrus of the owl monkey (Aotus
+trivirgatus). Brain Research 31, 85-105.
+Allman, J .M. & Kaas, J .H.(1974). The organization of the second visual
+area (V II) in the owl monkey: A second order transformation of the
+visual hemifield. Brain Research 76, 247-265.
+Fig. 18. Monkey 1. Flatmount showing the distribution of labeled cells in layers 2 03 (sections 2, 3, 4, 5, 6), layer 4 (sections 7, 8, 9),
+and layers 5 /6 (sections 10, 12, 14) from the six CTB tracer injections in V2 (black dots). Cell labeling in dorsal V2 is not shown.
+Colored patches denote areas containing retrogradely labeled cells. The abbreviations in quotation marks refer to names of putative
+visual areas. Darker color saturation indicates that cells were found in more than one section, but otherwise this diagram provides no
+information about relative cell labeling density. In general, strongest feedback was from layers 5 /6, but some strongly labeled regions
+(e.g. V4, MT) provided feedback from every layer. Examples of labeled cells viewed in lightfield or darkfield with crossed polarizers
+are shown to the right.
+684 L.C. Sincich, D.L. Adams, and J.C. Horton
+
+
+PAGE 23
+Allman, J .M. & Kaas, J .H.(1975). The dorsomedial cortical visual area:
+A third tier area in the occipital lobe of the owl monkey (Aotus
+trivirgatus). Brain Research 100, 473- 487.
+Anderson, J .C. & Martin, K.A.C. (2002). Connection from cortical area
+V2 to MT in macaque monkey. Journal of Comparative Neurology 443,
+56-70.
+Andrews, T.J ., Halpern, S.D. & Purves, D. (1997). Correlated size
+variations in human visual cortex, lateral geniculate nucleus, and optic
+tract. Journal of Neuroscience 17, 2859-2868.
+Beck, P .D. & Kaas, J .H. (1998). Cortical connections of the dorsomedial
+visual area in new world owl monkeys (Aotus trivirgatus) and squirrel
+monkeys (Saimiri sciureus). Journal of Comparative Neurology 400,
+18-34.
+Beck, P .D. & Kaas, J .H. (1999). Cortical connections of the dorsomedial
+visual area in old world macaque monkeys. Journal of Comparative
+Neurology 406, 487-502.
+Boyd, J .D. & Casagrande, V .A. (1999). Relationships between cyto-
+chrome oxidase (CO) blobs in primate primary visual cortex (V1) and
+the distribution of neurons projecting to the middle temporal area
+(MT). Journal of Comparative Neurology 409, 573-591.
+Brewer, A.A., Press, W.A., Logothetis, N.K. & Wandell, B.A. (2002).
+Visual areas in macaque cortex measured using functional magnetic
+resonance imaging. Journal of Neuroscience 22, 10416-10426.
+Brodmann, K. (1909). V ergleichende Lokalisationslehre der Grosshirn-
+rinde in ihren Prinzipien dargestellt auf Grund des Zellenbaues. Leipzig:
+J . A. Barth.
+Brodmann, K. (1918). Individuelle V ariationen der Sehsphär re und ihr
+Bedeutung füî r die Klinik der Hinterhauptschüî sse. Allgz Psychiat (Ber-
+lin) 74, 564-568.
+Clarke, S. & Rivier, F. (1998). Compartments within human primary
+auditory cortex: Evidence from cytochrome oxidase and acetylcholin-
+esterase staining. European Journal of Neuroscience 10, 741-745.
+Collins, C.E., Stepniewska, I. & Kaas, J .H. (2001). Topographic pat-
+terns of V2 cortical connections in a prosimian primate (Galago
+garnetti). Journal of Comparative Neurology 431, 155-167.
+Dale, A.M., Fischl, B. & Sereno, M.I. (1999). Cortical surface-based
+analysis. I. Segmentation and surface reconstruction. Neuroimage 9,
+179-194.
+Desimone, R. & Ungerleider, L.G. (1986). Multiple visual areas in the
+caudal superior temporal sulcus of the macaque. Journal of Compar-
+ative Neurology 248, 164-189.
+De Vries, I. (1912). Über die Zytoarchitektonik der Grosshirnrinde der
+Maus und îüber die Beziehungen der einzelnen Zellschichten zum
+Corpus Callosum auf Grund von experimentellen Lä sionen. Folia
+neuro-biol 6, 288-322.
+DeY oe, E.A. & V an Essen, D.C. (1985). Segregation of efferent connec-
+tions and receptive field properties in visual area V2 of the macaque.
+Nature 317, 58- 61.
+Droogleever Fortuyn, A.B. (1914). Cortical cell-lamination of the
+hemispheres of some rodents. Archives of Neurology and Psychiatry
+(Mott's) 6, 221-354.
+Drury, H.A., V an Essen, D.C., Anderson, C.H., Lee, C.W., Coogan,
+T.A. & Lewis, J .W. (1996). Computerized mappings of the cerebral
+cortex: A multiresolution flattening method and a surface-based coor-
+dinate system. Journal of Cognitive Neuroscience 8, 1-28.
+Eskenasy, A.C. & Clarke, S. (2000). Hierarchy within human SI: Sup-
+porting data from cytochrome oxidase, acetylcholinesterase and NADPH-
+diaphorase staining patterns. Somatosensory and Motor Research 17,
+123-132.
+Felleman, D.J . & V an Essen, D.C. (1991). Distributed hierarchical
+processing in the primate cerebral cortex. Cerebral Cortex 1, 1- 47.
+Felleman, D.J ., Xiao, Y . & McClendon, E. (1997). Modular organiza-
+tion of occipito-temporal pathways: Cortical connections between vi-
+sual area 4 and visual area 2 and posterior inferotemporal ventral area
+in macaque monkeys. Journal of Neuroscience 17, 3185-3200.
+Fischl, B., Sereno, M.I. & Dale, A.M. (1999). Cortical surface-based
+analysis. II: Inflation, flattening, and a surface-based coordinate sys-
+tem. Neuroimage 9, 195-207.
+Gallyas, F. (1979). Silver staining of myelin by means of physical
+development. Neurological Research 1, 203-209.
+Gattass, R. & Gross, C.G. (1981). Visual topography of striate projection
+zone (MT) in posterior superior temporal sulcus of the macaque.
+Journal of Neurophysiology 46, 621- 638.
+Gattass, R., Sousa, A.P ., Mishkin, M. & Ungerleider, L.G. (1997).
+Cortical projections of area V2 in the macaque. Cerebral Cortex 7,
+110-129.
+Horton, J .C. (1984). Cytochrome oxidase patches: A new cytoarchitec-
+tonic feature of monkey visual cortex. Philosophical Transactions of
+the Royal Society B (London) 304, 199-253.
+Horton, J .C. & Hocking, D.R. (1996). Intrinsic variability of ocular
+dominance column periodicity in normal macaque monkeys. Journal of
+Neuroscience 16, 7228-7239.
+Horton, J .C. & Hocking, D.R. (1997). Myelin patterns in V1 and V2 of
+normal and monocularly enucleated monkeys. Cerebral Cortex 7,
+166-177.
+Horton, J .C. & Hubel, D.H. (1981). Regular patchy distribution of
+cytochrome oxidase staining in primary visual cortex of macaque
+monkey. Nature 292, 762-764.
+Hubel, D.H. & Wiesel, T.N. (1969). Anatomical demonstration of col-
+umns in the monkey striate cortex.
+Nature 221, 747-750.
+Jones, E.G., Dell' Anna, M.E., Molinari, M., Rausell, E. & Hash-
+ikawa, T. (1995). Subdivisions of macaque monkey auditory cortex
+revealed by calcium-binding protein immunoreactivity.Journal of Com-
+parative Neurology 362, 153-170.
+Jones, E.G., Woods, T.M. & Manger, P .R. (2002). Adaptive responses of
+monkey somatosensory cortex to peripheral and central deafferenta-
+tion. Neuroscience 111, 775-797.
+Kennedy, H. & Bullier, J . (1985). A double-labeling investigation of the
+afferent connectivity to cortical areas V1 and V2 of the macaque
+monkey. Journal of Neuroscience 5, 2815-2830.
+Krubitzer, L.A. & Kaas, J .H. (1990). Cortical connections of MT in four
+species of primates: Areal, modular, and retinotopic patterns. Visual
+Neuroscience 5, 165-204.
+Krubitzer, L.A. & Kaas, J .H. (1993). The dorsomedial visual area of owl
+monkeys: Connections, myeloarchitecture, and homologies in other
+primates. Journal of Comparative Neurology 334, 497-528.
+LeV ay, S., Connolly, M., Houde, J . & V an Essen, D.C. (1985). The
+complete pattern of ocular dominance stripes in the striate cortex and
+visual field of the macaque monkey.Journal of Neuroscience5, 486-501.
+Lewis, J .W. & V an Essen, D.C.(2000). Mapping of architectonic subdivi-
+sions in the macaque monkey, with emphasis on parieto-occipital
+cortex. Journal of Comparative Neurology 428, 79-111.
+Fig. 19. Comparison of the human and macaque hemispheres (posterior
+view), photographed together after fixation by immersion in 10% formalin.
+The human cerebral cortex has about 12- 15 times the surface area of the
+macaque cerebral cortex, but can be flatmounted by following the same
+general approach outlined in this paper for the macaque.
+Flatmounting of macaque cortex 685
+
+
+PAGE 24
+Livingstone, M.S. & Hubel, D.H. (1984). Anatomy and physiology of a
+color system in the primate visual cortex. Journal of Neuroscience 4,
+309-356.
+Llewellyn-Smith, I.J ., Minson, J .B., Wright, A.P . & Hodgson, A.J .
+(1990). Cholera toxin B-gold, a retrograde tracer that can be used in
+light and electron microscopic immunocytochemical studies. Journal
+of Comparative Neurology 294, 179-191.
+Lorente De Nó, R. (1922). La corteza cerebral del rató n. Trabajos del
+Laboratorio de Investigaciones Biológicas de la Universidad de Ma-
+drid 20, 41-78.
+Lyon, D.C. & Kaas, J .H. (2001). Connectional and architectonic evidence
+for dorsal and ventral V3, and dorsomedial area in marmoset monkeys.
+Journal of Neuroscience 21, 249-261.
+Lyon, D.C. & Kaas, J .H. (2002). Evidence for a modified v3 with dorsal
+and ventral halves in macaque monkeys. Neuron 33, 453- 461.
+Maunsell, J .H.R. & V an Essen, D.C. (1987). Topographic organization
+of the middle temporal visual area in the macaque monkey: Represen-
+tational biases and the relationship to callosal connections and myelo-
+architectonic boundaries. Journal of Comparative Neurology 266,
+535-555.
+Mouritzen Dam, A. (1979). Shrinkage of the brain during histological
+procedures with fixation in formaldehyde solutions of different con-
+centrations. Journal of Hirnforsch 20, 115-119.
+Olavarria, J .F. & V an Sluyters, R.C. (1985). Unfolding and flattening
+the cortex of gyrencephalic brains. Journal of Neuroscience Methods
+15, 191-202.
+Olavarria, J .F. & V an Essen, D.C. (1997). The global pattern of cyto-
+chrome oxidase stripes in visual area V2 of the macaque monkey.
+Cerebral Cortex 7, 395- 404.
+Penfield, W. & Boldrey, E. (1937). Somatic motor and sensory repre-
+sentation in the cerebral cortex of man as studied by electrical stimu-
+lation. Brain 60, 389- 443.
+Piccolomini, A. (1586). Anatomicae praelectiones explicantes mirificam
+corporis humani fabricam (Rome). Translated in E. Clarke and C.D.
+O' Malley, The Human Brain and Spinal Cord , San Francisco: Norman
+Publishing, pp. 387- 388.
+Preuss, T.M., Beck, P .D. & Kaas, J .H. (1993). Areal, modular, and
+connectional organization of visual cortex in a prosimian primate, the
+slow loris (Nycticebus coucang). Brain, Behavior and Evolution 42,
+321-335.
+Rockland, K.S. & Pandya, D.N. (1979). Laminar origins and termina-
+tions of cortical connections of the occipital lobe in the rhesus monkey.
+Brain Research 179, 3-20.
+Rockland, K.S. & V an Hoesen, G.W. (1994). Direct temporal-occipital
+feedback connections to striate cortex (V1) in the macaque monkey.
+Cerebral Cortex 4, 300-313.
+Roe, A.W. & Ts' o, D.Y .(1999). Specificity of color connectivity between
+primate V1 and V2. Journal of Neurophysiology 82, 2719-2730.
+Rose, M. (1912). Histologische Lokalisation der Grosshirnrinde bei kleinen
+Sä ugetieren (Rodentia, Insectivora, Chiroptera). Journal für Psycholo-Psycholo- 
+gie und Neurologie (Leipzig) 19, 389- 479.
+Rovamo, J . & Virsu, V . (1984). Isotropy of cortical magnification and
+topography of striate cortex. Vision Research 24, 283-286.
+Sereno, M.I., Dale, A.M., Reppas, J .B., Kwong, K.K., Belliveau, J .W.,
+Brady, T.J ., Rosen, B.R. & Tootell, R.B.(1995). Borders of multiple
+visual areas in humans revealed by functional magnetic resonance
+imaging. Science 268, 889-893.
+Sherk, H. (1992). Flattening the cerebral cortex by computer. Journal of
+Neuroscience Methods 41, 255-267.
+Sincich, L.C. & Horton, J .C. (2002a). Divided by cytochrome oxidase: A
+map of the projections from V1 to V2 in macaques. Science 295,
+1734-1737.
+Sincich, L.C. & Horton, J .C. (2002b). Pale cytochrome oxidase stripes in
+V2 receive the richest projection from macaque striate cortex. Journal
+of Comparative Neurology 447, 18-33.
+Stensaas, S.S., Eddington, D.K. & Dobelle, W.H. (1974). The topog-
+raphy and variability of the primary visual cortex in man. Journal of
+Neurosurgery 40, 747-755.
+Stepniewska, I. & Kaas, J .H. (1996). Topographic patterns of V2 cortical
+connections in macaque monkeys. Journal of Comparative Neurology
+371, 129-152.
+Tootell, R.B. & Silverman, M.S. (1985). Two methods for flat-
+mounting cortical tissue. Journal of Neuroscience Methods15, 177-190.
+Tootell, R.B., Silverman, M.S., Switkes, E. & De V alois, R.L. (1982).
+Deoxyglucose analysis of retinotopic organization in primate striate
+cortex. Science 218, 902-904.
+Tootell, R.B., Hamilton, S.L. & Silverman, M.S. (1985). Topography
+of cytochrome oxidase activity in owl monkey cortex. Journal of
+Neuroscience 5, 2786-2800.
+Tootell, R.B.H. & Taylor, J .B.(1995). Anatomical evidence for MT and
+additional cortical visual areas in humans. Cerebral Cortex 1, 39-55.
+Tootell, R.B.H., Silverman, M.S., De V alois, R.L. & Jacobs, G.H.
+(1983). Functional organization of the second cortical visual area in
+primates. Science 220, 737-739.
+V an Essen, D.C. (2003). Organization of visual areas in macaque and
+human cerebral cortex. In Visual Neurosciences , ed. Werner, J .S. &
+Chalupa, L.M. , pp. 507- 522. Cambridge, Massachusetts: MIT Press.
+V an Essen, D.C. & Zeki, S.M. (1978). The topographic organization
+of rhesus monkey prestriate cortex. Journal of Physiology 277,
+193-226.
+V an Essen, D.C. & Maunsell, J .H.R. (1980). Two-dimensional maps
+of the cerebral cortex. Journal of Comparative Neurology 191,
+255-281.
+V an Essen, D.C., Maunsell, J .H.R. & Bixby, J .L. (1981). The middle
+temporal visual area in the macaque: myeloarchitecture, connections,
+functional properties and topographic organization. Journal of Com-
+parative Neurology 199, 293-326.
+V an Essen, D.C., Newsome, W.T. & Maunsell, J .H. (1984). The visual
+field representation in striate cortex of the macaque monkey: Asym-
+metries, anisotropies, and individual variability. Vision Research 24,
+429-448.
+V an Essen, D.C., Lewis, J .W., Drury, H.A., Hadjikhani, N., Tootell,
+R.B., Bakircioglu, M. & Miller, M.I. (2001). Mapping visual cortex
+in monkeys and humans using surface-based atlases. Vision Research
+41, 1359-1378.
+Welker, C. & Woolsey, T.A. (1974). Structure of layer IV in the
+somatosensory neocortex of the rat: Description and comparison with
+the mouse. Journal of Comparative Neurology 158, 437- 453.
+Wong-Riley, M. & Carroll, E.W. (1984). Effect of impulse blockage on
+cytochrome oxidase activity in monkey visual system. Nature 307,
+262-264.
+Woolsey, T.A. & V an Der Loos, H.(1970). The structural organization of
+layer IV in the somatosensory region (S1) of mouse cerebral cortex:
+The description of a cortical field composed of cytoarchitectonic units.
+Brain Research 17, 205-242.
+Zeki, S.M. (1978). The third visual complex of rhesus monkey prestriate
+cortex. Journal of Physiology 277, 245-272.
+686 L.C. Sincich, D.L. Adams, and J.C. Horton

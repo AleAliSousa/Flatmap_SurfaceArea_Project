@@ -1,0 +1,148 @@
+{
+  "map_id": "fig03_S1_L",
+  "figure": "3",
+  "panel": "A-right",
+  "pdf_page": 4,
+  "printed_page": "20741",
+  "species": "Homo sapiens",
+  "specimen": "S1",
+  "hemisphere": "left",
+  "view_type": "individual_flattened_partial_cortex",
+  "hemisphere_relation": "",
+  "linked_main_map": "",
+  "repeat_of": "",
+  "relationship_note": "Fig.3 S4 right repeats Fig.2 S4 right and is not counted twice. Only five unique hemispheres appear in supplied main-text maps; supplementary maps were not supplied.",
+  "specimen_link_status": "source_labels_preserved",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 3,
+  "crop_xyxy": [
+    500,
+    225,
+    650,
+    325
+  ],
+  "scale_endpoints_px": [
+    [
+      -320.5,
+      365
+    ],
+    [
+      -280.5,
+      365
+    ]
+  ],
+  "scale_length_mm": 10,
+  "scale_note": "Common 1-cm bar explicitly applies to flattened panels in this figure; recorded in local coordinates with source reference. Figure area is not guaranteed equal to native cortical area.",
+  "scale_reference_map": "fig03_common_scale",
+  "outline": null,
+  "rois": [
+    {
+      "label": "hA1",
+      "polygons": [
+        [
+          [
+            19,
+            31
+          ],
+          [
+            26,
+            25
+          ],
+          [
+            35,
+            23
+          ],
+          [
+            45,
+            22
+          ],
+          [
+            53,
+            24
+          ],
+          [
+            60,
+            28
+          ],
+          [
+            67,
+            32
+          ],
+          [
+            73,
+            32
+          ],
+          [
+            79,
+            28
+          ],
+          [
+            84,
+            30
+          ],
+          [
+            87,
+            35
+          ],
+          [
+            88,
+            43
+          ],
+          [
+            87,
+            51
+          ],
+          [
+            84,
+            59
+          ],
+          [
+            79,
+            63
+          ],
+          [
+            73,
+            59
+          ],
+          [
+            67,
+            56
+          ],
+          [
+            61,
+            54
+          ],
+          [
+            56,
+            53
+          ],
+          [
+            49,
+            54
+          ],
+          [
+            40,
+            58
+          ],
+          [
+            33,
+            51
+          ],
+          [
+            26,
+            44
+          ],
+          [
+            20,
+            40
+          ]
+        ]
+      ],
+      "extent": "complete_drawn_field",
+      "boundary_note": "hA1 envelope bounded by solid and dotted gradient reversals. Short gaps in dotted borders joined at stroke centers. Fig.2 labels resolve identity; Fig.3 shows isolated hA1. Pixel area is flattened-map area; native-surface distortion not corrected."
+    }
+  ],
+  "unmeasured": [],
+  "supersample": 4
+}

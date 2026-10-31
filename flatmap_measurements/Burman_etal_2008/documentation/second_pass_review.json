@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-31",
+  "pass_number": 2,
+  "changed_regions": [
+    {
+      "map_id": "fig09A_CJ58R_flatmap",
+      "label": "V1",
+      "kind": "revision",
+      "note": "Fig.9 anatomical inset identifies both V1ca and V1op in the detached occipital lobe. Restored the entire drawn V1 lobe; continuous internal fold lines no longer split V1 or assign its opercular portion to V2. Other marmoset maps used only as topology guides. Pixel-only; no scale borrowed."
+    },
+    {
+      "map_id": "fig09A_CJ58R_flatmap",
+      "label": "V2",
+      "kind": "revision",
+      "note": "Removed two components that actually belong to the V1 lobe (Fig.9 inset: V1ca/V1op). Retained only the existing main-map V2 strip; its ventral continuation is unresolved, so this is explicitly partial and excluded from whole-field comparisons."
+    }
+  ],
+  "scope": "All project views screened at overview resolution; changed regions reviewed enlarged. Anatomical certification remains pending.",
+  "source_pdf_unchanged": true,
+  "native_imagej_roundtrip": "passed",
+  "remaining_interior_overlap_diagnostics": [
+    {
+      "paper_id": "Burman_etal_2008",
+      "map_id": "fig09A_CJ58R_flatmap",
+      "field_a": "V1",
+      "field_b": "V2",
+      "before_interior_overlap_px": "0",
+      "after_interior_overlap_px": "15",
+      "change_px": "15"
+    }
+  ],
+  "project_review": "../project_review_2026-10-31_pass2/index.html",
+  "no_new_calibration_or_denominator": true
+}

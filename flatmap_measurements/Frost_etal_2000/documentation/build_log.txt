@@ -1,0 +1,18 @@
+Figure fig01_9213_sensory: 3 selections, TIFF calibration and all pixels verified
+View fig02_9211_sensory: calibrated source retained; no defensible field ROI
+Figure fig02_9212_sensory: 2 selections, TIFF calibration and all pixels verified
+Figure fig02_9321_sensory: 3 selections, TIFF calibration and all pixels verified
+Figure fig02_9324_sensory: 3 selections, TIFF calibration and all pixels verified
+Figure fig04_9212_distal_forelimb: 1 selections, TIFF calibration and all pixels verified
+Figure fig04_9213_distal_forelimb: 1 selections, TIFF calibration and all pixels verified
+Figure fig04_9321_distal_forelimb: 1 selections, TIFF calibration and all pixels verified
+Figure fig04_9324_distal_forelimb: 1 selections, TIFF calibration and all pixels verified
+Figure fig07_9213_ICMS: 2 selections, TIFF calibration and all pixels verified
+Figure fig08_9208_ICMS: 1 selections, TIFF calibration and all pixels verified
+Figure fig08_9209_ICMS: 1 selections, TIFF calibration and all pixels verified
+Figure fig08_9210_ICMS: 1 selections, TIFF calibration and all pixels verified
+Figure fig08_9211_ICMS: 1 selections, TIFF calibration and all pixels verified
+Figure fig09_9321_low_impedance: 1 selections, TIFF calibration and all pixels verified
+Figure fig10_9316_bipolar: 1 selections, TIFF calibration and all pixels verified
+Figure fig10_9317_bipolar: 1 selections, TIFF calibration and all pixels verified
+{"processed_views": 17, "measured_fields": 24, "unmeasured_fields": 7, "overlaps": [{"map_id": "fig01_9213_sensory", "field_a": "S1", "field_b": "S1_face_oral", "overlap_pixels": 66354}, {"map_id": "fig01_9213_sensory", "field_a": "S1", "field_b": "S2", "overlap_pixels": 42}, {"map_id": "fig01_9213_sensory", "field_a": "S1_face_oral", "field_b": "S2", "overlap_pixels": 42}, {"map_id": "fig02_9212_sensory", "field_a": "S1_face_oral", "field_b": "S2", "overlap_pixels": 37}, {"map_id": "fig02_9321_sensory", "field_a": "S1", "field_b": "S1_face_oral", "overlap_pixels": 47789}, {"map_id": "fig02_9321_sensory", "field_a": "S1", "field_b": "S2", "overlap_pixels": 54}, {"map_id": "fig02_9321_sensory", "field_a": "S1_face_oral", "field_b": "S2", "overlap_pixels": 54}, {"map_id": "fig02_9324_sensory", "field_a": "S1", "field_b": "S1_face_oral", "overlap_pixels": 49707}, {"map_id": "fig02_9324_sensory", "field_a": "S1", "field_b": "S2", "overlap_pixels": 27}, {"map_id": "fig02_9324_sensory", "field_a": "S1_face_oral", "field_b": "S2", "overlap_pixels": 27}], "native_imagej_roundtrip": "passed", "anatomical_review": "provisional; pending user review", "reference_comparison": "not_run; core workflow does not require reference data"}

@@ -39,7 +39,7 @@
   "outline": null,
   "rois": [
     {
-      "label": "DM visible fragment",
+      "label": "DM",
       "polygons": [
         [
           [
@@ -804,21 +804,16 @@
           ]
         ]
       ],
-      "extent": "partial",
-      "boundary_note": "Refined 2026-10-15 against the source at 4 pixels/PDF point, using dense contour samples and local line tracking followed by visual correction. Printed field/tissue border followed; internal symbols and labels retained inside the anatomical envelope. Short obscured continuations across border-connected recording marks interpolated. See documentation/line_refinement.md and source-toggle review.",
+      "extent": "complete",
+      "boundary_note": "Complete published drawn DM envelope: both DM endpoints join the DM/V2 boundary inside the inset. The shared V2 line continues beyond DM. Geometry retained from prior source tracing; label and extent corrected on 31 October 2026. Anatomical locations remain provisional as described by the source authors.",
       "previous_boundary_note": "Visible DM envelope extracted against fine gray outlines at grayscale<235 and visually inspected. Panel frame defines any clipped edge; retained as visible fragment because full field extent is not independently established. Injection and probe marks are retained."
     }
   ],
   "unmeasured": [
     {
-      "label": "DM",
-      "status": "not_measurable",
-      "reason": "Complete field extent beyond inset not established."
-    },
-    {
       "label": "V2",
       "status": "not_measurable",
-      "reason": "Complete field extent beyond inset not established."
+      "reason": "The entire V2 field is not enclosed in this inset; only its shared boundary with DM is visible."
     }
   ],
   "review_note": "Contours refined 2026-10-15 after enlarged source review. Original outlines archived; source-toggle and prior-outline comparison in review/line_refinement.html. Scientific interpretation remains provisional."

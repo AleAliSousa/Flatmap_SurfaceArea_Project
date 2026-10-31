@@ -85,3 +85,12 @@ This avoids keeping a second full copy of the dataset inside itself. A pre-clean
 [Contour precision audit: source toggles and area changes](review/precision_audit.html).
 
 Precision audit completed 15 October 2026. Earlier coarse contours were refined, all saved views received source review, and areas/native ImageJ outputs were rebuilt. Dotted, obscured and schematic boundaries retain explicit source limitations. See `documentation/precision_audit.md`.
+
+<!-- project-tracing-review-2026-10-31 -->
+## Project-wide tracing review, 31 October 2026
+
+[View this dataset's quality review](../project_review_2026-10-31/index.html?paper=Krubitzer_Kaas_1990) · [Review methods and changes](../project_review_2026-10-31/README.md)
+
+View-level screening categories: A=4, B=48, C=3, N=1. A identifies the clearest source/fit examples; B retains caveats; C needs targeted review/retracing; D is unsuitable for the intended anatomical area inference; N has no saved trace. These are not individual-region certification or independent-specimen counts. See the linked report for each map's notes and proposed improvements.
+
+Atlases and guides: see the [project guide](../ReadMe.md). Use same-specimen panels to resolve obscured lines where correspondence is established; use other specimens and atlases for field identity, adjacency and sulcal plausibility only. They do not supply an observed border, justify copying a shape, or establish a missing physical scale.

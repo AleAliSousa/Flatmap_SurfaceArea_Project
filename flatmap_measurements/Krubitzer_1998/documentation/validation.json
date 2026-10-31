@@ -1,13 +1,19 @@
 {
   "processed_views": 18,
-  "measured_fields": 65,
-  "unmeasured_fields": 56,
+  "measured_fields": 66,
+  "unmeasured_fields": 55,
   "overlaps": [
     {
       "map_id": "fig11A",
       "field_a": "Vc",
       "field_b": "Vr",
       "overlap_pixels": 71
+    },
+    {
+      "map_id": "fig11B",
+      "field_a": "Vc",
+      "field_b": "Vr",
+      "overlap_pixels": 82
     },
     {
       "map_id": "fig14A_summary",
@@ -68,6 +74,12 @@
       "field_a": "SI upper island",
       "field_b": "R",
       "overlap_pixels": 123
+    },
+    {
+      "map_id": "fig14D_summary",
+      "field_a": "R",
+      "field_b": "M",
+      "overlap_pixels": 282
     },
     {
       "map_id": "fig14E_summary",

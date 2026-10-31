@@ -1,0 +1,1 @@
+Open index.html for the report. Canonical geometry lives in each publication folder, not in the contact sheets. All outputs provisional. Run scripts/build_report.py from the project root to regenerate the batch tables and HTML after rebuilding publication measurements.

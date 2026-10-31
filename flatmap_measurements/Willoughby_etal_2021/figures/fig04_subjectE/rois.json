@@ -1,0 +1,348 @@
+{
+  "map_id": "fig04_subjectE",
+  "figure": "4",
+  "panel": "E",
+  "pdf_page": 5,
+  "printed_page": "5",
+  "species": "Homo sapiens",
+  "specimen": "subjectE",
+  "hemisphere": "right_as_stated_in_results",
+  "view_type": "projected_functional_surface_map",
+  "hemisphere_relation": "",
+  "linked_main_map": "",
+  "repeat_of": "",
+  "relationship_note": "Table 1 has negative MNI x coordinates despite Results calling these right-hemisphere maps; discrepancy preserved, not resolved by inference.",
+  "specimen_link_status": "source_labels_preserved",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 3,
+  "crop_xyxy": [
+    790,
+    1060,
+    1015,
+    1300
+  ],
+  "scale_endpoints_px": [],
+  "scale_length_mm": null,
+  "scale_note": "No physical scale. Surface rendering is not demonstrated area-preserving; retain display pixels only. Published native cluster areas are recorded separately.",
+  "scale_reference_map": "",
+  "outline": null,
+  "rois": [
+    {
+      "label": "forehead_activation_display",
+      "polygons": [
+        [
+          [
+            139,
+            156
+          ],
+          [
+            142,
+            156
+          ],
+          [
+            142,
+            157
+          ],
+          [
+            145,
+            157
+          ],
+          [
+            145,
+            159
+          ],
+          [
+            144,
+            159
+          ],
+          [
+            144,
+            161
+          ],
+          [
+            142,
+            161
+          ],
+          [
+            142,
+            162
+          ],
+          [
+            141,
+            162
+          ],
+          [
+            141,
+            163
+          ],
+          [
+            139,
+            163
+          ],
+          [
+            139,
+            166
+          ],
+          [
+            138,
+            166
+          ],
+          [
+            138,
+            168
+          ],
+          [
+            137,
+            168
+          ],
+          [
+            137,
+            169
+          ],
+          [
+            136,
+            169
+          ],
+          [
+            136,
+            170
+          ],
+          [
+            135,
+            170
+          ],
+          [
+            135,
+            171
+          ],
+          [
+            128,
+            171
+          ],
+          [
+            128,
+            170
+          ],
+          [
+            127,
+            170
+          ],
+          [
+            127,
+            169
+          ],
+          [
+            126,
+            169
+          ],
+          [
+            126,
+            168
+          ],
+          [
+            125,
+            168
+          ],
+          [
+            125,
+            165
+          ],
+          [
+            126,
+            165
+          ],
+          [
+            126,
+            163
+          ],
+          [
+            127,
+            163
+          ],
+          [
+            127,
+            162
+          ],
+          [
+            128,
+            162
+          ],
+          [
+            128,
+            159
+          ],
+          [
+            129,
+            159
+          ],
+          [
+            129,
+            158
+          ],
+          [
+            130,
+            158
+          ],
+          [
+            130,
+            157
+          ],
+          [
+            136,
+            157
+          ],
+          [
+            136,
+            158
+          ],
+          [
+            138,
+            158
+          ],
+          [
+            138,
+            157
+          ],
+          [
+            139,
+            157
+          ]
+        ],
+        [
+          [
+            65,
+            101
+          ],
+          [
+            70,
+            101
+          ],
+          [
+            70,
+            102
+          ],
+          [
+            74,
+            102
+          ],
+          [
+            74,
+            103
+          ],
+          [
+            75,
+            103
+          ],
+          [
+            75,
+            104
+          ],
+          [
+            77,
+            104
+          ],
+          [
+            77,
+            106
+          ],
+          [
+            78,
+            106
+          ],
+          [
+            78,
+            107
+          ],
+          [
+            80,
+            107
+          ],
+          [
+            80,
+            110
+          ],
+          [
+            79,
+            110
+          ],
+          [
+            79,
+            111
+          ],
+          [
+            77,
+            111
+          ],
+          [
+            77,
+            113
+          ],
+          [
+            66,
+            113
+          ],
+          [
+            66,
+            112
+          ],
+          [
+            64,
+            112
+          ],
+          [
+            64,
+            111
+          ],
+          [
+            63,
+            111
+          ],
+          [
+            63,
+            109
+          ],
+          [
+            62,
+            109
+          ],
+          [
+            62,
+            105
+          ],
+          [
+            63,
+            105
+          ],
+          [
+            63,
+            103
+          ],
+          [
+            64,
+            103
+          ],
+          [
+            64,
+            102
+          ],
+          [
+            65,
+            102
+          ]
+        ]
+      ],
+      "exclude_polygons": [],
+      "extent": "visible_projected_activation_components",
+      "boundary_note": "Purple forehead phase bin from Fig.4 colorbar; color-assisted tracing of displayed response pixels. Components under 3 rendered pixels (0 pixels total) omitted as unresolved print speckle. Gray inactive gaps retained. Not a whole-face anatomical field or native cortical area."
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "S1_face_complete",
+      "status": "not_measurable",
+      "reason": "Only glabella was stimulated; whole-face boundary absent. No valid pixel-to-mm\u00b2 calibration."
+    }
+  ],
+  "supersample": 4
+}

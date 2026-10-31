@@ -1,0 +1,42 @@
+{
+  "map_id": "fig02_common_scale",
+  "figure": "2",
+  "panel": "",
+  "pdf_page": 3,
+  "printed_page": "20740",
+  "species": "Homo sapiens",
+  "specimen": "calibration_only",
+  "hemisphere": "unknown",
+  "view_type": "calibration_reference",
+  "hemisphere_relation": "",
+  "linked_main_map": "",
+  "repeat_of": "",
+  "relationship_note": "",
+  "specimen_link_status": "source_labels_preserved",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 3,
+  "crop_xyxy": [
+    280,
+    1020,
+    340,
+    1055
+  ],
+  "scale_endpoints_px": [
+    [
+      15.5,
+      17
+    ],
+    [
+      42.5,
+      17
+    ]
+  ],
+  "scale_length_mm": 10,
+  "scale_note": "Same-figure printed scale; 2D figure area, no shrinkage or distortion correction.",
+  "scale_reference_map": "",
+  "outline": null,
+  "rois": [],
+  "unmeasured": [],
+  "supersample": 4
+}

@@ -1,0 +1,23 @@
+{
+  "source/paper.pdf": "457e04d769c01bdcfcda79e20a297850742c5445955922662511e350dd75cbb9",
+  "source/manifest.json": "5c972d8964fbcd9991cb40dc66e767b59d2e323272fb8e365d9c11c932b94bd0",
+  "figures/fig04_MRI_flatmap_source/rois.json": "7c0de27a9bc3129f2866f3d5ffed3339cb863975231f1a27b699b9613fa192e8",
+  "figures/fig04_MRI_flatmap_source/source.tif": "125e444247aa5c995d45d06d08dcaf0f98a26b493011fb2cf2759699b6a912ad",
+  "figures/fig04_MRI_flatmap_source/source_preview.png": "ed8cd905b697e236838af83c891cdccc8965fa6c926c6e82227dc886cd655eca",
+  "figures/fig04_MRI_flatmap_source/tracing.png": "ed8cd905b697e236838af83c891cdccc8965fa6c926c6e82227dc886cd655eca",
+  "data/view_index.csv": "394b9b89446251130d19adfd88fe416a424d7cf0a1227032289a411940a895c5",
+  "data/hemisphere_summary.csv": "41d7c38a702afab988d636a787299acd0f618b90704805571df2c894b3ab98eb",
+  "data/measurements.csv": "84b0b22990d42580c2eddcdc05011f033183113885d24ecd546f3318a23ff905",
+  "data/published_areas.csv": "97af3386aefda643dc71e032b4f73d356b5e101040aab6739ee7f50e45cd201c",
+  "scripts/measure_flatmaps.py": "23112ffad285b57fa970ef90c74fa60e1a1cce61426203060c75a9e3ba1ea32a",
+  "scripts/ImageJIO.java": "83011f530f0329d902e05de1ed5b301119565a24567f76fd14061ee95e044760",
+  "scripts/summarize_flatmaps.R": "5857bea8db767922524fbff5a2c2d5b49d24c5f77840c70b332ebcb33fc3a88b",
+  "review/gallery.html": "d104137ff4e284a71ac920952b4202ec19c7110cbec087704b1a03c556fb7342",
+  "documentation/source_text.txt": "a004f262cce27c13960ad435037bf0611585aa77b80100dbf20eece0374ad375",
+  "documentation/imagej_measurements.tsv": "47f8b2e134b27979c5f05a8edbb7ea37272d94ac5b633747403aba83f5d2524a",
+  "documentation/review_notes.txt": "29392973fff99bff541be9a41423e246947a112eba8049ef560b6d41b1d68981",
+  "documentation/validation.json": "08a0e8f21b3254bf8feae6234d6830d62a84da6034ad36fedd6a88cd252447eb",
+  "documentation/build_log.txt": "1530045ae84ae3291841337d634d5c770f769bed23735b1c915d320996717712",
+  "documentation/figure_inventory.csv": "4b079360f172132422f49eef2916772afb1a74c043c6dadda871e62181312cba",
+  "documentation/imagej_runtime.txt": "e0bab48832f086b442e4c0096783858767ba3caab0cdf020847ddcf9083ebfb5"
+}

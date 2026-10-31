@@ -1,0 +1,246 @@
+{
+  "map_id": "fig04_9324_distal_forelimb",
+  "figure": "4",
+  "panel": "",
+  "pdf_page": 8,
+  "printed_page": "",
+  "species": "Monodelphis domestica",
+  "specimen": "9324",
+  "hemisphere": "right",
+  "view_type": "individual_reconstructed_partial_cortex",
+  "hemisphere_relation": "",
+  "linked_main_map": "fig02_9324_sensory",
+  "repeat_of": "",
+  "relationship_note": "Enlarged same sensory case, not a new animal. Do not pool with full S1 as independent observation.",
+  "specimen_link_status": "source_label_preserved; cross-paper overlap unresolved",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 3,
+  "crop_xyxy": [
+    1200,
+    794,
+    1364,
+    1014
+  ],
+  "scale_endpoints_px": [
+    [
+      22.0,
+      198.0
+    ],
+    [
+      176.0,
+      198.0
+    ]
+  ],
+  "scale_length_mm": 1,
+  "scale_note": "Printed same-panel scale; no shrinkage correction applied.",
+  "scale_reference_map": "same_panel_1mm_bar",
+  "outline": null,
+  "rois": [
+    {
+      "label": "S1_distal_forelimb",
+      "polygons": [
+        [
+          [
+            24.0,
+            25.0
+          ],
+          [
+            26.0,
+            17.0
+          ],
+          [
+            30.0,
+            14.0
+          ],
+          [
+            43.0,
+            12.0
+          ],
+          [
+            60.0,
+            12.0
+          ],
+          [
+            76.0,
+            12.0
+          ],
+          [
+            90.0,
+            13.0
+          ],
+          [
+            95.0,
+            15.0
+          ],
+          [
+            98.0,
+            18.0
+          ],
+          [
+            99.0,
+            31.0
+          ],
+          [
+            100.0,
+            48.0
+          ],
+          [
+            102.0,
+            64.0
+          ],
+          [
+            103.0,
+            74.0
+          ],
+          [
+            107.0,
+            79.0
+          ],
+          [
+            116.0,
+            81.0
+          ],
+          [
+            128.0,
+            81.0
+          ],
+          [
+            134.0,
+            83.0
+          ],
+          [
+            137.0,
+            88.0
+          ],
+          [
+            139.0,
+            101.0
+          ],
+          [
+            139.0,
+            121.0
+          ],
+          [
+            139.0,
+            144.0
+          ],
+          [
+            138.0,
+            164.0
+          ],
+          [
+            136.0,
+            184.0
+          ],
+          [
+            133.0,
+            191.0
+          ],
+          [
+            127.0,
+            194.0
+          ],
+          [
+            114.0,
+            194.0
+          ],
+          [
+            107.0,
+            193.0
+          ],
+          [
+            103.0,
+            191.0
+          ],
+          [
+            101.0,
+            188.0
+          ],
+          [
+            101.0,
+            180.0
+          ],
+          [
+            101.0,
+            174.0
+          ],
+          [
+            100.0,
+            170.0
+          ],
+          [
+            97.0,
+            166.0
+          ],
+          [
+            92.0,
+            163.0
+          ],
+          [
+            85.0,
+            161.0
+          ],
+          [
+            76.0,
+            160.0
+          ],
+          [
+            66.0,
+            159.0
+          ],
+          [
+            52.0,
+            159.0
+          ],
+          [
+            38.0,
+            159.0
+          ],
+          [
+            27.0,
+            159.0
+          ],
+          [
+            24.0,
+            156.0
+          ],
+          [
+            24.0,
+            142.0
+          ],
+          [
+            25.0,
+            119.0
+          ],
+          [
+            26.0,
+            99.0
+          ],
+          [
+            26.0,
+            80.0
+          ],
+          [
+            25.0,
+            60.0
+          ],
+          [
+            24.0,
+            43.0
+          ]
+        ]
+      ],
+      "extent": "complete_drawn_subregion",
+      "boundary_note": "Enlarged distal-forelimb contour. Case9213 labelled arm strip excluded; this is not automatically identical to the Table1 Digits definition. Review 2026-10-31: Manually refined on enlarged source, following visible envelope curves and concavities; recording symbols and annotation leaders are not borders. Closed distal-forelimb envelope retained.",
+      "tracing_method": "Source-reviewed contour revision, 2026-10-31; see project_review_2026-10-31",
+      "geometry_review": {
+        "date": "2026-10-31",
+        "status": "source_refined_provisional",
+        "note": "Manually refined on enlarged source, following visible envelope curves and concavities; recording symbols and annotation leaders are not borders. Closed distal-forelimb envelope retained."
+      }
+    }
+  ],
+  "unmeasured": [],
+  "supersample": 4
+}

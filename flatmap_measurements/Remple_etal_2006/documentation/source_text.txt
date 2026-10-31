@@ -1,0 +1,1910 @@
+
+===== PDF PAGE 1 =====
+Organization of Frontoparietal Cortex in
+the Tree Shrew ( Tupaia belangeri ). I.
+Architecture, Microelectrode Maps, and
+Corticospinal Connections
+MICHAEL S. REMPLE, 1 JAMIE L. REED, 1 IWONA STEPNIEWSKA, 2
+AND JON H. KAAS 2*
+1Neuroscience Graduate Program, Vanderbilt University, Nashville, Tennessee 37240
+2Department of Psychology, Vanderbilt University, Nashville, Tennessee 37212
+ABSTRACT
+Despite extensive investigation of the motor cortex of primates, little is known about the
+organization of motor cortex in tree shrews, one of their closest living relatives. We investi-
+gated the organization of frontoparietal cortex in Belanger’s tree shrews ( Tupaia belangeri )
+by using intracortical microstimulation (ICMS), corticospinal tracing, and detailed histolog-
+ical analysis. The results provide evidence for the subdivision of tree shrew frontoparietal
+cortex into seven distinct areas (ﬁve are newly identiﬁed), including two motor ﬁelds (M1 and
+M2) and ﬁve somatosensory ﬁelds (3a, 3b, S2, PV, and SC). The types of movements evoked
+in M1 and M2 were similar, but M2 required higher currents to elicit movements and had few
+connections to the cervical spinal cord and distinctive cyto- and immunoarchitecture. The
+borders between M1 and the anterior somatosensory regions (3a and 3b) were identiﬁed
+primarily from histological analysis, because thresholds were similar between these regions,
+and differences in corticospinal neuron distribution were subtle. The caudal (SC) and lateral
+(S2 and PV) somatosensory ﬁelds were identiﬁed based on differences in architecture and
+distribution of corticospinal neurons. Myelin-dense modules were identiﬁed in lateral cortex,
+in the expected location of the oral, forelimb, and hindlimb representations of S2, and possibly
+PV. Evidence for a complex primate-like array of motor ﬁelds is lacking in tree shrews, but
+their motor cortex shares a number of basic features with that of primates, which are not
+found in more distantly related species, such as rats. J. Comp. Neurol. 497:133–154, 2006.
+© 2006 Wiley-Liss, Inc.
+Indexing terms: M1; cortical; premotor; somatosensory; stimulation; maps
+Tree shrews (see Fig. 1) are small mammals that super-
+ﬁcially resemble arboreal squirrels, but are actually
+closely related to primates (see Fig. 2; Liu et al., 2001;
+Murphy et al., 2001a,b; Waddell and Kishino, 2001;
+Springer et al., 2003). In fact, tree shrews are the closest
+living relatives of primates that are available for detailed
+neuroanatomical and electrophysiological study. Conse-
+quently, a special emphasis has been placed on studying
+the nervous system of tree shrews for comparison with
+that of their primate relatives. Our group has been par-
+ticularly interested in comparing the organization of the
+cerebral cortex of tree shrews with that of their primate
+and nonprimate relatives to determine the cortical areas
+that might have appeared at different stages in the mam-
+malian or Euarchontan lineages (Kaas, 2002). Beyond
+driving theories of brain evolution, these comparisons pro-
+vide additional support for the existence of particular
+character states in human cortex, because traits widely
+held in these lineages are likely to be found in humans
+(Kaas, 2002).
+Grant sponsor: National Institutes of Health; Grant number: NS 16446
+(to J.H.K.).
+*Correspondence to: Jon H. Kaas, Vanderbilt University, 301 Wilson Hall,
+111 21st Avenue South, Nashville, TN 37203. E-mail: jon.kaas@
+vanderbilt.edu
+Received 10 November 2005; Revised 15 December 2005; Accepted 14
+January 2006
+DOI 10.1002/cne.20975
+Published online in Wiley InterScience (www.interscience.wiley.com).
+THE JOURNAL OF COMPARATIVE NEUROLOGY 497:133–154 (2006)
+© 2006 WILEY-LISS, INC.
+
+
+===== PDF PAGE 2 =====
+The organization of sensory cortex in tree shrews has
+been investigated in some detail (see, e.g., Sur et al., 1980,
+1981a; Weller et al., 1987; Lyon et al., 1998; Bosking et al.,
+2002; Alexander et al., 2004), but relatively little is known
+about the organization of the tree shrew motor cortex.
+Previous studies have provided evidence for one (Le Gros
+Clark, 1924) or more (Zilles, 1978) motor areas in the
+frontal cortex of tree shrews, based on architectonic fea-
+tures such as a poorly developed layer IV and the presence
+of large pyramidal neurons. However, Lende (1970) was
+unable to identify a distinct motor ﬁeld in this region
+based on electrophysiological parameters (using surface
+stimulation mapping), and he proposed that tree shrews
+lacked a motor cortex that was distinct from somatosen-
+sory cortex. The results of terminal degeneration (Jane et
+al., 1969) and corticospinal cell labeling (Nudo and Mas-
+terton, 1990) studies provided inconclusive evidence for
+the location and existence of one or more motor areas in
+tree shrews, insofar as large regions of the frontoparietal
+cortex appeared to project to the cervical spinal cord with
+uniform density. Thus, the extent, organization, and even
+the existence of tree shrew motor cortex remained uncer-
+tain.
+The purpose of the present study was to investigate
+more comprehensively the organization of motor and so-
+matosensory cortex in Belanger’s tree shrews ( Tupaia be-
+langeri), by using modern histochemical procedures to
+deﬁne architectonic subdivisions of frontoparietal cortex
+in combination with corticospinal tracing and detailed
+intracortical microstimulation (ICMS). This study is part
+of a larger effort to develop a model of the organization of
+sensory and motor cortical regions in tupaiids. Subse-
+quent papers will present the results of the anatomical
+tracing experiments in these animals. The ultimate goal of
+these studies is to determine which features of tree shrew
+sensory and motor cortex are shared with primates and
+with mammals in general. Here we provide evidence that
+the frontoparietal cortex of tree shrews contains at least
+two distinct motor ﬁelds and ﬁve somatosensory ﬁelds.
+The motor cortical ﬁelds of tree shrews share a number of
+basic features with the primary and premotor cortical
+regions of primates, but evidence for the complex array of
+secondary motor ﬁelds identiﬁed in primates is lacking.
+MATERIALS AND METHODS
+The architecture, corticospinal connections, and move-
+ment topography of sensorimotor cortex were identiﬁed in
+a total of 11 Belanger’s tree shrews of either sex (adults
+aged 1–2 years old, bred in our laboratory). Anatomical
+tracers injected into the spinal cord of three tree shrews
+revealed the pattern of corticospinal connections in six
+hemispheres. Intracortical microstimulation (ICMS) was
+used to identify the movement topography of frontoparie-
+tal cortex in eight tree shrews. In two cases, the anatom-
+ical injections were followed by ICMS mapping proce-
+dures. An additional two cases were used for more
+detailed architectonic analysis. The corticospinal and elec-
+trophysiological results were related to a number of his-
+tological features of cortex sectioned in the parasagittal,
+coronal, or tangential (ﬂattened) plane (for summary see
+Table 1). All procedures were approved by the Vanderbilt
+University Animal Care and Use Committee and followed
+National Institutes of Health guidelines.
+Spinal cord injections
+For spinal cord injections, a surgical level of anesthe-
+sia was induced with a combination of ketamine hydro-
+chloride (Ket; 90 mg/kg IP) and xylazine hydrochloride
+(Xyl; 10 mg/kg IM), and maintained by 1–2% Isoﬂu-
+orane. Ketoprofen (2.2 mg/kg) was administered prior to
+surgery to reduce inﬂammation and provide postopera-
+tive analgesia. An incision was made into the skin of the
+upper back, and the underlying muscles were retracted,
+exposing the spinal column. A laminectomy was per-
+formed over select lower cervical vertebrae (between C5
+and C7) and a series of two to three injections of wheat
+germ agglutinin conjugated to horseradish peroxidase
+(WGA-HRP; 2% in distilled water) was placed across the
+exposed portions of the spinal cord on each side. Injec-
+tions were spaced approximately 1.5 mm apart in the
+rostrocaudal dimension. Volumes of 0.4 – 0.5 /H9262l were
+pressure injected at depths of 2 mm and 1.5 mm. Cer-
+vical injections were placed to maximize uptake be-
+tween the C5 to T1 myelomeres. After injections, the
+exposed portions of spinal cord were covered with gel
+Abbreviations
+3a area 3a
+3b area 3b (primary somatosensory cortex)
+Aud auditory cortex
+M1 primary motor cortex
+M2 secondary motor cortex
+PP posterior parietal cortex
+PV parietal ventral area
+S1 primary somatosensory cortex
+S2 secondary somatosensory cortex
+SC somatosensory caudal area
+TA temporal anterior area
+TD temporal dorsal area
+TI temporal inferior area
+TP temporal posterior area
+TPI temporal posterior inferior area
+V1 primary visual cortex
+V2 secondary visual cortex
+Fig. 1. External morphology of the Belanger’s tree shrew ( Tupaia
+belangeri); note the elongated snout and large eyes. Scale bar /H110055 cm.
+© Michael S. Remple, with full rights granted to John Wiley & Sons,
+Inc.
+The Journal of Comparative Neurology. DOI 10.1002/cne
+134 M.S. REMPLE ET AL.
+ 10969861, 2006, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.20975 by University Of Bath, Wiley Online Library on [11/07/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 3 =====
+foam, and the overlying muscles and skin were sutured.
+Animals were carefully monitored for recovery from the
+anesthetic and then placed in a separate cage to recover.
+After 2–3 days, animals were prepared for ICMS (cases
+310 and 320) or histology (case 313).
+ICMS
+Ket and Xyl were used to induce (30 mg Ket /H110011.2 mg
+Xyl) and maintain (10 mg Ket /H110010.2 mg Xyl) anesthesia
+for microstimulation procedures. A craniotomy was per-
+formed to expose the right frontal cortex, and the over-
+lying dura was removed. A digital photograph was made
+of the cortical surface, and the brain was covered with
+warm silicon oil to prevent desiccation. A tungsten mi-
+croelectrode (1 M /H9024impedance) was used to make per-
+pendicular penetrations into cortex to a depth of /H110111500
+/H9262m, where the lowest-threshold movements were elic-
+ited (presumptive layer V). In ﬁve cases, the stimulus
+train consisted of 18 cathodal pulses of 0.2 msec dura-
+tion (rate /H11005350 Hz) that were delivered every 1 second.
+In two cases, a shorter stimulus train consisting of 13
+cathodal pulses was delivered (0.2 msec, 350 Hz, every
+1 second), and in one case (411) both 18 and 13 cathodal
+pulses were delivered. Electrode penetrations were
+made with reference to a grid, at an interpenetration
+distance of 1,000 /H9262m, vasculature per mitting, and subse-
+quently ﬁlled in to an interpenetration distance of 500/H9262mo r
+less. This method was used to minimize excitability of adja-
+cent regions of cortex due to current spread. Electrode pen-
+etrations were marked on a digitized photograph of the cor-
+tical surface, using the program Canvas 7 (Deneba, Miami,
+FL). The animal was carefully monitored for movement by
+two observers, and movements were classiﬁed into four cat-
+egories. Oral movements included movements of the lips and
+tongue; facial movements included movements of the vibris-
+sae, jaw, and eyelids; trunk movements included movements
+of the upper and lower trunk and neck; forelimb movements
+included movements of the digits, wrist, elbow, and shoul-
+der; and hindlimb movements included movements of the
+toes, ankle, and knee. At each penetration, the minimal
+threshold required to elicit a movement was recorded, and
+sites where no movement was detected at 120 /H9262A were
+recorded as unresponsive. A cut-off of 120 /H9262A was set as a
+compromise between identifying secondary motor areas that
+require higher amplitude stimulation and limiting current
+spread in the cortex to less than 400/H9262m (Stoney et al., 1968).
+For case 411, movement thresholds were characterized for a
+shorter stimulus train (13 pulses), and then following a
+2-minute refractory period the normal stimulus train was
+delivered (18 pulses) and the threshold movement was char-
+acterized again (ICMS cases summarized in Table 2). Elec-
+trolytic lesions (10 /H9262A, 10 second) were made at select loca-
+tions in the cortex to aid in subsequent reconstruction.
+Topographic maps of movement representation were gener-
+Fig. 2. Phylogeny of extant Euarchontoglire mammals. Super-
+orders or clades are based on large-scale studies of the nuclear and
+mitochondrial genomes of extant mammal species (see, e.g., Murphy
+et al., 2001a; Waddell and Kishino, 2001). The Euarchontoglire clade
+combines the former Euarchonta clade of primates, tree shrews (Scan-
+dentia), and ﬂying lemurs (Dermoptera) with the Glire clade (rodents
+and lagomorphs). The hierarchies and divergence ratios presented
+here are generally accepted, but absolute divergence times depend on
+calibration point. Divergence times presented here are based primar-
+ily on molecular estimates (Murphy et al., 2001a; Waddell and
+Kishino, 2001; Brunet et al., 2002; Huchon et al., 2002). © Michael S.
+Remple, with full rights granted to John Wiley & Sons, Inc.
+TABLE 1. Summary of Experimental Cases 1
+Case
+No.
+Spinal cord
+injection
+Plane of
+section Tracer ICMS
+102 — Coronal — No
+104 — Coronal — No
+310 C5-T1 Tangential (ﬂat) WGA-HRP Yes
+313 C5-T1 Tangential (ﬂat) WGA-HRP No
+320 C5-T1 Tangential (ﬂat) WGA-HRP Yes
+339 — Parasagittal — Yes
+345 — Parasagittal — Yes
+353 — Parasagittal — Yes
+411 — Tangential (ﬂat) — Yes
+424 — Parasagittal — Yes
+428 — Parasagittal — Yes
+1ICMS, intracortical microstimulation; WGA-HRP, wheat germ agglutinin-horseradish
+peroxidase.
+The Journal of Comparative Neurology. DOI 10.1002/cne
+135ORGANIZATION OF MOTOR CORTEX IN TREE SHREWS. I
+ 10969861, 2006, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.20975 by University Of Bath, Wiley Online Library on [11/07/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 4 =====
+ated from the pattern of electrode penetrations using the
+graphics program Illustrator CS (Adobe, San Jose, CA).
+Histology
+At the end of the experiment, tree shrews were given a
+lethal overdose of sodium pentobarbital (100 mg/kg IP)
+and perfused transcardially with phosphate-buffered sa-
+line (PBS), followed by 2% paraformaldehyde in PBS (pH
+7.3) and then 2% paraformaldehyde and 10% sucrose in
+PBS. The brain was removed and the cortex was either
+separated from the brain stem and ﬂattened between
+glass slides (ﬁve cases), or left intact for parasagittal or
+coronal sectioning. The cortex, thalamus, medulla, and
+cervical spinal cord were postﬁxed for 1–2 hours and then
+placed in 30% sucrose overnight for cryoprotection. All the
+pieces were cut frozen on a sliding microtome at a thick-
+ness ranging from 30 to 40 /H9262m. In cases in which the
+cortex was ﬂattened, it was sectioned in a plane tangential
+to the pial surface. In the remaining cases, the cortex was
+cut in a parasagittal or coronal plane (summarized in
+Table 1). In cases with spinal cord injections, alternate
+series of cortical sections were processed for myelin (Gal-
+lyas, 1979) and tetramethylbenzidine (TMB; to visualize
+WGA-HRP; Gibson et al., 1984). In the parasagittal cases,
+a series of cortical sections was processed for Nissl sub-
+stance (with thionin), and alternating series were pro-
+cessed for myelin, cytochrome oxidase (CO; Wong-Riley,
+1979), and acetylcholinesterase (AChE; Geneser-Jensen
+and Blackstad, 1971). In some cases, a series of sections
+was processed with the monoclonal antibody SMI-32
+(Sternberger Monoclonals; lot No. 17, raised in mice) that
+recognizes a nonphosphorylated heavy neuroﬁlament pro-
+tein (Lee et al., 1988), which is expressed in a subset of
+cortical pyramidal neurons (Campbell and Morrison,
+1989; Hof et al., 1996), and has been used to differentiate
+subdivisions of motor cortex in primates (Preuss et al.,
+1997; Geyer et al., 2000b). Sections from the spinal cord
+were sectioned in the horizontal plane and reacted for CO
+and TMB.
+Anatomical reconstruction
+Parasagittal cortical sections. Several histological
+procedures were used to delineate architectonic borders in
+parasagittally sectioned cortex, including Nissl, myelin,
+CO, AChE, and SMI-32. Nissl and SMI-32 were the most
+useful for deﬁning the agranular, granular, and transi-
+tional zones in sensorimotor cortex (see Fig. 3), but the
+other histochemical procedures were useful for corroborat-
+ing particular borders in ambiguous sections. Digital pho-
+tomicrographs of sections were obtained by using a Nikon
+DXM1200 camera mounted to a Nikon E800 microscope.
+Digital images were adjusted for contrast using the levels
+command in Adobe Photoshop CS and then were imported
+into Adobe Illustrator CS. Micrographs were aligned with
+each other, and the pattern of blood vessels, and architec-
+tonic borders were identiﬁed and drawn for each section.
+The locations of borders were corroborated by viewing
+sections at high power with a microscope. The distances
+between architectonic borders, lesions, and rostral and
+caudal poles of cortex were measured from a common
+origin for each section using an Illustrator plug-in (CAD-
+tools; Hotdoor, Laguna Beach, CA). Measurements were
+made by following the curvature of cortex along layer V,
+and measurements were transferred into Cartesian coor-
+dinates for reconstruction in the tangential (or ﬂattened)
+plane. ICMS maps were aligned with reconstructed maps
+by using the pattern of microlesions.
+Coronal cortical sections. Architectonic borders
+were identiﬁed in coronally cut cortical sections processed
+for Nissl, CO, and AChE. The agranular, granular, and
+transitional zones in sensorimotor cortex were identiﬁed
+primarily from Nissl sections, but the other histochemical
+procedures were used to corroborate borders in ambiguous
+sections. Borders were corroborated as described above.
+Flattened cortical sections. Flattened sections were
+processed for myelin, AChE, and in some cases CO. The
+modular organization of ﬂattened cortex was best revealed
+by staining for myelin, which reveals several sensory ar-
+eas of cortex. Outlines of sensory areas, large blood ves-
+sels, and microlesions (in ICMS cases) were made from
+photomicrographs in Illustrator CS. For tracer injection
+cases, WGA-HRP-labeled cells and large blood vessels
+were plotted under bright- and darkﬁeld illumination on a
+microscope with a computer-controlled stage (Neurolu-
+cida, Colchester, VT). Labeled pyramidal cells were iden-
+tiﬁed and plotted under darkﬁeld illumination and
+Fig. 3. Architecture from three adjacent cortical sections cut in the
+parasagittal plane in case 353 (composite photomicrograph). Sections
+are from frontoparietal cortex and have been processed for Nissl
+substance ( A), SMI-32 ( B), or myelin ﬁbers ( C). Agranular motor
+cortex is divided into rostral and caudal divisions (M2 and M1), based
+on differences in layer V, including pyramidal cell morphology and
+packing density. Primary somatosensory area 3b was identiﬁed by the
+density of granular layer IV, and area 3a formed a transitional region
+between M1 and 3b with well-developed layers IV and V. The somato-
+sensory caudal area (SC) was identiﬁed based its less dense granular
+layer IV and less distinct layer Va band (see. Fig. 10 for reconstruction
+of this case). Panels include section numbers in upper left corner.
+Rostral is to the right. Scale bar /H11005500 /H9262m. © Michael S. Remple, with
+full rights granted to John Wiley & Sons, Inc.
+TABLE 2. Summary of Microstimulation Cases1
+Case
+No.
+ICMS
+parameters
+Total
+penetrations
+Penetrations (responsive/nonresponsive)
+SC 3b 3a M1 M2
+310 N 90 9/6 22/5 10/2 8/3 6/8
+320 N 141 14/7 24/12 12/3 19/7 15/3
+339 N 196 12/6 41/9 19/2 44/7 13/15
+345 N 123 3/7 10/12 8/3 16/5 7/7
+353 N, L 132 3/2 29/2 16/1 24/2 15/14
+411 S, N, L 106 16/2 25/4 10/3 12/2 6/3
+424 S, L 114 3/4 25/2 10/5 19/2 8/4
+428 S 86 — 3/0 8/1 28/3 17/9
+1ICMS, intracortical microstimulation; N, normal; L, long; S, short. The total number of penetrations includes responsive and nonresponsive sites o utside of the ﬁelds reported here.
+The Journal of Comparative Neurology. DOI 10.1002/cne
+136 M.S. REMPLE ET AL.
+ 10969861, 2006, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.20975 by University Of Bath, Wiley Online Library on [11/07/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 5 =====
+Figure 3.
+The Journal of Comparative Neurology. DOI 10.1002/cne
+137ORGANIZATION OF MOTOR CORTEX IN TREE SHREWS. I
+ 10969861, 2006, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.20975 by University Of Bath, Wiley Online Library on [11/07/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 6 =====
+veriﬁed under brightﬁeld illumination at higher magniﬁ-
+cation. Cells were recognized by their size, pyramidal mor-
+phology, and unique pattern of TMB labeling, which made
+their soma appear granular. TMB deposits were not clas-
+siﬁed as cells when they appeared uniformly dense, were
+irregularly shaped, or were notably different in size from
+adjacent unlabeled cells. Plotted sections were imported
+into Illustrator CS and aligned with photomicrographs of
+adjacent sections. Motor maps were aligned with myelin
+sections based on the pattern of microlesions. A solid line
+was drawn around primary somatosensory area 3b and a
+dotted line around the expected location of areas SC, 3a,
+M1, and M2, which were estimated in ﬂat cortex based on
+their relative distance from area 3b.
+Spinal cord. In injection cases, the cervical spinal
+cord was cut in a horizontal plane to best reveal the
+rostrocaudal and mediolateral zone of tracer uptake in
+individual sections. The zone of tracer spread was drawn
+from micrographs of TMB-processed sections and individ-
+ual sections were superimposed on each other to deter-
+mine the extent of tracer uptake. The zone of uptake was
+conﬁrmed by examining sections at high power on a mi-
+croscope under both darkﬁeld and brightﬁeld illumina-
+tion.
+Quantitative methods
+The thresholds required to elicit movements at respon-
+sive sites were statistically analyzed in the program SPSS
+13. Regions with fewer than three responsive sites were
+not included in threshold analysis. Thresholds were com-
+pared by using nonparametric statistical tests, because
+initial data exploration indicated that the data were not
+normally distributed (Shapiro-Wilk test of normality), and
+groups were unequal in size. In addition, many groups
+lacked homogeneity of variance (tested via Levene statis-
+tic). When the variance between groups was homoge-
+neous, Mann-Whitney tests were used to compare two
+groups, and Kruskal-Wallis H-tests were used to test mul-
+tiple groups. When the variance between groups was not
+homogeneous, Kolmogorov-Smirnov tests were used to
+compare two groups, and median tests were used to test
+multiple groups. Post hoc tests used either Mann Whitney
+(homogeneous variance) or Kolmogorov-Smirnov tests
+(nonhomogeneous variance), and a Bonferroni correction
+was applied so that all effects are reported at the 0.01 level
+of signiﬁcance.
+RESULTS
+The results of histological reconstruction, intracortical
+microstimulation, and corticospinal tracing provide evi-
+dence for the subdivision of tree shrew sensorimotor cor-
+tex into seven distinct ﬁelds. We have identiﬁed an
+agranular region in frontal cortex that represents the
+motor cortex of tree shrews. This region can be further
+subdivided into primary and secondary motor cortex (M1
+and M2, respectively) based on differences in architecture,
+movement thresholds, and the distribution of corticospi-
+nal neurons. We identiﬁed ﬁve ﬁelds in parietal cortex,
+including primary somatosensory cortex (area 3b, identi-
+ﬁed by Sur et al., 1980, as S1), a dysgranular region that
+is the likely homolog of area 3a in primates (Krubitzer et
+al., 2004), one region caudal to 3b that we have called the
+somatosensory caudal area (SC), and two ﬁelds in lateral
+cortex: the previously identiﬁed second somatosensory
+cortex (Sur et al., 1981a) and a more lateral area that may
+be the homolog of the parietal ventral area (PV) identiﬁed
+widely in mammals (Disbrow et al., 2000).
+Cortical architecture
+Parasagittal and coronal sections. The architec-
+tonic borders of motor cortex can be difﬁcult to identify in
+tree shrews because of the relatively small size of Betz
+cells in these animals. Indeed, Sherwood et al. (2003) have
+shown that the ratios of Betz cell size to normal pyramidal
+neurons is smaller in tree shrews than in most mammals
+(Rivara et al., 2003). Therefore, we placed special empha-
+sis on identifying motor regions in the forelimb region of
+tree shrew cortex, where layer V pyramidal neurons are
+largest and differences between somatosensory and motor
+regions are most pronounced. Architectonic borders were
+most reliably identiﬁed in sections cut in the parasagittal
+plane, because most borders were orthogonal to this plane.
+However, we also sectioned some cortices in the coronal
+plane to better reveal the differences in lateral cortex and
+some in the parallel (ﬂat) plane, to relate the results of
+ICMS maps to the modular organization of somatosensory
+cortex.
+Motor cortex. In Nissl-stained sections, motor cortex
+could be identiﬁed by using the classical criteria of a
+poorly developed granular layer IV and a well-developed
+pyramidal layer V. Differences in the appearance of layer
+V were used to subdivide motor cortex into primary motor
+cortex (M1) and a rostrally located secondary motor cortex
+(M2). In M1, layer V was thick with large, densely packed
+pyramidal neurons in deeper layer V (Vb) and a palely
+staining layer Va, whereas M2 had a thinner layer V with
+smaller more irregularly spaced pyramidal neurons and
+lacked an obvious pale layer Va (Figs. 3, 4). The rostral
+border of M2 could be identiﬁed in Nissl sections by the
+transition to smaller pyramidal cells, with a layer V thick-
+ness typical of nonmotor regions and a distinct granular
+layer IV. The SMI-32 antibody showed a high level of
+speciﬁcity for pyramidal cells in tree shrew cortex, similar
+to that described for primates (Campbell and Morrison,
+1989; Preuss et al., 1997; Geyer et al., 2000b). In SMI-32
+processed sections, layer V pyramidal neurons in M1 had
+large, densely immunoreactive cell bodies with thick api-
+cal dendrites that extended into layer III (Fig. 3), whereas
+layer V pyramidal cells in M2 had smaller, less densely
+labeled cells, with thinner apical dendrites that were more
+sparsely arranged than in M1. No immunoreactive cells
+were identiﬁed in layer III of either M1 or M2. The rostral
+border of M2 was identiﬁed by a transition to tall apical
+dendrites with few or no immunoreactive cell bodies. Py-
+ramidal neurons in layer V stained darkly in CO prepa-
+rations, but architectonic differences between M1 and M2
+were not obvious. Differences between M1 and M2 were
+not apparent in AChE-processed sections, but, in favor-
+able sections, the caudal border of M1 could be identiﬁed
+by a transition to lighter-staining layers III, IV and VI
+(Fig. 5).
+Area 3a. A transitional region with a well-developed
+granular layer IV and pyramidal layer V was identiﬁed
+caudal to M1 and is likely a homolog of area 3a identiﬁed
+in primates (Krubitzer et al., 2004). Layer V pyramidal
+neurons were large in this region and transitioned from
+moderate to sparse packing density toward the caudal
+border of 3a, which was most evident in Nissl-processed
+sections (Figs. 3, 4). In SMI-32 processed sections, area 3a
+The Journal of Comparative Neurology. DOI 10.1002/cne
+138 M.S. REMPLE ET AL.
+ 10969861, 2006, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.20975 by University Of Bath, Wiley Online Library on [11/07/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 7 =====
+is differentiated from M1 by a lack of tall apical dendrites,
+small immunoreactive cells in layer IV, and a hazy pat-
+tern of labeling in the surrounding neuropil, with less
+densely arranged layer V pyramidal cells. A distinct,
+lightly stained band was evident in layer Va in both Nissl
+and SMI preparations (Fig. 3). In favorable myelin sec-
+tions, area 3a could be differentiated from M1 by its
+darkly stained layer IV and from area 3b by its more
+lightly stained supergranular layers. In AChE-processed
+sections, area 3a could be differentiated from M1 by a dark
+layer V, surrounded by moderate staining bands above
+and below, corresponding to layers IV and VI (Fig. 5).
+Area 3b. The primary somatosensory cortex (area 3b)
+was identiﬁed caudal to 3a and had a well-developed gran-
+ular layer IV of uniform thickness. In Nissl-processed
+sections, layer V pyramidal cells were not as large as those
+in M1 and were more sparsely packed than in 3a, making
+the pale-staining layer Va more prominent (Figs. 3, 4).
+Area 3b appeared similar to area 3a in sections processed
+for SMI-32, but the haze in the granular layer IV was
+more pronounced, and cells in layer IV and their apical
+dendrites were more densely immunoreactive. In myelin-
+processed sections, 3b was identiﬁed as a band of partic-
+ularly dense staining within layer IV, with an additional
+band of moderate staining in the more superﬁcial supra-
+granular layers (Fig. 3). A similar, but less distinctive,
+pattern of layer IV staining was identiﬁed in CO-
+processed sections (not illustrated). In sections processed
+for AChE, area 3b looked similar to area 3a, but layers III,
+IV, and VI were more lightly stained (Fig. 5). The caudal
+border of 3b could be identiﬁed in AChE sections by a
+transition to more uniform AChE staining and a darker
+layer VI.
+Area SC. A region with a less-well-developed granular
+layer IV, which we have called the somatosensory caudal
+area (SC), was identiﬁed in the anterior parietal region of
+cortex just caudal to area 3b. In Nissl-processed sections,
+SC had a thick granular layer IV, with a moderate cell
+density and medium-sized layer V pyramidal cells that
+were sparsely distributed, giving layer V an overall pale
+appearance (Figs. 3, 4). In SMI-32 sections, the SC region
+had more densely immunoreactive layer V pyramidal neu-
+rons than in area 3b and a thinner layer Vb (Fig. 3).
+Lateral cortex. The second somatosensory and parietal
+ventral areas (S2 and PV, respectively) were identiﬁed in
+lateral portions of sections cut in the coronal plane. The
+second somatosensory area S2 was located lateral to the
+face region of 3b and could be differentiated from 3b based
+on its thinner, semipale layer V that had smaller pyrami-
+dal neurons, and thinner, less-well-developed granule
+Fig. 4. Nissl cytoarchitecture from cortical sections cut in the
+coronal plane in two cases (102 and 104). A: Primary somatosensory
+area 3b has a dense granular layer IV and a pale layer V. B: Area 3a
+has a well-developed granular layer and layer V. C: Primary motor
+cortex (M1) is agranular, with large, densely packed layer V pyrami-
+dal neurons. D: Secondary motor cortex (M2) has large but sparsely
+arranged pyramidal cells. Case 104 is presented in A and B, and case
+102 in C and D. Rostral is to the right. Scale bar /H11005250 /H9262m. © Michael
+S. Remple, with full rights granted to John Wiley & Sons, Inc.
+The Journal of Comparative Neurology. DOI 10.1002/cne
+139ORGANIZATION OF MOTOR CORTEX IN TREE SHREWS. I
+ 10969861, 2006, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.20975 by University Of Bath, Wiley Online Library on [11/07/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 8 =====
+layer IV (Fig. 6). Laterally to S2, the parietal ventral (PV)
+region could be identiﬁed based on the appearance of layer
+V, which was thinner and more densely packed and lacked
+the pale band in layer Va.
+Flattened cortical sections. Although no histochem-
+ical correlates of motor cortex were identiﬁed in ﬂattened
+cortex, this preparation was valuable for identifying a
+number of sensory subdivisions of cortex (Fig. 7A,B). In
+myelin-stained, ﬂattened sections, 3b appeared as a
+myelin-dense band starting at the medial wall of cortex
+and traveling rostrolaterally to the edge of neocortex, with
+myelin-sparse septal regions dividing the face from the
+hand region (Cusick et al., 1985), the hand from the foot,
+and the face from the mouth in 3b (Sur et al., 1980, 1981b).
+A series of myelin-dense modules, separated by myelin-
+sparse septal regions (arrowheads in Fig. 7D), was iden-
+tiﬁed lateral to the face region of 3b that corresponded to
+the expected location of the hindlimb, forelimb, and oral
+representations of S2 and possibly PV (Fig. 7B,D). We
+have labeled these modules OM (oral module), FM (fore-
+limb module), and HM (hindlimb module). Similar mod-
+ules have been identiﬁed in the lateral cortex of rodents
+(Remple et al., 2003; Henry et al., 2006). Myelin staining
+also revealed a number of other sensory regions, including
+V1,V2, TI, and auditory cortex (Kaas et al., 1972; Lyon et
+al., 1998). The myelin-dense sensory regions were most
+clearly identiﬁed in the middle to deeper layers of cortex,
+which correspond to layers IV and V in parasagittal sec-
+tions (Fig. 3). A similar but less robust pattern of staining
+was identiﬁed in ﬂat sections processed for CO (not illus-
+trated). In AChE-processed sections, area 3b appeared as
+a lightly stained strip that was identiﬁed in both superﬁ-
+cial and deep sections and formed a pattern inverse to that
+identiﬁed in myelin processed sections (not illustrated).
+The pattern of AChE staining was a less reliable indicator
+of sensory regions than myelin, however, as the AChE-
+light pattern was found in a more limited range of sections
+and was often incomplete in single sections.
+Corticospinal neurons
+The fast transporting retrograde tracer WGA-HRP was
+injected into the lower cervical spinal cord of three tree
+shrews to retrogradely label corticospinal cells in the fore-
+limb region of sensorimotor cortex. We sectioned hemi-
+spheres in the tangential plane to allow for the most
+accurate reconstruction of corticospinal cell topography.
+The distribution of corticospinal cells was related to the
+location of primary somatosensory cortex and estimates of
+the adjacent motor and somatosensory ﬁelds. Corticospi-
+nal cells were identiﬁed in multiple somatosensory and
+motor areas but were most densely distributed in 3b and
+the area just rostral to it (i.e., the expected location of M1
+and 3a). The densest concentration of corticospinal cells
+was found in the central forelimb region of both M1 and
+3a, but a less-dense focus of cells was identiﬁed at the
+ventral edge of the forelimb region, where both forelimb
+and orofacial movements were elicited (Fig. 8; see ICMS
+section). An interesting pattern of corticospinal labeling
+was identiﬁed in the hand region of 3b, which had a
+relatively sparse focus of labeled cells in the center, sur-
+rounded by a region of dense cell labeling. The region of
+sparse labeling in 3b corresponded to the location of the
+digits described by Sur et al. (1980), whereas the dense
+corticospinal labeling in the surrounding region corre-
+sponded to the location of arm, wrist, and the pads of the
+hand (Sur et al., 1980). A more sparse distribution of
+corticospinal cells was often found in the regions sur-
+rounding the hand and foot regions in 3b, where the trunk,
+arm, and leg are represented (Sur et al., 1980, 1981b).
+Limited numbers of corticospinal neurons were identiﬁed
+in the expected location of M2 following lower cervical
+injections. A patchy distribution of corticospinal neurons
+was consistently identiﬁed caudal to the 3b forelimb re-
+gion in the expected location of SC. Corticospinal cells
+were not always identiﬁed in the S2/PV region of lateral
+cortex, but a few scattered cells were identiﬁed in this
+region in two hemispheres (320L and 320R; Fig. 8).
+Microstimulation maps
+Intracortical microstimulation (ICMS) was used to de-
+termine the organization and extent of motor cortical ar-
+Fig. 5. Architecture from two adjacent cortical sections cut in the
+parasagittal plane in case 428. Section are processed for acetylcho-
+linesterase (AChE; A) and Nissl substance ( B). Note the distinctive
+pattern of AChE staining in area 3b, where layers IV and VI stain
+lightly and layer V stains darkly. A similar but less distinctive pattern
+of staining is seen in area 3a. The adjacent Nissl-stained section is
+provided for comparison. No clear distinctions were noted in AChE
+sections for areas M1 and M2. Rostral is to the right. Scale bar /H11005500
+/H9262m. © Michael S. Remple, with full rights granted to John Wiley &
+Sons, Inc.
+The Journal of Comparative Neurology. DOI 10.1002/cne
+140 M.S. REMPLE ET AL.
+ 10969861, 2006, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.20975 by University Of Bath, Wiley Online Library on [11/07/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 9 =====
+eas in tree shrews. In total, 988 penetrations were made in
+eight hemispheres for the present study, with individual
+cases ranging from 86 to 196 penetrations (Table 2). In
+ﬁve cases, we used ICMS parameters typically used in
+primates (see, e.g., Stepniewska et al., 1993) so that we
+could more directly compare our results with those of
+primate ICMS studies. These “normal” stimuli consisted
+of 54-msec trains of 18 cathodal pulses, delivered every 2
+seconds. The effects of shorter stimulus trains (39 msec,
+13 pulses) were also explored in three tree shrews, be-
+cause these parameters are more typical for ICMS studies
+in smaller-brained animals (see, e.g., Remple et al., 2001),
+but the evoked movements and movement thresholds did
+not differ signiﬁcantly from those found in normal stimuli
+cases (Mann-Whitney test). Thus, the results of normal-
+and shorter-stimuli groups were combined. The effects of
+longer stimulus trains (500 msec or 150 pulses) were ex-
+plored at select locations in three cases (see Table 1),
+because these parameters have recently been shown to
+produce maps of complex multifaceted movements in pri-
+mate motor (Graziano et al., 2002) and intraparietal cor-
+tex (Cooke et al., 2003; Stepniewska et al., 2005). In the
+present study, however, movements generated by long
+stimulus trains were not qualitatively different from those
+produced by normal stimuli at the same locations, so the
+results of long trains were not explored in detail. The
+injection of anatomical tracers into the cervical spinal
+cords of two cases (310 and 320) did not appear to impact
+the excitability of motor cortex, insofar as thresholds for
+forelimb movements in injected cases were not signiﬁ-
+cantly different from those of all noninjected cases or
+stimulus-matched cases (Mann-Whitney test).
+General features of ICMS maps. Movements were
+elicited from a wedge-shaped region of frontoparietal cor-
+tex that extended 4 –5 mm mediolaterally and 3–5 mm
+rostrocaudally. This excitable region was 18 mm
+2,o na v -
+erage, and typically straddled two branches of the large
+cortical vein in frontal cortex that connects to the superior
+sagittal sinus (Poonkhum et al., 2000). A cortical indenta-
+tion was identiﬁed under the rostral branch of this vein,
+corresponding to the location of the orbital furrow identi-
+ﬁed by Lende (1970). The excitable region was found pri-
+marily on the dorsal surface of cortex, but the rostral most
+region extended partway into lateral cortex. No move-
+ments were identiﬁed in the medial wall of cortex.
+Elicited movements were broadly somatotopic in excit-
+able cortex, with a medial to lateral progression of hind-
+limb, forelimb, face, and mouth (Figs. 9 –11). No precise
+somatotopy was found within these regions, however, as
+the movement topography formed the fractured mosaic
+typical for ICMS mapping studies of sensorimotor cortex
+in other mammals (e.g., Gould et al., 1986). That is, sim-
+ilar movements were scattered widely across somatotopic
+divisions, and dissimilar movements were often located
+adjacent to each other. Most identiﬁed movements were
+“simple,” occurring around a single joint, but occasional
+Fig. 6. Cytoarchitecture of lateral cortex, in a section cut in the
+coronal plane and processed for Nissl substance (case 104). A: The
+second somatosensory area (S2) is more stratiﬁed overall and has a
+sparser packing density of layer V pyramidal neurons than the more
+lateral parietal ventral area (PV). Layer V pyramidal neurons in PV
+are smaller and less densely packed than in the more medial second
+somatosensory area (S2). B: In area 3b, granular layer IV is thicker
+and more dense, and layer V pyramidal neurons are larger and more
+densely packed than in S2. Rostral is to the right. Scale bar /H11005500 /H9262m.
+© Michael S. Remple, with full rights granted to John Wiley & Sons,
+Inc.
+The Journal of Comparative Neurology. DOI 10.1002/cne
+141ORGANIZATION OF MOTOR CORTEX IN TREE SHREWS. I
+ 10969861, 2006, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.20975 by University Of Bath, Wiley Online Library on [11/07/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 10 =====
+“complex,” multijoint movements, and dual movements of
+two separate body parts were identiﬁed. At threshold lev-
+els, most elicited movements were contralateral to the
+stimulated hemisphere, but bilateral movements were fre-
+quently identiﬁed at midline structures of the head, such
+as the vibrissae, jaw, and tongue. Many penetrations yielded
+complex, dual or bilateral responses at suprathreshold lev-
+els. The median threshold required to elicit movements
+differed signiﬁcantly between regions [H(5) /H1100539.6, P /H11021
+0.001], and the results of post hoc tests are reported below
+(a Bonferroni correction was applied so that regional ef-
+fects are reported at a 0.01 level of signiﬁcance).
+Motor cortex
+M1. The primary motor cortex formed a narrow medial
+to lateral strip that was approximately 1 mm wide, with
+the body represented mediolaterally and the orofacial re-
+gion represented rostrolaterally. Although there were no
+obvious morphological features to help locate M1 from the
+brain surface, its location could be approximated with
+reference to a distinctive skull suture over occipital cortex.
+Fig. 7. The modular organization of sensory areas in ﬂattened
+cortex in case 320. A: Summary of sensory modules revealed by
+myelin processing. B: Somatotopy of primary somatosensory region
+3b. C: Sensory areas can be visualized as myelin-dense modules in the
+middle layers of ﬂattened cortex. D: A close-up of area 3b reveals
+myelin-dense regions divided by myelin-light septal regions that de-
+ﬁne borders of somatotopic divisions of area 3b and modules in lateral
+cortex. Arrowheads in B and D indicate septal regions separating the
+hindlimb, forelimb, and oral modules in S2/PV (HM, FM, OM, respec-
+tively). Stars indicate microlesion sites used for alignment. Aud, au-
+ditory cortex; S2, secondary somatosensory cortex; TI, temporal infe-
+rior region; V1, primary visual cortex; V2, secondary visual cortex.
+Rostral is toward the right and medial is toward the top. Scale bars /H11005
+2 mm in A (applies to A,C); 1 mm in B (applies to B,D). © Michael S.
+Remple, with full rights granted to John Wiley & Sons, Inc.
+The Journal of Comparative Neurology. DOI 10.1002/cne
+142 M.S. REMPLE ET AL.
+ 10969861, 2006, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.20975 by University Of Bath, Wiley Online Library on [11/07/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 11 =====
+The medial portion of M1 was typically identiﬁed 1 mm
+lateral and 5– 6 mm anterior to this suture, and the oro-
+facial region was 5 mm lateral and 3– 4 mm anterior to it.
+In general, movement thresholds in M1 were lower than
+any other cortical region; the median threshold was 24 /H9262A
+across cases, and 67% of M1 thresholds were below 40 /H9262A.
+The median threshold for M1 was signiﬁcantly lower than
+that of the adjacent M2 (36 /H9262A; K-S z /H110051.98, P /H110210.001)
+but was not signiﬁcantly different from the caudally lo-
+cated 3a region (27.5 /H9262A). These statistical results are
+consistent with our observations during ICMS mapping,
+insofar as the border between M1 and M2 could often be
+identiﬁed by a clear transition to higher thresholds, but no
+transition was noted for the caudal border between M1
+and 3a (e.g., Fig. 9B). Thus, subsequent histological recon-
+struction was required to identify M1 conclusively.
+The medial portion of M1 was primarily devoted to the
+forelimb representation, with a few scattered trunk and
+neck movements. No hindlimb movements were identiﬁed
+in M1 in any case. Most forelimb movements were elicited
+at moderately low thresholds, with a median value of 26.5
+/H9262A, and 68% of these movement fell within a range of
+3– 40 /H9262A. The forelimb representation was almost exclu-
+sively devoted to proximal movements of the elbow and
+shoulder, with only 6% of forelimb sites yielding distal
+movements. Because of the limited number of distal re-
+sponses, statistical comparisons were not made between
+the proximal and distal movement categories. When distal
+movements were found, they were usually simple ﬂexions
+of the wrist or all of the digits, although occasional supi-
+nation movements of the wrist were observed.
+A large orofacial representation was identiﬁed lateral to
+the forelimb region in M1, where tongue, lip, jaw, and
+whisker (i.e., vibrissae) movements were elicited. Oral
+movements were the most prevalent in this region, par-
+ticularly movements of the tongue, which occurred in iso-
+lation or in combination with jaw movements. Thresholds
+for oral movements were very low, with a median thresh-
+old of 11 /H9262A across cases, and 30% of the movements were
+elicited at thresholds between 1– 6 /H9262A. Facial movements
+were less common and were mostly movements of the
+vibrissae on the snout and chin, which were usually found
+on the dorsal portion of the orofacial region. Eye-blink
+movements were not identiﬁed in M1 in any cases.
+M2. The M2 region formed a tapered strip just ante-
+rior to M1, which was narrower and less extensive in the
+medial dimension. The median threshold for M2 move-
+ments was 36 /H9262A, which as already noted was signiﬁ-
+cantly higher than the median threshold in M1. The ros-
+tral border of lateral M2 could be identiﬁed by a transition
+from orofacial movements to unresponsive sites, which
+agreed with borders deﬁned by histological reconstruction.
+However, the rostral border of medial M2 was not always
+Fig. 8. Representative pattern of corticospinal cells labeled after
+bilateral injections of WGA-HRP into the cervical spinal cord (C5–T1)
+of cases 310 (right hemisphere, A) and 320 (right and left hemi-
+spheres, B and C, respectively). Solid lines indicate boundaries of
+sensory regions identiﬁed from alternate sections; dashed lines indi-
+cate borders estimated from parasagittal cases. Note the dense label-
+ing in the caudal division of primary motor cortex (M1) and area 3a
+and the patchy labeling in area 3b. Rostral is toward the right, and
+medial is toward the top. Scale bar /H110051 mm. © Michael S. Remple,
+with full rights granted to John Wiley & Sons, Inc.
+The Journal of Comparative Neurology. DOI 10.1002/cne
+143ORGANIZATION OF MOTOR CORTEX IN TREE SHREWS. I
+ 10969861, 2006, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.20975 by University Of Bath, Wiley Online Library on [11/07/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 12 =====
+Figure 9.
+-
+The Journal of Comparative Neurology. DOI 10.1002/cne
+144 M.S. REMPLE ET AL.
+ 10969861, 2006, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.20975 by University Of Bath, Wiley Online Library on [11/07/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 13 =====
+apparent during ICMS mapping, as unresponsive sites
+were often found within this region. It is likely that move-
+ments would have been elicited from some of these unre-
+sponsive sites if the cut-off threshold was higher than 120
+/H9262A; however, it was decided that this threshold was nec-
+essary to limit the effects of current spread (Stoney et al.,
+1968) and minimize the potential for tissue damage. The
+movements identiﬁed in the medial portion of M2 were
+similar to those found in medial M1, with forelimb, trunk,
+and neck representations and no hindlimb representation.
+Thresholds needed to elicit forelimb movements in M2
+were signiﬁcantly higher than in M1 (K-S z /H110051.98, P /H11021
+0.001), with a median threshold of 45 /H9262A, with only 30% at
+or below 40 /H9262A. As in medial M1, forelimb movements
+were mostly proximal in M2, and only a few sites were
+classiﬁed as distal (9% of forelimb responses). A greater
+proportion of medial M2 was devoted to movements of the
+trunk and neck, and these movements were elicited at
+higher thresholds (90 /H9262A median) and were often found at
+the rostral edge of the map. The lateral orofacial repre-
+sentation of M2 had an organization similar to that of M1.
+Fig. 9. Movement topography and threshold maps derived from in-
+tracortical microstimulation (ICMS) in the right hemisphere of case 424.
+Maps are related to architectonic borders reconstructed from sections cut
+in the parasagittal plane. The movement topography is indicated in A,
+and the thresholds required to elicit those movements are indicated inB.
+Circles indicate electrode penetrations; crosses indicate unresponsive
+penetrations (120/H9262A); stars indicate the location of microlesions used to
+align maps to histology. sh, Shoulder; dig, digit; u. tr, upper trunk; wr,
+wrist; vib, vibrissae; ton, tongue. Rostral is toward the right and medial
+is toward the top. Scale bar /H110051 mm. © Michael S. Remple, with full
+rights granted to John Wiley & Sons, Inc.
+Fig. 10. Movement topography derived from intracortical micro-
+stimulation (ICMS) in the right hemisphere of case 353. Solid lines
+indicate location of architectonic borders reconstructed from sections
+cut in the parasagittal plane. The dashed line indicates the plane of
+section 179 that is illustrated in Figure 3. Circle size indicates the
+minimal threshold range required to elicit movements. Abbreviations
+are the same as those used for Figure 9. Rostral is toward the right,
+and medial is toward the top. Inset: Location of motor map in relation
+to reconstructed dorsal view of the brain. Scale bar /H110051 mm. © Michael
+S. Remple, with full rights granted to John Wiley & Sons, Inc.
+The Journal of Comparative Neurology. DOI 10.1002/cne
+145ORGANIZATION OF MOTOR CORTEX IN TREE SHREWS. I
+ 10969861, 2006, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.20975 by University Of Bath, Wiley Online Library on [11/07/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 14 =====
+Fig. 11. Movement topography derived from intracortical micro-
+stimulation (ICMS) in case 320. Solid lines indicate location of borders
+of primary somatosensory cortex 3b in ﬂattened cortex that were
+identiﬁed from myelin-processed sections (see Fig. 7). Inset: Location
+of motor map in relation to ﬂatted cortex. Details and abbreviations
+are the same as those used for Figures 9 and 10. Rostral is toward the
+right, and medial is toward the top. Scale bar /H110051 mm. © Michael S.
+Remple, with full rights granted to John Wiley & Sons, Inc.
+The Journal of Comparative Neurology. DOI 10.1002/cne
+146 M.S. REMPLE ET AL.
+ 10969861, 2006, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.20975 by University Of Bath, Wiley Online Library on [11/07/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 15 =====
+Movements of the mouth were highly represented in this
+region, with many penetrations eliciting tongue move-
+ments in isolation or in combination with facial or fore-
+limb movements.
+Anterior somatosensory cortex. The somatosensory
+areas 3a and 3b were located just caudal to M1 in anterior
+parietal cortex and were identiﬁed primarily by architec-
+tonic features in sections cut in the parasagittal and tan-
+gential plane. The primary somatosensory area (3b)
+formed a narrow strip that was approximately 1 mm wide
+at the foot and forelimb representations and 1.5 mm wide
+at the face and mouth representations. The forelimb and
+face representations in 3b are located on the dorsal sur-
+face of cortex, whereas the oral representation extends
+into lateral cortex, and the foot representation extends
+into the medial wall of cortex (Sur et al., 1980, 1981b).
+Area 3a formed a narrow strip between M1 and 3b that
+was approximately 0.5 mm wide. The somatosensory or-
+ganization of 3a was not evident from histological analy-
+sis, but movements evoked by ICMS indicated a topo-
+graphic organization with the body represented medially
+and the face represented laterally. No obvious transition
+was identiﬁed between areas 3a and 3b, and their respec-
+tive median thresholds of 27.5 /H9262A and 30 /H9262A were not
+signiﬁcantly different from each other.
+The movement topography of lateral 3a and 3b was like
+that of lateral M1, with the exception that hindlimb move-
+ments could be elicited within the 3b foot representation
+and the region just anterior to it in 3a (see Figs. 10, 11).
+Hindlimb movements were identiﬁed in all but one case
+and tended to be ﬂexions of the toe or ankle, although hip
+movements were found in case 320 (not illustrated). In
+most cases, the hindlimb representation was at the most
+medial portion of excitable cortex (e.g., Figs. 10, 11), but,
+in one case (411), the hindlimb representation was bor-
+dered by a more medial representation of the forelimb (not
+illustrated). The median hindlimb thresholds were 40 /H9262A
+in area 3a and 45 /H9262A in area 3b. The forelimb represen-
+tations of 3a and 3b were organized similarly to each other
+and to M1, in that proximal forelimb movements predom-
+inated, with no distal movements identiﬁed in 3a across
+cases and only 6% identiﬁed in 3b. Few trunk and neck
+movements were elicited in either 3a or 3b. Orofacial
+movements were identiﬁed in lateral 3a and 3b regions
+and were similar to those identiﬁed in lateral M1, but, in
+two cases (310, 411), area 3b had a greater representation
+of the face than 3a or the motor regions (e.g., Fig. 11).
+Thresholds were surprisingly low for movements of the
+mouth in this region, with a median values of 25 /H9262Ai n3 a
+and 31.5 /H9262Ai n3 b .
+Caudal somatosensory cortex. The caudal somato-
+sensory area was located just caudal to 3b in parietal
+cortex and formed a strip approximately 1.4 mm wide (Fig.
+3). This region was identiﬁed primarily from histological
+reconstruction, but in some cases differences in movement
+thresholds were apparent during ICMS mapping between
+SC and 3b. The median threshold for SC was 54 /H9262A, which
+was signiﬁcantly higher than that of 3b (K-S z /H110052.688,
+P /H110210.001). Movements were limited primarily to those of
+the trunk, neck, and proximal forelimb, with occasional
+orofacial movements. Movements were primarily identi-
+ﬁed in the rostral portion of SC, as most penetrations in
+the caudal portion of SC were nonresponsive.
+DISCUSSION
+The goal of the present study was to determine the
+number and organization of the motor and somatosensory
+ﬁelds in the Belanger’s tree shrew ( Tupaia belangeri). We
+used intracortical microstimulation (ICMS) to map the
+representation of movement in frontoparietal cortex and
+placed injections of anatomical tracers in the lower cervi-
+cal spinal cord to determine the corticospinal connections
+of the forelimb region. The ICMS derived maps and the
+distribution of corticospinal cells were related to architec-
+tonic borders identiﬁed in histological sections processed
+by using a variety of histochemical procedures. The re-
+sults provide evidence for the subdivision of tree shrew
+sensorimotor cortex into seven distinct ﬁelds, which are
+illustrated in Figure 12. Four of these ﬁelds are newly
+identiﬁed, including primary and secondary motor cortex
+(M1 and M2), the parietal ventral area (PV), and the
+caudal somatosensory area (SC).
+Motor cortex in tree shrews
+Several investigators have attempted to identify the
+motor cortex of tree shrews by using cytoarchitecture,
+corticospinal tracing, or electrophysiology, but the exact
+location and organization of this region has remained
+uncertain. Le Gros Clark (1924) identiﬁed a “Betz cell”
+region of frontal cortex that had large layer V pyramidal
+neurons, which he suggested was likely the motor region
+of tree shrew cortex, comparable to area 4 identiﬁed by
+Brodmann as the primary motor region of humans (Brod-
+mann, 1909; Le Gros Clark, 1924, 1934). Le Gros Clark
+(1934) also described a granular region in parietal cortex
+that he suggested was likely a somatosensory zone. A
+subsequent analysis of the myeloarchitecture of this re-
+gion by Zilles (1978) provided further support for separate
+motor and somatosensory ﬁelds in tree shrew cortex. How-
+ever, this distinction was not apparent when surface mac-
+roelectrodes were used to stimulate the cortex in tree
+shrews, as Lende (1970) identiﬁed a broad zone where
+movements could be evoked at low thresholds, and this
+region was coextensive with much of the somatosensory
+cortex (identiﬁed by evoked potential recordings). Lende
+(1970) concluded that the motor and somatosensory re-
+gions of tree shrews were “an indivisible region of true
+overlap,” similar to the highly overlapping sensorimotor
+amalgam that he proposed for opossums and hedgehogs.
+This sensory-motor overlap was not related to architec-
+ture but apparently included the M1, 3a, and 3b regions
+identiﬁed in the present study. The distinction between
+the motor and the somatosensory regions was also not
+apparent from the distribution of the corticospinal neu-
+rons described by Nudo and Masterton (1990), who in-
+cluded tree shrews in their landmark comparative study.
+They described a single, dense focus of corticospinal neu-
+rons in the frontal parietal cortex (corresponding to our
+M1, 3a, and 3b regions) surrounded by thin cell-sparse
+regions (our M2 and SC). The existence of a large, uniform
+focus of corticospinal neurons is consistent with earlier
+results of Jane et al. (1969), who found that lesions to
+either frontal or parietal cortex caused relatively equal
+patterns of degeneration of corticospinal terminations in
+the spinal cord.
+The results of the present study provide clear evidence
+for the presence of distinctive motor and somatosensory
+ﬁelds in the frontoparietal cortex of tree shrews. More-
+The Journal of Comparative Neurology. DOI 10.1002/cne
+147ORGANIZATION OF MOTOR CORTEX IN TREE SHREWS. I
+ 10969861, 2006, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.20975 by University Of Bath, Wiley Online Library on [11/07/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 16 =====
+over, the combined use of anatomical and electrophysio-
+logical criteria indicates that this region contains multiple
+cortical ﬁelds. Our histological analysis indicates that tree
+shrews have a well-developed motor region with many of
+the hallmark architectonic features identiﬁed in the motor
+cortex of other species. We identiﬁed within this region a
+caudal ﬁeld that is the likely homolog of the primary
+motor cortex (M1)—an area that is identiﬁed widely in
+placental mammals—and a rostral ﬁeld that we identify
+as secondary motor cortex (M2). The M1 region has a layer
+V that is tightly packed with pyramidal neurons that are
+densely immunoreactive, whereas the M2 region has
+large, but less tightly packed pyramidal neurons that are
+less immunoreactive. Architectonic differences between
+M1 and M2 were most pronounced in sections cut in the
+parasagittal plane, but they could also be identiﬁed in
+coronal sections. The extent of our motor cortex corre-
+sponds closely to the praecentralis 1 region of Zilles
+(1978), although he did not subdivide this region into two
+ﬁelds and deﬁned the lateral extent of this region more
+narrowly. The distribution of corticospinal neurons ap-
+pears markedly different between M1 and M2, with M1
+sending dense projections to the lower cervical spinal cord
+and M2 sending only sparse projections to the cervical
+cord. It is possible that the M2 region may send more
+dense projections to higher cervical levels, but this conclu-
+sion is not supported by the ﬁndings of Nudo and Master-
+ton (1990). They placed HRP crystals at the upper cervical
+(C1–C2) levels of the spinal cord of tree shrews and de-
+scribed a similarly sparse pattern of labeling in frontal
+cortex (in the expected location of M2). The densities of
+corticospinal neurons are relatively similar among M1, 3a,
+and 3b, but 3b appears to have a more patchy distribution
+of corticospinal neurons.
+Electrophysiological results from this study indicate
+that thresholds are only partially useful for identifying
+differences between cortical regions in tree shrews. The
+clearest transition in movement thresholds occurs be-
+tween the M1 and M2 ﬁelds, where M2 thresholds are
+signiﬁcantly higher, particularly in the forelimb/body re-
+gion. The transition between M1 and the adjacent somato-
+sensory ﬁelds is less clear, and we did not detect statistical
+differences in thresholds among M1, 3a, or 3b. Given the
+similar density of corticospinal cells across these areas (at
+least for the forelimb region), this result is not surprising.
+In a broad sense, the movement topography in tree shrew
+motor cortex conforms to the pattern identiﬁed in most
+mammals. Movements are broadly topographic, with the
+body represented medially, and the face represented lat-
+erally, but individual movements within somatotopic di-
+visions exhibit the fractured mosaic organization typically
+described in ICMS studies. The movements elicited in M1
+and M2 are generally similar, but a transition to more
+axial movements of the body is apparent in the medial
+portion of M2. Several topographic features of tree shrew
+motor cortex are worth discussing further, including 1) the
+lack of an oculomotor and hindlimb representation, 2) the
+limited representation of the distal forelimb, and 3) the
+relatively large representation of the mouth. The signiﬁ-
+cance of these ﬁndings is discussed in the following sec-
+tion, along with methodological issues that might have
+contributed to these ﬁndings.
+Do tree shrews lack an eye ﬁeld? Our inability to
+elicit distinct eye movements in the motor cortex of tree
+shrews is surprising for a number of reasons. First, tree
+shrews are highly visual animals (Polyak, 1957; Martin,
+1990; Emmons, 2000), which is reﬂected in a number of
+visual system specializations, including a large, laminated
+optic tectum (Casagrande et al., 1972); a well-developed
+visual thalamus (Lyon et al., 2003); and multiple visual
+areas in cortex (Lyon et al., 1998). Given the limited ocular
+motility of tree shrews, however, we did not expect to
+identify primate-like eyeﬁelds, which are identiﬁed by the
+presence of smooth pursuit and saccadic eyes movements
+Fig. 12. Proposed model for the sensorimotor organization of tree shrew cortex. Rostral is toward the
+right, and medial is toward the top. Scale bar /H110052 mm. © Michael S. Remple, with full rights granted to
+John Wiley & Sons, Inc.
+The Journal of Comparative Neurology. DOI 10.1002/cne
+148 M.S. REMPLE ET AL.
+ 10969861, 2006, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.20975 by University Of Bath, Wiley Online Library on [11/07/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 17 =====
+(Robinson and Fuchs, 1969; Bruce et al., 1985; Schlag and
+Schlag-Rey, 1985). Furthermore, tree shrews would not be
+expected to foveate (i.e., make saccades) given their less
+specialized retina (Samorajski et al., 1966). We did expect
+to identify a more simple gaze-shifting area, because sim-
+ilar ﬁelds have been identiﬁed in a diverse range of spe-
+cies, including a number of carnivores (Hardin et al., 1968;
+Klosovskii and Balashova, 1975; Guitton and Mandl,
+1978) and rodents (Hall and Lindholm, 1974; Donoghue
+and Wise, 1982; Neafsey et al., 1986; Rapisarda et al.,
+1990). Moreover, Lende (1971) reported the presence of
+occasional eye movements in his surface stimulation study
+in tree shrews (in the rostral portion of our M2). Eye-blink
+movements are often elicited in cortex adjacent to eye
+ﬁelds (see, e.g., Stepniewska et al., 1993; Wu et al., 2000),
+and we did identify them in this study, but we found these
+responses scattered across a number of zones, including
+M2, 3b, and S2 (this was also reported by Lende, 1970). It
+may be that our stimulus parameters were insufﬁcient to
+drive eye movements, given the somewhat conservative
+cut-off frequency selected for the present study (120 /H9262A).
+Some investigators have reported that oculomotor move-
+ments require higher thresholds than skeletomotor re-
+gions (Wu et al., 2000), but most reports indicate that eye
+movements are elicited at relatively low thresholds, par-
+ticularly in simian primates (Gould et al., 1986; Huerta et
+al., 1987). Another possibility is that our anesthetic agents
+suppressed eye movements, in that they are particularly
+sensitive to anesthesia level (Krieger et al., 1958), and this
+causes many oculomotor researchers to avoid using seda-
+tives like xylazine. Unfortunately, the high metabolism of
+tree shrews requires the use of xylazine (in combination
+with ketamine) to maintain acceptable anesthesia levels.
+Even so, we have been able to elicit eye movements at low
+thresholds in primates anesthetized with a combination of
+Xyl and Ket (Stepniewska et al., 1993; Preuss et al., 1996;
+Fang et al., 2005), as have other researchers in carnivores
+(Ghosh, 1997). It is also possible that this tree shrew
+species (i.e., Tupaia. belangeri ), or Scandentia in general,
+lacks an oculomotor ﬁeld. Clearly, more evidence is
+needed to support any of these conclusions. The results of
+connectional studies currently underway may provide
+some clariﬁcation.
+Do tree shrews lack a foot representation in motor
+cortex? We were less surprised by our inability to elicit
+hindlimb movements outside of somatosensory cortex, in-
+sofar as no corticospinal axons have been identiﬁed past
+the thoracic level in tree shrews (Jane et al., 1969). More-
+over, similar ﬁndings have been reported in surface and
+intracortical stimulation studies in rodents (Hall and
+Lindholm, 1974; Donoghue and Wise, 1982; Neafsey et al.,
+1986; Rapisarda et al., 1990; Li and Waters, 1991). In
+rodents, this result has commonly been interpreted as
+representing a more primitive type of cortical organization
+in which the primary motor and somatosensory ﬁelds par-
+tially overlap. In rats, for example, the hindlimb motor
+region is said to overlap fully with the somatosensory
+region, because movements can be driven here at moder-
+ately low thresholds, and this region has a well-developed
+granular region and large layer V neurons (for review see
+Wise and Donoghue, 1986). An incomplete representation
+of the body in M1 may indeed represent a more primitive
+form of cortical organization, but we do not interpret these
+results as indicating a partial sensorimotor amalgam. It is
+not unusual for movements to be elicited at moderate to
+low thresholds within the primary somatosensory cortex
+of species that have a complete representation of the body
+in M1 (see, e.g., Fogassi et al., 1994; Preuss et al., 1997).
+Second, layer V pyramidal neurons are not uniform in size
+across either M1 or S1; their soma size scales with the
+distance for which they project in the spinal cord. The
+corticospinal neurons in the medial portions of M1 and S1
+are generally larger than in dorsal cortex, because they
+project for longer distances in the spinal cord (Brodmann,
+1909; von Bonin, 1949; Rivara et al., 2003). Similarly,
+corticospinal neurons in lateral cortex are generally
+smaller than those in dorsal cortex, because they do not
+have to project as far to inﬂuence face movement. We
+propose that hindlimb movements evoked in the somato-
+sensory cortex of the present study reﬂect the activation of
+somatosensory neurons that normally modulate hindlimb
+responses. The activation of modulatory corticospinal neu-
+rons may also account for the forelimb movements fre-
+quently evoked from the foot region of 3b. Regardless, it
+appears that tree shrews lack a representation of the foot
+in motor cortex.
+Is movement topography related to stimulus param-
+eters? Tree shrews appear to have a very limited repre-
+sentation of the distal forelimb but a greatly expanded
+representation of the mouth compared with the results of
+ICMS mapping studies in other well-studied mammals
+(Woolsey et al., 1952; Gould et al., 1986; Neafsey et al.,
+1986; Li and Waters, 1991; Wu et al., 2000). We used
+shorter stimulus trains (commonly used in rodent studies)
+in a subset of cases to be certain that our parameters were
+appropriate for the small-brained tree shrew. In particu-
+lar, we wanted to ensure that temporal summation effects
+were not causing large cortical networks to be recruited
+that would cause more complex movements to be evoked
+or highly represented movements to be oversampled. We
+found that stimulus length did not affect the maps, how-
+ever; the topography and thresholds were very similar
+with normal and shorter stimulus trains. Moreover, the
+proportions of distal forelimb and tongue movements re-
+mained relatively unchanged between the different pa-
+rameters. Again, it is possible that our anesthetic regimen
+might have inﬂuenced the representation of certain move-
+ments, but it is unclear how this would limit the expres-
+sion of distal forelimb movements yet cause tongue move-
+ments to be over represented. Given that Lende (1970)
+reported a similar proportion of forelimb and tongue re-
+sponses (using a different anesthetic regimen), we believe
+that our maps reﬂect the true representation of movement
+in tree shrew cortex.
+Behavioral correlates of movement topography.
+The large representation of certain movements in the tree
+shrew motor cortex is likely to be reﬂected in their behav-
+ior. The large ratio of tongue to distal forelimb movements
+in these animals suggests that they depend more on ﬁne
+control of the mouth than ﬁne control of the hand. This
+conclusion is supported by Emmon’s studies of the feeding
+behavior of wild tree shrews (1991, 2000). She found that,
+although tree shrew species differ in terms of foraging
+strategies, all species appear to subsist mainly on insects
+and small pieces of fruit. Careful observation indicated
+that a number of species manipulated food items primar-
+ily with their mouth, especially fruit, which they rapidly
+consumed by using a specialized masticatory behavior.
+This behavior involved chewing the fruit pulp, pressing it
+to the roof of the mouth, then ejecting the remaining pulp,
+The Journal of Comparative Neurology. DOI 10.1002/cne
+149ORGANIZATION OF MOTOR CORTEX IN TREE SHREWS. I
+ 10969861, 2006, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.20975 by University Of Bath, Wiley Online Library on [11/07/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 18 =====
+which is similar to that identiﬁed in specialized fruit bats
+(Emmons, 2000). This masticatory pattern is complex and
+rapid, and is likely to require a precise control of the
+tongue to maximize feeding efﬁciency and prevent inad-
+vertent injury. The behavioral importance of the mouth to
+tree shrews is also reﬂected in the organization of their
+somatosensory cortex, which has a relatively large repre-
+sentation of both the lips and the oral cavity but a rela-
+tively small representation of the digits (Sur et al., 1980).
+Relative to primates, tree shrews have limited forepaw
+dexterity (Martin, 1990; Sargis, 2001), and the structure
+of their forepaw limits their ability to grasp (Sargis, 2002).
+Most tree shrew species appear to use their forelimbs in
+tandem to hold objects (Bishop, 1962; Napier and Napier,
+1967), and they appear to struggle with larger food items
+that require manipulation with their forepaws (Emmons,
+2000). It should be noted, however, that at least one spe-
+cies of tree shrew ( Tupaia minor ) has been reported to
+have a limited grasping ability (Sargis, 2001), which is
+likely related to its greater level of arboreality relative to
+other studied species.
+Motor cortex in other Euarchontoglire
+species
+As previously noted, the primary motor cortex (M1) of
+tree shrews shares a number of the hallmark features of
+M1 identiﬁed in primates and Euarchontoglire mammals
+in general. Thus, we conclude that the M1 region of tree
+shrews is homologous to the M1 region identiﬁed widely
+across Euarchontoglire mammals. We propose, based on
+differences in architecture, corticospinal connections, and
+movement thresholds, that the region identiﬁed here as
+M2 is likely a secondary motor area. It could be argued
+that this region represents a rostral subdivision of M1,
+similar to the M1r region identiﬁed in primates
+(Stepniewska et al., 1993) and humans (Geyer et al.,
+1996). However, nonhuman primate studies report only
+subtle differences in thresholds and architecture between
+caudal M1 and M1r, yet we found large differences in
+thresholds between our M1 and M2 regions and clear
+distinctions in architecture (especially the packing density
+of layer V neurons). Furthermore, we identify a major
+difference in the density of corticospinal cells between the
+two motor ﬁelds in tree shrew motor cortex, but this pat-
+tern is not apparent within the M1 of any primate studied
+by Nudo and Masterton (1990).
+The sparse pattern of corticospinal connections that we
+identiﬁed in M2 is more consistent with the distribution of
+corticospinal cells that Nudo and Masterton identiﬁed in
+the premotor regions of prosimian and New World pri-
+mates. As with the premotor cortex of primates, tree
+shrew M2 requires higher thresholds to elicit movements,
+and has a mediolateral orientation rostral to M1. In pri-
+mates, the premotor cortex has been further subdivided
+into at least three distinct ﬁelds (PMDc, PMDr. and PMV)
+based on multiple anatomical and physiological criteria
+(for detailed review see Geyer et al., 2000a). We found only
+partial support for a division of the M2 ﬁeld of tree shrews
+into two separate ﬁelds. The dorsal portion of M2 shares
+many features with the PMDc region of primates, includ-
+ing similarities in relative location, topographic organiza-
+tion, architecture, and corticospinal cell distribution
+(Nudo and Masterton, 1990; Geyer et al., 2000). In con-
+trast, the ventral portion of M2 shares only superﬁcial
+similarities with PMV. In primates, PMV can be distin-
+guished from PMDc by the presence of a thin but distinct
+granular layer, smaller pyramidal neurons, lower stimu-
+lation thresholds, representation of the face and forelimb
+but not the body, and separate focus of corticospinal cells
+that is not continuous with M1 (Nudo and Masterton,
+1990; Geyer et al., 2000). Similarly to PMV, lateral M2 has
+lower movement thresholds and smaller pyramidal cells,
+but these features are generally found across M1, 3a, and
+3b in tree shrews and are therefore not deﬁnitive. The
+more distinctive features of primate PMV are not present
+in lateral M2, in that forelimb movements are not system-
+atically represented here, there is no separate focus of
+corticospinal cells, and there is no clear evidence of a
+granular layer.
+Only a limited comparison of secondary motor regions
+can be made with other orders of mammals within the
+Euarchontoglire clade, because few species within this
+clade have been investigated in detail. A comparison of the
+secondary motor ﬁelds of tree shrews with those of rodents
+reveals few shared features. For rodents, it is generally
+accepted that medial agranular cortex (AGm) represents a
+secondary motor area (Wise and Donoghue, 1986), but this
+region differs from M2 in tree shrews in several respects.
+The AGm region in rats is located more medially and is
+oriented more in the rostral to caudal dimension than M2,
+and the topography of movements in this region is very
+different, being limited primarily to a central representa-
+tion of the forelimb, with small medial representations for
+whisker and eye movements (Wang and Kurata, 1998).
+The distribution of corticospinal labeling is also different
+in rats compared with tree shrews, as tracer placement in
+the cervical spinal cord results in a second focus of label
+rostral to the location of M1 (Wise et al., 1979; Rapisarda
+et al., 1985; Li et al., 1990; Nudo and Masterton, 1990).
+Nudo and Masterton (1990) have identiﬁed this pattern of
+corticospinal labeling in a number of other rodent and
+lagomorph species, suggesting that this secondary motor
+ﬁeld is a basic feature of Glires.
+Somatosensory cortex in tree shrews
+Detailed histological analysis of frontoparietal cortex, in
+combination with the results of corticospinal tracing, al-
+lows us to identify a number of somatosensory areas in the
+tree shrew parietal cortex. In addition to the previously
+described primary and secondary somatosensory areas,
+we identify some cortical ﬁelds that have not previously
+been described for tree shrews, including 3a, SC, and PV.
+In addition, we identify a number of myelin-dense ovals in
+lateral cortex that appear to be anatomical correlates of
+the hindlimb, forelimb, and mouth representations in the
+S2/PV region. Although a detailed analysis of these results
+is outside the scope of this paper, we will brieﬂy discuss
+these ﬁndings in relation to previous proposals for tree
+shrew somatosensory cortex.
+Anterior somatosensory cortex. We identify a nar-
+row strip of cortex approximately 0.5 mm wide between
+M1 and primary somatosensory cortex that has both a
+well-developed granular layer IV and large, relatively
+densely packed, pyramidal neurons in layer V. This region
+appears to correspond to the postcentralis 2 region ﬁrst
+identiﬁed by Zilles (1978). A similar region has been de-
+scribed widely for mammals, as region R in marsupials,
+insectivores, monotremes, and some rodents; dysgranular
+cortex in rats; and area 3a in primates (for detailed review
+see Slutsky et al., 2000; Krubitzer et al., 2004). Although
+The Journal of Comparative Neurology. DOI 10.1002/cne
+150 M.S. REMPLE ET AL.
+ 10969861, 2006, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.20975 by University Of Bath, Wiley Online Library on [11/07/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 19 =====
+these areas have not been systematically studied in all
+species, the available evidence suggests that a 3a-like area
+is present in all mammals and was likely inherited from a
+common ancestor (Krubitzer et al., 2004). We identify this
+region as 3a in tree shrews because of its similar shape
+and relative location compared with the 3a of primates.
+We identify, caudally to 3a, a primary somatosensory cor-
+tex in the general location reported by Sur and colleagues
+(1980). This region is best visualized in ﬂattened sections
+processed for myelin, and it is possible to identify somatic
+divisions that correspond to the expected locations of the
+foot, forelimb, face, and mouth (Sur et al., 1980, 1981b).
+The primary somatosensory region of tree shrews has a
+somatotopic organization, relative location, and mediolat-
+eral orientation similar to those of area 3b (S1 proper) of
+primates and is bordered by a similar transitional region
+(3a). Thus, we refer to this area as 3b to emphasize its
+homology with area 3b in primates (Kaas, 1983). Cortico-
+spinal neurons exhibit a patchy distribution in 3b, with
+the forelimb region sending sparse connections from the
+core but dense connections from the surrounding region.
+This suggests that the 3b forelimb region may be involved
+in modulating movements of the whole forelimb rather
+than individual digits.
+Lateral somatosensory cortex. We identify a num-
+ber of myelin-dense modules lateral to the face represen-
+tation of primary somatosensory cortex that have not been
+previously described in tree shrews. Similar modules have
+been described for the lateral cortex of rodents, by using
+cytochrome oxidase preparations (Remple et al., 2003;
+Henry et al., 2006) that provide histological correlates of
+particular body regions in S2 and PV. Myelin-dense mod-
+ules have also been identiﬁed in the lateral cortex of
+primates, which provide correlates for the representation
+of individual structures of the face and mouth in 3b (Jain
+et al., 2001), but comparable modules have yet to be iden-
+tiﬁed in the S2 or PV region of primates. The locations of
+these modules in tree shrews indicate that they represent
+the hindlimb, forelimb, and mouth regions of S2 (Sur et
+al., 1981a). The results of our corticospinal tracing exper-
+iments provide partial support for this proposal, insofar as
+corticospinal label was identiﬁed primarily in and around
+the region of the forelimb module following injection into
+the cervical spinal cord. It should be noted that these
+connections appear to be more limited in tree shrews than
+other species (Nudo and Masterton, 1990), in that cortico-
+spinal label was not identiﬁed in the lateral cortex of all
+cases and was sparse when identiﬁed. Thus, this region
+may play less of a role in movement production in tree
+shrews than in other mammals. An additional division
+was identiﬁed lateral to S2 in coronally cut sections, which
+we have provisionally identiﬁed as PV based on architec-
+ture and relative position. We have mapped this region
+using microelectrode recordings and found a somatosen-
+sory representation of the body that forms a mirror image
+of S2 along distal portions of the mouth, forelimb, and
+hindlimb, with the head representation of PV located lat-
+erally (unpublished data). Preliminary results of cortical
+tracing experiments also suggest that there is an addi-
+tional somatosensory representation lateral to S2 in tree
+shrews. Consequently, the organization of the tree shrew
+lateral cortex appears very similar to that of the rat
+(Remple et al., 2003), where the myelin-dense ovals rep-
+resent the distal representations of the body for both S2
+and PV, with the S2 face represented dorsally and the PV
+face represented ventrally. It should be noted that the
+orientation of PV presented here differs from that identi-
+ﬁed for primates, in that the representation of the face in
+tree shrew PV is not found adjacent to the face represen-
+tation in 3b. It could be argued that our PV is actually a
+different ﬁeld more similar to the ventral somatosensory
+(VS) ﬁeld identiﬁed in a number of primates (Cusick et al.,
+1989; Krubitzer et al., 1995; Qi et al., 2002; Wu and Kaas,
+2003) and in bats (Krubitzer and Calford, 1992). We do not
+favor this interpretation, because 1) there is a precedent
+for a similarly orientated PV region in opossums (Beck et
+al., 1996), rats (Remple et al., 2003), and mole rats (Henry
+et al., 2006) and 2) PV has been identiﬁed widely in a
+number of mammals and is thought to be common to
+mammals (Kaas, 2004), whereas VS has been identiﬁed in
+only one nonprimate species. Regardless, the identiﬁca-
+tion of this lateral ﬁeld of tree shrews as PV should be
+considered provisional until additional evidence is avail-
+able.
+Caudal somatosensory cortex. The SC region can be
+presumed to be somatosensory in function based on its
+granular architecture, relative location, and corticospinal
+connections. Although the precise somatosensory organi-
+zation of SC is unknown, the distribution of corticospinal
+cells and representation of movement indicate that this
+region is at least roughly somatotopic, with the body rep-
+resented medially and the face located more laterally. The
+SC ﬁeld is in the same relative position as area 1 in
+anthropoid primates and the caudal somatosensory strip
+in galagos and other mammals (Slutsky et al., 2000; Kaas,
+2004).
+Evolutionary considerations
+The results of the present study indicate that the motor
+and somatosensory cortices of tree shrews share more
+features with primates than with other Euarchontoglire
+animals. In particular, the orientation, relative location,
+architecture, and topography of M1, M2, 3a, 3b, and S2
+are remarkably similar between tree shrews and pri-
+mates. This ﬁnding is surprising in light of the relatively
+undifferentiated corticospinal system of tree shrews,
+which travels primarily in the dorsal funiculus and makes
+few if any direct connections to the motor neurons in the
+ventral horn (Shriver and Noback, 1967; Jane et al., 1969).
+A similar corticospinal organization has been identiﬁed in
+a diverse range of species, including rodents, lagomorphs,
+marsupials, and ungulates (for summary see Armand,
+1982), suggesting that a similar organization might have
+been present in a common mammalian ancestor. Micro-
+stimulation studies in a number of these species (Dono-
+ghue and Wise, 1982; Neafsey et al., 1986; Beck et al.,
+1996; Frost et al., 2000) indicate that they vary greatly in
+terms of motor cortex complexity. Thus, the differences in
+motor cortex complexity identiﬁed in these species appear
+not to be directly related to specialization of the cortico-
+spinal system. A similar argument can be made for the
+evolution of the motor cortex of primates. An array of at
+least 10 –12 motor areas has been identiﬁed in a range of
+well-studied primate species, including prosimians (Wu et
+al., 2000; Fang et al., 2005), New World monkeys (Gould et
+al., 1986; Preuss et al., 1996), and Old World monkeys
+(Geyer et al., 2000a), suggesting that a relatively complex
+motor cortex organization might have emerged early in
+primate evolution (Wu et al., 2000). The degree of special-
+ization identiﬁed in the corticospinal system of these pri-
+The Journal of Comparative Neurology. DOI 10.1002/cne
+151ORGANIZATION OF MOTOR CORTEX IN TREE SHREWS. I
+ 10969861, 2006, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.20975 by University Of Bath, Wiley Online Library on [11/07/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 20 =====
+mates varies greatly (for detailed review see Lemon and
+Grifﬁths, 2005), especially in terms of the number of direct
+(monosynaptic) connections made with motoneurons in
+the ventral horn. These direct connections appear to be
+involved in digital dexterity (Lemon and Grifﬁths, 2005)
+but are found in signiﬁcant numbers only in Old World
+monkeys, apes, and humans, indicating that this adapta-
+tion was not likely present in early primates and might
+have developed relatively late in primate evolution. It may
+be that visuomotor integration played a more important
+role in the early evolution of the primate motor system
+(Whishaw, 2003), insofar as highly developed frontal and
+posterior parietal systems are found in all well-studied
+primates (Kaas, 2004). The organization of the motor sys-
+tem in tree shrews could represent a transitional form of
+sensorimotor organization, present in a common ancestor
+of tree shrews and primates. The results of connectional
+studies currently underway may provide additional sup-
+port for this conclusion, particularly if tree shrews are
+found to have a well-developed frontoparietal network
+similar to primates. Of course, the similarities between
+the motor cortex of tree shrews and that of primates might
+reﬂect parallel (i.e., convergent) adaptations to a semiar-
+boreal lifestyle. Ideally, this possibility would be tested by
+using a broad cladistic approach to study a range of ar-
+chontan species, including additional tree shrew species,
+but this approach is limited by the number of species
+available for detailed study and by the necessary invest-
+ment in resources (Kaas, 2002). Another approach for
+identifying possible trait convergences between primates
+and tree shrews is to establish whether speciﬁc traits are
+present in other niche-matched species, such as squirrels
+(Kaas, 2002). The identiﬁcation of similar features in the
+motor cortex of squirrels might indicate that similarities
+between tree shrews and primates reﬂect convergent evo-
+lutionary processes.
+ACKNOWLEDGMENTS
+We thank Mary Baldwin for drawing Figure 1 and
+Christine Collins and Fiona Remple for helpful comments
+regarding the manuscript.
+LITERATURE CITED
+Alexander DM, Bourke PD, Sheridan P, Konstandatos O, Wright JJ. 2004.
+Intrinsic connections in tree shrew V1 imply a global to local mapping.
+Vis Res 44:857– 876.
+Armand J. 1982. The origin, course and terminations of corticospinal ﬁbers
+in various mammals. Prog Brain Res 57:329 –360.
+Beck PD, Pospichal MW, Kaas JH. 1996. Topography, architecture, and
+connections of somatosensory cortex in opossums: evidence for ﬁve
+somatosensory areas. J Comp Neurol 366:109 –133.
+Bishop A. 1962. Control of the hand in lower primates. An n N Y Acad Sci
+102:316 –337.
+Bosking WH, Crowley JC, Fitzpatrick D. 2002. Spatial coding of position
+and orientation in primary visual cortex. Nat Neurosci 5:874 – 882.
+Brodmann K. 1909. Vergleischende Lokalisationslehre der Grosshirn-
+rinde. Leipzig: Barth.
+Bruce CJ, Goldberg ME, Bushnell MC, Stanton GB. 1985. Primate frontal
+eye ﬁelds. II. Physiological and anatomical correlates of electrically
+evoked eye movements. J Neurophysiol 54:714 –734.
+Brunet M, Guy F, Pilbeam D, Mackaye HT, Likius A, Ahounta D, Beau-
+vilain A, Blondel C, Bocherens H, Boisserie JR, De Bonis L, Coppens Y,
+Dejax J, Denys C, Duringer P, Eisenmann V, Fanone G, Fronty P,
+Geraads D, Lehmann T, Lihoreau F, Louchart A, Mahamat A, Mer-
+ceron G, Mouchelin G, Otero O, Pelaez Campomanes P, Ponce De Leon
+M, Rage JC, Sapanet M, Schuster M, Sudre J, Tassy P, Valentin X,
+Vignaud P, Viriot L, Zazzo A, Zollikofer C. 2002. A new hominid from
+the Upper Miocene of Chad, Central Africa. Nature 418:145–151.
+Campbell MJ, Morrison JH. 1989. Monoclonal antibody to neuroﬁlament
+protein (SMI-32) labels a subpopulation of pyramidal neurons in the
+human and monkey neocortex. J Comp Neurol 282:191–205.
+Casagrande VA, Harting JK, Hall WC, Diamond IT, Martin GF. 1972.
+Superior colliculus of the tree shrew: a structural and functional sub-
+division into superﬁcial and deep layers. Science 177:444 – 447.
+Cooke DF, Taylor CS, Moore T, Graziano MS. 2003. Complex movements
+evoked by microstimulation of the ventral intraparietal area. Proc Natl
+Acad Sc iUSA 100:6163– 6168.
+Cusick CG, MacAvoy MG, Kaas JH. 1985. Interhemispheric connections of
+cortical sensory areas in tree shrews. J Comp Neurol 235:111–128.
+Cusick CG, Wall JT, Felleman DJ, Kaas JH. 1989. Somatotopic organiza-
+tion of the lateral sulcus of owl monkeys: area 3b, S-II, and a ventral
+somatosensory area. J Comp Neurol 282:169 –190.
+Disbrow E, Roberts T, Krubitzer L. 2000. Somatotopic organization of
+cortical ﬁelds in the lateral sulcus of Homo sapiens : evidence for SII
+and PV. J Comp Neurol 418:1–21.
+Donoghue JP, Wise SP. 1982. The motor cortex of the rat: cytoarchitecture
+and microstimulation mapping. J Comp Neurol 212:76 – 88.
+Emmons LH. 1991. Frugivory in treeshrews (Tupaia). The American Nat-
+uralist 138:642– 649.
+Emmons LH. 2000. Tupai: a ﬁeld study of bornean treeshrews. Berkeley,
+CA: University of California Press.
+Fang PC, Stepniewska I, Kaas JH. 2005. Ipsilateral cortical connections of
+motor, premotor, frontal eye, and posterior parietal ﬁelds in a prosim-
+ian primate, Otolemur garnetti . J Comp Neurol 490:305–333.
+Fogassi L, Gallese V, Gentilucci M, Luppino G, Matelli M, Rizzolatti G.
+1994. The fronto-parietal cortex of the prosimian galago: patterns of
+cytochrome oxidase activity and motor maps. Behav Brain Res 60:91–
+113.
+Frost SB, Milliken GW, Plautz EJ, Masterton RB, Nudo RJ. 2000. Somato-
+sensory and motor representations in cerebral cortex of a primitive
+mammal (Monodelphis domestica): a window into the early evolution of
+sensorimotor cortex. J Comp Neurol 421:29 –51.
+Gallyas F. 1979. Silver staining of myelin by means of physical develop-
+ment. Neurol Res 1:203–209.
+Geneser-Jensen FA, Blackstad TW. 1971. Distribution of acetyl cholines-
+terase in the hippocampal region of the guinea pig. I. Entorhinal area,
+parasubiculum, and presubiculum. Z Zellforsch Mikrosk Anat 114:
+460 – 481.
+Geyer S, Ledberg A, Schleicher A, Kinomura S, Schormann T, Burgel U,
+Klingberg T, Larsson J, Zilles K, Roland PE. 1996. Two different areas
+within the primary motor cortex of man. Nature 382:805– 807.
+Geyer S, Matelli M, Luppino G, Zilles K. 2000a. Functional neuroanatomy
+of the primate isocortical motor system. Anat Embryol 202:443– 474.
+Geyer S, Zilles K, Luppino G, Matelli M. 2000b. Neuroﬁlament protein
+distribution in the macaque monkey dorsolateral premotor cortex. Eur
+J Neurosci 12:1554 –1566.
+Ghosh S. 1997. Identiﬁcation of motor areas of the cat cerebral cortex based
+on studies of cortical stimulation and corticospinal connections. J Comp
+Neurol 380:191–214.
+Gibson AR, Hansma DI, Houk JC, Robinson FR. 1984. A sensitive low
+artifact TMB procedure for the demonstration of WGA-HRP in the
+CNS. Brain Res 298:235–241.
+Gould HJ 3rd, Cusick CG, Pons TP, Kaas JH. 1986. The relationship of
+corpus callosum connections to electrical stimulation maps of motor,
+supplementary motor, and the frontal eye ﬁelds in owl monkeys.
+J Comp Neurol 247:297–325.
+Graziano MS, Taylor CS, Moore T. 2002. Complex movements evoked by
+microstimulation of precentral cortex. Neuron 34:841– 851.
+Guitton D, Mandl G. 1978. Frontal “oculomotor” area in alert cat. I. Eye
+movements and neck activity evoked by stimulation. Brain Res 149:
+295–312.
+Hall RD, Lindholm EP. 1974. Organization of motor and somatosensory
+neocortex in the albino rat. Brain Res 66:23–38.
+Hardin WB Jr, Arumugasamy N, Jameson HD. 1968. Pattern of localiza-
+tion in “precentral” motor cortex of raccoon. Brain Res 11:611– 627.
+Henry EC, Remple MS, O’Riain MJ, Catania KC. 2006. Organization of
+somatosensory cortical areas in the naked mole-rat (Heterocephalus
+glaber). J Comp Neurol 495:434 – 452.
+Hof PR, Ungerleider LG, Webster MJ, Gattass R, Adams MM, Sailstad CA,
+The Journal of Comparative Neurology. DOI 10.1002/cne
+152 M.S. REMPLE ET AL.
+ 10969861, 2006, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.20975 by University Of Bath, Wiley Online Library on [11/07/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 21 =====
+Morrison JH. 1996. Neuroﬁlament protein is differentially distributed
+in subpopulations of corticocortical projection neurons in the macaque
+monkey visual pathways. J Comp Neurol 376:112–127.
+Huchon D, Madsen O, Sibbald MJ, Ament K, Stanhope MJ, Catzeﬂis F, de
+Jong WW, Douzery EJ. 2002. Rodent phylogeny and a timescale for the
+evolution of Glires: evidence from an extensive taxon sampling using
+three nuclear genes. Mol Biol Evol 19:1053–1065.
+Huerta MF, Krubitzer LA, Kaas JH. 1987. Frontal eye ﬁeld as deﬁned by
+intracortical microstimulation in squirrel monkeys, owl monkeys, and
+macaque monkeys. II. Cortical connections. J Comp Neurol 265:332–
+361.
+Jain N, Qi HX, Catania KC, Kaas JH. 2001. Anatomic correlates of the face
+and oral cavity representations in the somatosensory cortical area 3b of
+monkeys. J Comp Neurol 429:455– 468.
+Jane JA, Campbell CBG, Yashon D. 1969. The origin of the corticospinal
+tract of the tree shrew ( Tupaia glis) with observations on its brain stem
+and spinal terminations. Brain Behav Evol 1:160 –182.
+Kaas JH. 1983. What, if anything, is SI? Organization of ﬁrst somatosen-
+sory area of cortex. Physiol Rev 63:206 –231.
+Kaas J. 2002. Convergences in the modular and areal organization of the
+forebrain of mammals: implications for the reconstruction of forebrain
+evolution. Brain Behav Evol 59:262–272.
+Kaas JH. 2004. Evolution of somatosensory and motor cortex in primates.
+Anat Rec A Discov Mol Cell Evol Biol 281:1148 –1156.
+Kaas JH, Hall WC, Killackey H, Diamond IT. 1972. Visual cortex of the
+tree shrew ( Tupaia glis ): architectonic subdivisions and representa-
+tions of the visual ﬁeld. Brain Res 42:491– 496.
+Klosovskii BN, Balashova EG. 1975. [Eye movements in animals with
+extirpated cerebrocortical oculomotor centers]. Vopr Neirokhir 39 – 45.
+Krieger HP, Wagman IH, Bender MB. 1958. Changes in state of conscious-
+ness and patterns of eye movements. J Neurophysiol 21:224 –230.
+Krubitzer LA, Calford MB. 1992. Five topographically organized ﬁelds in
+the somatosensory cortex of the ﬂying fox: microelectrode maps, my-
+eloarchitecture, and cortical modules. J Comp Neurol 317:1–30.
+Krubitzer L, Clarey J, Tweedale R, Elston G, Calford M. 1995. A redeﬁni-
+tion of somatosensory areas in the lateral sulcus of macaque monkeys.
+J Neurosci 15:3821–3839.
+Krubitzer L, Huffman KJ, Disbrow E, Recanzone G. 2004. Organization of
+area 3a in macaque monkeys: contributions to the cortical phenotype.
+J Comp Neurol 471:97–111.
+Le Gros Clark WE. 1924. On the brain of the tree shrew ( Tupaia minor ).
+Proc Zool Soc Lond 559 –567.
+Le Gros Clark WE. 1934. Early forerunners of man. London: Bailtree,
+Tyndall, & Cox.
+Lee VM, Otvos L Jr, Carden MJ, Hollosi M, Dietzschold B, Lazzarini RA.
+1988. Identiﬁcation of the major multiphosphorylation site in mamma-
+lian neuroﬁlaments. Proc Natl Acad Sc iUSA 85:1998 –2002.
+Lemon RN, Grifﬁths J. 2005. Comparing the function of the corticospinal
+system in different species: organizational differences for motor spe-
+cialization? Muscle Nerve 32:261–279.
+Lende RA. 1970. Cortical localization in the tree shrew ( Tupaia). Brain Res
+18:61–75.
+Li CX, Waters RS. 1991. Organization of the mouse motor cortex studied by
+retrograde tracing and intracortical microstimulation (ICMS) map-
+ping. Can J Neurol Sci 18:28 –38.
+Li XG, Florence SL, Kaas JH. 1990. Areal distributions of cortical neurons
+projecting to different levels of the caudal brain stem and spinal cord in
+rats. Somatosens Mot Res 7:315–335.
+Liu FG, Miyamoto MM, Freire NP, Ong PQ, Tennant MR, Young TS, Gugel
+KF. 2001. Molecular and morphological supertrees for eutherian (pla-
+cental) mammals. Science 291:1786 –1789.
+Lyon DC, Jain N, Kaas JH. 1998. Cortical connections of striate and
+extrastriate visual areas in tree shrews. J Comp Neurol 401:109 –128.
+Lyon DC, Jain N, Kaas JH. 2003. The visual pulvinar in tree shrews I.
+Multiple subdivisions revealed through acetylcholinesterase and Cat-
+301 chemoarchitecture. J Comp Neurol 467:593– 606.
+Martin RD. 1990. Primate origins and evolution: a phylogenetic recon-
+struction. Princeton, NJ: Princeton University Press.
+Murphy WJ, Eizirik E, Johnson WE, Zhang YP, Ryder OA, O’Brien SJ.
+2001a. Molecular phylogenetics and the origins of placental mammals.
+Nature 409:614 – 618.
+Murphy WJ, Eizirik E, O’Brien SJ, Madsen O, Scally M, Douady CJ,
+Teeling E, Ryder OA, Stanhope MJ, de Jong WW, Springer MS. 2001b.
+Resolution of the early placental mammal radiation using Bayesian
+phylogenetics. Science 294:2348 –2351.
+Napier JR, Napier PH. 1967. A handbook of living primates. London:
+Academic Press.
+Neafsey EJ, Bold EL, Haas G, Hurley-Gius KM, Quirk G, Sievert CF,
+Terreberry RR. 1986. The organization of the rat motor cortex: a
+microstimulation mapping study. Brain Res 396:77–96.
+Nudo RJ, Masterton RB. 1990. Descending pathways to the spinal cord, III:
+Sites of origin of the corticospinal tract. J Comp Neurol 296:559 –583.
+Polyak S. 1957. The vertebrate visual system. Chicago: University of
+Chicago Press.
+Poonkhum R, Pongmayteegul S, Meeratana W, Pradidarcheep W, Thong-
+pila S, Mingsakul T, Somana R. 2000. Cerebral microvascular archi-
+tecture in the common tree shrew ( Tupaia glis ) revealed by plastic
+corrosion casts. Microsc Res Techniq 50:411– 418.
+Preuss TM, Stepniewska I, Kaas JH. 1996. Movement representation in
+the dorsal and ventral premotor areas of owl monkeys: a microstimu-
+lation study. J Comp Neurol 371:649 – 676.
+Preuss TM, Stepniewska I, Jain N, Kaas JH. 1997. Multiple divisions of
+macaque precentral motor cortex identiﬁed with neuroﬁlament anti-
+body SMI-32. Brain Res 767:148 –153.
+Qi HX, Lyon DC, Kaas JH. 2002. Cortical and thalamic connections of the
+parietal ventral somatosensory area in marmoset monkeys ( Callithrix
+jacchus). J Comp Neurol 443:168 –182.
+Rapisarda C, Simonelli G, Monti S. 1985. Cells of origin and topographic
+organization of corticospinal neurons in the guinea pig by the retro-
+grade HRP method. Brain Res 334:85–96.
+Rapisarda C, Palmeri A, Aicardi G, Sapienza S. 1990. Multiple represen-
+tations of the body and input– output relationships in the agranular
+and granular cortex of the chronic awake guinea pig. Somatosens Mot
+Res 7:289 –314.
+Remple MS, Bruneau RM, VandenBerg PM, Goertzen C, Kleim JA. 2001.
+Sensitivity of cortical movement representations to motor experience:
+evidence that skill learning but not strength training induces cortical
+reorganization. Behav Brain Res 123:133–141.
+Remple MS, Henry EC, Catania KC. 2003. The organization of somatosen-
+sory cortex in the laboratory rat ( Rattus norvegicus ): evidence for two
+lateral areas joined at the representation of the teeth. J Comp Neurol
+467:105–118.
+Rivara CB, Sherwood CC, Bouras C, Hof PR. 2003. Stereologic character-
+ization and spatial distribution patterns of Betz cells in the human
+primary motor cortex. Anat Rec A Discov Mol Cell Evol Biol 270:137–
+151.
+Robinson DA, Fuchs AF. 1969. Eye movements evoked by stimulation of
+frontal eye ﬁelds. J Neurophysiol 32:637– 648.
+Samorajski T, Ordy JM, Keefe JR. 1966. Structural organization of the
+retina in the tree shrew ( Tupaia glis ). J Cell Biol 28:489 –504.
+Sargis EJ. 2001. The grasping behaviour, locomotion and substrate use of
+the tree shrews Tupaia minor and T. tana (Mammalia, Scandentia). J
+Zool 253:485– 490.
+Sargis EJ. 2002. Functional morphology of the forelimb of tupaiids (Mam-
+malia, Scandentia) and its phylogenetic implications. J Morphol 253:
+10 – 42.
+Schlag J, Schlag-Rey M. 1985. Unit activity related to spontaneous sac-
+cades in frontal dorsomedial cortex of monkey. Exp Brain Res 58:208 –
+211.
+Sherwood CC, Lee PW, Rivara CB, Holloway RL, Gilissen EP, Simmons
+RM, Hakeem A, Allman JM, Erwin JM. Hof PR. 2003. Evolution of
+specialized pyramidal neurons in primate visual and motor cortex.
+Brain Behav Evol 61:28 – 44.
+Shriver JE, Noback CR. 1967. Cortical projections to the lower brain stem
+and spinal cord in the tree shrew ( Tupaia glis ). J Comp Neurol 130:
+25–54.
+Slutsky DA, Manger PR, Krubitzer L. 2000. Multiple somatosensory areas
+in the anterior parietal cortex of the California ground squirrel ( Sper-
+mophilus beecheyii ). J Comp Neurol 416:521–539.
+Springer MS, Murphy WJ, Eizirik E, O’Brien SJ. 2003. Placental mammal
+diversiﬁcation and the Cretaceous-Tertiary boundary. Proc Natl Acad
+S c iUSA 100:1056 –1061.
+Stepniewska I, Preuss TM, Kaas JH. 1993. Architectonics, somatotopic
+organization, and ipsilateral cortical connections of the primary motor
+area (M1) of owl monkeys. J Comp Neurol 330:238 –271.
+Stepniewska I, Fang PC, Kaas JH. 2005. Microstimulation reveals special-
+ized subregions for different complex movements in posterior parietal
+cortex of prosimian galagos. Proc Natl Acad Sc iUSA 102:4878 – 4883.
+The Journal of Comparative Neurology. DOI 10.1002/cne
+153ORGANIZATION OF MOTOR CORTEX IN TREE SHREWS. I
+ 10969861, 2006, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.20975 by University Of Bath, Wiley Online Library on [11/07/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 22 =====
+Stoney SD Jr, Thompson WD, Asanuma H. 1968. Excitation of pyramidal
+tract cells by intracortical microstimulation: effective extent of stimu-
+lating current. J Neurophysiol 31:659 – 669.
+Sur M, Weller RE, Kaas JH. 1980. Representation of the body surface in
+somatosensory area I of tree shrews, Tupaia glis . J Comp Neurol
+194:71–95.
+Sur M, Weller RE, Kaas JH. 1981a. The organization of somatosensory
+area II in tree shrews. J Comp Neurol 201:121–133.
+Sur M, Weller RE, Kaas JH. 1981b. Physiological and anatomical evidence
+for a discontinuous representation of the trunk in S-I of tree shrews.
+J Comp Neurol 201:135–147.
+von Bonin G. 1949. Architecture of the precentral motor cortex and some
+adjacent areas In: Bucy PC, editor. The precentral motor cortex. Ur-
+bana, IL: University of Illinois Press.
+Waddell PJ, Kishino H. 2001. A phylogenetic foundation for comparative
+mammalian genomics. Genome Inform Ser Workshop Genome Inform
+12:141–154.
+Wang Y, Kurata K. 1998. Quantitative analyses of thalamic and cortical
+origins of neurons projecting to the rostral and caudal forelimb motor
+areas in the cerebral cortex of rats. Brain Res 781:135–147.
+Weller RE, Sur M, Kaas JH. 1987. Callosal and ipsilateral cortical connec-
+tions of the body surface representations in SI and SII of tree shrews.
+Somatosens Res 5:107–133.
+Whishaw IQ. 2003. Did a change in sensory control of skilled movements
+stimulate the evolution of the primate frontal cortex? Behav Brain Res
+146:31– 41.
+Wise SP, Donoghue JP. 1986. Motor cortex of rodents. In: Cerebral cortex.
+New York: Plenum. p 243–270.
+Wise SP, Murray EA, Coulter JD. 1979. Somatotopic organization of cortico-
+spinal and corticotrigeminal neurons in the rat. Neuroscience 4:65–78.
+Wong-Riley M. 1979. Changes in the visual system of monocularly sutured
+or enucleated cats demonstrable with cytochrome oxidase histochem-
+istry. Brain Res 171:11–28.
+Woolsey CN, Settlage PH, Meyer DR, Sencer W, Pinto Hamuy T, Travis
+AM. 1952. Patterns of localization in precentral and “supplementary”
+motor areas and their relation to the concept of a premotor area. Res
+Publ Assoc Res Nerv Ment Dis 30:238 –264.
+Wu CW, Kaas JH. 2003. Somatosensory cortex of prosimian Galagos:
+physiological recording, cytoarchitecture, and corticocortical connec-
+tions of anterior parietal cortex and cortex of the lateral sulcus. J Comp
+Neurol 457:263–292.
+Wu CW, Bichot NP, Kaas JH. 2000. Converging evidence from microstimu-
+lation, architecture, and connections for multiple motor areas in the
+frontal and cingulate cortex of prosimian primates. J Comp Neurol
+423:140 –177.
+Zilles K. 1978. A quantitative approach to cytoarchitectonics. I. The
+areal pattern of the cortex of Tupaia belangeri . Anat Embryol 153:
+195–212.
+The Journal of Comparative Neurology. DOI 10.1002/cne
+154 M.S. REMPLE ET AL.
+ 10969861, 2006, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.20975 by University Of Bath, Wiley Online Library on [11/07/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

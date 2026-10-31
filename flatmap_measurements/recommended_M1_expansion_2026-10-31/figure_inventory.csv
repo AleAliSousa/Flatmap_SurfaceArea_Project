@@ -1,0 +1,113 @@
+paper_id,figure,pdf_page,status,note
+Bergeron_etal_2026,1,3,not_surface_area,Apparatus and stimulation setup.
+Bergeron_etal_2026,2,4,selected_views_traced,"B cortical summary grid and D top-view pig3 grid; A includes deep/subcortical responses, C is section, D medial photo adjusted."
+Bergeron_etal_2026,3,5,not_surface_area,Physiological time series.
+Bergeron_etal_2026,4,6,not_surface_area,Physiological time series.
+Bock_etal_2011,1,2,not_surface_area,"Coronal histology, not tangential cortical area."
+Bock_etal_2011,2,3,not_surface_area,Image processing and coronal sampling.
+Bock_etal_2011,3,4,native_surface_required,3D mesh visualization.
+Bock_etal_2011,4,5,not_measurable_from_PDF,Intensity flatmap with spatially varying distortion and no reproducible closed masks.
+Bock_etal_2011,5,7,native_surface_required,3D comparisons.
+Bock_etal_2011,6,7,native_surface_required,Area definitions shown on 3D mesh; use Table1 values.
+Bock_etal_2011,7,8,calibration_evidence,"Shows spatially varying flattening distortion, preventing global flatmap scale."
+Bock_etal_2011,8,8,native_surface_required,Other animals in 3D; no metric 2D outlines.
+Burman_etal_2008,1,4,not_surface_area,"Histological sections, not cortical surface maps."
+Burman_etal_2008,2,5,not_surface_area,"Histological sections, not cortical surface maps."
+Burman_etal_2008,3,6,not_surface_area,"Histological sections, not cortical surface maps."
+Burman_etal_2008,4,7,not_surface_area,"Histological sections, not cortical surface maps."
+Burman_etal_2008,5,8,not_surface_area,"Histological sections, not cortical surface maps."
+Burman_etal_2008,6,9,selected_views_traced,Three dorsal M1 and within-M1 face components. Partial medial extent; pixel only due printed scale problem.
+Burman_etal_2008,7,9,not_surface_area,Stimulation threshold graph.
+Burman_etal_2008,8,10,not_selected_projected_view,Lateral/dorsal projected tracer map; no intrinsic whole-field surface geometry.
+Burman_etal_2008,9,11,selected_fields_traced,A selected once; B–D repeat same anatomy with different tracers. Core fields traced; other atlas labels explicitly pending.
+Burman_etal_2008,10,14,schematic_not_case,"Comparative summary diagram, not another specimen."
+Dea_etal_2016,1,5,selected_views_traced,B–D photos: hand fields; medial-wall cartoons are not metrically aligned.
+Dea_etal_2016,2,6,published_graph,Hand-area bar plot; graphical values are not entered as exact tabulated numbers.
+Dea_etal_2016,3,6,not_surface_area,Cell micrographs.
+Dea_etal_2016,4,7,selected_views_traced,CB8 area1/2 hand; tracer counting windows are not automatically field extents.
+Dea_etal_2016,5,8,selected_views_traced,CB6 area1/2 hand; author-estimated sensory boundary.
+Dea_etal_2016,6,9,selected_views_traced,CB3 area1/2 hand.
+Dea_etal_2016,7,10,not_surface_area,Labeled-cell proportions.
+Dea_etal_2016,8,11,not_surface_area,Connectivity summary diagram.
+Frost_etal_2000,1,5,selected_views_traced,9213 complete drawn S1/S2 and combined face/oral territory.
+Frost_etal_2000,2,6,selected_views_traced,"9321,9324 S1/S2;9212 partial face/oral and S2.9211 open outlines remain NA."
+Frost_etal_2000,3,7,not_surface_area,Body receptive-field drawings.
+Frost_etal_2000,4,8,selected_views_traced,Distal-forelimb enlarged maps in four same sensory cases;9212 retains only a visibly clipped component because its upper edge is open. Not additional animals.
+Frost_etal_2000,5,9,repeat_tissue,Enlarged face somatotopy of Fig1 case; do not add another case.
+Frost_etal_2000,6,10,repeat_tissue,Enlarged face somatotopy of Fig2 case; do not add another case.
+Frost_etal_2000,7,11,selected_views_traced,9213 ICMS vibrissae and jaw.
+Frost_etal_2000,8,12,selected_views_traced,Four ICMS vibrissae maps.
+Frost_etal_2000,9,13,selected_views_traced,9321 low-impedance map; sensory view repeats Fig2.
+Frost_etal_2000,10,14,selected_views_traced,9316/9317 bipolar motor response territories.
+Frost_etal_2000,11,15,repeat_tissue,Alternative overlay/placement of same ICMS territories.
+Frost_etal_2000,12,16,repeat_tissue,Input-output overlap of mapped sensory/motor fields.
+Frost_etal_2000,13,17,repeat_tissue,ICMS map placement / input-output comparison.
+Frost_etal_2000,14,18,repeat_tissue,Input-output comparison.
+Frost_etal_2000,15,18,not_surface_area,Coronal section.
+Frost_etal_2000,16,18,not_measurable_from_PDF,Histological field labels do not supply closed field envelopes.
+Frost_etal_2000,17,20,schematic_not_case,Hypothetical evolutionary model.
+Ghosh_1997,1,4,not_surface_area,"Histological sections, injection sites or cellular photomicrographs."
+Ghosh_1997,2,5,not_surface_area,"Histological sections, injection sites or cellular photomicrographs."
+Ghosh_1997,3,6,not_surface_area,"Histological sections, injection sites or cellular photomicrographs."
+Ghosh_1997,4,7,not_surface_area,"Histological sections, injection sites or cellular photomicrographs."
+Ghosh_1997,5,8,not_surface_area,"Histological sections, injection sites or cellular photomicrographs."
+Ghosh_1997,6,9,not_surface_area,"Histological sections, injection sites or cellular photomicrographs."
+Ghosh_1997,7,10,not_surface_area,"Histological sections, injection sites or cellular photomicrographs."
+Ghosh_1997,8,11,not_surface_area,"Histological sections, injection sites or cellular photomicrographs."
+Ghosh_1997,9,12,selected_fields_traced,Case1 exposed and cruciate-bank motor/3a components; presylvian field edge open.
+Ghosh_1997,10,13,selected_fields_traced,Case2 exposed and cruciate-bank motor/3a components.
+Ghosh_1997,11,14,pooled_not_case,"Five-animal summary map, not a sixth animal."
+Ghosh_1997,12,15,not_surface_area,Threshold graphs.
+Ghosh_1997,13,16,not_surface_area,Spinal injection reconstruction.
+Ghosh_1997,14,17,selected_fields_traced,"Case6 motor and coronal-bank sensory components, plus medial3a/3b/area1 added in second precision pass; further parietal subdivisions remain pending."
+Ghosh_1997,15,18,selected_fields_traced,Case9 pixel-only motor components plus medial3a/3b/area1 and four coronal-bank sensory components added in second precision pass. Ventral3a/3b bank ROIs are components below the fundus; further subdivisions remain pending.
+Ghosh_1997,16,19,selected_fields_traced,Cases7/8 motor/3a components; additional medial/parietal fields not yet digitized.
+Glasser_etal_2016,1,2,native_surface_required,"3D/inflated group/individual surfaces, feature or probability maps; native mesh and matching labels required for physical area."
+Glasser_etal_2016,2,3,native_surface_required,"3D/inflated group/individual surfaces, feature or probability maps; native mesh and matching labels required for physical area."
+Glasser_etal_2016,3,3,native_surface_required,"3D/inflated group/individual surfaces, feature or probability maps; native mesh and matching labels required for physical area."
+Glasser_etal_2016,4,5,native_surface_required,"3D/inflated group/individual surfaces, feature or probability maps; native mesh and matching labels required for physical area."
+Glasser_etal_2016,5,6,native_surface_required,"3D/inflated group/individual surfaces, feature or probability maps; native mesh and matching labels required for physical area."
+Halley_etal_2025,1,3,not_complete_field,Methods/flattening histology and electrode localization; not complete field outlines.
+Halley_etal_2025,2,3,not_surface_area,Threshold graph.
+Halley_etal_2025,3,4,selected_views_traced,"K22-06 and K22-05 partial anatomical windows, not body-part response polygons."
+Halley_etal_2025,4,5,selected_views_traced,K22-04 and K22-03 partial anatomical windows.
+Halley_etal_2025,5,7,pooled_not_case,Across-case averaged movement overlays.
+Halley_etal_2025,6,8,pooled_not_case,Across-case averaged limb overlays.
+Halley_etal_2025,7,10,not_surface_area,Coactivation plots.
+Jung_etal_2021,1,7,not_metric_flatmap,"Atlas/software pipeline, volumetric sections, 3D views or quality-control plots; no metric 2D cortical field tracing."
+Jung_etal_2021,2,9,not_metric_flatmap,"Atlas/software pipeline, volumetric sections, 3D views or quality-control plots; no metric 2D cortical field tracing."
+Jung_etal_2021,3,10,not_metric_flatmap,"Atlas/software pipeline, volumetric sections, 3D views or quality-control plots; no metric 2D cortical field tracing."
+Jung_etal_2021,4,11,not_metric_flatmap,"Atlas/software pipeline, volumetric sections, 3D views or quality-control plots; no metric 2D cortical field tracing."
+Jung_etal_2021,5,12,native_surface_required,"Atlas/software pipeline, volumetric sections, 3D views or quality-control plots; no metric 2D cortical field tracing."
+Jung_etal_2021,6,13,native_surface_required,"Atlas/software pipeline, volumetric sections, 3D views or quality-control plots; no metric 2D cortical field tracing."
+Jung_etal_2021,7,14,not_metric_flatmap,"Atlas/software pipeline, volumetric sections, 3D views or quality-control plots; no metric 2D cortical field tracing."
+Jung_etal_2021,8,15,not_metric_flatmap,"Atlas/software pipeline, volumetric sections, 3D views or quality-control plots; no metric 2D cortical field tracing."
+Jung_etal_2021,9,16,not_metric_flatmap,"Atlas/software pipeline, volumetric sections, 3D views or quality-control plots; no metric 2D cortical field tracing."
+Jung_etal_2021,10,15,not_metric_flatmap,"Atlas/software pipeline, volumetric sections, 3D views or quality-control plots; no metric 2D cortical field tracing."
+Jung_etal_2021,11,17,not_metric_flatmap,"Atlas/software pipeline, volumetric sections, 3D views or quality-control plots; no metric 2D cortical field tracing."
+Jung_etal_2021,12,18,not_metric_flatmap,"Atlas/software pipeline, volumetric sections, 3D views or quality-control plots; no metric 2D cortical field tracing."
+Neafsey_etal_1986,1,2,not_surface_area,Penetration geometry schematic.
+Neafsey_etal_1986,2,4,schematic_not_case,General architectonic reference map.
+Neafsey_etal_1986,3,5,selected_views_traced,Two rostral/caudal forelimb experiments.
+Neafsey_etal_1986,4,7,not_surface_area,Coronal sections.
+Neafsey_etal_1986,5,7,selected_views_traced,Parallel-penetration forelimb experiment.
+Neafsey_etal_1986,6,8,selected_views_traced,Two hindlimb experiments.
+Neafsey_etal_1986,7,9,selected_views_traced,Parallel-penetration hindlimb experiment.
+Neafsey_etal_1986,8,10,selected_views_traced,Two vibrissae experiments; dense strokes cause additional uncertainty.
+Neafsey_etal_1986,9,10,not_surface_area,Coronal section.
+Neafsey_etal_1986,10,11,selected_views_traced,Two jaw/lip/tongue experiments.
+Neafsey_etal_1986,11,12,not_surface_area,Four coronal sections.
+Neafsey_etal_1986,12,13,not_measurable_from_PDF,Sparse projected section responses with no complete field envelope.
+Neafsey_etal_1986,13,14,schematic_not_case,Idealized composite map; do not count as animal or measure as empirical whole M1.
+Remple_etal_2006,1,2,not_surface_area,Species photograph.
+Remple_etal_2006,2,3,not_surface_area,Phylogeny.
+Remple_etal_2006,3,4,not_surface_area,Cortical histological sections; not tangential surface areas.
+Remple_etal_2006,4,7,not_surface_area,Cortical histological sections; not tangential surface areas.
+Remple_etal_2006,5,8,not_surface_area,Cortical histological sections; not tangential surface areas.
+Remple_etal_2006,6,9,not_surface_area,Cortical histological sections; not tangential surface areas.
+Remple_etal_2006,7,10,selected_views_traced,Case320R sensory reconstruction and same-case enlarged modules; open medial V1 recorded as clipped component.
+Remple_etal_2006,8,11,selected_views_traced,310R and320L S1+face/oral+modules;320R repeats Fig7. M1/M2 strips open.
+Remple_etal_2006,9,12,not_measurable_complete_M1,Case424R stimulation maps: field strips open at ends; threshold panel repeats same tissue.
+Remple_etal_2006,10,13,not_measurable_complete_M1,"Case353R partial stimulation map, open ends of M1/3a/3b strips."
+Remple_etal_2006,11,14,repeat_tissue,Case320R somatotopy; no new animal or complete M1 envelope.
+Remple_etal_2006,12,16,schematic_not_case,Proposed sensorimotor organization model.

@@ -1,0 +1,180 @@
+{
+  "map_id": "fig06_CB3_S1_hand",
+  "figure": "6",
+  "panel": "",
+  "pdf_page": 9,
+  "printed_page": "",
+  "species": "Cebus apella",
+  "specimen": "CB-3",
+  "hemisphere": "left",
+  "view_type": "individual_reconstructed_partial_cortex",
+  "hemisphere_relation": "",
+  "linked_main_map": "",
+  "repeat_of": "",
+  "relationship_note": "Same animal as Fig.1 physiological mapping. Older Cebus apella label retained; crosswalk to cohort Sapajus requires provenance review.",
+  "specimen_link_status": "source_label_preserved; cross-paper overlap unresolved",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 3,
+  "crop_xyxy": [
+    520,
+    620,
+    1290,
+    1280
+  ],
+  "scale_endpoints_px": [
+    [
+      716.0,
+      630.0
+    ],
+    [
+      886.0,
+      630.0
+    ]
+  ],
+  "scale_length_mm": 5,
+  "scale_note": "Printed same-panel scale; no shrinkage correction applied.",
+  "scale_reference_map": "same_figure_5mm_bar",
+  "outline": null,
+  "rois": [
+    {
+      "label": "area1_hand",
+      "polygons": [
+        [
+          [
+            510.0,
+            226.0
+          ],
+          [
+            550.0,
+            250.0
+          ],
+          [
+            528.0,
+            302.0
+          ],
+          [
+            508.0,
+            354.0
+          ],
+          [
+            486.0,
+            408.0
+          ],
+          [
+            468.0,
+            460.0
+          ],
+          [
+            440.0,
+            446.0
+          ],
+          [
+            420.0,
+            432.0
+          ],
+          [
+            426.0,
+            394.0
+          ],
+          [
+            440.0,
+            346.0
+          ],
+          [
+            468.0,
+            288.0
+          ]
+        ]
+      ],
+      "extent": "hand_subregion",
+      "boundary_note": "Red physiological hand-area boundaries. Figure CB-6 medial extent is an author estimate. Does not represent full S1."
+    },
+    {
+      "label": "area2_hand",
+      "polygons": [
+        [
+          [
+            550.0,
+            250.0
+          ],
+          [
+            572.0,
+            268.0
+          ],
+          [
+            584.0,
+            322.0
+          ],
+          [
+            588.0,
+            360.0
+          ],
+          [
+            574.0,
+            424.0
+          ],
+          [
+            562.0,
+            490.0
+          ],
+          [
+            508.0,
+            476.0
+          ],
+          [
+            468.0,
+            460.0
+          ],
+          [
+            486.0,
+            408.0
+          ],
+          [
+            508.0,
+            354.0
+          ],
+          [
+            528.0,
+            302.0
+          ]
+        ]
+      ],
+      "extent": "hand_subregion",
+      "boundary_note": "Red physiological hand-area boundaries; shared border reused. Does not represent full S1."
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "M1_hand",
+      "status": "not_measurable",
+      "reason": "Cannot recover a reliable hand envelope from this tracer reconstruction; same-animal hand territory is traced independently from Fig1 cortical photograph."
+    },
+    {
+      "label": "SMA",
+      "status": "not_measurable",
+      "reason": "Grey outline is a cell-counting window, explicitly not the full field."
+    },
+    {
+      "label": "PMd",
+      "status": "not_measurable",
+      "reason": "Grey outline is a cell-counting window, explicitly not the full field."
+    },
+    {
+      "label": "PMv",
+      "status": "not_measurable",
+      "reason": "Grey outline is a cell-counting window, explicitly not the full field."
+    },
+    {
+      "label": "area5",
+      "status": "not_measurable",
+      "reason": "Grey outline is a cell-counting window, explicitly not the full field."
+    },
+    {
+      "label": "3a_3b",
+      "status": "not_measurable",
+      "reason": "Central sulcus was not unfolded; these fields were not analyzed in this study."
+    }
+  ],
+  "supersample": 4
+}

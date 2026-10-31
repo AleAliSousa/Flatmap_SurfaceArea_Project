@@ -1,0 +1,2 @@
+paper_id,species,label,unit,n_nonrepeated_views,mean,sample_sd,minimum,maximum,interpretation
+Barton_etal_2012,Homo sapiens,hA1,mm2,5,179.73036479766802,62.93293758183396,115.64453125,264.7548010973936,Descriptive field-view statistics only; hemispheres may be paired. Display-pixel means are not biological areas. No whole-cortex denominator.

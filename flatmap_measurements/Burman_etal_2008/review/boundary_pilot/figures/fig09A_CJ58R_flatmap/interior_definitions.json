@@ -1,0 +1,50 @@
+{
+  "source_map": "fig09A_CJ58R_flatmap",
+  "source_sha256": "328379805a69e1f7de4e0d8b1ffa115a7380fb91db04b15a9cc6afeb784cbdad",
+  "coordinate_system": "pixels of saved source crop; 3 px per PDF point",
+  "source_pdf_page": 11,
+  "gray_channel_range_lt": 16,
+  "gray_mean_lt": 237,
+  "connectivity": 4,
+  "hole_policy": "Fill enclosed text/dot holes; no smoothing or atlas deformation",
+  "interpretation": "Printed interiors excluding gray transition bands, not full field estimates or statistical lower confidence limits. Solid dorsal/medial map line limits these components. No calibration borrowed.",
+  "limitation": "Figure-specific masks. Thresholding fails on CJ61 because colored overlays and open borders permit leakage. Does not recover hidden boundary geometry.",
+  "rois": [
+    {
+      "label": "3a_printed_interior",
+      "seed_px": [
+        790,
+        375
+      ],
+      "mask_file": "3a_printed_interior_mask.tif",
+      "area_px2": 3196,
+      "area_mm2": null,
+      "analysis_eligible": false,
+      "status": "shape_review_pilot; printed_interior_only; excludes_uncertain_boundary_band"
+    },
+    {
+      "label": "3b_printed_interior",
+      "seed_px": [
+        741,
+        390
+      ],
+      "mask_file": "3b_printed_interior_mask.tif",
+      "area_px2": 4401,
+      "area_mm2": null,
+      "analysis_eligible": false,
+      "status": "shape_review_pilot; printed_interior_only; excludes_uncertain_boundary_band"
+    },
+    {
+      "label": "M1_dorsal_printed_interior",
+      "seed_px": [
+        781,
+        320
+      ],
+      "mask_file": "M1_dorsal_printed_interior_mask.tif",
+      "area_px2": 5100,
+      "area_mm2": null,
+      "analysis_eligible": false,
+      "status": "shape_review_pilot; printed_interior_only; excludes_uncertain_boundary_band"
+    }
+  ]
+}

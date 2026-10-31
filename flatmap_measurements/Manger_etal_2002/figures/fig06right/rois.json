@@ -191,100 +191,56 @@
             447.8736693583608
           ],
           [
-            277.577091732115,
-            447.5818812127583
+            260.0,
+            450.0
           ],
           [
-            274.9084520650292,
-            446.5130894087823
+            240.0,
+            452.0
           ],
           [
-            273.0107640606167,
-            444.41895404879614
+            220.0,
+            456.0
           ],
           [
-            271.8789137005285,
-            440.6870002388661
+            201.0,
+            460.0
           ],
           [
-            271.56397302747536,
-            419.7111974290915
+            187.0,
+            464.0
           ],
           [
-            272.8737693620712,
-            403.77614658518934
+            196.0,
+            447.0
           ],
           [
-            276.0491830774722,
-            386.066496755707
+            202.0,
+            429.0
           ],
           [
-            278.8968780655153,
-            374.4550396888572
+            207.0,
+            410.0
           ],
           [
-            286.89533459171105,
-            355.44895618109183
+            209.0,
+            397.0
           ],
           [
-            291.0347471660972,
-            347.4636823011279
+            207.0,
+            382.0
           ],
           [
-            302.82288429703647,
-            327.7497108107671
+            202.0,
+            365.0
           ],
           [
-            303.5365564473221,
-            323.99012106221676
+            194.0,
+            348.0
           ],
           [
-            302.51980715029214,
-            321.4529764682704
-          ],
-          [
-            300.239314258929,
-            319.8689775150015
-          ],
-          [
-            297.4821564079452,
-            319.47262913232095
-          ],
-          [
-            279.8727955650977,
-            321.28094362862436
-          ],
-          [
-            241.95810528302965,
-            323.77748953445666
-          ],
-          [
-            227.1136620876709,
-            325.64085761448956
-          ],
-          [
-            222.4096403979944,
-            325.7681810626525
-          ],
-          [
-            210.87548037565674,
-            328.7849154036331
-          ],
-          [
-            194.97332043707578,
-            334.73758656930175
-          ],
-          [
-            188.53154177026246,
-            336.2635462076135
-          ],
-          [
-            186.0044524905671,
-            336.17182374936436
-          ],
-          [
-            183.71640095259949,
-            334.61763259948174
+            185.0,
+            335.0
           ],
           [
             181.72141880249654,
@@ -647,8 +603,13 @@
         ]
       ],
       "extent": "partial",
-      "boundary_note": "Union of mapped gyral components separated by the visible sulcal strip. Source panel limits truncate cortex; not a complete field or whole-neocortex case.",
-      "tracing_method": "Regularized source-envelope following; pixel staircases suppressed before fitting to continuous printed stroke"
+      "boundary_note": "Union of mapped gyral components separated by the visible sulcal strip. Source panel limits truncate cortex; not a complete field or whole-neocortex case. Review 2026-10-31: Corrected lateral-gyrus component to the thick PPr boundary, retaining the ventral-trunk compartment previously cut out by following thin internal somatotopy lines. Figure 6 caption and somatotopic-representation text identify these internal body-part divisions. Sulcal strip and truncation at panel limits remain excluded; this is still a partial mapped extent.",
+      "tracing_method": "Source-reviewed contour revision, 2026-10-31; see project_review_2026-10-31",
+      "geometry_review": {
+        "date": "2026-10-31",
+        "status": "source_refined_provisional",
+        "note": "Corrected lateral-gyrus component to the thick PPr boundary, retaining the ventral-trunk compartment previously cut out by following thin internal somatotopy lines. Figure 6 caption and somatotopic-representation text identify these internal body-part divisions. Sulcal strip and truncation at panel limits remain excluded; this is still a partial mapped extent."
+      }
     }
   ],
   "unmeasured": [

@@ -1,0 +1,5 @@
+map_id	roi_index	label	area_pixels	area_calibrated	unit	original_fractional_pixels	pixel_difference_percent	roi_roundtrip_pixels_equal
+fig06_case1	0	3b_face_plus_oral	61241	78.11352040816325	mm^2	61159.4375	0.1333604482546132	true
+fig08_case2	0	3b_face_plus_oral	91221	118.0334868795611	mm^2	91160.3125	0.0665722816603991	true
+fig11_case3	0	3b_face_plus_oral	75622	102.21399221453288	mm^2	75583.1875	0.051350705472695234	true
+fig13_case4	0	3b_face_plus_oral	71269	164.73050770337684	mm^2	71200.1875	0.09664651515138215	true

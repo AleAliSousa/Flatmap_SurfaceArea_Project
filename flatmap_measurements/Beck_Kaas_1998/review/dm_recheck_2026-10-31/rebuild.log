@@ -1,0 +1,9 @@
+Figure fig03: 1 selections, TIFF calibration and all pixels verified
+Figure fig04: 1 selections, TIFF calibration and all pixels verified
+Figure fig06: 1 selections, TIFF calibration and all pixels verified
+Figure fig07: 1 selections, TIFF calibration and all pixels verified
+Figure fig09: 1 selections, TIFF calibration and all pixels verified
+Figure fig10: 1 selections, TIFF calibration and all pixels verified
+Figure fig11: 1 selections, TIFF calibration and all pixels verified
+Figure fig12: 1 selections, TIFF calibration and all pixels verified
+{"processed_views": 8, "measured_fields": 8, "unmeasured_fields": 12, "overlaps": [], "native_imagej_roundtrip": "passed", "anatomical_review": "provisional; pending user review", "reference_comparison": "not_run; core workflow does not require reference data"}

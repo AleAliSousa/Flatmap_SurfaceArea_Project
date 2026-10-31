@@ -1,0 +1,7 @@
+map_id	roi_index	label	area_pixels	area_calibrated	unit	original_fractional_pixels	pixel_difference_percent	roi_roundtrip_pixels_equal
+fig02B_cortical_grid	0	forelimb_sampled_grid	59036	32.22770698242842	mm^2	58835.1875	0.34131360590972876	true
+fig02B_cortical_grid	1	hindlimb_sampled_grid	25842	14.107127919234285	mm^2	25746.4375	0.371167855747033	true
+fig02B_cortical_grid	2	face_sampled_grid	7480	4.0833262454869	mm^2	7385.25	1.2829626620628956	true
+fig02D_pig3_top_grid	0	forelimb_sampled_grid	29445	17.014723557692303	mm^2	29517.3125	-0.24498334663767238	true
+fig02D_pig3_top_grid	1	hindlimb_sampled_grid	12263	7.086145525147928	mm^2	12180.5625	0.6767955092385922	true
+fig02D_pig3_top_grid	2	face_sampled_grid	3527	2.0380686020710055	mm^2	3486.125	1.1725052888235505	true

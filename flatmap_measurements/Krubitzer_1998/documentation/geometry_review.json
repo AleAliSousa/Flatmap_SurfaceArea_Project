@@ -10,6 +10,14 @@
       "interpretation": "shared-border raster sliver"
     },
     {
+      "map_id": "fig11B",
+      "field_a": "Vc",
+      "field_b": "Vr",
+      "overlap_pixels": 82,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
       "map_id": "fig14A_summary",
       "field_a": "SC",
       "field_b": "SI",
@@ -86,6 +94,14 @@
       "field_a": "SI upper island",
       "field_b": "R",
       "overlap_pixels": 123,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig14D_summary",
+      "field_a": "R",
+      "field_b": "M",
+      "overlap_pixels": 282,
       "overlap_after_eroding_both_masks_2px": 0,
       "interpretation": "shared-border raster sliver"
     },

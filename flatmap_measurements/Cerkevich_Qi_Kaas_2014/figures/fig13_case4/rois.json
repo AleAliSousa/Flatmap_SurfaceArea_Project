@@ -1,0 +1,247 @@
+{
+  "map_id": "fig13_case4",
+  "figure": "13",
+  "panel": "A",
+  "pdf_page": 19,
+  "printed_page": "564",
+  "species": "Macaca mulatta",
+  "specimen": "case4",
+  "hemisphere": "not_explicitly_resolved",
+  "view_type": "individual_flattened_partial_cortex",
+  "hemisphere_relation": "",
+  "linked_main_map": "",
+  "repeat_of": "",
+  "relationship_note": "Same case as Fig.5 and other tracer maps in this paper; companion Cerkevich et al.2013 uses these animals. Not independent repeat observations.",
+  "specimen_link_status": "source_labels_preserved",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 3,
+  "crop_xyxy": [
+    180,
+    200,
+    1620,
+    1730
+  ],
+  "scale_endpoints_px": [
+    [
+      1108.5,
+      1195
+    ],
+    [
+      1212.5,
+      1195
+    ]
+  ],
+  "scale_length_mm": 5,
+  "scale_note": "Same-figure printed scale; 2D figure area, no shrinkage or distortion correction.",
+  "scale_reference_map": "",
+  "outline": null,
+  "rois": [
+    {
+      "label": "3b_face_plus_oral",
+      "polygons": [
+        [
+          [
+            704,
+            340
+          ],
+          [
+            729,
+            348
+          ],
+          [
+            750,
+            360
+          ],
+          [
+            775,
+            369
+          ],
+          [
+            802,
+            372
+          ],
+          [
+            830,
+            370
+          ],
+          [
+            860,
+            363
+          ],
+          [
+            886,
+            364
+          ],
+          [
+            904,
+            367
+          ],
+          [
+            893,
+            390
+          ],
+          [
+            881,
+            413
+          ],
+          [
+            864,
+            438
+          ],
+          [
+            848,
+            465
+          ],
+          [
+            835,
+            492
+          ],
+          [
+            826,
+            518
+          ],
+          [
+            821,
+            546
+          ],
+          [
+            820,
+            573
+          ],
+          [
+            823,
+            600
+          ],
+          [
+            830,
+            628
+          ],
+          [
+            831,
+            649
+          ],
+          [
+            820,
+            671
+          ],
+          [
+            803,
+            693
+          ],
+          [
+            785,
+            713
+          ],
+          [
+            766,
+            730
+          ],
+          [
+            744,
+            741
+          ],
+          [
+            720,
+            750
+          ],
+          [
+            691,
+            759
+          ],
+          [
+            661,
+            765
+          ],
+          [
+            636,
+            770
+          ],
+          [
+            619,
+            771
+          ],
+          [
+            612,
+            754
+          ],
+          [
+            607,
+            730
+          ],
+          [
+            606,
+            702
+          ],
+          [
+            608,
+            673
+          ],
+          [
+            610,
+            645
+          ],
+          [
+            616,
+            619
+          ],
+          [
+            629,
+            595
+          ],
+          [
+            644,
+            573
+          ],
+          [
+            659,
+            548
+          ],
+          [
+            671,
+            525
+          ],
+          [
+            679,
+            498
+          ],
+          [
+            683,
+            470
+          ],
+          [
+            690,
+            443
+          ],
+          [
+            700,
+            417
+          ],
+          [
+            705,
+            393
+          ],
+          [
+            704,
+            367
+          ]
+        ]
+      ],
+      "extent": "complete_drawn_field",
+      "boundary_note": "Full lateral 3b envelope below the hand\u2013face septum. HFB checked against Fig.5. Includes internal myelin modules, recording sites and tracer patches. Short continuations under cell symbols interpolated along visible boundary. This is not skin-face alone or 3a+3b."
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "3b_external_face_only",
+      "status": "not_measurable",
+      "reason": "Recording sites and myelin modules do not form a complete closed skin-face versus oral-cavity partition."
+    },
+    {
+      "label": "3a_plus_3b_face",
+      "status": "not_measurable",
+      "reason": "No complete 3a facial boundary/hand-face partition is identified."
+    }
+  ],
+  "supersample": 4
+}

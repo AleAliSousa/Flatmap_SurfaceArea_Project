@@ -1,0 +1,8 @@
+figure,pdf_page,interpretation,status,next_action
+1,3,Stimulus design,not_applicable,Not tissue
+2,6,SI and SII body/digit maps,digitized_target_subset,A/B middle-row cheek response footprints only; C/D digits outside scope
+3,7,Individual SII maps,outside_target_scope,"SII, not S1-face"
+4,8,Group SII maps,outside_target_scope,SII template summary
+5,10,SII group/atlas correspondence,outside_target_scope,Not S1
+6,11,SI/SII digit maps,outside_target_scope,No complete face response coverage
+7,12,Digit GLM maps,outside_target_scope,No face experiment

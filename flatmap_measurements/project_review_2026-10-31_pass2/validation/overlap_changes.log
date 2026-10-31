@@ -1,0 +1,38 @@
+[
+  {
+    "paper_id": "Burman_etal_2008",
+    "map_id": "fig09A_CJ58R_flatmap",
+    "field_a": "V1",
+    "field_b": "V2",
+    "before_interior_overlap_px": 0,
+    "after_interior_overlap_px": 15,
+    "change_px": 15
+  },
+  {
+    "paper_id": "Remple_etal_2006",
+    "map_id": "fig07A_320_sensory",
+    "field_a": "S1_3b",
+    "field_b": "S2_PV_modules",
+    "before_interior_overlap_px": 0,
+    "after_interior_overlap_px": 4,
+    "change_px": 4
+  },
+  {
+    "paper_id": "Remple_etal_2006",
+    "map_id": "fig08A_310R_S1",
+    "field_a": "S1_3b",
+    "field_b": "S1_face_oral",
+    "before_interior_overlap_px": 27404,
+    "after_interior_overlap_px": 27404,
+    "change_px": 0
+  },
+  {
+    "paper_id": "Remple_etal_2006",
+    "map_id": "fig08C_320L_S1",
+    "field_a": "S1_3b",
+    "field_b": "S1_face_oral",
+    "before_interior_overlap_px": 24887,
+    "after_interior_overlap_px": 24887,
+    "change_px": 0
+  }
+]

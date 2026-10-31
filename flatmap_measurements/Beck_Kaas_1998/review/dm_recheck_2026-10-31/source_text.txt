@@ -1,0 +1,898 @@
+
+PAGE 1
+Thalamic Connections of the Dorsomedial
+Visual Area in Primates
+PAMELA D. BECK AND JON H. KAAS*
+Department of Psychology, Vanderbilt University, Nashville, Tennessee 37240
+ABSTRACT
+The dorsomedial visual area (DM) of owl monkeys is a cortical area that has been
+described recently in a range of primate species. To study the thalamic connections of this
+area, injections of several distinguishable neuroanatomical tracers were placed into DM in
+galagos, owl monkeys, squirrel monkeys, and macaque monkeys. The distribution of label was
+remarkably consistent across these diverse primate species. Labeled connections were
+densest within the pulvinar complex. Both the lateral and inferior divisions of the pulvinar,
+but not the medial division, had connections with DM. Within the inferior pulvinar of
+monkeys, central lateral and central medial nuclei had dense connections, and the medial and
+posterior nuclei had sparse connections with DM. Sparser connections were revealed in the
+lateral geniculate nucleus and the nucleus limitans. Anterograde label was also found in the
+superior colliculus. The consistencies in the pattern of subcortical projections across prosim￾ian primates, New World monkeys, and Old World monkeys support the concept that DM is a
+visual area common to all primates. In addition, these results provide further evidence for
+proposed subdivisions of the inferior pulvinar. J. Comp. Neurol. 396:381–398, 1998.
+r 1998 Wiley-Liss, Inc.
+Indexing terms: extrastriate visual cortex; thalamus; pulvinar; superior colliculus; prosimian
+The dorsomedial visual area (DM) is a subdivision of
+extrastriate visual cortex that was first described in New
+World owl monkeys (Allman and Kaas, 1975) as one of a
+series of postulated visual areas forming the rostral border
+of the second visual area, V2. Other early investigators,
+especially those exploring visual cortex organization in
+Old World macaque monkeys, did not describe a series of
+visual areas along the rostral border of V2 but, rather,
+proposed that much or all of this cortex was occupied by a
+single visual field, the third visual area, V3 (Cragg, 1969;
+Zeki, 1969). This interpretation was fortified by the results
+of later electrophysiological mapping studies (Gattass et
+al., 1988). However, differences in the connections and the
+response properties of neurons in the dorsal and ventral
+halves of the V3 region led some to consider each half as a
+separate visual area (Burkhalter et al., 1986). Subsequent
+magnetic resonance imaging studies of the organization of
+human visual cortex have tended to portray a single
+bordering area, V3 (Shipp et al., 1995), or a dorsal V3
+(Sereno et al., 1995). Thus, one possibility is that the
+organization of extrastriate cortex varies, with New World
+monkeys and prosimians having a DM and Old World
+monkeys and humans having a V3.
+In owl monkeys, DM contains a retinotopic map of both
+the upper and lower quadrants of the contralateral visual
+hemifield, is densely myelinated, and has dense connec￾tions with V1, V2, the middle temporal visual area (MT),
+and part of posterior parietal cortex (Allman and Kaas,
+1975; Wagor et al., 1975; Krubitzer and Kaas, 1990;
+Krubitzer and Kaas, 1993). Subcortical connections in￾clude the superior and inferior divisions of the pulvinar
+complex and the superior colliculus (Norden et al., 1978).
+More recently, several groups of investigators have found
+some of these characteristics of DM in a region of dorsome￾dial extrastriate visual cortex of other primates, suggest￾ing that DM exists in these studied primates as well as in
+owl monkeys. Most notably, a retinotopic map of the
+complete contralateral hemifield in a densely myelinated
+oval of cortex in the expected position of DM has now been
+reported for New World marmosets (Rosa and Schmid,
+1995) and prosimian galagos (Rosa et al., 1997). In addi￾tion, similar connection patterns between V1 and a densely
+myelinated DM-like region of cortex have been used as
+evidence for DM in galagos, marmosets, squirrel monkeys,
+owl monkeys, patas monkeys, and macaque monkeys
+(Krubitzer and Kaas, 1993). Finally, the topographic pat￾Grant sponsor: NEI; Grant number: EY-02686; Grant sponsor: NIMH;
+Grant number: MH-10761.
+*Correspondence to: Jon H. Kaas, Ph.D., Vanderbilt University, Depart￾ment of Psychology, 301 Wilson Hall, 111 21st Avenue South, Nashville, TN
+37240. E-mail: jon.kaas@vanderbilt.edu
+Received 25 November 1997; Revised 4 March 1998; Accepted 10 March
+1998
+THE JOURNAL OF COMPARATIVE NEUROLOGY 396:381–398 (1998)
+r 1998 WILEY-LISS, INC.
+
+PAGE 2
+tern of connections of V2 with a densely myelinated
+DM-like field provides evidence for a retinotopically orga￾nized DM macaques (Stepniewska and Kaas, 1997). Thus,
+there are several lines of evidence that seem to argue
+against the concept of a single, large, strip-like field, V3,
+along most or all of the border of V2 and that favor the
+alternative concept that DM is a basic visual area of
+primates.
+In part of the effort to further resolve the nature of the
+organization of extrastriate cortex in primates, we have
+placed injections of anatomical tracers in the presumptive
+DM region of several primate species, including owl mon￾keys. Here, we describe subcortical connections. The infe￾rior pulvinar complex was of special interest, because
+nuclear subdivisions have been reinterpreted recently on
+the basis of new information on histochemical characteris￾tics (Cusick et al., 1993; Gutierrez et al., 1995; Gutierrez
+and Cusick, 1997; Stepniewska and Kaas, 1997). If the DM
+region has similar connections across primate taxa, then
+this would argue that the same subdivision of visual
+cortex, perhaps DM, has been injected. Different patterns
+of connections would support the possibility that some
+primates have DM, whereas others have V3. Preliminary
+reports of these results (Beck and Kaas, 1996a) and those
+on the cortical connections of DM (Beck and Kaas, 1995,
+1996b) have appeared elsewhere.
+MATERIALS AND METHODS
+Connections of the pulvinar complex and other thalamic
+nuclei with DM were examined by placing one to five
+injections of different neuroanatomical tracers into DM in
+four species of primates. Foci of label were localized within
+thalamic nuclei and in subdivisions of the pulvinar com￾plex that were identified with various histochemical and
+immunocytochemical stains. DM was identified as a densely
+myelinated field just rostral to dorsomedial V2 and by its
+dense myelination.
+Animals
+Three galagos (Galago garnetti), five owl monkeys (Ao￾tus trivirgatus), two squirrel monkeys (Saimiri sciureus),
+and four macaque monkeys (three Macaca nemestrina and
+one Macaca fasicularis) were used in this study. Three of
+the five owl monkey brains with DM injections were
+available from a related study of cortical connections
+(Krubitzer and Kaas, 1993). This range of species includes
+representatives of three major lines of primate evolution.
+Galagos are nocturnal, prosimian primates that represent
+the lorisiform branch of primate evolution. Both owl
+monkeys and squirrel monkeys are New World monkeys,
+but owl monkeys are nocturnal, and squirrel monkeys are
+diurnal. Macaque monkeys are diurnal Old World mon￾keys.
+Surgery and injections
+All surgical procedures were performed under sterile
+conditions in accordance with guidelines from the National
+Institutes of Health (NIH) and the Vanderbilt Animal Care
+Committee. Animals were initially anesthetized with ket￾amine hydrochloride (30 mg/kg) and xylazine (5 mg/kg), or
+with 3% isoflurane gas administered through a face mask.
+When these animals reached a surgical level of anesthesia,
+a dosage of 1.5–2.0% isoflurane was administered through
+an endotracheal tube. Dexamethasone was given pre- and
+postoperatively to prevent cerebral swelling. Heart rate,
+temperature, and respiration were monitored throughout
+surgery, and Ringers’ solution (subcutaneous) and antibiot￾ics (intramuscular) were injected postoperatively.
+After the head was secured in a stereotaxic frame, an
+incision was placed along the midline of the scalp, bone
+was removed, and cortex in the region of dorsomedial
+visual cortex was exposed. Except for macaque monkeys,
+the location of DM was estimated by using distances
+relative to sulci and the midline. Pressure injections
+through a glass micropipette sealed to a 1 µl or 5 µl
+Hamilton syringe (Reno, NV) were placed 0.8–1 mm below
+the cortical surface. In macaque monkeys, a part of the
+prelunate gyrus was aspirated to allow access to the
+caudal branch of the lunate sulcus (see Fig. 1). Injections
+were then placed in the cortex on the caudal, lower bank of
+the lunate sulcus or onto the annectent gyrus ventral to a
+large blood vessel that divides the upper and lower banks
+of the lunate sulcus. Typically, different neuroanatomical
+tracers were placed at several sites within the expected
+location of DM. Injected tracers included wheat germ
+agglutinin conjugated with horseradish peroxidase (WGA￾HRP; 0.02 µl of 2% WGA-HRP in saline), Fast blue (FB;
+0.1–0.2 µl of 2% FB in saline), Fluororuby (FR; 0.1–0.3 µl of
+10% FR in saline). Diamidino yellow (DY; 0.2–0.3 µl of 2%
+DY in dH2O), Fluorescein (FS; 0.2 µl of 2% FS in saline),
+and Fluoroemerald (FE; 0.2 µl of 10% FE in saline).
+After the injections were completed, the exposed cortex
+was covered with dura, a sterile, gas-permeable contact
+lens, and Gelfoam. In addition, a small piece of Gelfoam
+was placed in the lesion created by aspiration in macaque
+monkeys. The craniotomy was covered by a cap of quick￾curing dental cement that was secured to the cranium with
+the same material. The wound was sutured, and anesthe￾sia was discontinued and replaced with oxygen until the
+animal showed signs of recovery. The endotracheal tube
+was then removed, and the animal was allowed to recover
+fully from anesthesia on a warming pad.
+Fig. 1. The location of the dorsomedial visual area (DM) in
+primates. In galagos, owl monkeys, and squirrel monkeys, DM is on
+the dorsolateral surface of cortex. In macaque monkeys, DM is deep
+within the lunate sulcus (thick arrow). A three-dimensional en face
+view of the lunate sulcus is shown on the top right of the macaque
+cortex, and a parasagittal section is shown on the bottom right. V1,
+first visual area; V2, second visual area.
+382 P.D. BECK AND J.H. KAAS
+
+PAGE 3
+Histology
+Following a survival period of 7–14 days, sufficient for
+transport of the tracers, animals were initially anesthe￾tized with ketamine hydrochloride and xylazine and were
+then given a lethal dose of sodium pentobarbital. When
+they were areflexive, animals were perfused with physi￾ological saline, followed by 2% paraformaldehyde in phos￾phate buffer, then 2% paraformaldehyde with 10% sucrose
+in phosphate buffer (0.1M), pH 7.4. The cranium was
+opened, and the brain was removed. Cortex and thalamus
+were separated, and the cortex was processed for a series
+of related studies on cortical connections. The thalamus
+was stored overnight in a solution of 30% sucrose in
+phosphate buffer.
+The following day, the thalamus was cut and processed
+for histology. Sections were cut 50 µm thick in a coronal
+plane on a freezing microtome and reserved in phosphate
+buffer. Every fourth to fifth section was treated for either
+tetramethylbenzidine (TMB; Mesulam, 1978), cytochrome
+oxidase (CO; Wong-Riley, 1979), acetylcholinesterase
+(AChE; Geneser-Jensen and Blackstad, 1971), or calbindin
+(CB; Celio, 1990) or was left unprocessed for fluorescence
+microscopy. Sections were then mounted onto gelatin￾coated glass slides, allowed to dry, and coverslipped.
+Data analysis
+Brain sections were drawn showing locations of labeled
+cells, terminals, and architectonic borders. The locations of
+fluorescent labeling were digitized by using a fluorescent
+microscope equipped with a computer-interfaced X-Y en￾coder and were then printed at a low magnification by
+using the Bioquant image-analysis system (R and M
+Biometrics, Nashville, TN). Label from the WGA-HRP
+injection and borders of thalamic nuclei were recon￾structed at the same magnification by using a drawing
+tube attached to a lightfield/darkfield microscope.
+RESULTS
+In this report, we describe the subcortical projections of
+the visual area DM (or the presumptive DM) in four
+taxonomic groups of primates. The locations and borders of
+DM shown for galagos, owl monkeys, squirrel monkeys,
+and macaque monkeys in Figure 1 were determined in the
+present study from the myeloarchitecture of dorsomedial
+visual cortex studied in brain sections cut parallel to the
+surface of manually flattened cortex. In all of these pri￾mates, DM was defined as a darkly myelinated region
+along the rostral border of V2. The myeloarchitectonic
+borders of DM in owl monkeys, squirrel monkeys, galagos,
+macaques, and other monkeys have also been demon￾strated repeatedly elsewhere (Allman and Kaas, 1975;
+Wagor et al., 1975; Krubitzer and Kaas, 1990, 1993; Rosa
+and Schmid, 1995; Stepniewska and Kaas, 1996). In the
+present cases, the border with V2 was most obvious due to
+the characteristic banding pattern of V2 (Livingstone and
+Hubel, 1982; Stepniewska and Kaas, 1997). The precise
+locations of other borders were less certain, but the general
+extent of DM was clear. Histological documentation on the
+proposed borders of DM will be presented elsewhere with
+our reports on cortical connections. The location of DM in
+the present cases closely corresponds to the region defined
+as DM in previous studies (see Discussion). All injections
+judged to be within DM in the present cases labeled
+neurons in V1 and V2, structures that are known to project
+to DM (Krubitzer and Kaas, 1993; Stepniewska and Kaas,
+1996). Here, we describe the subcortical connections of DM
+with the pulvinar complex, the dorsal lateral geniculate
+nucleus (LGN), the nucleus limitans, and the superior
+colliculus. Other subcortical connections with the thalamic
+reticular nucleus, the claustrum, and the caudate nucleus
+were observed, but they are not described here.
+Galagos
+The subcortical connections were studied after a total of
+eight distinguishable injections or sets of injections into
+DM of three galagos. In one animal, injections of four
+different fluorescent tracers were made into the caudal
+half of DM (Fig. 3). In the second animal, one large
+injection of WGA-HRP was placed in central-medial DM,
+and a smaller and more restricted DY injection was placed
+more caudally (Figs. 4, 5). In the third animal, one large
+injection of FB was placed in central-medial DM, and a
+smaller DY injection was made more caudally (not shown).
+Diffusion from the WGA-HRP injection of the second
+animal (case 95–09) involved cortex rostral to DM, but
+labeled connections were similar to those from injections
+that were completely within DM, so any transport from
+outside DM was minimal.
+Much of the subcortical label was in the pulvinar
+complex, which is not highly differentiated in galagos, but
+the three major divisions that are typical of primates can
+be distinguished (Fig. 2). The inferior pulvinar (PI), which
+is a complex of at least four nuclei in monkeys (Stepniewska
+and Kaas, 1997), is distinguished by its location between
+the LGN and the brachium of the superior colliculus. Clear
+subdivisions of the inferior pulvinar in galagos were not
+apparent in our AChE, CB, and CO preparations, even
+though these preparations allowed four nuclei of the
+inferior pulvinar to be delimited in monkeys (see below).
+The lateral (PL) and medial (PM) divisions of the pulvinar
+were not well differentiated, and they have been commonly
+grouped together as the superior pulvinar in previous
+studies (Symonds and Kaas, 1978; Raczkowski and Dia￾mond, 1981) Yet, a border between the two divisions can be
+approximated in sections processed for CB, because PM is
+somewhat darker (Fig. 2B). In AChE- and CO-stained
+sections, PL can be somewhat darker. In the LGN, as
+others have reported (Casagrande, 1994), the koniocellu￾lar layers are dark in CB preparation and light in CO and
+AChE preparations.
+Most of the subcortically labeled neurons were in the
+lateral and inferior divisions of the pulvinar complex (Figs.
+3, 4). At least caudally, the territory of the medial pulvinar
+did not contain labeled neurons, and it is possible that the
+medial extent of labeled neurons represented the extent of
+the lateral pulvinar, with few or no labeled neurons in the
+medial pulvinar. In both the lateral and inferior pulvinar,
+foci of labeled neurons were scattered and highly overlap￾ping for injections of different tracers placed within 2 mm
+of one another, suggesting an overlap of cortical arbors
+from pulvinar neurons of 1–2 mm. Yet, there was a
+tendency for more rostral injections into DM to label more
+dorsal parts of the lateral pulvinar (see, e.g., Fig. 4, section
+136). In addition, the clustering of labeled neurons medi￾ally and laterally in the lateral pulvinar, especially ros￾trally in case 95–09 (Fig. 4), suggests the possibility of
+SUBCORTICAL CONNECTIONS OF DM 383
+
+PAGE 4
+separate nuclei. Separate nuclei may also exist in the
+inferior pulvinar, but the evidence from connection pat￾terns is not compelling. Anterograde label in the pulvinar
+following the WGA-HRP injection was located in the same
+regions as labeled cells (see Fig. 4).
+Subcortically, moderate densities of labeled neurons
+were located in structures other than the pulvinar com￾plex. Labeled neurons were found in the LGN following
+five of the eight injections into DM and were located in
+parvo-, magno-, and koniocellular layers. Labeled neurons
+in the limitans were dense following six of the eight
+injections (see, e.g., Fig. 3, sections 94–110). Following an
+injection of WGA-HRP, labeled terminals were located in
+the most ventral superficial layer (SO) and in the interme￾diate layer (SGI) of the medial half of the superior collicu￾lus, where the lower visual field is represented. Antero￾grade labeling was also located in the claustrum (not
+shown) and the substantia nigra (Fig. 5).
+Owl monkeys
+Descriptions of subcortical connections in owl monkeys
+are based on a total of seven injections placed in DM of five
+animals, three of which were available from a previous
+study on cortical connections (Krubitzer and Kaas, 1993).
+Results for two of these cases (94–3 and 93–36) are
+illustrated here (Figs. 6, 7). In one animal, a small DY
+injection was placed in caudal-lateral DM, and three
+larger injections of FR, FB, and WGA-HRP were made into
+rostral-medial DM (Fig. 6). In a second animal, a large
+WGA-HRP injection was placed in central-rostral DM and
+also involved cortex rostral to DM in the ventral posterior
+parietal area (Fig. 7). One large injection of WGA-HRP,
+placed centrally in dorsal DM, was placed in each of three
+additional owl monkeys.
+Subdivisions of the pulvinar in owl monkeys could be
+distinguished on the basis of staining for CB, CO, and
+AChE. The lateral pulvinar could be distinguished as a
+large nucleus above the brachium of the superior colliculus
+that stained somewhat darker than the medial division in
+CB preparations. Subdivisions of the inferior pulvinar
+were highly differentiated and were most obvious in
+sections stained for CB (for owl monkeys, see Stepniewska
+and Kaas, 1997; for squirrel and macaque monkeys, see
+Fig. 8). A moderately stained PICL was located most
+laterally, and, more medially, PICM stained darkly for CB,
+which contrasted with the light staining in PIM. Posterior￾medial PIP showed moderate-to-dense staining for CB.
+Divisions were also apparent in CO and AChE prepara￾tions (see Stepniewska and Kaas, 1997). The inferior
+pulvinar sometimes extended slightly dorsal to the bra￾chium of the superior colliculus, as reported by others
+(Stepniewska and Kaas, 1997).
+Most of the labeled neurons were in the lateral and
+inferior divisions of the pulvinar complex. In PL, labeled
+neurons extended to the border with PM, but no labeled
+neurons were found in PM. In the inferior pulvinar, the
+densest label was within PICL and PICM. Seven injections
+that were confined to DM produced labeled neurons rarely
+in PIM and never in PIP (see, e.g., Fig. 6). The one injection
+that involved ventral posterior parietal cortex (VPP) la￾beled many neurons in PIM and PIP as well as in PICL and
+PICM (Fig. 7). Overall, labeled neurons were scattered over
+a wide extent of PL, PICL, and PICM, and labeled neurons
+from different injections were highly overlapping. How￾ever, labeled neurons from the caudolateral injection shown
+in Figure 6 were located medially in caudal PL and
+laterally in rostral PL compared with label from the more
+rostromedial injections. Separate clusters of labeled neu￾Fig. 2. A–C: Architecture of the pulvinar in galagos. Lateral
+pulvinar (PL), medial pulvinar (PM), and inferior pulvinar (PI) could
+not be distinguished reliably on the basis of architecture alone, but, in
+some sections, PM stained darker for calbindin (B). The locations of
+PM and PL were estimated from locations reported by Symonds and
+Kaas (1978), and PL always had large fiber bundles coursing laterally.
+PI was identified as the region under the brachium of the superior
+colliculus. AChE, acetylcholinesterase; CB, calbindin; CO, cytochrome
+oxidase.
+384 P.D. BECK AND J.H. KAAS
+
+PAGE 5
+rons in PL suggested the possibility of at least two
+separate nuclei.
+Although most of the subcortically labeled neurons were
+located in the pulvinar complex, other structures con￾tained a few labeled neurons as well. The LGN contained a
+few labeled cells in the internal and external magnocellu￾lar layers following two of the eight injections. Labeled
+neurons and terminals were located in the limitans follow￾ing one injection and in the claustrum following two injections.
+The injection of WGA-HRP into DM and VPP produced a few
+Fig. 3. Label from injections of four tracers in galago case 95–34. The location of the injection sites is
+shown in the box on the right. Section numbers are indicated in the upper right of each section, with the lower
+number corresponding to more caudal sections. LGN, lateral geniculate nucleus; Lim, limitans; MD, medial
+dorsal nucleus; MGN, medial geniculate nucleus; SC, superior colliculus; VP, ventroposterior nucleus.
+SUBCORTICAL CONNECTIONS OF DM 385
+
+PAGE 6
+labeled neurons that were located in the ventroposterior
+nucleus proper and in the inferior division of the ventroposte￾rior nucleus (sections not shown in Fig. 7). These neurons most
+likely were labeled by the involvement of VPP.
+Squirrel monkeys
+Subcortical connections in squirrel monkeys were evalu￾ated following eight injections into DM of two animals, one
+of which had injections of FR and DY placed caudally and
+FB and FS placed rostrally in central DM (Fig. 9). In the
+second squirrel monkey, a small DY injection was placed
+caudally, a large FB injection was placed centrally, and a
+small FS injection and two small FR injections were placed
+rostrally in DM (Fig. 10).
+Many of the labeled neurons were located in the pulvi￾nar, which can be divided into at least six subnuclei by
+using CO, AChE, and especially CB preparations
+(Stepniewska and Kaas, 1997). Briefly, PL was darker
+than PM in CB and AChE preparations but lighter in CO
+preparations (Fig. 8A–C). The inferior pulvinar had four
+highly differentiated nuclei, with PICL staining moderately
+in each preparation, PICM staining intensely for CB, PIM
+Fig. 4. Label from two injections in galago case 95–09. Retrograde label from the wheat germ
+agglutinin conjugated to horseradish peroxidase (WGA-HRP) injection is shown with gray circles, and
+anterograde is shown with stippling. Retrograde label from the Diamidino yellow (DY) injection is
+indicated by crosses. For other conventions, see Figure 3.
+386 P.D. BECK AND J.H. KAAS
+
+PAGE 7
+staining very lightly for CB and containing dark CO and
+AChE patches, and PIP staining moderately dark to dark
+in each preparation.
+Subcortically labeled neurons in the pulvinar were
+located in the lateral and inferior divisions, and no labeled
+neurons were found in the medial pulvinar. In the lateral
+pulvinar, labeled neurons were located in a dorsal-to￾ventral band that was confined to the lateral half of PL
+(see, e.g., Fig. 9, section 88; Fig. 10, section 92). More
+rostrally, labeled neurons were scattered over a wider
+mediolateral extent, suggesting possible lateral and me￾dial subdivisions of PL. Despite the separation of injec￾tions into caudal and rostral halves of DM, the territories
+of labeled neurons from different injections overlapped,
+suggesting thalamocortical projections that diverge up to 4
+mm. In the inferior pulvinar, much of the label was in PICL
+and PICM, and distributions of labeled neurons from the
+caudal injections were centered dorsal to those from the
+more rostral injections. In addition, neurons labeled from
+the rostral injections were located caudal to neurons
+Fig. 5. Anterograde label in the superior colliculus (SC), substan￾tia nigra (SN), and pons in galago case 95–09 following a large
+injection of wheat germ agglutinin conjugated to horseradish peroxi￾dase (WGA-HRP). For conventions, see Figure 3. Layers of the SC
+include the stratum griseum superficiale (SGS), the stratum opticum
+(SO), the stratum griseum intermediale (SGI), and the stratum
+griseum protundum (SGP).
+SUBCORTICAL CONNECTIONS OF DM 387
+
+PAGE 8
+labeled from caudal injections. This topological distribu￾tion is most obvious in the DY and FB label in sections 96
+and 100 of Figure 9. A few labeled neurons were found in
+PIM and PIP.
+A few labeled neurons were found in structures other
+than the pulvinar complex. In each animal, two of the four
+injections produced labeled neurons in the LGN (Fig. 9,
+sections 100 and 108; Fig. 10, sections 97 and 102). These
+cells tended to be large neurons and were located in the
+magnocellular layers. A few smaller neurons were located
+in the interlaminar zone between the external magnocellu￾lar layer and the inferior pulvinar. Labeled neurons from
+two of the injections in one animal were located in the
+nucleus limitans (Fig. 9, section 112), with label from the
+most caudal injection positioned dorsal to label from the
+rostral injection.
+Fig. 6. Four injections and resulting label in owl monkey case 94–3. The locations of the injection sites
+are shown on the bottom right. The central lateral (PICL), central medial (PICM), and medial (PIM) divisions
+of the inferior pulvinar are indicated. VPP, ventral posterior parietal cortex. For other conventions, see
+Figure 3.
+388 P.D. BECK AND J.H. KAAS
+
+PAGE 9
+Macaque monkeys
+Subcortical connections in macaque monkeys were deter￾mined from a total of 12 injections in four animals. Results
+from two of these cases are illustrated here, one with five
+injections of fluorescent tracers and WGA-HRP placed
+caudally in central DM (Fig. 11) and one with injections of
+DY in the central-medial part, FR in the central-rostral
+part, and FB midway between the other two (Fig. 12).
+Photomicrographs of PI neurons and terminals labeled
+from a WGA-HRP injection and thalamic architecture in a
+third animal are shown in Figure 13. Three injections of
+fluorescent tracers were placed centrally in DM in the
+fourth macaque monkey (not shown).
+Divisions of the pulvinar complex were well differenti￾ated and easily distinguishable in CB, CO, and AChE
+preparations (Fig. 8D–F; see also Stepniewska and Kaas,
+1997). Briefly, architectonic subdivisions of the pulvinar
+Fig. 7. One injection of wheat germ agglutinin conjugated to horseradish peroxidase (WGA-HRP) and
+resulting retrograde and anterograde label in owl monkey case 93–36. PIP, posterior divisions of the
+inferior pulvinar. For other conventions, see Figure 6.
+SUBCORTICAL CONNECTIONS OF DM 389
+
+PAGE 10
+complex were similar in appearance to those in squirrel
+monkeys and were distinguished most easily in CB prepa￾rations. PICM was identified easily by intense staining for
+CB, and PIM was identified easily by very light staining for
+CB (Fig. 13B).
+Much of the subcortical label was located in the lateral
+and inferior nuclei of the pulvinar complex. Labeled neu￾rons in PL were widely scattered but formed two clusters
+in each case. A lateral cluster extended dorsoventrally in
+PL (see Fig. 11, section 67; Fig. 12, section 108), whereas a
+second cluster was located medially near the border with
+PM (see Fig. 11, section 87; Fig. 12, section 116). In three of
+the animals, neurons labeled from the separate injections
+overlapped in PL, so that the locations of labeled neurons
+were not distinctly different for different injections sites.
+Overlap in the distributions of labeled neurons from
+injections up to 2 mm apart suggested a divergent projec￾tion from PL to DM, with thalamocortical axons invading
+at least 2 mm of cortical territory. When the injections
+extended across 6.5 mm of cortex (Fig. 12), the locations of
+labeled neurons in PL differed more clearly with the
+location of the injection into DM. A topological order of
+connections was most apparent in the more caudal sec￾tions (Fig. 12, sections 100–112), in which the labeled
+Fig. 8. Architecture of the pulvinar in squirrel monkeys (A–C) and
+macaque monkeys (D–F). Divisions based on calbindin (CB; A,D),
+cytochrome oxydase (CO; B,E), and acetylcholinesterase (AChE; C,F)
+were more apparent in squirrel monkeys than in owl monkeys or
+galagos. Medial pulvinar (PM) is apparent in AChE preparations, in
+which it stains lighter than adjacent lateral pulvinar (PL). PL
+contained large fiber bundles, and, in CO and AChE preparations, the
+lateral portion stained darker than the medial portion. Four divisions
+of the inferior pulvinar were apparent with all three stains. In CB
+sections, PICM was the most intensely staining division, PIP and PICL
+stained moderately, and PIM was characterized by very light staining.
+In CO sections, PIM was the darkest division, PICM stained the lightest,
+and PIP and PICL stained moderately. In AChE sections, PICL stained
+moderately to darkly, PIM and PIP stained moderately, PICM was the
+lightest subdivision, and the lateral half was slightly darker than the
+medial half. In AChE and CO preparations, PICM and PIM contained
+dark-staining patches.
+390 P.D. BECK AND J.H. KAAS
+
+PAGE 11
+neurons from the medial DY injection were positioned
+lateral and ventral to the labeled neurons from the lateral
+FR injection. Most of the labeled neurons in the inferior
+pulvinar were located in PICL and PICM, but three injec￾tions in two animals also produced a few labeled neurons
+in PIM. No labeled neurons were found in PIP. In Figure
+12, the two injections that produced labeled neurons in PIM
+were the most rostral injections; thus, the label in PIM
+could be due to the injections involving cortex rostral to
+DM. However, an injection well within the borders of DM
+in a separate case also produced label in PIM, and DM
+injections in other species sometimes labeled neurons in
+PIM. Thus, the PIM label in Figure 12 likely reflects
+connections with DM and not surrounding cortical areas.
+Labeled neurons in the inferior pulvinar from different
+injections were largely overlapping, but label from the FR
+injection placed more rostral in DM tended to be located
+lateral to the other label in PICL and caudal in PICM (see,
+Fig. 9. Four injections and resulting label in squirrel monkey case 94–71. Cd, caudate nucleus. For
+conventions, see Figure 6.
+SUBCORTICAL CONNECTIONS OF DM 391
+
+PAGE 12
+Fig. 12, sections 112–124). Anterogradely labeled termi￾nals were coextensive with labeled neurons in PL, PICL,
+and PICM following a WGA-HRP injection (not shown).
+A few labeled neurons were found subcortically in struc￾tures other than the pulvinar complex. Following 5 of the
+11 injections, labeled neurons were found in the magnocel￾lular layers of the LGN. Three of these injections produced
+label in the internal magnocellular layer, and two pro￾duced label in the external layer. Labeled neurons were
+found in the limitans nucleus after only one of the injec￾tions (Fig. 12, section 136). Labeled terminals from the
+WGA-HRP injection were found in the ventral superficial
+layers (SO) and the intermediate layer (SGI) of the supe￾rior colliculus. Dense patches of labeled terminals were
+found in the claustrum.
+DISCUSSION
+The major finding of the present study is that the region
+of extrastriate visual cortex that we define by location and
+myeloarchitecture as DM has similar subcortical connec￾tions in prosimian galagos, New World owl and squirrel
+Fig. 10. Injections of four tracers and resulting label in squirrel monkey case 95–01. For conventions,
+see Figure 6.
+392 P.D. BECK AND J.H. KAAS
+
+PAGE 13
+monkeys, and Old World macaque monkeys. In these
+primates, the presumptive DM interconnects strongly
+with lateral and inferior divisions of the pulvinar but not
+with the medial division. Fewer connections were with the
+LGN, the limitans nucleus, the reticular nucleus, and the
+claustrum.
+In monkeys, in which the application of several histo￾chemical procedures helped to reveal nuclei of the inferior
+pulvinar, further similarities in connections were ob￾served. In owl monkeys, the inferior pulvinar was de￾scribed initially with posterior (IPp), medial (IPm), and
+central (IPc) nuclei (Lin and Kaas, 1979, 1980) on the
+bases of differences in myeloarchitecture and connections
+with visual cortex and the superior colliculus. More re￾cently, it has become obvious that IPc in monkeys contains
+two quite different histochemical regions (Cusick et al.,
+1993; Gutierrez et al., 1995; Stepniewska and Kaas, 1997).
+The smaller medial part or nucleus, which we call PICM
+after Stepniewska and Kaas (1997), stains intensely for
+CB, whereas the lateral division, PICL, stains moderately
+Fig. 11. Injections of five tracers and resulting label in macaque monkey case 95–74. tct, Tractus
+corticotectalis. For conventions, see Figure 6.
+SUBCORTICAL CONNECTIONS OF DM 393
+
+PAGE 14
+for CB, CO, and AChE. Although there is agreement about
+the validity of these two newly defined subdivisions of the
+inferior pulvinar, there are differences in interpretation
+over their full extents, and somewhat different terminolo￾gies have been used (Cusick et al., 1993; Gutierrez et al.,
+1995; Gutierrez and Cusick, 1997; Stepniewska and Kaas,
+1997). Our use of histochemical procedures to subdivide
+the inferior pulvinar allowed us to compare the pulvinar
+connections of DM in more detail across primate species
+(Fig. 14). In all studied groups of monkeys, PICM and PICL
+had dense connections with DM, but connections with PIM
+and PIP were sparse or absent. Similar patterns could exist
+in galagos, in which separate clumps of labeled neurons in
+the inferior pulvinar were observed, but the histochemical
+procedures did not reveal subdivisions of the inferior
+pulvinar. In the lateral pulvinar, connections were also
+dense in all primates after DM injections, and the impor￾tant finding here was that separate foci of label were
+Fig. 12. Illustrations of three injections and resulting label in macaque monkey case 96–09. For
+conventions, see Figure 3.
+394 P.D. BECK AND J.H. KAAS
+
+PAGE 15
+suggestive of two nuclei within the lateral pulvinar, a
+possibility that has other support (for review, see Kaas and
+Huerta, 1988).
+Our observations on pulvinar connections are consistent
+with the hypothesis that a homologous visual area exists
+along the dorsomedial rostral border of V2 in all of these
+primates. There is additional evidence from microelec￾trode mapping studies (Krubitzer and Kaas, 1993; Rosa
+and Schmid, 1995; Rosa et al., 1997) and studies of
+topographic patterns of cortical connections (Krubitzer
+and Kaas, 1990, 1993; Beck and Kaas, 1995, 1996a;
+Stepniewska and Kaas, 1997) that the moderately myelin￾ated wedge of cortex we define as DM contains a system￾atic representation of both upper and lower quadrants of
+the contralateral field and has inputs from both V1 and V2
+in prosimians, New World monkeys, and Old World mon￾keys, as described originally for DM of owl monkeys
+(Allman and Kaas, 1975; Wagor et al., 1975; Lin and Kaas,
+1979, 1980). Together, these results argue for a consistent
+organization of extrastriate visual cortex in the region of
+DM across primate taxa. More importantly, the findings
+are more compatible with the concept of a single, complete
+visual area, DM, than the proposed alternative that the
+region consists of a dorsal V3 plus part or all of an
+adjoining V3A (for reviews of current theories, see Kaas
+1996, 1997).
+Although the results are compatible with the proposal
+that DM exists in a range of primate species, we do not
+know how distinct the pattern of pulvinar connections of
+the DM region is from those of other visual areas. Because
+adjoining visual areas tend to have similar cortical connec￾tions (Young et al., 1995), similar pulvinar connections are
+also expected for adjoining and nearby visual areas. Both
+the inferior and lateral pulvinar have been shown to be
+connected with a number of visual areas in owl monkeys
+(Graham et al., 1979), squirrel monkeys (Cusick et al.,
+1993), marmosets (Dick et al., 1991), and macaque mon￾keys (Boussaoud et al., 1992). However, clear differences in
+pulvinar connections have been reported for different
+cortical areas. For example, we have long known that PIm
+is densely interconnected with MT, whereas PIc (PICM and
+PICL in the present study) is densely interconnected with
+cortex caudal to MT (Lin and Kaas, 1979, 1980). Given the
+existence of newly discovered subdivisions of the inferior
+pulvinar complex, further study could reveal further differ￾ences in connection patterns. However, we expect that
+adjacent areas in the same processing stream (Ungerleider
+and Mishkin, 1982) will have similar pulvinar connections
+and that areas at different levels of processing and in
+different streams will differ more in thalamic connections.
+DM seems to have mixed dorsal and ventral stream
+cortical inputs, but its major outputs to posterior parietal
+cortex identify DM more strongly with the dorsal stream.
+However, DM has quite different inferior pulvinar connec￾tions than MT. Whereas MT has dense IPm inputs (Lin
+and Kaas, 1980; Wall et al., 1982; Maunsell and Van Essen,
+1983; Standage and Benevento, 1983; Ungerleider et al.,
+1984; Dick et al., 1991; Cusick et al., 1993), DM injections
+labeled very few neurons in PIM. Instead, both V2 and
+caudal DL (V4) appear to have dense connections with
+PICM and PICL in common with DM (Lin and Kaas, 1979;
+Cusick et al., 1993; Stepniewska and Kaas, 1995).
+Another important finding of the present study was the
+clear evidence that small numbers of neurons in the LGN
+of all studied primates project to DM. The LGN of cats has
+Fig. 13. The location of neurons and terminals labeled with a
+wheat germ agglutinin conjugated to horseradish peroxidase (WGA￾HRP) injection into dorsomedial visual area (DM) relative to chemoar￾chitectonic divisions of the inferior pulvinar in macaque monkey
+94–81. Labeled cells and terminals are located in PICL and PICM (A).
+Arrows indicate blood vessels that are present in adjoining sections
+stained for tetramethylbenzidine (TMB; A) calbindin (CB; B), acetyl￾cholinesterase (AChE; C), or cytochrome oxidase (CO; D). Lines
+indicate borders of PICL, PICM, and PIM.
+SUBCORTICAL CONNECTIONS OF DM 395
+
+PAGE 16
+long been known to project widely to extrastriate cortex
+(for review, see Stone, 1983), but the severe retrograde
+degeneration and loss of neurons in the LGN after V1
+lesions in primates (Weller et al., 1984) and the early use of
+less sensitive tracers (Wilson and Cragg, 1967; Garey and
+Powell, 1971; Hendrickson et al., 1978) led to the early
+assumption that LGN neurons project exclusively to V1.
+However, sensitive retrograde transport methods subse￾quently revealed that a few LGN neurons in monkeys do
+project to extrastriate cortex (Wong-Riley, 1976; Yukie and
+Iwai, 1981). However, it is not yet certain how many
+extrastriate areas receive LGN projections or whether this
+extrastriate projection pattern is species variable. In ma￾caque monkeys, LGN neurons have been shown to project
+to V2 (Bullier and Kennedy, 1983; Stepniewska and Kaas,
+1995), V4 (Lysakowski et al., 1988; Cowey and Stoerig,
+1989), and even inferotemporal cortex (Hernandez-Gonza￾lez et al., 1994). These projecting neurons are always few
+in number, and they vary in laminar location. Yet, they
+could be important in mediating aspects of vision in
+extrastriate cortex after lesions of V1 (Cowey and Stoerig,
+1989). The present results demonstrate that DM receives
+some direct LGN input in prosimians, New World mon￾keys, and Old World monkeys, demonstrating a type of
+phylogenetic consistency across these primates. The ten￾dency for this projection to originate from neurons in the
+magnocellular layers, especially in monkeys, is consistent
+with the premise that DM is more involved in the dorsal
+stream than in the ventral stream of processing.
+The present results also revealed that DM has connec￾tions with the limitans nucleus, the claustrum, and the
+superior colliculus. Such connections have been described
+before for extrastriate visual areas in primates (Spatz and
+Tigges, 1973; Spatz, 1975; Norden et al., 1978; Riche and
+Lanoir, 1978; Graham et al., 1979; Raczkowski and Dia￾mond, 1980; Tigges and Tigges, 1981; Tigges et al., 1982;
+Wall et al., 1982; Fries, 1984; Boussaoud et al., 1992), and
+such connections may exist for all or most visual areas. In
+general, more caudal visual areas project more superfi￾cially in the superior colliculus than more rostral visual
+areas (Graham et al., 1979; for review, see Kaas and
+Huerta, 1988), and DM terminations were in the middle of
+this termination range across these primates, as described
+previously for owl monkeys (Graham et al., 1979). Here,
+for the first time, we describe projections from DM to the
+intermediate layers in addition to the superficial layers of
+the superior colliculus. MT has also been reported as
+projecting to the superficial and intermediate layers in
+marmosets (Spatz, 1975). These results place DM with MT
+as intermediate to caudal areas (e.g., areas 17 and 18) that
+Fig. 14. Summary of subcortical connections with the dorsomedial
+visual area. In prosimian galagos, subdivisions of the pulvinar are not
+obvious in architectural stains, and evidence from connections did not
+delimit divisions of the inferior pulvinar. Labeled neurons located
+medially may have been located in medial pulvinar (PM) or lateral
+pulvinar (PL), but architecture was not well differentiated, and
+borders were unclear. In galagos and monkeys, dense connections are
+shown with thick arrows, and sparse connections are shown with thin
+arrows. Reciprocal connections are shown with double arrowheads,
+and projections that are not reciprocal are shown with a single
+arrowhead. The location of arrows in DM has no significance and does
+not indicate a topographic pattern of thalamic connections.
+396 P.D. BECK AND J.H. KAAS
+
+PAGE 17
+project only to superficial layers (Graham et al., 1979;
+Tigges and Tigges, 1981; Wall et al., 1982; Fries, 1984) and
+rostral areas (e.g., VPP, inferotemporal cortex and the
+frontal eye field) that project to intermediate and deep
+layers of the superior colliculus (Kunzle et al., 1976;
+Kunzle, 1977; Fries, 1984).
+ACKNOWLEDGMENTS
+We thank S. Florence, T. Hackett, D. Lyon, I.
+Stepniewska, and H. Taub for helpful comments on the
+paper, C. Wu and H. Taub for assistance with surgeries,
+and J. Ives and L. Trice for assistance with histology. This
+work was supported by NEI grant EY-02686 to J.H.K. and
+NIMH grant MH-10761 to P.D.B.
+LITERATURE CITED
+Allman, J.M. and J.H. Kaas (1975) The dorsomedial cortical visual area: A
+third tier area in the occipital lobe of the owl monkey (Aotus trivirga￾tus). Brain Res. 100:473–487.
+Beck, P.D. and J.H. Kaas (1995) Evidence for the presence of the dorsome￾dial visual area (DM) in five primate species. Soc. Neurosci. Abstr.
+21:1275.
+Beck, P.D and J.H. Kaas (1996a) Cortical connections of the dorsomedial
+visual area in macaque monkeys. Eur. J. Neurosci. 9(Suppl.):108.
+Beck, P.D. and J.H. Kaas (1996b) Subcortical connections with the dorsome￾dial visual cortical area (DM) in prosimian, New World, and Old World
+primates. Soc. Neurosci. Abstr. 22:1817.
+Boussaoud, D., R. Desimone, and L.G. Ungerleider (1992) Subcortical
+connections of visual areas MST and FST in macaques. Visual Neurosci.
+9:291–302.
+Bullier, J. and H. Kennedy (1983) Projection of the lateral geniculate
+nucleus onto cortical area V2 in the macaque monkey. Exp. Brain Res.
+53:168–172.
+Burkhalter, A., D.J. Felleman, W.T. Newsome, and D.C. VanEssen (1986)
+Anatomical and physiological asymmetries related to visual areas V3
+and VP in macaque extrastriate cortex. Vision Res. 26:63–80.
+Casagrande, V.A. (1994) A third parallel visual pathway to primate area V1.
+TINS 17:305–310.
+Celio, M.R. (1990) Calbindin D23K and parvalbumin in the rat nervous
+system. Neuroscience 35:375–475.
+Cowey, A. and P. Stoerig (1989) Projection patterns of surviving neurons in
+the dorsal lateral geniculate nucleus following discrete lesions of striate
+cortex: Implications for residual vision. Exp. Brain Res. 75:631–638.
+Cragg, B.G. (1969) The topography of the afferent projections in the
+circumstriate visual cortex of the monkey studied by the Nauta method.
+Vision Res. 9:733–747.
+Cusick, C.G., J.L. Scripter, J.G. Darensbourg, and J.T. Weber (1993)
+Chemoarchitectonic subdivisions of the visual pulvinar in monkeys and
+their connectional relations with the middle temporal and rostral
+dorsolateral visual areas, MT and DLr. J. Comp. Neurol. 336:1–30.
+Dick, A., A. Kaske, and O.D. Creutzfeldt (1991) Topographical and topologi￾cal organization of the thalamocortical projection to the striate and
+prestriate cortex in the marmoset (Callithrix jacchus). Exp. Brain Res.
+84:233–253.
+Fries, W. (1984) Cortical projections to the superior colliculus in the
+macaque monkey: A retrograde study using horseradish peroxidase. J.
+Comp. Neurol. 230:55–76.
+Garey, L.J. and T.P.S. Powell (1971) An experimental study of the termina￾tion of the lateral geniculo-cortical pathway in the cat and monkey.
+Proc. R. Soc. London 179:41–63.
+Gattass, R., A.P.B. Sousa, and C.G. Gross (1988) Visuotopic organization
+and extent of V3 and V4 of the macaque. J. Neurosci. 8:1831–1845.
+Geneser-Jensen, F.A. and T.W. Blackstad (1971) Distribution of acetylcho￾linesterase in the hippocampal region of the guinea pig. I. Entorhinal
+areas, parasubiculum, and presubiculum. Z. Zellfors. Mikrosk. Anat.
+114:460–481.
+Graham, J., C.S. Lin, and J.H. Kaas (1979) Subcortical projections of six
+visual cortical areas in the owl monkey, Aotus trivirgatus. J. Comp.
+Neurol. 187:557.
+Gutierrez, C. and C.G. Cusick (1997) Area V1 in macaque monkeys projects
+to multiple histochemically defined subdivisions of the inferior pulvinar
+complex. Brain Res. 765:349–356.
+Gutierrez, C., A. Yaun, and C.G. Cusick (1995) Neurochemical subdivisions
+of the inferior pulvinar in macaque monkeys. J. Comp. Neurol. 363:545–
+562.
+Hendrickson, A.E., J.R. Wilson, and M.P. Ogren (1978) The neuroanatomi￾cal organization of pathways between the dorsal lateral geniculate
+nucleus and visual cortex in Old World and New World primates. J.
+Comp. Neurol. 182:123–136.
+Hernandez-Gonzalez, A., C. Cavada, and F. Reinsos-Suarez (1994) The
+lateral geniculate nucleus projects to the inferior temporal cortex in the
+macaque monkey. Neuroreport 5:2693–2696.
+Kaas, J.H. (1996) Theories of visual cortex organization in primates: Areas
+of the third level. In M. Norita, T. Bando, and B. Stein (eds): Extrastri￾ate Mechanisms Underlying Visually-Guided Orientation Behavior.
+Prog. Brain Res. 112:213–221.
+Kaas, J.H. (1997) Theories of visual cortex organization in primates. In J.H.
+Kaas, K.S. Rockland, and A. Peters (eds): Cerebral Cortex. New York:
+Plenum, pp. 91–125.
+Kaas, J.H. and M.F. Huerta (1988) Subcortical visual system of primates. In
+H.P. Steklis (ed): Comparative Primate Biology. New York: Alan R. Liss,
+Inc., pp. 327–391.
+Krubitzer, L.A. and J.H. Kaas (1990) Convergence of processing channels in
+extrastriate cortex of monkeys. Vis. Neurosci. 5:609–613.
+Krubitzer, L.A. and J.H. Kaas (1993) The dorsomedial visual area of owl
+monkeys: Connections, myeloarchitecture, and homologies in other
+primates. J. Comp. Neurol. 334:497–528.
+Kunzle, H. (1977) Efferent connections of cortical area 8 (frontal eye field) in
+Macaca fascicularis. J. Comp. Neurol. 173:147.
+Kunzle, H., K. Akert, and R.H. Wurtz (1976) Projection of area 8 (frontal eye
+field) to superior colliculus in the monkey. An autoradiographic study.
+Brain Res. 117:487.
+Lin, C.S. and J.H. Kaas (1979) The inferior pulvinar complex in owl
+monkeys: Architectonic subdivisions and patterns of input from the
+superior colliculus and subdivisions of visual cortex. J. Comp. Neurol.
+187:655–678.
+Lin, C.S. and J.H. Kaas (1980) Projections from the medial nucleus of the
+inferior pulvinar complex to the middle temporal area of the visual
+cortex. Neuroscience 5:2219–2228.
+Livingstone, M.S. and D.H. Hubel (1982) Thalamic inputs to cytochrome
+oxidase-rich regions in monkey visual cortex. Proc. Natl. Acad. Sci. USA
+79:6098–6101.
+Lysakowski, A., G.P. Standage, and L.A. Benevento (1988) An investigation
+of collateral projections of the dorsal lateral geniculate nucleus and
+other subcortical structures to cortical areas V1 and V4 in the macaque
+monkey: A double label retrograde tracer study. Exp. Brain Res.
+69:651–661.
+Maunsell, J.H.R. and D.C. Van Essen (1983) The connections of the middle
+temporal visual area (MT) and their relationship to a cortical hierarchy
+in the macaque monkey. J. Neurosci. 3:2563–2586.
+Mesulam, M.-M. (1978) Tetramethyl benzidine for horseradish peroxidase
+neurohistochemistry: A non-carcinogenic blue reaction product with
+superior sensitivity for visualizing neural afferents and efferents.
+Cytochem 26:106–117.
+Norden, J.J., C.S. Lin, and J.H. Kaas (1978) Subcortical projections of the
+dorsomedial visual area (DM) of visual association cortex in the owl
+monkey, Aotus trivirgatus. Exp. Brain Res. 32:321–334.
+Raczkowski, D. and I.T. Diamond (1980) Cortical connections of the
+pulvinar nucleus in Galago. J. Comp. Neurol. 193:1–40.
+Raczkowski, D. and I.T. Diamond (1981) Projections from the superior
+colliculus and the neocortex to the pulvinar nucleus in Galago. J. Comp.
+Neurol. 200:231–254.
+Riche, D. and J. Lanoir (1978) Some claustro-cortical connections in the cat
+and baboon as studied by retrograde horseradish peroxidase transport.
+J. Comp. Neurol. 177:435–444.
+Rosa, M.G.P. and L.M. Schmid (1995) Visual areas in the dorsal and medial
+extrastriate cortices of the marmoset. J. Comp. Neurol. 359:272–299.
+Rosa, M.G.P., V.A. Casagrande, T. Preuss, and J.H. Kaas (1997) Visual field
+representation in striate and prestriate cortices of a prosimian primate
+(Galago garnetti). J. Neurophysiol. 47:3193–3217.
+Sereno, M.I., A.M. Dale, J.B. Reppas, K.K. Kwong, J.W. Belliveau, T.J.
+Brady, B.R. Rosen, and R.B.H. Tootell (1995) Borders of multiple visual
+areas in humans revealed by functional magnetic resonance imaging.
+Science 268:889–893.
+SUBCORTICAL CONNECTIONS OF DM 397
+
+PAGE 18
+Shipp, S., J.O.G. Watson, R.S.N. Frackowiak, and S. Zeki (1995) Retino￾topic maps in human prestriate visual cortex: The demarcation of areas
+V2 and V3. Neuroimage 2:125–132.
+Spatz, W.B. (1975) Thalamic and other subcortical projections to area MT
+(visual area of superior temporal sulcus) in the marmoset Callithrix
+jacchus. Brain Res. 99:129–134.
+Spatz, W.B. and J. Tigges (1973) Studies on the visual area MT in primates.
+II. Projection fibers to subcortical structures. Brain Res 61:374–378.
+Standage, G.P. and L.A. Benevento (1983) The organization of connections
+between the pulvinar and visual area MT in the macaque monkey.
+Brain Res 262:288–294.
+Stepniewska, I. and J.H. Kaas (1995) Visuotopic organization of projections
+from the pulvinar complex to prestriate cortex (V2) in macaque
+monkeys. Acta Neurolbiol. Exp. 55(Suppl.):62.
+Stepniewska, I. and J.H. Kaas (1996) Topographic patterns of V2 cortical
+connections in macaque monkeys. J. Comp. Neurol. 371:129–152.
+Stepniewska, I. and J.H. Kaas (1997) Architectonic subdivisions of the
+inferior pulvinar in New World and Old World monkeys. Vis. Neurosci.
+14:1043–1060.
+Stone, J. (1983) Parallel Processing in the Visual System. New York:
+Plenum Press.
+Symonds, L.L. and J.H. Kaas (1978) Connections of striate cortex in the
+prosimian, Galago senegalensis. J. Comp. Neurol. 181:477–512.
+Tigges, J. and M. Tigges (1981) Distribution of retinofugal and corticofugal
+axon terminals in the superior colliculus of squirrel monkey. Invest.
+Ophthalmol. Vis. Sci. 20:149–158.
+Tigges, J., M. Tigges, N.A. Cross, R.L. McBride, W.D. Letbetter, and S.
+Anchel (1982) Subcortical structures projecting to visual cortical areas
+in squirrel monkey. J. Comp. Neurol. 209:29–40.
+Ungerleider, L.G. and M. Mishkin (1982) Two cortical visual systems (1). In
+D.G. Ingle, M.A. Goodale, and R.J.Q. Mansfield (eds): Analysis of Visual
+Behavior. Cambridge, MA: MIT Press, pp. 549–586.
+Ungerleider, L.G., R. Desimone, T.W. Galkin, and M. Mishkin (1984)
+Subcortical projections of area MT in the macaque. J. Comp. Neurol.
+223:368–386.
+Wagor, E., C.S. Lin, and J.H. Kaas (1975) Some cortical projections of the
+dorsomedial visual area (DM) of association cortex in the owl monkey,
+Aotus trivirgatus. J. Comp. Neurol. 163:227–250.
+Wall, J.T., L.L. Symonds, and J.H. Kaas (1982) Cortical and subcortical
+projections of the middle temporal area (MT) and adjacent cortex in
+galagos. J. Comp. Neurol 211:193–214.
+Weller, R.E., J.T. Wall, and J.H. Kaas (1984) Cortical connections of the
+middle temporal visual area (MT) and the superior temporal cortex in
+owl monkeys. J. Comp. Neurol. 228:81–104.
+Wilson, M.E. and B.G. Cragg (1967) Projections from the lateral geniculate
+nucleus in the cat and monkey. J. Anat. 101:677–692.
+Wong-Riley, M.T.T. (1976) Projections from the dorsal lateral geniculate
+nucleus to prestriate cortex in the squirrel monkey as demonstrated by
+retrograde transport of horseradish peroxidase. Brain Res. 109:595–
+600.
+Wong-Riley, M.T.T. (1979) Changes in the visual system of monocularly
+sutured or enucleated cats demonstrable with cytochrome oxidase
+histochemistry. Brain Res. 171:11–29.
+Young, M.P., J.W. Scannell, and G. Burns (1995) The Analysis of Cortical
+Connectivity. Austin, TX: R.G. Landes Company.
+Yukie, M. and E. Iwai (1981) Direct projection from the dorsal lateral
+geniculate nucleus to the prestriate cortex in macaque monkeys. J.
+Comp. Neurol. 201:81–7.
+Zeki, S.M. (1969) Representation of central visual fields in prestriate cortex
+of monkey. Brain Res. 19:63–75.
+398 P.D. BECK AND J.H. KAAS

@@ -1,0 +1,22 @@
+{
+  "processed_views": 2,
+  "measured_fields": 6,
+  "unmeasured_fields": 4,
+  "overlaps": [
+    {
+      "map_id": "fig02B_cortical_grid",
+      "field_a": "forelimb_sampled_grid",
+      "field_b": "hindlimb_sampled_grid",
+      "overlap_pixels": 11221
+    },
+    {
+      "map_id": "fig02D_pig3_top_grid",
+      "field_a": "forelimb_sampled_grid",
+      "field_b": "hindlimb_sampled_grid",
+      "overlap_pixels": 5250
+    }
+  ],
+  "native_imagej_roundtrip": "passed",
+  "anatomical_review": "All exported source/tracing pairs inspected; manual boundaries remain provisional and await domain review.",
+  "reference_comparison": "Not performed; no matched numeric reference used."
+}

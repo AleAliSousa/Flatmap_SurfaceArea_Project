@@ -1,0 +1,13 @@
+Figure fig03: 1 selections, TIFF calibration and all pixels verified
+View fig04: calibrated source retained; no defensible field ROI
+View fig06: calibrated source retained; no defensible field ROI
+View fig07: calibrated source retained; no defensible field ROI
+Figure fig09: 1 selections, TIFF calibration and all pixels verified
+Figure fig10: 1 selections, TIFF calibration and all pixels verified
+Figure fig11: 1 selections, TIFF calibration and all pixels verified
+Figure fig12: 1 selections, TIFF calibration and all pixels verified
+{"processed_views": 8, "measured_fields": 5, "unmeasured_fields": 16, "overlaps": [], "native_imagej_roundtrip": "passed", "anatomical_review": "provisional; pending user review", "reference_comparison": "not_run; core workflow does not require reference data"}
+{"overlap_method": "Each binary mask eroded by a 5x5 square (two pixels per side); report intersection before and after erosion. This is a geometry diagnostic, not uncertainty estimation.", "overlaps": [], "new_tracings_source_visually_inspected": true, "anatomical_certification": false}
+Beck_Kaas_1998 line refinement review saved; 5 area comparisons
+Verified 107 saved file hashes, 21 unique rows, areas and percentages.
+Beck_Kaas_1998 : final rebuild and verification passed

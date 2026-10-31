@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-31",
+  "pass_number": 2,
+  "changed_regions": [
+    {
+      "map_id": "fig07A_320_sensory",
+      "label": "TI",
+      "kind": "revision",
+      "note": "Enlarged source/old/candidate comparison: follows the printed compartment perimeter more closely, retaining internal lettering and symbols. White-component extraction, short pixel-gap closing where used, half-pixel coordinate correction, 0.5-pixel simplification. Native print resolution still limits precision."
+    },
+    {
+      "map_id": "fig07A_320_sensory",
+      "label": "Aud",
+      "kind": "revision",
+      "note": "Enlarged source/old/candidate comparison: follows the printed compartment perimeter more closely, retaining internal lettering and symbols. White-component extraction, short pixel-gap closing where used, half-pixel coordinate correction, 0.5-pixel simplification. Native print resolution still limits precision."
+    },
+    {
+      "map_id": "fig07B_320_S1_subregions",
+      "label": "S2_PV_HM",
+      "kind": "revision",
+      "note": "Enlarged source/old/candidate comparison: follows the printed compartment perimeter more closely, retaining internal lettering and symbols. White-component extraction, short pixel-gap closing where used, half-pixel coordinate correction, 0.5-pixel simplification. Native print resolution still limits precision."
+    },
+    {
+      "map_id": "fig07B_320_S1_subregions",
+      "label": "S2_PV_FM",
+      "kind": "revision",
+      "note": "Enlarged source/old/candidate comparison: follows the printed compartment perimeter more closely, retaining internal lettering and symbols. White-component extraction, short pixel-gap closing where used, half-pixel coordinate correction, 0.5-pixel simplification. Native print resolution still limits precision."
+    },
+    {
+      "map_id": "fig08A_310R_S1",
+      "label": "S2_PV_FM",
+      "kind": "revision",
+      "note": "Enlarged source/old/candidate comparison: follows the printed compartment perimeter more closely, retaining internal lettering and symbols. White-component extraction, short pixel-gap closing where used, half-pixel coordinate correction, 0.5-pixel simplification. Native print resolution still limits precision."
+    },
+    {
+      "map_id": "fig08A_310R_S1",
+      "label": "S2_PV_OM",
+      "kind": "revision",
+      "note": "Enlarged source/old/candidate comparison: follows the printed compartment perimeter more closely, retaining internal lettering and symbols. White-component extraction, short pixel-gap closing where used, half-pixel coordinate correction, 0.5-pixel simplification. Native print resolution still limits precision."
+    },
+    {
+      "map_id": "fig08C_320L_S1",
+      "label": "S2_PV_FM",
+      "kind": "revision",
+      "note": "Enlarged source/old/candidate comparison: follows the printed compartment perimeter more closely, retaining internal lettering and symbols. White-component extraction, short pixel-gap closing where used, half-pixel coordinate correction, 0.5-pixel simplification. Native print resolution still limits precision."
+    },
+    {
+      "map_id": "fig07A_320_sensory",
+      "label": "S1_3b",
+      "kind": "revision",
+      "note": "Followed the printed outer 3b contour with source-image boundary extraction, then manually replaced the medial-wall chord with the visible medial cap. The medial-wall fold line is internal, not an areal border. Fig.7B and same-case Fig.11 supply identity/topology checks only; no geometry transferred."
+    }
+  ],
+  "scope": "All project views screened at overview resolution; changed regions reviewed enlarged. Anatomical certification remains pending.",
+  "source_pdf_unchanged": true,
+  "native_imagej_roundtrip": "passed",
+  "remaining_interior_overlap_diagnostics": [
+    {
+      "paper_id": "Remple_etal_2006",
+      "map_id": "fig07A_320_sensory",
+      "field_a": "S1_3b",
+      "field_b": "S2_PV_modules",
+      "before_interior_overlap_px": "0",
+      "after_interior_overlap_px": "4",
+      "change_px": "4"
+    },
+    {
+      "paper_id": "Remple_etal_2006",
+      "map_id": "fig08A_310R_S1",
+      "field_a": "S1_3b",
+      "field_b": "S1_face_oral",
+      "before_interior_overlap_px": "27404",
+      "after_interior_overlap_px": "27404",
+      "change_px": "0"
+    },
+    {
+      "paper_id": "Remple_etal_2006",
+      "map_id": "fig08C_320L_S1",
+      "field_a": "S1_3b",
+      "field_b": "S1_face_oral",
+      "before_interior_overlap_px": "24887",
+      "after_interior_overlap_px": "24887",
+      "change_px": "0"
+    }
+  ],
+  "project_review": "../project_review_2026-10-31_pass2/index.html",
+  "no_new_calibration_or_denominator": true
+}

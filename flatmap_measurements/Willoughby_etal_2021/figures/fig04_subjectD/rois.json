@@ -1,0 +1,44 @@
+{
+  "map_id": "fig04_subjectD",
+  "figure": "4",
+  "panel": "D",
+  "pdf_page": 5,
+  "printed_page": "5",
+  "species": "Homo sapiens",
+  "specimen": "subjectD",
+  "hemisphere": "right_as_stated_in_results",
+  "view_type": "projected_functional_surface_map",
+  "hemisphere_relation": "",
+  "linked_main_map": "",
+  "repeat_of": "",
+  "relationship_note": "Table 1 has negative MNI x coordinates despite Results calling these right-hemisphere maps; discrepancy preserved, not resolved by inference.",
+  "specimen_link_status": "source_labels_preserved",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 3,
+  "crop_xyxy": [
+    540,
+    1060,
+    785,
+    1300
+  ],
+  "scale_endpoints_px": [],
+  "scale_length_mm": null,
+  "scale_note": "No physical scale. Surface rendering is not demonstrated area-preserving; retain display pixels only. Published native cluster areas are recorded separately.",
+  "scale_reference_map": "",
+  "outline": null,
+  "rois": [],
+  "unmeasured": [
+    {
+      "label": "S1_face_complete",
+      "status": "not_measurable",
+      "reason": "Only glabella was stimulated; whole-face boundary absent. No valid pixel-to-mm\u00b2 calibration."
+    },
+    {
+      "label": "forehead_activation_display",
+      "status": "not_measurable",
+      "reason": "No stable purple forehead component can be resolved in the supplied subject-D phase image at this resolution. Published Table 1 reports a 10.1 mm\u00b2 forehead cluster; absence of a trace is not absence of activation."
+    }
+  ],
+  "supersample": 4
+}

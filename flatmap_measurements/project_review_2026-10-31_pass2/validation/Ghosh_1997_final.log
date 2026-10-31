@@ -1,0 +1,47 @@
+Exception in thread "main" java.io.IOException: Operation timed out
+	at java.base/sun.nio.ch.FileDispatcherImpl.write0(Native Method)
+	at java.base/sun.nio.ch.FileDispatcherImpl.write(FileDispatcherImpl.java:62)
+	at java.base/sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:132)
+	at java.base/sun.nio.ch.IOUtil.write(IOUtil.java:97)
+	at java.base/sun.nio.ch.IOUtil.write(IOUtil.java:67)
+	at java.base/sun.nio.ch.FileChannelImpl.write(FileChannelImpl.java:288)
+	at java.base/java.nio.channels.Channels.writeFullyImpl(Channels.java:74)
+	at java.base/java.nio.channels.Channels.writeFully(Channels.java:96)
+	at java.base/java.nio.channels.Channels$1.write(Channels.java:171)
+	at java.base/java.io.OutputStream.write(OutputStream.java:127)
+	at java.base/java.nio.channels.Channels$1.write(Channels.java:151)
+	at java.base/java.util.zip.ZipOutputStream.writeInt(ZipOutputStream.java:804)
+	at java.base/java.util.zip.ZipOutputStream.writeLOC(ZipOutputStream.java:405)
+	at java.base/java.util.zip.ZipOutputStream.putNextEntry(ZipOutputStream.java:250)
+	at ImageJIO.main(ImageJIO.java:88)
+	Suppressed: java.io.IOException: Operation timed out
+		at java.base/sun.nio.ch.FileDispatcherImpl.write0(Native Method)
+		at java.base/sun.nio.ch.FileDispatcherImpl.write(FileDispatcherImpl.java:62)
+		at java.base/sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:132)
+		at java.base/sun.nio.ch.IOUtil.write(IOUtil.java:97)
+		at java.base/sun.nio.ch.IOUtil.write(IOUtil.java:67)
+		at java.base/sun.nio.ch.FileChannelImpl.write(FileChannelImpl.java:288)
+		at java.base/java.nio.channels.Channels.writeFullyImpl(Channels.java:74)
+		at java.base/java.nio.channels.Channels.writeFully(Channels.java:96)
+		at java.base/java.nio.channels.Channels$1.write(Channels.java:171)
+		at java.base/java.util.zip.DeflaterOutputStream.deflate(DeflaterOutputStream.java:261)
+		at java.base/java.util.zip.ZipOutputStream.closeEntry(ZipOutputStream.java:268)
+		at java.base/java.util.zip.ZipOutputStream.finish(ZipOutputStream.java:374)
+		at java.base/java.util.zip.DeflaterOutputStream.close(DeflaterOutputStream.java:244)
+		at java.base/java.util.zip.ZipOutputStream.close(ZipOutputStream.java:391)
+		at ImageJIO.main(ImageJIO.java:76)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+		at jdk.compiler/com.sun.tools.javac.launcher.Main.execute(Main.java:419)
+		at jdk.compiler/com.sun.tools.javac.launcher.Main.run(Main.java:192)
+		at jdk.compiler/com.sun.tools.javac.launcher.Main.main(Main.java:132)
+Traceback (most recent call last):
+  File "/Users/crossmodal/Library/CloudStorage/OneDrive-AllenInstitute/Flatmap_SurfaceArea_Project/flatmap_measurements/Ghosh_1997/scripts/measure_flatmaps.py", line 459, in <module>
+    rebuild(args.paper_dir.resolve(), args.java, args.ij_jar, args.skip_imagej)
+  File "/Users/crossmodal/Library/CloudStorage/OneDrive-AllenInstitute/Flatmap_SurfaceArea_Project/flatmap_measurements/Ghosh_1997/scripts/measure_flatmaps.py", line 386, in rebuild
+    subprocess.run([str(java), '-Djava.awt.headless=true', '--class-path', str(ij_jar),
+  File "/Users/crossmodal/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java', '-Djava.awt.headless=true', '--class-path', '/Applications/Fiji.app/jars/ij-1.54p.jar', '/Users/crossmodal/Library/CloudStorage/OneDrive-AllenInstitute/Flatmap_SurfaceArea_Project/flatmap_measurements/Ghosh_1997/scripts/ImageJIO.java', '/var/folders/vb/5xt3qj4n0z75zm1zkkbj6wgc0000gp/T/flatmap_masks_53tehwgw/jobs.tsv', '/Users/crossmodal/Library/CloudStorage/OneDrive-AllenInstitute/Flatmap_SurfaceArea_Project/flatmap_measurements/Ghosh_1997/figures', '/Users/crossmodal/Library/CloudStorage/OneDrive-AllenInstitute/Flatmap_SurfaceArea_Project/flatmap_measurements/Ghosh_1997/documentation']' returned non-zero exit status 1.

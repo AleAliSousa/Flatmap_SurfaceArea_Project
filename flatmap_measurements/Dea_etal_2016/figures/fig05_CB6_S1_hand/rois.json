@@ -1,0 +1,212 @@
+{
+  "map_id": "fig05_CB6_S1_hand",
+  "figure": "5",
+  "panel": "",
+  "pdf_page": 8,
+  "printed_page": "",
+  "species": "Cebus apella",
+  "specimen": "CB-6",
+  "hemisphere": "left",
+  "view_type": "individual_reconstructed_partial_cortex",
+  "hemisphere_relation": "",
+  "linked_main_map": "",
+  "repeat_of": "",
+  "relationship_note": "Same animal as Fig.1 physiological mapping. Older Cebus apella label retained; crosswalk to cohort Sapajus requires provenance review.",
+  "specimen_link_status": "source_label_preserved; cross-paper overlap unresolved",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 3,
+  "crop_xyxy": [
+    540,
+    620,
+    1380,
+    1460
+  ],
+  "scale_endpoints_px": [
+    [
+      638.0,
+      808.0
+    ],
+    [
+      826.0,
+      808.0
+    ]
+  ],
+  "scale_length_mm": 5,
+  "scale_note": "Printed same-panel scale; no shrinkage correction applied.",
+  "scale_reference_map": "same_figure_5mm_bar",
+  "outline": null,
+  "rois": [
+    {
+      "label": "area1_hand",
+      "polygons": [
+        [
+          [
+            564.0,
+            214.0
+          ],
+          [
+            608.0,
+            238.0
+          ],
+          [
+            584.0,
+            282.0
+          ],
+          [
+            556.0,
+            330.0
+          ],
+          [
+            530.0,
+            366.0
+          ],
+          [
+            518.0,
+            408.0
+          ],
+          [
+            496.0,
+            414.0
+          ],
+          [
+            492.0,
+            456.0
+          ],
+          [
+            478.0,
+            516.0
+          ],
+          [
+            446.0,
+            494.0
+          ],
+          [
+            408.0,
+            462.0
+          ],
+          [
+            420.0,
+            436.0
+          ],
+          [
+            448.0,
+            402.0
+          ],
+          [
+            482.0,
+            356.0
+          ],
+          [
+            520.0,
+            300.0
+          ]
+        ]
+      ],
+      "extent": "hand_subregion",
+      "boundary_note": "Red physiological hand-area boundaries. Figure CB-6 medial extent is an author estimate. Does not represent full S1."
+    },
+    {
+      "label": "area2_hand",
+      "polygons": [
+        [
+          [
+            608.0,
+            238.0
+          ],
+          [
+            648.0,
+            264.0
+          ],
+          [
+            630.0,
+            306.0
+          ],
+          [
+            610.0,
+            352.0
+          ],
+          [
+            584.0,
+            400.0
+          ],
+          [
+            558.0,
+            446.0
+          ],
+          [
+            546.0,
+            492.0
+          ],
+          [
+            532.0,
+            544.0
+          ],
+          [
+            478.0,
+            516.0
+          ],
+          [
+            492.0,
+            456.0
+          ],
+          [
+            496.0,
+            414.0
+          ],
+          [
+            518.0,
+            408.0
+          ],
+          [
+            530.0,
+            366.0
+          ],
+          [
+            556.0,
+            330.0
+          ],
+          [
+            584.0,
+            282.0
+          ]
+        ]
+      ],
+      "extent": "hand_subregion",
+      "boundary_note": "Red physiological hand-area boundaries; shared border reused. Does not represent full S1."
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "M1_hand",
+      "status": "not_measurable",
+      "reason": "Cannot recover a reliable hand envelope from this tracer reconstruction; same-animal hand territory is traced independently from Fig1 cortical photograph."
+    },
+    {
+      "label": "SMA",
+      "status": "not_measurable",
+      "reason": "Grey outline is a cell-counting window, explicitly not the full field."
+    },
+    {
+      "label": "PMd",
+      "status": "not_measurable",
+      "reason": "Grey outline is a cell-counting window, explicitly not the full field."
+    },
+    {
+      "label": "PMv",
+      "status": "not_measurable",
+      "reason": "Grey outline is a cell-counting window, explicitly not the full field."
+    },
+    {
+      "label": "area5",
+      "status": "not_measurable",
+      "reason": "Grey outline is a cell-counting window, explicitly not the full field."
+    },
+    {
+      "label": "3a_3b",
+      "status": "not_measurable",
+      "reason": "Central sulcus was not unfolded; these fields were not analyzed in this study."
+    }
+  ],
+  "supersample": 4
+}

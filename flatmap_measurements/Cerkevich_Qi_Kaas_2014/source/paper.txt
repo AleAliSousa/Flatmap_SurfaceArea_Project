@@ -1,0 +1,1725 @@
+
+PAGE 1
+Corticocortical Projections to Representations of the
+Teeth, Tongue, and Face in Somatosensory Area 3b
+of Macaques
+Christina M. Cerkevich, Hui-Xin Qi, and Jon H. Kaas*
+Department of Psychology, Vanderbilt University, Nashville, Tennessee 37203
+ABSTRACT
+We placed injections of anatomical tracers into repre-
+sentations of the tongue, teeth, and face in the primary
+somatosensory cortex (area 3b) of macaque monkeys.
+Our injections revealed strong projections to represen-
+tations of the tongue and teeth from other parts of the
+oral cavity responsive region in 3b. The 3b face also
+provided input to the representations of the intraoral
+structures. The primary representation of the face
+showed a pattern of intrinsic connections similar to
+that of the mouth. The area 3b hand representation
+provided little to no input to either the mouth or the
+face representations. The mouth and face representa-
+tions of area 3b received projections from the presump-
+tive oral cavity and face regions of other
+somatosensory areas in the anterior parietal cortex and
+the lateral sulcus, including areas 3a, 1, 2, the second
+somatosensory area (S2), the parietal ventral area (PV),
+and cortex that may include the parietal rostral (PR)
+and ventral somatosensory (VS) areas. Additional inputs
+came from primary motor (M1) and ventral premotor
+(PMv) areas. This areal pattern of projections is similar
+to the well-studied pattern revealed by tracer injections
+in regions of 3b representing the hand. The tongue rep-
+resentation appeared to be unique in area 3b in that it
+also received inputs from areas in the anterior upper
+bank of the lateral sulcus and anterior insula that may
+include the primary gustatory area (area G) and other
+cortical taste-processing areas, as well as a region of
+lateral prefrontal cortex (LPFC) lining the principal sul-
+cus. J. Comp. Neurol. 522:546–572, 2014.
+VC 2013 Wiley Periodicals, Inc.
+INDEXING TERMS: somatosensory cortex; gustatory cortex; taste; insular cortex; motor cortex
+Primates have a large representation of the oral cav-
+ity, especially of the teeth and tongue, in the primary
+somatosensory cortex (area 3b). Unlike the rest of the
+body representation in 3b, this region contains a large
+bilateral representation of intraoral structures in both
+cerebral hemispheres (Manger et al., 1996; Jain et al.,
+2001a; Qi and Kaas, 2004). Despite its large size, func-
+tional importance in evaluating and processing food
+(Shepherd, 2012), expansion after spinal cord injury
+(Pons et al., 1991; Jain et al., 1997, 1998b, 2008; Fang
+et al., 2002), and role in coordinating movements of
+the tongue and jaw (Lin et al., 1993, 1994), little is
+known about the connections of the cortical representa-
+tion of the oral cavity in macaques. This is due, in part,
+to the difficulties in reaching this most lateral part of
+S1 during microelectrode mapping experiments and
+studies of connections based on cortical injections.
+Much like the hand, representations of different parts
+of the oral cavity and face have been found in multiple
+areas of somatosensory and motor cortex. Microelec-
+trode mapping studies have shown, at least in part,
+orderly arrangements of the responses to stimulation of
+the oral cavity and face in somatosensory areas includ-
+ing 3b, 3a, 1, 2, the second somatosensory area (S2),
+and the parietal ventral area (PV) for Old World maca-
+ques (Nelson et al., 1980; Krubitzer et al., 1995; Man-
+ger et al., 1995, 1996; Toda and Taoka, 2001, 2002a,b,
+2004; Qi and Kaas, 2004) and New World monkeys
+(Krubitzer and Kaas, 1990; Jain et al., 2001a; Qi et al.,
+2002; Iyengar et al., 2007). Representations of the face
+have been described for additional somatosensory
+areas in the lateral sulcus and the ventral
+Grant sponsor: National Institutes of Health; Grant number: R01-
+NS16446 (to J.H.K.).
+*CORRESPONDENCE TO: Jon H. Kaas, Department of Psychology, Van-
+derbilt University, 301 David K. Wilson Hall, 111 21st Avenue South,
+Nashville, TN 37203. E-mail: jon.h.kaas@vanderbilt.edu
+Received May 27, 2013; Revised June 24, 2013;
+Accepted July 3, 2013.
+DOI 10.1002/cne.23426
+Published online July 13, 2013 in Wiley Online Library
+(wileyonlinelibrary.com)
+VC 2013 Wiley Periodicals, Inc.
+546 The Journal of Comparative Neurology | Research in Systems Neuroscience 522:546–572 (2014)
+RESEARCH ARTICLE
+PAGE 2
+somatosensory (VS) and parietal rostral (PR) areas for
+New World titi monkeys (Coq et al., 2004). The exis-
+tence of similar representations has been suggested for
+macaques (Krubitzer et al., 1995), although mapping in
+these regions has been incomplete. In the frontal lobe,
+intracortical stimulation (McGuinness et al., 1980;
+Ghosh and Gattera, 1995; Graziano et al., 2002),
+recording (Hoffman and Luschei, 1980; Murray and Ses-
+sle, 1992; Avivi-Arber et al., 2011), and cooling (Murray
+et al., 1991) have all indicated that regions of the lat-
+eral primary motor cortex (M1) and ventral premotor
+area (PMv) are involved in controlling movements of the
+face and tongue. In macaques, little is known about
+how these multiple mouth and face representations
+interconnect.
+Most of the anatomical information about the cortical
+representation of the oral cavity has come from studies
+in New World monkeys, in which this cortex is most
+accessible. However, projections from within area 3b
+and the presumptive face representations in areas 3a,
+1, 2, and 5 to representations of the upper face and lip
+in area 3b were described as being similar to those
+going to other parts of area 3b during a larger study of
+connections of areas in the anterior parietal cortex in
+macaques (Burton and Fabri, 1995). The lateral part of
+area 3b that is responsive to tactile stimulation of the
+mouth and face has been shown to overlie densely
+myelinated ovals lateral and anterior to the 3b hand
+representation in prosimian galagos and anthropoid
+marmoset, owl, squirrel, and macaque monkeys (Jain
+et al., 1998a, 2001a; Qi and Kaas, 2004; Kaas et al.,
+2006; Iyengar et al., 2007). Iyengar and colleagues
+(2007) used physiological mapping to target representa-
+tions of individual intraoral structures, parts of the
+tongue, and upper and lower teeth, in primary somato-
+sensory cortex for injection of neuroanatomical tracers
+in three species of New World monkeys. In all three
+species, the oral cavity representation in area 3b
+received patterns of projections from other somatosen-
+sory and motor areas that were largely similar to pro-
+jections to other parts of 3b (Iyengar et al., 2007).
+Interestingly, injections into the representation of the
+tongue also labeled regions of cortex in the anterior
+upper bank of the lateral sulcus and insula that
+included the primary gustatory cortex (area G; Sanides,
+1968; Iyengar et al., 2007) and possibly other areas
+involved in processing taste (Ogawa et al., 1989; Plata-
+Salam/C19an and Scott, 1992; Scott and Plata-Salam /C19an,
+1999; Pritchard and Norgren, 2004). Projections of
+taste areas to the 3b representation of the tongue have
+not been described for macaques.
+For the present study, we injected anatomical tracers
+into physiologically defined tongue, teeth, and face repre-
+sentations in area 3b to reveal corticocortical inputs to
+this region. This allowed us to compare the pattern of
+projections to the 3b oral cavity and face representations
+to those identified as going to other body part represen-
+tations of area 3b, particularly the large and well-studied
+representation of the hand. Furthermore, these experi-
+ments allowed us to evaluate the possibility that intrinsic
+connections between hand and face representations in
+area 3b underlie the reactivation of hand cortex by inputs
+from the face after loss of sensory input from the hand
+(Pons et al., 1991; Jain et al., 1997, 1998b, 2008; Fang
+et al., 2002). In addition, our injections of retrograde
+tracers allowed us to use the locations of back-filled cells
+to determine the locations and extents of mouth and
+face representations in other cortical areas. Finally, our
+injections in the primary somatosensory tongue repre-
+sentation allowed us to provide evidence for the integra-
+tion of touch and taste by identifying areas likely involved
+in processing taste in the opercular and insular cortex
+(Scott et al., 1986; Ogawa et al., 1989; Smith-Swintosky
+et al., 1991; Scott and Plata-Salam /C19an, 1999; Pritchard
+and Norgren, 2004) that project to area 3b.
+MATERIALS AND METHODS
+Four adult macaque monkeys (one Macaca radiata ,
+case 1, and three Macaca mulatta ) were used in this
+study. Many of the procedures were described in our
+companion study of thalamocortical connections in
+these monkeys (Cerkevich et al., 2013). The experimen-
+tal procedures were approved by the Vanderbilt Univer-
+sity Animal Care and Use Committee and adhered to
+National Institutes of Health guidelines. All surgical pro-
+cedures were performed under aseptic conditions.
+Abbreviations
+AS Arcuate sulcus
+CS Central sulcus
+G Gustatory cortex
+ILS Inferior limiting sulcus
+INS Insula
+IOS Inferior occipital sulcus
+ipCS Inferior precentral sulcus
+ipoCS Inferior postcentral sulcus
+IPS Intraparietal sulcus
+LBLS Lower bank of the lateral sulcus
+LPFC Lateral prefrontal cortex
+LS Lateral sulcus
+LuS Lunate sulcus
+M1 Primary motor area
+OFC Orbitofrontal cortex
+PMd Dorsal premotor area
+PMv Ventral premotor area
+PPC Posterior parietal cortex
+PR Parietal rostral area
+PrCS Precentral sulcus
+PS Principal sulcus
+PV Parietal ventral area
+S2 Second somatosensory area
+SLS Superior limiting sulcus
+STS Superior temporal sulcus
+UBLS Upper bank of the lateral sulcus
+VS Ventral somatosensory area
+Cortical Input to Area 3B Mouth Representations
+The Journal of Comparative Neurology | Research in Systems Neuroscience 547
+ 10969861, 2014, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.23426 by University Of Bath, Wiley Online Library on [30/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+PAGE 3
+Surgical procedures
+The animals were anesthetized with an initial dose of
+ketamine hydrochloride (10–50 mg/kg, i.m.), and
+secured in a stereotaxic frame. A surgical level of anes-
+thesia was maintained with an i.v. ketamine drip
+(4 mg/ml in sterile saline) and supplemental injections
+of xylazine (0.4 mg/kg, i.m.). Urethane (1.6 mg/kg, i.p.)
+was also given to maintain a stable anesthetic plane
+during terminal procedures. Heart rate, blood oxygen
+levels, and temperature were monitored throughout the
+mapping procedure. Each monkey was placed on a
+heating pad or under a heating lamp to maintain body
+temperature at 37
+/C14C. A local anesthetic, lidocaine
+hydrochloride, was applied to the ears and subcutane-
+ous skin before the skin was incised to expose the
+skull. A head post was attached to a portion of the
+skull that did not overlie the region of interest in order
+to avoid interference from eye and mouth bars during
+mapping. A craniotomy was performed to expose the
+lateral half of the central sulcus. The dura was
+removed, and the exposed cortex was kept moist with
+regular application of sterile saline until the injections
+were completed, then covered with sterile silicone oil
+during the subsequent microelectrode mapping. Photo-
+graphs of the surface of the brain were used to mark
+the placement of microelectrodes, the types of
+responses at different sites, and the locations of tracer
+injections and lesions using blood vessels and sulcal
+patterns as landmarks.
+Multiunit mapping and injections
+Neuroanatomical tracers were injected into physio-
+logically defined representations of the tongue, teeth,
+gingiva, palate, buccal wall, lip, and chin that were iden-
+tified by inserting low-impedance tungsten (1.0 m X at
+1,000 Hz) or stainless-steel (1.0 m X at 1,000 Hz)
+microelectrodes into the cortex to record multiunit
+activity while the intraoral structures and face were
+stimulated with wood or glass probes. Our goal was to
+orient the mapping electrode so that it was perpendicu-
+lar to layer 4, but this was not always possible because
+much of the mouth representation is on the caudal
+bank of the central sulcus. The electrode was advanced
+in 200–300 lm steps with a hydraulic Microdrive
+(David Kopf Instruments, Tujunga, CA) starting at a
+depth of 600–700 lm and continuing until responses
+were lost, sometimes as deep as 7,300 lm. Electrode
+penetrations were marked on high-resolution digital
+photographs of the brain. Receptive fields were outlined
+on standard drawings of a macaque face and the inside
+of the mouth. After the initial mapping revealed sites of
+representations of the tongue, teeth, and face, the elec-
+trode holder was removed, and a Hamilton syringe with
+a glass pipette tip attached was placed onto the stereo-
+taxic arm. This ensured that the path of the syringe fol-
+lowed the same angle used for mapping on the way to
+the targeted location. Pressure injections of up to three
+(Fig. 1) of the following anatomical tracers were placed
+across the 3b representations of the mouth and face:
+0.25–0.6 ll cholera toxin subunit B (CTB; 1% in distilled
+water, Sigma, St. Louis, MO; or Molecular Probes,
+Carlsbad, CA), 0.25–0.3 ll Fluororuby (FR; 10% in dis-
+tilled water, Molecular Probes or Invitrogen, Carlsbad,
+CA), 0.01–0.04 ll wheat-germ agglutinin conjugated
+with horseradish peroxidase (0.2% WGA-HRP in distilled
+water; Sigma), and 0.4 ll biotinylated dextran amine
+(BDA; 10% in phosphate buffer; Molecular Probes or
+Invitrogen). In three animals (cases 1, 3, and 4), record-
+ing continued for up to 3 days immediately after the
+injections to provide a more extensive map of the oral
+cavity representation and allow time for tracer trans-
+port. In case 2, because of the use of a different set of
+neuroanatomical tracers, injections were placed during
+a short initial mapping procedure. After the injections,
+gel film was inserted to replace the opened dura, the
+craniotomy was closed with dental cement, the muscle
+was reattached, and the skin was sutured closed. The
+animal then recovered from anesthesia and was treated
+with prophylactic antibiotic and analgesics. After 2
+weeks, the optimal amount of time for tracer transport,
+the cortex was again exposed for more extensive
+recording around the locations of the injections per-
+formed as in the other cases. Once electrophysiological
+mapping was complete in all cases, the animals were
+given a lethal injection of sodium pentobarbital (80
+mg/kg) and subsequently perfused through the heart
+with phosphate-buffered saline (PBS; pH 7.4), followed
+by 2–3% paraformaldehyde in buffered saline and 2–3%
+paraformaldehyde with 10% sucrose in PBS.
+The cortex was separated from the rest of the brain.
+The sulci were opened, and each hemisphere was flat-
+tened and blocked so that sections cut tangential to
+the surface could be mounted onto glass slides (Fig. 2).
+The main somatosensory blocks were cut along the
+arcuate sulcus (AS) from the lateral tip to the spur,
+across the central sulcus (CS) medial to the area 3b
+hand face border to the intraparietal sulcus (IPS),
+through the IPS and the caudal lateral sulcus (LS),
+along the fundus of the inferior limiting sulcus (ILS),
+and then back up to the lateral AS (Fig. 2, dotted line).
+These blocks included all of the anterior parietal and
+lateral sulcal somatosensory fields, the insula, much of
+the frontal operculum, and the entire lateral motor and
+premotor cortices. Blocks containing the rest of the
+ipsilateral area 3b and cingulate and contralateral
+C.M. Cerkevich et al.
+548 The Journal of Comparative Neurology | Research in Systems Neuroscience
+ 10969861, 2014, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.23426 by University Of Bath, Wiley Online Library on [30/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+PAGE 4
+somatosensory cortex were also flattened. The prefron-
+tal and orbitofrontal cortex was either flattened or kept
+whole to be cut coronally. Flattened blocks were held
+between two glass slides and stored overnight in 30%
+sucrose at 4
+/C14C for cryoprotection, along with the unflat-
+tened blocks and thalamus from each case.
+Cortical histology
+The flattened blocks were cut tangential to the sur-
+face, whereas unflattened frontal blocks were cut coro-
+nally at a thickness of 40 or 50 lm on a freezing
+microtome. Series of sections were mounted unstained
+for fluorescence microscopy. Alternate series were
+appropriately processed to reveal tracers (Fig. 3). In all
+cases, one series was reacted for CTB immunohisto-
+chemistry (Bruce and Grofova, 1992; Angelucci et al.,
+1996) to visualize CTB-labeled cells. When appropriate,
+BDA was visualized by an avidin biotin-peroxidase reac-
+tion (ABC kit, Vectastain; Vector, Burlingame, CA; Veen-
+man et al., 1992), and wheat germ agglutinin-
+horseradish peroxidase (WGA-HRP) series were proc-
+essed with tetramethlybenzidine as chromogen and
+ammonium molybdate (Olucha et al., 1985) and stabi-
+lized in diamidinobenzidine (DAB). In all cases, series of
+sections were processed for myelinated fibers with
+both modified silver (Gallyas, 1979) and black gold
+(Schmued and Slikker, 1999) staining to reveal cortical
+myeloarchitecture.
+Data analysis
+Distributions of neurons filled with CTB, FR, WGA-
+HRP, or BDA were plotted with a fluorescent/brightfield
+Leitz microscope coupled to a computer running Neuro-
+lucida plotting software (MBF Bioscience, Williston, VT).
+The injection cores, the diffusion zones around them,
+and the regions of anterograde labeling revealed by
+bidirectional tracers were outlined. Landmarks including
+blood vessels, electrode tracts, and lesions were also
+marked for use during reconstruction.
+Digital photomicrographs of sections stained to
+reveal architecture were taken with a Nikon DXM1200
+camera mounted on a Nikon E800 microscope (Nikon,
+Figure 1. Locations of injection sites. A: Lateral view of the brain with the central sulcus opened. Area 3b is on the caudal bank of the
+central sulcus and shaded in light gray, with the hand representation in darker gray. The somatotopic organization in area 3b is indicated:
+OC, oral cavity; Fa, face; H, hand; A, arm; O, occiput; T, trunk; L, leg; Ft, foot (adapted from Nelson et al., 1980; Jain et al., 2008).
+B: Locations of injection sites in the open central sulcus of each case. Markers in the open central sulcus indicate the center of each
+tracer injection in the representations of the face and mouth of each case. For abbreviations see list. Rostral is left, medial is upward in
+both A and B.
+Cortical Input to Area 3B Mouth Representations
+The Journal of Comparative Neurology | Research in Systems Neuroscience 549
+ 10969861, 2014, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.23426 by University Of Bath, Wiley Online Library on [30/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+PAGE 5
+Melville, NY). These digital images were then adjusted
+for contrast, saturation, lightness, and curves with
+Adobe Photoshop CS2 (Adobe Systems, San Jose, CA)
+but were not otherwise altered. Photomicrographs were
+then stitched together in Adobe Photoshop to create an
+image of a single whole section as seen in Figure 2E.
+Figure 2. Cortical flattening procedure. A: Lateral view of the left hemisphere of case 2. B,C: Closer views of the opened CS (B) and LS
+(C). D: The flattened somatosensory block from the same hemisphere. E: Brightfield photomicrograph of a 40- lm-thick section through
+this block stained to reveal myelinated fibers, with sulci outlined. Myelinated fibers are stained in black, with the regions with the densest
+myelination staining most darkly. Heavy arrows indicate the opening of the central sulcus (CS, solid) and lateral sulcus (LS, dashed).
+Dashed lines indicate the region of the left hemisphere that was blocked to fit the size of the slides on which sections were later
+mounted. The block was cut to contain all of the area 3b oral cavity representation, the 3b hand–face border, digit representations and
+the lateral half of areas 1, 2, 3a, M1, and PMv, aand the cortex of the upper bank of the lateral sulcus and insula. For abbreviations see
+list. Rostral is left, medial is upward. Scale bars 5 1 cm in A-C, 5 mm in D-E.
+C.M. Cerkevich et al.
+550 The Journal of Comparative Neurology | Research in Systems Neuroscience
+ 10969861, 2014, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.23426 by University Of Bath, Wiley Online Library on [30/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+PAGE 6
+Reconstruction
+Cortical sections stained for myelinated fibers were
+used to determine the borders of cortical areas and to
+confirm the locations of injection cores and labeled
+neurons. Although dense myelin staining characterizes
+all of area 3b (Qi and Kaas, 2004), the face and mouth
+region of primary somatosensory cortex is separated
+from the rest of 3b by a myelin-poor septum known as
+the hand–face border (Jain et al., 1998a; Fang et al.,
+2002; Qi and Kaas, 2004). Myelin-dense ovals lateral to
+the hand–face border have been shown to indicate ana-
+tomical modules containing physiological representa-
+tions of the different oral cavity and face structures in
+prosimian galagos and New World monkeys, and similar
+modules have been suggested for macaque monkeys
+(Jain et al., 2001b; Qi and Kaas, 2004; Kaas et al.,
+2006; Iyengar et al., 2007). Because the lateral extreme
+of the lateral sulcus is deep, curved, and often full of
+small folds that differ from animal to animal, complica-
+tions of flattening and individual differences made it dif-
+ficult to fully reveal the pattern of myeloarchitecture in
+this region of area 3b in macaques. However, we were
+able to find myelin-dense ovals representing the parts
+of the face and intraoral structures in each case
+(Fig. 4). Because the myelin ovals in macaques often
+appeared to be incomplete or disjointed because of
+imperfect flattening of cortex along the bank and base
+of the central sulcus, the myeloarchitecture within area
+3b is best determined by reconstructing borders across
+serial sections through the depth of cortex.
+To reconstruct the anatomical boundaries, the boun-
+daries of myelin-dense regions of single sections were
+drawn using a projection microscope. A single section
+at the approximate depth of layer 4 (for example, Fig.
+4B) was used as the reference section. The outline,
+blood vessels, and artifacts of the reference section
+were marked. The myeloarchitecture of area 3b, other
+areal boundaries, and indications of cortical sulci were
+then related to the reference section by using common
+landmarks, such as blood vessels, to align myelin-
+stained sections superficial and deep to the reference
+section (Fig. 4A and C, respectively). Physiological map-
+ping data were added to the anatomical reconstructions
+by aligning penetrations along the trajectory of the elec-
+trode tracks that could be seen in the stained fiber sec-
+tions and matching the locations of injection sites and
+lesions (see Fig. 5). Plotted cortex sections indicating
+the injection sites and distribution of back-filled cells
+were then aligned to the reconstructed borders and
+physiological maps using blood vessels, electrolytic
+Figure 3. Tracer injection sites and tracer-filled neurons in cortex. Photomicrographs of tracer injection sites and tracer filled cells. Images
+were captured using a brightfield light microscope to show CTB (column A) and BDA (column C), a fluorescent microscope to show FR
+(column B), and under darkfield illumination to show WGA-HRP (column D). Scale bars 5 0.5 mm in top row; 50 l in bottom row.
+Cortical Input to Area 3B Mouth Representations
+The Journal of Comparative Neurology | Research in Systems Neuroscience 551
+ 10969861, 2014, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.23426 by University Of Bath, Wiley Online Library on [30/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+PAGE 7
+lesions, and the injection cores as landmarks. This
+allowed us to characterize the complete receptive field
+represented by the region encompassed by each injec-
+tion. All reconstructions were created with Adobe Illus-
+trator CS2 and CS5 (Adobe Systems).
+RESULTS
+Ipsilateral corticocortical connections
+Case 1: tongue representation
+The CTB injection was placed near the lateral tip of the
+central sulcus, into the region representing the tongue
+(Fig. 5A). Although it was centered on the representa-
+tion of the tip of the tongue, the tracer diffused around
+the injection core to include all of the anterior tongue
+and much of the contralateral tongue (Fig. 6). This
+injection might have spread slightly into area 3a,
+although that could not be confirmed physiologically
+because we did not record from layer 4 in this location
+(Fig. 5A).
+This injection revealed strong intrinsic connections
+within the area 3b tongue representation as well as
+with the representations of the other intraoral struc-
+tures within area 3b, including the lower and upper
+teeth and tissue lining the inside of the cheek and lips
+(Fig. 6, Table 1). Representations of the lower lip and
+chin also contained cells labeled by the CTB injection
+into the region of 3b that responded to stimulation of
+the tongue. Filled neurons were also found in the 3b
+upper lip region. In contrast, the 3b hand representa-
+tion was almost completely devoid of labeled cells
+(Table 2), indicating that there was little input from the
+hand region to the part of 3b serving the tongue.
+Outside of primary somatosensory cortex, there were
+projections to the 3b tongue representation from other
+somatosensory areas in the anterior parietal cortex and
+upper bank of the lateral sulcus, cortex of the insula,
+and frontal cortex (Fig. 5). Though unmapped, regions
+of lateral areas 3a, 1, and 2 that likely contain repre-
+sentations of the inside of the mouth provided input to
+the 3b tongue. The field of labeled cells extended into
+lateral area 5 and the posterior parietal cortex (PPC).
+Back-filled neurons were found within the locations of
+the second somatosensory (S2) and parietal ventral
+(PV) areas, and they tended to be concentrated along
+the medial border of both areas, a region known to be
+responsive to stimulation of the face and mouth (Krubit-
+zer et al., 1995). Separate foci of labeled cells could
+Figure 4. Myeloarchitecture of the 3b face and mouth region. A–C: Sections from case 4 stained to reveal myelinated fibers from most
+superficial (A) to deepest (C). Staining the cortex for myelin revealed dense patches that indicate the anatomical representation of the
+parts of the face and mouth through the depth of cortex in 3b oral cavity representation. These sections were used to draw a reconstruc-
+tion of the areal boundaries throughout the depth of cortex by aligning corresponding landmarks, including blood vessels and electrolytic
+lesions from each section. White lines indicate the hand–face border (HFB) and myelinated ovals representing different parts of the face
+and mouth. These reconstructed borders were then aligned with physiological maps and plotted sections to indicate where labeled neu-
+rons were found in the brain. Sections were cut at 40 lm, and there are 320 lm between sections 11 and 20, and 200 lm between sec-
+tions 20 and 26. For abbreviations see list. Rostral is left, medial is upward. Scale bar 5 1 mm.
+C.M. Cerkevich et al.
+552 The Journal of Comparative Neurology | Research in Systems Neuroscience
+ 10969861, 2014, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.23426 by University Of Bath, Wiley Online Library on [30/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+PAGE 8
+Figure 5. Physiological characterization of injection sites. A–D: Physiological maps of responses to somatosensory stimulation of the face
+and intraoral structures during microelectrode mapping of area 3b aligned to reconstructions of myeloarchitecture and injection sites for
+each case, respectively. Thin black lines indicate the myeloarchitecture within area 3b and areal boundaries. Thick black lines are tears.
+The CS and LS are shaded in light gray. Circles are color coded to indicate the area of skin stimulated to elicit responses at that cortical
+location during mapping. Injection cores and surrounding diffusion zones are outlined and shaded in darker grays. The anatomical and
+electrophysiological maps were aligned on the basis of landmarks including tracer injection sites, lesions, and electrode tracts. For abbre-
+viations see list. Rostral is left, and medial is upward. Scale bars 5 2 mm.
+Cortical Input to Area 3B Mouth Representations
+The Journal of Comparative Neurology | Research in Systems Neuroscience 553
+ 10969861, 2014, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.23426 by University Of Bath, Wiley Online Library on [30/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+PAGE 9
+also be found in the cortex rostral to PV. Although the
+locations of these foci were not identified architectoni-
+cally, they presumably include face oral cavity represen-
+tations in the parietal rostral (PR) and ventral
+somatosensory (VS) areas (Krubitzer et al., 1995; Qi
+et al., 2002; Coq et al., 2004). Lateral motor (M1) and
+Figure 6. Case 1 CTB injection into 3b tongue. A: Distribution of CTB-labeled cells through the somatosensory cortex of case 1. Each
+white circle indicates the location of an individual CTB-filled cell. The core, full extent of diffusion zone around the injection, and patches
+of anterogradely filled axon terminals are outlined and shaded in dark gray. Thin black lines are anatomical borders. Thick black lines
+denote tears and the edges of the block. Large shaded regions indicate cortex in a sulcus; the fundus of each sulcus is marked by fine
+black lines. Areal boundaries were determined from adjacent sections stained for myelin, physiological mapping, and measurements based
+on previously published studies. This CTB injection into the 3b tongue representation revealed strong local connections with other parts of
+the 3b mouth and face regions, as well as inputs from other somatosensory areas in the parietal cortex and upper bank of the lateral sul-
+cus, M1, PMv, and upper bank of the lateral sulcus and insular cortex that may be involved in taste processing. For abbreviations see list.
+Rostral is left, medial is upward. B: Injected receptive field. The darkly shaded region is the receptive field (RF) represented at the center
+of the injection. The lightly shaded region is an estimation of all parts of the mouth and face represented in the full extent of the tracer
+diffusion zone around the core of the injection. Scale bar 5 5 mm.
+C.M. Cerkevich et al.
+554 The Journal of Comparative Neurology | Research in Systems Neuroscience
+ 10969861, 2014, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.23426 by University Of Bath, Wiley Online Library on [30/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+PAGE 10
+ventral premotor (PMv) each contained CTB-labeled
+cells. No motor mapping was performed for this study,
+but previous studies in motor and premotor cortex lat-
+eral to the arcuate sulcus have shown that microstimu-
+lation in both lateral M1 and PMv can evoke
+movements of the face and mouth (McGuinness et al.,
+1980; Qi et al., 2000; Graziano et al., 2002) and that
+this region is important to the proper performance of
+tasks involving movement of the tongue and jaw (Hoff-
+man and Luschei, 1980; Murray et al., 1991; Murray
+and Sessle, 1992). Thus, we believe that our results
+show that regions of motor and premotor cortex
+involved in moving the tongue project to the 3b tongue
+representation. The injected 3b tongue representation
+also received projections from more anterior parts of
+the upper bank of the lateral sulcus and insula. Patches
+of filled neurons were found near the fundus of the
+superior limiting sulcus in the presumptive location of
+the primary gustatory area (G) and other taste-related
+areas of the anterior insula (Sanides, 1968; Ogawa
+et al., 1989; Smith-Swintosky et al., 1991; Plata-
+Salam/C19an and Scott, 1992; Ogawa, 1994; Pritchard and
+Norgren, 2004). A few cells (Table 1) labeled by this
+injection were also found in the lateral prefrontal cor-
+tex, near the fundus of the principal sulcus (not
+shown).
+Case 1: medial representation of the teeth
+An injection of FR in case 1 was placed near the fundus
+of the central sulcus into a region that responded to
+touches on all of the upper front teeth and contralateral
+premolars; the skin of the medial upper lip, proximal
+chin, and anterior neck; and the hairs on the neck and
+jaw (Fig. 5A). The contralateral upper canine and all
+four upper incisors were represented at the center of
+this injection (Fig. 7). Like the injection into the repre-
+sentation of the tongue in this case, this injection might
+have spread very slightly into area 3a.
+TABLE 1.
+Distributions (%) of Retrogradely Labeled Cells Throughout the Ipsilateral Cortex After Injections Into 3b Representations
+of the Oral Cavity and Face 1
+Case 1 Case 2 Case 3 Case 4
+Area
+Tongue
+(CTB;
+n 5 18,447)
+Teeth (FR;
+n 5 2,758)
+Tongue/lip
+(CTB;
+n 5 34,128)
+Lip
+(FR; n 5 2,125)
+Lip/chin
+(BDA;
+n 5 7,264)
+Tongue
+(CTB;
+n 5 35,322)
+Teeth
+(WGA-HRP;
+n 5 8,967)
+Tongue
+(CTB;
+n 5 65,416)
+Teeth
+(WGA-HRP;
+n 5 5,255)
+3b 62.54 84.52 54.32 96.05 96.83 61.69 35.51 63.18 86.41
+3a 14.92 8.27 3.48 0.09 0.11 1.59 8.64 8.49 6.98
+1 2.79 1.92 12.12 1.08 1.46 12.65 7.62 15.04 0.36
+2 0.42 0.40 8.85 0.56 0.72 9.18 3.95 1.81 0.11
+PPC 0.14 0.18 7.40 1.65 0.67 0.37 0.71 0.03 0.61
+S2/PV 3.72 0.69 2.65 0.05 0.00 5.00 7.05 2.22 0.88
+UBLS 3.95 3.30 2.49 0.00 0.06 2.47 20.56 3.18 1.08
+INS 1.27 0.36 0.56 0.00 0.15 0.03 0.67 1.13 1.01
+M1 8.61 0.33 6.38 0.52 0.00 4.73 9.90 4.85 1.39
+PM 1.6 0.04 1.74 0.00 0.00 2.28 5.27 0.06 3.06
+LPFC 0.04 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+1Rows sequentially list case numbers, injected representations, injected tracers, and total number of cells (n) labeled by each injection. Cortical
+areas containing labeled cells are listed in the first column, and successive columns contain the percentage of cells labeled in each area. PPC
+includes all parietal areas caudal to area 2. Because they were often difficult to distinguish, cells in area S2 and PV were counted together. UBLS
+includes all of the cells labeled in the upper bank of the lateral sulcus that were not in any part of anterior parietal areas 3b, 3a, 1, and 2 that
+extended onto the lateral sulcus or in S2/PV.
+TABLE 2.
+Distributions (%) of Cells Labeled Within Area 3b 1
+Case 1 Case 2 Case 3 Case 4
+Area
+Tongue
+(CTB;
+n 5 11,536)
+Teeth
+(FR;
+n 5 2,331)
+Tongue/lip
+(CTB;
+n 5 18,539)
+Lip
+(FR;
+n 5 2,041)
+Lip/chin
+(BDA;
+n 5 7,034)
+Tongue
+(CTB;
+n 5 21,789)
+Teeth
+(WGA-HRP;
+n 5 3,184)
+Tongue
+(CTB;
+n 5 41,327)
+Teeth
+(WGA-HRP;
+n 5 4,541)
+3b Mouth
+and face
+99.97 99.96 99.36 100 99.97 99.96 99.84 100 99.87
+3b Hand 0.03 0.04 0.64 0.00 0.03 0.04 0.16 0.00 0.13
+1Conventions as in Table 1. 3b Mouth and face includes all cells in area 3b lateral to the dorsal edge of the hand face border.
+Cortical Input to Area 3B Mouth Representations
+The Journal of Comparative Neurology | Research in Systems Neuroscience 555
+ 10969861, 2014, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.23426 by University Of Bath, Wiley Online Library on [30/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+PAGE 11
+Again, the majority of inputs to the injected represen-
+tation of the teeth came from other parts of the 3b rep-
+resentation of the mouth (Tables 1, 2), specifically the
+teeth, gums, and buccal wall (Fig. 7). A focus of labeled
+cells was also found in the rostrolateral part of area 3b
+that continued out of the central sulcus and onto the
+Figure 7. Case 1 FR injection into 3b teeth. A: Distribution of FR-labeled cells through the somatosensory cortex of case 1. Each black
+square indicates one FR-filled cell. The injection core and diffusion zone are outlined in white. An injection of FR into a region responding
+to the upper front teeth, lip, and chin resulted in filled cells scattered throughout somatosensory and motor cortex in a pattern similar to
+the case 1 tongue representation injection. There was, however, little projection from possible taste cortex in the insula and upper bank
+of the lateral sulcus to the representation of the teeth in this case. For abbreviations see list. Conventions as in Figure 6. B: Injected
+receptive field. Scale bar 5 5 mm.
+C.M. Cerkevich et al.
+556 The Journal of Comparative Neurology | Research in Systems Neuroscience
+ 10969861, 2014, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.23426 by University Of Bath, Wiley Online Library on [30/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+PAGE 12
+surface of the brain. This region was not mapped in
+this case for technical reasons, but, given the mapping
+results in our other cases (Fig. 5), we believe that these
+cells likely lie in a second, more lateral representation
+of the teeth and gums that includes more ipsi- and
+bilaterally responsive sites than the injected medial rep-
+resentation of the teeth. The adjacent tongue represen-
+tation also provided inputs to the representation of the
+teeth and lip, although perhaps not from the center of
+the tongue region that was injected with CTB. The lip
+and chin representations in 3b projected to the adja-
+cent medial representation of the teeth as well. There
+was almost no input from the 3b hand representation
+(Table 2).
+Cells filled by the FR injection were also located out-
+side of area 3b, in a pattern that was largely similar to
+that revealed by the CTB injection into the tongue
+region in case 1 (Fig. 7). Labeled cells were in presum-
+ably matched representations of the teeth in areas 3a,
+1, 2, 5, S2, and PV. A few back-filled neurons were
+found anterior to PV in the lateral sulcus. M1 and PMv
+also contained labeled cells. Unlike the tongue repre-
+sentation injection, neurons were not labeled in regions
+of cortex that may process taste by our injection into
+the more medial representation of the teeth.
+Case 2: tongue and lip representation
+In case 2, an injection of CTB was placed on the caudal
+bank of the central sulcus into a region representing
+the contralateral anterior tongue, including the tip (Fig.
+5B). A second mapping session revealed that the center
+of this injection included responses to touch on the
+whole of the contralateral dorsal surface of the tongue,
+the lower contralateral anterior teeth and ipsilateral
+incisors, part of the anterior palate, and skin and hairs
+of the contralateral lower lip and chin (Fig. 8). This
+injection spread to include 3b representations of the
+gums around the contralateral anterior lower teeth and
+possibly the ipsilateral first and second premolars (very
+weak responses to stimulation of these teeth were indi-
+cated). The diffusion zone around this CTB injection
+might also have included parts of adjacent areas 1 and
+2 (Fig. 4B), but strong uptake from the diffusion zone
+was unlikely.
+The injection centered on the tongue and lip repre-
+sentations in case 2 revealed a pattern of projections
+similar to that seen in case 1 (Fig. 8, Table 1). Labeled
+cells were found in other parts of 3b responding to
+stimulation of the tongue, lips, and chin. Within 3b,
+inputs to the tongue/lip representation also came from
+the more medial representation of the teeth, although a
+few labeled cells were found in the electrophysiologi-
+cally defined lateral representation of the teeth as well.
+There were labeled cells in an unmapped portion of
+area 3b between the anatomical hand–face border and
+mapped lip and teeth representations that likely repre-
+sents other parts of the face (Qi and Kaas, 2004; Kaas
+et al., 2006). Once again, the vast majority of filled neu-
+rons after the CTB injection into the 3b tongue/lip rep-
+resentation were in the region area 3b devoted to the
+face and mouth (Table 2). Outside of area 3b, there
+were back-filled cells in other somatosensory areas,
+including areas 3a, 1, 2, 5, S2, and PV. Labeled neu-
+rons were also found in the PPC and in the presumed
+locations of mouth and face representations in PR and
+VS. M1 and PMv also provided input to the injected
+tongue/lip region. The anterior upper bank of the lat-
+eral sulcus and insula contained CTB-labeled neurons,
+suggesting that taste cortex in these regions provides
+inputs to the 3b tongue representation.
+Case 2: lip and chin representations
+The case 2 BDA injection was our most medial injection
+(Fig. 5). It was centered on a region responding to both
+the skin and the hairs of the contralateral middle and
+medial lower lip and anterior chin (Fig. 9). This injection
+also involved a region responsive to all of the contralat-
+eral lower lip, including the corner of the mouth and
+the surrounding cheek and the rest of the chin. Some
+cortex representing the ipsilateral medial lower lip and
+upper anterior chin was included in this injection. The
+BDA and CTB injections overlapped slightly, with the
+BDA diffusion zone crossing into a region that included
+very weak responses to stimulation on the contralateral
+tongue.
+The BDA injection in case 2 revealed a pattern of
+label similar to that seen after the case 2 CTB injection
+in the tongue/lip representation but with a more
+restricted distribution (Fig. 9, Table 1). Within area 3b,
+inputs to the chin/lip representation largely came from
+the rest of 3b representing the lips and chin. There
+were large numbers of back-filled cells in unmapped 3b
+cortex between the mapped representations of the chin
+and lips and the hand–face border that likely represent
+the rest of the face. Inputs from representations of the
+teeth came only from the nearby medial representation
+and not the more lateral part of 3b that was also
+responsive to touch on the teeth. A small, more medial
+part of the tongue representation also projected to the
+injected chin region. Because the BDA injection in chin
+and lower lip cortex was closest to the 3b hand–face
+border, and a chin representation has been show to
+appear in hand cortex after a spinal cord lesion dam-
+aged hand afferents (Manger et al., 1997), this injection
+was the best candidate to label latent connections
+between face and hand representations of area 3b.
+Cortical Input to Area 3B Mouth Representations
+The Journal of Comparative Neurology | Research in Systems Neuroscience 557
+ 10969861, 2014, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.23426 by University Of Bath, Wiley Online Library on [30/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+PAGE 13
+There was, however, no indication of cells projecting
+from the 3b hand cortex to the 3b face region (Table
+2). A few cells within the septum between these two
+representations were filled with BDA. Outside of area
+3b, the pattern of label was similar to that of the case
+2 tongue/lip injection with inputs from all of the ante-
+rior parietal somatosensory areas indicated. Few
+labeled cells were found in M1 or the cortex of the
+Figure 8. Case 2 CTB injection into 3b tongue/lip. A: Distribution of CTB-labeled cells through the somatosensory cortex of case 2. This
+injection of CTB includes parts of both the tongue and lip representations. Neurons labeled by this injection were found throughout the 3b
+face and mouth representation, in other anterior parietal and lateral sulcus somatosensory areas, in motor and premotor cortex, and in
+likely taste-responsive regions of the anterior upper bank of the lateral sulcus and insula. For abbreviations see list. Conventions as in Fig-
+ure 6. B: Injected receptive field. Scale bar 5 5 mm.
+C.M. Cerkevich et al.
+558 The Journal of Comparative Neurology | Research in Systems Neuroscience
+ 10969861, 2014, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.23426 by University Of Bath, Wiley Online Library on [30/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+PAGE 14
+lateral sulcus, perhaps because of poor tracer trans-
+port. The few scattered neurons labeled in the insular
+cortex might have been the result of the BDA injection
+spread into the tongue region.
+Case 2: lip representation
+A small injection of FR was placed into the representa-
+tion of the contralateral middle and medial lower lip
+(Fig. 10) between cores of the tongue/lip (CTB) and
+Figure 9. Case 2 BDA injection into 3b lip/chin. A: Distribution of BDA-labeled cells through the somatosensory cortex of case 2. Each
+gray diamond is one BDA-filled cell. The injection of BDA was centered on the representation of the medial lower lip and anterior chin but
+spread to include representations of most of the lower lip and the rest of the chin. As with other case 2 injections, this one labeled cells
+in a pattern similar to injections in other parts of 3b, with strong local inputs coming from within the injected representation, more inputs
+from other nearby representations within 3b, and then inputs from other somatosensory areas. Although this was our most medial injec-
+tion, no BDA back-filled cells were found medial to the hand–face border. For abbreviations see list. Conventions as in Figure 6. B:
+Injected receptive field. Scale bar 5 5 mm.
+Cortical Input to Area 3B Mouth Representations
+The Journal of Comparative Neurology | Research in Systems Neuroscience 559
+ 10969861, 2014, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.23426 by University Of Bath, Wiley Online Library on [30/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+PAGE 15
+lip/chin (BDA) injections in case 2 (Fig. 5B). This FR
+injection included representations of the skin and hair
+along the rest of the contralateral lower lip. A region of
+cortex with weak responses to the contralateral lower
+incisors might also have been involved in the FR injec-
+tion, but these penetrations were on the edge of the
+injection site, and it is unclear how much tracer uptake
+occurred in this representation of the teeth.
+The 3b lower lip FR injection was small, but it pro-
+duced a pattern of labeled neurons that was similar to
+that revealed by the other case 2 injections (Fig. 10).
+Back-filled neurons were primarily in the representations
+Figure 10. Case 2 FR injection into 3b lip. A: Distribution of FR-labeled cells through the somatosensory cortex of case 2. The injection of
+FR centered on the lower lip representation was small but does show a pattern of cells projecting to the 3b lip region from within the 3b
+face responsive cortex, areas 3a, 1, 2, and M1, that is similar to that revealed by injections into the tongue and lip representations. For
+abbreviations see list. Conventions as in Figure 6. B: Injected receptive field. Scale bar 5 5 mm.
+C.M. Cerkevich et al.
+560 The Journal of Comparative Neurology | Research in Systems Neuroscience
+ 10969861, 2014, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.23426 by University Of Bath, Wiley Online Library on [30/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+PAGE 16
+of the lower lip and chin. Again, the presumptive upper
+face representation in the unmapped part of 3b just lat-
+eral to the hand–face border contained labeled neurons.
+The most medial portion of cortex representing the
+tongue also provided inputs to the injected lip region.
+No label was found in 3b hand cortex (Table 2). Areas
+3a, 1, 2, and 5 also provided inputs to the lip represen-
+tation. Projections from motor and lateral sulcus somato-
+sensory cortex were also indicated by FR-filled cells.
+Unlike the CTB and BDA injections in case 2, no region
+of cortex responding to the tongue was involved in the
+FR injection, and no neurons back-filled with FR were
+found in presumptive taste areas of the upper bank of
+the lateral sulcus and insula.
+Case 3: tongue representation
+CTB was injected in the CS into a region representing
+much of the middle and anterior tongue (Fig. 5C), cen-
+tered on a region of responses to touch on the contra-
+lateral anterior and tip of the tongue (Fig. 11). Part of
+the contralateral middle palate was also included in the
+case 3 CTB injection. Our interpretation of the results
+of this CTB injection is complicated, somewhat, by a
+second injection of CTB into the area 5 hand represen-
+tation in the contralateral hemisphere for an unrelated
+study. However, few if any of the labeled neurons in
+somatosensory regions representing the face would
+have been labeled by this second injection.
+In case 3, CTB back-filled cells were distributed
+across much of nearby somatosensory cortex (Fig. 11).
+The locations of the lightly colored medial patch of
+filled neurons in more medial areas 1, 2, and 5 in Fig-
+ure 10 are inconsistent with transport from the area 3b
+tongue injection and are attributed to the contralateral
+CTB injection. CTB-labeled cells in other, less-well-
+mapped somatosensory areas of the more caudal part
+of the upper bank of the lateral sulcus are shown in full
+and were counted when we determined magnitudes of
+projections to ensure that we did not miss any cells
+projecting to the 3b tongue representation (Table 1).
+The results revealed strong projections to the 3b
+tongue region from the area 3b mouth (the rest of the
+tongue, teeth, and palate) and face (chin, lips, and
+weaker from the face) representations contained
+labeled cells (Fig. 11). As with the other cases with
+tongue injections, almost no labeled cells were seen in
+3b hand cortex (Table 2). Again, there were projections
+to the 3b tongue representation from areas 3a, 1, 2,
+S2, PV and presumptive VS and PR. Labeled cells indi-
+cating inputs from motor and premotor cortex were
+concentrated laterally in M1 and PMv. Finally, there
+were CTB-filled neurons near the superior limiting sul-
+cus at the extreme anterior junction of the upper bank
+of the lateral sulcus and insula, suggesting projections
+from gustatory cortex to the 3b tongue representation.
+Case 3: lateral representation of the teeth
+The WGA-HRP injection in case 3 was a large injection
+in the most lateral portion of 3b on the surface of the
+brain beyond the lateral tip of the central sulcus (Fig.
+5C). Although centered on a representation of the con-
+tralateral upper first incisor, this WGA-HRP injection
+was placed into a region containing responses to all of
+the anterior teeth as well as parts of the gums on both
+sides of the mouth, including the bilateral upper and
+lower anterior teeth and surrounding gum, the contra-
+lateral lower first premolar, the ipsilateral upper first
+premolar, all of the contralateral hard palate, and the
+bilateral anterior hard palate (Fig. 12). Although we
+believe that the zone of uptake from this WGA-HRP
+injection was restricted, the diffusion zone around the
+injection core was large and included representations
+of the ipsilateral upper second incisor and canine; the
+bilateral lower incisors, canines, and premolars; and the
+bilateral anterior half of the tongue. It also spread into
+unmapped regions of areas 1, PV, and S2 that likely
+also represented the face (Fig. 5C).
+Much of the ipsilateral cortex contained labeled neu-
+rons (Fig. 12, Table 1). There were strong inputs from the
+rest of the teeth, tongue, palate, lip, and face representa-
+tions within area 3b. Although the filled neurons outside
+of area 3b revealed by the case 3 WGA-HRP injection
+cover a wider region of cortex than the injection into the
+medial representation of the teeth in case 1, the pattern
+of these projections was similar to both the case 1 FR
+injection in the medial region of the teeth and that
+revealed by injections into the 3b tongue cortex in all
+cases. As with the medial representation of the teeth,
+this injection centered on the lateral representation of
+the teeth failed to label cells in the region of the anterior
+upper bank of the lateral sulcus and anterior insula that
+contained filled neurons after case 3’s tongue injection.
+Case 4: tongue representation
+The case 4 injection of CTB into the tongue representa-
+tion was centered on a region responding to stimulation
+of the contralateral middle and anterior tongue without
+the tip (Fig. 13). This injection of CTB spread to include
+representations of the rest of the contralateral tongue,
+the anterior half of the ipsilateral tongue, and the tip of
+tongue; the gums around the contralateral lower premo-
+lars and first molar; the upper first and second molars
+and the ipsilateral upper canine and premolars; and all
+of the anterior palate and the contralateral half of the
+rest of the palate. The diffusion zone included an adja-
+cent part of area 1 (Fig. 5D).
+Cortical Input to Area 3B Mouth Representations
+The Journal of Comparative Neurology | Research in Systems Neuroscience 561
+ 10969861, 2014, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.23426 by University Of Bath, Wiley Online Library on [30/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+PAGE 17
+Resulting CTB label revealed strong projections from
+other parts of the oral cavity in 3b as well as anterior
+parietal cortex, lateral sulcus cortex, insular cortex, and
+motor cortex (Fig. 13, Table 1). Intraoral representa-
+tions containing CTB-filled neurons after the injection
+into the 3b tongue region included other parts of the
+tongue representation and representations of the pal-
+ate, gingiva, teeth, and buccal wall. The inputs from the
+representations of the teeth and gums came only from
+the more lateral representations, not from the more
+medial part of cortex that responded to stimulation of
+the teeth and gums. The region of mixed lower lip and
+chin responses in 3b projected to the region of the 3b
+tongue representation injection. Fewer labeled cells
+Figure 11. Case 3 CTB injection into 3b tongue. A: Distribution of CTB labeled cells through the somatosensory cortex of case 3. In case
+3, CTB was injected into a region including responses to the tongue and part of the contralateral palate. Projections to this tongue region
+were largely similar to those of other cases, with strong local connections, projections from other somatosensory and motor areas, and
+input coming from presumptive taste cortex. The medial patch of lightly shaded cells likely results from a contralateral injection placed for
+another study. For abbreviations see list. Conventions as in Figure 6. B: Injected receptive field. Scale bar 5 5 mm.
+C.M. Cerkevich et al.
+562 The Journal of Comparative Neurology | Research in Systems Neuroscience
+ 10969861, 2014, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.23426 by University Of Bath, Wiley Online Library on [30/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+PAGE 18
+were found in the upper lip and face representations in
+3b. Almost no CTB-filled neurons were found in the 3b
+hand cortex (Table 2). In addition to these local connec-
+tions, there were projections from all of the anterior
+parietal and lateral sulcus somatosensory areas, and
+lateral M1 and PMv to the 3b tongue representation in
+case 4. Several filled neurons were found in the ante-
+rior upper bank of the lateral sulcus and insula. These
+inputs indicate that area G and other taste regions may
+project to area 3b.
+Figure 12. Case 3 WGA-HRP injection into lateral 3b teeth. A: Distribution of WGA-HRP-labeled cells through the somatosensory cortex of
+case 3. Each gray diamond is one WGA-HRP-filled cell. WGA-HRP injected into the representation of the teeth, gums, and palate in area
+3b resulted in a pattern of inputs similar to that of the medial teeth representation injection in case 1. Label in the anterior upper bank of
+the lateral sulcus and anterior insula after this injection was in contrast to that of the case 1 teeth representation injection; however the
+diffusion zone of this injection did include parts of the tongue representation in 3b and possibly other areas. For abbreviations see list.
+Conventions as in Figure 6. B: Injected receptive field. Scale bar 5 5 mm.
+Cortical Input to Area 3B Mouth Representations
+The Journal of Comparative Neurology | Research in Systems Neuroscience 563
+ 10969861, 2014, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.23426 by University Of Bath, Wiley Online Library on [30/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+PAGE 19
+Case 4: lateral representation of the teeth
+Representations of the ipsilateral upper incisors and
+canine and the ipsilateral lower second incisor, canine,
+and first premolar were at the center of case 4’s WGA-
+HRP injection in rostrolateral 3b on the surface of the
+brain (Figs. 5D, 13). The injected region also included
+cortex with responses to stimulation on the rest of the
+ipsilateral upper teeth; the ipsilateral lower first molar,
+Figure 13. Case 4 CTB injection into 3b tongue. A: Distribution of CTB-labeled cells through the somatosensory cortex of case 4. A CTB
+injection into the tongue region in case 4 reveled a pattern of strong local connections, projections from somatosensory, motor, and possi-
+ble taste cortex similar to those in other tongue injections. For abbreviations see list. Conventions as in Figure 6. B: Injected receptive
+field. Scale bar 5 5 mm.
+C.M. Cerkevich et al.
+564 The Journal of Comparative Neurology | Research in Systems Neuroscience
+ 10969861, 2014, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.23426 by University Of Bath, Wiley Online Library on [30/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+PAGE 20
+second premolar, and first incisor; and the contralateral
+lower anterior teeth. The representation of the gums
+surrounding the ipsilateral upper anterior teeth was
+also a part of this WGA-HRP injection.
+As for the injections in our other cases, the case 4
+WGA-HRP injection into the lateral representation of the
+teeth resulted in many back-filled cells in other parts of
+the mouth representation in area 3b (Fig. 14, Table 1).
+There was a high concentration of labeled neurons
+within the lateral teeth/gum representation, but none
+was found in the more medial representation of the
+teeth. Regions processing signals from the palate,
+cheek pouch, gums, and tongue also projected to the
+lateral representation of the teeth. Although both the
+lower and the upper lip representations contained
+labeled neurons, the connections coming from the
+lower lip appeared to be denser. Almost all of the filled
+cells in area 3b were in the representations of the
+mouth and face (Table 2). Outside of primary somato-
+sensory cortex, there were labeled cells indicating pro-
+jections from other somatosensory areas in the anterior
+parietal cortex, including 3a, 1, 2, and 5, S2, PV, and
+presumptive PR and VS. Filled cells were found in lat-
+eral M1 and PMv, and the field of labeled cells spread
+onto the caudal bank of the arcuate sulcus. There were
+fewer labeled neurons in the anterior part of the upper
+bank of the lateral sulcus and anterior insula than with
+the case 4 tongue representation injection.
+Contralateral inputs to the 3b tongue
+representation
+Contralateral inputs to area 3b were analyzed only
+for the CTB injections into cortical representations of
+the tongue in each case. Our injections into the 3b
+tongue representation consistently resulted in labeled
+neurons in the contralateral hemisphere in all of our
+cases (Fig. 15). Based on their location in relation to
+the myeloarchitecture, CTB-filled cells were found in the
+matching 3b tongue representation of the contralateral
+hemisphere. This indicates that the lateral part of area
+3b in one hemisphere projects to the tongue represen-
+tation on the other side of the brain. In addition, many
+labeled neurons were anterior to area 3b in area 3a
+and primary motor cortex. Small numbers of projections
+from contralateral areas 1 and 2 and somatosensory
+areas in the upper bank of the lateral sulcus were also
+indicated.
+DISCUSSION
+Our results appear to be the first to reveal the corti-
+cal network for the processing of tactile information
+from the inside of the mouth in macaque monkeys.
+Injections of anatomical tracers into 3b representations
+of the tongue and teeth revealed projections to this
+region from a number of nearby regions cortex (Fig.
+16). Oral cavity representations had strong intrinsic
+connections with the rest of the 3b mouth and face
+regions. Outside of area 3b, inputs to the mouth and
+face regions of area 3b arose from areas 3a, 1, 2, and
+5; S2; PV; PR and VS areas; M1; and PMv. Cortex in
+the anterior part of the upper bank of the lateral sulcus
+and insula and around the principal sulcus contained
+only neurons filled by injections into the representation
+of the tongue in area 3b. Injections into representations
+of the lips and chin in area 3b labeled neurons largely
+in the rest of face and oral cavity cortex, with little to
+no input from other body part representations in area
+3b, including that of the hand.
+Network for processing somatosensory
+information from the oral cavity
+The neural network for processing somatosensory
+information from the inside of the mouth and the face
+is large and complex and is similar to that for the hand.
+All somatosensory areas in the anterior parietal cortex
+(3b, 3a, 1, and 2) and the lateral sulcus (S2, PV, PR,
+and PV) as well as associated areas in the PPC, con-
+tained filled cells after our injections into 3b face and
+mouth representations (Fig. 16, solid arrows). Addition-
+ally, motor and premotor areas also provided input to
+the representations of intraoral structures and the face
+in area 3b. Similar patterns of inputs to the 3b oral cav-
+ity and face representations have been shown in New
+World owl, squirrel, and marmoset monkeys (Iyengar
+et al., 2007). Tracer injections into representations of
+other body parts in area 3b have demonstrated a simi-
+lar pattern of projections across all primates (Pons and
+Kaas, 1985, 1986; Kaas and Pons, 1988; Krubitzer and
+Kaas, 1990; Darian-Smith et al., 1993; Burton and
+Fabri, 1995; Qi et al., 2002; Wu and Kaas, 2003; Coq
+et al., 2004; Kaas, 2004). Thus, our results reveal a net-
+work for processing tactile information from the inside
+of the mouth that is similar to that for other body parts
+and likely is common to all primates. Nevertheless,
+greater numbers of neurons are involved in this network
+as a result of the great amount of cortex representing
+the face and mouth.
+Because each of our injections was placed into an
+electrophysiologically defined representation of the
+tongue, teeth, lip, or chin, the locations of labeled cells
+helped to identify poorly studied oral cavity and face
+representations in other somatosensory areas. Back-
+filled neurons were concentrated in the lateral parts of
+areas 3a, 1, and 2. We did not map these regions
+Cortical Input to Area 3B Mouth Representations
+The Journal of Comparative Neurology | Research in Systems Neuroscience 565
+ 10969861, 2014, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.23426 by University Of Bath, Wiley Online Library on [30/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+PAGE 21
+during our experiments, but limited mapping in these
+regions in macaques and New World monkeys suggests
+that representations of the face and mouth lie in the
+lateral region of each of these areas (Nelson and Kaas,
+1981; Pons et al., 1985a,b; Manger et al., 1995, 1996,
+1997; Huffman and Krubitzer, 2001; Jain et al., 2001a;
+Qi and Kaas, 2004; Iyengar et al., 2007; Seelke et al.,
+2012). Given that the representations of any body part
+Figure 14. Case 4 WGA-HRP injection into lateral 3b teeth. A: Distribution of WGA-HRP-labeled cells through the somatosensory cortex of
+case 4. In case 4, WGA-HRP was injected into a representation mostly of the ipsilateral teeth. Local projections to this region were strong.
+Inputs from areas 3a, 1, 2, S2/PV, M1, and PMv were similar to those of other cases. As with the other teeth representation injections,
+few labeled cells were found in presumptive taste cortex. For abbreviations see list. Conventions as in Figure 6. B: Injected receptive field.
+Scale bar 5 5 mm.
+C.M. Cerkevich et al.
+566 The Journal of Comparative Neurology | Research in Systems Neuroscience
+ 10969861, 2014, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.23426 by University Of Bath, Wiley Online Library on [30/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+PAGE 22
+in each of the anterior parietal areas are preferentially
+connected to the matching body part representation in
+area 3b (Burton and Fabri, 1995), it is likely that the
+projections from areas 3a, 1, and 2 revealed by our
+injections identify the oral cavity and face representa-
+tions in each of these areas. Face and mouth represen-
+tations have not been thoroughly described in area 5.
+However, lesions in the face region of the primary
+somatosensory face cortex resulted in degeneration in
+lateral areas 5–7 (Pearson and Powell, 1978, 1985).
+Our injections of retrograde tracers resulted in labeled
+cells in the cortex just caudal to the area 2 face repre-
+sentation (Pons et al., 1985a,b), a lateral portion of
+area 5–7 likely to represent the face and mouth (Pad-
+berg et al., 2009). Previously, projections from area 5
+to area 3b were described as weak, although they origi-
+nated from same approximate mediolateral level in area
+5 as the injection in area 3b (Burton and Fabri, 1995),
+likely matching body part representations.
+There are several proposed somatosensory areas in
+the cortex of the lateral sulcus, and most or all of the
+regions of these areas contained labeled neurons after
+our injections. Although electrophysiological mapping of
+these areas has been limited by their position in the lat-
+eral sulcus, the somatotopic organizations of S2, PV,
+and parts of VS have been described in macaques (Kru-
+bitzer et al., 1995). The representation of the oral cavity
+was not completely mapped in S2 and PV, but the loca-
+tions responsive to stimulation of the face and intraoral
+structures were often nonadjacent. The precise organi-
+zation of the map of the face and mouth in these
+regions of S2 and PV is unclear, but the recorded
+responses to stimulation on the face and mouth were
+from neurons concentrated near the crest of the lateral
+sulcus closer to the junction of S2 and PV with areas
+3b, 1, and 2. Likewise, labeled cells in S2 and PV
+tended to be concentrated dorsally, although the distri-
+butions of labeled neurons often extended toward the
+ventral border, deeper in the lateral sulcus. Receptive
+fields for neurons in S2 and PV are often large (Krubit-
+zer et al., 1995), leaving the organizations of the maps
+in these areas not as precise as that in area 3b, where
+smaller receptive fields dominate. Thus, it may be that
+representations of larger regions of the skin surface of
+the mouth and face in area S2 and PV project to the
+Figure 15.
+Figure 15. Contralateral projections to the 3b tongue representa-
+tion. A–C: Distribution of CTB labeled cells through the contralat-
+eral somatosensory and motor cortex of cases 1 (A), 2 (B), and 4
+(C). In all cases, cells labeled after CTB injections into the area
+3b tongue representation were concentrated in the lateral part of
+the contralateral are 3b, presumably the matching tongue repre-
+sentation. Back-filled cells were also found in contralateral area
+3a, 1, 2, M1, and PMv in all cases. A few projections from other
+somatosensory areas (S2, PV, PR, and VS) were variably indi-
+cated. For abbreviations see list. Rostral is right, medial is up, all
+other conventions as in Figure 6.
+Cortical Input to Area 3B Mouth Representations
+The Journal of Comparative Neurology | Research in Systems Neuroscience 567
+ 10969861, 2014, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.23426 by University Of Bath, Wiley Online Library on [30/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+PAGE 23
+more circumscribed representations of individual oral
+cavity and facial structures in area 3b. Organized pro-
+jections from S2 and PV to area 3b have been reported
+for other body parts in New World monkeys and prosi-
+mian galagos, in which S2 and PV are more accessible
+for study, and physiological maps are more complete
+(Krubitzer and Kaas, 1990; Qi et al., 2002; Wu and
+Kaas, 2003; Coq et al., 2004; Iyengar et al., 2007). The
+existence of a distinct representation of the inside of
+the mouth in areas PR and VS has been demonstrated
+only by limited mapping of responses from stimulation
+of the mouth and face (Krubitzer et al., 1995; Qi et al.,
+2002; Coq et al., 2004) and the results of previous
+tracer studies in New World monkeys (Iyengar et al.,
+2007). The present evidence for projections to face and
+mouth representations in macaques provides further
+support for the existence of face and oral cavity repre-
+sentations in PR and VS, although more extensive phys-
+iological explorations of these areas will be required to
+identify face and mouth representations with
+confidence.
+Our injections into the 3b representations of the oral
+cavity and face also labeled neurons in lateral M1 and
+PMv. Movements of the face and mouth have been eli-
+cited by stimulation of these regions in both New World
+monkeys and macaques (McGuinness et al., 1980;
+Ghosh and Gattera, 1995; Graziano et al., 2002; Step-
+niewska et al., 2006; Gharbawie et al., 2011). Further-
+more, cells in this region have been shown to be active
+during movements of the jaw and tongue (Hoffman and
+Luschei, 1980; Murray and Sessle, 1992). In addition,
+lateral positions of both somatosensory and motor cor-
+tex must be functioning properly for a monkey to per-
+form a tongue protrusion task properly (Murray et al.,
+1991; Lin et al., 1993). The homotopic projections from
+M1 and PMv to area 3b representations of structures in
+the mouth and face that we have demonstrated here
+likely reflect parts of a network for the proper integra-
+tion of sensory information to guide movements of the
+face and mouth during feeding and vocalization.
+Projections unique to the 3b tongue
+representation
+Although most of the projections to the 3b represen-
+tations of the face and mouth were similar to those
+Figure 16. Summary of projections to the 3b representation of the oral cavity and face. The 3b representations of the oral cavity and face
+receive inputs from within this region, the presumptive mouth and face representations in the other somatosensory areas of the anterior
+and posterior parietal cortex and in the lateral sulcus, and regions of motor and premotor cortex involved in controlling movements of the
+mouth and face (solid lines). Presumptive area G and regions of the insula implicated in processing taste as well as cortex in the dorsal
+bank of the principal sulcus were shown to project only to the 3b tongue representation (dashed lines). For abbreviations see list.
+C.M. Cerkevich et al.
+568 The Journal of Comparative Neurology | Research in Systems Neuroscience
+ 10969861, 2014, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.23426 by University Of Bath, Wiley Online Library on [30/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+PAGE 24
+demonstrated for other body part representations in
+area 3b, the representation of the tongue appears to
+receive unique projections from several areas impli-
+cated in the cortical system for processing taste (Fig.
+16, dashed arrows). Primarily, these inputs arose from
+cortex of the anterior upper bank of the lateral sulcus
+and insula. The cortical system for processing taste is
+not fully understood. There is general agreement about
+the existence of a primary gustatory area, G, in maca-
+ques (Ogawa et al., 1985, 1989; Ogawa, 1994; Cipolloni
+and Pandya, 1999; Scott and Plata-Salam /C19an, 1999) that
+is similar in location to that described by Sanides
+(1968) for squirrel monkeys. G is often defined anatom-
+ically as a region of cortex in the upper bank of the lat-
+eral sulcus that receives strong input from the
+ventroposterior medial parvicellular nucleus (VPMpc),
+the taste nucleus of the thalamus (Pritchard et al.,
+1986). Functionally, this area is difficult to define as a
+result of sparse responses to taste stimuli (Scott et al.,
+1986; Ogawa et al., 1989; Plata-Salam /C19an and Scott,
+1992; Pritchard and Norgren, 2004) and fairly high inci-
+dence of cells that respond to touch (Scott et al.,
+1986; Ogawa et al., 1989). Nearby regions of the insula
+have also been implicated in the processing of taste
+(Ogawa et al., 1989; Plata-Salam /C19an and Scott, 1992;
+Kringelbach, 2004; Pritchard and Norgren, 2004). It is
+likely that the cells back-filled by our injections into the
+tongue representations in our cases were in area G and
+possibly these other gustatory related areas. In maca-
+ques, there is no projection from VPMpc to the 3b
+tongue representation (Cerkevich et al., 2009, 2013).
+Thus, it appears that projections from taste-related cor-
+tex to the macaque 3b tongue representation form the
+only pathway by which gustatory information can
+directly access the primary sensory cortex for the
+tongue. However, we cannot rule out the possibility
+that it is only the somatosensory responsive cells in
+these gustatory regions that project to area 3b.
+Both the orbitofrontal cortex (OFC) and the lateral
+prefrontal cortex (LPFC) have been implicated in the
+qualitative evaluation of taste stimuli (Rolls et al., 1989;
+Rolls and Baylis, 1994; Carmichael and Price, 1995;
+Rolls, 2000; Kringelbach, 2004; Kringelbach et al.,
+2004) and may be vital to integrating information from
+multiple sensory systems to create the rewarding
+response often associated with food (Shepherd, 2012).
+Our injections did not label cells in the OFC, but a few
+neurons in the LPFC were labeled by our injections into
+the tongue region. Connections between the LPFC and
+area 3b have not been previously demonstrated (Yeter-
+ian et al., 2012), and the projection we found was very
+weak, consisting of only eight of the 18,447 total CTB
+cells labeled by a 3b tongue representation injection in
+case 1. However, in macaques, cells in the LPFC have
+been shown to change activity during delay periods in
+tasks in which food rewards were visible or associated
+but not seen (Watanabe, 1996; Hikosaka and Wata-
+nabe, 2000). Responses to taste (Kringelbach et al.,
+2004) and changes in fatty acid concentrations in the
+blood after a meal (Tataranni et al., 1999) have been
+demonstrated in the dorsolateral prefrontal cortex in
+humans. These responses in humans appear to be in
+regions of cortex that correspond the location of our
+labeled cells in LPFC (Petrides et al., 2012).
+Face–hand interaction in area 3b
+It has long been known that sensory loss from the
+hand produced by peripheral amputations (Merzenich
+et al., 1984; Florence and Kaas, 1995) and deafferenting
+injuries of the peripheral nerves (Merzenich et al.,
+1983a,b; Garraghty and Kaas, 1991; Garraghty et al.,
+1994) and spinal cord (Pons et al., 1991; Jain et al.,
+1997, 1998b, 2008) can lead to changes in the respon-
+siveness of the region of area 3b representing the hand.
+Reorganization in the somatosensory cortex after such
+injuries often results in hand cortex becoming responsive
+to stimulation on the face (Merzenich et al., 1984; Pons
+et al., 1991; Florence and Kaas, 1995; Jain et al., 1997,
+1998b, 2008; Manger et al., 1997). When small injections
+of distinguishable fluorescent tracers were placed into
+mapped representations of the 3b hand and face in fully
+intact owl, squirrel, and marmoset monkeys, almost no
+connections between the two regions of area 3b were
+found (Fang et al., 2002). Intrinsic connections of the 3b
+hand have been shown to be confined to a mediolaterally
+restricted region of area 3b (Lund et al., 1993; Burton
+and Fabri, 1995). Although the full extent of the hand
+representation was not mapped and the hand–face bor-
+der was not defined in these studies, few of these con-
+nections appeared to extend into the representation of
+the face that lies laterally in 3b compared with the hand
+representation. Our injections into representations of the
+face and intraoral structures resulted in very few, if any,
+labeled cells in area 3b medial to the hand face border
+(Table 2). These combined results suggest there is no
+preexisting face–hand network in area 3b. Thus, the reor-
+ganization that occurs after deafferenting injuries must
+result from changes in the intrinsic connections of area
+3b that emerge after sensory loss or changes in the con-
+nections of subcortical levels of somatosensory process-
+ing (Florence and Kaas, 1995; Florence et al., 2000).
+CONCLUSIONS
+By injecting anatomical tracers into electrophysiologi-
+cally defined representations of the tongue, teeth, and
+Cortical Input to Area 3B Mouth Representations
+The Journal of Comparative Neurology | Research in Systems Neuroscience 569
+ 10969861, 2014, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.23426 by University Of Bath, Wiley Online Library on [30/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+PAGE 25
+face in the primary somatosensory cortex, we were
+able to reveal the projections to the 3b oral cavity
+region in macaques. This is the first time that the net-
+work for somatosensory processing from the oral cavity
+has been described for Old World monkeys. For the
+most part, the projections to area 3b’s oral cavity rep-
+resentation from other somatosensory and motor areas
+are similar to those going to the better studied 3b hand
+representation. The tongue representation, however,
+received idiosyncratic inputs from taste-related areas
+buried deep in the lateral sulcus and insula and very
+weakly from the lateral prefrontal cortex. Finally, no
+network of intrinsic connections in area 3b exists in
+normal monkeys that would support the reactivation of
+area 3b hand cortex by stimulation the face after long-
+standing sensory loss form the hand.
+ACKNOWLEDGMENTS
+We thank Mary Feurtado for help in surgery and animal
+care, Laura Trice for tissue processing, Drs. Mary Baldwin,
+Omar Gharbawie, Jamie Reed, Peiyan Wong, and Nicole
+Young for help during the cortical mapping sessions, Dr.
+Mary Baldwin for providing the illustrations used to show
+the extent of the injected receptive ﬁelds, and Barbara
+O’Brien for helpful comments on the manuscript.
+CONFLICT OF INTEREST STATEMENT
+The authors have no conflicts of interest to declare.
+ROLE OF AUTHORS
+All authors had full access to all the data in the
+study and take responsibility from the integrity of the
+data and the accuracy of the data analysis. Study con-
+cept and design: JHK, H-XQ Acquisition of data: CMC,
+H-XQ. Analysis and interpretation of data: CMC, JHK, H-
+XQ. Drafting of the manuscript: CMC, JHK, H-XQ.
+Obtained funding: JHK.
+LITERATURE CITED
+Angelucci A, Clasca F, Sur M. 1996. Anterograde axonal trac-
+ing with the subunit B of cholera toxin: a highly sensitive
+immunohistochemical protocol for revealing ﬁne axonal
+morphology in adult and neonatal brains. J Neurosci
+Methods 65:101–112.
+Avivi-Arber L, Martin R, Lee J-C, Sessle B. 2011. Face sensori-
+motor cortex and its neuroplasticity related to orofacial
+sensorimotor functions. Arch Oral Biol 56:1440–1465.
+Bruce K, Grofova I. 1992. Notes on a light and electron micro-
+scopic double-labeling method combining anterograde
+tracing with Phaseolus vulgaris leucoagglutinin and retro-
+grade tracing with cholera toxin subunit B. J Neurosci
+Methods 45:23–33.
+Burton H, Fabri M. 1995. Ipsilateral intracortical connections
+of physiologically deﬁned cutaneous representations in
+areas 3b and 1 of macaque monkeys: projections in the
+vicinity of the central sulcus. J Comp Neurol 355:508–
+538.
+Carmichael ST, Price JL. 1995. Sensory and premotor connec-
+tions of the orbital and medial prefrontal cortex of maca-
+que monkeys. J Comp Neurol 363:642–664.
+Cerkevich C, Qi H-X, Kaas J. 2009. Thalamocortical connec-
+tions of the macaque 3b oral cavity representation. Pro-
+gram No. 464.12. Neuroscience 2009 Abstracts.
+Chicago, IL: Society for Neuroscience, 2009. Online.
+Cerkevich C, Qi H-X, Kaas JH. 2013. Thalamic input to represen-
+tations of the teeth, tongue, and face in somatosensory
+area 3b of macaque monkeys. J Comp Neurol (in press).
+Cipolloni PB, Pandya DN. 1999. Cortical connections of the
+frontoparietal opercular areas in the rhesus monkey. J
+Comp Neurol 403:431–458.
+Coq J-O, Qi H, Collins CE, Kaas JH. 2004. Anatomical and
+functional organization of somatosensory areas of the
+lateral ﬁssure of the New World titi monkey ( Callicebus
+moloch). J Comp Neurol 476:363–387.
+Darian-Smith C, Darian-Smith I, Burman K, Ratcliffe N. 1993.
+Ipsilateral cortical projections to areas 3a, 3b, and 4 in
+the macaque monkey. J Comp Neurol 335:200–213.
+Fang P-C, Jain N, Kaas J. 2002. Few intrinsic connections
+cross the hand–face border of area 3b of New World
+monkeys. J Comp Neurol 454:310–319.
+Florence SL, Kaas JH. 1995. Large-scale reorganization at
+multiple levels of the somatosensory pathway follows
+therapeutic amputation of the hand in monkeys. J Neuro-
+sci 15:8083–8095.
+Florence SL, Hackett TA, Strata F. 2000. Thalamic and corti-
+cal contributions to neural plasticity after limb amputa-
+tion. J Neurophysiol 83:3154–3159.
+Gallyas F. 1979. Silver staining of myelin by means of physi-
+cal development. Neurol Res 1:203–209.
+Garraghty PE, Kaas JH. 1991. Large-scale functional reorgan-
+ization in adult monkey cortex after peripheral nerve
+injury. Proc Natl Acad Sci U S A 88:6976–6980.
+Garraghty PE, Hanes DP, Florence SL, Kaas JH. 1994. Pattern
+of peripheral deafferentation predicts reorganizational
+limits in adult primate somatosensory cortex. Somatos-
+ens Mot Res 11:109–117.
+Gharbawie OA, Stepniewska I, Kaas JH. 2011. Cortical con-
+nections of functional zones in posterior parietal cortex
+and frontal cortex motor regions in New World monkeys.
+Cereb Cortex 21:1981–2002.
+Ghosh S, Gattera R. 1995. A comparison of the ipsilateral
+cortical projections to the dorsal and ventral subdivisions
+of the macaque premotor cortex. Somatosens Mot Res
+12:359–378.
+Graziano MSA, Taylor CSR, Moore T. 2002. Complex move-
+ments evoked by microstimulation of precentral cortex.
+Neuron 34:841–851.
+Hikosaka K, Watanabe M. 2000. Delay activity of orbital and
+lateral prefrontal neurons of the monkey varying with dif-
+ferent rewards. Cereb Cortex 10:263–271.
+Hoffman DS, Luschei ES. 1980. Responses of monkey precen-
+tral cortical cells during a controlled jaw bite task. J Neu-
+rophysiol 44:333–348.
+Huffman KJ, Krubitzer L. 2001. Area 3a: topographic organiza-
+tion and cortical connections in marmoset monkeys.
+Cereb Cortex 11:849–867.
+Iyengar S, Qi H-X, Jain N, Kaas J. 2007. Cortical and thalamic
+connections of the representations of the teeth and
+tongue in somatosensory cortex of new world monkeys.
+J Comp Neurol 501:95–120.
+Jain N, Catania K, Kaas J. 1997. Deactivation and reactivation
+of somatosensory cortex after dorsal spinal cord injury.
+Nature 386:495–498.
+C.M. Cerkevich et al.
+570 The Journal of Comparative Neurology | Research in Systems Neuroscience
+ 10969861, 2014, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.23426 by University Of Bath, Wiley Online Library on [30/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+PAGE 26
+Jain N, Catania K, Kaas J. 1998a. A histologically visible repre-
+sentation of the ﬁngers and palm in primate area 3b and
+its immutability following long-term deafferentations.
+Cereb Cortex 8:227–236.
+Jain N, Florence S, Kaas J. 1998b. Reorganization of somato-
+sensory cortex after nerve and spinal cord injury. New
+Physiol Sci 13:143–149.
+Jain N, Qi H-X, Catania K, Kaas J. 2001a. Anatomic correlates
+of the face and oral cavity representations in the soma-
+tosensory cortical area 3b of monkeys. J Comp Neurol
+429:455–468.
+Jain N, Qi H-X, Kaas J, Nicolelis M. 2001b. Long term chronic
+multichannel recordings from sensorimotor cortex and
+thalamus of primates. Nerw York: Elsevier. p 63–72.
+Jain N, Qi H-X, Collins C, Kaas J. 2008. Large-scale reorganiza-
+tion in the somatosensory cortex and thalamus after sen-
+sory loss in macaque monkeys. J Neurosci 28:11042–
+11060.
+Kaas J. 2004. Evolution of the large, complex sensorimotor
+systems of anthropoid primates. Int J Comp Psychol 17:
+34052.
+Kaas JH, Pons TP. 1988. The somatosensory system of prima-
+tes. In: Steklis HD, Erwin JM, editors. Comparative pri-
+mate biology, vol 4: neurosciences. New York: Alan R.
+Liss, Inc. p 421–468.
+Kaas J, Qi H-X, Iyengar S. 2006. Cortical network for repre-
+senting the teeth and tongue in primates. Anat Rec A
+Disco Mol Cell Evol Biol 288A:182–190.
+Kringelbach ML. 2004. Food for thought: hedonic experience
+beyond homeostasis in the human brain. Neuroscience
+126:807–819.
+Kringelbach ML, de Araujo IET, Rolls ET. 2004. Taste-related
+activity in the human dorsolateral prefrontal cortex. Neu-
+roimage 21:781–788.
+Krubitzer LA, Kaas JH. 1990. The organization and connec-
+tions of somatosensory cortex in marmosets. J Neurosci
+10:952–974.
+Krubitzer L, Clarey J, Tweedale R, Elston G, Calford M. 1995.
+A redeﬁnition of somatosensory areas in the lateral sul-
+cus of macaque monkeys. J Neurosci 15:3821–3839.
+Lin LD, Murray GM, Sessle BJ. 1993. The effect of bilateral
+cold block of the primate face primary somatosensory
+cortex on the performance of trained tongue-protrusion
+task and biting tasks. J Neurophysiol 70:985–996.
+Lin LD, Murray GM, Sessle BJ. 1994. Functional properties of
+single neurons in the primate face primary somatosen-
+sory cortex. I. Relations with trained orofacial motor
+behaviors. J Neurophysiol 71:2377–2390.
+Lund JS, Yoshioka T, Levitt JB. 1993. Comparison of intrinsic
+connectivity in different areas of macaque monkey cere-
+bral cortex. Cereb Cortex 3:148–162.
+Manger PR, Woods TM, Jones EG. 1995. Representation of
+the face and intraoral structures in area 3b of the squir-
+rel monkey ( Saimiri sciureus ) somatosensory cortex, with
+special reference to the ipsilateral representation. J
+Comp Neurol 362:597–607.
+Manger PR, Woods TM, Jones EG. 1996. Representation of face
+and intraoral structures in area 3b of macaque monkey
+somatosensory cortex. J Comp Neurol 371:513–521.
+Manger PR, Woods TM, Munoz A, Jones EG. 1997. Hand/face
+border as a limiting boundary in the body representation
+in monkey somatosensory cortex. J Neurosci 17:6338–
+6351.
+McGuinness E, Sivertsen D, Allman JM. 1980. Organization of
+the face representation in macaque motor cortex. J
+Comp Neurol 193:591–608.
+Merzenich M, Kaas J, Wall J, Sur M, Nelson R, Felleman D.
+1983a. Progression of change following median nerve
+section in the cortical representation of the hand in
+areas 3b and 1 in adult owl and squirrel monkeys. Neu-
+roscience 10:639–641.
+Merzenich MM, Kaas JH, Wall J, Nelson RJ, Sur M, Felleman
+D. 1983b. Topographic reorganization of somatosensory
+cortical areas 3b and 1 in adult monkeys following
+restricted deafferentation. Neuroscience 8:33–55.
+Merzenich M, Nelson R, Stryker M, Cynader M, Schoppmann
+A, Zook J. 1984. Somatosensory cortical map changes
+following digit amputation in adult monkeys. J Comp
+Neurol 224:591–605.
+Murray GM, Sessle BJ. 1992. Functional properties of single
+neurons in the face primary motor cortex of the primate.
+II. Relations with trained orofacial motor behavior. J Neu-
+rophysiol 67:759–774.
+Murray GM, Lin LD, Moustafa EM, Sessle BJ. 1991. Effects of
+reversible inactivation by cooling of the primate face
+motor cortex on the performance of a trained tongue-
+protrusion task and a trained biting task. J Neurophysiol
+65:511–530.
+Nelson RJ, Kaas JH. 1981. Connections of the ventroposterior
+nucleus of the thalamus with the body surface representa-
+tions in cortical areas 3b and 1 of the cynomolgus maca-
+que (Macaca fascicularis). J Comp Neurol 199:29–64.
+Nelson RJ, Sur M, Felleman DJ, Kaas JH. 1980. Representa-
+tions of the body surface in postcentral parietal cortex
+of Macaca fascicularis . J Comp Neurol 192:611–643.
+Ogawa H. 1994. Gustatory cortex of primates: anatomy and
+physiology. Neurosci Res 20:1–13.
+Ogawa H, Ito S-I, Nomura T. 1985. Two distinct projection
+areas from tongue nerves in the frontal operculum of
+macaque monkeys as revealed with evoked potential
+mapping. Neurosci Res 2:447–459.
+Ogawa H, Ito S-I, Nomura T. 1989. Oral cavity representation
+at the frontal operculum of macaque monkeys. Neurosci
+Res 6:283–298.
+Olucha F, Martonez-Garcia F, Lopez-Garcia C. 1985. A new
+stabilizing agent for the tetramethyl benzidine (TMB)
+reaction product in the histochemical detection of horse-
+radish peroxidase (HRP). J Neurosci Methods 13:131–
+138.
+Padberg J, Cerkevich C, Engle J, Rajan AT, Recanzone G, Kaas
+J, Krubitzer L. 2009. Thalamocortical connections of pari-
+etal somatosensory cortical ﬁelds in macaque monkeys
+are highly divergent and convergent. Cereb Cortex 19:
+2038–2064.
+Pearson RCA, Powell TPS. 1978. The cortico-cortical connec-
+tions to area 5 of the parietal lobe from the primary
+somatic snsory cortex of the monkey. Proc R Soc Lond
+B Biol Sci 200:103–108.
+Pearson RCA, Powell TPS. 1985. The projection of the primary
+somatic sensory cortex upon area 5 in the monkey. Brain
+Res Rev 9:89–107.
+Petrides M, Tomaiuolo F, Yeterian EH, Pandya DN. 2012. The
+prefrontal cortex: comparative architectonic organization
+in the human and the macaque monkey brains. Cortex
+48:46–57.
+Plata-Salam/C19an CR, Scott TR. 1992. Taste neurons in the cor-
+tex of the alert cynomolgus monkey. Brain Res Bull 28:
+333–336.
+Pons TP, Kaas JH. 1985. Connections of area 2 of somatosen-
+sory cortex with the anterior pulvinar and subdivisions of
+the ventroposterior complex in macaque monkeys. J
+Comp Neurol 240:16–36.
+Pons TP, Kaas JH. 1986. Corticocortical connections of area 2
+of somatosensory cortex in macaque monkeys: a correla-
+tive anatomical and electrophysiological study. J Comp
+Neurol 248:313–335.
+Cortical Input to Area 3B Mouth Representations
+The Journal of Comparative Neurology | Research in Systems Neuroscience 571
+ 10969861, 2014, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.23426 by University Of Bath, Wiley Online Library on [30/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+PAGE 27
+Pons TP, Garraghty PE, Cusick CG, Kaas JH. 1985a. A sequen-
+tial representation of the occiput, arm, forearm and hand
+across the rostrocaudal dimension of areas 1, 2 and 5 in
+macaque monkeys. Brain Res 335:350–353.
+Pons TP, Garraghty PE, Cusick CG, Kaas JH. 1985b. The
+somatotopic organization of area 2 in macaque monkeys.
+J Comp Neurol 241:445–466.
+Pons TP, Garraghty PE, Ommaya AK, Kaas JH, Taub E, Mishkin
+M. 1991. Massive cortical reorganization after sensory
+deafferentation in adult macaques. Science 252:1857–
+1860.
+Pritchard T, Norgren R. 2004. Gustatory sysytem. In: The
+human nervous system, 2nd ed. Amsterdam: Elsevier. p
+1171–1198.
+Pritchard T, Hamilton R, Morse J, Norgren R. 1986. Projec-
+tions of thalamic gustatory and lingual areas in the mon-
+key, Macaca fascicularis . J Comp Neurol 244:213–228.
+Qi H-X, Kaas J. 2004. Myelin stains reveal an anatomical
+framework for the representation of the digits in somato-
+sensory area 3b of macaque monkeys. J Comp Neurol
+477:172–187.
+Qi H-X, Stepniewska I, Kaas JH. 2000. Reorganization of pri-
+mary motor cortex in adult macaque monkeys with long-
+standing amputations. J Neurophysiol 84:2133–2147.
+Qi H-X, Lyon DC, Kaas JH. 2002. Cortical and thalamic con-
+nections of the parietal ventral somatosensory area in
+marmoset monkeys ( Callithrix jacchus ). J Comp Neurol
+443:168–182.
+Rolls E. 2000. The orbitofrontal cortex and reward. Cereb Cor-
+tex 10:284–294.
+Rolls E, Baylis L. 1994. Gustatory, olfactory, and visual con-
+vergence within the primate orbitofrontal cortex. J Neuro-
+sci 14:5437–5452.
+Rolls ET, Sienkiewicz ZJ, Yaxley S. 1989. Hunger modulates
+the responses to gustatory stimuli of single neurons in
+the caudolateral orbitofrontal cortex of the macaque
+monkey. Eur J Neurosci 1:53–60.
+Sanides F. 1968. The architecture of the cortical taste nerve
+areas in squirrel monkey ( Saimiri sciureus ) and their rela-
+tionships to insular, sensorimotor and prefrontal regions.
+Brain Res 8:97–124.
+Schmued L, Slikker W. 1999. Black-Gold: a simple, high-
+resolution histochemical label for normal and pathologi-
+cal myelin in brain tissue sections. Brain Res 837:289–
+297.
+Scott TR, Plata-Salam /C19an CR. 1999. Taste in the monkey cor-
+tex. Physiol Behav 67:489–511.
+Scott TR, Yaxley S, Sienkiewicz ZJ, Rolls ET. 1986. Gustatory
+responses in the frontal opercular cortex of the alert
+cynomolgus monkey. J Neurophysiol 56:876–890.
+Seelke AMH, Padberg JJ, Disbrow E, Purnell SM, Recanzone G,
+Krubitzer L. 2012. Topographic maps within Brodmann’s
+area 5 of macaque monkeys. Cereb Cortex 22:1834–
+1850.
+Shepherd GM. 2012. Neurogastronomy: how the brain creates
+ﬂavor and why it matters. New York: Columbia University
+Press.
+Smith-Swintosky VL, Plata-Salaman CR, Scott TR. 1991. Gus-
+tatory neural coding in the monkey cortex: stimulus qual-
+ity. J Neurophysiol 66:1156–1165.
+Stepniewska I, Preuss TM, Kaas JH. 2006. Ipsilateral cortical
+connections of dorsal and ventral premotor areas in New
+World owl monkeys. J Comp Neurol 495:691–708.
+Tataranni PA, Gautier J-F, Chen K, Uecker A, Bandy D, Salbe
+AD, Pratley RE, Lawson M, Reiman EM, Ravussin E.
+1999. Neuroanatomical correlates of hunger and sati-
+ation in humans using positron emission tomography.
+Proc Natl Acad Sci U S A 96:4569–4574.
+Toda T, Taoka M. 2001. The complexity of receptive ﬁelds of
+periodontal mechanoreceptive neurons in the postcentral
+area 2 of conscious macaque monkey brains. Arch Oral
+Biol 46:1079–1084.
+Toda T, Taoka M. 2002a. Hierarchical somesthetic processing of
+tongue inputs in the postcentral somatosensory cortex of
+conscious macaque monkeys. Exp Brain Res 147:243–251.
+Toda T, Taoka M. 2002b. Integration of the upper and lower
+lips in the postcentral area 2 of conscious macaque
+monkeys (Macaca fuscata ). Arch Oral Biol 47:449–456.
+Toda T, Taoka M. 2004. Converging patterns of inputs from
+oral structures in the postcentral somatosensory cortex of
+conscious macaque monkeys. Exp Brain Res 158:43–49.
+Veenman CL, Reiner A, Honig MG. 1992. Biotinylated dextran
+amine as an anterograde tracer for single- and double-
+labeling studies. J Neurosci Methods 41:239–254.
+Watanabe M. 1996. Reward expectancy in primate prefrental
+neurons. Nature 382:629–632.
+Wu CWH, Kaas JH. 2003. Somatosensory cortex of prosimian
+galagos: physiological recording, cytoarchitecture, and
+corticocortical connections of anterior parietal cortex
+and cortex of the lateral sulcus. J Comp Neurol 457:
+263–292.
+Yeterian EH, Pandya DN, Tomaiuolo F, Petrides M. 2012. The
+cortical connectivity of the prefrontal cortex in the mon-
+key brain. Cortex 48:58–81.
+572 The Journal of Comparative Neurology | Research in Systems Neuroscience
+C.M. Cerkevich et al.
+ 10969861, 2014, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.23426 by University Of Bath, Wiley Online Library on [30/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

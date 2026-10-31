@@ -1,0 +1,190 @@
+{
+  "map_id": "fig08B_vibrissae",
+  "figure": "8B",
+  "panel": "",
+  "pdf_page": 10,
+  "printed_page": "",
+  "species": "Rattus norvegicus",
+  "specimen": "fig08B_vibrissae_experiment_unresolved",
+  "hemisphere": "unresolved",
+  "view_type": "individual_response_map_on_curved_grid",
+  "hemisphere_relation": "",
+  "linked_main_map": "",
+  "repeat_of": "",
+  "relationship_note": "Distinct panel experiment; animal identity and overlap with other figures unresolved. Do not pool panels as independent animals.",
+  "specimen_link_status": "source_label_preserved; cross-paper overlap unresolved",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 3,
+  "crop_xyxy": [
+    300,
+    920,
+    1420,
+    1610
+  ],
+  "scale_endpoints_px": [],
+  "scale_length_mm": null,
+  "scale_note": "Source Fig. 3 states each curved grid cell represents 1 mm\u00b2. The grid is nonuniform in image space: a single pixel/mm scale is invalid. Pixel tracing retained; local grid-based area calibration is required and has not been applied.",
+  "scale_reference_map": "",
+  "outline": null,
+  "rois": [
+    {
+      "label": "vibrissae",
+      "polygons": [
+        [
+          [
+            266.0,
+            142.0
+          ],
+          [
+            290.0,
+            118.0
+          ],
+          [
+            334.0,
+            102.0
+          ],
+          [
+            382.0,
+            82.0
+          ],
+          [
+            434.0,
+            70.0
+          ],
+          [
+            488.0,
+            62.0
+          ],
+          [
+            546.0,
+            56.0
+          ],
+          [
+            602.0,
+            46.0
+          ],
+          [
+            646.0,
+            38.0
+          ],
+          [
+            674.0,
+            38.0
+          ],
+          [
+            686.0,
+            48.0
+          ],
+          [
+            688.0,
+            72.0
+          ],
+          [
+            676.0,
+            80.0
+          ],
+          [
+            652.0,
+            72.0
+          ],
+          [
+            628.0,
+            70.0
+          ],
+          [
+            620.0,
+            80.0
+          ],
+          [
+            634.0,
+            102.0
+          ],
+          [
+            646.0,
+            114.0
+          ],
+          [
+            638.0,
+            128.0
+          ],
+          [
+            622.0,
+            138.0
+          ],
+          [
+            608.0,
+            130.0
+          ],
+          [
+            586.0,
+            118.0
+          ],
+          [
+            562.0,
+            108.0
+          ],
+          [
+            538.0,
+            100.0
+          ],
+          [
+            514.0,
+            104.0
+          ],
+          [
+            502.0,
+            124.0
+          ],
+          [
+            488.0,
+            142.0
+          ],
+          [
+            470.0,
+            152.0
+          ],
+          [
+            440.0,
+            146.0
+          ],
+          [
+            418.0,
+            132.0
+          ],
+          [
+            388.0,
+            134.0
+          ],
+          [
+            362.0,
+            140.0
+          ],
+          [
+            330.0,
+            144.0
+          ],
+          [
+            298.0,
+            150.0
+          ],
+          [
+            270.0,
+            154.0
+          ]
+        ]
+      ],
+      "extent": "complete_drawn_response_territory",
+      "boundary_note": "Heavy author-drawn response-territory boundary, traced at stroke centre. Functional response map, not a complete architectonic M1 outline. Dense/merged strokes introduce boundary uncertainty."
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "M1_total",
+      "status": "not_measurable",
+      "reason": "The figure maps selected response territories, not a complete architectonic M1 boundary."
+    }
+  ],
+  "supersample": 4,
+  "protocol": "perpendicular"
+}

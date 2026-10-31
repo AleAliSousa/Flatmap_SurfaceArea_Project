@@ -1,0 +1,306 @@
+{
+  "date": "2026-10-31",
+  "pass_number": 2,
+  "changed_regions": [
+    {
+      "map_id": "fig09_case1_motor_fields",
+      "label": "3a_dorsolateral_component",
+      "kind": "revision",
+      "note": "Enlarged source/old/candidate comparison: follows the printed compartment perimeter more closely, retaining internal lettering and symbols. White-component extraction, short pixel-gap closing where used, half-pixel coordinate correction, 0.5-pixel simplification. Native print resolution still limits precision."
+    },
+    {
+      "map_id": "fig09_case1_motor_fields",
+      "label": "4gamma_rostral_cruciate_bank",
+      "kind": "revision",
+      "note": "Enlarged source/old/candidate comparison: follows the printed compartment perimeter more closely, retaining internal lettering and symbols. White-component extraction, short pixel-gap closing where used, half-pixel coordinate correction, 0.5-pixel simplification. Native print resolution still limits precision."
+    },
+    {
+      "map_id": "fig09_case1_motor_fields",
+      "label": "6iffu_rostral_cruciate_bank",
+      "kind": "revision",
+      "note": "Enlarged source/old/candidate comparison: follows the printed compartment perimeter more closely, retaining internal lettering and symbols. White-component extraction, short pixel-gap closing where used, half-pixel coordinate correction, 0.5-pixel simplification. Native print resolution still limits precision."
+    },
+    {
+      "map_id": "fig10_case2_motor_fields",
+      "label": "6iffu_rostral_cruciate_bank",
+      "kind": "revision",
+      "note": "Enlarged source/old/candidate comparison: follows the printed compartment perimeter more closely, retaining internal lettering and symbols. White-component extraction, short pixel-gap closing where used, half-pixel coordinate correction, 0.5-pixel simplification. Native print resolution still limits precision."
+    },
+    {
+      "map_id": "fig14_case6",
+      "label": "4gamma_dorsolateral_component",
+      "kind": "revision",
+      "note": "Enlarged source/old/candidate comparison: follows the printed compartment perimeter more closely, retaining internal lettering and symbols. White-component extraction, short pixel-gap closing where used, half-pixel coordinate correction, 0.5-pixel simplification. Native print resolution still limits precision."
+    },
+    {
+      "map_id": "fig14_case6",
+      "label": "3a_dorsolateral_component",
+      "kind": "revision",
+      "note": "Enlarged source/old/candidate comparison: follows the printed compartment perimeter more closely, retaining internal lettering and symbols. White-component extraction, short pixel-gap closing where used, half-pixel coordinate correction, 0.5-pixel simplification. Native print resolution still limits precision."
+    },
+    {
+      "map_id": "fig14_case6",
+      "label": "4gamma_rostral_cruciate_bank",
+      "kind": "revision",
+      "note": "Enlarged source/old/candidate comparison: follows the printed compartment perimeter more closely, retaining internal lettering and symbols. White-component extraction, short pixel-gap closing where used, half-pixel coordinate correction, 0.5-pixel simplification. Native print resolution still limits precision."
+    },
+    {
+      "map_id": "fig14_case6",
+      "label": "4delta_rostral_cruciate_bank",
+      "kind": "revision",
+      "note": "Enlarged source/old/candidate comparison: follows the printed compartment perimeter more closely, retaining internal lettering and symbols. White-component extraction, short pixel-gap closing where used, half-pixel coordinate correction, 0.5-pixel simplification. Native print resolution still limits precision."
+    },
+    {
+      "map_id": "fig14_case6",
+      "label": "4gamma_caudal_cruciate_bank",
+      "kind": "revision",
+      "note": "Enlarged source/old/candidate comparison: follows the printed compartment perimeter more closely, retaining internal lettering and symbols. White-component extraction, short pixel-gap closing where used, half-pixel coordinate correction, 0.5-pixel simplification. Native print resolution still limits precision."
+    },
+    {
+      "map_id": "fig14_case6",
+      "label": "4delta_caudal_cruciate_bank",
+      "kind": "revision",
+      "note": "Enlarged source/old/candidate comparison: follows the printed compartment perimeter more closely, retaining internal lettering and symbols. White-component extraction, short pixel-gap closing where used, half-pixel coordinate correction, 0.5-pixel simplification. Native print resolution still limits precision."
+    },
+    {
+      "map_id": "fig14_case6",
+      "label": "4sfu_caudal_cruciate_bank",
+      "kind": "revision",
+      "note": "Enlarged source/old/candidate comparison: follows the printed compartment perimeter more closely, retaining internal lettering and symbols. White-component extraction, short pixel-gap closing where used, half-pixel coordinate correction, 0.5-pixel simplification. Native print resolution still limits precision."
+    },
+    {
+      "map_id": "fig14_case6",
+      "label": "6iffu_rostral_cruciate_bank",
+      "kind": "revision",
+      "note": "Enlarged source/old/candidate comparison: follows the printed compartment perimeter more closely, retaining internal lettering and symbols. White-component extraction, short pixel-gap closing where used, half-pixel coordinate correction, 0.5-pixel simplification. Native print resolution still limits precision."
+    },
+    {
+      "map_id": "fig14_case6",
+      "label": "6aalpha_rostral_cruciate_bank",
+      "kind": "revision",
+      "note": "Enlarged source/old/candidate comparison: follows the printed compartment perimeter more closely, retaining internal lettering and symbols. White-component extraction, short pixel-gap closing where used, half-pixel coordinate correction, 0.5-pixel simplification. Native print resolution still limits precision."
+    },
+    {
+      "map_id": "fig14_case6",
+      "label": "3a_coronal_bank",
+      "kind": "revision",
+      "note": "Enlarged source/old/candidate comparison: follows the printed compartment perimeter more closely, retaining internal lettering and symbols. White-component extraction, short pixel-gap closing where used, half-pixel coordinate correction, 0.5-pixel simplification. Native print resolution still limits precision."
+    },
+    {
+      "map_id": "fig14_case6",
+      "label": "area2_coronal_bank",
+      "kind": "revision",
+      "note": "Enlarged source/old/candidate comparison: follows the printed compartment perimeter more closely, retaining internal lettering and symbols. White-component extraction, short pixel-gap closing where used, half-pixel coordinate correction, 0.5-pixel simplification. Native print resolution still limits precision."
+    },
+    {
+      "map_id": "fig15_case9",
+      "label": "4gamma_dorsolateral_component",
+      "kind": "revision",
+      "note": "Enlarged source/old/candidate comparison: follows the printed compartment perimeter more closely, retaining internal lettering and symbols. White-component extraction, short pixel-gap closing where used, half-pixel coordinate correction, 0.5-pixel simplification. Native print resolution still limits precision."
+    },
+    {
+      "map_id": "fig15_case9",
+      "label": "4gamma_rostral_cruciate_bank",
+      "kind": "revision",
+      "note": "Enlarged source/old/candidate comparison: follows the printed compartment perimeter more closely, retaining internal lettering and symbols. White-component extraction, short pixel-gap closing where used, half-pixel coordinate correction, 0.5-pixel simplification. Native print resolution still limits precision."
+    },
+    {
+      "map_id": "fig15_case9",
+      "label": "4delta_rostral_cruciate_bank",
+      "kind": "revision",
+      "note": "Enlarged source/old/candidate comparison: follows the printed compartment perimeter more closely, retaining internal lettering and symbols. White-component extraction, short pixel-gap closing where used, half-pixel coordinate correction, 0.5-pixel simplification. Native print resolution still limits precision."
+    },
+    {
+      "map_id": "fig15_case9",
+      "label": "4delta_caudal_cruciate_bank",
+      "kind": "revision",
+      "note": "Enlarged source/old/candidate comparison: follows the printed compartment perimeter more closely, retaining internal lettering and symbols. White-component extraction, short pixel-gap closing where used, half-pixel coordinate correction, 0.5-pixel simplification. Native print resolution still limits precision."
+    },
+    {
+      "map_id": "fig15_case9",
+      "label": "4sfu_caudal_cruciate_bank",
+      "kind": "revision",
+      "note": "Enlarged source/old/candidate comparison: follows the printed compartment perimeter more closely, retaining internal lettering and symbols. White-component extraction, short pixel-gap closing where used, half-pixel coordinate correction, 0.5-pixel simplification. Native print resolution still limits precision."
+    },
+    {
+      "map_id": "fig15_case9",
+      "label": "6iffu_rostral_cruciate_bank",
+      "kind": "revision",
+      "note": "Enlarged source/old/candidate comparison: follows the printed compartment perimeter more closely, retaining internal lettering and symbols. White-component extraction, short pixel-gap closing where used, half-pixel coordinate correction, 0.5-pixel simplification. Native print resolution still limits precision."
+    },
+    {
+      "map_id": "fig15_case9",
+      "label": "6aalpha_rostral_cruciate_bank",
+      "kind": "revision",
+      "note": "Enlarged source/old/candidate comparison: follows the printed compartment perimeter more closely, retaining internal lettering and symbols. White-component extraction, short pixel-gap closing where used, half-pixel coordinate correction, 0.5-pixel simplification. Native print resolution still limits precision."
+    },
+    {
+      "map_id": "fig16AB_case7",
+      "label": "3a_dorsolateral_component",
+      "kind": "revision",
+      "note": "Enlarged source/old/candidate comparison: follows the printed compartment perimeter more closely, retaining internal lettering and symbols. White-component extraction, short pixel-gap closing where used, half-pixel coordinate correction, 0.5-pixel simplification. Native print resolution still limits precision."
+    },
+    {
+      "map_id": "fig16AB_case7",
+      "label": "4gamma_rostral_cruciate_bank",
+      "kind": "revision",
+      "note": "Enlarged source/old/candidate comparison: follows the printed compartment perimeter more closely, retaining internal lettering and symbols. White-component extraction, short pixel-gap closing where used, half-pixel coordinate correction, 0.5-pixel simplification. Native print resolution still limits precision."
+    },
+    {
+      "map_id": "fig16AB_case7",
+      "label": "4delta_rostral_cruciate_bank",
+      "kind": "revision",
+      "note": "Enlarged source/old/candidate comparison: follows the printed compartment perimeter more closely, retaining internal lettering and symbols. White-component extraction, short pixel-gap closing where used, half-pixel coordinate correction, 0.5-pixel simplification. Native print resolution still limits precision."
+    },
+    {
+      "map_id": "fig16AB_case7",
+      "label": "4delta_caudal_cruciate_bank",
+      "kind": "revision",
+      "note": "Enlarged source/old/candidate comparison: follows the printed compartment perimeter more closely, retaining internal lettering and symbols. White-component extraction, short pixel-gap closing where used, half-pixel coordinate correction, 0.5-pixel simplification. Native print resolution still limits precision."
+    },
+    {
+      "map_id": "fig16AB_case7",
+      "label": "4sfu_caudal_cruciate_bank",
+      "kind": "revision",
+      "note": "Enlarged source/old/candidate comparison: follows the printed compartment perimeter more closely, retaining internal lettering and symbols. White-component extraction, short pixel-gap closing where used, half-pixel coordinate correction, 0.5-pixel simplification. Native print resolution still limits precision."
+    },
+    {
+      "map_id": "fig16AB_case7",
+      "label": "6iffu_rostral_cruciate_bank",
+      "kind": "revision",
+      "note": "Enlarged source/old/candidate comparison: follows the printed compartment perimeter more closely, retaining internal lettering and symbols. White-component extraction, short pixel-gap closing where used, half-pixel coordinate correction, 0.5-pixel simplification. Native print resolution still limits precision."
+    },
+    {
+      "map_id": "fig16AB_case7",
+      "label": "6aalpha_rostral_cruciate_bank",
+      "kind": "revision",
+      "note": "Enlarged source/old/candidate comparison: follows the printed compartment perimeter more closely, retaining internal lettering and symbols. White-component extraction, short pixel-gap closing where used, half-pixel coordinate correction, 0.5-pixel simplification. Native print resolution still limits precision."
+    },
+    {
+      "map_id": "fig16CD_case8",
+      "label": "4gamma_dorsolateral_component",
+      "kind": "revision",
+      "note": "Enlarged source/old/candidate comparison: follows the printed compartment perimeter more closely, retaining internal lettering and symbols. White-component extraction, short pixel-gap closing where used, half-pixel coordinate correction, 0.5-pixel simplification. Native print resolution still limits precision."
+    },
+    {
+      "map_id": "fig16CD_case8",
+      "label": "4gamma_rostral_cruciate_bank",
+      "kind": "revision",
+      "note": "Enlarged source/old/candidate comparison: follows the printed compartment perimeter more closely, retaining internal lettering and symbols. White-component extraction, short pixel-gap closing where used, half-pixel coordinate correction, 0.5-pixel simplification. Native print resolution still limits precision."
+    },
+    {
+      "map_id": "fig16CD_case8",
+      "label": "4delta_caudal_cruciate_bank",
+      "kind": "revision",
+      "note": "Enlarged source/old/candidate comparison: follows the printed compartment perimeter more closely, retaining internal lettering and symbols. White-component extraction, short pixel-gap closing where used, half-pixel coordinate correction, 0.5-pixel simplification. Native print resolution still limits precision."
+    },
+    {
+      "map_id": "fig16CD_case8",
+      "label": "4gamma_caudal_cruciate_bank",
+      "kind": "revision",
+      "note": "Enlarged source/old/candidate comparison: follows the printed compartment perimeter more closely, retaining internal lettering and symbols. White-component extraction, short pixel-gap closing where used, half-pixel coordinate correction, 0.5-pixel simplification. Native print resolution still limits precision."
+    },
+    {
+      "map_id": "fig16CD_case8",
+      "label": "6iffu_rostral_cruciate_bank",
+      "kind": "revision",
+      "note": "Enlarged source/old/candidate comparison: follows the printed compartment perimeter more closely, retaining internal lettering and symbols. White-component extraction, short pixel-gap closing where used, half-pixel coordinate correction, 0.5-pixel simplification. Native print resolution still limits precision."
+    },
+    {
+      "map_id": "fig16CD_case8",
+      "label": "6aalpha_rostral_cruciate_bank",
+      "kind": "revision",
+      "note": "Enlarged source/old/candidate comparison: follows the printed compartment perimeter more closely, retaining internal lettering and symbols. White-component extraction, short pixel-gap closing where used, half-pixel coordinate correction, 0.5-pixel simplification. Native print resolution still limits precision."
+    },
+    {
+      "map_id": "fig14_case6",
+      "label": "3a_medial_component",
+      "kind": "addition",
+      "note": "Previously omitted, source-labelled closed compartment. Identified by comparison with adjacent panels/cases in the same paper; perimeter extracted from this panel only. Internal labels and tracer dots retained. This is a component, not a whole-region or whole-hemisphere total."
+    },
+    {
+      "map_id": "fig14_case6",
+      "label": "3b_medial_component",
+      "kind": "addition",
+      "note": "Previously omitted, source-labelled closed compartment. Identified by comparison with adjacent panels/cases in the same paper; perimeter extracted from this panel only. Internal labels and tracer dots retained. This is a component, not a whole-region or whole-hemisphere total."
+    },
+    {
+      "map_id": "fig14_case6",
+      "label": "area1_medial_component",
+      "kind": "addition",
+      "note": "Previously omitted, source-labelled closed compartment. Identified by comparison with adjacent panels/cases in the same paper; perimeter extracted from this panel only. Internal labels and tracer dots retained. This is a component, not a whole-region or whole-hemisphere total."
+    },
+    {
+      "map_id": "fig15_case9",
+      "label": "3a_medial_component",
+      "kind": "addition",
+      "note": "Previously omitted, source-labelled closed compartment. Identified by comparison with adjacent panels/cases in the same paper; perimeter extracted from this panel only. Internal labels and tracer dots retained. This is a component, not a whole-region or whole-hemisphere total."
+    },
+    {
+      "map_id": "fig15_case9",
+      "label": "3b_medial_component",
+      "kind": "addition",
+      "note": "Previously omitted, source-labelled closed compartment. Identified by comparison with adjacent panels/cases in the same paper; perimeter extracted from this panel only. Internal labels and tracer dots retained. This is a component, not a whole-region or whole-hemisphere total."
+    },
+    {
+      "map_id": "fig15_case9",
+      "label": "area1_medial_component",
+      "kind": "addition",
+      "note": "Previously omitted, source-labelled closed compartment. Identified by comparison with adjacent panels/cases in the same paper; perimeter extracted from this panel only. Internal labels and tracer dots retained. This is a component, not a whole-region or whole-hemisphere total."
+    },
+    {
+      "map_id": "fig15_case9",
+      "label": "3a_ventral_coronal_bank",
+      "kind": "addition",
+      "note": "Previously omitted, source-labelled closed compartment. Identified by comparison with adjacent panels/cases in the same paper; perimeter extracted from this panel only. Internal labels and tracer dots retained. This is a component, not a whole-region or whole-hemisphere total. This ROI is the ventral-bank component below fSCor only. The fundus is not an areal limit; the dorsal-bank component is not included."
+    },
+    {
+      "map_id": "fig15_case9",
+      "label": "3b_ventral_coronal_bank",
+      "kind": "addition",
+      "note": "Previously omitted, source-labelled closed compartment. Identified by comparison with adjacent panels/cases in the same paper; perimeter extracted from this panel only. Internal labels and tracer dots retained. This is a component, not a whole-region or whole-hemisphere total. This ROI is the ventral-bank component below fSCor only. The fundus is not an areal limit; the dorsal-bank component is not included."
+    },
+    {
+      "map_id": "fig15_case9",
+      "label": "area1_coronal_bank",
+      "kind": "addition",
+      "note": "Previously omitted, source-labelled closed compartment. Identified by comparison with adjacent panels/cases in the same paper; perimeter extracted from this panel only. Internal labels and tracer dots retained. This is a component, not a whole-region or whole-hemisphere total."
+    },
+    {
+      "map_id": "fig15_case9",
+      "label": "area2_coronal_bank",
+      "kind": "addition",
+      "note": "Previously omitted, source-labelled closed compartment. Identified by comparison with adjacent panels/cases in the same paper; perimeter extracted from this panel only. Internal labels and tracer dots retained. This is a component, not a whole-region or whole-hemisphere total."
+    },
+    {
+      "map_id": "fig09_case1_motor_fields",
+      "label": "4gamma_dorsolateral_component",
+      "kind": "revision",
+      "note": "Aligned the encroaching shared edge with the source-refined 3a_dorsolateral_component border. Exact polygon difference removes the overlap on this shared edge; all remaining original vertices are preserved. This is a border correction, not a tissue exclusion or a new field."
+    },
+    {
+      "map_id": "fig09_case1_motor_fields",
+      "label": "6aalpha_rostral_cruciate_bank",
+      "kind": "revision",
+      "note": "Aligned the encroaching shared edge with the source-refined 4gamma_rostral_cruciate_bank border. Exact polygon difference removes the overlap on this shared edge; all remaining original vertices are preserved. This is a border correction, not a tissue exclusion or a new field."
+    },
+    {
+      "map_id": "fig16AB_case7",
+      "label": "4gamma_caudal_cruciate_bank",
+      "kind": "revision",
+      "note": "Aligned the encroaching shared edge with the source-refined 4delta_caudal_cruciate_bank border. Exact polygon difference removes the overlap on this shared edge; all remaining original vertices are preserved. This is a border correction, not a tissue exclusion or a new field."
+    },
+    {
+      "map_id": "fig16CD_case8",
+      "label": "4sfu_caudal_cruciate_bank",
+      "kind": "revision",
+      "note": "Replaced the coarse 4sfu bank wedge with its complete visible printed compartment between the caudal cruciate bank edge and the 4delta boundary. Other cases corroborate topology only; all coordinates come from this panel. This also removes overlap with 4delta."
+    }
+  ],
+  "scope": "All project views screened at overview resolution; changed regions reviewed enlarged. Anatomical certification remains pending.",
+  "source_pdf_unchanged": true,
+  "native_imagej_roundtrip": "passed",
+  "remaining_interior_overlap_diagnostics": [],
+  "project_review": "../project_review_2026-10-31_pass2/index.html",
+  "no_new_calibration_or_denominator": true
+}

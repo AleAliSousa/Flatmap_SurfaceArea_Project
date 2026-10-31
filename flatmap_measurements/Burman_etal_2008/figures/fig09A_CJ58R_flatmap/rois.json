@@ -1,0 +1,1540 @@
+{
+  "map_id": "fig09A_CJ58R_flatmap",
+  "figure": "9",
+  "panel": "A",
+  "pdf_page": 11,
+  "printed_page": "",
+  "species": "Callithrix jacchus",
+  "specimen": "CJ58R",
+  "hemisphere": "right",
+  "view_type": "individual_unfolded_cortical_reconstruction",
+  "hemisphere_relation": "",
+  "linked_main_map": "",
+  "repeat_of": "",
+  "relationship_note": "Fig.9A\u2013D repeat the same CJ58R geometry with different tracer overlays. Trace A once. Some boundaries are author estimates transferred from other animals; this is not four independent hemispheres.",
+  "specimen_link_status": "source_label_preserved; cross-paper overlap unresolved",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 3,
+  "crop_xyxy": [
+    390,
+    216,
+    1460,
+    1220
+  ],
+  "scale_endpoints_px": [],
+  "scale_length_mm": null,
+  "scale_note": "A bar is drawn at upper left (page coordinates 324,218 to 346,218 at 1.5 px/point), but no length is specified in the Fig.9 caption. Pixel areas retained; no scale borrowed from other figures.",
+  "scale_reference_map": "",
+  "outline": null,
+  "rois": [
+    {
+      "label": "V1",
+      "polygons": [
+        [
+          [
+            258.0,
+            486.0
+          ],
+          [
+            270.0,
+            484.0
+          ],
+          [
+            282.0,
+            485.0
+          ],
+          [
+            296.0,
+            489.0
+          ],
+          [
+            310.0,
+            495.0
+          ],
+          [
+            329.0,
+            505.0
+          ],
+          [
+            350.0,
+            520.0
+          ],
+          [
+            370.0,
+            537.0
+          ],
+          [
+            390.0,
+            555.0
+          ],
+          [
+            410.0,
+            574.0
+          ],
+          [
+            427.0,
+            594.0
+          ],
+          [
+            437.0,
+            612.0
+          ],
+          [
+            442.0,
+            625.0
+          ],
+          [
+            443.0,
+            637.0
+          ],
+          [
+            439.0,
+            649.0
+          ],
+          [
+            432.0,
+            660.0
+          ],
+          [
+            417.0,
+            675.0
+          ],
+          [
+            401.0,
+            690.0
+          ],
+          [
+            382.0,
+            702.0
+          ],
+          [
+            365.0,
+            714.0
+          ],
+          [
+            343.0,
+            725.0
+          ],
+          [
+            320.0,
+            737.0
+          ],
+          [
+            297.0,
+            748.0
+          ],
+          [
+            276.0,
+            757.0
+          ],
+          [
+            258.0,
+            763.0
+          ],
+          [
+            246.0,
+            764.0
+          ],
+          [
+            228.0,
+            763.0
+          ],
+          [
+            211.0,
+            760.0
+          ],
+          [
+            194.0,
+            756.0
+          ],
+          [
+            173.0,
+            752.0
+          ],
+          [
+            150.0,
+            749.0
+          ],
+          [
+            128.0,
+            747.0
+          ],
+          [
+            106.0,
+            744.0
+          ],
+          [
+            86.0,
+            742.0
+          ],
+          [
+            69.0,
+            738.0
+          ],
+          [
+            57.0,
+            733.0
+          ],
+          [
+            49.0,
+            725.0
+          ],
+          [
+            43.0,
+            715.0
+          ],
+          [
+            36.0,
+            702.0
+          ],
+          [
+            31.0,
+            685.0
+          ],
+          [
+            28.0,
+            668.0
+          ],
+          [
+            26.0,
+            650.0
+          ],
+          [
+            25.0,
+            632.0
+          ],
+          [
+            25.0,
+            614.0
+          ],
+          [
+            26.0,
+            596.0
+          ],
+          [
+            30.0,
+            580.0
+          ],
+          [
+            37.0,
+            565.0
+          ],
+          [
+            46.0,
+            554.0
+          ],
+          [
+            58.0,
+            545.0
+          ],
+          [
+            74.0,
+            536.0
+          ],
+          [
+            92.0,
+            529.0
+          ],
+          [
+            111.0,
+            523.0
+          ],
+          [
+            132.0,
+            518.0
+          ],
+          [
+            154.0,
+            515.0
+          ],
+          [
+            176.0,
+            512.0
+          ],
+          [
+            194.0,
+            507.0
+          ],
+          [
+            215.0,
+            501.0
+          ],
+          [
+            237.0,
+            493.0
+          ]
+        ]
+      ],
+      "extent": "complete_drawn_field",
+      "boundary_note": "Manual outline follows visible source boundary; short label/stroke gaps interpolated. Includes internal symbols and tracer deposits. Provisional. Second project review 2026-10-31: Fig.9 anatomical inset identifies both V1ca and V1op in the detached occipital lobe. Restored the entire drawn V1 lobe; continuous internal fold lines no longer split V1 or assign its opercular portion to V2. Other marmoset maps used only as topology guides. Pixel-only; no scale borrowed.",
+      "status": "rejected_pending_retrace",
+      "analysis_eligible": false,
+      "tracing_method": "Source-reviewed second-pass refinement, 2026-10-31; see project_review_2026-10-31_pass2",
+      "geometry_review": {
+        "date": "2026-10-31",
+        "pass_number": 2,
+        "status": "source_refined_provisional",
+        "note": "Fig.9 anatomical inset identifies both V1ca and V1op in the detached occipital lobe. Restored the entire drawn V1 lobe; continuous internal fold lines no longer split V1 or assign its opercular portion to V2. Other marmoset maps used only as topology guides. Pixel-only; no scale borrowed."
+      }
+    },
+    {
+      "label": "V2",
+      "polygons": [
+        [
+          [
+            440.0,
+            632.0
+          ],
+          [
+            432.0,
+            600.0
+          ],
+          [
+            430.0,
+            566.0
+          ],
+          [
+            432.0,
+            530.0
+          ],
+          [
+            420.0,
+            492.0
+          ],
+          [
+            410.0,
+            452.0
+          ],
+          [
+            412.0,
+            408.0
+          ],
+          [
+            422.0,
+            346.0
+          ],
+          [
+            434.0,
+            290.0
+          ],
+          [
+            450.0,
+            260.0
+          ],
+          [
+            470.0,
+            250.0
+          ],
+          [
+            480.0,
+            280.0
+          ],
+          [
+            472.0,
+            330.0
+          ],
+          [
+            462.0,
+            376.0
+          ],
+          [
+            460.0,
+            422.0
+          ],
+          [
+            454.0,
+            472.0
+          ],
+          [
+            462.0,
+            514.0
+          ],
+          [
+            458.0,
+            566.0
+          ],
+          [
+            454.0,
+            612.0
+          ],
+          [
+            446.0,
+            664.0
+          ],
+          [
+            440.0,
+            706.0
+          ],
+          [
+            396.0,
+            722.0
+          ],
+          [
+            418.0,
+            678.0
+          ]
+        ]
+      ],
+      "extent": "partial",
+      "boundary_note": "Manual outline follows visible source boundary; short label/stroke gaps interpolated. Includes internal symbols and tracer deposits. Provisional. Second project review 2026-10-31: Removed two components that actually belong to the V1 lobe (Fig.9 inset: V1ca/V1op). Retained only the existing main-map V2 strip; its ventral continuation is unresolved, so this is explicitly partial and excluded from whole-field comparisons.",
+      "status": "rejected_pending_retrace",
+      "analysis_eligible": false,
+      "tracing_method": "Source-reviewed second-pass refinement, 2026-10-31; see project_review_2026-10-31_pass2",
+      "geometry_review": {
+        "date": "2026-10-31",
+        "pass_number": 2,
+        "status": "source_refined_provisional",
+        "note": "Removed two components that actually belong to the V1 lobe (Fig.9 inset: V1ca/V1op). Retained only the existing main-map V2 strip; its ventral continuation is unresolved, so this is explicitly partial and excluded from whole-field comparisons."
+      }
+    },
+    {
+      "label": "M1_dorsal_component",
+      "polygons": [
+        [
+          [
+            716.0,
+            264.0
+          ],
+          [
+            736.0,
+            258.0
+          ],
+          [
+            772.0,
+            256.0
+          ],
+          [
+            776.0,
+            284.0
+          ],
+          [
+            798.0,
+            292.0
+          ],
+          [
+            808.0,
+            328.0
+          ],
+          [
+            820.0,
+            348.0
+          ],
+          [
+            846.0,
+            358.0
+          ],
+          [
+            848.0,
+            374.0
+          ],
+          [
+            812.0,
+            364.0
+          ],
+          [
+            772.0,
+            354.0
+          ],
+          [
+            742.0,
+            342.0
+          ],
+          [
+            728.0,
+            318.0
+          ],
+          [
+            724.0,
+            288.0
+          ]
+        ]
+      ],
+      "extent": "dorsal_component",
+      "boundary_note": "Grey border centres followed. Dorsal component ends at the reconstructed medial/dorsal junction; no unstated extension into medial area 6M.",
+      "status": "rejected_pending_retrace",
+      "analysis_eligible": false
+    },
+    {
+      "label": "3a",
+      "polygons": [
+        [
+          [
+            686.0,
+            274.0
+          ],
+          [
+            702.0,
+            268.0
+          ],
+          [
+            716.0,
+            264.0
+          ],
+          [
+            724.0,
+            288.0
+          ],
+          [
+            728.0,
+            318.0
+          ],
+          [
+            742.0,
+            342.0
+          ],
+          [
+            772.0,
+            354.0
+          ],
+          [
+            812.0,
+            364.0
+          ],
+          [
+            848.0,
+            374.0
+          ],
+          [
+            846.0,
+            392.0
+          ],
+          [
+            818.0,
+            386.0
+          ],
+          [
+            786.0,
+            376.0
+          ],
+          [
+            756.0,
+            366.0
+          ],
+          [
+            722.0,
+            350.0
+          ],
+          [
+            706.0,
+            332.0
+          ],
+          [
+            704.0,
+            304.0
+          ]
+        ]
+      ],
+      "extent": "complete_drawn_field",
+      "boundary_note": "Manual outline follows visible source boundary; short label/stroke gaps interpolated. Includes internal symbols and tracer deposits. Provisional.",
+      "status": "rejected_pending_retrace",
+      "analysis_eligible": false
+    },
+    {
+      "label": "3b",
+      "polygons": [
+        [
+          [
+            668.0,
+            282.0
+          ],
+          [
+            686.0,
+            274.0
+          ],
+          [
+            704.0,
+            304.0
+          ],
+          [
+            706.0,
+            332.0
+          ],
+          [
+            722.0,
+            350.0
+          ],
+          [
+            756.0,
+            366.0
+          ],
+          [
+            786.0,
+            376.0
+          ],
+          [
+            818.0,
+            386.0
+          ],
+          [
+            846.0,
+            392.0
+          ],
+          [
+            850.0,
+            432.0
+          ],
+          [
+            824.0,
+            418.0
+          ],
+          [
+            788.0,
+            402.0
+          ],
+          [
+            748.0,
+            386.0
+          ],
+          [
+            718.0,
+            376.0
+          ],
+          [
+            710.0,
+            354.0
+          ],
+          [
+            688.0,
+            334.0
+          ],
+          [
+            684.0,
+            308.0
+          ]
+        ]
+      ],
+      "extent": "complete_drawn_field",
+      "boundary_note": "Manual outline follows visible source boundary; short label/stroke gaps interpolated. Includes internal symbols and tracer deposits. Provisional.",
+      "status": "rejected_pending_retrace",
+      "analysis_eligible": false
+    },
+    {
+      "label": "S2",
+      "polygons": [
+        [
+          [
+            710.0,
+            414.0
+          ],
+          [
+            728.0,
+            416.0
+          ],
+          [
+            764.0,
+            424.0
+          ],
+          [
+            800.0,
+            438.0
+          ],
+          [
+            834.0,
+            448.0
+          ],
+          [
+            852.0,
+            450.0
+          ],
+          [
+            850.0,
+            458.0
+          ],
+          [
+            818.0,
+            454.0
+          ],
+          [
+            782.0,
+            444.0
+          ],
+          [
+            746.0,
+            432.0
+          ],
+          [
+            714.0,
+            424.0
+          ]
+        ]
+      ],
+      "extent": "complete_drawn_field",
+      "boundary_note": "Manual outline follows visible source boundary; short label/stroke gaps interpolated. Includes internal symbols and tracer deposits. Provisional.",
+      "status": "rejected_pending_retrace",
+      "analysis_eligible": false
+    },
+    {
+      "label": "MT",
+      "polygons": [
+        [
+          [
+            586.0,
+            522.0
+          ],
+          [
+            606.0,
+            518.0
+          ],
+          [
+            626.0,
+            530.0
+          ],
+          [
+            632.0,
+            552.0
+          ],
+          [
+            626.0,
+            580.0
+          ],
+          [
+            614.0,
+            606.0
+          ],
+          [
+            596.0,
+            622.0
+          ],
+          [
+            576.0,
+            626.0
+          ],
+          [
+            564.0,
+            622.0
+          ],
+          [
+            564.0,
+            604.0
+          ],
+          [
+            570.0,
+            576.0
+          ],
+          [
+            574.0,
+            550.0
+          ]
+        ]
+      ],
+      "extent": "complete_drawn_field",
+      "boundary_note": "Manual outline follows visible source boundary; short label/stroke gaps interpolated. Includes internal symbols and tracer deposits. Provisional.",
+      "status": "rejected_pending_retrace",
+      "analysis_eligible": false
+    },
+    {
+      "label": "MST",
+      "polygons": [
+        [
+          [
+            624.0,
+            494.0
+          ],
+          [
+            648.0,
+            496.0
+          ],
+          [
+            664.0,
+            514.0
+          ],
+          [
+            664.0,
+            538.0
+          ],
+          [
+            646.0,
+            534.0
+          ],
+          [
+            630.0,
+            520.0
+          ],
+          [
+            620.0,
+            510.0
+          ]
+        ]
+      ],
+      "extent": "complete_drawn_field",
+      "boundary_note": "Manual outline follows visible source boundary; short label/stroke gaps interpolated. Includes internal symbols and tracer deposits. Provisional.",
+      "status": "rejected_pending_retrace",
+      "analysis_eligible": false
+    },
+    {
+      "label": "A1",
+      "polygons": [
+        [
+          [
+            674.0,
+            520.0
+          ],
+          [
+            688.0,
+            516.0
+          ],
+          [
+            710.0,
+            522.0
+          ],
+          [
+            726.0,
+            532.0
+          ],
+          [
+            736.0,
+            548.0
+          ],
+          [
+            726.0,
+            558.0
+          ],
+          [
+            712.0,
+            548.0
+          ],
+          [
+            692.0,
+            542.0
+          ],
+          [
+            674.0,
+            534.0
+          ]
+        ]
+      ],
+      "extent": "complete_drawn_field",
+      "boundary_note": "Manual outline follows visible source boundary; short label/stroke gaps interpolated. Includes internal symbols and tracer deposits. Provisional.",
+      "status": "rejected_pending_retrace",
+      "analysis_eligible": false
+    },
+    {
+      "label": "R",
+      "polygons": [
+        [
+          [
+            736.0,
+            548.0
+          ],
+          [
+            752.0,
+            568.0
+          ],
+          [
+            766.0,
+            584.0
+          ],
+          [
+            778.0,
+            592.0
+          ],
+          [
+            762.0,
+            598.0
+          ],
+          [
+            746.0,
+            586.0
+          ],
+          [
+            736.0,
+            572.0
+          ],
+          [
+            726.0,
+            558.0
+          ]
+        ]
+      ],
+      "extent": "complete_drawn_field",
+      "boundary_note": "Manual outline follows visible source boundary; short label/stroke gaps interpolated. Includes internal symbols and tracer deposits. Provisional.",
+      "status": "rejected_pending_retrace",
+      "analysis_eligible": false
+    },
+    {
+      "label": "CM",
+      "polygons": [
+        [
+          [
+            664.0,
+            514.0
+          ],
+          [
+            678.0,
+            498.0
+          ],
+          [
+            702.0,
+            496.0
+          ],
+          [
+            716.0,
+            504.0
+          ],
+          [
+            720.0,
+            524.0
+          ],
+          [
+            710.0,
+            522.0
+          ],
+          [
+            688.0,
+            516.0
+          ],
+          [
+            674.0,
+            520.0
+          ]
+        ]
+      ],
+      "extent": "complete_drawn_field",
+      "boundary_note": "Manual outline follows visible source boundary; short label/stroke gaps interpolated. Includes internal symbols and tracer deposits. Provisional.",
+      "status": "rejected_pending_retrace",
+      "analysis_eligible": false
+    },
+    {
+      "label": "TF",
+      "polygons": [
+        [
+          [
+            534.0,
+            800.0
+          ],
+          [
+            564.0,
+            802.0
+          ],
+          [
+            594.0,
+            816.0
+          ],
+          [
+            608.0,
+            838.0
+          ],
+          [
+            602.0,
+            862.0
+          ],
+          [
+            570.0,
+            874.0
+          ],
+          [
+            556.0,
+            908.0
+          ],
+          [
+            532.0,
+            922.0
+          ],
+          [
+            534.0,
+            884.0
+          ],
+          [
+            522.0,
+            852.0
+          ],
+          [
+            516.0,
+            832.0
+          ]
+        ]
+      ],
+      "extent": "complete_drawn_field",
+      "boundary_note": "Manual outline follows visible source boundary; short label/stroke gaps interpolated. Includes internal symbols and tracer deposits. Provisional.",
+      "status": "rejected_pending_retrace",
+      "analysis_eligible": false
+    },
+    {
+      "label": "TH",
+      "polygons": [
+        [
+          [
+            570.0,
+            874.0
+          ],
+          [
+            602.0,
+            862.0
+          ],
+          [
+            630.0,
+            870.0
+          ],
+          [
+            658.0,
+            868.0
+          ],
+          [
+            650.0,
+            890.0
+          ],
+          [
+            646.0,
+            904.0
+          ],
+          [
+            604.0,
+            904.0
+          ],
+          [
+            572.0,
+            908.0
+          ],
+          [
+            556.0,
+            922.0
+          ],
+          [
+            532.0,
+            922.0
+          ],
+          [
+            556.0,
+            908.0
+          ]
+        ]
+      ],
+      "extent": "complete_drawn_field",
+      "boundary_note": "Manual outline follows visible source boundary; short label/stroke gaps interpolated. Includes internal symbols and tracer deposits. Provisional.",
+      "status": "rejected_pending_retrace",
+      "analysis_eligible": false
+    },
+    {
+      "label": "ER",
+      "polygons": [
+        [
+          [
+            650.0,
+            890.0
+          ],
+          [
+            658.0,
+            868.0
+          ],
+          [
+            702.0,
+            856.0
+          ],
+          [
+            752.0,
+            852.0
+          ],
+          [
+            824.0,
+            844.0
+          ],
+          [
+            810.0,
+            866.0
+          ],
+          [
+            790.0,
+            884.0
+          ],
+          [
+            758.0,
+            900.0
+          ],
+          [
+            716.0,
+            908.0
+          ],
+          [
+            674.0,
+            908.0
+          ],
+          [
+            646.0,
+            904.0
+          ]
+        ]
+      ],
+      "extent": "complete_drawn_field",
+      "boundary_note": "Manual outline follows visible source boundary; short label/stroke gaps interpolated. Includes internal symbols and tracer deposits. Provisional.",
+      "status": "rejected_pending_retrace",
+      "analysis_eligible": false
+    },
+    {
+      "label": "36",
+      "polygons": [
+        [
+          [
+            608.0,
+            838.0
+          ],
+          [
+            648.0,
+            846.0
+          ],
+          [
+            676.0,
+            836.0
+          ],
+          [
+            718.0,
+            832.0
+          ],
+          [
+            770.0,
+            832.0
+          ],
+          [
+            798.0,
+            834.0
+          ],
+          [
+            752.0,
+            844.0
+          ],
+          [
+            702.0,
+            848.0
+          ],
+          [
+            658.0,
+            868.0
+          ],
+          [
+            630.0,
+            870.0
+          ],
+          [
+            602.0,
+            862.0
+          ]
+        ]
+      ],
+      "extent": "complete_drawn_field",
+      "boundary_note": "Manual outline follows visible source boundary; short label/stroke gaps interpolated. Includes internal symbols and tracer deposits. Provisional.",
+      "status": "rejected_pending_retrace",
+      "analysis_eligible": false
+    },
+    {
+      "label": "FST",
+      "polygons": [
+        [
+          [
+            646.0,
+            610.0
+          ],
+          [
+            676.0,
+            612.0
+          ],
+          [
+            698.0,
+            628.0
+          ],
+          [
+            710.0,
+            646.0
+          ],
+          [
+            692.0,
+            662.0
+          ],
+          [
+            648.0,
+            660.0
+          ],
+          [
+            626.0,
+            650.0
+          ],
+          [
+            622.0,
+            638.0
+          ]
+        ]
+      ],
+      "extent": "complete_drawn_field",
+      "boundary_note": "Manual outline follows visible source boundary; short label/stroke gaps interpolated. Includes internal symbols and tracer deposits. Provisional.",
+      "status": "rejected_pending_retrace",
+      "analysis_eligible": false
+    },
+    {
+      "label": "DM",
+      "polygons": [
+        [
+          [
+            474.0,
+            360.0
+          ],
+          [
+            492.0,
+            374.0
+          ],
+          [
+            488.0,
+            398.0
+          ],
+          [
+            480.0,
+            420.0
+          ],
+          [
+            486.0,
+            444.0
+          ],
+          [
+            480.0,
+            468.0
+          ],
+          [
+            470.0,
+            502.0
+          ],
+          [
+            462.0,
+            514.0
+          ],
+          [
+            454.0,
+            472.0
+          ],
+          [
+            460.0,
+            422.0
+          ],
+          [
+            462.0,
+            376.0
+          ]
+        ]
+      ],
+      "extent": "complete_drawn_field",
+      "boundary_note": "Manual outline follows visible source boundary; short label/stroke gaps interpolated. Includes internal symbols and tracer deposits. Provisional.",
+      "status": "rejected_pending_retrace",
+      "analysis_eligible": false
+    },
+    {
+      "label": "DA",
+      "polygons": [
+        [
+          [
+            492.0,
+            374.0
+          ],
+          [
+            508.0,
+            378.0
+          ],
+          [
+            520.0,
+            396.0
+          ],
+          [
+            526.0,
+            416.0
+          ],
+          [
+            540.0,
+            438.0
+          ],
+          [
+            546.0,
+            456.0
+          ],
+          [
+            530.0,
+            486.0
+          ],
+          [
+            524.0,
+            518.0
+          ],
+          [
+            514.0,
+            542.0
+          ],
+          [
+            484.0,
+            560.0
+          ],
+          [
+            470.0,
+            568.0
+          ],
+          [
+            470.0,
+            542.0
+          ],
+          [
+            480.0,
+            516.0
+          ],
+          [
+            490.0,
+            486.0
+          ],
+          [
+            496.0,
+            460.0
+          ],
+          [
+            488.0,
+            438.0
+          ],
+          [
+            480.0,
+            420.0
+          ],
+          [
+            488.0,
+            398.0
+          ]
+        ]
+      ],
+      "extent": "complete_drawn_field",
+      "boundary_note": "Manual outline follows visible source boundary; short label/stroke gaps interpolated. Includes internal symbols and tracer deposits. Provisional.",
+      "status": "rejected_pending_retrace",
+      "analysis_eligible": false
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "VLA",
+      "status": "not_yet_digitized",
+      "reason": "Additional atlas label outside this batch of core motor, somatosensory, visual and auditory ROIs. Dashed estimated borders are not intrinsically unmeasurable; this field needs individual boundary review before tracing."
+    },
+    {
+      "label": "VLP",
+      "status": "not_yet_digitized",
+      "reason": "Additional atlas label outside this batch of core motor, somatosensory, visual and auditory ROIs. Dashed estimated borders are not intrinsically unmeasurable; this field needs individual boundary review before tracing."
+    },
+    {
+      "label": "MTc",
+      "status": "not_yet_digitized",
+      "reason": "Additional atlas label outside this batch of core motor, somatosensory, visual and auditory ROIs. Dashed estimated borders are not intrinsically unmeasurable; this field needs individual boundary review before tracing."
+    },
+    {
+      "label": "ITc",
+      "status": "not_yet_digitized",
+      "reason": "Additional atlas label outside this batch of core motor, somatosensory, visual and auditory ROIs. Dashed estimated borders are not intrinsically unmeasurable; this field needs individual boundary review before tracing."
+    },
+    {
+      "label": "ITd",
+      "status": "not_yet_digitized",
+      "reason": "Additional atlas label outside this batch of core motor, somatosensory, visual and auditory ROIs. Dashed estimated borders are not intrinsically unmeasurable; this field needs individual boundary review before tracing."
+    },
+    {
+      "label": "ITr",
+      "status": "not_yet_digitized",
+      "reason": "Additional atlas label outside this batch of core motor, somatosensory, visual and auditory ROIs. Dashed estimated borders are not intrinsically unmeasurable; this field needs individual boundary review before tracing."
+    },
+    {
+      "label": "ITv",
+      "status": "not_yet_digitized",
+      "reason": "Additional atlas label outside this batch of core motor, somatosensory, visual and auditory ROIs. Dashed estimated borders are not intrinsically unmeasurable; this field needs individual boundary review before tracing."
+    },
+    {
+      "label": "STP",
+      "status": "not_yet_digitized",
+      "reason": "Additional atlas label outside this batch of core motor, somatosensory, visual and auditory ROIs. Dashed estimated borders are not intrinsically unmeasurable; this field needs individual boundary review before tracing."
+    },
+    {
+      "label": "LB",
+      "status": "not_yet_digitized",
+      "reason": "Additional atlas label outside this batch of core motor, somatosensory, visual and auditory ROIs. Dashed estimated borders are not intrinsically unmeasurable; this field needs individual boundary review before tracing."
+    },
+    {
+      "label": "PB",
+      "status": "not_yet_digitized",
+      "reason": "Additional atlas label outside this batch of core motor, somatosensory, visual and auditory ROIs. Dashed estimated borders are not intrinsically unmeasurable; this field needs individual boundary review before tracing."
+    },
+    {
+      "label": "MB",
+      "status": "not_yet_digitized",
+      "reason": "Additional atlas label outside this batch of core motor, somatosensory, visual and auditory ROIs. Dashed estimated borders are not intrinsically unmeasurable; this field needs individual boundary review before tracing."
+    },
+    {
+      "label": "PV",
+      "status": "not_yet_digitized",
+      "reason": "Additional atlas label outside this batch of core motor, somatosensory, visual and auditory ROIs. Dashed estimated borders are not intrinsically unmeasurable; this field needs individual boundary review before tracing."
+    },
+    {
+      "label": "VS",
+      "status": "not_yet_digitized",
+      "reason": "Additional atlas label outside this batch of core motor, somatosensory, visual and auditory ROIs. Dashed estimated borders are not intrinsically unmeasurable; this field needs individual boundary review before tracing."
+    },
+    {
+      "label": "PR",
+      "status": "not_yet_digitized",
+      "reason": "Additional atlas label outside this batch of core motor, somatosensory, visual and auditory ROIs. Dashed estimated borders are not intrinsically unmeasurable; this field needs individual boundary review before tracing."
+    },
+    {
+      "label": "DI",
+      "status": "not_yet_digitized",
+      "reason": "Additional atlas label outside this batch of core motor, somatosensory, visual and auditory ROIs. Dashed estimated borders are not intrinsically unmeasurable; this field needs individual boundary review before tracing."
+    },
+    {
+      "label": "PPm",
+      "status": "not_yet_digitized",
+      "reason": "Additional atlas label outside this batch of core motor, somatosensory, visual and auditory ROIs. Dashed estimated borders are not intrinsically unmeasurable; this field needs individual boundary review before tracing."
+    },
+    {
+      "label": "PEc",
+      "status": "not_yet_digitized",
+      "reason": "Additional atlas label outside this batch of core motor, somatosensory, visual and auditory ROIs. Dashed estimated borders are not intrinsically unmeasurable; this field needs individual boundary review before tracing."
+    },
+    {
+      "label": "PE",
+      "status": "not_yet_digitized",
+      "reason": "Additional atlas label outside this batch of core motor, somatosensory, visual and auditory ROIs. Dashed estimated borders are not intrinsically unmeasurable; this field needs individual boundary review before tracing."
+    },
+    {
+      "label": "PF",
+      "status": "not_yet_digitized",
+      "reason": "Additional atlas label outside this batch of core motor, somatosensory, visual and auditory ROIs. Dashed estimated borders are not intrinsically unmeasurable; this field needs individual boundary review before tracing."
+    },
+    {
+      "label": "PG",
+      "status": "not_yet_digitized",
+      "reason": "Additional atlas label outside this batch of core motor, somatosensory, visual and auditory ROIs. Dashed estimated borders are not intrinsically unmeasurable; this field needs individual boundary review before tracing."
+    },
+    {
+      "label": "TPt",
+      "status": "not_yet_digitized",
+      "reason": "Additional atlas label outside this batch of core motor, somatosensory, visual and auditory ROIs. Dashed estimated borders are not intrinsically unmeasurable; this field needs individual boundary review before tracing."
+    },
+    {
+      "label": "19m",
+      "status": "not_yet_digitized",
+      "reason": "Additional atlas label outside this batch of core motor, somatosensory, visual and auditory ROIs. Dashed estimated borders are not intrinsically unmeasurable; this field needs individual boundary review before tracing."
+    },
+    {
+      "label": "23",
+      "status": "not_yet_digitized",
+      "reason": "Additional atlas label outside this batch of core motor, somatosensory, visual and auditory ROIs. Dashed estimated borders are not intrinsically unmeasurable; this field needs individual boundary review before tracing."
+    },
+    {
+      "label": "23v",
+      "status": "not_yet_digitized",
+      "reason": "Additional atlas label outside this batch of core motor, somatosensory, visual and auditory ROIs. Dashed estimated borders are not intrinsically unmeasurable; this field needs individual boundary review before tracing."
+    },
+    {
+      "label": "29",
+      "status": "not_yet_digitized",
+      "reason": "Additional atlas label outside this batch of core motor, somatosensory, visual and auditory ROIs. Dashed estimated borders are not intrinsically unmeasurable; this field needs individual boundary review before tracing."
+    },
+    {
+      "label": "30",
+      "status": "not_yet_digitized",
+      "reason": "Additional atlas label outside this batch of core motor, somatosensory, visual and auditory ROIs. Dashed estimated borders are not intrinsically unmeasurable; this field needs individual boundary review before tracing."
+    },
+    {
+      "label": "6M",
+      "status": "not_yet_digitized",
+      "reason": "Additional atlas label outside this batch of core motor, somatosensory, visual and auditory ROIs. Dashed estimated borders are not intrinsically unmeasurable; this field needs individual boundary review before tracing."
+    },
+    {
+      "label": "6Dc",
+      "status": "not_yet_digitized",
+      "reason": "Additional atlas label outside this batch of core motor, somatosensory, visual and auditory ROIs. Dashed estimated borders are not intrinsically unmeasurable; this field needs individual boundary review before tracing."
+    },
+    {
+      "label": "6Dr",
+      "status": "not_yet_digitized",
+      "reason": "Additional atlas label outside this batch of core motor, somatosensory, visual and auditory ROIs. Dashed estimated borders are not intrinsically unmeasurable; this field needs individual boundary review before tracing."
+    },
+    {
+      "label": "6V",
+      "status": "not_yet_digitized",
+      "reason": "Additional atlas label outside this batch of core motor, somatosensory, visual and auditory ROIs. Dashed estimated borders are not intrinsically unmeasurable; this field needs individual boundary review before tracing."
+    },
+    {
+      "label": "8Ad",
+      "status": "not_yet_digitized",
+      "reason": "Additional atlas label outside this batch of core motor, somatosensory, visual and auditory ROIs. Dashed estimated borders are not intrinsically unmeasurable; this field needs individual boundary review before tracing."
+    },
+    {
+      "label": "8Av",
+      "status": "not_yet_digitized",
+      "reason": "Additional atlas label outside this batch of core motor, somatosensory, visual and auditory ROIs. Dashed estimated borders are not intrinsically unmeasurable; this field needs individual boundary review before tracing."
+    },
+    {
+      "label": "8B",
+      "status": "not_yet_digitized",
+      "reason": "Additional atlas label outside this batch of core motor, somatosensory, visual and auditory ROIs. Dashed estimated borders are not intrinsically unmeasurable; this field needs individual boundary review before tracing."
+    },
+    {
+      "label": "9",
+      "status": "not_yet_digitized",
+      "reason": "Additional atlas label outside this batch of core motor, somatosensory, visual and auditory ROIs. Dashed estimated borders are not intrinsically unmeasurable; this field needs individual boundary review before tracing."
+    },
+    {
+      "label": "10",
+      "status": "not_yet_digitized",
+      "reason": "Additional atlas label outside this batch of core motor, somatosensory, visual and auditory ROIs. Dashed estimated borders are not intrinsically unmeasurable; this field needs individual boundary review before tracing."
+    },
+    {
+      "label": "11",
+      "status": "not_yet_digitized",
+      "reason": "Additional atlas label outside this batch of core motor, somatosensory, visual and auditory ROIs. Dashed estimated borders are not intrinsically unmeasurable; this field needs individual boundary review before tracing."
+    },
+    {
+      "label": "12/45",
+      "status": "not_yet_digitized",
+      "reason": "Additional atlas label outside this batch of core motor, somatosensory, visual and auditory ROIs. Dashed estimated borders are not intrinsically unmeasurable; this field needs individual boundary review before tracing."
+    },
+    {
+      "label": "13",
+      "status": "not_yet_digitized",
+      "reason": "Additional atlas label outside this batch of core motor, somatosensory, visual and auditory ROIs. Dashed estimated borders are not intrinsically unmeasurable; this field needs individual boundary review before tracing."
+    },
+    {
+      "label": "14",
+      "status": "not_yet_digitized",
+      "reason": "Additional atlas label outside this batch of core motor, somatosensory, visual and auditory ROIs. Dashed estimated borders are not intrinsically unmeasurable; this field needs individual boundary review before tracing."
+    },
+    {
+      "label": "24a",
+      "status": "not_yet_digitized",
+      "reason": "Additional atlas label outside this batch of core motor, somatosensory, visual and auditory ROIs. Dashed estimated borders are not intrinsically unmeasurable; this field needs individual boundary review before tracing."
+    },
+    {
+      "label": "24b",
+      "status": "not_yet_digitized",
+      "reason": "Additional atlas label outside this batch of core motor, somatosensory, visual and auditory ROIs. Dashed estimated borders are not intrinsically unmeasurable; this field needs individual boundary review before tracing."
+    },
+    {
+      "label": "25",
+      "status": "not_yet_digitized",
+      "reason": "Additional atlas label outside this batch of core motor, somatosensory, visual and auditory ROIs. Dashed estimated borders are not intrinsically unmeasurable; this field needs individual boundary review before tracing."
+    },
+    {
+      "label": "32",
+      "status": "not_yet_digitized",
+      "reason": "Additional atlas label outside this batch of core motor, somatosensory, visual and auditory ROIs. Dashed estimated borders are not intrinsically unmeasurable; this field needs individual boundary review before tracing."
+    },
+    {
+      "label": "46",
+      "status": "not_yet_digitized",
+      "reason": "Additional atlas label outside this batch of core motor, somatosensory, visual and auditory ROIs. Dashed estimated borders are not intrinsically unmeasurable; this field needs individual boundary review before tracing."
+    },
+    {
+      "label": "pro",
+      "status": "not_yet_digitized",
+      "reason": "Additional atlas label outside this batch of core motor, somatosensory, visual and auditory ROIs. Dashed estimated borders are not intrinsically unmeasurable; this field needs individual boundary review before tracing."
+    },
+    {
+      "label": "whole_neocortex",
+      "status": "not_measurable",
+      "reason": "Unfolding cuts and several tissue components; complete independent neocortex denominator not established."
+    }
+  ],
+  "supersample": 4,
+  "anatomical_review": "rejected_pending_retrace",
+  "review_note": "REJECTED FOR ANALYSIS: existing outlines do not adequately follow architectural borders. Original geometry retained for audit. See boundary_audit.html; the CJ58R printed-interior pilot is separate and is not a full-field area estimate.",
+  "boundary_semantics": {
+    "gray_bands": "architectural boundary regions",
+    "dashed_gray_lines": "areal borders estimated from other animals",
+    "solid_lines": "map boundaries and major cortical folds; identify using anatomical insets"
+  }
+}

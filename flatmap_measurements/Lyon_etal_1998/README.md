@@ -22,3 +22,12 @@ All **15 numbered figures assessed**. **33 provisional contours**, 168 explicit 
 Cases are 96-56, 96-81, 96-12, 96-43, 96-66 and 97-18 (literal labels, without tracer suffixes). Figures 4/12, 7/10B/14, 9/11 and 10A/13A-B repeat tissue within animals. Anatomical left/right is not assigned where captions give only ipsilateral/contralateral. The printed horizontal 1-mm coordinate arm is a source calibration; figures 13A-C instead have horizontal 1-mm bars. Panels without a local calibration retain pixels only. Thin lines mark the projected extent of the exposed lateral surface (figure 4 caption): these are not areal borders and cannot close an open field. V1 was recoverable as a closed whole envelope in figures 8B, 9C, 10A and 11A, including reflected medial portions. Figure 9C V2 closes at the tissue edge; figure 11A V2 has a short approximately five-source-pixel continuation at the ventral cut and is approximate. Other V1/V2 extents remain NA. Closed S components are retained as partial components where other S tissue is missing; no sum is promoted to a complete field. TA/TAL/TD/TP/TPI labels do not supply independent closed envelopes.
 
 Canonical geometry and editable ImageJ outputs are under `figures/`. Tracings remain provisional. Missing source boundaries/calibration are NA, never zero; all figures assessed does not imply that every field can be measured.
+
+<!-- project-tracing-review-2026-10-31 -->
+## Project-wide tracing review, 31 October 2026
+
+[View this dataset's quality review](../project_review_2026-10-31/index.html?paper=Lyon_etal_1998) · [Review methods and changes](../project_review_2026-10-31/README.md)
+
+View-level screening categories: B=14, C=2, N=4. A identifies the clearest source/fit examples; B retains caveats; C needs targeted review/retracing; D is unsuitable for the intended anatomical area inference; N has no saved trace. These are not individual-region certification or independent-specimen counts. See the linked report for each map's notes and proposed improvements.
+
+Atlases and guides: see the [project guide](../ReadMe.md). Use same-specimen panels to resolve obscured lines where correspondence is established; use other specimens and atlases for field identity, adjacency and sulcal plausibility only. They do not supply an observed border, justify copying a shape, or establish a missing physical scale.

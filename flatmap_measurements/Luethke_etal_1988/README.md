@@ -16,3 +16,12 @@
 Ipsilateral/contralateral views are opposite hemispheres of the same animal, not extra animals. Actual left/right is not inferred. Only each own printed calibration is used; later unlabelled maps are pixel-only. The enclosed architecturally separate UZ is explicitly subtracted from S-I. Compound TArv+TAcv retained where the internal separator does not uniquely close; no duplicate separate total. Summary selects at most one calibrated complete view per animal and literal field, with hemisphere provenance.
 
 Start with [precision review](review/precision_review.html), [all-figure assessment](review/gallery.html), [methods](documentation/methods.md) and [measurements](data/measurements.csv). Editable canonical inputs are in figures/*/rois.json; native ImageJ outputs are adjacent.
+
+<!-- project-tracing-review-2026-10-31 -->
+## Project-wide tracing review, 31 October 2026
+
+[View this dataset's quality review](../project_review_2026-10-31/index.html?paper=Luethke_etal_1988) · [Review methods and changes](../project_review_2026-10-31/README.md)
+
+View-level screening categories: B=13, C=1. A identifies the clearest source/fit examples; B retains caveats; C needs targeted review/retracing; D is unsuitable for the intended anatomical area inference; N has no saved trace. These are not individual-region certification or independent-specimen counts. See the linked report for each map's notes and proposed improvements.
+
+Atlases and guides: see the [project guide](../ReadMe.md). Use same-specimen panels to resolve obscured lines where correspondence is established; use other specimens and atlases for field identity, adjacency and sulcal plausibility only. They do not supply an observed border, justify copying a shape, or establish a missing physical scale.

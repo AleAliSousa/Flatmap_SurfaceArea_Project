@@ -1,0 +1,110 @@
+{
+  "map_id": "fig04_subjectA",
+  "figure": "4",
+  "panel": "A",
+  "pdf_page": 5,
+  "printed_page": "5",
+  "species": "Homo sapiens",
+  "specimen": "subjectA",
+  "hemisphere": "right_as_stated_in_results",
+  "view_type": "projected_functional_surface_map",
+  "hemisphere_relation": "",
+  "linked_main_map": "",
+  "repeat_of": "",
+  "relationship_note": "Table 1 has negative MNI x coordinates despite Results calling these right-hemisphere maps; discrepancy preserved, not resolved by inference.",
+  "specimen_link_status": "source_labels_preserved",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 3,
+  "crop_xyxy": [
+    540,
+    515,
+    780,
+    750
+  ],
+  "scale_endpoints_px": [],
+  "scale_length_mm": null,
+  "scale_note": "No physical scale. Surface rendering is not demonstrated area-preserving; retain display pixels only. Published native cluster areas are recorded separately.",
+  "scale_reference_map": "",
+  "outline": null,
+  "rois": [
+    {
+      "label": "forehead_activation_display",
+      "polygons": [
+        [
+          [
+            104,
+            89
+          ],
+          [
+            108,
+            89
+          ],
+          [
+            108,
+            92
+          ],
+          [
+            104,
+            92
+          ]
+        ],
+        [
+          [
+            82,
+            100
+          ],
+          [
+            84,
+            100
+          ],
+          [
+            84,
+            101
+          ],
+          [
+            85,
+            101
+          ],
+          [
+            85,
+            102
+          ],
+          [
+            82,
+            102
+          ]
+        ],
+        [
+          [
+            82,
+            103
+          ],
+          [
+            83,
+            103
+          ],
+          [
+            83,
+            106
+          ],
+          [
+            82,
+            106
+          ]
+        ]
+      ],
+      "exclude_polygons": [],
+      "extent": "visible_projected_activation_components",
+      "boundary_note": "Purple forehead phase bin from Fig.4 colorbar; color-assisted tracing of displayed response pixels. Components under 3 rendered pixels (2 pixels total) omitted as unresolved print speckle. Gray inactive gaps retained. Not a whole-face anatomical field or native cortical area."
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "S1_face_complete",
+      "status": "not_measurable",
+      "reason": "Only glabella was stimulated; whole-face boundary absent. No valid pixel-to-mm\u00b2 calibration."
+    }
+  ],
+  "supersample": 4
+}

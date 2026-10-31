@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-31",
+  "scope": "Brecht-target fields in supplied main-text PDFs",
+  "source_and_overlay_views_inspected": [
+    "fig02_common_scale",
+    "fig02_LH1",
+    "fig02_RH2",
+    "fig02_RH5",
+    "fig02_RH4",
+    "fig02_RH3",
+    "fig02_LH3",
+    "fig02_LH4",
+    "fig02_LH5",
+    "fig02_LH2",
+    "fig02_RH1"
+  ],
+  "anatomical_status": "provisional_pending_domain_review",
+  "inventory_complete_for_scope": true,
+  "whole_neocortex_denominator_available": false,
+  "native_imagej_roundtrip": "passed",
+  "notes": "Every target overlay inspected; missing and out-of-scope regions documented. Native checks are file/geometry checks, not anatomical certification."
+}

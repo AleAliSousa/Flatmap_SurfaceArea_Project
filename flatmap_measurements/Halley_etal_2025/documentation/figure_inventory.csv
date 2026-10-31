@@ -1,0 +1,8 @@
+paper_id,figure,pdf_page,status,note
+Halley_etal_2025,1,3,not_complete_field,Methods/flattening histology and electrode localization; not complete field outlines.
+Halley_etal_2025,2,3,not_surface_area,Threshold graph.
+Halley_etal_2025,3,4,selected_views_traced,"K22-06 and K22-05 partial anatomical windows, not body-part response polygons."
+Halley_etal_2025,4,5,selected_views_traced,K22-04 and K22-03 partial anatomical windows.
+Halley_etal_2025,5,7,pooled_not_case,Across-case averaged movement overlays.
+Halley_etal_2025,6,8,pooled_not_case,Across-case averaged limb overlays.
+Halley_etal_2025,7,10,not_surface_area,Coactivation plots.

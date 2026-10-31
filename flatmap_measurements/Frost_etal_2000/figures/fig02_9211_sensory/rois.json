@@ -1,0 +1,63 @@
+{
+  "map_id": "fig02_9211_sensory",
+  "figure": "2",
+  "panel": "lower-right",
+  "pdf_page": 6,
+  "printed_page": "",
+  "species": "Monodelphis domestica",
+  "specimen": "9211",
+  "hemisphere": "right",
+  "view_type": "individual_reconstructed_partial_cortex",
+  "hemisphere_relation": "",
+  "linked_main_map": "",
+  "repeat_of": "",
+  "relationship_note": "",
+  "specimen_link_status": "source_label_preserved; cross-paper overlap unresolved",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 3,
+  "crop_xyxy": [
+    1100,
+    1160,
+    1590,
+    1770
+  ],
+  "scale_endpoints_px": [
+    [
+      300.0,
+      538.0
+    ],
+    [
+      446.0,
+      538.0
+    ]
+  ],
+  "scale_length_mm": 1,
+  "scale_note": "Printed same-panel scale; no shrinkage correction applied.",
+  "scale_reference_map": "",
+  "outline": null,
+  "rois": [],
+  "unmeasured": [
+    {
+      "label": "S1",
+      "status": "not_measurable",
+      "reason": "Open medial and lateral envelope; only partial sensory map."
+    },
+    {
+      "label": "S1_face_oral",
+      "status": "not_measurable",
+      "reason": "Lower and right borders of face/oral representation are not closed in the source."
+    },
+    {
+      "label": "S2",
+      "status": "not_measurable",
+      "reason": "No distinct second map was resolved for this case; do not create one."
+    },
+    {
+      "label": "S1_snout",
+      "status": "not_measurable",
+      "reason": "Snout contour has open inferior ends; the previous draft horizontal closure was removed during source review."
+    }
+  ],
+  "supersample": 4
+}

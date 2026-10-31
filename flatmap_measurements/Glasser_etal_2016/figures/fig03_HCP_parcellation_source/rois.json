@@ -1,0 +1,80 @@
+{
+  "map_id": "fig03_HCP_parcellation_source",
+  "figure": "3",
+  "panel": "",
+  "pdf_page": 3,
+  "printed_page": "",
+  "species": "Homo sapiens",
+  "specimen": "group_atlas",
+  "hemisphere": "unresolved",
+  "view_type": "atlas_surface_projection",
+  "hemisphere_relation": "",
+  "linked_main_map": "",
+  "repeat_of": "",
+  "relationship_note": "",
+  "specimen_link_status": "source_label_preserved; cross-paper overlap unresolved",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 3,
+  "crop_xyxy": [
+    0,
+    0,
+    1784,
+    2346
+  ],
+  "scale_endpoints_px": [],
+  "scale_length_mm": null,
+  "scale_note": "Physical calibration unavailable or ambiguous; pixel areas only.",
+  "scale_reference_map": "",
+  "outline": null,
+  "rois": [],
+  "unmeasured": [
+    {
+      "label": "M1",
+      "status": "not_measurable",
+      "reason": "Inflated/3D surface projections are not area-preserving flatmaps. Measure original HCP native or midthickness surfaces with matching labels, not the rendered page."
+    },
+    {
+      "label": "S1_3a",
+      "status": "not_measurable",
+      "reason": "Inflated/3D surface projections are not area-preserving flatmaps. Measure original HCP native or midthickness surfaces with matching labels, not the rendered page."
+    },
+    {
+      "label": "S1_3b",
+      "status": "not_measurable",
+      "reason": "Inflated/3D surface projections are not area-preserving flatmaps. Measure original HCP native or midthickness surfaces with matching labels, not the rendered page."
+    },
+    {
+      "label": "S1_area1",
+      "status": "not_measurable",
+      "reason": "Inflated/3D surface projections are not area-preserving flatmaps. Measure original HCP native or midthickness surfaces with matching labels, not the rendered page."
+    },
+    {
+      "label": "S1_area2",
+      "status": "not_measurable",
+      "reason": "Inflated/3D surface projections are not area-preserving flatmaps. Measure original HCP native or midthickness surfaces with matching labels, not the rendered page."
+    },
+    {
+      "label": "S1_face",
+      "status": "not_measurable",
+      "reason": "Inflated/3D surface projections are not area-preserving flatmaps. Measure original HCP native or midthickness surfaces with matching labels, not the rendered page."
+    },
+    {
+      "label": "V1",
+      "status": "not_measurable",
+      "reason": "Inflated/3D surface projections are not area-preserving flatmaps. Measure original HCP native or midthickness surfaces with matching labels, not the rendered page."
+    },
+    {
+      "label": "A1",
+      "status": "not_measurable",
+      "reason": "Inflated/3D surface projections are not area-preserving flatmaps. Measure original HCP native or midthickness surfaces with matching labels, not the rendered page."
+    },
+    {
+      "label": "whole_neocortex",
+      "status": "not_measurable",
+      "reason": "Inflated/3D surface projections are not area-preserving flatmaps. Measure original HCP native or midthickness surfaces with matching labels, not the rendered page."
+    }
+  ],
+  "supersample": 4,
+  "review_note": "Inflated/3D surface projections are not area-preserving flatmaps. Measure original HCP native or midthickness surfaces with matching labels, not the rendered page."
+}

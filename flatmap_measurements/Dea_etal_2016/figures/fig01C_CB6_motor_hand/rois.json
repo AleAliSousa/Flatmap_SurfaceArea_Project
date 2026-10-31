@@ -1,0 +1,409 @@
+{
+  "map_id": "fig01C_CB6_motor_hand",
+  "figure": "1",
+  "panel": "C",
+  "pdf_page": 5,
+  "printed_page": "",
+  "species": "Cebus apella",
+  "specimen": "CB-6",
+  "hemisphere": "left",
+  "view_type": "cortical_photograph_response_map",
+  "hemisphere_relation": "",
+  "linked_main_map": "",
+  "repeat_of": "",
+  "relationship_note": "Same animals as reconstructed sensory/tracer maps; photo scale is local and not borrowed to another figure.",
+  "specimen_link_status": "source_label_preserved; cross-paper overlap unresolved",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 3,
+  "crop_xyxy": [
+    368,
+    746,
+    830,
+    1088
+  ],
+  "scale_endpoints_px": [
+    [
+      10.0,
+      322.0
+    ],
+    [
+      102.0,
+      322.0
+    ]
+  ],
+  "scale_length_mm": 5,
+  "scale_note": "Same-panel printed 5 mm bar; projected cortical-photograph area. Functional hand territory, not total M1.",
+  "scale_reference_map": "",
+  "outline": null,
+  "rois": [
+    {
+      "label": "M1_hand",
+      "polygons": [
+        [
+          [
+            286.085,
+            80.406
+          ],
+          [
+            320.29,
+            80.85
+          ],
+          [
+            320.735,
+            115.5
+          ],
+          [
+            323.4,
+            121.275
+          ],
+          [
+            322.512,
+            152.371
+          ],
+          [
+            303.41,
+            152.371
+          ],
+          [
+            304.742,
+            207.012
+          ],
+          [
+            286.085,
+            207.012
+          ],
+          [
+            285.64,
+            190.575
+          ],
+          [
+            231.0,
+            190.575
+          ],
+          [
+            231.0,
+            171.917
+          ],
+          [
+            212.342,
+            171.917
+          ],
+          [
+            212.787,
+            154.148
+          ],
+          [
+            231.0,
+            154.148
+          ],
+          [
+            231.0,
+            137.712
+          ],
+          [
+            217.673,
+            134.602
+          ],
+          [
+            217.673,
+            103.062
+          ],
+          [
+            233.665,
+            103.062
+          ],
+          [
+            240.329,
+            108.837
+          ],
+          [
+            249.658,
+            103.506
+          ],
+          [
+            257.654,
+            101.729
+          ],
+          [
+            267.427,
+            92.844
+          ],
+          [
+            274.979,
+            98.619
+          ],
+          [
+            285.64,
+            99.063
+          ]
+        ]
+      ],
+      "extent": "complete_drawn_hand_representation",
+      "boundary_note": "Red physiological hand contour on cortical photograph, including digit and wrist/forearm sites; islands retained. Photograph-projected area, not folded native surface. Tiny red gaps interpolated at stroke centre."
+    },
+    {
+      "label": "PMd_hand",
+      "polygons": [
+        [
+          [
+            154.592,
+            85.737
+          ],
+          [
+            163.033,
+            85.737
+          ],
+          [
+            166.587,
+            80.85
+          ],
+          [
+            173.25,
+            85.292
+          ],
+          [
+            182.579,
+            84.848
+          ],
+          [
+            192.796,
+            72.41
+          ],
+          [
+            202.125,
+            80.406
+          ],
+          [
+            196.794,
+            86.181
+          ],
+          [
+            199.904,
+            93.733
+          ],
+          [
+            212.342,
+            91.956
+          ],
+          [
+            215.452,
+            102.617
+          ],
+          [
+            215.452,
+            123.496
+          ],
+          [
+            207.012,
+            123.496
+          ],
+          [
+            206.567,
+            103.506
+          ],
+          [
+            180.802,
+            103.506
+          ],
+          [
+            180.802,
+            93.733
+          ],
+          [
+            162.588,
+            93.733
+          ],
+          [
+            162.588,
+            103.062
+          ],
+          [
+            153.704,
+            103.062
+          ]
+        ],
+        [
+          [
+            123.94,
+            67.523
+          ],
+          [
+            128.827,
+            61.748
+          ],
+          [
+            134.602,
+            67.523
+          ],
+          [
+            134.602,
+            76.852
+          ],
+          [
+            123.94,
+            76.852
+          ]
+        ],
+        [
+          [
+            133.713,
+            83.96
+          ],
+          [
+            143.487,
+            84.404
+          ],
+          [
+            143.487,
+            93.288
+          ],
+          [
+            134.158,
+            93.288
+          ]
+        ],
+        [
+          [
+            98.619,
+            93.733
+          ],
+          [
+            107.504,
+            93.733
+          ],
+          [
+            107.504,
+            102.617
+          ],
+          [
+            98.619,
+            102.617
+          ]
+        ],
+        [
+          [
+            116.833,
+            93.733
+          ],
+          [
+            125.717,
+            93.733
+          ],
+          [
+            125.717,
+            102.617
+          ],
+          [
+            116.833,
+            102.617
+          ]
+        ]
+      ],
+      "extent": "complete_drawn_hand_representation",
+      "boundary_note": "Red physiological hand contour on cortical photograph, including digit and wrist/forearm sites; islands retained. Photograph-projected area, not folded native surface. Tiny red gaps interpolated at stroke centre."
+    },
+    {
+      "label": "PMv_hand",
+      "polygons": [
+        [
+          [
+            125.273,
+            174.583
+          ],
+          [
+            135.49,
+            175.027
+          ],
+          [
+            135.49,
+            184.8
+          ],
+          [
+            125.273,
+            184.8
+          ],
+          [
+            125.273,
+            219.006
+          ],
+          [
+            133.269,
+            220.338
+          ],
+          [
+            135.935,
+            223.892
+          ],
+          [
+            139.933,
+            219.006
+          ],
+          [
+            145.263,
+            221.671
+          ],
+          [
+            144.819,
+            239.885
+          ],
+          [
+            119.054,
+            239.885
+          ],
+          [
+            115.056,
+            232.333
+          ],
+          [
+            109.281,
+            232.333
+          ],
+          [
+            106.615,
+            238.552
+          ],
+          [
+            96.842,
+            238.552
+          ],
+          [
+            92.844,
+            227.002
+          ],
+          [
+            92.844,
+            212.342
+          ],
+          [
+            115.056,
+            212.342
+          ],
+          [
+            115.5,
+            187.465
+          ],
+          [
+            125.273,
+            187.465
+          ]
+        ]
+      ],
+      "extent": "complete_drawn_hand_representation",
+      "boundary_note": "Red physiological hand contour on cortical photograph, including digit and wrist/forearm sites; islands retained. Photograph-projected area, not folded native surface. Tiny red gaps interpolated at stroke centre."
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "M1_complete",
+      "status": "not_measurable",
+      "reason": "Only hand representation was mapped; whole M1 and M1-face absent."
+    },
+    {
+      "label": "SMA_hand",
+      "status": "not_measurable",
+      "reason": "Medial-wall drawing is positioned approximately; no separate validated calibration for that cartoon."
+    }
+  ],
+  "supersample": 4
+}

@@ -1,0 +1,7 @@
+figure,pdf_page,interpretation,status,next_action
+1,2,Stimuli,not_applicable,Not tissue
+2,3,"Three hemispheres, anatomical and functional panels",digitized,hA1 in B; C/D repeated same tissue
+3,4,Three hA1 maps,digitized_with_repeat_exclusion,S2L/S1L new; S4R repeats Fig.2
+4,5,Functional response plots,not_applicable,Not field geometry
+5,5,Organization models,not_applicable,"Schematics, not new animals"
+S3/S4/S6,NA,Supplementary maps and numerical area plot,not_supplied,Main PDF has six pages only

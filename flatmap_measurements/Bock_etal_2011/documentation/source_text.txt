@@ -1,0 +1,870 @@
+
+===== PDF PAGE 1 =====
+Ann. N.Y . Acad. Sci. ISSN 0077-8923
+ANNALS OF THE NEW YORK ACADEMY OF SCIENCES
+Issue: Resources and T echnological Advances for Studies of Neurobehavioral Evolution
+Visualizing myeloarchitecture with magnetic resonance
+imaging in primates
+Nicholas A. Bock, 1 Eyesha Hashim,1 Ara Kocharyan,2 and Afonso C. Silva 2
+1Medical Physics and Applied Radiation Sciences, McMaster University, Hamilton, Ontario, Canada. 2Cerebral
+Microcirculation Unit, Laboratory of Functional and Molecular Imaging, National Institute of Neurological Disorders and Stroke,
+National Institutes of Health, Bethesda, Maryland
+Address for correspondence: Nicholas A. Bock, Medical Physics and Applied Radiation Sciences, McMaster University, 1280
+Main Street West, Hamilton, Ontario, Canada L8S 4K1. bockn@mcmaster.ca
+The pattern of myelination over the cerebral cortex, termed myeloarchitecture, is an established and often-used
+feature to visualize cortical organization with histology in a variety of primate species. In this paper, we use
+in vivo magnetic resonance imaging (MRI) and advanced image processing using surface rendering to visualize and
+characterize myeloarchitecture in a small nonhuman primate, the common marmoset (Callithrix jacchus). Through
+images made in four female adult marmosets, we produce a representative 3D map of marmoset myeloarchitecture
+and ﬂatten and annotate this map to show the location and extent of a variety of major areas of the cortex, including
+the primary visual, auditory, and somatosensory areas. By treating our MRI data as a surface, we can measure the
+surface area of cortical areas, and we present these measurements here to summarize cortical organization in the
+marmoset.
+Keywords: magnetic resonance imaging; brain mapping; cortex; myelin; primate
+Introduction
+Magnetic resonance imaging (MRI) is widely used
+in studies of the brain. This is because it is an
+in vivo imaging modality that produces excellent
+contrast between different tissues of the nervous sys-
+tem. MRI is an inherently three-dimensional (3D)
+imaging technique, so that images show the shape
+and spatial relationships of features over the entire
+brain, free of distortion. With proper image pro-
+cessing, a wide range of metrics can be used to char-
+acterize neuroanatomy, including the volume and
+location of structures,
+1 patterns of folding in the cor-
+tex,2 and cortical thickness. 3 With functional MRI
+(fMRI), it is also possible to map the function of ar-
+eas of the brain over the underlying neuroanatomy.
+MRI is primarily used in human brain map-
+ping studies, where the availability of histologi-
+cal data is limited to postmortem cases. However,
+MRI is gaining ground in animal studies, espe-
+cially in rare or protected species such as non-
+human primates, where the ability to image neu-
+roanatomy in vivo precludes sacriﬁcing the animal
+and allows repeated data acquisition throughout
+its lifetime, enabling longitudinal investigations to
+be carried out. For instance, several groups (ours
+included) use MRI to study neuroanatomy in the
+brains of common marmosets ( Callithrix jacchus ),
+which are small, New W orld monkeys.
+4–6 Recently,
+transgenic marmosets have been produced, 7 open-
+ing up the possibility of genetic studies of brain
+organization in primates. The ability to follow
+brain anatomy and function noninvasively with
+MRI on necessarily limited numbers of transgenic
+marmosets is crucial to the feasibility of such
+studies.
+While human and animal anatomical MRI gives
+good spatial information and contrast over the en-
+tire brain at the level of gross neuroanatomy, the
+cortex tends to appear as a homogenous gray sheet.
+This does disservice to the rich detail seen in cor-
+tical substructure with histology. While there have
+been initial MRI studies in live rodents to visual-
+ize the layered structure of the cortex based on its
+doi: 10.1111/j.1749-6632.2011.06000.x
+Ann. N.Y . Acad. Sci. 1225 S1 (2011) E171–E181 c⃝ 2011 New York Academy of Sciences. No claim to original U.S. Government works. E171
+
+===== PDF PAGE 2 =====
+MRI of myeloarchitecture in primates Bock et al.
+Figure 1. Representative cortical myelination in the marmoset. A 40 /H9262m–thick coronal histological section stained for myelin
+using a modiﬁed Gallyas silver staining method. At the whole mount level of magniﬁcation showing half of the brain, distinct
+dense areas of staining are seen that correspond to speciﬁc cortical areas (for example, the primary auditory cortex [A1]). At 2.5
+times magniﬁcation, dark-stained ﬁbers can be seen running vertically from the white matter through Layers VI and V . At 20 times
+magniﬁcation in Layer IV , the ﬁbers are arborized, and vertical and horizontal stained branches can be seen. There is little myelin
+staining through Layers III-I. The same pattern is seen in other myelinated areas of the marmoset cortex, save for the primary visual
+cortex (V1), where the density of myelination is highest in Layer IV (the Stripe of Gennari). (The asterix denotes the same blood
+vessel at each magniﬁcation.)
+cytoarchitecture using contrast agents 8 or special-
+ized MRI pulse sequences,9 the images require a very
+high resolution ( <100 /H9262m) to resolve the different
+layers. The cortex is a unique structure in that its
+thickness is largely preserved across species. Unfor-
+tunately, the attainable resolution of MRI becomes
+worse as brain size increases; thus, it is not possible
+t oa d e q u a t e l yv i s u a l i z ec o r t i c a ll a y e r si nl a r g e rb r a i n s
+in vivo with current MRI, and work in this direction
+is limited to rodents.
+There is another anatomical feature of the cortex,
+however, that can be used to visualize its organiza-
+tion with MRI: myelination. Although most myelin
+in the brain is located in discrete white matter tracts
+that connect gray matter areas, a signiﬁcant amount
+resides in small bundles of ﬁbers within the layers
+of the cortical gray matter that run either parallel
+or perpendicular to the cortical sheet (see Fig. 1
+for representative histology from a marmoset). Sev-
+eral classical
+10,11 and contemporary histology stud-
+ies12,13 have identiﬁed speciﬁc cortical areas in hu-
+mans on the basis of this so-called myeloarchitecture
+and in many primate species, histology can readily
+identify the major primary sensory areas of the brain
+(visual, auditory, and somatosensory) by their high
+myelin content relative to surrounding areas. For
+this reason, it is desirable to visualize myeloarchitec-
+ture both on its own to study cortical organization in
+various species and to complement information de-
+rived from other forms of histology and functional
+studies.
+MRI is sensitive to myelin and this sensitivity is
+widely used to generate contrast between gray and
+white matter structures in the brain. This leads to
+the intriguing possibility that myeloarchitecture can
+be imaged with MRI. In fact, it has been shown
+that MRI can identify speciﬁc human cortical areas
+with a high myelin content in vivo at standard clin-
+ical image resolutions (for example, the primary
+visual
+14–16 and auditory cortices). 17 These studies
+are greatly aided by the fact that myelination per-
+sists through several layers of the cortical depth so
+that patterns in myelination over the cortical sur-
+face can be resolved at a lower image resolution
+than patterns in the cortical layering based on cy-
+toarchitecture can. W e should note here that we are
+referring to detecting cortical myelin based on its
+changing the relaxation properties of tissue. There
+is another MRI technique called diffusion tensor im-
+age (DTI) that is used to visualize and follow major
+white matter features in the brain that is based on the
+preferential diffusion of water along the direction
+E172 Ann. N.Y . Acad. Sci. 1225 S1 (2011) E171–E181 c⃝ 2011 New York Academy of Sciences. No claim to original U.S. Government works.
+
+===== PDF PAGE 3 =====
+Bock et al. MRI of myeloarchitecture in primates
+Figure 2. Image processing. A 40/H9262m–thick representative coronal histological section stained for myelin (Panel 1) and a matching
+165 /H9262m–thick corresponding T1-weighted MRI section from a 3D image (Panel 2). The density of myelination is generally highest
+in a middle depth of the cortex (around Layer VI); thus, we deﬁne our surface at this depth (Panel 3). The 3D surface over the entire
+cortex at a middle depth is shown using surface rendering (Panel 4). The ﬁnal step in our processing is to project the local MRI
+image intensity onto this surface to make a map.
+of axonal tracts.18 There is probably too little myelin
+present in the cortex to produce sensitive DTI
+measures.
+T o date, human MRI studies of myeloarchitecture
+have been localized to speciﬁc cortical areas. In a pre-
+vious paper,19 we showed that we could in fact image
+the entire pattern of cortical myelination in living
+common marmosets (C. jacchus) using whole-brain
+3D MRI. The contrast in these images was based on
+longitudinal relaxation time, or T
+1, a commonly
+used MRI parameter for anatomical brain imaging.
+In that paper, we roughly visualized the pattern of
+myeloarchitecture over the cortex using volume ren-
+dering. Here, we show how image processing based
+instead on surface rendering can robustly visualize
+the pattern of myeloarchitecture over the cortex in
+marmosets and allow for this pattern to be quanti-
+ﬁed through measurements of surface area. W e have
+imaged four female marmosets and created a rep-
+resentative 3D map of cortical organization in one
+individual and ﬂattened and annotated this map. In
+addition, we use surface areas measurements across
+all four marmosets to quantitatively summarize the
+major features of the marmoset cortex.
+Methods
+Animal methods
+All experiments were approved by the National In-
+stitute of Neurological Disorders and Stroke Animal
+Care and Use Committee. Experiments were car-
+ried out in four female common marmosets: two
+three-year-old young adults and two eight-year-
+old middle-aged monkeys.
+20 The ﬁrst were young
+adults, whereas the latter were already approach-
+ing middle age, when most of the developmental
+changes in the cortex are well and truly over. Mar-
+mosets were housed two to a cage with a 12-hour
+light/dark cycle on an ad libitum diet of Zupreem
+canned marmoset food, Purina 5040 biscuits, un-
+ﬁltered water, P .R.A.N.G. rehydrator, and fruit and
+vegetable treats.
+On the day of each marmoset’s MRI experi-
+ment, the animal was fasted for 12 hours, then re-
+trieved from its cage and transported to the MRI
+Ann. N.Y . Acad. Sci. 1225 S1 (2011) E171–E181 c⃝ 2011 New York Academy of Sciences. No claim to original U.S. Government works. E173
+
+===== PDF PAGE 4 =====
+MRI of myeloarchitecture in primates Bock et al.
+laboratory. It was sedated with an intramuscular
+injection of 10 mg/kg ketamine and placed in a
+prone sphinx-like position on an MRI-compatible
+cradle. The animal’s head was ﬁxed to a stereo-
+taxic frame with blunted earpieces placed in the
+ear canals after application of 2% lidocaine as a top-
+ical analgesic. The animal was allowed to breathe
+freely, and was anesthetized through a nose cone
+with isoﬂurane in a 2 : 2 : 1 mixture of medical air,
+nitrogen, and oxygen. Throughout the MRI session,
+the isoﬂurane concentration was varied around 2%
+to maintain anaesthesia, which was monitored by
+end tidal CO
+2, heart rate, and SPO 2 using a capno-
+graph and pulse oximeter (Surgivet, Waukesha, WI,
+USA). Rectal temperature was continuously moni-
+tored and the body temperature was maintained at
+38.5
+◦C with a water-heating pad.
+MRI
+MRI was performed on a 7T/30 cm MRI scan-
+ner (Bruker Biospin Corp., Ettlingen, Germany)
+equipped with a 15 cm gradient set of 450 mT/m
+strength (Resonance Research Inc., Billerica, MA,
+USA). A custom-built 16-rung high pass birdcage
+radiofrequency coil with a 12 cm inner diameter was
+used for transmission, and a four-element phased-
+array receiver coil (Bruker Biospin) was used for
+reception. The elements of the receiver coil were ar-
+ranged in a 2 by 2 array of 5 cm by 5 cm dimensions.
+The inner surface of the coil was slightly curved and
+was placed directly on top of the marmoset’s head,
+approximately centered over the parietal cortex.
+High resolution 3D T
+1-weighted imaging
+was performed over the whole brain using a
+magnetization-prepared rapidly acquired gradient
+echo pulse sequence with centric phase encoding
+(inversion time = 1200 ms, TE = 4m s ,T R = 12.5
+ms, ﬂip angle= 12
+◦,F O V= 42.0× 42.0× 21.0 mm,
+matrix = 256 × 256 × 128, number of segments =
+4, segment delay= 6,000 ms, number of averages =
+1). This produced an isotropic resolution of 164
+/H9262mi na b o u t5 1m i n u t e s .T h es e q u e n c ew a sp r e -
+viously optimized to produce intracortical contrast
+in the marmoset at 7 T esla.
+19 B1 inhomogeneities
+were corrected using a reference image method. 21
+Marmosets were imaged with three averages in two
+imaging sessions on separate days and recovered
+after each session. The resulting images were coreg-
+istered via an afﬁne transformation and averaged in
+Amira (Visage Imaging Inc., T ewksbury, MA, USA).
+Figure 3. 3D map of myeloarchitecture in a representative 3-
+year-old female common marmoset. The ﬁgure shows a view
+of a 3D map of the cortex in a marmoset centered on the dor-
+sal parietal cortex (Panel 1). Here, the MRI intensity data are
+displayed using a hot color map to highlight contrast and ar-
+eas of enhancement represent cortical areas with high myelin
+contents. The map is placed at a middle depth in the cortex,
+and the surface corresponding to the outside of the cortex is
+shown in light transparent blue. By rotating the map to a view
+centered on the occipital cortex (Panel 2), we can better see the
+primary visual cortex (V1), and by making the dorsal surface of
+our map transparent (shown in red), we can see the extension of
+V1 into the calcarine ﬁssure. C, caudal; R, rostral; V , ventral; D,
+dorsal.
+Image processing
+The resulting 3D image from each marmoset was
+processed with the goal of visualizing the T 1-
+weighted MRI enhancement pattern over the cor-
+tical surface. First, the entire cortex was seg-
+mented as a 3D volume in Amira using intensity
+thresholding followed by manual correction of the
+volume’s outside border. The outside of this volume
+represented the outer surface of the cortex. The vol-
+ume was then repeatedly morphologically eroded in
+3D by one voxel in each direction until the outside
+lay in the strongest T
+1 enhancing layers in the cortex.
+The correct location of the outside of the volume at
+E174 Ann. N.Y . Acad. Sci. 1225 S1 (2011) E171–E181 c⃝ 2011 New York Academy of Sciences. No claim to original U.S. Government works.
+
+===== PDF PAGE 5 =====
+Bock et al. MRI of myeloarchitecture in primates
+Figure 4. Flattened map of myeloarchitecture in a representa-
+tive 3-year-old female common marmoset. The dorsal cortical
+s u r f a c ef r o mt h em a pi nF i g u r e4i sﬂ a t t e n e dw i t ht h em a j o re n -
+hancing areas labeled. Note that the ﬂattening produces spatial
+distortions in the surface (see Fig. 7 for details); however, the
+ﬂattening allows for easier visualization of cortical features and
+their spatial relationships. “Low SNR” denotes an MRI artifact
+where poor radiofrequency coil coverage led to a nonspeciﬁc im-
+age enhancement. This was because the RF coil did not provide
+coverage rostrally completely to the frontal pole. This distinct
+area of low SNR was readily apparent during our corrections
+for B1 inhomogeneity in the images. C, caudal; R, rostral; L,
+lateral; M, medial. Major myelinated cortical areas are labeled
+in white: V1, primary visual area; MT, middle temporal area;
+A1, primary auditory area; R, rostral auditory area; S1, primary
+somatosensory cortex; M, motor cortex including primary and
+premotor areas and the frontal eye ﬁelds) (Cortical features are
+labeled in gray: DM, dorsomedial area; PPv, ventral posterior
+p a r i e t a lc o r t e x ;F S T ,f u n d u so ft h es u p e r i o rt e m p o r a la r e a ;S 2 ,
+secondary somatosensory cortex; PV , parietal ventral area; 12,
+area 12.
+this middle depth in the cortex was conﬁrmed by
+eye.
+Next, a digital surface was computed in Amira
+from the eroded volume. This surface consisted of
+a series of vertices (or points) in space through the
+middle depth of the cortex that deﬁned triangles
+to be used by rendering routines for display. T o vi-
+sualize the MRI enhancement on this surface, we
+ﬁrst smoothed our 3D image using a 3 × 3 × 3
+Gaussian kernel ( /H9268= 0.4) and then mapped the
+intensity from this image at the location of each tri-
+angle onto that triangle in the surface. By smoothing
+the original 3D image, the intensity mapped to each
+triangle over the surface represented the intensity
+sampled through a depth of cortex, rather than the
+intensity exactly at the level of the triangle in the
+cortex.
+The resulting maps were viewed in Amira in 3D
+using surface rendering routines. In addition, one
+representative map was ﬂattened so that the entire
+cortical surface could be visualized in a single view.
+For this, we trimmed our digital surface to remove
+the ventral cortex and the majority of the occipi-
+tal cortex. W e trimmed the occipital cortex because
+the curvature in the calcarine sulcus was too great
+relative to the overall curvature of the cortex for
+proper ﬂattening and would have introduced ex-
+treme distortions in our ﬂattened image. This is a
+problem speciﬁc to the marmoset because the cal-
+carine sulcus is such a major cortical feature; in hu-
+mans, where the calcarine is a more minor feature,
+the occipital cortex can be ﬂattened well and dis-
+played. W e exported our trimmed surface to Caret,
+a software system for ﬂattening.
+22 The surface was
+ﬂattened using an initial inﬂation operation, fol-
+lowed by conversion of the surface to a sphere,
+then the projection of the sphere to a ﬂat surface.
+Distortions in the resulting surface were reduced
+using the multi-resolution morphing operation in
+Caret (although the resulting ﬂattened surface is still
+distorted; see Fig. 7). Finally, the ﬂattened surface
+was imported back into Amira, where the 3D MRI
+intensity data corresponding to the location of tri-
+angles on the original surface were mapped to the
+corresponding triangles in the ﬂattened surface for
+visualization.
+Surface area measurements
+T o avoid errors in surface area measurements intro-
+duced by distortion during the ﬂattening process,
+we made all of our surface area measurements over
+the four marmosets in the 3D maps. W e deﬁned ar-
+eas of the cortex based on intensity in the map using
+labeling tools in Amira, and then summed the areas
+of the triangles in the surface underlying each map
+to estimate overall surface areas.
+Results
+In Figure 2, we show a myelin-stained histologi-
+cal coronal section from an excised marmoset brain
+Ann. N.Y . Acad. Sci. 1225 S1 (2011) E171–E181 c⃝ 2011 New York Academy of Sciences. No claim to original U.S. Government works. E175
+
+===== PDF PAGE 6 =====
+MRI of myeloarchitecture in primates Bock et al.
+and a corresponding section at the same level from
+one of our in vivo 3D MRIs. The contrast between
+gray and white matter in the T 1-weighted MRI is
+much higher than is typically seen in MRIs of the
+brain because we have optimized the imaging se-
+quence to highlight the subtle T 1 differences. This
+increased contrast results in enhancements in the
+MRI in the cortex, which spatially correspond to
+areas of high myelination seen on the histology. In
+our previous paper, we showed there were similar
+MRI enhancements in all major myelinated areas in
+the marmoset cortex.
+19 This suggests that our in-
+tracortical contrast is generated mainly by myelin,
+although more experiments are needed to verify this,
+as mentioned below in the Discussion section. View-
+ing the enhancement pattern in serial views from
+the 3D MRI only gives a vague sense of the pattern
+of myelination over the marmoset cortex; thus, we
+process the images to show them as surfaces. A sim-
+ilar approach called ﬂat-mounting is often used in
+histology studies where the cortex is ﬂattened prior
+to sectioning and staining to better show the dis-
+tribution of stained areas over the surface of the
+cortex.
+The ﬁrst step in our processing is to digitally de-
+ﬁne a surface at a middle depth throughout the
+entire cortex (Fig. 2). The local MRI intensity data
+is then projected on this surface to make a map.
+The intensity at each point on the map is actually
+a sample of the MRI intensity over several cortical
+layers (see Methods section) rather than the inten-
+sity exactly at the middle depth of the cortex. In
+this way, our map differs from those made in tra-
+ditional ﬂat-mounting, where only the myelination
+pattern at the exact cortical depth the cut was made
+at is represented. This hopefully reduces variability
+in our maps versus those made from ﬂat mounts,
+although it may also slightly blur out ﬁne detail in
+the myeloarchitecture.
+W e can display our map in 3D using rendering
+techniques (Fig. 4). This presentation is useful for
+seeing the spatial relationship between areas in the
+in vivo conformation. On a computer screen, the
+image is dynamic and can be rotated, as can a global
+map of the Earth, and this is in fact the best way to
+view surface data free of distortions. This is demon-
+strated in Figure 4, where we have rotated the map
+by 180
+◦ to show the extent of the primary visual
+cortex (V1) over the dorsal surface of the occipital
+cortex and into the calcarine ﬁssure.
+The map can also be digitally ﬂattened to show
+the entire cortex in a single image (Fig. 4). While
+ﬂattening introduces spatial distortions over cor-
+tex, it is useful for producing images that are suited
+to print presentation and also reveals cortical areas
+that may be obscured by cortical folding. Even in
+the marmoset, which has the lowest degree of corti-
+cal folding of all the primates,
+23 ﬂattening is useful
+to see obscured structures such as the secondary
+somatosensory cortex (S2), which is found in the
+medial bank of the lateral sulcus. Since the ﬂattened
+map shows all enhancing cortical areas, we have
+chosen to annotate this presentation to summarize
+myeloarchitecture in the common marmoset.
+Several major cortical areas are immediately vis-
+ible as enhancements in the ﬂattened map, and we
+have labeled these enhancing areas with reference
+to the literature on myeloarchitecture. For an area
+to be identiﬁed in our map, there must be contrast
+between it and surrounding areas. W e have avoided
+annotating areas whose borders are not readily
+observed in our images, as these deﬁnitions would
+be arbitrary. W e also do not annotate areas that can-
+not be identiﬁed based on myeloarchitecture alone.
+T o comprehensively show cortical organization in
+the marmoset, such as in an atlas, it would be better
+to show a composite map derived from myeloar-
+chitecture, other forms of histology, and functional
+studies.
+Three primary sensory areas are readily identiﬁed
+in the map: the primary visual (V1),
+24,25 auditory
+(A1),26,27 and somatosensory (S1) 28 cortices. The
+border between V1 and the secondary visual cor-
+tex (V2) is readily delineated, since the density of
+myelin throughout the layers of V2 is far lower than
+in V1. In the map, we do not show the entire extent
+of V1 over the occipital cortex because of difﬁculties
+ﬂattening the calcarine ﬁssure without introducing
+widespread distortions in the rest of the cortex. The
+rostral border of V2 is not discernable in our map
+because there is not a great enough difference in
+myelination between V2 and adjoining rostral ar-
+eas. The extent of V2 is traditionally visualized using
+cytochrome oxidase staining,
+29 rather than myelin
+staining, and our inability to delineate V2 in our
+map shows the limitation of describing cortical or-
+ganization based on only one contrast mechanism.
+Further along in the rostral direction in Figure 5,
+we can clearly see A1 in the dorsal temporal cortex,
+extending into the lateral sulcus. Continuous with
+E176 Ann. N.Y . Acad. Sci. 1225 S1 (2011) E171–E181 c⃝ 2011 New York Academy of Sciences. No claim to original U.S. Government works.
+
+===== PDF PAGE 7 =====
+Bock et al. MRI of myeloarchitecture in primates
+Figure 5. Comparative 3D maps of myeloarchitecture from
+representative 3-year-old and 8-year-old female common mar-
+mosets. Both animals are adults, and the maps show a similar
+pattern of cortical organization.
+A1 is another myelinated auditory area, the rostral
+auditory area (R). The other primary sensory region,
+S1, is seen as the dog-leg structure in the parietal cor-
+tex. Within the medial wall of the lateral sulcus, S2
+28
+can also be seen. This is continuous with another
+myelinated region, the parietal ventral area (PV).
+28
+The two other major enhancing areas in our map
+are extrastriate visual areas: the middle temporal
+(MT)30 and dorsomedial (DM)31 areas. MT is read-
+ily identiﬁed by its kidney-like shape, and ventral
+and anterior to MT is an enhancing area corre-
+sponding to the fundus of the superior temporal
+area (FST).
+32 T h es h a p ea n de x t e n to fD Mi sn o tw e l l
+deﬁned in the literature based on its myelination;
+however, it has strong enhancement, and we have
+labeled it in our map although its actual borders are
+indistinct. Another neighboring feature, the ventral
+posterior parietal cortex (PPv), is clearly identiﬁ-
+able because of its low myelin content
+33 relative to
+the rest of the parietal cortex.
+In the frontal cortex of our map, the motor areas
+are visible. Even though these output areas con-
+tain less myelin than the primary sensory areas,
+their caudal border is readily identiﬁed because of
+contrast with S1, which is heavily myelinated, and
+their rostral border is visible as there is very little
+myelin in the rest of the frontal cortex. Although the
+large motor area we have identiﬁed contains many
+subdivisions, including the primary motor cortex,
+the premotor areas, and the frontal eye ﬁelds,
+34,35
+there is little contrast between these regions, so they
+must be grouped into a common area. Area 12 in
+the dorsolateral and orbital frontal cortex is rela-
+tively well-myelinated 36 and is easily identiﬁed in
+our map. Interestingly, this area is an important
+source of projections to the heavily myelinated MT
+area.37
+While we only show one representative ﬂattened
+map of the marmoset cortex in this paper, the four
+marmosets showed a similar pattern of myelination
+over the cortex in the 3D maps (see Fig. 6). W e do not
+actually expect major differences in neuroanatomy
+between the individuals in this study, as they were
+all female and were in their adult years.
+20 Figure 5
+shows 3D maps from a 3-year-old female marmoset
+and an 8-year-old female marmoset; the maps are
+very similar, suggesting a good reproducibility of
+our mapping technique.
+T o quantitatively summarize cortical organiza-
+tion in the marmoset, we measured the surface ar-
+eas of the major enhancing areas in our maps from
+all four monkeys (see Fig. 8 and T able 1). Since A1
+and R are continuous, we have necessarily combined
+their areas as a single measure. Since we only had
+four animals in the study, we have pooled our mea-
+surements rather than look for differences in cortical
+Figure 6. Deﬁnition of cortical areas for surface area
+measurements.
+Ann. N.Y . Acad. Sci. 1225 S1 (2011) E171–E181 c⃝ 2011 New York Academy of Sciences. No claim to original U.S. Government works. E177
+
+===== PDF PAGE 8 =====
+MRI of myeloarchitecture in primates Bock et al.
+Figure 7. Areal distortion introduced by ﬂattening. The ﬁgure
+shows the areal distortion produced when the right hemisphere
+was ﬂattened in Figure 4. The original surface can be represented
+as a mesh of triangles. The areal distortion is a localized measure
+of the expansion or contraction of these triangles produced by
+the ﬂattening operation. It is deﬁned as AD i = log2(ASi/AFi),
+where i indexes a given triangle, AS i is its area in the original
+surface, and AF i is its area in the ﬂattened surface. In the ﬁg-
+ure, areal distortions tending toward black represent shrinkage,
+while those tending toward white represent expansions. One can
+s e et h a tt h ed i s t o r t i o ni sn o tu n i f o r mo v e rt h ec o r t e x ,a n di ti s
+greatest in regions with a high degree of curvature in the original
+image, such as the frontal pole.
+organization between the marmosets. The low stan-
+dard deviations in our measurements suggest that
+the size of cortical areas may be largely preserved
+over different individuals, although a more statis-
+tically rigorous study with a large number of ani-
+mals would be required to conﬁrm this. Comparing
+measurements between hemispheres, we again see
+little variation, although more animals would also
+be needed to statistically conﬁrm this.
+What we do see in our surface area data is that a
+large proportion of the marmoset cortex is devoted
+to vision, since V1 is almost ﬁve times as large as all
+the motor areas combined, seven times as large as S1,
+a n da l m o s t2 2t i m e sa sl a r g ea sA 1 p l u sR !I fw ec o u n t
+MT and DM as visual areas as well, then at least a
+quarter of the marmoset cortex is devoted to vision.
+These types of measures are useful in comparative
+studies of cortical organization.
+Discussion
+In this paper, we show thatin vivoMRI and advanced
+image processing well visualize myeloarchitecture in
+common marmosets. The ability to show the entire
+pattern of myeloarchitecture over the cortex pro-
+vides a compact summary of cortical organization in
+the marmoset, and the location and extent of many
+important cortical areas can be readily identiﬁed. In
+addition, accurate surface area measurements can
+be made for speciﬁc cortical areas in 3D maps that
+are free from the distortion and shrinkage associated
+with surface area measurements in from histology.
+In reality, our data compare quite closely with data
+from studies performed with traditional histology.
+W e found the average surface area of V1 to be 220
+mm
+2, whereas previous studies 38,39 have reported
+averages of 205 mm2 and 200 mm2,r e s p e c t i v e l y .
+These surface area data are also invaluable for
+comparative studies of cortical organization in dif-
+ferent species. For instance, we can compare our
+results to a study performed with traditional histol-
+ogy in black-tufted marmosets ( Callithrix penicil-
+latta).
+30 We f o u n d M T to b e 1 8 m m2 (averaged over
+both hemispheres) and V1 to be 220 mm 2 in our
+common marmosets, versus 14 mm 2 for MT and
+182 mm2 measured from myelin-stained histology
+Figure 8. Views of the surface-rendered images from each of
+the four marmosets in the study.
+E178 Ann. N.Y . Acad. Sci. 1225 S1 (2011) E171–E181 c⃝ 2011 New York Academy of Sciences. No claim to original U.S. Government works.
+
+===== PDF PAGE 9 =====
+Bock et al. MRI of myeloarchitecture in primates
+Table 1. The measurements of the left and right cortex
+include the entire cortical surface, including the ventral
+surface and occipital area not shown in the ﬂattened
+map. (n = 4, surface areas reported as mean ± standard
+deviation)
+Percent of total
+Surface cortical surface area
+Region area (mm 2) of hemisphere
+Left cortex 1005 ± 21 –
+Left V1 219 ± 12 22
+Left motor 36 ± 24
+Left S1 28 ± 43
+Left MT 17 ± 32
+Left A1 and R 11 ± 31
+Right cortex 1007 ± 34 –
+Right V1 222 ± 32 2
+Right motor 37 ± 34
+Right S1 30 ± 43
+Right MT 19 ± 22
+Right A1 and R 11 ± 31
+in the black-tufted marmosets. This shows close
+agreement between the two very similar species of
+marmoset.
+A drawback of our technique is that it only al-
+lows visualization of major myelinated cortical ar-
+eas, and we lack the ability to delineate areas based
+on subtle variations in myelination patterns across
+the cortical areas. In reality, this level of resolution
+is probably beyond that of in vivo MRI, and highly
+detailed analyses of cortical organization are best
+left for traditional postmortem histology. There is
+great utility, however, in being able to quantitatively
+follow major cortical areas in vivo.
+One main application of our technique is in longi-
+tudinal studies of the morphological and functional
+changes of these heavily myelinated cortical areas
+that occur during development or in response to
+plastic reorganization induced by processes such as
+learning or injury. Because of our ability to follow
+each animal longitudinally, the technique could be
+used to monitor postnatal maturation and devel-
+opment of the primary sensory areas (A1, S1, and
+V1), as well as MT, which have been shown to be the
+ﬁrst to mature in the marmoset.
+40 In addition, our
+technique can be used to study the functional reor-
+ganization of these sensory areas that are known to
+occur following brain injuries associated with dis-
+eases such as stroke41 and multiple sclerosis 42 or in
+response to trauma.43
+The image contrast in our technique is based on
+the effect of myelin shortening the T1 of water in the
+cortex. While the speciﬁc mechanisms of this effect
+are not fully identiﬁed in cortical gray matter, previ-
+ous studies have shown that there are two apparent
+components to T
+1 in white matter: a short compo-
+nent associated with water trapped in the myelin
+sheaths and a longer component associated with
+intra- and extracellular water.
+44 While we cannot
+rule out contributions from other sources, including
+paramagnetic metals such as iron45 and manganese,
+we have observed a strong spatial correlation be-
+tween cortical decreases in T 1 with local increases
+in myelination. However, further studies are needed
+to fully elucidate the actual mechanisms by which
+myelin affects T
+1 in the cortex.
+In theory, our technique can be used to visualize
+myeloarchitecture in any species (provided it can
+ﬁt in an MRI scanner). Since MRI is nondestruc-
+tive, it is especially suited for studies in rare species
+or in longitudinal studies of cortical organization.
+It is also more accessible and does not require the
+same level of technical expertise needed for histo-
+logical studies. A good knowledge of myelination
+patterns in the species in question is still needed,
+however, to interpret the MRI images. Overall, this
+paper shows the real potential of quantifying cortical
+organization in vivo with MRI.
+Acknowledgments
+W e wish to thank Dr. John Kaas for providing an ex-
+pert review of our annotated maps of the marmoset
+cortex, and Ms. Lisa Zhang for her excellent animal
+support.
+Conﬂicts of interest
+The authors declare no conﬂicts of interest.
+References
+1. Ashburner, J. & K.J. Friston. 2000. V oxel-based
+morphometry–the methods. Neuroimage 6: 805–821.
+2. Thompson, P .M., K.M. Hayashi, E.R. Sowell, et al . 2004.
+Mapping cortical change in Alzheimer’s disease, brain de-
+velopment, and schizophrenia. Neuroimage 23: S2–18.
+3. Lerch, J.P ., J. Pruessner, A.P . Zijdenbos, et al . 2008. Auto-
+mated cortical thickness measurements from MRI can ac-
+curately separate Alzheimer’s patients from normal elderly
+controls. Neurobiol. Aging. 1: 23–30.
+Ann. N.Y . Acad. Sci. 1225 S1 (2011) E171–E181 c⃝ 2011 New York Academy of Sciences. No claim to original U.S. Government works. E179
+
+===== PDF PAGE 10 =====
+MRI of myeloarchitecture in primates Bock et al.
+4. Hikishima, K., M.M. Quallo, Y . Komaki, et al . 2010.
+Population-averaged standard template brain atlas for the
+common marmoset (Callithrix jacchus). Neuroimage 54:
+2741–2749.
+5. Bock, N.A., A. Kocharyan & A.C. Silva. 2009. Manganese-
+enhanced MRI visualizes V1 in the non-human primate
+visual cortex. NMR Biomed. 22: 730–736.
+6. Newman, J.D., W.M. Kenkel, E.C. Aronoff, et al . 2009. A
+combined histological and MRI brain atlas of the common
+marmoset monkey, Callithrix jacchus. Brain. Res. Rev. 1: 1–
+18.
+7. Sasaki, E., H. Suemizu, A. Shimada, et al . 2009. Generation
+of transgenic non-human primates with germline transmis-
+sion. Nature 7246: 523–527.
+8 . S i l v a ,A . ,J .L e e ,C .W u ,et al. 2008. Detection of cortical lam-
+inar architecture using manganese-enhanced MRI. J. Neu-
+rosci. Methods 2: 246–257.
+9. Marques, J.P ., R. Maddage, V . Mlynarik & R. Gruetter. 2009.
+On the origin of the MR image phase contrast: an in vivo
+MR microscopy study of the rat brain at 14.1 T. Neuroimage
+2: 345–352
+10. V ogt, C. & O. V ogt. 1919. Allgemeinere ergebnisse unserer
+hirnforschung. J. Psychol. Neurol. 25: 292–398.
+11. Elliott Smith, G. 1907. A new topographical survey of the
+human cerebral cortex, being an account of the anatomically
+distinct cortical areas and their relationship to the cerebral
+sulci. J. Anat. 237–254.
+12. Schleicher, A., P . Morosan, K. Amunts & K. Zilles. 2009.
+Quantitative architectural analysis: a new approach to cor-
+tical mapping. J. Autism. Dev. Disord. 39: 1568–1568.
+13. Annese, J., A. Pitiot, I.D. Dinov & A.W . T oga. 2004. A myelo-
+architectonic method for the structural classiﬁcation of cor-
+tical areas. Neuroimage 1: 15–26.
+14. Barbier, E., S. Marrett, A. Danek, et al. 2002. Imaging cortical
+anatomy by high-resolution MR at 3.0T: detection of the
+stripe of Gennari in visual area 17. Magn. Reson. Med. 4:
+735–738.
+15. T urner, R., A. Oros-Peusquens, S. Romanzetti, et al . 2008.
+Optimised in vivo visualisation of cortical structures in the
+human brain at 3 T using IR-TSE. Magn. Reson. Imaging 7:
+935–942.
+1 6 . B r i d g e ,H . ,S .C l a r e ,M .J e n k i n s o n ,et al. 2005. Independent
+anatomical and functional measures of the V1/V2 boundary
+in human visual cortex. J. Vis. 2: 93–102.
+17. Sigalovsky, I.S., B. Fischl & J.R. Melcher. 2006. Mapping an
+intrinsic MR property of gray matter in auditory cortex of
+living humans: a possible marker for primary cortex and
+hemispheric differences. Neuroimage 4: 1524–1537.
+18. Mori, S., K. Oishi & A.V . Faria. 2009. White matter atlases
+based on diffusion tensor imaging. Curr. Opin. Neurol. 4:
+362–369.
+19. Bock, N.A., A. Kocharyan, J.V . Liu & A.C. Silva. 2009. Visu-
+alizing the entire cortical myelination pattern in marmosets
+with magnetic resonance imaging. J. Neurosci. Methods 1:
+15–22.
+20. Abbott, D.H., D.K. Barnett, R.J. Colman, M.E. Y amamoto &
+N.J. Schultz-Darken. 2003. Aspects of common marmoset
+basic biology and life history important for biomedical re-
+search. Comp. Med. 53: 339–350.
+21. Wang, J., M. Qiu & R. Constable. 2005. In vivo method
+for correcting transmit/receive nonuniformities with phased
+array coils. Magn. Reson. Med. 3: 666–674.
+22. V an Essen, D.C., H.A. Drury, J. Dickson, et al . 2001.
+An integrated software suite for surface-based analyses
+of cerebral cortex. J .A m .M e d .I n f o r m .A s s o c .5: 443–
+459.
+23. Zilles, K., E. Armstrong, K.H. Moser, et al. 1989. Gyriﬁcation
+in the cerebral cortex of primates. Brain Behav. Evol. 3: 143–
+150.
+24. Rosa, M.G. & R. T weedale. 2000. Visual areas in lateral
+and ventral extrastriate cortices of the marmoset monkey. J.
+Comp. Neurol. 4: 621–651.
+25. Lyon, D. & J. Kaas. 2001. Connectional and architectonic
+evidence for dorsal and ventral V3, and dorsomedial area in
+marmoset monkeys. J. Neurosci. 1: 249–261.
+26. Pistorio, A.L., S.H. Hendry & X. Wang. 2006. A modiﬁed
+technique for high-resolution staining of myelin.J. Neurosci.
+Methods 1: 135–146.
+27. Reser, D.H., K.J. Burman, K.E. Richardson, et al. 2009. Con-
+nections of the marmoset rostrotemporal auditory area: ex-
+press pathways for analysis of affective content in hearing.
+Eur. J. Neurosci. 4: 578–592.
+28. Krubitzer, L.A. & J.H. Kaas. 1990. The organization and con-
+nections of somatosensory cortex in marmosets. J. Neurosci.
+3: 952–974.
+29. Jeffs, J., J.M. Ichida, F . Federer & A. Angelucci. 2009. Anatom-
+ical evidence for classical and extra-classical receptive ﬁeld
+completion across the discontinuous horizontal meridian
+representation of primate area V2. Cereb. Cortex. 4: 963–
+981.
+30. Pessoa, V ., J. Abrahao, R. Pacheco, et al . 1992. Relative sizes
+of cortical visual areas in marmosets: functional and phylo-
+genetic implications. Exp. Brain Res. 2: 459–462.
+31. Rosa, M.G. & L.M. Schmid. 1995. Visual areas in the dorsal
+and medial extrastriate cortices of the marmoset. J. Comp.
+Neurol. 2: 272–299.
+32. Rosa, M.G. & G.N. Elston. 1998. Visuotopic organisation
+and neuronal response selectivity for direction of motion in
+visual areas of the caudal tempoQral lobe of the marmoset
+monkey (Callithrix jacchus): middle temporal area, middle
+temporal crescent, and surrounding cortex.J. Comp. Neurol.
+4: 505–527.
+33. Rosa, M.G.P ., S.M. Palmer, M. Gamberini, et al. 2009. Con-
+nections of the dorsomedial visual area: pathways for early
+integration of dorsal and ventral streams in extrastriate cor-
+tex. J. Neurosci. 14: 4548–4563.
+34. Burman, K.J., S.M. Palmer, M. Gamberini, et al . 2008.
+Anatomical and physiological deﬁnition of the motor cor-
+tex of the marmoset monkey. J. Comp. Neurol. 5: 860–
+876.
+35. Burish, M.J., I. Stepniewska & J.H. Kaas. Microstimula-
+tion and architectonics of frontoparietal cortex in common
+marmosets (Callithrix jacchus). J. Comp. Neurol. 2: 1151–
+1168.
+36. Burman, K.J. & M.G.P . Rosa. 2009. Architectural subdi-
+visions of medial and orbital frontal cortices in the mar-
+moset monkey (Callithrix jacchus). J. Comp. Neurol. 1: 11–
+29.
+E180 Ann. N.Y . Acad. Sci. 1225 S1 (2011) E171–E181 c⃝ 2011 New York Academy of Sciences. No claim to original U.S. Government works.
+
+===== PDF PAGE 11 =====
+Bock et al. MRI of myeloarchitecture in primates
+37. Burman, K.J., S.M. Palmer, M. Gamberini & M.G.P . Rosa.
+2006. Cytoarchitectonic subdivisions of the dorsolateral
+frontal cortex of the marmoset monkey (Callithrix jacchus),
+and their projections to dorsal visual areas. J. Comp. Neurol.
+2: 149–172.
+38. Fritsches, K.A. & M.G. Rosa. 1996. Visuotopic organisation
+of striate cortex in the marmoset monkey (Callithrix jac-
+chus). J. Comp. Neurol 372: 264–282.
+39. Missler, M., A. W olff, H.J. Merker & J.R. W olff. 1993. Pre-
+and postnatal development of the primary visual cortex of
+the common marmoset. II. Formation, remodelling, and
+elimination of synapses as overlapping processes. J. Comp.
+Neurol. 333: 53–67.
+40. Burman, K.J., L.L. Lui, M.G.P . Rosa & J.A. Bourne. 2007.
+Development of non-phosphorylated neuroﬁlament protein
+expression in neurones of the New W orld monkey dorsolat-
+eral frontal cortex. Eur. J. Neurosci. 25: 1767–1779.
+41. Jiang, Q., Z.G. Zhang & M. Chopp. 2010. MRI evaluation
+of white matter recovery after brain injury. Stroke 10: S112–
+S113.
+42. Filippi, M., M.A. Rocca, R.H.B. Benedict, et al . 2010. The
+contribution of MRI in assessing cognitive impairment in
+multiple sclerosis. Neurology 23: 2121–2128.
+43. Zhang, Y ., Y . Xiong, A. Mahmood, et al . 2010. Sprouting of
+corticospinal tract axons from the contralateral hemisphere
+into the denervated side of the spinal cord is associated with
+functional recovery in adult rat after traumatic brain injury
+and erythropoietin treatment. Brain Res. 1353: 249–257.
+44. Labadie, C., J. Lee, W. Rooney, et al . 2008. Detection of the
+myelin water fraction in 4 T esla longitudinal relaxation data
+by cross-regularized inverse Laplace transform. In Proceed-
+ings of the 16th Annual Meeting of ISMRM; p. 2243.
+4 5 . F u k u n a g a ,M . ,T .L i ,P .v a nG e l d e r e n ,J . A .d eZ w a r t ,et al .
+2010. Layer-speciﬁc variation of iron content in cerebral
+cortex as a source of MRI contrast. Proc. Natl. Acad. Sci.
+U.S.A. 107: 3834–3839.
+Ann. N.Y . Acad. Sci. 1225 S1 (2011) E171–E181 c⃝ 2011 New York Academy of Sciences. No claim to original U.S. Government works. E181

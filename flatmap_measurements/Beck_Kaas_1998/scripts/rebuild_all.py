@@ -51,7 +51,9 @@ def main():
  if revision_review.exists():
   subprocess.run([sys.executable,'-B',str(revision_review)],check=True)
   gp.write_text(gp.read_text().replace('<hr><h1>All-figure', '<p><a href="line_refinement.html">Refined contours: enlarged source toggles and before/after comparison</a></p><hr><h1>All-figure'))
- files=[p for name in ['source','figures','data','scripts','review','documentation'] for p in (root/name).rglob('*') if p.is_file() and p.name!='checksums.json' and '__pycache__' not in p.parts]
+ dm_review=root/'scripts/build_dm_recheck_review.py'
+ if dm_review.exists():subprocess.run([sys.executable,'-B',str(dm_review)],check=True)
+ files=[p for name in ['source','figures','data','scripts','review','documentation'] for p in (root/name).rglob('*') if p.is_file() and p.name!='checksums.json' and p.suffix!='.log' and '__pycache__' not in p.parts]
  (root/'documentation/checksums.json').write_text(json.dumps({str(p.relative_to(root)):digest(p) for p in files},indent=2)+'\n')
  subprocess.run([sys.executable,'-B',str(root/'scripts/measure_flatmaps.py'),'--verify'],check=True)
  print(root.name,': final rebuild and verification passed',flush=True)

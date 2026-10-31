@@ -29,3 +29,11 @@ Before modifying a paper, preserve the current geometry and user edits. Update c
 ## Current audit
 
 The [20 October missing-region audit](missing_region_audit_2026-10-20/index.html) inventories every saved definition and records a targeted visual review of high-risk figures. It distinguishes clear missing tracings, candidates, inventory gaps and source limitations. It is not a certification that every figure in every paper is complete.
+
+## Tracer overlays and coverage — Beck & Kaas 1998 correction, 31 October 2026
+
+Read the tracer legend before identifying boundaries. Triangles, squares, crosses and circles can mark tracer identity; enclosing ovals can mark injection spread. Neither is automatically an areal compartment. Follow the larger continuous anatomical envelope across these marks using visible tangents; retain injected tissue within the region. Compare same-case panels first, then same-species cases; a similar map from another species can explain conventions but cannot supply metric geometry.
+
+Do not reject an entire inset because one short border interval is overprinted. Record and display each interpolated segment. For long hidden intervals, retain the observed-complete boundary as unavailable; any proposed envelope must be explicitly identified as an inferred estimate, excluded from observed complete-field analysis, and drawn with a separate uncertainty style. It must not silently become an observed contour.
+
+A shared V2 border continuing beyond the two DM junctions does not by itself mean that DM is clipped. Inspect the actual field endpoints. Inventory every panel by measurement type: cortical flatmap, anatomical section, schematic or locator. An excluded thalamic section is not an untraced cortical area. Link old review snapshots prominently to the current dataset review.

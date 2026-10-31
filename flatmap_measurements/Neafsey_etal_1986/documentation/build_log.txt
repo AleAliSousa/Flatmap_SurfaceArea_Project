@@ -1,0 +1,11 @@
+Figure fig03A_forelimb: 2 selections, TIFF calibration and all pixels verified
+Figure fig03B_forelimb: 2 selections, TIFF calibration and all pixels verified
+Figure fig05_forelimb_parallel: 2 selections, TIFF calibration and all pixels verified
+Figure fig06A_hindlimb: 1 selections, TIFF calibration and all pixels verified
+Figure fig06B_hindlimb: 1 selections, TIFF calibration and all pixels verified
+Figure fig07_hindlimb_parallel: 1 selections, TIFF calibration and all pixels verified
+Figure fig08A_vibrissae: 1 selections, TIFF calibration and all pixels verified
+Figure fig08B_vibrissae: 1 selections, TIFF calibration and all pixels verified
+Figure fig10A_jaw_lip_tongue: 1 selections, TIFF calibration and all pixels verified
+Figure fig10B_jaw_lip_tongue: 1 selections, TIFF calibration and all pixels verified
+{"processed_views": 10, "measured_fields": 13, "unmeasured_fields": 10, "overlaps": [], "native_imagej_roundtrip": "passed", "anatomical_review": "provisional; pending user review", "reference_comparison": "not_run; core workflow does not require reference data"}

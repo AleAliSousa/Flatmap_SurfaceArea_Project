@@ -30,3 +30,23 @@ Own printed scale strokes are measured between their visible endpoints. Areas us
 No independently certified complete-neocortex outline was established. Whole-neocortex percentages and species percentage summaries remain unavailable. Repeated views are not extra animals; unresolved specimens are not pooled across maps or papers. Complete-field absolute-area summaries select one supported view per explicitly identified specimen and literal field label; main maps take priority, with repeated-view fallback only where the main map is unavailable. Partial and approximate fields, historical pixel-only drawings and specimens reported only as unknown remain per-view observations and do not enter those means. Sample SD is NA for n<2.
 
 Rebuild locally with `python -B scripts/rebuild_all.py --java /path/to/java`. Outputs include long measurements, NA rows, summaries, native ImageJ overlays/ROI ZIPs/mask ZIPs for measured maps, source TIFFs, source-toggle precision review and all-figure assessment. `--verify` checks saved hashes, native ROI/mask/calibration read-back and area calculations. Geometry diagnostics check self-intersections and eroded-mask interior overlaps; visual source checks are separate and necessary.
+
+<!-- project-tracing-review-2026-10-31 -->
+## Project-wide tracing review, 31 October 2026
+
+[View this dataset's quality review](../project_review_2026-10-31/index.html?paper=Krubitzer_1998) · [Review methods and changes](../project_review_2026-10-31/README.md)
+
+View-level screening categories: A=2, B=14, N=2. A identifies the clearest source/fit examples; B retains caveats; C needs targeted review/retracing; D is unsuitable for the intended anatomical area inference; N has no saved trace. These are not individual-region certification or independent-specimen counts. See the linked report for each map's notes and proposed improvements.
+
+Atlases and guides: see the [project guide](../ReadMe.md). Use same-specimen panels to resolve obscured lines where correspondence is established; use other specimens and atlases for field identity, adjacency and sulcal plausibility only. They do not supply an observed border, justify copying a shape, or establish a missing physical scale.
+
+<!-- project-tracing-review-2026-10-31-pass2 -->
+## Second precision pass, 31 October 2026
+
+[Source / before / after review](../project_review_2026-10-31_pass2/index.html?paper=Krubitzer_1998) · [Change log and areas](../project_review_2026-10-31_pass2/area_changes.csv)
+
+0 revised regions; 1 added components. Original datasets are archived in `../project_review_2026-10-31_pass2/before/`.
+
+**Atlases and comparison guides:** Luethke et al. 1988 squirrel maps corroborate the M/SI arrangement. The new M outline follows the black silhouette in the 1998 Fig.14D summary itself, preserving the internal M lettering. It remains an illustrative summary, not an additional specimen or a whole-neocortex denominator.
+
+Source-based revisions remain provisional. Existing specimen, scale and analysis-eligibility restrictions are preserved. See the review for unresolved fields and source-specific line meanings.

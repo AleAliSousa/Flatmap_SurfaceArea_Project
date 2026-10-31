@@ -1,0 +1,24 @@
+{
+  "cortical_insets": 8,
+  "closed_published_DM_envelopes": 5,
+  "partial_DM_contours": 1,
+  "inferred_envelopes_excluded_from_observed_complete_field_analysis": 2,
+  "new_outlines": 3,
+  "estimated_outlines_included_in_new_count": 2,
+  "geometry_revised_existing": 1,
+  "extent_label_corrections_without_geometry_change": [
+    "fig10",
+    "fig12"
+  ],
+  "native_imagej_roundtrip": "passed",
+  "source_pixels_scale_identity_preserved": true,
+  "polygon_checks": "passed",
+  "unmodified_geometry_area_values": "passed",
+  "estimate_exclusion_from_complete_field_summaries": "passed",
+  "local_report_links": "passed",
+  "thalamic_sections_not_cortical_surface_maps": {
+    "fig06": 7,
+    "fig09": 13
+  },
+  "anatomical_certification": false
+}

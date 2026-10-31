@@ -8,8 +8,8 @@ fig07A,Electrosensory island ii,partial,96,4,enlarged perimeter reviewed; short 
 fig09C,Auditory mapped envelope,complete,178,4,enlarged perimeter reviewed; short symbol continuations documented,Regularized source-envelope following; pixel staircases suppressed before fitting to continuous printed stroke,pending
 fig11A,Vc,complete,210,4,enlarged perimeter reviewed; short symbol continuations documented,Regularized source-envelope following; pixel staircases suppressed before fitting to continuous printed stroke,pending
 fig11A,Vr,complete,149,4,enlarged perimeter reviewed; short symbol continuations documented,Regularized source-envelope following; pixel staircases suppressed before fitting to continuous printed stroke,pending
-fig11B,Vc,complete,321,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source compartment, relative-contrast perimeter extraction and sub-stroke pixel regularization",pending
-fig11B,Vr,complete,327,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source compartment, relative-contrast perimeter extraction and sub-stroke pixel regularization",pending
+fig11B,Vc,complete,681,4,enlarged perimeter reviewed; short symbol continuations documented,"Source-reviewed contour revision, 2026-10-31; see project_review_2026-10-31",pending
+fig11B,Vr,complete,511,4,enlarged perimeter reviewed; short symbol continuations documented,"Source-reviewed contour revision, 2026-10-31; see project_review_2026-10-31",pending
 fig12,Visual VI?,approximate_complete,135,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
 fig12,Auditory A1?,complete,53,4,enlarged perimeter reviewed; short symbol continuations documented,Regularized source-envelope following; pixel staircases suppressed before fitting to continuous printed stroke,pending
 fig12,Auditory adjacent mapped patch,partial,58,4,enlarged perimeter reviewed; short symbol continuations documented,Regularized source-envelope following; pixel staircases suppressed before fitting to continuous printed stroke,pending
@@ -45,6 +45,7 @@ fig14D_summary,SI,complete,68,4,enlarged perimeter reviewed; short symbol contin
 fig14D_summary,SI upper island,complete,54,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source compartment, relative-contrast perimeter extraction and sub-stroke pixel regularization",pending
 fig14D_summary,R,complete,163,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source compartment, relative-contrast perimeter extraction and sub-stroke pixel regularization",pending
 fig14D_summary,VI,complete,90,4,enlarged perimeter reviewed; short symbol continuations documented,Source silhouette followed with source-stroke refinement,pending
+fig14D_summary,M,complete,140,4,enlarged perimeter reviewed; short symbol continuations documented,"Source-reviewed second-pass refinement, 2026-10-31; see project_review_2026-10-31_pass2",pending
 fig14E_summary,VI,complete,132,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source compartment, relative-contrast perimeter extraction and sub-stroke pixel regularization",pending
 fig14E_summary,VII,complete,91,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source compartment, relative-contrast perimeter extraction and sub-stroke pixel regularization",pending
 fig14E_summary,MT,complete,36,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source compartment, relative-contrast perimeter extraction and sub-stroke pixel regularization",pending

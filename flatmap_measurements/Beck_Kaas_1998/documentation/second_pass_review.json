@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-31",
+  "pass_number": 2,
+  "changed_regions": [
+    {
+      "map_id": "fig09",
+      "label": "DM visible fragment",
+      "kind": "revision",
+      "note": "Manually retraced at enlargement across annotation interruptions; removed glyph-shaped detours and followed the visible gray DM perimeter. Fig.10 is a same-species topology guide only. The source itself describes uncertain borders; retain provisional interpretation."
+    }
+  ],
+  "scope": "All project views screened at overview resolution; changed regions reviewed enlarged. Anatomical certification remains pending.",
+  "source_pdf_unchanged": true,
+  "native_imagej_roundtrip": "passed",
+  "remaining_interior_overlap_diagnostics": [],
+  "project_review": "../project_review_2026-10-31_pass2/index.html",
+  "no_new_calibration_or_denominator": true
+}

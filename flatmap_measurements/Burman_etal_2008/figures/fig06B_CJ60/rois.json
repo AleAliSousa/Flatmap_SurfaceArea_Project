@@ -1,0 +1,222 @@
+{
+  "map_id": "fig06B_CJ60",
+  "figure": "6",
+  "panel": "",
+  "pdf_page": 9,
+  "printed_page": "",
+  "species": "Callithrix jacchus",
+  "specimen": "CJ60",
+  "hemisphere": "unresolved",
+  "view_type": "dorsal_projection_partial_cortex",
+  "hemisphere_relation": "",
+  "linked_main_map": "",
+  "repeat_of": "",
+  "relationship_note": "Different stimulation animals from CJ58R in Fig.9. Upper panel edge clips medial cortex.",
+  "specimen_link_status": "source_label_preserved; cross-paper overlap unresolved",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 3,
+  "crop_xyxy": [
+    150,
+    880,
+    840,
+    1470
+  ],
+  "scale_endpoints_px": [],
+  "scale_length_mm": null,
+  "scale_note": "Caption explicitly prints 1 \u03bcm, apparently inconsistent with cortical anatomy. Do not silently substitute 1 mm. Same-panel bar endpoints preserved separately.",
+  "scale_reference_map": "",
+  "outline": null,
+  "rois": [
+    {
+      "label": "M1_dorsal_projection",
+      "polygons": [
+        [
+          [
+            332.0,
+            18.0
+          ],
+          [
+            332.0,
+            60.0
+          ],
+          [
+            316.0,
+            98.0
+          ],
+          [
+            302.0,
+            130.0
+          ],
+          [
+            294.0,
+            176.0
+          ],
+          [
+            274.0,
+            220.0
+          ],
+          [
+            268.0,
+            262.0
+          ],
+          [
+            236.0,
+            294.0
+          ],
+          [
+            210.0,
+            324.0
+          ],
+          [
+            196.0,
+            360.0
+          ],
+          [
+            178.0,
+            408.0
+          ],
+          [
+            174.0,
+            440.0
+          ],
+          [
+            218.0,
+            404.0
+          ],
+          [
+            258.0,
+            384.0
+          ],
+          [
+            300.0,
+            362.0
+          ],
+          [
+            336.0,
+            340.0
+          ],
+          [
+            376.0,
+            312.0
+          ],
+          [
+            384.0,
+            270.0
+          ],
+          [
+            392.0,
+            224.0
+          ],
+          [
+            406.0,
+            188.0
+          ],
+          [
+            426.0,
+            162.0
+          ],
+          [
+            466.0,
+            140.0
+          ],
+          [
+            504.0,
+            106.0
+          ],
+          [
+            518.0,
+            84.0
+          ],
+          [
+            518.0,
+            22.0
+          ]
+        ]
+      ],
+      "extent": "partial_dorsal_projection",
+      "boundary_note": "Follows dashed author M1 outline. Closed at upper panel boundary; medial continuation is not shown. Not complete native-surface M1.",
+      "status": "rejected_pending_retrace",
+      "analysis_eligible": false
+    },
+    {
+      "label": "M1_face_dorsal_component",
+      "polygons": [
+        [
+          [
+            236.0,
+            294.0
+          ],
+          [
+            268.0,
+            288.0
+          ],
+          [
+            300.0,
+            302.0
+          ],
+          [
+            340.0,
+            308.0
+          ],
+          [
+            376.0,
+            312.0
+          ],
+          [
+            336.0,
+            340.0
+          ],
+          [
+            300.0,
+            362.0
+          ],
+          [
+            258.0,
+            384.0
+          ],
+          [
+            218.0,
+            404.0
+          ],
+          [
+            174.0,
+            440.0
+          ],
+          [
+            196.0,
+            360.0
+          ],
+          [
+            210.0,
+            324.0
+          ]
+        ]
+      ],
+      "extent": "partial_dorsal_projection",
+      "boundary_note": "Intersection of yellow face territory with dashed M1 boundary; top follows visible forelimb/face transition. Not complete face M1.",
+      "status": "rejected_pending_retrace",
+      "analysis_eligible": false
+    }
+  ],
+  "unmeasured": [],
+  "supersample": 4,
+  "printed_scale_endpoints_reference": [
+    [
+      368.0,
+      726.0
+    ],
+    [
+      408.0,
+      726.0
+    ]
+  ],
+  "printed_scale_length_text": "1 \u03bcm",
+  "anatomical_review": "rejected_pending_retrace",
+  "review_note": "REJECTED FOR ANALYSIS: existing outlines do not adequately follow architectural borders. Original geometry retained for audit. See boundary_audit.html; the CJ58R printed-interior pilot is separate and is not a full-field area estimate.",
+  "boundary_semantics": {
+    "gray_bands": "architectural boundary uncertainty zones",
+    "dashed_lines": "authors best estimate of M1 outer boundary",
+    "LS": "lateral sulcus; separate from architectural boundary bands"
+  }
+}

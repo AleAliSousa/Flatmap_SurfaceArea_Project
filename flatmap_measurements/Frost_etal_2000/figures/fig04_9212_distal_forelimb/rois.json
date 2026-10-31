@@ -1,0 +1,158 @@
+{
+  "map_id": "fig04_9212_distal_forelimb",
+  "figure": "4",
+  "panel": "",
+  "pdf_page": 8,
+  "printed_page": "",
+  "species": "Monodelphis domestica",
+  "specimen": "9212",
+  "hemisphere": "right",
+  "view_type": "individual_reconstructed_partial_cortex",
+  "hemisphere_relation": "",
+  "linked_main_map": "fig02_9212_sensory",
+  "repeat_of": "",
+  "relationship_note": "Enlarged same sensory case, not a new animal. Do not pool with full S1 as independent observation.",
+  "specimen_link_status": "source_label_preserved; cross-paper overlap unresolved",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 3,
+  "crop_xyxy": [
+    520,
+    800,
+    750,
+    1026
+  ],
+  "scale_endpoints_px": [
+    [
+      58.0,
+      200.0
+    ],
+    [
+      210.0,
+      200.0
+    ]
+  ],
+  "scale_length_mm": 1,
+  "scale_note": "Printed same-panel scale; no shrinkage correction applied.",
+  "scale_reference_map": "same_panel_1mm_bar",
+  "outline": null,
+  "rois": [
+    {
+      "label": "S1_distal_forelimb_visible_component",
+      "polygons": [
+        [
+          [
+            48.0,
+            24.0
+          ],
+          [
+            92.0,
+            22.0
+          ],
+          [
+            132.0,
+            22.0
+          ],
+          [
+            174.0,
+            14.0
+          ],
+          [
+            180.0,
+            32.0
+          ],
+          [
+            176.0,
+            60.0
+          ],
+          [
+            164.0,
+            88.0
+          ],
+          [
+            160.0,
+            102.0
+          ],
+          [
+            170.0,
+            122.0
+          ],
+          [
+            196.0,
+            146.0
+          ],
+          [
+            210.0,
+            164.0
+          ],
+          [
+            210.0,
+            180.0
+          ],
+          [
+            202.0,
+            190.0
+          ],
+          [
+            180.0,
+            186.0
+          ],
+          [
+            152.0,
+            176.0
+          ],
+          [
+            138.0,
+            182.0
+          ],
+          [
+            124.0,
+            190.0
+          ],
+          [
+            102.0,
+            184.0
+          ],
+          [
+            84.0,
+            164.0
+          ],
+          [
+            68.0,
+            146.0
+          ],
+          [
+            48.0,
+            124.0
+          ],
+          [
+            32.0,
+            110.0
+          ],
+          [
+            22.0,
+            94.0
+          ],
+          [
+            30.0,
+            76.0
+          ],
+          [
+            44.0,
+            60.0
+          ]
+        ]
+      ],
+      "extent": "partial_drawn_extent",
+      "boundary_note": "Upper envelope is open in source. Visible component is clipped by the explicitly drawn straight segment joining displayed upper endpoints; not a complete distal forelimb representation. No complete-field area claim."
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "S1_distal_forelimb_complete",
+      "status": "not_measurable",
+      "reason": "Medial/upper extent not mapped; source contour has open endpoints."
+    }
+  ],
+  "supersample": 4
+}

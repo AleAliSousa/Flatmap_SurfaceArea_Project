@@ -1,0 +1,11 @@
+map_id,specimen,hemisphere,trace_2d_mm2,published_native_mm2,difference_percent,source,interpretation
+fig02_LH1,LH1,left,2896.8300000000004,3290,-11.950455927051662,Hinds Table 2,Separate 2D tracing and native-surface quantities; no forced rescaling
+fig02_LH2,LH2,left,3786.270000000001,4230,-10.490070921985794,Hinds Table 2,Separate 2D tracing and native-surface quantities; no forced rescaling
+fig02_LH3,LH3,left,1980.2500000000005,2210,-10.395927601809928,Hinds Table 2,Separate 2D tracing and native-surface quantities; no forced rescaling
+fig02_LH4,LH4,left,1880.8500000000004,2040,-7.80147058823527,Hinds Table 2,Separate 2D tracing and native-surface quantities; no forced rescaling
+fig02_LH5,LH5,left,2511.0900000000006,2770,-9.346931407942217,Hinds Table 2,Separate 2D tracing and native-surface quantities; no forced rescaling
+fig02_RH1,RH1,right,3210.1900000000005,3640,-11.807967032967015,Hinds Table 2,Separate 2D tracing and native-surface quantities; no forced rescaling
+fig02_RH2,RH2,right,3565.6300000000006,3930,-9.271501272264615,Hinds Table 2,Separate 2D tracing and native-surface quantities; no forced rescaling
+fig02_RH3,RH3,right,2297.9700000000003,2500,-8.081199999999988,Hinds Table 2,Separate 2D tracing and native-surface quantities; no forced rescaling
+fig02_RH4,RH4,right,2159.9500000000003,2380,-9.245798319327726,Hinds Table 2,Separate 2D tracing and native-surface quantities; no forced rescaling
+fig02_RH5,RH5,right,2270.6900000000005,2650,-14.31358490566036,Hinds Table 2,Separate 2D tracing and native-surface quantities; no forced rescaling

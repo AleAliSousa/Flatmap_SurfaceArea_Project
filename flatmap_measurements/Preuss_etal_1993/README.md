@@ -19,3 +19,12 @@ All **7 numbered figures assessed**. **10 provisional contours**, 26 explicit un
 Figure 2 is explicitly a schematic summary incorporating other studies; its closed envelopes are retained as composite geometry, excluded from specimen averages. Figures 5 and 6 identify cases 91-86R and 91-90R; specimen identifiers are 91-86 and 91-90, with R/L stored as hemisphere. Photographs in figures 3–4 identify 91-90L, the opposite hemisphere of the same animal represented in figure 6; figure 7 repeats the right hemisphere. V1, V2 and DL borders end within the reconstructions and remain NA. Figure 5's drawn MT outline includes the zone labelled FST? without an internal separator: label it MT/FST? drawn envelope, approximate, not pure MT. Figure 6's dashed ventrolateral MT border explicitly underestimates possible extension along STS (caption on PDF p.8): approximate only. Aud denotes primary auditory cortex plus neighboring fields, not a pure A1 measure. Photographic stain transitions are not thresholded into anatomical boundaries.
 
 Canonical geometry and editable ImageJ outputs are under `figures/`. Tracings remain provisional. Missing source boundaries/calibration are NA, never zero; all figures assessed does not imply that every field can be measured.
+
+<!-- project-tracing-review-2026-10-31 -->
+## Project-wide tracing review, 31 October 2026
+
+[View this dataset's quality review](../project_review_2026-10-31/index.html?paper=Preuss_etal_1993) · [Review methods and changes](../project_review_2026-10-31/README.md)
+
+View-level screening categories: B=3, N=3. A identifies the clearest source/fit examples; B retains caveats; C needs targeted review/retracing; D is unsuitable for the intended anatomical area inference; N has no saved trace. These are not individual-region certification or independent-specimen counts. See the linked report for each map's notes and proposed improvements.
+
+Atlases and guides: see the [project guide](../ReadMe.md). Use same-specimen panels to resolve obscured lines where correspondence is established; use other specimens and atlases for field identity, adjacency and sulcal plausibility only. They do not supply an observed border, justify copying a shape, or establish a missing physical scale.

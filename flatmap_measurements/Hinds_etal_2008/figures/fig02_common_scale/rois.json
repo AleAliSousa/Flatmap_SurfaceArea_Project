@@ -1,0 +1,42 @@
+{
+  "map_id": "fig02_common_scale",
+  "figure": "2",
+  "panel": "",
+  "pdf_page": 5,
+  "printed_page": "2590",
+  "species": "Homo sapiens",
+  "specimen": "calibration_only",
+  "hemisphere": "unknown",
+  "view_type": "calibration_reference",
+  "hemisphere_relation": "",
+  "linked_main_map": "",
+  "repeat_of": "",
+  "relationship_note": "Common printed bar for the ten Fig.2 flattened surfaces; not an additional specimen.",
+  "specimen_link_status": "source_labels_preserved",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 3,
+  "crop_xyxy": [
+    230,
+    1380,
+    330,
+    1450
+  ],
+  "scale_endpoints_px": [
+    [
+      1.5,
+      41.5
+    ],
+    [
+      51.5,
+      41.5
+    ]
+  ],
+  "scale_length_mm": 20,
+  "scale_note": "Same-figure printed scale; 2D figure area, no shrinkage or distortion correction.",
+  "scale_reference_map": "",
+  "outline": null,
+  "rois": [],
+  "unmeasured": [],
+  "supersample": 4
+}

@@ -24,14 +24,14 @@ fig03_93_88,S1,complete,89,4,enlarged perimeter reviewed; short symbol continuat
 fig03_93_88,S2,complete,121,4,enlarged perimeter reviewed; short symbol continuations documented,Regularized source-envelope following; pixel staircases suppressed before fitting to continuous printed stroke,pending
 fig03_93_88,PV,complete,106,4,enlarged perimeter reviewed; short symbol continuations documented,Regularized source-envelope following; pixel staircases suppressed before fitting to continuous printed stroke,pending
 fig04,S1,complete,122,4,enlarged perimeter reviewed; short symbol continuations documented,Manually identified anatomical envelope with regularized stroke-center following,pending
-fig07A,S2,complete,130,4,enlarged perimeter reviewed; short symbol continuations documented,Manually identified anatomical envelope with regularized stroke-center following,pending
+fig07A,S2,complete,427,4,enlarged perimeter reviewed; short symbol continuations documented,"Source-reviewed contour revision, 2026-10-31; see project_review_2026-10-31",pending
 fig07B,S2,complete,142,4,enlarged perimeter reviewed; short symbol continuations documented,Manually identified anatomical envelope with regularized stroke-center following,pending
 fig08,S2,complete,233,4,enlarged perimeter reviewed; short symbol continuations documented,Manually identified anatomical envelope with regularized stroke-center following,pending
 fig08,PV,complete,194,4,enlarged perimeter reviewed; short symbol continuations documented,Manually identified anatomical envelope with regularized stroke-center following,pending
 fig09,S2,complete,214,4,enlarged perimeter reviewed; short symbol continuations documented,Manually identified anatomical envelope with regularized stroke-center following,pending
 fig09,PV,complete,166,4,enlarged perimeter reviewed; short symbol continuations documented,Manually identified anatomical envelope with regularized stroke-center following,pending
-fig10A,PV,complete,113,4,enlarged perimeter reviewed; short symbol continuations documented,Manually identified anatomical envelope with regularized stroke-center following,pending
-fig10B,PV,complete,168,4,enlarged perimeter reviewed; short symbol continuations documented,Manually identified anatomical envelope with regularized stroke-center following,pending
+fig10A,PV,complete,544,4,enlarged perimeter reviewed; short symbol continuations documented,"Source-reviewed contour revision, 2026-10-31; see project_review_2026-10-31",pending
+fig10B,PV,complete,682,4,enlarged perimeter reviewed; short symbol continuations documented,"Source-reviewed contour revision, 2026-10-31; see project_review_2026-10-31",pending
 fig12A,S1,complete,81,4,enlarged perimeter reviewed; short symbol continuations documented,Manually identified anatomical envelope with regularized stroke-center following,pending
 fig12A,SC,complete,56,4,enlarged perimeter reviewed; short symbol continuations documented,Manually identified anatomical envelope with regularized stroke-center following,pending
 fig12A,SR,complete,155,4,enlarged perimeter reviewed; short symbol continuations documented,Visible anatomical envelope with cubic continuation across overprinted labels; no image-intensity fitting in the label gaps,pending

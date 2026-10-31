@@ -1,0 +1,1377 @@
+
+===== PDF PAGE 1 =====
+Brain Research Reviews, 11 (1986) 77-96 
+Elsevier 
+BRR 90047 
+77 
+The Organization of the Rat Motor Cortex: A Microstimulation Mapping Study 
+E.J. NEAFSEY, E.L. BOLD, G. HAAS, K.M. HURLEY-GIUS, G. QUIRK, C.F. SIEVERT and R.R. TERREBERRY 
+Department of Anatomy, Loyola University Medical Center. 2160 S. First Avenue, Maywood, IL 60153 (U.S.A.) 
+(Accepted December 3rd, 1985) 
+Key words: motor cortex - somatosensory cortex-supplementary motor cortex - premotor cortex -frontal eye field - 
+insular cortex -taste -cortical cytoarchitecture - microstimulation - rat 
+CONTENTS 
+Introduction ............................................................................................................................................. 
+Materials and methods ................................................................................................................................ 
+2.1. Animal preparation ............................................................................................................................. 
+7.2. Stimulation procedures ......................................................................................................................... 
+2.3. Histology .......................................................................................................................................... 
+1.4, Dataanalysis ...................................................................................................................................... 
+Results .................................................................................................................................................... 
+3.1, Cortical cytoarchitecture ....................................................................................................................... 
+3.2. Stimulation maps ................................................................................................................................. 
+3.2.1. Forelimb maps ........................................................................................................................... 
+3.2.7. Hindlimb maps .......................................................................................................................... 
+3.2.3. Vibrissae maps ........................................................................................................................... 
+3.2.3. Jaw,lipsandtonguemaps ............................................................................................................. 
+Discussion ................................................................................................................................................ 
+4.1. Microstimulation ................................................................................................................................. 
+4.2. Motor output organization ..................................................................................................................... 
+4.3. Overlap of motor and sensory cortex ........................................................................................................ 
+4.4. Vihrissae motor area and frontal eye fields ................................................................................................. 
+4.51. The rostra1 motor area: the rat’s supplementary motor area? .............................................................. ........... 
+Summary ................................................................................................................................................. 
+Acknowledgements ._. _.. ._. ___. _. _. ._. _. _. ._. _, 
+Appendix: evoked movement abbreviations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .._...... ~.....,._.._....._........I....._.,,_..,,,....., ._..... ,....., 
+References _. _. ._. ,. ._, _. 
+77 
+78 
+78 
+78 
+7’) 
+79 
+80 
+80 
+80 
+x2 
+x3 
+84 
+8.5 
+87 
+87 
+XY 
+91 
+92 
+93 
+Y4 
+Y‘i 
+03 
+Y5 
+1. INTRODUCTION 
+Although the location and overall somatotopic or- 
+ganization of the rat motor cortex have been known 
+for some time”.‘“, the detailed internal organization 
+of its larger subdivisions (the forelimb area, for ex- 
+ample) has not yet been described. Such a study 
+seems warranted because of renewed interest in the 
+rat motor cortex prompted by several findings. First, 
+Elger et al. l6 have reported that electrical stimulation 
+of the rat motor cortex can produce monosynaptic ex- 
+citatory postsynaptic potentials (EPSPs) in cervical 
+Correspondence: E.J. Neafsey, Department of Anatomy, Loyola University Medical Center, 2160 S. First Avenue, Maywood, IL 
+60153. U.S.A. 
+OlhS-O173/H61$03.50 0 1Y86 Elsevier Science Publishers B.V. (Biomedical Division) 
+
+===== PDF PAGE 2 =====
+78 
+enlargement motorneurons; such monosynaptic con- 
+nections had previously been found only in primates 
+and racoons6*29. Second, both neuroanatomica12i,57 
+and electrical stimulation4’ studies have demon- 
+strated what appear to be multiple representations of 
+the forelimb and other body parts in rat frontal and 
+parietal cortex. Fin~ly~ the cytoarchitectonic bound- 
+aries defined in rat sensorimotor cortex have been 
+shown to correlate well with physiologically defined 
+borders within and around this region15,49. The pres- 
+ent study was undertaken to provide a complete, de- 
+tailed stimulation map of the rat ‘motor cortex’ corre- 
+lated with cortical cytoarchitectonic and functional 
+borders. 
+2. MATERIALS AND METHODS 
+Thirty-two adult Long-Evans hooded rats 
+(250-500 g) were studied, each of which was anes- 
+thetized with ketamine HCI (100 mg/kg i.p., with 
+supplemental doses of 114 the initial dose as needed). 
+The hair covering the right forelimb and hindlimb 
+was clipped to permit better observation of evoked 
+movements, and then the animal was placed in a ste- 
+reotaxic frame. A heating pad regulated by a temper- 
+ature controller maintained the rat’s rectal tempera- 
+ture between 36 and 39 “C. After opening the cister- 
+na magna to prevent cortical swelling, a craniotomy 
+was made over the region of the left frontal or parie- 
+tal cortex to be studied. The dura was removed, and 
+the exposed cortex was covered with warm saline or 
+mineral oil to prevent drying. 
+2.2. Stimulation procedures 
+In 16 rats the electrode penetrations were made 
+perpe~dicuiar to the cortical surface, and only one 
+point per penetration was stimulated at a depth of 1.7 
+mm below the pia. This depth was selected since wed’ 
+and others15,” had found minimum threshold values 
+there, and it is clearly above the white matter (cf. 
+Fig. 4B), except in the thinner cortex caudal to breg- 
+ma (hind~imb region) where penetrations were made 
+to a depth of 1.5 mm. The penetrations labeled ‘A’ in 
+Fig. 1 illustrate several such perpendicular tracks. In 
+general, the electrode penetrations were made 0.5 
+mm apart, surface blood vessels permitting; a total of 
+50-100 penetrations were made in each experiment. 
+A Kopf 176011761 micromanipulator was used to po- 
+sition and advance a glass-insulated tungsten micro- 
+electrode (50-lOOpurn exposed tip) used for stimulat- 
+ing . 39 The electrode was connected to one termin of 
+a constant current unit (Grass PSIU6C) that relayed 
+the output of a stimulator (Grass S88). The stimulus 
+parameters were a 300 ms train of 0.25 ms cathodal 
+(-) pulses at 350 Hz. In two animals, movements 
+evoked by shorter trains (50-60 ms) were compared 
+with movements evoked by the longer trains (300 
+ms); only the duration of the movements changed. 
+not the movement produced. The maximum current 
+used in these ‘perpendicular’ experiments was 100 
+,uA. The currents delivered were monitored on an OS- 
+cilloscope by measuring the voftage drop across a 10 
+kQ resistor located in the return current path from a 
+needle electrode inserted in the rat’s tail to the other 
+terminal of the constant current unit. 
+The remaining sixteen rats were studied using elec- 
+trode penetrations made parul/ei to the dorsal (II = 
+14) or lateral (n = 2) surface of the cortex. In each of 
+Fig. 1. diagrammatic coronai section of rat bemispbere illus- 
+trating typical electrode penetrations perpendicular (A) to the 
+cortical surface or parallel to its dorsai (B) or lateral (C) SLIT- 
+face. Stimulation points are indicated by dots whieh are sepa- 
+rated by 250 ym along B and SOO~tn along C: dot at bottom of 
+A is at 1.7 mm below cortical surface. 
+
+===== PDF PAGE 3 =====
+79 
+the 14 rats where penetrations were parallel to the 
+dorsal surface (track ‘B’ in Fig. l), 15-20 such pen- 
+etrations were made rostro-caudally, spaced 250 pm 
+(12 rats) or 500 pm apart (2 rats); the wider spacing 
+allowed the entire dorsal motor cortex to be mapped. 
+Stimulation was delivered every 250 pm along the 
+3-5 mm extent of each tract, with the result that 
+300-500 points were mapped per experiment. The 
+stimulus parameters were the same as those used in 
+the perpendicular experiments, with the exception 
+that the maximum current limit was raised to 500 @A 
+instead of 100 /LA. The reason for raising the current 
+intensity is that at the beginning of each of these par- 
+allel tracks the electrode tip was located in the super- 
+ficial cortical layers where stimulation thresholds are 
+much higher. Hall and Lindholm’” found that thresh- 
+olds in these superficial layers were between 400 and 
+500 /AA and that the responses evoked by such high 
+currents superficially were similar or identical to 
+those evoked by lower currents deeper in the cortex. 
+It has, however, been shown that such high currents 
+are damaging to the cortex. particularly with the long 
+trains we employed’. 
+In the two rats where penetrations were parallel to 
+the luterai surface of the cortex (track labeled ‘C’ in 
+Fig. I), several rows (7-9 tracks per row) of such 
+penetrations were made. and the distance between 
+penetrations was 0.5 mm. Each row began with a me- 
+dial penetration and ended with a lateral penetration 
+that extended from the dorsal cortical surface to the 
+piriform cortex ventral@. Along each individual 
+electrode track stimulation was delivered every 0.5 
+mm, except in the more medially located tracks per- 
+p~~dicular to the cortical surface where only one 
+point was stimulated at a depth of 1.7 mm (as seen in 
+track labeled ‘A’ in Fig. 1). In these two experiments 
+the stimulation parameters were the same as pre- 
+viously described except that the maximum stimula- 
+tion current used was only 50;tA. 
+~~ire~~~~~~ tm-wnf was defined as the lowest cur- 
+rent reliably evoking the observed response. In de- 
+termining threshold, the current was gradually re- 
+duced in successive trains until the movement 
+ceased. The last effective current was designated as 
+threshold, and 2 or 3 identical movement responses 
+at this current were confirmed. Although it was not 
+uncommon for the initial stimulating current to 
+evoke several different movements, in general. at 
+threshold current levels, only one movement was 
+elicited from a given point. In the perpendicular pen- 
+etrations and in the penetrations parallel to the later- 
+al surface the initial stimulation current was 25-30 
+PA; if no response occurred, the current was in- 
+creased until a response occurred or the current max- 
+imum (50 or 100 @A) was reached. In the penetra- 
+tions parallel to the dorsal surface the initial stimulat- 
+ing current was 500 ,uA; once a response occurred at 
+this or a lower value, this threshold current was used 
+as the first current level at the next point. In all ex- 
+periments manipulation or pinching of the limbs dur- 
+ing threshold determination was done to lower the fi- 
+nal threshold valuez. At selected points in both per- 
+pendicular and parallel penetration experiments 
+marking lesions were made (10 PA DC for 10 s) in or- 
+der to facilitate subsequent histologicat reconstruc- 
+tion of the electrode tracks. 
+Following the conclusion of each experiment, the 
+rat was perfused through the heart with saline (0.9%) 
+followed by 10% buffered formalin. Brains were re- 
+moved and placed in a 30% sucrose in formalin solu- 
+tion and allowed several days to sink. Frozen coro- 
+nal, sagittal’or horizontal sections were cut at 30-50 
+pm and stained with cresyl violet, thionin or a com- 
+bined m~elin-~issl staining procedure using cyanine 
+R and neutral red”. The sections from experiments 
+using perpendicular penetrations (currents < 100 
+yA) usually showed no damage to the tissue. As ex- 
+pected, sections from the high current penetrations 
+parallel to the dorsal surface showed damage; these 
+tracks, especially their lateral portions, appeared as a 
+series of small lesions (2SOpm apart) strung together 
+like beads on a string {cf. Fig. 9). The location of each 
+stimulation point was determined on the histological 
+sections to verify that it was in the gray matter: points 
+located in the white matter were discarded. The 
+stained sections were also used to determine the 
+boundaries between the major cytoarchitectonic re- 
+gions of the rat sensorimotor cortex. using the crite- 
+ria described by several recent studies”.“‘. 
+2.4. Data analysis 
+In order to generate a picture of the cortical pat- 
+
+===== PDF PAGE 4 =====
+80 
+tern of evoked movements, the locations of all gray 
+matter stimulation points from representative exper- 
+iments were plotted on drawings of the cortical sur- 
+face as viewed from a dorsolateral and slightly rostra1 
+perspective. This drawing was created by making a 
+large 3-dimensional reconstruction of the rat brain, 
+based on the Nissl plates from the brain atlas of Paxi- 
+nos and Watson44. A scaled 1 mm grid was traced 
+onto the model, and a photograph was taken which 
+was used to produce the line drawing used for the fig- 
+ures in this paper. Fig. 2 depicts this drawing with the 
+1 mm grid and cortical cytoarchitectural boundaries 
+as determined on the Nissl plates of the atlas. 
+3. RESULTS 
+3.1. Cortical cytoarchitecture 
+The cytoarchitectonic boundaries in frontal and 
+parietal cortex drawn on the surface of the hemi- 
+sphere illustrated in Fig. 2 are in basic agreement 
+with those drawn recently by Zilles et al.62 and Do- 
+noghue and Wise”. Table I below shows the corre- 
+spondence between the nomenclature used in Fig. 2 
+and that used by these two groups. Both groups de- 
+scribed a narrow, parasagittal medial agranular area 
+(AgM in Fig. 2), a lateral agranular area (AgL in Fig. 
+2), and a more lateral and caudal granular cortical 
+area (Gr(SI) in Fig. 2). The only point of dis- 
+agreement between these two studies was that Zilles 
+et al. showed their AgM region extending straight 
+rostrally toward the frontal pole while Donoghue and 
+Wise claimed that their homologous area AgM wrap- 
+ped around the frontal pole of the hemisphere and 
+actually incorporated the far lateral portion of AgL 
+on our map, a region which corresponds to Zilles’ 
+PrQ. Our map is in basic agreement with that of Do- 
+noghue and Wise on this point, and the agreement is 
+TABLE I 
+Terminology comparison 
+Fig. 2 Donoghue and Wise Zilles et al. 
+~~~~ -.___- .~~-~ ~~ - 
+A@ *w Prcm 
+AgL Ag’ Prcl,2,3 
+Gr(Sf) SI Sml 
+Gr(SII) SII SmII 
+Cl _ Cli, Clpri 
+based on our cytoarchitectonic analysis of the frontal 
+cortex illustrated in the sagittal and horizontal Nissl 
+plates in the Paxinos and Watson34 rat atlas. These 
+plates show AgM’s pale layer III cortex extending 
+laterally around the frontal pole, as Donoghue and 
+Wise’” have described. The insular or claustrocortex 
+(Cl) is located far laterally on our map, just above the 
+rhinal fissure, and includes Zilles’ claustrocortex iso- 
+corticalis and his claustrocortex proisocorticalis. re- 
+gions which correspond to Krettek and Price’s” gran- 
+ular and agranular insular cortex. This region (Cl) is 
+bordered dorsally at more caudal levels by the granu- 
+lar second somatosensory area, Gr(SlI). 
+3.2. Stimulation maps 
+Since it was difficult to map in detail the entire ‘mo- 
+tor’ cortex in a single animal. most experiments con- 
+centrated on mapping responses in only one of the 
+major subdivisions of the motor cortex: the forelimb 
+area; the hindlimb area; the vibrissae area; and the 
+jaw, lips and tongue area. The boundaries of each 
+area were determined by finding non-responsive 
+points outside the area or by finding points where the 
+primary response for the experiment changed to a 
+secondary response (e.g., where forelimb responses 
+changed to hindlimb responses). Only one movr- 
+b 5 
+Fig. 2. Dorsolateral view of rat left hemisphere with 1 mm grid 
+(boxes) and cytoarchitectonic borders (heavy lines) indicated 
+(see text for fuller description of cptoarchitectonic parcella- 
+tion). Frontal pole is at the left, midline is at the top, and num- 
+bers (+S, -5) denote distance in millimeters rostra1 and caudai 
+to bregma. B, bregma; Rf, rhinal fissure; AgM, agranular me- 
+dial; AgL, agranular lateral; Gr(SI), granular primary somato- 
+sensory; Gr(SII), granular secondary somatosensory; Cl. 
+claustrocortex; PrPi, prepyriform; Rag. retrosplenial agranu- 
+lar: Oc, occipital; Te, temporal. A rattunculus has been super- 
+imposed on the Gr(SI) region after Welkerss. 
+
+===== PDF PAGE 5 =====
+A 
+
+===== PDF PAGE 6 =====
+82 
+ment response is listed for each point, namely, the 
+movement occurring at threshold current; at a few 
+points, usually on the border between movement 
+zones, two movements occurred at threshold, and in 
+these cases, for simplicity, only one of the responses 
+was listed on the map. Data from experiments that 
+used relatively low current intensities (maximum of 
+50- 100 PA to minimize the extent of current spread) 
+are emphasized in this report because the smaller ra- 
+dius of current spread 1,33,47 is more likely to give an 
+accurate picture of the pattern of motor cortical out- 
+put. Data from experiments using higher current in- 
+tensities are referred to only when the current inten- 
+sities at the points discussed were low (less than 100 
+yA) or when the results agree with results from low 
+current experiments. 
+3.2.1. Forelimb maps 
+Fig. 3 illustrates the results of two typical perpen- 
+dicular mapping experiments that attempted to de- 
+fine the limits and internal organization of forelimb 
+motor cortex. Note first that in each experiment two 
+forelimb areas (outlined in heavy lines) were found, a 
+large caudal area (CFL) beginning at bregma and a 
+small rostra1 area (RFL) located near the frontal 
+pole. Cortex where vibrissae (Fig. 3A) or neck (Fig. 
+3B) movements were evoked separated the two fore- 
+limb areas; the neck movements were observed as ac- 
+tual contractions of neck muscle groups seen in the 
+surgical exposure used to drain the cistema magna. 
+Medial to both forelimb areas, a long parasagittal vi- 
+brissae and/or neck movement region was found. It 
+was possible in some experiments (Fig. 3A) to find a 
+rostra1 hindlimb representation (RHL) just medial to 
+the RFL. This RHL was difficult to locate, even 
+when it was expressly sought, and threshold currents 
+here were usually greater than 40 PA. If a RHL was 
+not found, neck (Fig. 3B), trunk or vibrissae move- 
+ments were found in its place. Lateral to the RFL. 
+jaw and/or tongue movements were evoked; lateral 
+to the CFL, vibrissae movements were sometimes 
+evoked (Fig. 3A). Histological analysis showed this 
+region to be part of the vibrissae barrel field cyloar- 
+chitectonic area of Gr(S1). Caudal to the CFL, in 
+many experiments a narrow zone of trunk move- 
+ments (Fig. 3A) was found before the hindlimb rep- 
+resentation began. Within the RFL, digit movements 
+were usually evoked laterally while elbow move- 
+ments were more often seen medially; shoulder 
+movements were rarely seen in the RFL region. In 
+contrast, in the CFL, digit movements were rarely 
+evoked, but a laterally and caudally located shoulder 
+movement zone was often found, with elbow and 
+wrist movements found more medially (cf. Fig. 3A). 
+Note also that the points where a particular move- 
+ment was elicited were usually clustered together, 
+forming an irregularly shaped patch or zone. This last 
+observation held true for all regions of the motor cor- 
+tex, as will be seen below. 
+Fig. 4 illustrates Nissl-stained coronal sections 
+from the corresponding levels marked A-D in Fig. 3. 
+The sections through the RFL (Fig. 4A, C) clearly 
+show that the RFL is located in AgL; however, the 
+RHL region (Fig. 4C, Hf = hip flexion) appears to ex- 
+tend into AgM. Sections through the CFL (Fig. 4B. 
+D) show that the CFL lies in both AgL and Gr(Sl) 
+cortex. Thresholds usually increased as the penetra- 
+tions moved deeper into Gr(SI) cortex (cf. Fig. 4B) 
+but, in some cases, low thresholds were found 
+throughout Gr(SI) as seen in Fig. 4D. Note. howev- 
+er, that in Fig. 4D thresholds were lower in the more 
+medial penetrations which were located in AgL, and 
+thus the generalization that ICMS thresholds are 
+higher in Gr(S1) cortex than in AgL still seems to 
+holdt5. The boundaries between AgM, AgL and 
+Gr(S1) are also indicated in Fig. 3 by the dashed 
+lines. 
+In the experiments with penetrations parallel to 
+the dorsal cortical surface the same basic obser- 
+vations were made, but a more detailed map could be 
+constructed because of the high density of stimulated 
+points. Fig. 5 illustrates the results of one experiment 
+in which cortex rostra1 to bregma was mapped. Two 
+forelimb areas are again seen, with a zone of neck 
+and vibrissae movements between them. Note that 
+within the CFL supination movements were evoked 
+caudally and laterally while pronation movements 
+were evoked caudally and medially. These move- 
+ments were also found in these locations in other par- 
+allel experiments and in some low current perpendic- 
+ular experiments as well. Just rostra1 to the RFL a 
+small rhinarium (nose twitch) region was seen; this 
+also was occasionally seen in perpendicular experi- 
+ments where it was located either rostra1 or caudal to 
+the RFL. Note also the medially located vibrissae 
+motor region and the caudally located narrow zone of 
+
+===== PDF PAGE 7 =====
+Fig. 4. Nissl-stained sections from perpendicular mapping experiments shown in Fig. 3 and labeled A, B, C and D in that figure. Num- 
+bers below movement abbreviation in this figure indicate threshold current in PA at that point. A: section through RFL area with jaw 
+and tongue movements laterally and vibrissae and neck movements medially. B: section through CFL with vibrissae movement zone 
+medially and some responsive points in Gr(SI) laterally (border between AgL and Gr(SI) indicated by arrow on cortical surface), C: 
+section through RFL and RHL, with jaw movements located laterally. D: section through CFL with neck movements medially. Arrow 
+on cortical surface indicates border between AgL and Gr(SI); note that even though threshold currents are low in Gr(SI), they arc still 
+higher than those medially in AgL. Scale bar in lower right of D indicates I mm for entire figure. 
+trunk movements separating the CFL from the hind- 
+limb motor region. Trunk movements usually consis- 
+ted in a slight curvature of the back away from the 
+stimulated side of the animal. 
+3.2.2. Hindlimb maps 
+Fig. 6 illustrates the results of two perpendicular 
+mapping experiments that focused on the hindlimb 
+motor cortex (HL). This region usually began at 
+bregma and extended 2 or 3 mm further caudally. 
+Fig. 5. Results of stimulation mapping experiment employing 
+electrode penetrations parallel to dorsal cortical surface. Note 
+much higher density of stimulated points achiaved by using this 
+approach. The two forelimb areas (RFL and CFL) are outlined 
+by heavy lines. Dashed line running through CFL indicates bor- 
+der between AgL medially and Gr(SI) laterally. Note narrow 
+region where trunk movements were elicited caudal to CFL 
+and just rostra1 to leg (L) region. 
+Medially, the HL area was bordered by cortex where 
+vibrissae movements or eyelid movements were elic- 
+ited. Rostrally, a zone of trunk movements separated 
+the HL area from the CFL region. Laterally, a caudal 
+
+
+===== PDF PAGE 8 =====
+84 
+Fig. 6. Results of two separate (A. ii%) stimulation mapping experiments of hindlimb area (heavy line) using perpetidicufar penetra~ 
+tions. A: note trunk region medially and tail region caudally. B: note eyelid responses medially. 
+extension of the CFL usually bordered the HL COT- 
+tex, as is seen in Fig. 653. Caudat&, a zone where tail 
+movements were evoked was usually found. Within 
+the HL area, hip movements were usually found 
+most medially (Fig. SA), while knee, ankle and toe 
+movements were located more laterally. Mote that 
+the HL motor cortex was located in both the Gr(SI) 
+and AgL ~yto~~h~tectoni~ regions but did not ap- 
+pear to extend into AgM. This came basic pattern 
+was a&o observed in experiments with penetrations 
+paxafid to the dorsal cortical surface, and an example 
+is illustrated in Fig. 7. 
+3.2.3. Vibrissaemaps 
+Fig. 8 ilustrates the results of two perpendicular 
+experiments which mapped the vibrissae motor COT- 
+
+===== PDF PAGE 9 =====
+8.5 
+Fig. 7. Results of one stimulating mapping experiment of the 
+hindlimb region using penetrations parallel to the dorsal corti- 
+cal surface. 
+tex, This region is located most medially in the motor 
+cortex and forms a long, narrow, parasagittal strip of 
+cortex extending from near the frontal pole to 1 or 2 
+mm behind bregma. Laterally, it is bordered by hind- 
+limb, trunk, forelimb and neck motor cortical areas. 
+Medially, in some experiments (Fig. SB) it was possi- 
+ble to find unresponsive points which formed the ba- 
+sis for delineating the medial border. The most inter- 
+esting aspect of the vibrissae area’s organization was 
+that there seemed to be largely separate zones for ip- 
+silateral and contralateral vibrissae movements, al- 
+though along the borders between these zones bilat- 
+eral whisker movements could be evoked. There was 
+no evidence for any type of ‘whisker-by-whisker’ rep- 
+resentation: rather, throughout this region vibrissae 
+movements involving clusters of at least 3-5 of the 
+whiskers were elicited. The majority of effective 
+points for evoking whisker movements at low thresh- 
+olds appeared to be located along the border be- 
+tween AgM and AgL. In the experiments with pen- 
+etrations parallel to the dorsal cortical surface the 
+low threshold vibrissae movements appeared to be- 
+gin at the AgM-AgL border, and most vibrissae 
+movements were evoked from within AgM. as is il- 
+lustrated in Fig. 9. 
+3.2.4. Jaw, lips and tongue maps 
+Fig. 10 depicts the results of two perpendicular ex- 
+periments that were devoted to mapping the jaw, lips 
+and tongue area (JLT) of the motor cortex. It is clear 
+from the maps that this region was very large relative 
+to the other subdivisions of the motor cortex de- 
+scribed above. Rostrally and laterally the JLT was 
+surrounded by unresponsive points, while medially 
+and caudally its border was defined by points where 
+vibrissae, neck or forelimb movements were evoked. 
+The jaw movement responses usually consisted of 
+jaw opening, and such points were most often located 
+just lateral to the RFL as is seen in Fig. 10A. Note 
+that in this same map there was a second jaw region 
+located more laterally, at the rostra1 border of the 
+JLT region. In the other map (Fig. 1OB) there was 
+only a single jaw point. The lower lip responses con- 
+sisted of raising the contralateral lower lip near the 
+angle of the jaw. This response was best seen if the 
+lower lip was pulled down slightly just prior to stimu- 
+lation. This lower lip region varied in size but was al- 
+ways found as part of the caudal border of the JLT re- 
+gion. Tongue movement responses were of two basic 
+types, either strong tongue protrusions (To = tongue 
+out) or much weaker twitches of restricted parts of 
+the tongue such as the tip (Ttip), the dorsum (Td), 
+the ventral surface (TV), or the right (contralateral to 
+stimulation) side (Tr = tongue right). In general, the 
+strong tongue out responses were located medially 
+and rostrally in the JLT region, and the weaker 
+tongue twitch responses were found laterally. 
+The two experiments with long perpendicular pen- 
+etrations parallel to the lateral cortical surface re- 
+vealed that the lateral border of the JLT region actu- 
+ally extended down to the rhinal sulcus. Fig. 11 de- 
+picts a series of electrode tracks from one of these ex- 
+periments. Note at the most rostra1 level (Fig. IlA) 
+that the orientation of the more lateral radial cell col- 
+umns (dashed lines) is such that these columns ex- 
+tend to the cortical surface near the rhinal sulcus 
+(area Cl); a ‘perpendicular’ penetration (marked 
+with * in Fig. 11A) would cross these columns where 
+jaw and tongue movements were evoked by ICMS 
+(JO and T) and stimulate a non-responsive region. 
+This probably explains the far lateral non-responsive 
+points in Fig. 10. Fig. 11 also illustrates several other 
+similar coronal sections from more caudal levels 
+which show that the more lateral tongue twitch re- 
+sponsive points were also located in the Cl cortex 
+near the rhinal sulcus. These same sections also dem- 
+onstrate that ICMS was effective in evoking move- 
+ments from the granular sensory cortex, especially at 
+
+===== PDF PAGE 10 =====
+Fig. 8. Results of two separate (A, B) stimulation mapping experiments of the vibrissae area using perpendicular penetrations. Note 
+that there appear to be separate regions for contralateral and ipsilateral vibrissae movements. Dashed line indicates border between 
+AgM and AgL. 
+Fig. 9. Coronal section from experiment employing penetra- 
+tions parallel to dorsal cortical surface. Note that the cytoarchi- 
+tectonic border between AgL and AgM appears to correspond 
+to the transition from CFL to vibrissae area motor cortex. 
+Threshoids in PA from medial to laterat, ~~ning.~ith most 
+medial vibrissae (V} point, are 50, 35, IO, 80, 100, 180, 275, 
+240, 190, 190. 190, 340 and 500; remaining far lateral points 
+produced no movements with currents of SOOuA. 
+
+===== PDF PAGE 11 =====
+Fig. 10. Results of two separate (A, 8) stimulation mapping experiments of the jaw, Lips and tongue area using perpendicular penetra- 
+tions. Dashed line indicates the border between AgM and Gr(Z.1). Note the significant averlap of the motor area with the granular sen- 
+sorjl cortex. 
+rostra! levels where the granular cortex borders the 
+AgL cortex (Fig. 118). The data from the coronal 
+sections in Fig. 11 is shown projected onto the corti- 
+cd surface in Fig. 12. 
+4. DlSCUSSfON 
+4.1. Microsdim ulation 
+The prixnary method used tc, create the motor 
+
+===== PDF PAGE 12 =====
+88 
+Fig. 11. Line drawings of 4 coronal sections from an experiment.which mapped the jaw, lips and tongue region using penetrations par- 
+allel to the lateral cortical surface. Cytoarchitectonic boundaries are indicated by arrowpoints and labels on cortical surface; granular 
+cortex is also indicated by outlined layer IV. A: coronal section through RFL-RHL region. Note extension of responsive JLT cortex 
+into Cl. Also note how a typical ‘perpendicular’ track (heavy line marked with *) would stimulate a point located in a non-responsive 
+portion of the cortex. B: coronal section through CFL. Again note ventral extension of JLT cortex almost into piriform cortex. C: cor- 
+onal section through CFL. Note that at this level most of Gr(SI) is unresponsive, but that tongue and lip responses begin again in Cl. D: 
+coronal section through CFL. Note that at this more caudal level Gr(S1) and Cl are both non-responsive, except for one point at border 
+with AgL. Stimulation points and electrode tracks are separated by 5OOym. 
+
+===== PDF PAGE 13 =====
+Fig. 12. Projection of primary movement responses from 4 sec- 
+tions illustrated in Fig. 11 onto cortical surface to emphasize 
+ventral extension of JLT motor area down to rhinal sulcus. 
+maps of cortical organization in this study was intra- 
+cortical microstimulation (ICMS), and over 85% of 
+the responsive points had current thresholds less than 
+50 PA. It has been estimated that the effective radius 
+of current spread in the cortex of a 50 PA stimulus 
+current (0.2 ms duration) is approximately 500 
+pm 33.47; this distance represents the margin of error 
+associated with the ‘borders’ drawn on the maps in 
+the present study. ICMS is, of course, an artificial, 
+non-physiological method of activating the cortex, 
+and its results must be interpreted cautiously due to 
+some uncertainty concerning the effective spread of 
+its direct and indirect effects’.*‘. Nonetheless, the re- 
+sponses evoked by low intensity ICMS do appear to 
+reflect the actual functional pattern of cortical out- 
+put. The recent study of the primate motor cortex by 
+Cheney and Fetz ” has demonstrated a remarkable 
+consistency between corticomotoneuronal cell spike- 
+triggered and single pulse ICMS stimulus-triggered 
+patterns of muscle facilitation. (Since their study did 
+not employ trains of stimulation they were able to 
+avoid the summation effects associated with repeti- 
+tive stimulation.) On the basis of their results they 
+have suggested that the output of primate precentral 
+cortex is organized into small clusters of corticomoto- 
+neuronal cells (0.5 mm in diameter) that facilitate a 
+common group of muscles: other laboratories have 
+proposed a similar organization for the primate mo- 
+tor cortex’.““,s8. This pattern is consistent with that 
+seen in the present study where small, irregularly 
+shaped ‘movement zones’ were defined by ICMS and 
+suggests that our results are an approximation to the 
+actual functional output organization of the rat’s mo- 
+tor cortex. (The major alternative to ICMS, namely, 
+cortical surface stimulation, requires much higher in- 
+tensities of stimulating current (400-500 PA mini- 
+mum for mappin~2s). At these high current levels the 
+large effective radius of current spread from the stim- 
+ulating electrode (1.1-1.5 mm on the cortical sur- 
+face”‘) precludes the construction of the ‘fine grain’ 
+maps of cortical organization that were the objective 
+of the present study. Underestimation of this radius 
+of current spread in several surface stimulation stud- 
+ies25.45 can lead to the erroneous impression that, as a 
+rule, even the cortical representations of antagonistic 
+muscles or muscle groups overlap almost completely. 
+This criticism is not meant to imply that there is 110 
+overlap of cortical projections to even antagonistic 
+muscle groups but to correct the impression from 
+these surface stimulation studies that overlap is the 
+rule rather than one of several cortical ‘strategies’ 
+used to represent movements”.‘“. It is interesting that 
+the results of our experiments where intracortical 
+stimulation with currents up to 50OpA in the more su- 
+perficial cortical laminae was employed agree so well 
+with the results seen when only currents below 
+50-100 PA were used. This observation illustrates 
+the critical importance of the ~e~~~ in the cortex at 
+which the stimulation is delivered and also confirms 
+Hall and Lindholm’s observation that the depth at 
+which stimulation is delivered changes the threshold 
+for evoking a movement but not the movement it- 
+selfiY. 
+4.2. Motor output organization 
+Fig. 13 represents a composite motor output map 
+of rat frontal and parietal cortex, summarizing the 
+pattern of motor responses evoked at low threshold 
+currents (~50 yA) from ali the experiments. Due to 
+the variability between the maps of individual ani- 
+mals described above, this map certainly represents 
+an idealized picture, but it does illustrate ‘typical’ 
+features and provides a convenient means of dis- 
+cussing our results and comparing them to others’ 
+findings. In Fig. 13 the 1 mm’ grid and cytoarchitec- 
+tonic borders (heavy solid lines) are as described in 
+Fig. 2. The heavy dotted lines outline the major sub- 
+divisions of motor cortex such as the forelimb or 
+hindlimb areas; the light dotted lines indicate the 
+
+===== PDF PAGE 14 =====
+Fig. 13. Idealized summary map of responses evoked with currents below 50pA. The light lines denote a 1 mm’ grid, and the heavier 
+solid lines indicate the cytoarchitectonic borders as described in Fig. 2. The heavy dotted lines surround the major subdivisions of the 
+motor cortex, and the light dotted lines indicate the internal organization within the forelimb and hindlimb areas. The arrow (RMA) 
+indicates the rostra1 motor area. Note the correspondence between the cytoarchitectonic border between AgM and AgL (solid line 
+about 1 mm lateral to midline) and the border between vibrissae motor-frontal eye field region (Vc, Vi-FEF) and the somatic motor 
+cortex. See text for fuller description. Rf, rhinal fissure; Rag, retrosplenial agranular cortex; Oc, occipital (visual) cortex; Te, tempo- 
+ral (auditory cortex); Cli, claustral (insular) isocortex; B, bregma; ?, parts of Gr(S1) and Gr(SII) that may also be motor regions. 
+‘typical’ pattern of the internal organization of these 
+regions. (Dotted lines are used to denote all these 
+borders partly to suggest that these borders are not 
+fixed or invariant among different animals.) The rel- 
+ative location of the major body part subdivisions of 
+motor cortex illustrated in Fig. 13 agrees substantial- 
+ly with the maps generated by other studies’7,‘954”: 
+differences between our results and these other stud- 
+ies will be discussed below. Both the rostra1 (RMA, 
+arrow) and caudal motor areas appear to possess a 
+rough somatotopic organization, in agreement with 
+previous studies 17,19*49*50.60, but it should be noted 
+that many examples can be found where adjacent re- 
+gions of cortex do not ‘represent’ adjacent body 
+parts; e.g., the caudal hindlimb area and the vibris- 
+sae area border each other. The cytoarchitectonic 
+border between AgM and AgL (indicated by the 
+heavy solid line running parasagitally about 1 mm lat- 
+eral to the midline and then curving laterally near the 
+frontal pole) appears to roughly correspond to the 
+functional border between the vibrissae-eye move- 
+ment region medially and the rest of the motor area 
+laterally. In contrast, the more lateral border be- 
+tween AgL and Gr(S1) does nor appear to corre- 
+spond to a functional border as far as motor output is 
+concerned. 
+The extent of cortex devoted to the various move- 
+ments evoked by microstimulation varied but often 
+consisted of a patch of cortex 1-3 mm’ in area. Sev- 
+eral such distinct movement zones could also be de- 
+fined within the forelimb or hindlimb areas. This find- 
+ing of an internal organization to these regions is at 
+odds with the recent report of Gioanni and La- 
+marche17 who found that EMG activity could be 
+evoked in 4-6 different forelimb or hindlimb muscles 
+from virtually the entire forelimb or hindlimb region; 
+
+===== PDF PAGE 15 =====
+they concluded that the rat limb representations lack 
+obvious internal organization. Although our study 
+did not employ EMG recordings, Hummelsheim and 
+Weisendanger’* have recently reported that gastro- 
+nemius EMG activity can be evoked by microstimu- 
+lation (<30pA) of only a small region of rat hindlimb 
+motor cortex and not the entire hindlimb region; re- 
+markably, their effective region corresponds almost 
+exactly with the small ankle flexion (Af) region in 
+Fig. 13. This correspondence supports our finding of 
+some internal organization of the rat’s limb repre- 
+sentations into separate movement zones or patches, 
+similar to that seen in primates’0~18~“‘~38~40~s~. 
+The approximate area of the cortex devoted to the 
+major somatotopic subdivisions of the rat motor cor- 
+tex is listed below in Table II. 
+4.3. Overlap of motor and sensory cortex 
+The map in Fig. 13 illustrates that most of the pri- 
+mary sensory cortex in Gr(SI)y,55 can also be consid- 
+ered to be motor cortex, including the representa- 
+tions of the hindlimb, forelimb, lower lip, tongue and 
+vibrissae. Previous studies in the rat have also found 
+motor-sensory overlap but have noted differences in 
+the amount of overlap for various body parts. Specifi- 
+cally, overlap was reported to be complete for the 
+hindlimb representations, partial for the forelimb 
+representations and non-existent for the face and 
+head representations”,‘“. 
+Concerning the hindlimb representations, our map 
+shows a distinct, medially located portion of the hind- 
+limb motor area in AgL that does not overlap with 
+the sensory hindlimb granule cell field in Gr(SI). This 
+medial hindlimb region in AgL does not respond to 
+peripheral sensory inputs in the anesthetized rat and 
+also contains corticospinal neurons which project to 
+the lumbar enlargement”, data which indicate that 
+TABLE II 
+Approximate area of cortex devoted to movements of various 
+body parts 
+Vibrissae 17mm’ (V-FEF=8mm2+V-Gr(SI)=9mm2) 
+Tongue 16 mm’ (To = 4 mm’ + Tt,r,d = 12 mm2) 
+Forelimb 12 mm’ (CFL = 10 mm2 + RFL = 2 mm*) 
+Hindlimb 8 mm’ (CHL = 7 mm’ + RHL = 1 mm’) 
+Lower lip 5 mm’ 
+Jaw 3 mm’ 
+the overlap between sensory and motor hindlimb car- 
+tical areas may not be complete. Donoghue et all4 
+described the rat’s hindlimb area as a region of senso- 
+rimotor ‘overlap’ cortex, defined as cortex which re- 
+ceived projections from both the ventrobasal and 
+ventrolateral thalamic nuclei. However, their tracer 
+injections may have involved both the agranular and 
+granular portions of the hindlimb region defined by 
+the present study. The resolution of this question will 
+depend on the results of anatomical studies of thala- 
+mocortical projections employing extremely small in- 
+jections of two separate tracers into the AgL and 
+Gr(S1) regions of the hindlimb area within the same 
+animal. 
+Concerning the forelimb representations, the cau- 
+da1 forelimb area corresponds closely with the fore- 
+limb area described by earlier mapping studies of the 
+rat motor cortex17~19,49@-’ and is lscated in both the 
+AgL and Gr(S1) cytoarchitectonic fields. The re- 
+sponsive cortex in Gr(S1) in Fig. 13 is shown as coex- 
+tensive with the forelimb granule cell patch but in in- 
+dividual experiments may not always include its more 
+lateral region, probably due to the greater sensitivity 
+of motor responses in Gr(S1) to the level of anesthe- 
+sia”. This last observation is a likely reason why pre- 
+vious.studiesi5.‘” reported only partial overlap of 
+forelimb motor and forelimb sensory cortex. The 
+caudal forelimb motor area outlined in Fig. 13 coin- 
+cides almost perfectly with the caudal patch of cortex 
+which gives rise to corticospinal projections to the 
+cervical enlargement 51s7 The importance of the en- 
+tire caudal forelimb region (both the AgL and Gr(S1) 
+components) for motor control of the forelimb in the 
+rat was first demonstrated by Castro’ who found that 
+small, bilateral motor cortex lesions that appear to be 
+largely confined to AgL produced forelimb use defi- 
+cits which showed significant recovery l-2 weeks af- 
+ter the lesions; in contrast, rats with large lesions 
+which appear to have involved both the AgL and 
+Gr(S1) portions of the caudal forelimb area showed 
+little recovery from their forelimb use deficits even 3 
+months after the lesions. Similar results have been 
+seen more recently by Price and Fowlerj”. 
+Concerning the lower lip and tongue representa- 
+tions, our map is the first indication that there might 
+be overlap of the motor and sensory cortical regions 
+for these body parts. This zone of overlap not only in- 
+cludes the Gr(S1) somatosensory representation of 
+
+===== PDF PAGE 16 =====
+the 10wer lip and tongue but also appears to include 
+the visceral sensory taste representation located in 
+the insular (Cl) cortex4,43,6’; the motor responses 
+evoked from this taste sensory cortex seem to consist 
+largely in the small, tongue twitch type of responses. 
+The previous lack of reports of motor responses from 
+these cortical regions is due largely to the absence of 
+mapping studies of the motor representation of these 
+body parts in the rat; in contrast, the sensory repre- 
+sentation of the head, face and tongue has been stud- 
+ied in detaii in the rat 9ssa’ In addition, reports of a . 
+lack of overlap between the motor and sensory head 
+representations - 15s19 have been primarily referring to 
+the lack of overlap between the motor and sensory vi- 
+brissae representations (not the jaw, lips and tongue 
+representations). The importance of the tongue mo- 
+tor representation in Gr(SI) was demonstrated by 
+Castros who found that bilateral lesions of this area 
+seriously impaired the ability of the rats to protrude 
+their tongue and lick up rat food pellets; these deficits 
+lasted as long as the animals were tested (up to 6 
+months). 
+The area occupied by the motor vibrissae and eye- 
+lid area in Gr(SI) is depicted on the map following 
+the description by Gioanni and Lamarche” of their 
+posterolateral vibrissae motor area; comparison of 
+this region in Fig. 13 and the same region in Fig. 2 re- 
+veals Fhat this area corresponds to the vibrissae bar- 
+rel field of Gr(S1) 8s5 in our own experiments we also _ 
+evoked vibrissae movements from this region but did 
+not study it systematically because the responses 
+were somewhat inconsistent between animals. This is 
+aiso likely due to the reported greater sensitivity of 
+these vibrissae motor responses from Gr(S1) to the 
+depth of anesthesia . I7 The question marks in the re- 
+mainder of Gr(S1) and in Gr(SI1) are meant to indi- 
+cate that these areas may also be motor areas, but 
+have not yet been studied carefully in the rat. The 
+overall pattern that emerges from these findings is 
+that the entire somatosensory cortex of the rat may 
+also be described as a motor region, similar to the 
+pattern in the primate36.‘6.59. This ‘motor’ character- 
+istic of ‘sensory’ cortex supports Diamond’s’j propo- 
+sal that layer V of the entire cortex should be termed 
+the motor cortex, due to its substantial direct or indi- 
+rect projections to motor neurons. 
+4.4. Vibrissae motor area and fronraf eye fields 
+The map in Fig. 13 locates the primary motor rep- 
+resentat,ion of the vibrissae along the midline, in 
+agreement with previous studies”.‘7~“~3”. However, 
+this region should noi be considered as part of the pri- 
+mary motor area, as these previous studies have 
+classified it, but rather should be considered as a por- 
+tion of the rat’s frontal eye field region. The rationale 
+for this ‘change of status’ is based on the following 
+discussion. Most of the vibrissae area is found within 
+AgM. and the vibrissae motor area’s lateral border 
+appears to largely coincide with tht: cyto~~~hitectonic 
+border between AgM and AgL, as was illustrated in 
+Fig. 9. We and others ‘5*‘7~1s.4952 have found that stim- 
+ulation in AgM also produces eye. eyelid or head 
+movemems, as we11 as pupiltary constriction, and it 
+has been suggested that this region corresponds to 
+the rat’s frontal eye fieId’s.i”. (Experiments now un- 
+derway in our laboratory by Robert Frysstak have 
+demonstrated that microstimulation with currents as 
+low as 1OyA of a single point in the vibrissae area can 
+elicit co~~ralaterally directed eye movements along 
+with bilateral vibrissae movements and pupiltary 
+constriction.) Since AgM has a strong projection to 
+the superior coiliculus2”~~‘~“‘. and since electrical 
+stimulation of the superior colliculus has recently 
+been shown to produce ~~~~~~ra~ vibrissae movements 
+along with eye and head moven~cnts at low thresh- 
+olds?*, it is plausible to assume that the simultaneous 
+vibrissae, eye and head movements elicited from 
+AgM are due to activation of the projection from 
+AgM to the superior colhculus. It thus appears that 
+the border between AgL and AgM is a major func- 
+tional division in the cortex. separating somatic sen- 
+sorimotor cortex from eye-head orientation cortex. 
+The more iaterai somatic sensorimotor cortex (AgL, 
+Gr(SI), Gr(SI1)) possesses corticospinal projec- 
+tion~i~,~~.s~.~’ while the more medial frontal eye field L 
+cortex {AgM and anterior cingulate (AC)) possesses 
+strong projections to the superior c~~llic~lus~‘~.~‘.~’ but 
+lacks corticospinal projections” In addition, AgM 
+and AC have significant reciprocal connections with 
+the visual cortex“j. Lesion studies have proposed that 
+the anteromedial frontal cortex, including our vibris- 
+sae area, functions as part of a ‘spatial mapping Sys- 
+tem’2h which ‘includes the superior colliculus and 
+serves attentionallorienting functions““: rats with le- 
+
+===== PDF PAGE 17 =====
+93 
+sions of this cortex fail to learn the Morris water task 
+and are impaired at learning the location of reward in 
+the radial maze task2’, as well as showing significant 
+contralateral neglect”. It should be pointed out that 
+near the frontal pole the border between AgL and 
+AgM may lose some of its significance as a border be- 
+tween somatic and eye-head functional regions since 
+the RFL and RHL are located in AgL and AgM and 
+both give rise to corticospinal projections”,“. 
+Within the vibrissae area, we consistently found 
+largely separate zones where either contralateral or 
+ipsilateral vibrissae movements could be evoked as 
+well as regions where bilateral vibrissae movements 
+were elicited. Ipsilateral vibrissae movements were 
+only rarely seen by Sanderson et al.“’ in their stimula- 
+tion study of the rat motor cortex. The reason for this 
+disagreement is not clear but may lie in the different 
+stimulation parameters used in each study. In sup- 
+port of our finding of both contralateral and ipsilater- 
+al vibrissae movements. Gioanni and Lamarche” re- 
+ported that bilateral vibrissae movements could be 
+evoked from their anteromedial vibrissae motor re- 
+gion. In addition, unilateral stimulation of the superi- 
+or colliculus produces bilateral vibrissae movements 
+in the anesthetized ra?“. The bilateral vibrissae 
+movements seen after unilateral cortical stimulation 
+are also reminiscent of the bilateral control of facial 
+musculature by each side of the cortex seen in man18. 
+One study” has reported a ‘vegetative zone’ along 
+the midline of the rat motor cortex where microstim- 
+ulation elicits pupillary constriction responses; we 
+have also seen such responses in some of our current 
+mapping experiments (see above), but have found 
+that this zone largely overlaps with the vibrissae mo- 
+tor area and eye movement region rather than exist- 
+ing as a separate entity. 
+4.5. The rostra1 motor area: the rat’s supplementary 
+motor ureaY 
+The second, more rostra1 motor area (RMA, ar- 
+row in Fig. 13) was located near the frontal pole and 
+could always be distinguished from the caudal prima- 
+ry motor area by an intervening strip of cortex where 
+neck or vibrissae movements were evoked. Within 
+the rostra1 motor area the RFL appeared to lie within 
+the AgL cytoarchitectonic region and overlapped 
+with the rostra1 patch of corticospinal neurons pro- 
+jecting to the cervical enlargement”. The existence 
+of the RFL has recently been confirmed by Sander- 
+son et a1.“9. Although Woolsey and his coworkers’” 
+did not specifically describe a rostra1 forelimb motor 
+area, close inspection of his figurine map (see his Fig. 
+122) does reveal a point in rostra1 frontal cortex 
+where surface stimulation produced elbow flexion. 
+This point was separated from his primary forelimb 
+region by cortex where neck or vibrissae movements 
+were elicited. Hall and Lindholm’” did not describe a 
+rostra1 forelimb area, perhaps because of a small gap 
+in the points they mapped in the frontal cortex lo- 
+cated at about 3.5 mm anterior to bregma and 1.5 
+mm lateral to the midline (cf. their Fig. 4). The fail- 
+ure of the recent study by Gioanni and Lamarche” to 
+find a rostra1 motor area is surprising; however, their 
+single forelimb motor area extends rostrally to in- 
+clude the region we have designated as the RMA. In 
+addition, their study did find that neck or vibrissae 
+movements could be elicited from the cortex be- 
+tween our two motor areas. but they reported that 
+these responses were always accompanied by fore- 
+limb movements as well. In our mapping of this nar- 
+row region, neck or vibrissae movements always had 
+lower thresholds than any forelimb responses that 
+could also be evoked here. Further evidence in favor 
+of the existence of a separate RMA is the finding of a 
+second, small, rostra1 hindlimb region (RHL) just 
+medial to the RFL area. The RHL appeared to be lo- 
+cated in AgM and overlaps with a small rostra1 patch 
+of corticospinal neurons projecting to the lumbar en- 
+largement”‘. Only hip flexi on and knee flexion move- 
+ments were evoked from the RHL, and the thresh- 
+olds were high (>40 PA), perhaps due to the small 
+number (10-25) of corticospinal neurons found 
+here”. Sievert”’ has also reported a corticospinal 
+projection from this region to the thoracic cord, lo- 
+cated in between and partially overlapping the pro- 
+jections to the cervical and lumbar enlargements; this 
+observation is consistent with the occasional finding 
+of trunk movements medial to the RFL. 
+The existence of both a RFL and a RHL suggests 
+that the rostra1 motor area of the rat may correspond 
+to the supplementary motor area (SMA) of the mon- 
+key, since the SMA contains representations of both 
+the forelimb and hindlimb”2~s8~5y which give rise to 
+corticospinal projections to cervical and lumbar re- 
+gions of the spinal cord”‘. Further support for this 
+
+===== PDF PAGE 18 =====
+94 
+suggestion comes from the finding that this rostra1 
+motor area of the rat is much less responsive to pe- 
+ripheral sensory inputs than the primary motor 
+area51, a pattern also seen when the sensory inputs to 
+the monkey SMA and primary motor area are com- 
+pared . ‘s’ The lack of peripheral sensory input to the 
+rostra1 motor area also makes it unlikely that this re- 
+gion is homologous to the monkey’s premotor area 
+(PM) since, although PM also gives rise to corticospi- 
+nal projectionss4, more than 50% of PM neurons re- 
+spond to peripheral somatosensory inputs@. 
+5. SUMMARY 
+In conclusion, the rat primary motor cortex ap- 
+pears to be organized into irregularly shaped patches 
+of cortex devoted to particular movements. The loca- 
+tion of major subdivisions such as the forelimb or 
+hindlimb areas is somatotopic and is consistent from 
+animal to animal, but the internal organization of the 
+pattern of movements represented within major sub- 
+divisions varies significantly between animals. The 
+mator cortex includes both agranular primary motor 
+cortex (AgL) and, in addition, a significant amount 
+of the bordering granular somatic sensory cortex 
+APPENDIX: EVOKED MOVEMENT ABBREVIATIONS 
+Ae 
+Af 
+De 
+Df 
+Ee 
+Ef 
+El 
+Eo 
+Hf 
+J 
+Jo 
+Kf 
+Ll 
+Llip 
+N 
+Nk 
+NR 
+Ns 
+P 
+ankle extension 
+ankle plantar flexion 
+digit extension 
+digit flexion 
+elbow extension 
+elbow flexion 
+eyelid open 
+eyelid open 
+hip flexion 
+jaw movement 
+jaw open 
+knee flexion 
+leg movement 
+lower lip up 
+lower lip up 
+neck muscle contraction 
+neck muscle contraction 
+no response 
+nose twitch 
+pinna movement 
+(Gr(SI)), as well as the rostra1 portion of the taste 
+sensory insular or claustrocortex (Cl), The rat frontal 
+cortex also contains a second. rostra1 motor repre- 
+sentation of the forelimb, trunk and hindlimb. which 
+is somatotopicaily organized and may be the rat’s 
+supplementary motor area. Both of these motor rep- 
+resentations give rise to direct corti~ospinal projec- 
+tions21.42,51 .s7. some of which may make monosynap- 
+tic connections with cervical enlargement motorneu- 
+rons16 Medial to the primary motor cortex, in cytoar- . . 
+chitectonic field AgM, is what appears to be part of 
+the rat’s frontal eye fields, a region which also in- 
+cludes the vibrissae motor representation. The so- 
+matic motor cortical output organization pattern in 
+the rat is remarkably similar to that seen in the pri- 
+mate, whose primary, supplementary and frontal eye 
+field cortical motor regions have been extensively 
+studied. 
+ACKNOWLEDGEMENTS 
+Supported by Grant NS-16146 from the National 
+Institutes of Health and by Pott’s Fund and BRSG 
+grants from Loyola University. 
+Pf 
+Pro 
+Pron 
+Rh 
+Sab 
+Se 
+Sf 
+Sr 
+sup 
+Td 
+TI 
+‘TO 
+Tr 
+Tr 
+Ttip 
+TV 
+T5f 
+V 
+Vc 
+Vi 
+We 
+pronation 
+pronation 
+pronation 
+rhinarium (nose) twitch 
+shoulder abduction 
+shoulder extension 
+shoulder flexion 
+shoulder retraction 
+supination 
+tongue dorsum twitch 
+tai1 movement 
+tongue out 
+trunk movement 
+tongue right side twitch (JLT maps) 
+tongue tip twitch 
+tongue ventral surface twitch 
+toe 5 flexion 
+vibrissae movement 
+contralateral vibrissae movement 
+ipsilateral vibrissae movement 
+wrist extension 
+
+===== PDF PAGE 19 =====
+REFERENCES 
+1 
+2 
+3 
+4 
+5 
+6 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+Asanuma, H., Arnold, A. and Zarzecki, P., Further study 
+on the excitation of pyramidal tract cells by intracortical mi- 
+crostimulation, Exp. Bruin Res., 26 (1976) 443-461. 
+Asanuma, H. and Arnold, A.P., Noxious effects of exces- 
+sive currents used for intracortical microstimulation, Bruin 
+Res., 96 (1975) 103-107. 
+Asanuma, H. and Rosen, I., Topographical organization of 
+cortical efferent zones projecting to distal forelimb muscles 
+in the monkey, Exp. Brain Res., 14 (1972) 243-256. 
+Benjamin, R.M. and Akert, D., Cortical and thalamic 
+areas involved in taste discrimination in the albino rat, J. 
+Camp. Neurol., 111 (1959) 231-260. 
+Brinkman, C. and Porter, R., Supplementary motor area in 
+the monkey: activity of neurons during performance of a 
+learned task, J. Neurophysiol., 42 (1979) 681-709. 
+Buxton, D.F. and Goodman, D.C., Motor function and the 
+corticospinal tracts in the dog and racoon, J. Camp. Neu- 
+rol., 129 (1967) 341-360. 
+Castro, A.J., The effects of cortical ablations on digital us- 
+age in the rat, Bruin Res., 37 (1972) 173-185. 
+Castro, A.J.. Tongue usage as a measure of cerebral corti- 
+cal localization in the rat, Exp. Neural., 47 (1975) 343-352. 
+Chapin, J.K. and Lin. C.-S., Mapping the body representa- 
+tion in the SI cortex of anesthetized and awake rats. J. 
+Comp. Neurol., 229 (1984) 199-213. 
+Cheney, P.D. and Fetz, E.E.. Comparable patterns of mus- 
+cle facilitation evoked by individual corticomotoneuronal 
+(CM) cells and by single intracortical microstimuli in pri- 
+mates: evidence for functional groups of CM cells, J. Neu- 
+rophysiol., 53 (1985) 786-804. 
+Clark, G., Staining Procedures, Williams & Wilkins, Balti- 
+more, 1981. 
+Crowne. D.P. and Pathria, M.N., Some attentional effects 
+of unilateral frontal lesions in the rat, Behav. Bruin Res., 6 
+(1982) 25-39. 
+Diamond. I.T., The subdivisions of neocortex: a proposal 
+to revise the traditional view of sensory, motor, and asso- 
+ciation areas. In J.M. Sprague and A.N. Epstein (Eds.). 
+Progress in Psychobiology and Physiological Psychology, 
+Academic Press, New York, 1979, pp. 1-43. 
+Donoghue, J.P., Kerman, K.L. and Ebner, F.F., Evidence 
+for two organizational plans in the somatic sensory-motor 
+cortex of the rat, J. Comp. Neural., 183 (1979) 647-663. 
+Donoghue. J.P. and Wise. S.P., The motor cortex of the 
+rat: cytoarchitecture and microstimulation mapping. J. 
+c‘ornp. Neural., 212 (1982) 76-88. 
+Elger. C.E.. Speckmann. E.-J.. Caspers, H. and Janzen, 
+R.W.C.. Cortico-spinal connections in the rat. I. Monosyn- 
+aptic and polysynaptic responses of cervical motoneurons 
+to epicortical stimulation, Exp. Brain Res., 28 (1977) 
+385-404. 
+17 Gioanni, Y. and Lamarche, M., A reappraisal of rat motor 
+cortex organization by intracortical microstimulation. 
+Bruin Res., 344 (1985) 49-61. 
+18 Gould. H.J.. Cusick. C.G., Pons, T.P. and Kaas, J.H., The 
+relation of callosal connections to microstimulation maps of 
+precentral motor cortex in owl monkeys, Neurosci. Abstr., 
+9 (1983) 309. 
+19 Hall. R.D. and Lindholm, E.P., Organization ofmotor and 
+somatosensory neocortex in the albino rat, Bruin Res., 66 
+(1974) 23-38. 
+20 Hardy. S.G.P. and Leichnetz, G.R., Frontal cortical pro- 
+jections to the periaqueductal gray in the rat: a retrograde 
+and orthograde horseradish peroxidase study. Neurosci. 
+Left., 23 (1981) 13-17. 
+21 Hicks, S.P. and D’Amato, C.J., Locating corticospinal neu- 
+rons by retrograde axonal transport of HRP, Exp. Neural., 
+56 (1977) 410-420. 
+22 Hummelsheim, H. and Wiesendanger, M., Is the hindlimb 
+representation of the rat’s cortex a ‘sensorimotor amal- 
+gam’?, Bruin Res., 346 (1985) 75-81. 
+23 Humphrey, D.R. and Reed, D.J., Separate cortical sys- 
+tems of control of joint movement and joint stiffness: recip- 
+rocal activation and coactivation of antagonist muscles. In 
+J.E. Desmedt (Ed.), Advances in Neurology, Vol. 39. Mo- 
+tor Control Mechanisms in Health und Disease, Raven 
+Press, New York, 1983. pp. 347-372. 
+24 Jankowska, E., Padel, Y. and Tanaka. R.. The mode of ac- 
+tivation of pyramidal tract cells by intracortical stimuli. J. 
+Physiol. (London), 249 (1975) 617-636. 
+25 Jankowska, E., Padel, Y. and Tanaka, R., Projections of 
+pyramidal tract cells to alpha-motoneurons innervating 
+hindlimb muscles in the monkey, J. PhysioL Ilondon), 249 
+(1975) 637-669. 
+26 Kolb, B., Pittman, K., Sutherland. R.J. and Whishaw. 
+I.Q., Dissociation of the contributions of the prefrontal cor- 
+tex and dorsomedial thalamic nucleus to spatially guided 
+behavior in the rat. Behav. Bruin Res., 6 (1982) 365-378. 
+27 Krettek, J.E. and Price, J.L., The cortical projections of 
+the mediodorsal nucleus and adjacent thalamic nuclei in the 
+rat, J. Camp. Neurol., 171 (1977) 157-192. 
+28 Kuypers, H.G.J.M., Cortico-bulbar connections to the 
+pons and lower brainstem in man. An anatomical study, 
+Bruin Res., 81 (1958) 364-388. 
+29 Kuypers. H.G.J.M., Anatomy of descending systems. In 
+J.M. Brookhart and V.B. Mountcastle (Eds.). Handbook 
+0.f Physiology. Section 1. The Nervous Syytcm. Vol. II. Mo- 
+for Control, Purl I, Williams and Wilkins. Baltimore, 1981, 
+pp. 597-666. 
+30 Kwan, H.C., MacKay, W.A., Murphv, J.T. and Wona. 
+Y.C., Spatial organization of precentral cortex in awake 
+primates. II. Motor outputs. J. Neurophysiol.. 41 (1978) 
+1120-1131. 
+31 
+32 
+Leonard, CM.. The prefrontal cortex of the rat. I. Cortical 
+projection of the mediodorsal nucleus. 11. Efferent connec- 
+tions. Brain Res.. 12 (1969) 321-343. 
+Macpherson, J.M., Marangoz, C., Miles, T.S. and Wiesen- 
+danger. M., Microstimulation of the supplementary motor 
+area (SMA) in the awake monkey. Exp. Bruin Res.. 45 
+(1982) 410-416. 
+33 Marcus, S., Zarzecki, P. and Asanuma. H.. An estimate of 
+effective spread of stimulating current. Ex-p. Brain Res.. 34 
+(1979)68-71. 
+34 McHaffie, J.G. and Stein, B.E., Eve movements evoked bv 
+electrical stimulation in the superior colliculus of rats and 
+hamsters, Brain Res., 247 (1982) 243-253. 
+35 Miller. M.W. and Vogt, B.A., Direct connections of rat vis- 
+ual cortex with sensory. motor and association cortices. J. 
+Camp. Neural.. 226 (1984) 184-202. 
+36 Mori, A.. Babb, R.S.. Waters, R.S. and Asanuma. H., Mo- 
+tor effects produced by stimulation of secondary somato- 
+sensory (SII) cortex in the monkey, E.xp. Brain Res.. 58 
+(1985) 440-442. 
+37 Murray. E.A. and Coulter, J.D.. Organization of cortico- 
+spinal neurons in the monkey. J. Camp. Neural.. 195 (1981) 
+339-365. 
+
+===== PDF PAGE 20 =====
+96 
+38 Neafsey, E.J., Precentral zones related to flexion and ex- 
+tension in two hindlimb movements in the monkey, Bruin 
+Res., 198 (1980) 453-459. 
+39 Neafsey, E.J., A simple method for glass insulating 
+tungsten microelectrodes. Bruin Res. Bull., 6 (1981) 
+95-96. 
+40 Neafsey, E.J., Bold, E.L., Sievert, C.F., Terreberry, R.T. 
+and Quirk, G.J., The primary motor cortex of the owl mon- 
+key: a microstimulation mapping study of the leg and arm 
+areas, Neurosci. Abstr., 9 (1983) 492. 
+41 Neafsey, E.J., Hurley-Gius, K. and Dimitrios, A., Efferent 
+projections from the medial frontal cortex to the nucleus 
+tractus solitarius, superior colliculus and olfactory bulb, 
+Neurosci. Abstr., ll(1985) 1275. 
+42 Neafsey, E.J. and Sievert, C., A second forelimb motor 
+area exists in rat frontal cortex, Bruin Res., 232 (1982) 
+151-156. 
+43 Norgren, R. and Wolf, G.. Projections of thalamic gustato- 
+ry and lingual areas in the rat, Bruin Res., 92 (1975) 
+123-129. 
+44 Paxinos, G. and Watson, C., The Rat Brain in Stereotaxic 
+Coordinates, Academic Press, Sydney, 1982. 
+45 Phillips, C.G. and Porter, R.. Corticospinul Neurones. 
+Their Role in Movement, Academic Press, New York. 
+1917. 
+46 Price, A.W. and Fowler, SC., Deficits in contralateral and 
+ipsilateral forepaw motor control following unilateral mo- 
+tor cortical ablations in rats, Brain Res., 205 (1981) 81-90. 
+47 Ranck, J.B., Which elements are excited in electrical stim- 
+ulation of mammalian central nervous system: a review. 
+Brain Res., 98 (1975) 417-440. 
+48 Rizzolatti, G., Scandolara, C., Matelli, M. and Gentilucii. 
+M., Afferent properties of periarcuate neurons in macaque 
+monkeys. I. Somatosensory responses, Behav. Brain Res. 1 
+2 (1981) 125-146. 
+49 Sanderson, K.J., Welker, W. and Shambes, G.M., Reeva- 
+luation of motor cortex and of sensorimotor overlap in cere- 
+bral cortex of albino rats, Brain Res., 292 (1984) 251-260. 
+50 Sapienza, S., Talbi, B., Jaquemin, J. and Albe-Fessard, D., 
+Relationship between input and output of cells in motor and 
+somatosensory cortices of the chronic awake rat, Exp. 
+Brain Res., 43 (1981) 47-56. 
+51 Sievert, C.F., An Anatomical, Electrophysiological, and 
+Behuviorul Comparison of the Primary and Supplementary 
+Motor Areas of the Rut, Ph.D. dissertation, Loyola Univer- 
+sity, Chicago, IL, 1985. 
+52 Sinnamon, H.M. and Galer. B.S., Head movements elic- 
+ited by electrical stimulation of the anteromedial cortex of 
+the rat, Physiol. Behuv., 33 (1984) 185-190. 
+53 Strick, P.L. and Preston, J.B., Two representations of the 
+hand in area 4 of a primate. I. Motor output organization, 1. 
+Neurophysiol., 48 (1982) 139- 149. 
+54 Toyoshima, K. and Sakai, H., Exact cortical extent of the 
+origin of the corticospinal tract (CST) and the quantitative 
+contribution to the CST in different cytoarchitectonic 
+areas. A study with horseradish peroxidase in the monkey, 
+J. Hirnforsch., 23 (1982) 257-269. 
+55 Welker, C., Receptive fields of barrels in the sornatosenso- 
+ry neocortex of the rat. J. Comp. !Neurol.. 166 (1976) 
+173-189. 
+56 Welker, W .I., Benjamin, R.M., Miles, R.C. and Woolsey. 
+C.N., Motor effects of stimulation of cerebral cortex of 
+squirrel monkey (suimiri sciureus), J. Neurophysiol., 20 
+(1957) 347-364. 
+57 Wise, S.P., Murray, E.A. and Coulter, J.D., Somatotopic 
+organization of corticospinal and corticotrigeminal neurons 
+in the rat, Neuroscience, 4 (1979) 65578. 
+58 Wise, S.P. and Tanji, J., Supplementary and precentral 
+motor cortex: contrast in responsiveness to peripheral input 
+in the hindlimb area of the unanesthetized monkey. J. 
+Comp. Neurol., 195 (1981) 433-451. 
+59 Woolsey, C.N., Organization of somatic sensory and motor 
+areas of the cerebral cortex. In H.F. Harlow and C.N. 
+Woolsey (Eds.), Biological and Biochemical Bases of Be- 
+havior, University of Wisconsin Press, Madison. 1958, pp. 
+63-82. 
+60 Woolsey, C.N., Settlage, P.H., Meyer, D.R., Sencer, W 
+Hamuy, T.P. and Travis, A.M., Patterns of localization in 
+precentral and supplementary motor areas and their rela- 
+tion to the concept of a premotor area, Patterns of Organi- 
+zation in the Central Nervous System. Res. Puhl. Assoc. 
+Kes. Nerv. Ment. Dis., 30 (1952) pp. 238-264. 
+61 Yamamoto, T., Matsuo, R. and Kawamura. Y.. Localiza- 
+tion of cortical gustatory area in rats and its role in taste dis- 
+crimination , J. Neurophysiol., 44 (1980) 440-455. 
+62 Zilles, K.. Zilles, B. and Schleicher, A.. A quantitative ap- 
+proach to cytoarchitectonics. VI. The area1 pattern of the 
+cortex of the albino rat, Anat. Embryol., 59 (1980) 
+335-360. 

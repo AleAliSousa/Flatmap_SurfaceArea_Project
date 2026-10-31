@@ -39,7 +39,7 @@
   "outline": null,
   "rois": [
     {
-      "label": "DM visible fragment",
+      "label": "DM",
       "polygons": [
         [
           [
@@ -1132,20 +1132,15 @@
           ]
         ]
       ],
-      "extent": "partial",
-      "boundary_note": "Visible DM fragment, retraced along the gray boundary at 4 pixels/PDF point. Short straight interpolation through the border-overprinted injection circle (source page coordinates x910\u2013934,y937\u2013959 at the former 2px/point scale); circle excluded as boundary geometry."
+      "extent": "complete",
+      "boundary_note": "Complete published drawn DM envelope: both DM endpoints join the DM/V2 boundary inside the inset. The shared V2 line continues beyond DM. Geometry retained from prior source tracing; label and extent corrected on 31 October 2026. Anatomical locations remain provisional as described by the source authors."
     }
   ],
   "unmeasured": [
     {
-      "label": "DM",
-      "status": "not_measurable",
-      "reason": "Full DM is clipped at the superior frame; V2 continues outside panel."
-    },
-    {
       "label": "V2",
       "status": "not_measurable",
-      "reason": "Full DM is clipped at the superior frame; V2 continues outside panel."
+      "reason": "The entire V2 field is not enclosed in this inset; only its shared boundary with DM is visible."
     }
   ],
   "review_note": "Contours refined 2026-10-15 after enlarged source review. Original outlines archived; source-toggle and prior-outline comparison in review/line_refinement.html. Scientific interpretation remains provisional."

@@ -1,0 +1,353 @@
+{
+  "map_id": "fig01D_CB3_motor_hand",
+  "figure": "1",
+  "panel": "D",
+  "pdf_page": 5,
+  "printed_page": "",
+  "species": "Cebus apella",
+  "specimen": "CB-3",
+  "hemisphere": "left",
+  "view_type": "cortical_photograph_response_map",
+  "hemisphere_relation": "",
+  "linked_main_map": "",
+  "repeat_of": "",
+  "relationship_note": "Same animals as reconstructed sensory/tracer maps; photo scale is local and not borrowed to another figure.",
+  "specimen_link_status": "source_label_preserved; cross-paper overlap unresolved",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 3,
+  "crop_xyxy": [
+    904,
+    866,
+    1420,
+    1182
+  ],
+  "scale_endpoints_px": [
+    [
+      26.0,
+      298.0
+    ],
+    [
+      118.0,
+      298.0
+    ]
+  ],
+  "scale_length_mm": 5,
+  "scale_note": "Same-panel printed 5 mm bar; projected cortical-photograph area. Functional hand territory, not total M1.",
+  "scale_reference_map": "",
+  "outline": null,
+  "rois": [
+    {
+      "label": "M1_hand",
+      "polygons": [
+        [
+          [
+            237.658,
+            95.262
+          ],
+          [
+            253.038,
+            94.269
+          ],
+          [
+            253.535,
+            112.627
+          ],
+          [
+            271.892,
+            113.123
+          ],
+          [
+            271.892,
+            94.765
+          ],
+          [
+            306.127,
+            95.262
+          ],
+          [
+            306.127,
+            112.627
+          ],
+          [
+            323.988,
+            112.627
+          ],
+          [
+            324.485,
+            130.488
+          ],
+          [
+            306.623,
+            129.992
+          ],
+          [
+            306.623,
+            166.708
+          ],
+          [
+            324.485,
+            167.204
+          ],
+          [
+            324.485,
+            184.569
+          ],
+          [
+            306.623,
+            185.065
+          ],
+          [
+            306.623,
+            220.292
+          ],
+          [
+            270.9,
+            220.788
+          ],
+          [
+            270.9,
+            203.423
+          ],
+          [
+            235.177,
+            202.927
+          ],
+          [
+            235.177,
+            184.073
+          ],
+          [
+            198.462,
+            184.073
+          ],
+          [
+            197.965,
+            166.708
+          ],
+          [
+            179.608,
+            166.708
+          ],
+          [
+            179.608,
+            130.985
+          ],
+          [
+            216.819,
+            130.488
+          ],
+          [
+            216.819,
+            113.123
+          ],
+          [
+            237.658,
+            113.123
+          ]
+        ]
+      ],
+      "extent": "complete_drawn_hand_representation",
+      "boundary_note": "Red physiological hand contour on cortical photograph, including digit and wrist/forearm sites; islands retained. Photograph-projected area, not folded native surface. Tiny red gaps interpolated at stroke centre."
+    },
+    {
+      "label": "PMd_hand",
+      "polygons": [
+        [
+          [
+            124.038,
+            76.408
+          ],
+          [
+            141.9,
+            76.408
+          ],
+          [
+            141.9,
+            93.773
+          ],
+          [
+            124.038,
+            93.773
+          ]
+        ],
+        [
+          [
+            142.396,
+            94.269
+          ],
+          [
+            178.615,
+            94.269
+          ],
+          [
+            178.615,
+            112.627
+          ],
+          [
+            142.396,
+            112.627
+          ]
+        ]
+      ],
+      "extent": "complete_drawn_hand_representation",
+      "boundary_note": "Red physiological hand contour on cortical photograph, including digit and wrist/forearm sites; islands retained. Photograph-projected area, not folded native surface. Tiny red gaps interpolated at stroke centre."
+    },
+    {
+      "label": "PMv_hand",
+      "polygons": [
+        [
+          [
+            83.354,
+            223.765
+          ],
+          [
+            91.292,
+            223.765
+          ],
+          [
+            93.277,
+            229.223
+          ],
+          [
+            89.308,
+            236.665
+          ],
+          [
+            94.269,
+            242.619
+          ],
+          [
+            87.819,
+            250.062
+          ],
+          [
+            80.873,
+            244.108
+          ],
+          [
+            78.392,
+            238.154
+          ],
+          [
+            84.346,
+            230.215
+          ]
+        ],
+        [
+          [
+            68.469,
+            252.542
+          ],
+          [
+            76.904,
+            258.0
+          ],
+          [
+            69.462,
+            269.412
+          ],
+          [
+            63.012,
+            262.962
+          ],
+          [
+            63.012,
+            256.512
+          ]
+        ],
+        [
+          [
+            86.827,
+            255.023
+          ],
+          [
+            93.773,
+            260.481
+          ],
+          [
+            87.323,
+            269.908
+          ],
+          [
+            80.377,
+            264.45
+          ]
+        ],
+        [
+          [
+            85.835,
+            271.892
+          ],
+          [
+            92.781,
+            278.342
+          ],
+          [
+            86.827,
+            288.762
+          ],
+          [
+            79.881,
+            281.319
+          ]
+        ],
+        [
+          [
+            102.704,
+            272.885
+          ],
+          [
+            108.658,
+            270.9
+          ],
+          [
+            112.131,
+            276.358
+          ],
+          [
+            105.681,
+            288.762
+          ],
+          [
+            99.727,
+            281.319
+          ]
+        ],
+        [
+          [
+            92.285,
+            275.862
+          ],
+          [
+            98.735,
+            274.373
+          ],
+          [
+            102.704,
+            279.831
+          ],
+          [
+            97.246,
+            283.8
+          ]
+        ]
+      ],
+      "extent": "complete_drawn_hand_representation",
+      "boundary_note": "Red physiological hand contour on cortical photograph, including digit and wrist/forearm sites; islands retained. Photograph-projected area, not folded native surface. Tiny red gaps interpolated at stroke centre."
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "M1_complete",
+      "status": "not_measurable",
+      "reason": "Only hand representation was mapped; whole M1 and M1-face absent."
+    },
+    {
+      "label": "SMA_hand",
+      "status": "not_measurable",
+      "reason": "Medial-wall drawing is positioned approximately; no separate validated calibration for that cartoon."
+    }
+  ],
+  "supersample": 4
+}

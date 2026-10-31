@@ -1,0 +1,9 @@
+paper_id,figure,pdf_page,status,note
+Bock_etal_2011,1,2,not_surface_area,"Coronal histology, not tangential cortical area."
+Bock_etal_2011,2,3,not_surface_area,Image processing and coronal sampling.
+Bock_etal_2011,3,4,native_surface_required,3D mesh visualization.
+Bock_etal_2011,4,5,not_measurable_from_PDF,Intensity flatmap with spatially varying distortion and no reproducible closed masks.
+Bock_etal_2011,5,7,native_surface_required,3D comparisons.
+Bock_etal_2011,6,7,native_surface_required,Area definitions shown on 3D mesh; use Table1 values.
+Bock_etal_2011,7,8,calibration_evidence,"Shows spatially varying flattening distortion, preventing global flatmap scale."
+Bock_etal_2011,8,8,native_surface_required,Other animals in 3D; no metric 2D outlines.

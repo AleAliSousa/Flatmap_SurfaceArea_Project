@@ -1,0 +1,2 @@
+paper_id,species,label,unit,n_nonrepeated_views,mean,sample_sd,minimum,maximum,interpretation
+Willoughby_etal_2021,Homo sapiens,forehead_activation_display,display_px2,5,226.4875,186.38447536275655,21.375,377.5,Descriptive field-view statistics only; hemispheres may be paired. Display-pixel means are not biological areas. No whole-cortex denominator.

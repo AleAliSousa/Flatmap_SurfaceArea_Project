@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-31",
+  "pass_number": 2,
+  "changed_regions": [
+    {
+      "map_id": "fig14D_summary",
+      "label": "M",
+      "kind": "addition",
+      "note": "Recovered the clearly bounded black M silhouette. Luethke et al. 1988 squirrel case maps corroborate the M/SI arrangement; no geometry or scale transferred. Comparative illustration only, not a new animal or whole cortical denominator."
+    }
+  ],
+  "scope": "All project views screened at overview resolution; changed regions reviewed enlarged. Anatomical certification remains pending.",
+  "source_pdf_unchanged": true,
+  "native_imagej_roundtrip": "passed",
+  "remaining_interior_overlap_diagnostics": [],
+  "project_review": "../project_review_2026-10-31_pass2/index.html",
+  "no_new_calibration_or_denominator": true
+}

@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-31",
+  "pass_number": 2,
+  "changed_regions": [
+    {
+      "map_id": "fig07_macaque",
+      "label": "M/POd",
+      "kind": "revision",
+      "note": "Replaced a tiny contour around a letter in the M/POd label with the actual source field envelope between PIP, V3d and V2. Short upper-right print gap bridged along the printed continuation. Krubitzer & Dooley 2013 macaque map used for topological orientation only; parcellations are not assumed identical."
+    }
+  ],
+  "scope": "All project views screened at overview resolution; changed regions reviewed enlarged. Anatomical certification remains pending.",
+  "source_pdf_unchanged": true,
+  "native_imagej_roundtrip": "passed",
+  "remaining_interior_overlap_diagnostics": [],
+  "project_review": "../project_review_2026-10-31_pass2/index.html",
+  "no_new_calibration_or_denominator": true
+}

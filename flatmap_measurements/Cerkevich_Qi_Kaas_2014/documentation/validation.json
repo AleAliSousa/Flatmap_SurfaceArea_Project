@@ -1,0 +1,9 @@
+{
+  "processed_views": 4,
+  "measured_fields": 4,
+  "unmeasured_fields": 8,
+  "overlaps": [],
+  "native_imagej_roundtrip": "passed",
+  "anatomical_review": "provisional; pending user review",
+  "reference_comparison": "not_run; core workflow does not require reference data"
+}

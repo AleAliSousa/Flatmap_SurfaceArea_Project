@@ -1,0 +1,14 @@
+map_id	roi_index	label	area_pixels	area_calibrated	unit	original_fractional_pixels	pixel_difference_percent	roi_roundtrip_pixels_equal
+fig03A_forelimb	0	rostral_forelimb	11005	11005.0	pixel^2	10990.5625	0.13136270322833796	true
+fig03A_forelimb	1	caudal_forelimb	49254	49254.0	pixel^2	49180.8125	0.14881311690407717	true
+fig03B_forelimb	0	rostral_forelimb	12367	12367.0	pixel^2	12337.8125	0.2365694891213495	true
+fig03B_forelimb	1	caudal_forelimb	53929	53929.0	pixel^2	53818.0625	0.20613432525557754	true
+fig05_forelimb_parallel	0	rostral_forelimb	2411	2411.0	pixel^2	2395.8125	0.6339185558135289	true
+fig05_forelimb_parallel	1	caudal_forelimb	18179	18179.0	pixel^2	18149.3125	0.1635736890860191	true
+fig06A_hindlimb	0	hindlimb	43857	43857.0	pixel^2	43812.5625	0.10142638883539395	true
+fig06B_hindlimb	0	hindlimb	44163	44163.0	pixel^2	44083.8125	0.17962942746841598	true
+fig07_hindlimb_parallel	0	hindlimb	22713	22713.0	pixel^2	22687.5625	0.11212090324820041	true
+fig08A_vibrissae	0	vibrissae	51208	51208.0	pixel^2	51159.8125	0.09419014192047713	true
+fig08B_vibrissae	0	vibrissae	23250	23250.0	pixel^2	23207.0625	0.1850191078685637	true
+fig10A_jaw_lip_tongue	0	jaw_lips_tongue	178406	178406.0	pixel^2	178281.3125	0.06993862578838711	true
+fig10B_jaw_lip_tongue	0	jaw_lips_tongue	96998	96998.0	pixel^2	96886.625	0.11495394746178846	true

@@ -1,0 +1,2 @@
+View fig04_MRI_flatmap_source: calibrated source retained; no defensible field ROI
+{"processed_views": 1, "measured_fields": 0, "unmeasured_fields": 6, "overlaps": [], "native_imagej_roundtrip": "passed", "anatomical_review": "provisional; pending user review", "reference_comparison": "not_run; core workflow does not require reference data"}

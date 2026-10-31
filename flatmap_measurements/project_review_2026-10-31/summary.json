@@ -1,0 +1,48 @@
+{
+  "active_datasets": 44,
+  "active_views": 448,
+  "traced_views": 385,
+  "regional_ROIs": 1860,
+  "explicit_outlines": 17,
+  "grades": {
+    "B": 262,
+    "N": 63,
+    "C": 58,
+    "A": 60,
+    "D": 5
+  },
+  "corrected_regions": 9,
+  "corrected_views": 8,
+  "corrected_papers": 4,
+  "rebuild_validation": [
+    {
+      "paper_id": "Beck_etal_1996",
+      "changed_ROIs": 3,
+      "unaffected_areas_identical": true,
+      "calibration_and_identity_preserved": true,
+      "native_imagej_roundtrip": "passed"
+    },
+    {
+      "paper_id": "Frost_etal_2000",
+      "changed_ROIs": 3,
+      "unaffected_areas_identical": true,
+      "calibration_and_identity_preserved": true,
+      "native_imagej_roundtrip": "passed"
+    },
+    {
+      "paper_id": "Krubitzer_1998",
+      "changed_ROIs": 2,
+      "unaffected_areas_identical": true,
+      "calibration_and_identity_preserved": true,
+      "native_imagej_roundtrip": "passed"
+    },
+    {
+      "paper_id": "Manger_etal_2002",
+      "changed_ROIs": 1,
+      "unaffected_areas_identical": true,
+      "calibration_and_identity_preserved": true,
+      "native_imagej_roundtrip": "passed"
+    }
+  ],
+  "scope": "Active canonical figures only. Historical revisions and archived alternatives excluded; Burman interior pilot is noncanonical and not a full-field estimate."
+}

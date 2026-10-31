@@ -1,0 +1,1218 @@
+[
+  {
+    "file": "Barton_etal_2012_01.jpg",
+    "views": [
+      "fig02_S3_L",
+      "fig02_S4_L",
+      "fig02_S4_R",
+      "fig02_common_scale"
+    ],
+    "paper_id": "Barton_etal_2012"
+  },
+  {
+    "file": "Barton_etal_2012_02.jpg",
+    "views": [
+      "fig03_S1_L",
+      "fig03_S2_L",
+      "fig03_S4_R_repeat_check",
+      "fig03_common_scale"
+    ],
+    "paper_id": "Barton_etal_2012"
+  },
+  {
+    "file": "Beck_Kaas_1998_01.jpg",
+    "views": [
+      "fig03",
+      "fig04",
+      "fig06",
+      "fig07"
+    ],
+    "paper_id": "Beck_Kaas_1998"
+  },
+  {
+    "file": "Beck_Kaas_1998_02.jpg",
+    "views": [
+      "fig09",
+      "fig10",
+      "fig11",
+      "fig12"
+    ],
+    "paper_id": "Beck_Kaas_1998"
+  },
+  {
+    "file": "Beck_etal_1996_01.jpg",
+    "views": [
+      "fig02_92_51",
+      "fig02_92_78",
+      "fig02_93_59",
+      "fig02_93_82"
+    ],
+    "paper_id": "Beck_etal_1996"
+  },
+  {
+    "file": "Beck_etal_1996_02.jpg",
+    "views": [
+      "fig03_92_44",
+      "fig03_92_57",
+      "fig03_93_06",
+      "fig03_93_88"
+    ],
+    "paper_id": "Beck_etal_1996"
+  },
+  {
+    "file": "Beck_etal_1996_03.jpg",
+    "views": [
+      "fig04",
+      "fig05",
+      "fig06",
+      "fig07A"
+    ],
+    "paper_id": "Beck_etal_1996"
+  },
+  {
+    "file": "Beck_etal_1996_04.jpg",
+    "views": [
+      "fig07B",
+      "fig08",
+      "fig09",
+      "fig10A"
+    ],
+    "paper_id": "Beck_etal_1996"
+  },
+  {
+    "file": "Beck_etal_1996_05.jpg",
+    "views": [
+      "fig10B",
+      "fig12A",
+      "fig12B",
+      "fig15"
+    ],
+    "paper_id": "Beck_etal_1996"
+  },
+  {
+    "file": "Beck_etal_1996_06.jpg",
+    "views": [
+      "fig16",
+      "fig17"
+    ],
+    "paper_id": "Beck_etal_1996"
+  },
+  {
+    "file": "Bergeron_etal_2026_01.jpg",
+    "views": [
+      "fig02B_cortical_grid",
+      "fig02D_pig3_top_grid"
+    ],
+    "paper_id": "Bergeron_etal_2026"
+  },
+  {
+    "file": "Bock_etal_2011_01.jpg",
+    "views": [
+      "fig04_MRI_flatmap_source"
+    ],
+    "paper_id": "Bock_etal_2011"
+  },
+  {
+    "file": "Brecht_Freiwald_2012_01.jpg",
+    "views": [
+      "fig03a_human",
+      "fig03b_macaque",
+      "fig03c_mouse",
+      "fig03d_naked_mole_rat"
+    ],
+    "paper_id": "Brecht_Freiwald_2012"
+  },
+  {
+    "file": "Burman_etal_2008_01.jpg",
+    "views": [
+      "fig06A_CJ64",
+      "fig06B_CJ60",
+      "fig06C_CJ61",
+      "fig09A_CJ58R_flatmap"
+    ],
+    "paper_id": "Burman_etal_2008"
+  },
+  {
+    "file": "Catania_Remple_2002_01.jpg",
+    "views": [
+      "fig02_case4",
+      "fig04A_rat",
+      "fig04B_naked_mole_rat"
+    ],
+    "paper_id": "Catania_Remple_2002"
+  },
+  {
+    "file": "Cerkevich_Qi_Kaas_2014_01.jpg",
+    "views": [
+      "fig06_case1",
+      "fig08_case2",
+      "fig11_case3",
+      "fig13_case4"
+    ],
+    "paper_id": "Cerkevich_Qi_Kaas_2014"
+  },
+  {
+    "file": "Dea_etal_2016_01.jpg",
+    "views": [
+      "fig01B_CB8_motor_hand",
+      "fig01C_CB6_motor_hand",
+      "fig01D_CB3_motor_hand",
+      "fig04_CB8_S1_hand"
+    ],
+    "paper_id": "Dea_etal_2016"
+  },
+  {
+    "file": "Dea_etal_2016_02.jpg",
+    "views": [
+      "fig05_CB6_S1_hand",
+      "fig06_CB3_S1_hand"
+    ],
+    "paper_id": "Dea_etal_2016"
+  },
+  {
+    "file": "Felleman_VanEssen_1991_01.jpg",
+    "views": [
+      "fig01",
+      "fig02"
+    ],
+    "paper_id": "Felleman_VanEssen_1991"
+  },
+  {
+    "file": "Frost_etal_2000_01.jpg",
+    "views": [
+      "fig01_9213_sensory",
+      "fig02_9211_sensory",
+      "fig02_9212_sensory",
+      "fig02_9321_sensory"
+    ],
+    "paper_id": "Frost_etal_2000"
+  },
+  {
+    "file": "Frost_etal_2000_02.jpg",
+    "views": [
+      "fig02_9324_sensory",
+      "fig04_9212_distal_forelimb",
+      "fig04_9213_distal_forelimb",
+      "fig04_9321_distal_forelimb"
+    ],
+    "paper_id": "Frost_etal_2000"
+  },
+  {
+    "file": "Frost_etal_2000_03.jpg",
+    "views": [
+      "fig04_9324_distal_forelimb",
+      "fig07_9213_ICMS",
+      "fig08_9208_ICMS",
+      "fig08_9209_ICMS"
+    ],
+    "paper_id": "Frost_etal_2000"
+  },
+  {
+    "file": "Frost_etal_2000_04.jpg",
+    "views": [
+      "fig08_9210_ICMS",
+      "fig08_9211_ICMS",
+      "fig09_9321_low_impedance",
+      "fig10_9316_bipolar"
+    ],
+    "paper_id": "Frost_etal_2000"
+  },
+  {
+    "file": "Frost_etal_2000_05.jpg",
+    "views": [
+      "fig10_9317_bipolar"
+    ],
+    "paper_id": "Frost_etal_2000"
+  },
+  {
+    "file": "Ghosh_1997_01.jpg",
+    "views": [
+      "fig09_case1_motor_fields",
+      "fig10_case2_motor_fields",
+      "fig14_case6",
+      "fig15_case9"
+    ],
+    "paper_id": "Ghosh_1997"
+  },
+  {
+    "file": "Ghosh_1997_02.jpg",
+    "views": [
+      "fig16AB_case7",
+      "fig16CD_case8"
+    ],
+    "paper_id": "Ghosh_1997"
+  },
+  {
+    "file": "Glasser_etal_2016_01.jpg",
+    "views": [
+      "fig03_HCP_parcellation_source"
+    ],
+    "paper_id": "Glasser_etal_2016"
+  },
+  {
+    "file": "Halley_etal_2025_01.jpg",
+    "views": [
+      "fig03A_K22_06",
+      "fig03B_K22_05",
+      "fig04A_K22_04",
+      "fig04B_K22_03"
+    ],
+    "paper_id": "Halley_etal_2025"
+  },
+  {
+    "file": "Hinds_etal_2008_01.jpg",
+    "views": [
+      "fig02_LH1",
+      "fig02_LH2",
+      "fig02_LH3",
+      "fig02_LH4"
+    ],
+    "paper_id": "Hinds_etal_2008"
+  },
+  {
+    "file": "Hinds_etal_2008_02.jpg",
+    "views": [
+      "fig02_LH5",
+      "fig02_RH1",
+      "fig02_RH2",
+      "fig02_RH3"
+    ],
+    "paper_id": "Hinds_etal_2008"
+  },
+  {
+    "file": "Hinds_etal_2008_03.jpg",
+    "views": [
+      "fig02_RH4",
+      "fig02_RH5",
+      "fig02_common_scale"
+    ],
+    "paper_id": "Hinds_etal_2008"
+  },
+  {
+    "file": "Huffman_etal_1999_01.jpg",
+    "views": [
+      "fig02",
+      "fig03",
+      "fig04A",
+      "fig04B"
+    ],
+    "paper_id": "Huffman_etal_1999"
+  },
+  {
+    "file": "Huffman_etal_1999_02.jpg",
+    "views": [
+      "fig05",
+      "fig06",
+      "fig07",
+      "fig08A"
+    ],
+    "paper_id": "Huffman_etal_1999"
+  },
+  {
+    "file": "Huffman_etal_1999_03.jpg",
+    "views": [
+      "fig08B",
+      "fig09",
+      "fig10",
+      "fig11"
+    ],
+    "paper_id": "Huffman_etal_1999"
+  },
+  {
+    "file": "Huffman_etal_1999_04.jpg",
+    "views": [
+      "fig12",
+      "fig14_brush_tailed",
+      "fig14_dunnart",
+      "fig14_north_american"
+    ],
+    "paper_id": "Huffman_etal_1999"
+  },
+  {
+    "file": "Huffman_etal_1999_05.jpg",
+    "views": [
+      "fig14_quoll",
+      "fig14_short_tailed",
+      "fig14_striped",
+      "fig15_quoll"
+    ],
+    "paper_id": "Huffman_etal_1999"
+  },
+  {
+    "file": "Huffman_etal_1999_06.jpg",
+    "views": [
+      "fig15_striped"
+    ],
+    "paper_id": "Huffman_etal_1999"
+  },
+  {
+    "file": "Jung_etal_2021_01.jpg",
+    "views": [
+      "fig05_CHARM_source"
+    ],
+    "paper_id": "Jung_etal_2021"
+  },
+  {
+    "file": "Krubitzer_1995_01.jpg",
+    "views": [
+      "fig01_flying_fox",
+      "fig01_macaque",
+      "fig01_marmoset",
+      "fig01_quoll"
+    ],
+    "paper_id": "Krubitzer_1995"
+  },
+  {
+    "file": "Krubitzer_1995_02.jpg",
+    "views": [
+      "fig01_squirrel",
+      "fig02_ghost_bat",
+      "fig02_platypus",
+      "fig02_star_nosed_mole"
+    ],
+    "paper_id": "Krubitzer_1995"
+  },
+  {
+    "file": "Krubitzer_1995_03.jpg",
+    "views": [
+      "fig03A",
+      "fig03B",
+      "fig03C",
+      "fig03D"
+    ],
+    "paper_id": "Krubitzer_1995"
+  },
+  {
+    "file": "Krubitzer_1995_04.jpg",
+    "views": [
+      "fig03E",
+      "fig03F",
+      "fig04A",
+      "fig04B"
+    ],
+    "paper_id": "Krubitzer_1995"
+  },
+  {
+    "file": "Krubitzer_1995_05.jpg",
+    "views": [
+      "fig04C",
+      "fig04D"
+    ],
+    "paper_id": "Krubitzer_1995"
+  },
+  {
+    "file": "Krubitzer_1998_01.jpg",
+    "views": [
+      "fig02A",
+      "fig02B",
+      "fig03",
+      "fig06"
+    ],
+    "paper_id": "Krubitzer_1998"
+  },
+  {
+    "file": "Krubitzer_1998_02.jpg",
+    "views": [
+      "fig07A",
+      "fig09C",
+      "fig10A",
+      "fig11A"
+    ],
+    "paper_id": "Krubitzer_1998"
+  },
+  {
+    "file": "Krubitzer_1998_03.jpg",
+    "views": [
+      "fig11B",
+      "fig12",
+      "fig13A_summary",
+      "fig13B_summary"
+    ],
+    "paper_id": "Krubitzer_1998"
+  },
+  {
+    "file": "Krubitzer_1998_04.jpg",
+    "views": [
+      "fig14A_summary",
+      "fig14B_summary",
+      "fig14C_summary",
+      "fig14D_summary"
+    ],
+    "paper_id": "Krubitzer_1998"
+  },
+  {
+    "file": "Krubitzer_1998_05.jpg",
+    "views": [
+      "fig14E_summary",
+      "fig14F_summary"
+    ],
+    "paper_id": "Krubitzer_1998"
+  },
+  {
+    "file": "Krubitzer_2009_01.jpg",
+    "views": [
+      "fig04A_normal_mouse",
+      "fig04B_COUPTFI_mouse",
+      "fig04C_platypus",
+      "fig04D_normal_opossum"
+    ],
+    "paper_id": "Krubitzer_2009"
+  },
+  {
+    "file": "Krubitzer_2009_02.jpg",
+    "views": [
+      "fig04E_enucleated_opossum",
+      "fig05A_wildtype_mouse",
+      "fig05B_deaf_mouse",
+      "fig05C_normal_opossum"
+    ],
+    "paper_id": "Krubitzer_2009"
+  },
+  {
+    "file": "Krubitzer_2009_03.jpg",
+    "views": [
+      "fig05D_enucleated_opossum",
+      "fig07_macaque",
+      "fig07_mouse"
+    ],
+    "paper_id": "Krubitzer_2009"
+  },
+  {
+    "file": "Krubitzer_Dooley_2013_01.jpg",
+    "views": [
+      "fig01_macaque",
+      "fig01_mouse",
+      "fig02_capybara",
+      "fig02_ground_squirrel"
+    ],
+    "paper_id": "Krubitzer_Dooley_2013"
+  },
+  {
+    "file": "Krubitzer_Dooley_2013_02.jpg",
+    "views": [
+      "fig02_guinea_pig",
+      "fig02_squirrel_monkey",
+      "fig06C_bat",
+      "fig06C_mouse"
+    ],
+    "paper_id": "Krubitzer_Dooley_2013"
+  },
+  {
+    "file": "Krubitzer_Dooley_2013_03.jpg",
+    "views": [
+      "fig07A_platypus",
+      "fig07B_star_nosed_mole",
+      "fig07C_raccoon",
+      "fig07D_naked_mole_rat"
+    ],
+    "paper_id": "Krubitzer_Dooley_2013"
+  },
+  {
+    "file": "Krubitzer_Dooley_2013_04.jpg",
+    "views": [
+      "fig08A_enucleated_opossum",
+      "fig08A_normal_opossum"
+    ],
+    "paper_id": "Krubitzer_Dooley_2013"
+  },
+  {
+    "file": "Krubitzer_Kaas_1990_01.jpg",
+    "views": [
+      "fig01flat",
+      "fig02A",
+      "fig02B",
+      "fig02C"
+    ],
+    "paper_id": "Krubitzer_Kaas_1990"
+  },
+  {
+    "file": "Krubitzer_Kaas_1990_02.jpg",
+    "views": [
+      "fig02D",
+      "fig02E",
+      "fig04A",
+      "fig04B"
+    ],
+    "paper_id": "Krubitzer_Kaas_1990"
+  },
+  {
+    "file": "Krubitzer_Kaas_1990_03.jpg",
+    "views": [
+      "fig04C",
+      "fig04D",
+      "fig04E",
+      "fig04F"
+    ],
+    "paper_id": "Krubitzer_Kaas_1990"
+  },
+  {
+    "file": "Krubitzer_Kaas_1990_04.jpg",
+    "views": [
+      "fig04G",
+      "fig04H",
+      "fig06A",
+      "fig06B"
+    ],
+    "paper_id": "Krubitzer_Kaas_1990"
+  },
+  {
+    "file": "Krubitzer_Kaas_1990_05.jpg",
+    "views": [
+      "fig06C",
+      "fig06D",
+      "fig09G",
+      "fig10A"
+    ],
+    "paper_id": "Krubitzer_Kaas_1990"
+  },
+  {
+    "file": "Krubitzer_Kaas_1990_06.jpg",
+    "views": [
+      "fig10B",
+      "fig10C",
+      "fig10D",
+      "fig10E"
+    ],
+    "paper_id": "Krubitzer_Kaas_1990"
+  },
+  {
+    "file": "Krubitzer_Kaas_1990_07.jpg",
+    "views": [
+      "fig10F",
+      "fig11A",
+      "fig11B",
+      "fig11C"
+    ],
+    "paper_id": "Krubitzer_Kaas_1990"
+  },
+  {
+    "file": "Krubitzer_Kaas_1990_08.jpg",
+    "views": [
+      "fig11D",
+      "fig12",
+      "fig13",
+      "fig14"
+    ],
+    "paper_id": "Krubitzer_Kaas_1990"
+  },
+  {
+    "file": "Krubitzer_Kaas_1990_09.jpg",
+    "views": [
+      "fig15",
+      "fig16",
+      "fig17",
+      "fig18"
+    ],
+    "paper_id": "Krubitzer_Kaas_1990"
+  },
+  {
+    "file": "Krubitzer_Kaas_1990_10.jpg",
+    "views": [
+      "fig19",
+      "fig20",
+      "fig21",
+      "fig22"
+    ],
+    "paper_id": "Krubitzer_Kaas_1990"
+  },
+  {
+    "file": "Krubitzer_Kaas_1990_11.jpg",
+    "views": [
+      "fig23",
+      "fig24",
+      "fig25A",
+      "fig25B"
+    ],
+    "paper_id": "Krubitzer_Kaas_1990"
+  },
+  {
+    "file": "Krubitzer_Kaas_1990_12.jpg",
+    "views": [
+      "fig25C",
+      "fig25D",
+      "fig25E",
+      "fig26A"
+    ],
+    "paper_id": "Krubitzer_Kaas_1990"
+  },
+  {
+    "file": "Krubitzer_Kaas_1990_13.jpg",
+    "views": [
+      "fig26B",
+      "fig26C",
+      "fig26D",
+      "fig27galago"
+    ],
+    "paper_id": "Krubitzer_Kaas_1990"
+  },
+  {
+    "file": "Krubitzer_Kaas_1990_14.jpg",
+    "views": [
+      "fig27marmoset",
+      "fig27owl",
+      "fig27squirrel",
+      "fig28"
+    ],
+    "paper_id": "Krubitzer_Kaas_1990"
+  },
+  {
+    "file": "Krubitzer_Kaas_1993_01.jpg",
+    "views": [
+      "fig01_summary",
+      "fig02A_cortex",
+      "fig02B_cortex",
+      "fig02C_cortex"
+    ],
+    "paper_id": "Krubitzer_Kaas_1993"
+  },
+  {
+    "file": "Krubitzer_Kaas_1993_02.jpg",
+    "views": [
+      "fig03",
+      "fig05",
+      "fig06",
+      "fig11A"
+    ],
+    "paper_id": "Krubitzer_Kaas_1993"
+  },
+  {
+    "file": "Krubitzer_Kaas_1993_03.jpg",
+    "views": [
+      "fig11B",
+      "fig12A",
+      "fig12B",
+      "fig12C"
+    ],
+    "paper_id": "Krubitzer_Kaas_1993"
+  },
+  {
+    "file": "Krubitzer_Kaas_1993_04.jpg",
+    "views": [
+      "fig13",
+      "fig14",
+      "fig15",
+      "fig16"
+    ],
+    "paper_id": "Krubitzer_Kaas_1993"
+  },
+  {
+    "file": "Krubitzer_Kaas_1993_05.jpg",
+    "views": [
+      "fig17",
+      "fig18",
+      "fig19",
+      "fig20"
+    ],
+    "paper_id": "Krubitzer_Kaas_1993"
+  },
+  {
+    "file": "Krubitzer_Prescott_2018_01.jpg",
+    "views": [
+      "fig02_opossum",
+      "fig04_blind_mole_rat",
+      "fig08C_bat",
+      "fig08C_mouse"
+    ],
+    "paper_id": "Krubitzer_Prescott_2018"
+  },
+  {
+    "file": "Krubitzer_Prescott_2018_02.jpg",
+    "views": [
+      "fig09A_enucleated_opossum",
+      "fig09A_normal_opossum"
+    ],
+    "paper_id": "Krubitzer_Prescott_2018"
+  },
+  {
+    "file": "Krubitzer_etal_1993_01.jpg",
+    "views": [
+      "fig04_local",
+      "fig05",
+      "fig06_local",
+      "fig07"
+    ],
+    "paper_id": "Krubitzer_etal_1993"
+  },
+  {
+    "file": "Krubitzer_etal_1993_02.jpg",
+    "views": [
+      "fig08_local",
+      "fig09",
+      "fig10A_local",
+      "fig10B_local"
+    ],
+    "paper_id": "Krubitzer_etal_1993"
+  },
+  {
+    "file": "Krubitzer_etal_1993_03.jpg",
+    "views": [
+      "fig10_local",
+      "fig12A",
+      "fig12B",
+      "fig14A"
+    ],
+    "paper_id": "Krubitzer_etal_1993"
+  },
+  {
+    "file": "Krubitzer_etal_1993_04.jpg",
+    "views": [
+      "fig14B",
+      "fig15_local",
+      "fig16",
+      "fig17_local"
+    ],
+    "paper_id": "Krubitzer_etal_1993"
+  },
+  {
+    "file": "Krubitzer_etal_1993_05.jpg",
+    "views": [
+      "fig18A",
+      "fig18B",
+      "fig19",
+      "fig21A_summary"
+    ],
+    "paper_id": "Krubitzer_etal_1993"
+  },
+  {
+    "file": "Krubitzer_etal_1993_06.jpg",
+    "views": [
+      "fig21B_summary",
+      "fig21C_summary",
+      "fig21D_summary"
+    ],
+    "paper_id": "Krubitzer_etal_1993"
+  },
+  {
+    "file": "Krubitzer_etal_1995_01.jpg",
+    "views": [
+      "fig02",
+      "fig03",
+      "fig04",
+      "fig05"
+    ],
+    "paper_id": "Krubitzer_etal_1995"
+  },
+  {
+    "file": "Krubitzer_etal_1995_02.jpg",
+    "views": [
+      "fig06_local",
+      "fig07_local",
+      "fig08",
+      "fig09_local"
+    ],
+    "paper_id": "Krubitzer_etal_1995"
+  },
+  {
+    "file": "Krubitzer_etal_1995_03.jpg",
+    "views": [
+      "fig12A",
+      "fig12B",
+      "fig13_local",
+      "fig14"
+    ],
+    "paper_id": "Krubitzer_etal_1995"
+  },
+  {
+    "file": "Krubitzer_etal_1995_04.jpg",
+    "views": [
+      "fig15",
+      "fig16_local",
+      "fig17_local",
+      "fig18"
+    ],
+    "paper_id": "Krubitzer_etal_1995"
+  },
+  {
+    "file": "Krubitzer_etal_1995_05.jpg",
+    "views": [
+      "fig19",
+      "fig20_local",
+      "fig21A",
+      "fig21B"
+    ],
+    "paper_id": "Krubitzer_etal_1995"
+  },
+  {
+    "file": "Krubitzer_etal_1995_06.jpg",
+    "views": [
+      "fig22A",
+      "fig22B",
+      "fig23"
+    ],
+    "paper_id": "Krubitzer_etal_1995"
+  },
+  {
+    "file": "Krubitzer_etal_1997_01.jpg",
+    "views": [
+      "fig02B",
+      "fig03",
+      "fig04",
+      "fig05"
+    ],
+    "paper_id": "Krubitzer_etal_1997"
+  },
+  {
+    "file": "Krubitzer_etal_1997_02.jpg",
+    "views": [
+      "fig06",
+      "fig07",
+      "fig08"
+    ],
+    "paper_id": "Krubitzer_etal_1997"
+  },
+  {
+    "file": "Luethke_etal_1988_01.jpg",
+    "views": [
+      "fig01inset",
+      "fig02inset",
+      "fig03",
+      "fig03inset"
+    ],
+    "paper_id": "Luethke_etal_1988"
+  },
+  {
+    "file": "Luethke_etal_1988_02.jpg",
+    "views": [
+      "fig05",
+      "fig06",
+      "fig07",
+      "fig08"
+    ],
+    "paper_id": "Luethke_etal_1988"
+  },
+  {
+    "file": "Luethke_etal_1988_03.jpg",
+    "views": [
+      "fig09",
+      "fig10",
+      "fig12",
+      "fig13"
+    ],
+    "paper_id": "Luethke_etal_1988"
+  },
+  {
+    "file": "Luethke_etal_1988_04.jpg",
+    "views": [
+      "fig14",
+      "fig15"
+    ],
+    "paper_id": "Luethke_etal_1988"
+  },
+  {
+    "file": "Luethke_etal_1989_01.jpg",
+    "views": [
+      "fig02_87-22",
+      "fig02_87-44",
+      "fig03_right",
+      "fig04_photo"
+    ],
+    "paper_id": "Luethke_etal_1989"
+  },
+  {
+    "file": "Luethke_etal_1989_02.jpg",
+    "views": [
+      "fig05_panel1",
+      "fig05_panel2",
+      "fig05_panel3",
+      "fig05_panel4"
+    ],
+    "paper_id": "Luethke_etal_1989"
+  },
+  {
+    "file": "Luethke_etal_1989_03.jpg",
+    "views": [
+      "fig06_panel1",
+      "fig06_panel2",
+      "fig06_panel3",
+      "fig06_panel4"
+    ],
+    "paper_id": "Luethke_etal_1989"
+  },
+  {
+    "file": "Luethke_etal_1989_04.jpg",
+    "views": [
+      "fig07_left",
+      "fig07_left_zoom",
+      "fig08_panel1",
+      "fig08_panel2"
+    ],
+    "paper_id": "Luethke_etal_1989"
+  },
+  {
+    "file": "Luethke_etal_1989_05.jpg",
+    "views": [
+      "fig08_panel3",
+      "fig08_panel4",
+      "fig10_A"
+    ],
+    "paper_id": "Luethke_etal_1989"
+  },
+  {
+    "file": "Lyon_etal_1998_01.jpg",
+    "views": [
+      "fig04_A",
+      "fig04_B",
+      "fig07_main",
+      "fig08_A"
+    ],
+    "paper_id": "Lyon_etal_1998"
+  },
+  {
+    "file": "Lyon_etal_1998_02.jpg",
+    "views": [
+      "fig08_B",
+      "fig09_A",
+      "fig09_B",
+      "fig09_C"
+    ],
+    "paper_id": "Lyon_etal_1998"
+  },
+  {
+    "file": "Lyon_etal_1998_03.jpg",
+    "views": [
+      "fig09_D",
+      "fig10_A",
+      "fig10_B",
+      "fig11_A"
+    ],
+    "paper_id": "Lyon_etal_1998"
+  },
+  {
+    "file": "Lyon_etal_1998_04.jpg",
+    "views": [
+      "fig11_B",
+      "fig12_A",
+      "fig12_B",
+      "fig13_A"
+    ],
+    "paper_id": "Lyon_etal_1998"
+  },
+  {
+    "file": "Lyon_etal_1998_05.jpg",
+    "views": [
+      "fig13_B",
+      "fig13_C",
+      "fig14_A",
+      "fig14_B"
+    ],
+    "paper_id": "Lyon_etal_1998"
+  },
+  {
+    "file": "Manger_etal_2002_01.jpg",
+    "views": [
+      "fig01",
+      "fig02",
+      "fig06left",
+      "fig06right"
+    ],
+    "paper_id": "Manger_etal_2002"
+  },
+  {
+    "file": "Manger_etal_2002_02.jpg",
+    "views": [
+      "fig11"
+    ],
+    "paper_id": "Manger_etal_2002"
+  },
+  {
+    "file": "Mayer_etal_2019_01.jpg",
+    "views": [
+      "fig01A_case15_01",
+      "fig01B_case15_04",
+      "fig02A_case15_02",
+      "fig02B_case15_03"
+    ],
+    "paper_id": "Mayer_etal_2019"
+  },
+  {
+    "file": "Mayer_etal_2019_02.jpg",
+    "views": [
+      "fig05A_case15_01",
+      "fig05B_case15_03",
+      "fig05C_case15_04",
+      "fig05D_case15_02"
+    ],
+    "paper_id": "Mayer_etal_2019"
+  },
+  {
+    "file": "Neafsey_etal_1986_01.jpg",
+    "views": [
+      "fig03A_forelimb",
+      "fig03B_forelimb",
+      "fig05_forelimb_parallel",
+      "fig06A_hindlimb"
+    ],
+    "paper_id": "Neafsey_etal_1986"
+  },
+  {
+    "file": "Neafsey_etal_1986_02.jpg",
+    "views": [
+      "fig06B_hindlimb",
+      "fig07_hindlimb_parallel",
+      "fig08A_vibrissae",
+      "fig08B_vibrissae"
+    ],
+    "paper_id": "Neafsey_etal_1986"
+  },
+  {
+    "file": "Neafsey_etal_1986_03.jpg",
+    "views": [
+      "fig10A_jaw_lip_tongue",
+      "fig10B_jaw_lip_tongue"
+    ],
+    "paper_id": "Neafsey_etal_1986"
+  },
+  {
+    "file": "Preuss_Kaas_1996_01.jpg",
+    "views": [
+      "fig02_left",
+      "fig03_A_photo",
+      "fig05_photo"
+    ],
+    "paper_id": "Preuss_Kaas_1996"
+  },
+  {
+    "file": "Preuss_etal_1993_01.jpg",
+    "views": [
+      "fig02_schematic",
+      "fig03_photo",
+      "fig04_photo",
+      "fig05_right"
+    ],
+    "paper_id": "Preuss_etal_1993"
+  },
+  {
+    "file": "Preuss_etal_1993_02.jpg",
+    "views": [
+      "fig06_right",
+      "fig07_photo"
+    ],
+    "paper_id": "Preuss_etal_1993"
+  },
+  {
+    "file": "Remple_etal_2006_01.jpg",
+    "views": [
+      "fig07A_320_sensory",
+      "fig07B_320_S1_subregions",
+      "fig08A_310R_S1",
+      "fig08C_320L_S1"
+    ],
+    "paper_id": "Remple_etal_2006"
+  },
+  {
+    "file": "Rosa_etal_1993_01.jpg",
+    "views": [
+      "fig03C_schematic",
+      "fig05A_case1",
+      "fig06A_case2",
+      "fig07A_case3"
+    ],
+    "paper_id": "Rosa_etal_1993"
+  },
+  {
+    "file": "Rosa_etal_1993_02.jpg",
+    "views": [
+      "fig08A_case4",
+      "fig09A_case5",
+      "fig10A_case6",
+      "fig11_schematic"
+    ],
+    "paper_id": "Rosa_etal_1993"
+  },
+  {
+    "file": "SanchezPanchuelo_etal_2018_01.jpg",
+    "views": [
+      "fig02_M1_right",
+      "fig02_M5_left"
+    ],
+    "paper_id": "SanchezPanchuelo_etal_2018"
+  },
+  {
+    "file": "Slutsky_etal_2000_01.jpg",
+    "views": [
+      "fig01A",
+      "fig01B",
+      "fig02",
+      "fig03"
+    ],
+    "paper_id": "Slutsky_etal_2000"
+  },
+  {
+    "file": "Slutsky_etal_2000_02.jpg",
+    "views": [
+      "fig04",
+      "fig05",
+      "fig06",
+      "fig07"
+    ],
+    "paper_id": "Slutsky_etal_2000"
+  },
+  {
+    "file": "Slutsky_etal_2000_03.jpg",
+    "views": [
+      "fig08",
+      "fig09",
+      "fig10",
+      "fig11"
+    ],
+    "paper_id": "Slutsky_etal_2000"
+  },
+  {
+    "file": "Slutsky_etal_2000_04.jpg",
+    "views": [
+      "fig12",
+      "fig13"
+    ],
+    "paper_id": "Slutsky_etal_2000"
+  },
+  {
+    "file": "VanEssen_2005_01.jpg",
+    "views": [
+      "fig09A_Brodmann",
+      "fig09B_visuotopic_orbitofrontal"
+    ],
+    "paper_id": "VanEssen_2005"
+  },
+  {
+    "file": "VanEssen_Drury_1997_01.jpg",
+    "views": [
+      "fig03_left",
+      "fig03_right",
+      "fig09_D",
+      "fig10_D"
+    ],
+    "paper_id": "VanEssen_Drury_1997"
+  },
+  {
+    "file": "VanEssen_Drury_1997_02.jpg",
+    "views": [
+      "fig13_C"
+    ],
+    "paper_id": "VanEssen_Drury_1997"
+  },
+  {
+    "file": "Wilkinson_2021_01.jpg",
+    "views": [
+      "fig04_human"
+    ],
+    "paper_id": "Wilkinson_2021"
+  },
+  {
+    "file": "Willoughby_etal_2021_01.jpg",
+    "views": [
+      "fig04_subjectA",
+      "fig04_subjectB",
+      "fig04_subjectC",
+      "fig04_subjectD"
+    ],
+    "paper_id": "Willoughby_etal_2021"
+  },
+  {
+    "file": "Willoughby_etal_2021_02.jpg",
+    "views": [
+      "fig04_subjectE",
+      "fig04_subjectF"
+    ],
+    "paper_id": "Willoughby_etal_2021"
+  }
+]

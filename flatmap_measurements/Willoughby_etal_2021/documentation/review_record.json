@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-31",
+  "scope": "Brecht-target fields in supplied main-text PDFs",
+  "source_and_overlay_views_inspected": [
+    "fig04_subjectA",
+    "fig04_subjectF",
+    "fig04_subjectE",
+    "fig04_subjectB",
+    "fig04_subjectC",
+    "fig04_subjectD"
+  ],
+  "anatomical_status": "provisional_pending_domain_review",
+  "inventory_complete_for_scope": true,
+  "whole_neocortex_denominator_available": false,
+  "native_imagej_roundtrip": "passed",
+  "notes": "Every target overlay inspected; missing and out-of-scope regions documented. Native checks are file/geometry checks, not anatomical certification."
+}

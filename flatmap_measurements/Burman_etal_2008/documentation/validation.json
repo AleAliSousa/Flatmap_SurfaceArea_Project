@@ -1,0 +1,88 @@
+{
+  "processed_views": 4,
+  "measured_fields": 24,
+  "unmeasured_fields": 46,
+  "overlaps": [
+    {
+      "map_id": "fig06A_CJ64",
+      "field_a": "M1_dorsal_projection",
+      "field_b": "M1_face_dorsal_component",
+      "overlap_pixels": 10795
+    },
+    {
+      "map_id": "fig06B_CJ60",
+      "field_a": "M1_dorsal_projection",
+      "field_b": "M1_face_dorsal_component",
+      "overlap_pixels": 11988
+    },
+    {
+      "map_id": "fig06C_CJ61",
+      "field_a": "M1_dorsal_projection",
+      "field_b": "M1_face_dorsal_component",
+      "overlap_pixels": 4611
+    },
+    {
+      "map_id": "fig09A_CJ58R_flatmap",
+      "field_a": "V1",
+      "field_b": "V2",
+      "overlap_pixels": 280
+    },
+    {
+      "map_id": "fig09A_CJ58R_flatmap",
+      "field_a": "V2",
+      "field_b": "DM",
+      "overlap_pixels": 55
+    },
+    {
+      "map_id": "fig09A_CJ58R_flatmap",
+      "field_a": "M1_dorsal_component",
+      "field_b": "3a",
+      "overlap_pixels": 31
+    },
+    {
+      "map_id": "fig09A_CJ58R_flatmap",
+      "field_a": "3a",
+      "field_b": "3b",
+      "overlap_pixels": 43
+    },
+    {
+      "map_id": "fig09A_CJ58R_flatmap",
+      "field_a": "A1",
+      "field_b": "CM",
+      "overlap_pixels": 4
+    },
+    {
+      "map_id": "fig09A_CJ58R_flatmap",
+      "field_a": "TF",
+      "field_b": "TH",
+      "overlap_pixels": 21
+    },
+    {
+      "map_id": "fig09A_CJ58R_flatmap",
+      "field_a": "TF",
+      "field_b": "36",
+      "overlap_pixels": 6
+    },
+    {
+      "map_id": "fig09A_CJ58R_flatmap",
+      "field_a": "TH",
+      "field_b": "ER",
+      "overlap_pixels": 10
+    },
+    {
+      "map_id": "fig09A_CJ58R_flatmap",
+      "field_a": "TH",
+      "field_b": "36",
+      "overlap_pixels": 7
+    },
+    {
+      "map_id": "fig09A_CJ58R_flatmap",
+      "field_a": "DM",
+      "field_b": "DA",
+      "overlap_pixels": 14
+    }
+  ],
+  "native_imagej_roundtrip": "passed",
+  "anatomical_review": "rejected_pending_retrace: file integrity is not anatomical validation",
+  "reference_comparison": "not_run; core workflow does not require reference data"
+}

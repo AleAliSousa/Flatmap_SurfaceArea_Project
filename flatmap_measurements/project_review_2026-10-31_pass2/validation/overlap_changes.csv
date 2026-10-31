@@ -1,0 +1,5 @@
+paper_id,map_id,field_a,field_b,before_interior_overlap_px,after_interior_overlap_px,change_px
+Burman_etal_2008,fig09A_CJ58R_flatmap,V1,V2,0,15,15
+Remple_etal_2006,fig07A_320_sensory,S1_3b,S2_PV_modules,0,4,4
+Remple_etal_2006,fig08A_310R_S1,S1_3b,S1_face_oral,27404,27404,0
+Remple_etal_2006,fig08C_320L_S1,S1_3b,S1_face_oral,24887,24887,0

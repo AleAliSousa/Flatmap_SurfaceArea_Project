@@ -1,0 +1,7 @@
+Figure fig01B_CB8_motor_hand: 3 selections, TIFF calibration and all pixels verified
+Figure fig01C_CB6_motor_hand: 3 selections, TIFF calibration and all pixels verified
+Figure fig01D_CB3_motor_hand: 3 selections, TIFF calibration and all pixels verified
+Figure fig04_CB8_S1_hand: 2 selections, TIFF calibration and all pixels verified
+Figure fig05_CB6_S1_hand: 2 selections, TIFF calibration and all pixels verified
+Figure fig06_CB3_S1_hand: 2 selections, TIFF calibration and all pixels verified
+{"processed_views": 6, "measured_fields": 15, "unmeasured_fields": 24, "overlaps": [{"map_id": "fig04_CB8_S1_hand", "field_a": "area1_hand", "field_b": "area2_hand", "overlap_pixels": 67}, {"map_id": "fig05_CB6_S1_hand", "field_a": "area1_hand", "field_b": "area2_hand", "overlap_pixels": 94}, {"map_id": "fig06_CB3_S1_hand", "field_a": "area1_hand", "field_b": "area2_hand", "overlap_pixels": 60}], "native_imagej_roundtrip": "passed", "anatomical_review": "provisional; pending user review", "reference_comparison": "not_run; core workflow does not require reference data"}

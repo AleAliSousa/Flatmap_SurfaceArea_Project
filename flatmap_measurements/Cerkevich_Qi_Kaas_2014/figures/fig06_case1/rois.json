@@ -1,0 +1,219 @@
+{
+  "map_id": "fig06_case1",
+  "figure": "6",
+  "panel": "A",
+  "pdf_page": 9,
+  "printed_page": "554",
+  "species": "Macaca radiata",
+  "specimen": "case1",
+  "hemisphere": "not_explicitly_resolved",
+  "view_type": "individual_flattened_partial_cortex",
+  "hemisphere_relation": "",
+  "linked_main_map": "",
+  "repeat_of": "",
+  "relationship_note": "Same case as Fig.5 and other tracer maps in this paper; companion Cerkevich et al.2013 uses these animals. Not independent repeat observations.",
+  "specimen_link_status": "source_labels_preserved",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 3,
+  "crop_xyxy": [
+    180,
+    200,
+    1620,
+    1730
+  ],
+  "scale_endpoints_px": [
+    [
+      113.5,
+      1455
+    ],
+    [
+      253.5,
+      1455
+    ]
+  ],
+  "scale_length_mm": 5,
+  "scale_note": "Same-figure printed scale; 2D figure area, no shrinkage or distortion correction.",
+  "scale_reference_map": "",
+  "outline": null,
+  "rois": [
+    {
+      "label": "3b_face_plus_oral",
+      "polygons": [
+        [
+          [
+            672,
+            251
+          ],
+          [
+            695,
+            264
+          ],
+          [
+            722,
+            279
+          ],
+          [
+            750,
+            290
+          ],
+          [
+            790,
+            299
+          ],
+          [
+            830,
+            303
+          ],
+          [
+            861,
+            303
+          ],
+          [
+            885,
+            302
+          ],
+          [
+            867,
+            326
+          ],
+          [
+            844,
+            352
+          ],
+          [
+            818,
+            381
+          ],
+          [
+            791,
+            408
+          ],
+          [
+            764,
+            440
+          ],
+          [
+            741,
+            469
+          ],
+          [
+            727,
+            496
+          ],
+          [
+            721,
+            525
+          ],
+          [
+            721,
+            564
+          ],
+          [
+            721,
+            596
+          ],
+          [
+            720,
+            619
+          ],
+          [
+            688,
+            612
+          ],
+          [
+            660,
+            611
+          ],
+          [
+            633,
+            616
+          ],
+          [
+            613,
+            624
+          ],
+          [
+            595,
+            636
+          ],
+          [
+            585,
+            651
+          ],
+          [
+            554,
+            658
+          ],
+          [
+            535,
+            659
+          ],
+          [
+            530,
+            652
+          ],
+          [
+            530,
+            630
+          ],
+          [
+            534,
+            600
+          ],
+          [
+            542,
+            570
+          ],
+          [
+            558,
+            535
+          ],
+          [
+            577,
+            502
+          ],
+          [
+            599,
+            473
+          ],
+          [
+            614,
+            443
+          ],
+          [
+            621,
+            412
+          ],
+          [
+            624,
+            384
+          ],
+          [
+            637,
+            347
+          ],
+          [
+            653,
+            304
+          ]
+        ]
+      ],
+      "extent": "complete_drawn_field",
+      "boundary_note": "Full lateral 3b envelope below the hand\u2013face septum. HFB checked against Fig.5. Includes internal myelin modules, recording sites and tracer patches. Short continuations under cell symbols interpolated along visible boundary. This is not skin-face alone or 3a+3b."
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "3b_external_face_only",
+      "status": "not_measurable",
+      "reason": "Recording sites and myelin modules do not form a complete closed skin-face versus oral-cavity partition."
+    },
+    {
+      "label": "3a_plus_3b_face",
+      "status": "not_measurable",
+      "reason": "No complete 3a facial boundary/hand-face partition is identified."
+    }
+  ],
+  "supersample": 4
+}

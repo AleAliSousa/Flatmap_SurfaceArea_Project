@@ -1,0 +1,9 @@
+{
+  "processed_views": 1,
+  "measured_fields": 0,
+  "unmeasured_fields": 9,
+  "overlaps": [],
+  "native_imagej_roundtrip": "passed",
+  "anatomical_review": "All exported source/tracing pairs inspected; manual boundaries remain provisional and await domain review.",
+  "reference_comparison": "Not performed; no matched numeric reference used."
+}

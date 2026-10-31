@@ -1,0 +1,707 @@
+
+===== PDF PAGE 1 =====
+SHORT REPORT
+Control of Movement
+Characterization of limb representation in the pig ’s motor cortex
+David Bergeron, 1 Hugo Delivet-Mongrain, 2,3
+ Marco Bonizzato, 2,3,4,5 and Marina Martinez 2,3
+1Division of Neurosurgery, Universit /C19e de Montr /C19eal, Montr/C19eal, Quebec, Canada; 2D/C19epartement de Neurosciences, Universit /C19e
+de Montr/C19eal, Montr/C19eal, Quebec, Canada; 3Centre interdisciplinaire de recherche sur le cerveau et l ’apprentissage (CIRCA)
+and Institut Courtois d ’innovation biom/C19edicale (CI2B), Universit /C19e de Montr /C19eal, Montr/C19eal, Quebec, Canada; 4Department of
+Electrical Engineering and Institute of Biomedical Engineering, Polytechnique Montr /C19eal, Montr/C19eal, Quebec, Canada; and
+5Mila - Qu /C19ebec AI Institute, Montreal, Quebec, Canada
+Abstract
+Due to its large gyrencephalic brain, the pig is increasingly used for neuroscience research, especially for the preclinical testing
+of novel neuroprostheses. However, our understanding of the pig ’s motor system remains limited compared with the common
+species used for neuroscience research. Here, we aimed to characterize the forelimb and hindlimb representation of the pig
+motor cortex using intracortical microstimulation (ICMS). Three domestic pigs ( Sus scrofa ) were placed in a modi ﬁed stereotactic
+frame and maintained under intravenous propofol sedation. We mapped the motor cortex using ICMS, applied at varying cortical
+coordinates and depths. For each site, we recorded the electrode depth eliciting the maximal limb response and determined the
+motor threshold. Responses were assessed visually and via electromyographic recordings. ICMS uncovered a large forelimb rep-
+resentation, with stereotypical contralateral responses. Conversely, the hindlimb representation was smaller and located within
+the interhemispheric ﬁssure. The mean threshold of the ﬁve most responsive forelimb sites was 75 ± 25 μA, compared with
+280 ± 45 μA for hindlimb sites ( P < 0.01). A summation of stimulations in the hindlimb representation of the motor cortex unilater-
+ally triggered bilateral alternating hindlimb movements. These results suggest that while the porcine cortex can directly com-
+mand forelimb movements via the corticospinal pathway, cortical control of hindlimb likely relies on polysynaptic pathways
+through the brainstem, such as the corticoreticulospinal pathway.
+NEW & NOTEWORTHY We identi ﬁed a limited hindlimb representation on the medial surface of the pig motor cortex that, when
+repeatedly stimulated, produced bilateral alternating hindlimb movements. This suggests that the cortical control of hindlimb
+likely relies on polysynaptic pathways through the brainstem, such as the corticoreticulospinal pathway.
+intracortical microstimulation; motor cortex; neuroprosthesis; pig
+INTRODUCTION
+Rodents and nonhuman primates have long been the pre-
+dominant animal models in neuroscience. The pig ( Sus
+scrofa) is increasingly recognized as a valuable preclinical
+model for neuroscience research and neuroprosthesis bio-
+compatibility testing ( 1, 2). The gyrencephalic pig brain
+shares closer anatomical ( 3, 4) and developmental ( 5) simi-
+larities with the human brain than commonly used small
+laboratory animals and has long been used in other medical
+ﬁelds, such as cardiology and transplantation, due to their
+similarity to humans in anatomical size and structure, physi-
+ology, and immunology (6).
+To date, pigs have been used in preclinical studies for
+various neuroprosthetic devices, including deep brain
+stimulation (DBS) ( 7–9), vagus nerve stimulation ( 10), epi-
+d u r a ls p i n a lc o r ds t i m u l a t i o n(11, 12), intradural spinal
+cord stimulation ( 13–18), and chronic cortical recordings
+with electrocorticographic ( 19) and micro-electrode arrays
+(20). Notably, pigs serve as the main preclinical model for
+biocompatibility testing of novel brain-machine interfa-
+ces, used by companies like Neuralink (Austin) ( 21)a n d
+Precision Medicine (New York) ( 22). Porcine models have
+also been developed for a range of nervous system disor-
+ders, including stroke ( 23, 24) and spinal cord injury (SCI)
+(25–30).
+Correspondence: D. Bergeron (david.bergeron.1@umontreal.ca).
+Submitted 24 February 2026 / Revised 25 March 2026 / Accepted 11 May 2026
+1602 0022-3077/26 Copyright © 2026 The Authors. Licensed under Creative Commons Attribution CC-BY 4.0 .
+Published by the American Physiological Society.
+J Neurophysiol 135: 1602–1610, 2026.
+First published May 19, 2026; doi: 10.1152/jn.00056.2026
+Downloaded from journals.physiology.org/journal/jn at The Library | University of Bath (138.038.093.065) on October 31, 2026.
+
+===== PDF PAGE 2 =====
+Building on our previous work in rodent and feline mod-
+els, where we developed a neuroprosthesis delivering
+intracortical microstimulation (ICMS) in synchrony with
+locomotion to modulate movements and improve motor
+recovery after SCI ( 31–35), we aimed to test the feasibility of
+studying cortical neuroprostheses on that model. Although
+the functional anatomy of the porcine spinal cord and
+nerve roots is well characterized ( 36, 37), the cortical repre-
+sentation of the pig hindlimb remains poorly de ﬁned.
+Transcranial electrical stimulation can generate hindlimb
+movements ( 38, 39), but less robustly than forelimb
+responses. The only prior ICMS studies in pigs date back to
+1966 ( 40)a n d1 9 8 6( 41), with minimal description of the
+hindlimb representation. Moreover, tracing studies sug-
+gest that the porcine corticospinal tract does not extend
+beyond the cervico-thoracic levels ( 42–44), implying that
+hindlimb responses to cortical stimulation may rely pre-
+dominantly on polysynaptic pathways.
+In this study, we used ICMS to derive cortical motor
+maps in three anesthetized pigs, enabling a detailed char-
+acterization of both the hindlimb and forelimb motor
+representations.
+MATERIALS AND METHODS
+Animals
+All procedures adhered to the Canadian Council on
+Animal Care guidelines and were approved by the Comit /C19e
+d’/C19Ethique et de l ’Exp/C19erimentation Animale (CEEA; animal
+ethics committee) at Hôpital du Sacr /C19e-Coeur de Montr /C19eal.
+Experiments were conducted on domestic pigs ( Sus scrofa )
+purchased from Ferme G/C19erard Riopel. Three female pigs (2 –
+2.5 mo old, weighing 21, 23, and 24 kg) were used. Animals
+were housed individually with constant access to water and
+were fed three times daily.
+Intracortical Microstimulation
+Animals were preanesthetized with intramuscular injec-
+tions of ketamine (20 mg/kg), xylazine (2 mg/kg), buprenor-
+phine (0.05 mg/kg), acepromazine (0.05 mg/kg), and
+atropine (0.05 mg/kg). After intubation, pigs were placed
+under assisted ventilation and maintained on a heating mat
+to maintain body temperature above 35 /C14 C. The head was
+secured in a modiﬁed stereotactic frame using external audi-
+tory canal bars and a hard palate plate. The torso was ele-
+vated to allow unrestricted motion of the forelimbs and
+hindlimbs. Anesthesia was maintained with intravenous
+propofol (10 mg/mL, 10 –30 mL/h), adjusted to preserve
+evoked ICMS responses. Optimal anesthesia was character-
+ized by mild spontaneous limb twitching; lighter anesthesia
+(tachycardia or increased twitching) was managed with pro-
+pofol boluses. Electrocardiogram (EKG) monitoring was con-
+tinuous. The experimental setting is summarized in Fig. 1A.
+A large craniotomy was performed bilaterally to expose the
+motor cortex and surrounding gyri, spanning 2-cm posterior
+and 3-cm anterior to the coronal suture, and /C24 3 cm lateral to
+the sagittal suture. The dura was opened in a “C” shape and
+reﬂected toward the midline to preserve the superior sagittal
+sinus. If necessary, cortical veins adhering to the dura were
+coagulated and cut to facilitate proper reﬂection of the dura.
+The cortical surface was irrigated with saline heated to body
+temperature. The motor cortex was localized bilaterally
+between the sulcus ansatus posterolaterally and the sulcus
+cruciatus anteromedially (3, 40)( Fig. 1B). A micromanipula-
+tor was used to determine the coordinates of the motor cor-
+tex boundaries, and a grid of 1-mm squares was overlaid to
+guide electrode penetrations. Glass-coated platinum/irid-
+ium microelectrodes with an input impedance of 0.5 ± 0.1
+MX (1,000 Hz, 10 nA) were used (FHC). Electrodes were
+advanced into the neocortex to a depth of 0.5 mm using a
+microdrive (David Kopf Instruments model 2650), with
+0.5-mm increments until the area of peak responses was
+determined. An isolated pulse stimulator was used to
+deliver electrical current (Model 2100, A-M Systems). A
+ground stimulation lead was placed in contact with the
+neck muscles. Stimulation trains consisted of 13 biphasic
+cathodal-lead pulses, each with a 200- μsd u r a t i o na taf r e -
+quency of 333 Hz, with a train rate of 1 Hz. Current inten-
+sity was gradually increased from 0 μA to 1 mA maximum.
+Threshold was de ﬁned as the lowest intensity consistently
+producing a movement. Sites unresponsive at 1 mA were
+considered nonresponsive. We sampled each coordinate at
+multiple depths to identify the depths evoking motor
+responses at the lowest amplitude. Throughout the sur-
+gery, anesthetic levels were monitored by verifying evoked
+movements at previously de ﬁned positive-response sites
+and assessing the borders of nonresponsive points. To
+assess motor responses, we used electromyography (tibi-
+alis anterior and vastus lateralis bilaterally) and high
+frame-rate video recording (120 Hz, Teledyne FLIR) for vis-
+ual analysis of evoked movements. A light-emitting diode
+synchronized with stimulator output was ﬁxed to the ste-
+reotaxic frame in the camera ﬁeld-of-view. Motor maps
+were generated from positive-response sites, with each
+site representing 1 mm
+2. The hindlimb representation was
+the primary focus; forelimb mapping was partial, and
+facial (corticobulbar) representation was only broadly out-
+lined. We performed ICMS bilaterally in three pigs in total,
+systematically applying penetrations 1 mm apart across
+the motor cortex. At each site, stimulations were delivered
+at depths from 1 to 7 mm in 1-mm increments, resulting in
+/C24 700 stimulation sites. At the end of the experiment, ani-
+mals were deeply anesthetized with iso ﬂurane and eutha-
+nized with intravenous KCl. Brains were extracted, postﬁxed
+with 16% paraformaldehyde (PFA) solution for 1 mo, then
+cryoprotected in a solution of 30% sucrose in 0.1 M PBS for 1
+wk. The brain was frozen, sectioned around the motor cor-
+tex, and cut into 40- lm thick sagittal sections (3 hemi-
+spheres) and coronal sections (3 hemispheres) using a
+cryostat. The sections were stained with Luxol Fast Blue
+(0.1%, Sigma, S3382) and Cresyl Violet (0.5%, Alfa Aesar,
+J64318). Bright- ﬁeld microscopy images were taken at /C2 4
+magniﬁcation (Olympus BX63).
+Statistical Analyses
+All data are displayed as means ± SE. We assessed the nor-
+mal distribution of results with the Kolmogorov –Smirnov
+test. Statistical evaluations were performed using two-sided
+Student’s t test or Mann –Whitney U test based on data nor-
+mality. We performed analyses were performed to assess
+LIMB REPRESENTATION IN PIG’S MOTOR CORTEX
+J Neurophysiol /C15 doi:10.1152/jn.00056.2026 1603
+Downloaded from journals.physiology.org/journal/jn at The Library | University of Bath (138.038.093.065) on October 31, 2026.
+
+===== PDF PAGE 3 =====
+group differences in the minimum current intensity
+required to elicit forelimb and hindlimb movements dur-
+ing ICMS ( ﬁve best sites; all sites). We applied a threshold
+for statistical signi ﬁcance at P ¼ 0.05.
+RESULTS
+Intracortical Microstimulation
+By applying ICMS bilaterally in three pigs (more than
+700 stimulation sites), we determined the minimal current
+required to evoke a visible limb movement, identi ﬁed the
+depth of maximal response, and derived a somatotopic
+motor map ( Fig. 2 , Supplemental Video S1). The sites evok-
+ing maximal hindlimb motor responses were at the medial
+edge of the motor cortex, whereas sites evoking a predomi-
+nant forelimb response occupied a larger area of the grid
+centrally and laterally ( Fig. 2, A and B); stimulation of the
+lateral and superior aspect of forelimb motor map evoked
+various facial responses, including the lips, tongue, and
+neck ( Fig. 2, A and B). As we focused on cortical limb rep-
+resentation, we did not speci ﬁcally map corticobulbar out-
+puts in this study. The histological analysis of electrode
+tracts allowed to locate the layer V of the motor cortex at
+around 2 mm from the cortical surface ( Fig. 2 C). Electrode
+penetrations can cause a slight depression of the cortex,
+leading to a mild overestimation of penetration depths. As
+such, responses obtained between 2 and 4 mm of depths
+were considered cortical responses and electrode penetra-
+tions at depths of 5 –7 mm were considered as white-matter
+responses (within the corona radiata) (Fig. 2A). At some coor-
+dinates, forelimb movements were often maximally evoked
+superﬁcially (2 –3 mm depths, corresponding to layer V),
+whereas hindlimb movements were elicited deeper down
+(6–7 mm depths, presumably stimulating white-matterﬁbers
+from the medial aspect of the cortex joining the corona radi-
+ata; Fig. 2, B and C). Taking these ﬁndings into considera-
+tion, we adjusted our approach for the ICMS mapping
+performed on the third pig, limiting penetration depth to
+4 mm, except in our most medial penetrations adjacent to
+the interhemispheric ﬁssure (to more precisely map the
+medial cortical surface). Electrode penetrations at the medial
+margin of the motor cortex (along the interhemispheric ﬁs-
+sure) were used to map the medial aspect of the motor cortex
+(Fig. 2D, unfolded map of the pig’s motor cortex).
+Hindlimb Movements Generated by ICMS
+Hindlimb responses were generally subtler than forelimb
+responses when using the same stimulation amplitude. At
+forelimb sites, robust movements were obtained with cur-
+r e n t sa sl o wa s5 0–100 μA, whereas hindlimb movements
+typically required >300 μA( Fig. 2 B). The mean amplitude
+threshold of the ﬁve most responsive forelimb sites was
+75 ± 25 μA, compared with 280 ± 45 μA for the hindlimb.
+Overall recorded forelimb and hindlimb sites, amplitude
+thresholds were lower for the forelimb (197 ± 115μA) than the
+hindlimb (440 ± 171 μA; P < 0.001). Hindlimb responses
+often required repeated stimulations and were less consist-
+ent across trials, in contrast to the reproducible contralateral
+forelimb responses. Lateralization of responses also differed
+between forelimb and hindlimb: forelimb responses were
+strictly contralateral, whereas hindlimb responses were fre-
+quently ipsilateral or bilateral. Most hindlimb responses
+consisted of small twitches along the entire leg, often with
+as u b t l e ﬂexion of the contralateral hooves or fetlock
+(Supplemental Video S1). ICMS applied to the medial portion
+of the motor cortex often triggered shoulder movements that
+frequently coincided with hindlimb movements. In contrast,
+Figure 1. Experimental setup for intracortical microstimulation. A: a modiﬁed stereotactic frame and micromanipulator were used to insert a microelec-
+trode at precise coordinates within the motor cortex. Responses to intracortical microstimulation were measured with high frame-rate video record ing
+and electromyography (EMG). B: visual representation of the pig ’s motor cortex, from a superior view ( left) and medial view ( right). Below, the relevant
+anatomy is highlighted, notably the cruciate sulcus, ansate sulcus, cingulate sulcus, and interhemispheric ﬁssure. Panel 1A was created with a licensed
+version of BioRender.com.
+LIMB REPRESENTATION IN PIG’S MOTOR CORTEX
+1604 J Neurophysiol /C15 doi:10.1152/jn.00056.2026
+Downloaded from journals.physiology.org/journal/jn at The Library | University of Bath (138.038.093.065) on October 31, 2026.
+
+===== PDF PAGE 4 =====
+lateral stimulations resulted in clearﬂexion of the elbow and
+carpal joint (Supplemental Video S1).
+Bilateral Alternating Responses of Hindlimbs to
+Unilateral Cortical Stimulation
+Stimulation of the hindlimb representation frequently
+produced bilateral hindlimb movements (Supplemental
+Video S2, Fig. 3, A and B). Although forelimb responses were
+consistently contralateral, hindlimb responses included
+ipsilateral or bilateral movements. In pig 3,a c r o s s1 8 9s t i m -
+ulations of the hindlimb representation, 48% triggered con-
+tralateral, 38% ipsilateral, and 14% bilateral hindlimb
+movements. Response patterns depended on stimulation
+frequency. With long interstimulation intervals ( >2s ) ,
+responses were predominantly contralateral (90%, 18/20).
+At shorter intervals ( <0.8 s), ipsilateral (51%, 49/96) and
+Figure 2. Cortical and subcortical map of the pig motor cortex. A: summary of cortical and subcortical mapping; electrode depths associated with maxi-
+mal hindlimb (HL) responses, indicated in mm in yellow boxes. Sites for which the depth with the maximal responses was 5 mm or more (within subcorti-
+cal white matter) are shaded. We roughly characterized the facial representation at the border of the forelimb representation; however, we did not
+attempt to fully characterize this facial (corticobulbar) representation in terms of motor map borders, movement types (snout, neck, upper and lowerl i p s ,
+tongue), or amplitude thresholds. B: summary of the cortical mapping. Amplitude thresholds (lA) of intracortical microstimulation to evoke forelimb and
+hindlimb movements are indicated. Only responses at penetrations of 2–4 mm are represented. Regions with higher amplitude thresholds are shaded.
+C: coronal section of the pig’s motor cortex, highlighting the transition of forelimb responses superﬁcially and hindlimb responses deeper into the white
+matter. D: unfolded map of the pig’s motor cortex. The right shows the surface mapping of the right hemisphere. On the left, the medial view of the pig’s
+cortex was rotated and adjusted for the cruciate and ansate sulci to align.
+LIMB REPRESENTATION IN PIG’S MOTOR CORTEX
+J Neurophysiol /C15 doi:10.1152/jn.00056.2026 1605
+Downloaded from journals.physiology.org/journal/jn at The Library | University of Bath (138.038.093.065) on October 31, 2026.
+
+===== PDF PAGE 5 =====
+Figure 3. Repeated stimulation of the hindlimb representation of the pig’s motor cortex causes alternating increases in background activity, associated
+with alternating bilateral responses to stimulation. A: zoomed-in EMG trace showing alternating bursts of tibialis anterior background activity during
+repeated stimulation of the leg representation of the pig ’s motor cortex. Cortical stimulation is represented with thin gray lines. B: cortical stimulation
+causes alternating increases in EMG background activity, predicting the side of hindlimb response to cortical stimulation. Thin gray lines represent stimu-
+lation pulses, while magenta and cyan lines represent evoked responses of the hindlimbs (visual responses).C:q u a n t iﬁcation of ipsilateral and contralat-
+eral hindlimb responses to cortical stimulation. ISI, interstimulus interval.
+LIMB REPRESENTATION IN PIG’S MOTOR CORTEX
+1606 J Neurophysiol /C15 doi:10.1152/jn.00056.2026
+Downloaded from journals.physiology.org/journal/jn at The Library | University of Bath (138.038.093.065) on October 31, 2026.
+
+===== PDF PAGE 6 =====
+bilateral (29%, 28/96) movements increased, while contra-
+lateral movements decreased to 29% (28/96) ( Fig. 3 C). At
+higher stimulation frequencies ( >1H z ) ,c y c l e so f2 –4
+responses typically alternated between hindlimbs ( Fig. 3B).
+Interestingly, in pig 3, these alternating hindlimb responses
+were abolished by ketamine injection (10 mg/kg), with pres-
+ervation of forelimb responses.
+EMG analysis revealed alternating bursts of background
+activity consisting of short (40 ms) discharges at 10 –16 Hz.
+Bursts lasted 0.5 –4.5 s and alternated irregularly, occur-
+ring in cycles ranging from 1.3 s to 11 s. Interestingly, the
+dominant motor response (whether ipsilateral or contra-
+lateral movement) coincided with the leg exhibiting a
+background burst at the time of cortical stimulation. This
+pattern suggests that the background activity of the
+m u s c l e si nag i v e nl i m bm a yi nﬂuence the direction of
+movement evoked by cortical stimulation ( Fig. 3 B). In
+other words, we observed two distinct phenomena: 1)t h e
+induction of alternating EMG bursts, which occur at a
+much lower frequency than the stimulus train and are not
+phase-locked to it, and 2) a dependence of the amplitude
+of the rapid, stimulus-locked response on alternation
+phase, consistent with an “automatic gain scaling ” effect
+(45). The duration and periodicity of the alternating bursts
+were highly variable, with shorter bursts (0.5 s) alternating
+on cycles of around 1.3 s, while longer bursts (4.5 s) alter-
+nated on cycles of /C24 11 s ( Fig. 4 ). Finally, we quanti ﬁed the
+amplitude of the EMG response to 100 consecutive cortical
+stimulations, depending on the underlying state of back-
+ground activity (high background activity, low background
+activity). We normalized the data as a fraction of the maxi-
+mal amplitude observed on the channel (0–100%). When the
+cortical stimulation occurred during the burst of hindlimb
+EMG activity, the amplitude of the EMG response was almost
+invariably maximal (mean 90% of maximal amplitude), even
+in the EMG ipsilateral to the cortical stimulation. When the
+cortical stimulation occurred during low background activ-
+ity, the response was much lower (mean 29% of maximal
+amplitude; P < 0.0001), and almost half of stimulations did
+not trigger any EMG response.
+DISCUSSION
+In this study, we characterized the forelimb and hindlimb
+representations of the pig motor cortex. We found that the
+hindlimb motor representation is relatively small compared
+with the forelimb, and that movements evoked by cortical
+stimulation were more consistent and pronounced in the
+face and forelimb than in the hindlimbs. Our results align
+with previous ICMS studies in pigs. In Breazile et al. ( 40), a
+summation of 3–4 monophasic square-wave stimuli of 4 ms,
+7–10 V in the medial-caudal region of the motor cortex could
+elicit isolated hindlimb movements, a region corresponding
+to the primary somatosensory hindlimb representation,
+which is on the medial surface of the cruciate gyrus, buried
+within the interhemispheric ﬁssure ( 46). The discrepancy
+between the forelimb and hindlimb representation in the
+motor cortex can be explained by the anatomy of the cortico-
+spinal tract in pigs. Complete resection of the pig ’s motor
+cortex does not signi ﬁcantly impair locomotion ( 41), and
+large cortical and subcortical strokes (middle cerebral artery
+occlusion) only produce subtle impairments in gait and fore-
+limb movements during locomotion ( 23). In various tracing
+studies, the corticospinal tract was shown to reach the cervi-
+cal level, but never below the thoracic level ( 42, 44).
+Comparable ﬁndings have been reported in sheep, where
+Figure 4. Repeated stimulation of the hindlimb representation of the pig’s motor cortex causes alternating bursts in background activity, of variable dura-
+tions. A: EMG trace showing rapid alternation in bursts of background activity in the tibialis anterior muscle with repeated stimulation of the hindlimb rep-
+resentation of the pig ’s motor cortex. B: EMG trace (vastus lateralis) showing locomotor cycles of the pig during treadmill walking at 0.3 m/s. C: EMG
+trace showing slow alternation in bursts of background activity in the tibialis anterior muscle with repeated stimulation of the hindlimb representation of
+the pig’s motor cortex.
+LIMB REPRESENTATION IN PIG’S MOTOR CORTEX
+J Neurophysiol /C15 doi:10.1152/jn.00056.2026 1607
+Downloaded from journals.physiology.org/journal/jn at The Library | University of Bath (138.038.093.065) on October 31, 2026.
+
+===== PDF PAGE 7 =====
+intracortical or intravascular stimulation failed to elicit hind-
+limb movements (47, 48). Presumably, ungulates like the pig
+do not require much precise or complex control of hindlimb
+movements during natural behavior, rather relying on spinal
+central pattern generators and coarse movement modulation
+through brainstem circuits (49).
+Ak e yo b s e r v a t i o ni no u rs t u d yi st h a tr e p e t i t i v eI C M So f
+the hindlimb motor cortex elicited alternating bursts of
+hindlimb activity, coinciding with alternating hindlimb
+movements. This pattern of alternating activity resembles
+the hindlimb muscle activity elicited by repeated stimula-
+tion of the medullary reticular formation during ﬁctive
+locomotion ( 50–52). In our study, stimulation was applied
+to the motor cortex rather than the reticular formation.
+Despite this, we hypothesize that stimulating the hindlimb
+representation of the pig motor cortex triggers hindlimb
+movements via the cortico-reticulo-spinal pathway. Unlike
+ﬁctive locomotion studies such as Perreault et al. ( 50), we
+did not abolish phasic afferent feedback from the limbs.
+Consequently, we could not isolate the speci ﬁc effects of
+repeated motor cortex stimulation on locomotor frequency
+as cleanly. Nevertheless, our hypothesis of a cortico-retic-
+ulo-spinal pathway for limb control in pigs is further sup-
+ported by neuroanatomical tracing studies; pig ’sm o t o r
+cortex neurons project to the contralateral cervico-thoracic
+anterior horn, ipsilateral mesencephalon, and bilateral
+medulla oblongata; no monosynaptic projection from the
+motor cortex to the lumbar region was ever described ( 42,
+44). This hypothesis is also supported by the higher ampli-
+tude threshold required to activate the hindlimbs (300 –500
+μA) and the temporal summation needed to obtain clear
+responses. Forelimb responses were consistent from the
+ﬁrst stimulation, at lower amplitude thresholds ( <100 μA),
+more consistent with the ICMS literature. The reticular for-
+mation is a site of convergence of bilateral cortical inputs
+across species ( 53, 54). Taken together, these ﬁndings sug-
+gest that the porcine cerebral cortex can directly control
+forelimb movements through direct connections to cervical
+spinal neurons, but relies primarily on brainstem nuclei to
+modulate hindlimb activity.
+This study has limitations. First, while the use of the
+micromanipulator was ideal for mapping the superior sur-
+face of the cortex, mapping the medial surface of the motor
+cortex, located in the interhemispheric ﬁssure, proved more
+difﬁcult. Because we preserved the midline dura to prevent
+hemorrhaging from the superior sagittal sinus, our direct vis-
+ualization of the medial aspect was restricted. Consequently,
+we had to infer the functional representation of the medial
+motor cortex by analyzing the speci ﬁc depths of our most
+medial electrode penetrations. Second, we measured ﬂexor
+muscles in the hindlimbs (tibialis anterior), but signal from
+extensor muscles was too weak and artifacted to properly
+measure ﬂexor-extensor alternation during alternated hind-
+limb movements. Third, the young age (2 mo) of the pigs
+used in the ICMS experiments may limit the generalization
+of our results to adult pigs, as the thickness of the motor cor-
+tex increases with age, accompanied by changes in cell den-
+sity due to myelination and dendritic development ( 5).
+Despite these limitations, our study provides an updated
+characterization of the pig motor cortex and its descending
+pathways, informing the design and interpretation of trans-
+lational neurotechnology studies.
+DATA AVAILABILITY
+Data will be made available upon reasonable request.
+SUPPLEMENTAL MATERIAL
+Supplemental Videos S1 and S2:https://doi.org/10.5281/zenodo.
+20085237.
+ACKNOWLEDGMENTS
+We thank Caroline Bouchard for animal care at Hôpital du
+Sacr/C19e-Coeur de Montr /C19eal. Figure 1 was created using a licensed
+version of BioRender.com.
+GRANTS
+This study was supported by TransMedTech (2_2019_
+MAR_MAR_0057: Cortical neuroprostheses for reversing
+paralysis: proof of concept in large animal models).
+DISCLOSURES
+M.B. and M.M. are co-inventors on a patent (CA3146323) for a
+device enabling cortical stimulation during movement. They are
+also shareholders in a start-up company developing invasive neu-
+rostimulation technologies based on this patent. None of the
+other authors has any con ﬂicts of interest, ﬁnancial or otherwise,
+to disclose.
+AUTHOR CONTRIBUTIONS
+D.B., M.B., and M.M. conceived and designed research; D.B.,
+H.D.-M., M.B., and M.M. performed experiments; D.B. analyzed
+data; D.B. and M.M. interpreted results of experiments; D.B. pre-
+pared ﬁgures; D.B. drafted manuscript; D.B., H.D.-M., M.B., and
+M.M. edited and revised manuscript; D.B., H.D.-M., M.B., and M.M.
+approved ﬁnal version of manuscript.
+REFERENCES
+1. Lind NM , Moustgaard A , Jelsing J , Vajta G , Cumming P , Hansen
+AK. The use of pigs in neuroscience: modeling brain disorders.
+Neurosci Biobehav Rev 31: 728–751, 2007. doi: 10.1016/j.neubiorev.
+2007.02.003.
+2. Sauleau P, Lapouble E, Val-Laillet D, Malbert CH. The pig model in
+brain imaging and neurosurgery. Animal 3: 1138–1151, 2009. doi: 10.
+1017/S1751731109004649.
+3. Bjarkam CR , Glud AN , Orlowski D , Sorensen JCH , Palomero-
+Gallagher N. The telencephalon of the Gottingen minipig, cytoarchi-
+tecture and cortical surface anatomy. Brain Struct Funct 222: 2093–
+2114, 2017. doi:10.1007/s00429-016-1327-5.
+4. Felix B , Leger ME , Albe-Fessard D , Marcilloux JC , Rampin O ,
+Laplace JP. Stereotaxic atlas of the pig brain. Brain Res Bull 49: 1–
+137, 1999. doi:10.1016/s0361-9230(99)00012-x.
+5. Desantis S, Minervini S, Zallocco L, Cozzi B, Pirone A. Age-related
+changes in the primary motor cortex of newborn to adult domestic
+pig Sus scrofa domesticus. Animals (Basel) 11: 2019, 2021. doi: 10.
+3390/ani11072019.
+6. Lunney JK, Van Goor A, Walker KE, Hailstock T
+, Franklin J, Dai C.
+Importance of the pig as a human biomedical model. Sci Transl Med
+13: eabd5758, 2021. doi:10.1126/scitranslmed.abd5758.
+7. Chang SJ , Santamaria AJ , Sanchez FJ , Villamil LM , Saraiva PP ,
+Benavides F, Nunez-Gomez Y, Solano JP, Opris I, Guest JD, Noga
+BR. Deep brain stimulation of midbrain locomotor circuits in the
+freely moving pig. Brain Stimul 14: 467–476, 2021. doi: 10.1016/j.brs.
+2021.02.017.
+LIMB REPRESENTATION IN PIG’S MOTOR CORTEX
+1608 J Neurophysiol /C15 doi:10.1152/jn.00056.2026
+Downloaded from journals.physiology.org/journal/jn at The Library | University of Bath (138.038.093.065) on October 31, 2026.
+
+===== PDF PAGE 8 =====
+8. Paek SB , Min H-K , Kim I , Knight EJ , Baek JJ , Bieber AJ , Lee KH ,
+Chang S-Y. Frequency-dependent functional neuromodulatory
+effects on the motor network by ventral lateral thalamic deep brain
+stimulation in swine. Neuroimage 105: 181 –188, 2015. doi: 10.1016/j.
+neuroimage.2014.09.064.
+9. Min H-K , Hwang S-C , Marsh MP , Kim I , Knight E , Striemer B ,
+Felmlee JP, Welker KM, Blaha CD, Chang S-Y, Bennet KE, Lee KH.
+Deep brain stimulation induces BOLD activation in motor and non-
+motor networks: an fMRI comparison study of STN and EN/GPi DBS
+in large animals. Neuroimage 63: 1408 –1420, 2012. doi: 10.1016/j.
+neuroimage.2012.08.006.
+10. Habibagahi I , Omidbeigi M , Hadaya J , Lyu H , Jang J , Ardell JL ,
+Bari AA, Babakhani A. Vagus nerve stimulation using a miniaturized
+wirelessly powered stimulator in pigs.Sci Rep 12: 8184, 2022. doi:10.
+1038/s41598-022-11850-0.
+11. Fadeev F , Eremeev A , Bashirov F , Shevchenko R , Izmailov A ,
+Markosyan V, Sokolov M, Kalistratova J , Khalitova A, Garifulin R,
+Islamov R , Lavrov I. Combined supra- and sub-lesional epidural
+electrical stimulation for restoration of the motor functions after spi-
+nal cord injury in mini pigs. Brain Sci 10: 744, 2020. doi: 10.3390/
+brainsci10100744.
+12. Islamov R , Bashirov F , Izmailov A , Fadeev F , Markosyan V ,
+Sokolov M , Shmarov M , Logunov D , Naroditsky B , Lavrov I. New
+therapy for spinal cord injury: autologous genetically-enriched leu-
+coconcentrate integrated with epidural electrical stimulation. Cells
+11: 144, 2022. doi:10.3390/cells11010144.
+13. Holland MT , Seaman SC , Woodroffe RW , Fredericks DC , Kovach
+CK, Gibson-Corley KN , Gillies GT, Howard MA. In vivo testing of a
+prototype intradural spinal cord stimulator in a porcine model.World
+Neurosurg 137: e634–e41, 2020. doi:10.1016/j.wneu.2020.02.100.
+14. Grahn PJ , Goerss SJ , Lujan JL , Mallory GW , Kall BA , Mendez
+AA, Trevathan JK , Felmlee JP , Bennet KE , Lee KH. MRI-guided
+stereotactic system for delivery of intraspinal microstimulation.
+S p i n e( P h i l aP a1 9 7 6 )41: E806 –E813, 2016. doi: 10.1097/BRS.
+0000000000001397 .
+15. Mirkiani S , O’
+Sullivan CL , Roszko DA , Faridi P , Hu DS , Everaert
+DG, Toossi A , Kang R , Fang T , Tyreman N , Dalrymple AN ,
+Robinson K , Uwiera RRE , Shah H, Fox R, Konrad PE , Mushahwar
+VK. Safety of mapping the motor networks in the spinal cord using
+penetrating microelectrodes in Yucatan minipigs.J Neurosurg Spine
+41: 292–304, 2024. doi:10.3171/2024.2.SPINE23757.
+16. Tawakol O , Herman MD , Foxley S , Mushahwar VK , Towle VL ,
+Troyk PR. In-vivo testing of a novel wireless intraspinal microstimula-
+tion interface for restoration of motor function following spinal cord
+injury. Artif Organs 48: 263–273, 2024. doi:10.1111/aor.14562.
+17. Keller EE , Patras I , Hutu I , Roider K , Sievert K-D , Aigner L ,
+Janetschek G , Lusuardi L , Zimmermann R , Bauer S. Early sacral
+neuromodulation ameliorates urinary bladder function and structure
+in complete spinal cord injury minipigs. Neurourol Urodyn 39: 586–
+593, 2020. doi:10.1002/nau.24257.
+18. Guiho T , Azevedo-Coste C , Guiraud D , Delleci C , Capon G ,
+Delgado-Piccoli N, Bauchet L, Vignes J-R. Validation of a methodol-
+ogy for neuro-urological and lumbosacral stimulation studies in
+domestic pigs: a humanlike animal model. J Neurosurg Spine 30:
+644–654, 2019. doi:10.3171/2018.11.SPINE18676.
+19. Palma M , Khoshnevis M , Lion M , Zenga C , Kefs S , Fallegger F ,
+Schiavone G , Flandin IG , Lacour S , Yvert B. Chronic recording of
+cortical activity underlying vocalization in awake minipigs. J
+Neurosci Methods 366: 109427, 2022. doi: 10.1016/j.jneumeth.2021.
+109427.
+20. Borton D, Yin M, Aceros J, Agha N, Minxha J, Komar J, Patterson
+W, Bull C, Nurmikko A. Developing implantable neuroprosthetics: a
+new model in pig. Annu Int Conf IEEE Eng Med Biol Soc 2011: 3024–
+3030, 2011. doi:10.1109/IEMBS.2011.6090828.
+21. Musk E; Neuralink. An integrated brain-machine interface platform
+with thousands of channels. J Med Internet Res 21: e16194, 2019.
+doi:10.2196/16194.
+22. Hettick M, Ho E, Poole AJ, Monge M, Papageorgiou D, Takahashi
+K, LaMarca M, Trietsch D, Reed K, Murphy M, Rider S, Gelman KR,
+Byun YW , Hanson T , Tolosa V , Lee SH , Bhatia S , Konrad PE ,
+Mager M, Mermel CH, Rapoport BI. The layer 7 cortical interface: a
+scalable and minimally invasive brain –computer interface platform
+(Preprint). bioRxiv, 2022. doi:10.1101/2022.01.02.474656.
+23. Scheulin KM, Jurgielewicz BJ , Spellicy SE, Waters ES, Baker EW,
+Kinder HA, Simchick GA, Sneed SE, Grimes JA, Zhao Q, Stice SL,
+West FD. Exploring the predictive value of lesion topology on motor
+function outcomes in a porcine ischemic stroke model. Sci Rep 11:
+3814, 2021. doi:10.1038/s41598-021-83432-5.
+24. Melià-Sorolla M, Casta~no C, DeGregorio-Rocasolano N, Rodríguez-
+Esparragoza L, Dávalos A, Martí-Sistac O, Gasull T. Relevance of
+porcine stroke models to bridge the gap from pre-clinical ﬁndings to
+clinical implementation. Int J Mol Sci 21: 6568, 2020. doi: 10.3390/
+ijms21186568.
+25. Z€uchner M , Escalona MJ , Teige LH , Balafas E , Zhang L ,
+Kostomitsopoulos N, Boulland J-L. How to generate graded spinal
+cord injuries in swine - tools and procedures. Dis Model Mech 14:
+dmm049053, 2021. doi:10.1242/dmm.049053.
+26. Schomberg DT, Miranpuri GS, Chopra A, Patel K, Meudt JJ, Tellez
+A, Resnick DK , Shanmuganayagam D. Translational relevance of
+swine models of spinal cord injury. J Neurotrauma 34: 541 –551,
+2017. doi:10.1089/neu.2016.4567.
+27. Lee JHT, Jones CF, Okon EB, Anderson L, Tigchelaar S, Kooner P,
+Godbey T , Chua B , Gray G , Hildebrandt R , Cripton P , Tetzlaff W ,
+Kwon BK. A novel porcine model of traumatic thoracic spinal cord
+injury. J Neurotrauma 30: 142 –159, 2013. doi: 10.1089/neu.2012.
+2386.
+28. Zurita M , Aguayo C , Bonilla C , Otero L , Rico M , Rodríguez A ,
+Vaquero J. The pig model of chronic paraplegia: a challenge for
+experimental studies in spinal cord injury. Prog Neurobiol 97: 288–
+303, 2012. doi:10.1016/j.pneurobio.2012.04.005.
+29. Santamaria AJ , Benavides FD , Padgett KR , Guada LG , Nunez-
+Gomez Y, Solano JP, Guest JD. Dichotomous locomotor recoveries
+are predicted by acute changes in segmental blood ﬂow after tho-
+racic spinal contusion injuries in pigs. J Neurotrauma 36: 1399–1415,
+2019. doi:10.1089/neu.2018.6087.
+30. Jones CF, Cripton PA, Kwon BK. Gross morphological changes of
+the spinal cord immediately after surgical decompression in a large
+animal model of traumatic spinal cord injury. Spine (Phila Pa 1976)
+37: E890–E899, 2012. doi:10.1097/BRS.0b013e3182553d1d.
+31. Martinez M. Targeting the motor cortex to restore walking after
+incomplete spinal cord injury. Neural Regen Res 17: 1489 –1490,
+2022. doi:10.4103/1673-5374.330603.
+32. Bonizzato M, Martinez M. An intracortical neuroprosthesis immedi-
+ately alleviates walking deﬁcits and improves recovery of leg control
+after spinal cord injury. Sci Transl Med 13: eabb4422, 2021. doi: 10.
+1126/scitranslmed.abb4422.
+33. Massai E , Bonizzato M , De Jesus I , Drainville R , Martinez M.
+Cortical neuroprosthesis-mediated functional ipsilateral control of
+locomotion in rats with incomplete spinal cord injury. eLife 12:
+RP92940, 2023. doi:10.7554/elife.92940.
+34. Duguay M , Bonizzato M , Delivet-Mongrain H , Fortier-Lebel N ,
+Martinez M. Uncovering and leveraging the return of voluntary
+motor programs after paralysis using a bi-cortical neuroprosthesis.
+Prog Neurobiol 228: 102492, 2023. doi: 10.1016/j.pneurobio.2023.
+102492.
+35. Drainville R, Bonizzato M, Burchielli D
+, Guay-Hottin R, Sheasby A,
+Martinez M. Combining cortical and spinal stimulation maximizes
+the improvement of gait after spinal cord injury. iScience 28: 113580,
+2025. doi:10.1016/j.isci.2025.113580.
+36. Meier K , Qerama E , Ettrup KS , Glud AN , Alstrup AKO , Sorensen
+JCH. Segmental innervation of the Gottingen minipig hind body. An
+electrophysiological study.JA n a t233: 411–420, 2018. doi:10.1111/joa.
+12865.
+37. Toossi A, Bergin B, Marefatallah M, Parhizi B, Tyreman N, Everaert
+DG, Rezaei S, Seres P, Gatenby JC, Perlmutter SI, Mushahwar VK.
+Comparative neuroanatomy of the lumbosacral spinal cord of the
+rat, cat, pig, monkey, and human. Sci Rep 11: 1955, 2021. doi:10.1038/
+s41598-021-81371-9.
+38. Benavides FD , Santamaria AJ , Bodoukhin N , Guada LG , Solano
+JP, Guest JD. Characterization of motor and somatosensory evoked
+potentials in the Yucatan micropig using transcranial and epidural
+stimulation. J Neurotrauma 34: 2595–2608, 2017. doi:10.1089/neu.
+2016.4511.
+39. Jutzeler CR, Streijger F, Aguilar J, Shortt K, Manouchehri N, Okon
+E, Hupp M, Curt A, Kwon BK, Kramer JLK. Sensorimotor plasticity
+after spinal cord injury: a longitudinal and translational study. Ann
+Clin Transl Neurol 6: 68–82, 2019. doi:10.1002/acn3.679.
+LIMB REPRESENTATION IN PIG’S MOTOR CORTEX
+J Neurophysiol /C15 doi:10.1152/jn.00056.2026 1609
+Downloaded from journals.physiology.org/journal/jn at The Library | University of Bath (138.038.093.065) on October 31, 2026.
+
+===== PDF PAGE 9 =====
+40. Breazile JE, Swa Ord BC, Thompson DVM. Study of the motor cor-
+tex of the domestic pig. Am J Vet Res 27: 1369–1373, 1966.
+41. Palmieri G , Farina V, Panu R, Asole A, Sanna L, De Riu PL , Gabbi
+C. Course and termination of the pyramidal tract in the pig. Arch
+Anat Microsc Morphol Exp 75: 167–176, 1986.
+42. Del Cerro P, Rodriguez-De-Lope A, Collazos-Castro JE.The cortical
+motor system in the domestic pig: origin and termination of the corti-
+cospinal tract and cortico-brainstem projections. Front Neuroanat
+15: 748050, 2021. doi:10.3389/fnana.2021.748050.
+43. Bech J , Glud AN , Sangill R , Petersen M , Frandsen J , Orlowski D ,
+West MJ, Pedersen M, Sørensen JCH, Dyrby TB, Bjarkam CR. The
+porcine corticospinal decussation: A combined neuronal tracing and
+tractography study. Brain Res Bull 142: 253–262, 2018. doi:10.1016/j.
+brainresbull.2018.08.004.
+44. Leonard AV , Menendez JY , Pat BM , Hadley MN , Floyd CL.
+Localization of the corticospinal tract within the porcine spinal cord:
+Implications for experimental modeling of traumatic spinal cord
+injury. Neurosci Lett 648: 1–7, 2017. doi:10.1016/j.neulet.2017.03.020.
+45. Matthews PB. Observations on the automatic compensation of
+reﬂ
+ex gain on varying the pre-existing level of motor discharge in
+man. JP h y s i o l374: 73–90, 1986. doi:10.1113/jphysiol.1986.sp016066.
+46. Craner SL , Ray RH. Somatosensory cortex of the neonatal pig:
+I. Topographic organization of the primary somatosensory cortex
+(SI). JC o m pN e u r o l306: 24–38, 1991. doi:10.1002/cne.903060103.
+47. Opie NL , John SE , Rind GS , Ronayne SM , Wong YT , Gerboni G ,
+Yoo PE , Lovell TJH , Scordas TCM , Wilson SL , Dornom A , Vale T ,
+O’Brien TJ, Grayden DB, May CN, Oxley TJ. Focal stimulation of the
+sheep motor cortex with a chronically implanted minimally invasive
+electrode array mounted on an endovascular stent.Nat Biomed Eng
+2: 907–914, 2018. doi:10.1038/s41551-018-0321-z.
+48. John SE , Lovell TJH , Opie NL , Wilson S , Scordas TC , Wong YT ,
+Rind GS, Ronayne S, Bauquier SH, May CN, Grayden DB, O’Brien
+TJ, Oxley TJ. The ovine motor cortex: A review of functional map-
+ping and cytoarchitecture. Neurosci Biobehav Rev 80: 306 –315,
+2017. doi:10.1016/j.neubiorev.2017.06.002.
+49. Heffner RS, Masterton RB. The role of the corticospinal tract in the
+evolution of human digital dexterity. Brain Behav Evol 23: 165–183,
+1983. doi:10.1159/000121494.
+50. Perreault MC, Rossignol S, Drew T. Microstimulation of the medul-
+lary reticular formation during ﬁctive locomotion. J Neurophysiol 71:
+229–245, 1994. doi:10.1152/jn.1994.71.1.229.
+51. Perreault MC, Drew T, Rossignol S. Activity of medullary reticulospi-
+nal neurons during ﬁctive locomotion. J Neurophysiol 69: 2232 –
+2247, 1993. doi:10.1152/jn.1993.69.6.2232.
+52. Pearson KG , Rossignol S. Fictive motor patterns in chronic spinal
+cats. J Neurophysiol 66: 1874 –1887, 1991. doi: 10.1152/jn.1991.66.6.
+1874.
+53. Fisher KM, Zaaimi B, Edgley SA, Baker SN. Extensive cortical con-
+vergence to primate reticulospinal pathways. J Neurosci 41: 1005–
+1018, 2021. doi:10.1523/JNEUROSCI.1379-20.2020.
+54. Kably B, Drew T. Corticoreticular pathways in the cat. I. Projection
+patterns and collaterization. J Neurophysiol 80: 389 –405, 1998.
+doi:10.1152/jn.1998.80.1.389.
+LIMB REPRESENTATION IN PIG’S MOTOR CORTEX
+1610 J Neurophysiol /C15 doi:10.1152/jn.00056.2026
+Downloaded from journals.physiology.org/journal/jn at The Library | University of Bath (138.038.093.065) on October 31, 2026.

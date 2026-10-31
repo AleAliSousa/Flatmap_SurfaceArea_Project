@@ -1,0 +1,48 @@
+{
+  "final_native_verification": [
+    {
+      "paper_id": "Beck_Kaas_1998",
+      "verify": "passed",
+      "output": "Verified 108 saved file hashes, 21 unique rows, areas and percentages.",
+      "source_pdf_unchanged": true
+    },
+    {
+      "paper_id": "Burman_etal_2008",
+      "verify": "passed",
+      "output": "Verified 56 saved file hashes, 70 unique rows, areas and percentages.",
+      "source_pdf_unchanged": true
+    },
+    {
+      "paper_id": "Ghosh_1997",
+      "verify": "passed",
+      "output": "Verified 53 saved file hashes, 77 unique rows, areas and percentages.",
+      "source_pdf_unchanged": true
+    },
+    {
+      "paper_id": "Krubitzer_1998",
+      "verify": "passed",
+      "output": "Verified 186 saved file hashes, 121 unique rows, areas and percentages.",
+      "source_pdf_unchanged": true
+    },
+    {
+      "paper_id": "Krubitzer_2009",
+      "verify": "passed",
+      "output": "Verified 118 saved file hashes, 126 unique rows, areas and percentages.",
+      "source_pdf_unchanged": true
+    },
+    {
+      "paper_id": "Remple_etal_2006",
+      "verify": "passed",
+      "output": "Verified 41 saved file hashes, 32 unique rows, areas and percentages.",
+      "source_pdf_unchanged": true
+    }
+  ],
+  "changed_region_bounds_and_crossings": "passed",
+  "saved_geometry_matches_review_log": true,
+  "Burman_24_rejections_preserved": true,
+  "local_html_references": "passed",
+  "inline_script_syntax_checks": 15,
+  "browser_render_check": "not_run; browser tool rejected local file URL protocol",
+  "overlap_diagnostic": "Cat shared-edge interior overlaps resolved; Remple Fig7A residual4pixels and Burman V1/V2 residual15pixels remain explicitly documented; Remple Fig8 parent/subregion overlap intentional.",
+  "cross_project_analysis_snapshots": "not recomputed; publication measurements and second-pass review are current"
+}

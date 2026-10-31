@@ -1,0 +1,271 @@
+{
+  "map_id": "fig03B_forelimb",
+  "figure": "3B",
+  "panel": "",
+  "pdf_page": 5,
+  "printed_page": "",
+  "species": "Rattus norvegicus",
+  "specimen": "fig03B_forelimb_experiment_unresolved",
+  "hemisphere": "unresolved",
+  "view_type": "individual_response_map_on_curved_grid",
+  "hemisphere_relation": "",
+  "linked_main_map": "",
+  "repeat_of": "",
+  "relationship_note": "Distinct panel experiment; animal identity and overlap with other figures unresolved. Do not pool panels as independent animals.",
+  "specimen_link_status": "source_label_preserved; cross-paper overlap unresolved",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 3,
+  "crop_xyxy": [
+    350,
+    1080,
+    1390,
+    1790
+  ],
+  "scale_endpoints_px": [],
+  "scale_length_mm": null,
+  "scale_note": "Source Fig. 3 states each curved grid cell represents 1 mm\u00b2. The grid is nonuniform in image space: a single pixel/mm scale is invalid. Pixel tracing retained; local grid-based area calibration is required and has not been applied.",
+  "scale_reference_map": "",
+  "outline": null,
+  "rois": [
+    {
+      "label": "rostral_forelimb",
+      "polygons": [
+        [
+          [
+            212.0,
+            184.0
+          ],
+          [
+            240.0,
+            168.0
+          ],
+          [
+            286.0,
+            154.0
+          ],
+          [
+            328.0,
+            138.0
+          ],
+          [
+            354.0,
+            138.0
+          ],
+          [
+            368.0,
+            158.0
+          ],
+          [
+            376.0,
+            190.0
+          ],
+          [
+            376.0,
+            216.0
+          ],
+          [
+            358.0,
+            232.0
+          ],
+          [
+            330.0,
+            244.0
+          ],
+          [
+            296.0,
+            244.0
+          ],
+          [
+            264.0,
+            234.0
+          ],
+          [
+            242.0,
+            216.0
+          ],
+          [
+            218.0,
+            206.0
+          ]
+        ]
+      ],
+      "extent": "complete_drawn_response_territory",
+      "boundary_note": "Heavy author-drawn response-territory boundary, traced at stroke centre. Functional response map, not a complete architectonic M1 outline. Dense/merged strokes introduce boundary uncertainty."
+    },
+    {
+      "label": "caudal_forelimb",
+      "polygons": [
+        [
+          [
+            396.0,
+            228.0
+          ],
+          [
+            414.0,
+            200.0
+          ],
+          [
+            432.0,
+            172.0
+          ],
+          [
+            468.0,
+            164.0
+          ],
+          [
+            520.0,
+            164.0
+          ],
+          [
+            558.0,
+            160.0
+          ],
+          [
+            578.0,
+            168.0
+          ],
+          [
+            590.0,
+            200.0
+          ],
+          [
+            606.0,
+            230.0
+          ],
+          [
+            622.0,
+            220.0
+          ],
+          [
+            638.0,
+            192.0
+          ],
+          [
+            672.0,
+            188.0
+          ],
+          [
+            710.0,
+            174.0
+          ],
+          [
+            738.0,
+            174.0
+          ],
+          [
+            764.0,
+            190.0
+          ],
+          [
+            780.0,
+            222.0
+          ],
+          [
+            792.0,
+            264.0
+          ],
+          [
+            800.0,
+            292.0
+          ],
+          [
+            792.0,
+            310.0
+          ],
+          [
+            770.0,
+            318.0
+          ],
+          [
+            754.0,
+            310.0
+          ],
+          [
+            744.0,
+            282.0
+          ],
+          [
+            732.0,
+            240.0
+          ],
+          [
+            720.0,
+            220.0
+          ],
+          [
+            708.0,
+            224.0
+          ],
+          [
+            700.0,
+            244.0
+          ],
+          [
+            700.0,
+            300.0
+          ],
+          [
+            690.0,
+            324.0
+          ],
+          [
+            652.0,
+            332.0
+          ],
+          [
+            596.0,
+            334.0
+          ],
+          [
+            558.0,
+            354.0
+          ],
+          [
+            514.0,
+            386.0
+          ],
+          [
+            492.0,
+            384.0
+          ],
+          [
+            472.0,
+            362.0
+          ],
+          [
+            464.0,
+            334.0
+          ],
+          [
+            460.0,
+            298.0
+          ],
+          [
+            440.0,
+            278.0
+          ],
+          [
+            414.0,
+            270.0
+          ],
+          [
+            396.0,
+            250.0
+          ]
+        ]
+      ],
+      "extent": "complete_drawn_response_territory",
+      "boundary_note": "Heavy author-drawn response-territory boundary, traced at stroke centre. Functional response map, not a complete architectonic M1 outline. Dense/merged strokes introduce boundary uncertainty."
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "M1_total",
+      "status": "not_measurable",
+      "reason": "The figure maps selected response territories, not a complete architectonic M1 boundary."
+    }
+  ],
+  "supersample": 4,
+  "protocol": "perpendicular"
+}

@@ -1,0 +1,6 @@
+map_id	roi_index	label	area_pixels	area_calibrated	unit	original_fractional_pixels	pixel_difference_percent	roi_roundtrip_pixels_equal
+fig04_subjectA	0	forehead_activation_display	29	29.0	pixel^2	24.1875	19.896640826873384	true
+fig04_subjectB	0	forehead_activation_display	26	26.0	pixel^2	21.375	21.637426900584796	true
+fig04_subjectC	0	forehead_activation_display	403	403.0	pixel^2	377.5	6.754966887417218	true
+fig04_subjectE	0	forehead_activation_display	389	389.0	pixel^2	366.625	6.102966246164337	true
+fig04_subjectF	0	forehead_activation_display	371	371.0	pixel^2	342.75	8.242159008023341	true

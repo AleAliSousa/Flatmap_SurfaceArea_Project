@@ -1,0 +1,3 @@
+paper_id,species,label,unit,n_nonrepeated_views,mean,sample_sd,minimum,maximum,interpretation
+Cerkevich_Qi_Kaas_2014,Macaca radiata,3b_face_plus_oral,mm2,1,78.00948660714285,NA,78.00948660714285,78.00948660714285,Descriptive field-view statistics only; hemispheres may be paired. Display-pixel means are not biological areas. No whole-cortex denominator.
+Cerkevich_Qi_Kaas_2014,Macaca mulatta,3b_face_plus_oral,mm2,3,128.22931080685277,32.44874166572605,102.1615315473616,164.5714393028846,Descriptive field-view statistics only; hemispheres may be paired. Display-pixel means are not biological areas. No whole-cortex denominator.

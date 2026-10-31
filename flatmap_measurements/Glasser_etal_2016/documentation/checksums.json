@@ -1,0 +1,22 @@
+{
+  "source/paper.pdf": "9fefc6b98092d0228fccf36b767b9ebb7bc4d2994938fc39ac7cb27129e0002d",
+  "source/manifest.json": "bdfc03434f9aa7251ef0f2d36b806deba1cdbd909cabb4e951c44400c0f029d5",
+  "figures/fig03_HCP_parcellation_source/rois.json": "4d0bcdcb5a76c9bceba301a2d08f477f62cd0e4e91d49e3e200edcf2b60e03d3",
+  "figures/fig03_HCP_parcellation_source/source.tif": "39b5b02a3e68b81a1cff0d7e2e497a28f2634d85ebcaa71fd21f000414855adf",
+  "figures/fig03_HCP_parcellation_source/source_preview.png": "468a8ba3f75d23582cc0d3cb1be3e113dedd79d08bc509b34144bd08619bd7af",
+  "figures/fig03_HCP_parcellation_source/tracing.png": "468a8ba3f75d23582cc0d3cb1be3e113dedd79d08bc509b34144bd08619bd7af",
+  "data/view_index.csv": "e590aad4c81c834e8921bd26bce2b3a91692367cfc74d4b67a899ca291dc85ed",
+  "data/hemisphere_summary.csv": "41d7c38a702afab988d636a787299acd0f618b90704805571df2c894b3ab98eb",
+  "data/measurements.csv": "5fd804f85e017176e07af93b1d59406677ccaefbac8791359764dc5324c7c531",
+  "scripts/measure_flatmaps.py": "23112ffad285b57fa970ef90c74fa60e1a1cce61426203060c75a9e3ba1ea32a",
+  "scripts/ImageJIO.java": "83011f530f0329d902e05de1ed5b301119565a24567f76fd14061ee95e044760",
+  "scripts/summarize_flatmaps.R": "5857bea8db767922524fbff5a2c2d5b49d24c5f77840c70b332ebcb33fc3a88b",
+  "review/gallery.html": "c85488f2073eb401bc9ee22861c48858ac137fbec8733d56b2081b74a1616eb7",
+  "documentation/source_text.txt": "c5c82082e7321b080d894d97de7daa4af64c8e6e50189079b39b57d0b63e930b",
+  "documentation/imagej_measurements.tsv": "47f8b2e134b27979c5f05a8edbb7ea37272d94ac5b633747403aba83f5d2524a",
+  "documentation/review_notes.txt": "29392973fff99bff541be9a41423e246947a112eba8049ef560b6d41b1d68981",
+  "documentation/validation.json": "93c18c56d2d7f37191fecbfc842533e413a6e15c36ba95b3600dff7bae956fab",
+  "documentation/build_log.txt": "0a2d8e219784a8bb4f03d5de5ba95ba5e47a3f30d5dcdcf29d1262da5c64b36a",
+  "documentation/figure_inventory.csv": "1db0ff78ec8d8caa6b46d247a6b50ef7d72f74fe8b9a574bb5977084e967b23b",
+  "documentation/imagej_runtime.txt": "e0bab48832f086b442e4c0096783858767ba3caab0cdf020847ddcf9083ebfb5"
+}

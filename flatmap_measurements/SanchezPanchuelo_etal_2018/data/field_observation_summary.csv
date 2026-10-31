@@ -1,0 +1,2 @@
+paper_id,species,label,unit,n_nonrepeated_views,mean,sample_sd,minimum,maximum,interpretation
+SanchezPanchuelo_etal_2018,Homo sapiens,cheek_response_in_central_sulcus_patch,display_px2,2,972.125,882.115709530218,348.375,1595.875,Descriptive field-view statistics only; hemispheres may be paired. Display-pixel means are not biological areas. No whole-cortex denominator.

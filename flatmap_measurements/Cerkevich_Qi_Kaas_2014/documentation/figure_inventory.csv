@@ -1,0 +1,17 @@
+figure,pdf_page,interpretation,status,next_action
+1,4,Injection locations,not_applicable,Projected overview
+2,5,Flattening photographs,context_only,Partial tissue block; no complete face boundary
+3,6,Injection microscopy,not_applicable,Not a surface-area envelope
+4,7,Serial myelin sections,context_only,"Repeated depth sections, not independent face areas"
+5,8,Four physiological face/oral maps,identity_reference,HFB and response identity; wider reconstructions chosen for complete outer boundary
+6,9,Case1 reconstruction,digitized,3b face+oral
+7,11,Case1 other injection,repeat,Same reconstructed tissue as Fig.6
+8,13,Case2 reconstruction,digitized,3b face+oral
+9,14,Case2 other injection,repeat,Same case as Fig.8
+10,15,Case2 other injection,repeat,Same case as Fig.8
+11,17,Case3 reconstruction,digitized,3b face+oral
+12,18,Case3 other injection,repeat,Same case as Fig.11
+13,19,Case4 reconstruction,digitized,3b face+oral
+14,21,Case4 other injection,repeat,Same case as Fig.13
+15,22,Contralateral projections,not_measurable_target,No complete physiologically identified face envelope
+16,23,Connection summary,not_applicable,"Illustration, not an individual specimen"

@@ -1,0 +1,248 @@
+{
+  "map_id": "fig10_9316_bipolar",
+  "figure": "10",
+  "panel": "",
+  "pdf_page": 14,
+  "printed_page": "",
+  "species": "Monodelphis domestica",
+  "specimen": "9316",
+  "hemisphere": "unresolved",
+  "view_type": "individual_motor_response_map",
+  "hemisphere_relation": "",
+  "linked_main_map": "",
+  "repeat_of": "",
+  "relationship_note": "Motor response territory overlaps sensory cortex. No separate M1 inferred; keep stimulation protocols separate.",
+  "specimen_link_status": "source_label_preserved; cross-paper overlap unresolved",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 3,
+  "crop_xyxy": [
+    280,
+    390,
+    800,
+    940
+  ],
+  "scale_endpoints_px": [
+    [
+      236.0,
+      502.0
+    ],
+    [
+      382.0,
+      502.0
+    ]
+  ],
+  "scale_length_mm": 1,
+  "scale_note": "Printed same-panel scale; no shrinkage correction applied.",
+  "scale_reference_map": "",
+  "outline": null,
+  "rois": [
+    {
+      "label": "motor_vibrissae_bipolar",
+      "polygons": [
+        [
+          [
+            42.0,
+            46.0
+          ],
+          [
+            58.0,
+            30.0
+          ],
+          [
+            88.0,
+            26.0
+          ],
+          [
+            134.0,
+            30.0
+          ],
+          [
+            190.0,
+            36.0
+          ],
+          [
+            236.0,
+            30.0
+          ],
+          [
+            286.0,
+            24.0
+          ],
+          [
+            306.0,
+            32.0
+          ],
+          [
+            316.0,
+            52.0
+          ],
+          [
+            330.0,
+            76.0
+          ],
+          [
+            356.0,
+            88.0
+          ],
+          [
+            406.0,
+            90.0
+          ],
+          [
+            434.0,
+            100.0
+          ],
+          [
+            448.0,
+            120.0
+          ],
+          [
+            456.0,
+            152.0
+          ],
+          [
+            458.0,
+            188.0
+          ],
+          [
+            464.0,
+            222.0
+          ],
+          [
+            460.0,
+            258.0
+          ],
+          [
+            446.0,
+            288.0
+          ],
+          [
+            424.0,
+            324.0
+          ],
+          [
+            400.0,
+            346.0
+          ],
+          [
+            370.0,
+            364.0
+          ],
+          [
+            338.0,
+            372.0
+          ],
+          [
+            296.0,
+            376.0
+          ],
+          [
+            242.0,
+            372.0
+          ],
+          [
+            208.0,
+            376.0
+          ],
+          [
+            190.0,
+            392.0
+          ],
+          [
+            190.0,
+            432.0
+          ],
+          [
+            194.0,
+            464.0
+          ],
+          [
+            182.0,
+            486.0
+          ],
+          [
+            164.0,
+            502.0
+          ],
+          [
+            140.0,
+            506.0
+          ],
+          [
+            114.0,
+            498.0
+          ],
+          [
+            84.0,
+            484.0
+          ],
+          [
+            60.0,
+            462.0
+          ],
+          [
+            42.0,
+            434.0
+          ],
+          [
+            32.0,
+            406.0
+          ],
+          [
+            36.0,
+            366.0
+          ],
+          [
+            36.0,
+            306.0
+          ],
+          [
+            40.0,
+            260.0
+          ],
+          [
+            38.0,
+            210.0
+          ],
+          [
+            42.0,
+            184.0
+          ],
+          [
+            64.0,
+            168.0
+          ],
+          [
+            90.0,
+            152.0
+          ],
+          [
+            104.0,
+            138.0
+          ],
+          [
+            98.0,
+            112.0
+          ],
+          [
+            80.0,
+            92.0
+          ],
+          [
+            58.0,
+            80.0
+          ],
+          [
+            42.0,
+            66.0
+          ]
+        ]
+      ],
+      "extent": "complete_drawn_field",
+      "boundary_note": "Manual outline follows visible source boundary; short label/stroke gaps interpolated. Includes internal symbols and tracer deposits. Provisional."
+    }
+  ],
+  "unmeasured": [],
+  "supersample": 4
+}

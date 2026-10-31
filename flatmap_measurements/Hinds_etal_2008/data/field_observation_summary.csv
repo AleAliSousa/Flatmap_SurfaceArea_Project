@@ -1,0 +1,2 @@
+paper_id,species,label,unit,n_nonrepeated_views,mean,sample_sd,minimum,maximum,interpretation
+Hinds_etal_2008,Homo sapiens,V1,mm2,10,2655.9720000000007,672.5797779660708,1880.8500000000004,3786.270000000001,Descriptive field-view statistics only; hemispheres may be paired. Display-pixel means are not biological areas. No whole-cortex denominator.

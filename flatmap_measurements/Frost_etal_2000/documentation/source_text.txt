@@ -1,0 +1,1742 @@
+
+===== PDF PAGE 1 =====
+Somatosensory and Motor
+Representations in Cerebral Cortex of a
+Primitive Mammal
+(Monodelphis domestica): A Window
+Into the Early Evolution of
+Sensorimotor Cortex
+SHAWN B. FROST, 1* GARRETT W. MILLIKEN, 2 ERIK J. PLAUTZ, 1,4
+R. BRUCE MASTERTON, 3 AND RANDOLPH J. NUDO 1
+1Department of Molecular and Integrative Physiology and Center on Aging,
+University of Kansas Medical Center, Kansas City, Kansas 66160
+2Department of Psychology, College of Charleston, Charleston, South Carolina 29424
+3Department of Psychology, Florida State University, Tallahassee, Florida 32306
+4Department of Neurobiology and Anatomy, University of Texas Medical School,
+Houston, Texas 77030
+ABSTRACT
+To examine the potential early stages in the evolution of sensorimotor cortex, electrophysi-
+ological studies were conducted in the primitive South American marsupial opossum,Monodel-
+phis domestica.Somatosensory maps derived from multiunit microelectrode recordings revealed
+a complete somatosensory representation of the contralateral body surface within a large region
+of midrostral cortex (primary somatosensory cortex, or S1). A large proportion (;51%) of S1 was
+devoted to representation of the glaborous snout, mystacial vibrissae, lower jaw, and oral cavity
+(the rostrum). A second representation, the second somatosensory area (or S2), was found
+adjacent and caudolateral to S1 as a mirror image reversed along the representation of the
+glabrous snout. A reversal of somatotopic order and an enlargement of receptive ﬁelds marked
+the transition from S1 to S2. Mapping of excitable cortex was conducted by using intracortical
+microstimulation (ICMS) techniques, as well as low-impedance depth stimulation and bipolar
+surface stimulation. In all three procedures, electrical stimulation resulted in movements con-
+ﬁned strictly to the face. Speciﬁcally, at virtually all sites from which movements could be evoked,
+stimulation resulted in only vibrissae movement. ICMS-evoked vibrissae movements typically
+occurred at sites within S1 with receptive ﬁelds of the mystacial vibrissae, lower jaw, and
+glaborous snout. Results were similar using low-impedance depth stimulation and bipolar sur-
+face stimulation techniques except that the motor response maps were generally larger in area.
+There was no evidence of a motor representation rostral to S1. Examination of the cytoarchitec-
+ture in this cortical region (reminiscent of typical mammalian somatosensory cortex) and the high
+This study was a collaborative effort between the laboratories of Bruce
+Masterton and Randolph Nudo. The manuscript was in preparation at the
+time of Bruce’s death in 1996. This work would not have been possible
+without Bruce’s unfailing guidance, wisdom and inspiration.
+Grant sponsor: NIH-NINDS; Grant numbers: NS30853, NS07726; Grant
+sponsor: NICHD; Grant number: HD02528; Grant sponsor: The Kansas
+Claude Pepper Center for Independence in Older Americans; Grant num-
+ber: NIA AG 14635; Grant sponsor: NRSA; Grant number: NS 09366.
+*Correspondence to: Shawn B. Frost, Department of Molecular and
+Integrative Physiology, University of Kansas Medical Center, 3901 Rain-
+bow Blvd., Kansas City, KS 66160. E-mail: sfrost@kumc.edu
+Received 24 August 1999; Revised 23 December 1999; Accepted 11 Jan-
+uary 2000
+THE JOURNAL OF COMPARATIVE NEUROLOGY 421:29–51 (2000)
+© 2000 WILEY-LISS, INC.
+
+===== PDF PAGE 2 =====
+levels of stimulation needed for vibrissae movement suggest that the parietal neocortex of
+Monodelphis is representative of a primitive sensorimotor condition. It possesses a complete
+S1 representation with an incomplete motor component overlapping the S1 representation of
+the face. It contains no primary motor representation. Completion of the motor representa-
+tions within S1 (trunk, limbs, tail) as well as the emergence of a primary motor cortex rostral
+to S1 may have occurred relatively late in mammalian phylogeny. J. Comp. Neurol. 421:
+29–51, 2000.
+© 2000 Wiley-Liss, Inc.
+Indexing terms: sensory cortex; motor cortex; marsupial; evolution
+For at least 50 years, it has been suggested that the
+evolution of the mammalian sensorimotor cortex was
+marked by progressive differentiation into separate sen-
+sory and motor areas. This notion gained widespread sup-
+port after a series of electrophysiological experiments by
+Richard Lende in the 1960s using surface stimulation and
+evoked potential techniques in the North American opos-
+sum (Didelphis virginiana). Based on these experiments,
+Lende argued that the sensory and motor areas of neuro-
+logically primitive mammals (e.g., opossums) overlap com-
+pletely. He referred to this area as a “sensorimotor amal-
+gam” (Lende, 1963a,b,c).
+Recently, we reexamined the notion of a sensorimotor
+amalgam in the gray, short-tailed (or Brazilian) opossum
+(Monodelphis domestica). This species was chosen because
+in a previous comparative study of 24 mammals, it was
+found to possess relatively few corticospinal neurons, pos-
+sibly indicating that its cortical motor system is neurolog-
+ically primitive (Nudo and Masterton, 1988, 1990a). Of the
+species examined in tract tracing studies by Nudo and
+Masterton, the Monodelphis opossum was found to have
+the second lowest number of corticospinal neurons (second
+only to the least shrew), the lowest number of corticospi-
+nal neurons per brain weight, and the smallest proportion
+of cortex containing corticospinal neurons (Nudo and Mas-
+terton, 1990a,b; Nudo et al., 1995).
+M. domestica is a small terrestrial marsupial native to
+the semiarid region of northeastern Brazil (Strilein, 1982).
+Like the North American opossum, Monodelphis is part of
+the family of Didelphid opossums which, based on com-
+parative neurology of the past century, has retained the
+basic brain structure that is believed to closely approxi-
+mate the form which can serve as a starting point for
+tracing the evolution of modern mammalian neural orga-
+nization, whether marsupial or placental (Smith, 1910;
+Loo, 1930; Edinger, 1948; Simpson, 1949, 1959; Olsen,
+1959; Frost and Masterton, 1992). This view has further
+been supported by fossil and geological evidence showing
+the existence of mammals virtually identical in bony
+structure to extant Didelphids at least since the Creta-
+ceous and perhaps the Jurassic, 100 million or more years
+ago (Gregory, 1929; Clemens, 1968, 1977; Marshall et al.,
+1987). Furthermore, certain Monodelphid anatomical
+characteristics, such as small body size and lack of a
+marsupial pouch, suggest that this species may be more
+“primitive” and characteristic of the original metatherian
+form than Didelphis virginiana (Kirsch, 1977; Marshall,
+1979; Reig et al., 1987).
+MATERIALS AND METHODS
+Somatosensory and motor mapping procedures were
+conducted in 12 adult Gray Short-tailed opossums (Mono-
+delphis domestica; 7 male, 5 female). Body weights ranged
+from 45 to 139 g. Combined somatosensory and motor
+mapping procedures were conducted in seven animals. In
+addition, exclusive somatosensory mapping (i.e., without
+motor mapping procedures) was conducted in one animal,
+whereas exclusive motor mapping procedures (i.e., with-
+out somatosensory procedures) were conducted in four
+animals. Three additional animals were used to examine
+the cortical architecture in sections from ﬂattened cortex
+processed for myelin.
+Surgical and electrophysiological techniques
+Surgical techniques. First, each animal was prean-
+esthetized to effect with halothane/nitrous oxide. Then
+one of three anesthetic protocols was followed during sur-
+gical and electrophysiological procedures, depending upon
+the particular requirements of the mapping experiment.
+For each anesthetic protocol, an initial dose was adminis-
+tered to establish a deep anesthetic level, then subsequent
+smaller doses were administered to maintain adequate
+anesthesia. As the anesthetics were given to effect, and
+varied across animals, the doses are approximate. These
+Abbreviations
+AUD auditory cortex
+C caudal
+contra contralateral
+D dorsal
+D1–D5 digits
+distal ﬂ. distal forelimb
+HL, hl hindlimb
+ICMS intracortical microstimulation
+ipsi ipsilateral
+l. back lower back
+l. lip lower lip
+l. jaw lower jaw
+M medial
+mid middle
+Ms motorsensory cortex
+Mv motor vibrissae
+NR no response
+R rostral
+Rh. Fiss. rhinal ﬁssure
+S1 primary somatosensory cortex
+S2 secondary somatosensory cortex
+sh shoulder
+Sd sensory digit
+Sm sensorymotor cortex
+Sv sensory vibrissae
+Tot. SS total somatosensory area
+u. lip upper lip
+V ventral
+vb, vib vibrissae
+VIS visual cortex
+30 S.B. FROST ET AL.
+
+===== PDF PAGE 3 =====
+anesthetic protocols were: (1) ketamine/xylazine for com-
+bined motor and somatosensory mapping procedures (n 5
+2) and for motor mapping procedures alone (n 5 4): stock
+ketamine (100 mg/ml) and xylazine (20 mg/ml) were di-
+luted with saline to achieve a concentration of 50 mg/ml
+and 5 mg/ml, respectively. Animals were given an initial
+intraperitoneal dose of 10 mg ketamine and 1 mg Xylazine
+per 100 g of body weight. Smaller doses (ketamine 5 mg/
+100 g, Xylazine .5 mg/100 g) were delivered every 20–40
+minutes for maintenance of a surgical level of anesthesia;
+(2) sodium pentobarbital for sensory mapping procedures
+alone (n 5 1): stock sodium pentobarbital (65 mg/ml) was
+diluted 1:1 with saline to a concentration of 32.5 mg/ml.
+Animals were given an initial dose of 4 mg/100 g body
+weight. Maintenance doses of 3 mg/100 g were delivered
+every 2–3 hours. In several animals in which combined
+sensory and motor mapping procedures were employed,
+sodium pentobarbital was used for sensory mapping pro-
+cedures and ketamine/xylazine was used for the motor
+mapping procedures (n 5 3); (3) urethane for sensory and
+motor mapping procedures (n 5 2; 15% W/V in distilled
+water): animals were given an initial dose of 75 mg/100 g
+body weight. Maintenance doses of urethane were not
+required. The rationale for the use of urethane was for
+more direct comparison with an earlier study of somato-
+sensory/motor overlap in Virginia opossums (Lende,
+1963a,b,c). Neither the somatosensory nor the motor re-
+sults differed qualitatively by using the different anes-
+thetic protocols. Each animal was mounted in a stereo-
+taxic frame, a laminectomy was performed between atlas
+and axis, and cerebrospinal ﬂuid was allowed to drain to
+prevent swelling of the brain. An extensive craniotomy
+was performed over one hemisphere. A dental acrylic dam
+was constructed around the craniotomy, the dura was
+removed, and the brain was covered with a pool of warm
+silicone oil. A magniﬁed photograph of the cortical surface
+vasculature was obtained by using a video frame grabber.
+Following the surgical procedure, somatosensory mapping
+procedures, motor mapping procedures, or both were con-
+ducted for a period of 1 to 18 hours. Core temperature was
+monitored and maintained by using a homeothermic blan-
+ket system within 32°C and 34°C.
+All animals were cared for in accordance with the Na-
+tional Institutes of Health Guide for the Care and Use of
+Laboratory Animals and with the approval of the Institu-
+tional Animal Care and Use Committee.
+Somatosensory mapping procedures. For multi-
+unit somatosensory recordings, a glass micropipette ﬁlled
+with 3.5 M NaCl (impedance 5 500 kV–1 MV), or a tung-
+sten microelectrode (impedance 5 1M V) was introduced
+on a ﬁne grid pattern, sited with reference to the surface
+vasculature (approximately 250–500 mm interpenetration
+distances; Fig. 1). Results obtained with the two micro-
+electrode types were identical and are pooled in the re-
+mainder of the paper. At each site, the electrode was
+advanced perpendicular to the cortical surface to depths
+ranging from 400 to 800mm. Minimal cutaneous receptive
+ﬁelds were deﬁned by determining the skin ﬁeld over
+which cortical neurons were driven by just visible inden-
+tation of the skin with a ﬁne glass probe, or by hair
+bending. Somatosensory mapping procedures lasted 4 to
+12 hours.
+Motor mapping procedures. Motor mapping results
+were based primarily on intracortical microstimulation
+(ICMS) experiments. At each site, ICMS mapping proce-
+dures were employed to determine the movement(s)
+evoked by stimulation at near-threshold current levels.
+Details of this procedure are presented in Nudo et al.
+(1992, 1996). Brieﬂy, at each site, a glass micropipette
+ﬁlled with 3.5 M NaCl (impedance 5 500 kV–1 MV; out-
+side tip diameter 5 10–20 mm) was introduced on the
+same grid pattern used for somatosensory mapping. The
+electrode was advanced to approximately 1,200 mm, be-
+cause movements were evoked at the lowest current levels
+at this depth. If motor responses were not evoked at this
+depth, other depths ranging from 800 to 1,700 mm were
+explored. This range corresponds approximately to layers
+4 through 6. The stimulus consisted of 40-msec current
+trains of 200-msec cathodal pulses delivered at 350 pulses/
+sec from an electrically isolated stimulation circuit. The
+maximum current used in these experiments was 60 mA,
+though higher currents were used at the conclusion of
+each experiment (up to 100 mA) to determine whether
+responses could be evoked at previously nonresponsive
+sites (n 5 6 animals). In several cases, the train length of
+stimulation at sites where no movement could be evoked
+was extended to 80 ms.
+Two additional stimulation procedures were used in
+four animals to determine whether any additional motor
+responses could be evoked by using techniques designed to
+stimulate larger volumes of cortical tissue, and hence,
+larger numbers of cortical neurons: 1) depth stimulation
+with low-impedance microelectrodes (hereafter called
+“low-impedance depth stimulation”) employed electrodes
+with impedances of 100 k V. These electrodes also were
+glass micropipettes ﬁlled with 3.5 M NaCl, but outside tip
+diameters were larger. The use of these higher impedance
+electrodes required signiﬁcantly higher current levels
+(maximum 5 500 mA) to evoke movements (n 5 3); 2)
+bipolar electrical stimulation of the cortical surface em-
+ployed two ﬁne stainless steel wires with a separation of
+350–500 mm. These bipolar electrodes were similar to
+those used by Lende (1963c) and allow for a more direct
+comparison with his earlier study. Maximum current us-
+ing bipolar stimulation was 3 mA (n 5 4). Two of the
+animals used in bipolar surface stimulation mapping were
+also used in low-impedance depth stimulation mapping.
+Motor mapping procedures lasted 2 to 12 hours.
+At the conclusion of the mapping procedures, reference
+marks were placed at the topographic boundaries within
+the sensorimotor area either by small electrolytic lesions
+or by injection of ﬂuorescent latex microspheres.
+Histology
+Following electrophysiological procedures, the animals
+were deeply anesthetized with sodium pentobarbital (8
+mg/100 g) and perfused transcardially with 0.9% saline
+followed by 10% formalin as ﬁxative. The brains were then
+transferred to a solution of 30% sucrose formalin for 1–2
+weeks. Coronal sections of 50-mm thickness were cut on a
+freezing microtome and mounted onto gelatin-coated
+slides and alternate sections stained for Nissl substance
+with cresyl violet. These sections were used to examine
+the cytoarchitecture and to determine the topographic
+location and depth of cortical recordings.
+Three additional animals that had not undergone neu-
+rophysiologic procedures were anesthetized and perfused
+in the same manner, and their brains removed and stored
+in 5% formalin in 0.1 M phosphate buffer at pH 7.4 for 1–8
+weeks. The cortex from each hemisphere was separated
+31SENSORIMOTOR CORTEX IN A PRIMITIVE MAMMAL
+
+===== PDF PAGE 4 =====
+from the brainstem and the underlying white matter,
+unfolded and ﬂattened. Flattened cortices were stored 1–3
+days between weighted glass slides in the same 5% buff-
+ered formalin. The cortex was then sectioned parallel to
+the surface at 30–50 mm on a freezing microtome. Sections
+were stored in fresh 5% phosphate-buffered formalin (pH
+7.4) for 1–3 days and processed for myelin (Gallyas, 1979).
+These sections were examined to aid in the determination
+of general architectonic boundaries of somatosensory cor-
+tex in this species.
+RESULTS
+Detailed somatosensory maps were derived in ﬁve ani-
+mals, ICMS motor maps in ﬁve animals, bipolar stimula-
+tion motor maps in four animals, and low-impedance
+depth stimulation motor maps in three animals.
+Microelectrode mapping of multi-unit-evoked responses
+revealed a complete representation of the contralateral
+body surface within a large region of midrostral neocortex.
+In addition, a second, virtually complete, but smaller
+representation was revealed adjacent and lateral to the
+larger representation. The second representation was a
+mirror image of the ﬁrst representation reversed along the
+representation of the glabrous snout.
+Microelectrode electrical stimulation of this same region
+of neocortex resulted in movements that were conﬁned
+strictly to the face. At virtually all sites from which move-
+ments could be evoked, electrical stimulation resulted
+only in vibrissae movement. These movements were found
+to roughly correspond to body parts congruent with the
+receptive ﬁelds recorded at each site. Detailed results of
+somatosensory and motor mapping experiments are re-
+ported below.
+Microelectrode mapping of
+somatosensory cortex
+Microelectrode recordings provided sufﬁcient evidence
+for two somatotopically organized areas of cortex, one
+located rostromedially and the other caudolaterally, in
+four of the ﬁve opossums in which somatosensory mapping
+was completed (see Figs. 1, 2; and list of abbreviations). In
+the remaining opossum, the spatial resolution of the elec-
+trode penetrations was not sufﬁcient to differentiate the
+two regions. The relative locations of electrode penetra-
+tions where neurons were responsive to light touch on the
+body surface or to movement of body hairs are shown for 5
+cases in Figures 1 and 2. Area boundaries were estimated
+by drawing borders midway between two adjacent record-
+ing sites determined to be activated by cutaneous stimu-
+lation of different body parts. Sites with receptive ﬁelds of
+two or more body parts were often found on the border
+between the single body part representations. In each
+case, additional recording sites in adjacent regions of cor-
+tex were not activated by cutaneous stimuli, and thus
+were deﬁned as “nonresponsive.” Boundaries between the
+two somatotopically organized body representations were
+estimated by a reversal in somatotopic order and an in-
+crease in receptive ﬁeld size (as described in detail below)
+and are delineated by a dashed line.
+Primary somatosensory area (S1). Somatosensory
+mapping procedures revealed a complete representation of
+the contralateral body surface in which the hindlimb and
+tail were represented medially and the face and snout
+were represented laterally. This medial-to-lateral se-
+quence is similar to the location and somatotopic order of
+S1 as observed in other mammals (Kaas, 1983). Figure 1
+shows the topographic location of somatosensory record-
+ing sites in case 9213 and their location relative to previ-
+ously identiﬁed corticospinal somata (Fig. 1, inset; Nudo
+and Masterton, 1990a). In this and other cases, the rep-
+resentation of the hindlimb and tail was located at or near
+the cortical midline. In the majority of cases the primary
+somatosensory area contained a relatively large represen-
+tation of the distal forelimb lateral to the trunk and hind-
+limb representations, and a large representation of the
+face and snout, particularly the vibrissae, lateral to the
+forelimb representation. Figure 2 shows the topographic
+representation of the body surface in four other animals.
+In each case the somatotopic representation was located in
+a similar medial to lateral and rostral to caudal position in
+cortex.
+The vast majority of responses were activated by stim-
+ulation of the contralateral side of the body. The only
+exceptions were at some sites activated by stimulation of
+the glabrous snout, midline face, lower jaw (near the mid-
+line), and back. Receptive ﬁelds at these sites were often
+bilateral.
+Figure 3 shows typical receptive ﬁelds from representa-
+tive sites in case 9213. In general, the multi-unit receptive
+ﬁelds of S1 in Monodelphis were larger in the size of the
+body part representation than those seen in primates us-
+ing similar techniques (Merzenich et al., 1978; Sur et al.,
+1982). Many receptive ﬁelds of the hand extended over
+multiple digits, but were usually conﬁned to either the
+glabrous or dorsal surface, but not both. Receptive ﬁelds of
+the vibrissae typically included several vibrissae and often
+entire rows. Receptive ﬁelds of the body were often quite
+large, covering the entire trunk and abdomen.
+In cases with sufﬁcient detail, a crudely somatotopic
+representation of the distal forelimb was consistently ob-
+served. In these cases, the ulnar digits of the distal fore-
+limb were represented medially and the radial digits were
+represented laterally (Fig. 4). Some sites had receptive
+ﬁelds conﬁned to single digits. An average of 23% of S1
+was devoted to the distal forelimb (see Table 1). In addi-
+tion, a crude caudal to rostral somatotopic gradient was
+found. That is, wrist and forearm receptive ﬁelds were
+always located in the caudal half of the forelimb represen-
+tation, whereas digit ﬁelds were more rostral. This ar-
+rangement is similar to the topography of the forelimb
+representation in other species (see Kaas, 1983 for re-
+view).
+Somatotopy was also evident in the face representation
+across S1 (Fig. 5). First, the lower jaw representation was
+typically located rostromedial to the upper jaw representa-
+tion (Figs. 5, 6). Second, proceeding in a caudomedial to
+rostrolateral direction within the upper or lower jaw repre-
+sentation, receptive ﬁelds were found ﬁrst on the posterior
+aspect of the jaw and then on progressively more anterior
+aspects of the jaw and/or snout and oral cavity (lower jaw:
+sites A, and J through M in Fig. 5; upper jaw: sites 1 through
+6 and C in Fig. 6). Third, a crude somatotopic arrangement
+was observed for the mystacial vibrissae. That is, receptive
+ﬁelds for sites progressing in a medial to lateral direction
+indicated that the posterior mystacial vibrissae were repre-
+sented medial to anterior mystacial vibrissae and snout
+(sites B–D in Fig. 5 and sites 1–4 in Fig. 6). A more orderly
+somatotopic arrangement of speciﬁc single vibrissae or rows
+32 S.B. FROST ET AL.
+
+===== PDF PAGE 5 =====
+of vibrissae was sought, but not found. The size of the vibris-
+sae representation ranged from 12% to 18% of S1 (see Table
+1). Half (51.3 6 6.7%) of the somatosensory representation
+was composed of sites activated by stimulation of the rostral
+face: the glabrous snout, mystacial vibrissae, lower jaw, lips,
+and oral cavity (referred to as “rostrum” in Table 1). Finally,
+a representation of the lips, tongue, and oral cavity was
+consistently found occupying an area rostral to the snout
+representation. The trunk, hindlimb, and tail were repre-
+sented in the medial portion of the map, with the tail repre-
+sented rostral to the hindlimb and lower back representa-
+tions (Fig. 1). The posterior body representation typically
+had large receptive ﬁelds and averaged 17.7% of the total S1
+area.
+Fig. 1. Scope of somatosensory mapping experiments. Mapping
+procedures were guided by the locations of corticospinal neurons
+(inset) derived in previous experiments (Nudo and Masterton, 1990).
+In each animal, either somatosensory or motor mapping procedures,
+or both, were conducted. Left, dorsolateral photomicrograph of the
+right cortical hemisphere of Monodelphis 9213 showing the extent of
+the electrophysiological sensory recording. Right, the somatosensory
+map revealed a complete representation of the body surface (primary
+somatosensory area, S1), dominated by a large representation of the
+face, including the snout and vibrissae. As in other mammals, the
+hindlimb and tail are represented medially and the face is repre-
+sented laterally. The distal forelimb comprised a signiﬁcant portion of
+the map and a crude somatotopic organization was found for digits,
+with radial digits represented laterally and ulnar digits represented
+medially. A second representation (secondary somatosensory area,
+S2) of the body surface with higher thresholds and larger receptive
+ﬁelds was found lateral and caudal to S1. An electrolytic lesion and
+ﬂuorescent bead injections were placed within the map as orientation
+markers for histology. Figure 1–14 were produced by using Canvas
+3.5.5. For abbreviations in this and subsequent ﬁgures, see list.
+33SENSORIMOTOR CORTEX IN A PRIMITIVE MAMMAL
+
+===== PDF PAGE 6 =====
+Second somatosensory area, (S2). A second repre-
+sentation of the body surface was found to be situated
+caudolateral to S1. This second representation was appar-
+ent from the receptive ﬁelds of recording sites progressing
+caudolaterally from S1. The transition from S1 to S2 was
+typically marked by a reversal in body part representation
+Fig. 2. Reconstructions of electrophysiological recordings showing
+the somatotopic organizations of primary (S1) and secondary somato-
+sensory areas (S2) cortex in four Monodelphis opossums. The outer
+boundaries of S1 and S2 were estimated from the somatotopic pat-
+terns and receptive ﬁeld sizes for each numbered case. Within each
+ﬁeld, lines separate recording sites (dots) activated by a light touch on
+a designated body part. These results showed a common somatotopic
+organization of S1 with the hindlimb and trunk represented medially
+and the face and snout laterally. In opossums that demonstrated
+evidence of two somatotopic maps (9213; Fig. 1), 9321, 9324, and 9212)
+the transition from S1 to S2 was marked by a reversal of somatotopic
+order and an enlargement of receptive ﬁelds. This second somatotopic
+representation was positioned caudolateral to, and mirrored, the S1
+representation. Somatotopic maps in each case occupied a similar
+rostrocaudal position in cortex (inset in Fig. 1).
+34 S.B. FROST ET AL.
+
+===== PDF PAGE 7 =====
+and an increase in receptive ﬁeld size (Fig. 5A–H). An
+enlargement of the receptive ﬁeld size and a reversal of
+the somatotopic order are characteristics of neuronal re-
+sponses in rows of recording sites crossing from S1 to S2 in
+several species (Krubitzer and Kaas, 1990; Beck et al.,
+1996). However, in the present study, receptive ﬁeld sizes
+were occasionally similar in S1 and S2 and the border
+between ﬁelds was then determined by a somatotopic re-
+versal. Receptive ﬁelds for progressively more lateral sites
+in S1 began in the posterior lower face, progressed to the
+mystacial vibrissae and ended on the glabrous snout (Fig.
+5A–D). The receptive ﬁeld at the next site (Fig. 5E) in the
+lateral progression reversed back to the mystacial vibris-
+sae and was larger, including almost all the vibrissae on
+the contralateral face. Subsequent sites in the lateral pro-
+gression had large receptive ﬁelds reversing back to the
+lower jaw vibrissae (Fig. 5G), to the face, head and neck
+(Fig. 5H,N) and to the entire hand (Fig. 5I) or shoulder
+and back (Fig. 5O).
+This mediolateral transition from S1 to S2 is illustrated
+for case 9324 in Figure 6. Receptive ﬁelds for progressively
+more lateral sites in S1 began in the posterior mystacial
+vibrissae (Fig. 6, site 1), progressed to more anterior
+vibrissae (Fig. 6; 3, 4) and ended on the glabrous snout
+(Fig. 6; 5). The receptive ﬁeld in the next site in the lateral
+progression was much larger and included the entire ros-
+tral snout and part of the upper lip (Fig. 6; 7). Still more
+laterally the receptive ﬁelds moved to the lower lip and
+jaw (Fig. 6; 8), followed by large region of the mystacial
+vibrissae (Fig. 6; 9). In a mediolateral progression along
+the rostral border of the somatosensory map receptive
+ﬁelds moved in an anterior direction along the lower lip to
+the ventral glabrous snout (Fig. 6A–C), then to the entire
+rostral snout and upper lip (Fig. 6D), followed by the
+entire upper and lower lip (Fig. 6E). In Figures 1 to 6, the
+delineation of the S1/S2 border is based on the relative
+size of the receptive ﬁelds at each site and the reversal of
+somatotopic representation in the caudolateral progres-
+sion of recording sites.
+Electrical stimulation maps of
+somatosensory cortex
+Electrical stimulation maps of motor outputs from the
+physiologically identiﬁed somatosensory cortex were de-
+rived by using three different techniques as described in
+Materials and Methods: ICMS, low-impedance depth
+stimulation, and bipolar surface stimulation. The results
+using each of these techniques is described, in turn, below.
+Intracortical microstimulation (ICMS). By using
+ICMS, sites throughout the entire cortical extent of the
+physiologically deﬁned somatosensory cortex were ex-
+plored for stimulus-evoked movements of skeletal muscu-
+lature. In addition, sites immediately rostral and caudal
+to the somatosensory cortex were examined for stimulus-
+evoked responses. In most cases, movements were evoked
+by stimulation at sites within S1, but at no sites within S2.
+One exception was case 9211, where responses were
+evoked in more lateral portions of the sensory-response
+area that may be S2 (see Fig. 13). In most cases, ICMS
+evoked movements of vibrissae only, with an average
+threshold of 50 mA and ranging from a low of 9 mAt ot h e
+maximum current level of 100 mA. Figure 7 shows the
+topographic location of ICMS sites in case 9213 and their
+location relative to previously identiﬁed corticospinal so-
+mata (Fig. 7, inset; Nudo and Masterton, 1990a). In this
+case, ICMS procedures resulted in movement of vibrissae
+at 13 sites and movement of the lower jaw at one site. In
+each of the other cases, ICMS procedures resulted only in
+movement of mystacial and lower jaw vibrissae. In the ﬁve
+cases in which complete, or nearly complete, ICMS-evoked
+movement maps were derived, the excitable area averaged
+3.3 6 2.1 mm
+2.
+Figure 8 shows the results of ICMS mapping in four
+additional animals. In cases where sensory recordings
+were also conducted, these areas largely overlapped areas
+responsive to cutaneous stimulation of the vibrissae,
+snout, face, and lower jaw (see input-output coupling be-
+low). The majority of these responses (72.2 6 15%) were
+contralateral to the site of the stimulation, though ICMS
+also evoked ipsilateral (16.6 6 7%) and bilateral (11.4 6
+12%) vibrissae movements. The contralateral, ipsilateral,
+and bilateral response sites appear to be clustered into
+distinct zones. In most cases, the contralateral responses
+were clustered in a caudomedial position relative to the
+more rostrolaterally placed ipsilateral response zone, and
+the more rostrally positioned bilateral response zone.
+ICMS typically evoked movement of all mystacial vibris-
+sae or all lower jaw vibrissae on one side, though at many
+sites, movement of groups of mystacial vibrissae was ob-
+served. These were composed of two or more caudal, mid-
+dle, or rostral vibrissae, or dorsal or ventral groups, and
+Fig. 3. Representative multi-unit receptive ﬁelds of somatosen-
+sory cortex in case 9213 (recording sites shown in Fig. 1). These are
+typical receptive ﬁelds found for the snout, face, vibrissae, digits, and
+forelimb and body. A large number of penetration sites were respon-
+sive to stimulation of the face and vibrissae, with most sites respon-
+sive to groups of vibrissae (site 52) and often entire rows. Receptive
+ﬁelds of the distal forelimb often included multiple digits and digit-
+hand combinations (sites 5 and 43). Penetrations that responded to
+stimulation of the back and lower body had receptive ﬁelds that were
+typically large in size (22, 33, 76, 29). Sites 64, 69, and 76 are located
+in secondary somatosensory area (S2), all others are in primary so-
+matosensory area (S1).
+35SENSORIMOTOR CORTEX IN A PRIMITIVE MAMMAL
+
+===== PDF PAGE 8 =====
+occasionally various combinations of each (see Fig. 12 for
+examples). Although examined in detail, the evoked move-
+ments of vibrissae did not have a consistent topographic
+organization in any of these cases with respect to rostral/
+caudal or dorsal/ventral groups.
+The motor representation was quite variable in size
+across animals, ranging in size from 1.21 to 6.25 mm
+2.I n
+addition, there was a tendency for males (n5 3) to possess
+a larger motor area than females (n 5 2). Map areas in
+females averaged 1.53 6 0.45 mm 2 and map areas in
+males averaged 4.47 6 1.94 mm2. However, this gender
+difference was not statistically signiﬁcant, perhaps due to
+a small number of complete maps on which this data is
+based, and a large variance in the representational area,
+especially in males. Due to a substantial difference in size
+between females (45–67 g) and males (89–139 g), this
+gender difference also was examined after normalizing for
+body weight. Females had smaller map areas relative to
+males, even when corrected for body size, though this
+difference was again statistically nonsigniﬁcant (2.73 6
+0.5 mm
+2/100 g in females; 4.64 6 2.68 mm 2/100 g in
+males).
+Low-impedance depth stimulation. In cases where
+low-impedance depth stimulation was employed, stimula-
+tion thresholds were greater than those found with ICMS
+procedures, ranging from a minimum of 90 mA to a max-
+TABLE 1. Area Measurements (in mm2) and Percentages of Body Part Representations Within Somatosensory Cortex1
+Case no. Tot. SS S1 S2 Digits Vibrissae Rostrum HL/trunk
+9213 7.12 5.06 2.06 1.38 0.89 2.22 0.93
+(71%) (29%) (27%) (18%) (44%) (18%)
+9321 6.45 4.12 2.33 1.03 0.48 2.19 0.75
+(64%) (36%) (25%) (12%) (53%) (18%)
+9324 5.49 3.81 1.68 0.68 0.45 2.18 0.63
+(69%) (31%) (18%) (12%) (57%) (17%)
+Average 6.35 6 0.82 4.33 6 0.65 2.02 6 0.33 1.03 6 0.35 0.61 6 0.25 2.20 6 0.02 0.77 6 0.15
+(68.0 6 3.6%) (32.0 6 3.6%) (23.3 6 4.7%) (14.0 6 3.5%) (51.3 6 6.7%) (17.7% 6 1.0%)
+1The three cases shown had the highest resolution, the most deﬁnable boundaries and were considered fairly complete. Percentages of S1 and S2 areas arerelative to Tot. SS. Area
+measurements of the digits, vibrissae, rostrum, and hindlimb/trunk are taken from the S1 area only and percentages reﬂect the proportion of that repr esentation within S1. For
+abbreviations, see list. Table was produced by using Canvas 3.5.5.
+Fig. 4. The mediolateral topographic sensory representation of the distal forelimb in primary somato-
+sensory area (S1) in four animals. The receptive ﬁelds are lettered according to the recording sites
+indicated on the surface view of the S1 distal forelimb area. In a line progressing from medial to lateral,
+receptive ﬁelds shifted from ulnar to radial aspects of the forelimb.
+36 S.B. FROST ET AL.
+
+===== PDF PAGE 9 =====
+Fig. 5. Somatotopy of face representation and reversal of somato-
+topy across the primary/secondary somatosensory area (S1/S2) bor-
+der. Receptive ﬁelds for two rows, one progressing across S1 (A and
+J–M), and one progressing across the border between S1 to S2 (A–I).
+A crude somatotopy was evident in a caudomedial to rostrolateral
+progression across S1, with receptive ﬁelds on the posterior aspect of
+the lower jaw located caudomedially, and receptive ﬁelds on the
+rostral aspect of the lower jaw, the snout, and oral cavity located
+rostromedially. In penetrations progressing from medial to lateral
+across the S1/S2 border (A–I), receptive ﬁelds moved from the lower
+jaw to the caudal mystacial vibrissae and to the snout, followed by a
+reversal back to the mystacial vibrissae, lower jaw, and head and
+neck, then to the distal forelimb. Receptive ﬁelds were generally
+larger in the S2 representation.
+37SENSORIMOTOR CORTEX IN A PRIMITIVE MAMMAL
+
+===== PDF PAGE 10 =====
+imum of 300 mA. Only vibrissae movements were evoked
+using this procedure. The majority of these responses
+(70.3%) were contralateral to the site of stimulation, sim-
+ilar to that seen using ICMS, although in one case (9321,
+Fig. 9) most responses (89%) were ipsilateral. As deﬁned
+by low-impedance depth stimulation, the vibrissae motor
+Fig. 6. Somatotopy of face representation and reversal across the
+primary/secondary somatosensory area (S1/S2) border. Receptive
+ﬁelds for neurons in electrode penetrations in two rows (1–9) and A–E.
+In penetrations progressing in a caudomedial to rostrolateral direc-
+tion within S1, receptive ﬁelds moved from the posterior mystacial
+vibrissae (1) to the glabrous snout (5, 6). Continuing across the S1/S2
+border, receptive ﬁelds then increased in size to include the entire
+rostral snout and part of the upper lip (7) followed by a return to the
+mystacial vibrissae (9). In a second line along the rostral portion of S1,
+receptive ﬁelds of sites in a medial to lateral progression moved from
+the lower lip to the glabrous snout (A–C). Then, progressing across the
+S1/S2 border a large representation of the rostral snout (D) was
+encountered and then the entire upper and lower lips (E). The crude
+somatotopic reversal and increase in receptive ﬁeld size was used to
+delineate the S1/S2 border.
+38 S.B. FROST ET AL.
+
+===== PDF PAGE 11 =====
+representation typically overlapped with sensory repre-
+sentations of the vibrissae, jaw, face, snout, and lips, sim-
+ilar to that seen in ICMS experiments, but also often
+extended well into the S2 sensory map (Fig. 9). In some
+cases, the motor representation also extended medially
+into the digit sensory area (not shown). The excitable
+cortical zone was slightly more extensive than the zone
+deﬁned by ICMS (4.1 mm
+2 in the most complete case, a
+female, 9321; Fig. 9), or 4.9 mm 2 per 100 g body weight).
+Incomplete maps in males disallowed for gender compar-
+isons of areal size of the motor representation in the
+low-impedance maps.
+Unlike ICMS, this procedure typically evoked move-
+ment only of small groups of mystacial vibrissae on one
+side and not the entire mystacial or lower jaw vibrissae
+ﬁeld. These responses were composed of two or more ad-
+jacent caudal, middle, or rostral vibrissae, usually in one
+or two rows, and rarely combinations of each. No obvious
+topography of vibrissae motor representation was found in
+any of these low-impedance depth stimulation procedures
+with respect to rostral/caudal or dorsal/ventral groups.
+Bipolar surface stimulation. In cases where bipolar
+surface stimulation was employed, stimulation thresholds
+were greater than that found with ICMS or low-
+impedance depth stimulation procedures, and ranged
+from a minimum of 0.6 mA to a maximum of 3 mA. Again,
+only vibrissae movements were evoked by using this pro-
+cedure and response areas were highly variable across
+animals (Fig. 10). The majority of these responses (98 6
+1.5%) were contralateral to the site of stimulation, similar
+to that seen by using ICMS, with two cases having single
+bilateral response sites in each map. The excitable cortical
+zone using surface stimulation was considerably more
+extensive than the zone responsive to ICMS or low-
+impedance depth stimulation and averaged 9.16 2.5 mm
+2
+in area, or 10.9 6 6.2 mm2 per 100 g body weight (Fig. 10).
+Although complete sensory and surface stimulation maps
+were not conducted in the same animals, the excitable
+area extended over what was observed to be most of S1
+and a large portion of S2 in other cases. Vibrissae move-
+ments were again evoked at sensory vibrissae, face, jaw,
+lip, and oral cavity sites, and also some at distal forelimb
+Fig. 7. Scope of intracortical multi-unit stimulating (ICMS) exper-
+iments in case 9213. Mapping procedures were guided by the locations
+of corticospinal neurons ( inset) derived in previous experiments
+(Nudo and Masterton, 1990). Stimulation of cortex resulted in move-
+ment of vibrissae and in a single penetration, movement of the lower
+jaw. These sites overlapped sensory sites that were responsive to
+cutaneous stimulation of the body surface on the face, snout and lower
+jaw, and to a lesser extent stimulation in the digit area. The majority
+of responses were contralateral to the site of stimulation (unshaded
+area). Two rostral penetrations evoking movement of ipsilateral
+vibrissae (shaded area).
+39SENSORIMOTOR CORTEX IN A PRIMITIVE MAMMAL
+
+===== PDF PAGE 12 =====
+Fig. 8. Results of intracortical multi-unit stimulation in four Mo-
+nodelphis opossums. In all four animals, only vibrissae movements
+were evoked following stimulation of cortex. In cases where sensory
+recordings were also conducted (9211, 9213; Fig. 7) these areas largely
+overlapped areas responsive to cutaneous stimulation of the vibrissae,
+snout, face, and lower jaw. Contralateral (no shading), ipsilateral
+(moderate shading), and bilateral (heavy shading) areas are clustered
+into distinct zones. Contralateral responses have the largest area and
+are clustered in a caudomedial position relative to the more rostro-
+laterally positioned ipsilateral zone, and the more rostrally positioned
+bilateral response zone.
+40 S.B. FROST ET AL.
+
+===== PDF PAGE 13 =====
+and even hindlimb sites. Similar to that seen with low-
+impedance depth stimulation, this procedure typically
+evoked movement only of small groups of mystacial vibris-
+sae on one side and not the entire mystacial or lower jaw
+vibrissae ﬁeld. These responses were composed of two or
+more adjacent caudal, middle, or rostral vibrissae, usually
+in one or two rows, and rarely combinations of each. No
+obvious topography or vibrissae motor representation was
+found in any of these surface stimulation procedures with
+respect to rostral/caudal or dorsal/ventral groups.
+Input/output coupling. By using ICMS, it was possi-
+ble to make speciﬁc comparisons between the sensory
+receptive ﬁelds and the evoked movements at each site.
+Results from two cases in which detailed ICMS and sen-
+sory mapping was conducted are shown in Figures 11
+through 14. Figure 11 shows the results of ICMS mapping
+in case 9213 in relation to the sensory map derived in the
+same animal. Electrical stimulation of sites that evoked
+movement of vibrissae (shaded area) generally overlapped
+sensory sites at which neurons were responsive to cutane-
+ous stimulation of the vibrissae, face, snout, and lower
+jaw, and to a lesser extent, stimulation of the distal fore-
+limb. One site evoked movement of the lower jaw and was
+responsive to cutaneous stimulation of the tongue and oral
+cavity in sensory mapping. Electrical stimulation occa-
+sionally resulted in the movement of the same vibrissae
+whose deﬂection evoked neuronal activity at the same site
+in sensory mapping. However, in the majority of vibrissae
+motor sites (11 of 14), this was not the case. Furthermore,
+the degree of sensory/motor identity did not appear to be
+related to the current required for evoking the motor re-
+sponses. For example, in case 9213 (Fig. 12), sites that had
+the lowest stimulation thresholds (9 and 13mA) for evoked
+movements had matching vibrissae in sensory recordings,
+but a similar match was also found at a site that had a
+relatively high motor response threshold (67 mA).
+Although not extensively explored, electrical stimula-
+tion of sites rostral to the somatosensory representation
+rarely resulted in evoked movements. In one case (9213;
+Fig. 11), a single site rostral to the sensory area was
+responsive to electrical stimulation with a relatively high
+threshold of 72 mA. In other cases in which both sensory
+and ICMS mapping was conducted, penetrations 250 mm
+rostral to the sensory map were routinely stimulated and
+no site rostral to the sensory area evoked movement upon
+stimulation.
+In some cases, motor responses were also evoked at sites
+caudal to the physiologically deﬁned somatosensory area.
+For example, in case 9211 the ICMS map again over-
+lapped the sensory representation of the vibrissae, face,
+snout, and lower jaw, but in addition, vibrissae move-
+ments were evoked at several sites that were caudal to the
+somatosensory representation (Fig. 13). No obvious topog-
+raphy of vibrissae motor representation was found in case
+9211, nor was there a trend toward direct coupling of
+particular vibrissae motor and sensory representation.
+Fig. 9. Motor responses of cortex in animal 9321 evoked by using
+low-impedance depth stimulation (right) compared to the sensory
+responses in the same animal (left). Motor responses were conﬁned to
+vibrissae movement. These sites overlapped the vibrissae, face, and
+jaw sensory areas (left). Overall areas that elicited motor responses
+following low-impedance depth stimulation were generally larger
+than seen with intracortical multi-unit stimulation (ICMS).
+41SENSORIMOTOR CORTEX IN A PRIMITIVE MAMMAL
+
+===== PDF PAGE 14 =====
+Only one site demonstrated both sensory and motor rep-
+resentation of the same vibrissae group, with a motor
+threshold of 45 mA (Fig. 14).
+Cytoarchitecture
+Nissl stains of coronal sections through somatosensory
+and motor-responsive cortex revealed a six-layered cortex
+with a discernible granule cell-dense layer 4 and a mod-
+erately packed pyramidal cell layer 5 (Fig. 15). Areas that
+were responsive to cutaneous stimulation and also evoked
+movement upon intracortical microstimulation did not ap-
+pear to be cytoarchitectonically different in Nissl stains
+from areas that were exclusively responsive to sensory
+stimulation.
+In tangentially sectioned cortex, the somatosensory cor-
+tex stained darkly for myelin (Fig. 16). Staining was sim-
+ilar in density in S1 and S2 and no discernible separation
+between these areas was apparent. A very small and light
+septa separated S2 from the auditory area that was lo-
+cated just above the rhinal ﬁssure (Frost and Masterton,
+1992; Melzer et al., 1997). Auditory cortex was the most
+darkly stained area and visual cortex located in the cau-
+dolateral quadrant was only lightly stained. These results
+are similar to that seen in Didelphis (Beck et al., 1996).
+DISCUSSION
+The present results suggest that somatosensory cortex
+in the Monodelphis opossum consists of at least two soma-
+totopically organized ﬁelds, S1 and S2, similar in position
+and organization to those seen in other mammals. In
+contrast to results from other mammals, electrical stimu-
+lation mapping did not reveal a complete motor represen-
+tation within somatosensory cortex. Virtually all evoked
+movements were movements of mystacial or lower jaw
+vibrissae. ICMS maps suggest that these evoked re-
+sponses are predominantly conﬁned to S1.
+The primary somatosensory area (S1)
+The position of S1 in Monodelphis is similar to that
+observed in Didelphis and other mammalian species
+(Lende, 1963b; Beck et al., 1996; see Kaas, 1983; Johnson,
+1990). Also, the general somatotopic organization of S1 is
+similar to that shown in other mammals, such as Didel-
+phis (Lende, 1963b; Pubols et al., 1976; Beck et al., 1996)
+rat (Woolsey, 1958; Hall and Lindholm, 1974), shrews
+(Catania et al., 1999), cat (Woolsey, 1958; Dykes et al.,
+1980; Felleman et al., 1981), insectivores (Catania and
+Kaas, 1995; Krubitzer et al., 1997; Pobirsky et al., 1998),
+tree shrew (Sur et al., 1980b), prosimians (Krishnamurti
+et al., 1976; Sur et al., 1980a), and primates (Merzenich et
+al., 1978; Sur et al., 1982; Krubitzer and Kaas, 1990; see
+Kaas, 1983 for review). The existence of S1 has also been
+documented in several Australian marsupials (Johnson et
+al., 1973; Johnson, 1990; Elston et al., 1993; Weller, 1993;
+Huffman et al., 1999), with a somatotopic organization
+similar to that found in the Didelphid opossums. As in
+most other mammals, S1 in Monodelphis contains a com-
+Fig. 10. Motor responses of cortex in two animals evoked by using
+bipolar surface stimulation. Stimulating sites are the midpoint be-
+tween the two ball electrodes. Motor responses were again conﬁned to
+vibrissae movement in both cases. In case 9316 (left), responses over-
+lapped sensory representations of the vibrissae and distal forelimb
+when compared to low resolution sensory mapping (italics within
+dashed lines). In case 9317 (right), motor responses overlapped sen-
+sory representation of vibrissae, jaw, oral cavity, distal forelimb and
+hindlimb. Overall, motor maps were signiﬁcantly greater in area by
+using bipolar surface stimulation as compared to typical results ob-
+tained by using intracortical multi-unit stimulation (ICMS), which
+usually did not evoke movement from distal forelimb sensory areas.
+42 S.B. FROST ET AL.
+
+===== PDF PAGE 15 =====
+plete representation of the contralateral body surface, in-
+cluding the hindlimb and tail, the trunk, the forelimb, and
+the face in a mediolateral sequence. The somatotopic or-
+ganization of the digit representations is also similar to
+that in other mammals, with the ulnar digits represented
+most medially and the radial digits represented most lat-
+erally (see Kaas, 1983 for review). The results reported
+here are similar to those of a recent study with less de-
+tailed mapping that found a similarly organized S1 in
+Monodelphis, but no evidence of an S2 representation
+(Huffman et al., 1999).
+The very large rostrum representation within S1 is also
+seen in Didelphis (Lende, 1963b; Pubols et al., 1976; Beck
+et al., 1996). This large representation of the rostrum may
+reﬂect its behavioral importance in Didelphids, just as the
+large representation of the bill in the duck-billed platypus
+(Krubitzer et al., 1995) and large snout representation in
+the star-nosed mole (Catania and Kaas, 1995) reﬂect spe-
+cialized usages.
+The secondary somatosensory area (S2)
+The present results provide evidence for a second so-
+matosensory representation of the body, positioned lateral
+to S1. This body representation is oriented similarly to S2
+reported in Didelphis (Lende, 1963b; Pubols, 1977; Beck et
+al., 1996), as well as other mammalian species, with a
+mirror reversal of the organization found in S1 (Krubitzer
+et al., 1986; Johnson, 1990; Rowe, 1990; Krubitzer, 1996).
+A secondary somatosensory area has been identiﬁed in
+several Australian marsupials, including the brush-tailed
+possum (Elston et al., 1993; Coleman et al., 1999) and the
+striped opossum (Huffman et al., 1999). In addition to S1,
+at least one lateral somatosensory ﬁeld corresponding to
+S2 has been identiﬁed in virtually all mammals studied,
+suggesting that these ﬁelds were retained from a common
+ancestor and ﬁt a basic mammalian plan. In Didelphis, a
+third representation responsive to cutaneous stimulation
+is found lateral to S1 and rostroventral to S2, and is
+believed to be homologous to the parietal ventral area (PV)
+in eutherian mammals (Beck et al., 1996; see Krubitzer et
+al., 1993 for review). Two additional representations re-
+sponsive to stimulation of deep receptors are positioned
+immediately rostral and caudal to S1, and referred to as
+the rostral and caudal somatosensory areas, SR and SC.
+The present results did not reveal the existence of these
+additional representations, although they were sought.
+The second representation shown here is believed to be a
+homologue of S2 in Didelphis because of its orientation
+with the distal forelimb lateral and mouth rostral (Fig. 1),
+whereas in the PV representation in Didelphis and other
+mammals the distal forelimb is medial and the mouth is
+caudomedial to the body representation (Krubitzer et al.,
+1993; Beck et al., 1996). If theMonodelphis organization is
+accepted as the more primitive condition from which Di-
+delphis organization is derived (see Introduction), evi-
+dence of only two somatosensory ﬁelds in Monodelphis
+and a total of ﬁve in Didelphis may support the long-held
+belief that multiple ﬁelds represent the differentiation of
+new cortical areas from preexisting areas (Brodmann,
+1909; von Economo, 1929; Kaas, 1987, 1989).
+A PV representation and two additional rostral ﬁelds
+responsive to stimulation of deep receptors are seen in
+present-day monotremes, the short-billed echidna, and
+platypus (Krubitzer et al., 1995). The presence of a PV
+representation in monotremes that diverged from therian
+mammals over 130 million years ago (before the appear-
+ance of Didelphids; Clemens, 1989; Flannery, 1989; Wes-
+terman and Edwards, 1992) and apparent lack of a PV
+representation in Monodelphis suggests that PV (as well
+as additional deep receptor ﬁelds) may have evolved inde-
+pendently in monotremes and Didelphis. Alternatively,
+it is possible that PV is vestigial in Monodelphis. The
+present results cannot adequately resolve this issue, be-
+cause the spatial resolution of the present maps was rel-
+atively low in the most ventral aspects of the explored
+region. Higher resolution maps in this region may yet
+reveal a third somatosensory area in this species.
+Motor representation
+The present results show that only vibrissae and in one
+case lower jaw movements were evoked upon electrical
+stimulation of S1 in Monodelphis. This result was the
+same regardless of the stimulation technique used. ICMS,
+low-impedance depth stimulation, and bipolar surface
+stimulation produced no movements caudal to the lower
+jaw. Results using the latter technique are especially re-
+vealing, because they were identical to those used by
+Lende to show a complete sensorimotor amalgam in Di-
+delphis opossums (Lende, 1963a,c). These relatively more
+crude techniques result in stimulation of a much greater
+Fig. 11. Results of intracortical multi-unit stimulation (ICMS) in
+case 9213 in relation to the sensory map in the same animal. Stimu-
+lating sites that evoked movement of vibrissae generally overlapped
+sites that were responsive to stimulation of the vibrissae, lower jaw,
+face, and snout. Two sites that, when stimulated evoked vibrissae
+movement, were responsive to stimulation of the distal forelimb. One
+site evoked movement of the lower jaw and was responsive to stimu-
+lation the tongue and oral cavity.
+43SENSORIMOTOR CORTEX IN A PRIMITIVE MAMMAL
+
+===== PDF PAGE 16 =====
+volume of tissue and provide synchronous activation of a
+much larger number of corticofugal neurons, maximizing
+the effects of a sparse projection pathway to the spinal
+cord.
+In eutherian species, M1 is situated rostral to S1 and
+has a parallel somatotopic organization (e.g., Gould et al.,
+1986). No motor representation of body parts below the
+level of the head was found in S1 or in more rostral areas
+in the present study. This is in sharp contrast to the
+results reported by Lende (1963a) in Didelphis, where a
+complete and coincident overlap of somatic motor and
+somatic sensory representations was found. Results using
+similar techniques have shown a motor representation
+superimposed on S1 in Didelphis azarae (Magalhåes-
+Castro and Saraiva, 1972). In both studies, the amalgam
+was quite large, encompassing the complete rostrocaudal
+length of the parietal region, perhaps due to the use of
+surface recording and stimulation techniques. Motor maps
+using bipolar surface stimulation reported here were also
+quite large, an average of 2.75 times larger than ICMS
+maps (see Fig. 10). More recent examination of motor
+responses in Didelphis cortex by using ICMS found high-
+threshold (up to 100 mA) response sites within, and just
+rostral and caudal, to S1 (Beck et al., 1996). Stimulation of
+cortex by Beck et al. (1996) most often resulted in move-
+ment of the tongue, though evoked movements of body
+parts, including several forelimb movements, were also
+seen.
+That electrical stimulation of a large area of neocortex
+in Monodelphis evokes movement only of vibrissae sug-
+gests that evolutionary pressures for development of mo-
+tor components in cerebral cortex began with a need for
+more reﬁned movements of the face. This pressure may
+have resulted in an early substrate for mediating vibris-
+sae movement, long before sufﬁcient corticospinal path-
+ways were in place to mediate reﬁned control of the fore-
+limbs and hindlimbs, and long before a separate motor
+representation rostral to S1 was established. Similar to
+the large somatosensory representation of the rostrum,
+this large vibrissae motor representation may be related
+to the behavioral importance of the area in Monodelphis.
+Behavioral studies have shown that Monodelphis exhibit
+a behavior wherein the rostral portion of the face is used
+for scent marking (Fadem and Cole, 1985; Fadem and
+Corbett, 1993) and the anteroventral portion of the gla-
+brous snout is used to deliver odors to the vomeronasal
+Fig. 12. Input/output coupling: matching vibrissae motor repre-
+sentation to sensory representation in animal 9213. Left, numbers
+next to the stimulating sites that evoked movement indicate the
+threshold for that movement (in mA). Right, motor responses are
+abbreviated below the stimulating site; sensory receptor ﬁelds are
+abbreviated above the recording site in the same penetration. Most
+vibrissae motor response areas overlapped sensory areas responsive
+to vibrissae, snout, face, and lower jaw vibrissae. Several sites that,
+when stimulated evoked movements of vibrissae, were also responsive
+to stimulation of the same vibrissae. The sites with the lowest intra-
+cortical multi-unit stimulation (ICMS) response threshold (9 and 13
+mA) were sites that were both responsive to lower jaw vibrissae
+deﬂection and when stimulated could evoke movement of the same
+vibrissae. One site with a high threshold (67 mA) also had similar
+vibrissae sensory and motor representation. RV, rostroventral. All
+responses are contralateral unless indicated.
+44 S.B. FROST ET AL.
+
+===== PDF PAGE 17 =====
+organ (Poran et al., 1993a,b). This latter “nuzzling” behav-
+ior is thought to be similar to pheromone delivery behav-
+iors seen in several placental and marsupial species and
+may represent a primitive mammalian pattern that has
+been retained in some species over phylogeny (Kimble,
+1997). Furthermore, scent marking utilizing the face, is
+more commonly exhibited in males (Fadem and Cole,
+1985; Fadem and Corbett, 1993). This gender-related be-
+havioral difference may be related to the possible larger
+size of the vibrissae motor response area found in male
+Monodelphis as compared to female Monodelphis in the
+present study.
+It has been suggested that vibrissae are among the
+phylogenetically youngest of the specialized mammalian
+peripheral sensory organs, lacking in monotremes and
+emerging in theria about 120 million years ago (Pocock,
+1914; Brecht et al., 1997). Although most studies of the
+vibrissae have examined their sensory roles in behavior, it
+is clear that mystacial vibrissae are active during ex-
+ploratory and discriminative behaviors, at least in rats
+(Welker, 1964; Carvell and Simons, 1990, 1995; Bermejo
+et al., 1996; Kleinfeld et al., 1999). Results from behav-
+ioral studies in the rat suggest that the large mystacial
+vibrissae (macrovibrissae) are involved in spatial percep-
+tion (Hutson and Masterton, 1986) and act as distance
+decoders (Brecht et al., 1997). Any advantage that reﬁned
+movement of the vibrissae could provide to an individual
+would have contributed to the evolutionary pressures for
+their cortical motor representation. Furthermore, it has
+been suggested that the smaller vibrissae (microvibrissae)
+on the rostroventral portion of the snout constitute an
+object-recognition organ, possessing a large receptor density
+crucial for tactile object recognition (Brecht et al., 1997). This
+view ﬁts well with the ﬁndings that the rostroventral snout
+is important in nuzzling behavior (Poran et al., 1993a).
+It has long been established that movement can be
+evoked from electrical stimulation of S1 in primates
+(Schafer, 1900; Penﬁeld and Boldrey, 1937; Penﬁeld and
+Rasmussen, 1952; Woolsey et al., 1953; Woolsey, 1958)
+and cats (Woolsey, 1947). Similarly, Malis et al. (1953)
+found that sensory-evoked potentials could be elicited in
+precentral motor cortex in monkeys. More recent electro-
+physiological studies have conﬁrmed somatic motor func-
+tions in S1 (Doetsch and Gardner, 1972; Sapienza et al.,
+1981; Gioanni and Lamarche, 1985) and somatic sensory
+functions in M1 (Welt et al., 1967; Thompson et al., 1970;
+Rose´n and Asanuma, 1972; Wiesendanger, 1973;Asanuma
+et al., 1979, 1980; Tanji and Wise, 1981; Strick and Pres-
+ton, 1982; Asanuma and Arissian, 1984; Nudo et al.,
+1997).
+In general, electrically evoked motor responses in S1
+resemble those evoked in M1, with the exception that
+stimulation thresholds are greater (Welker et al., 1957;
+Woolsey, 1958; Doetsch and Gardner, 1972; Sessle and
+Weisendanger, 1982). In both the results presented here
+and results reported in electrical stimulation studies of
+cortex in Didelphis (Lende, 1963c; Beck et al., 1996),
+movements were most often evoked by using relatively
+high threshold stimulation; higher than the , 20 mA typ-
+ically observed in microstimulation studies of M1 of pri-
+mates (Sessle and Weisendanger, 1982; Stepniewska et
+al., 1993; Nudo et al., 1992, 1996). This disparity in
+thresholds for evoked movements suggests that the elec-
+trically evoked motor responses observed in Monodelphis
+are representative of the motor component of somatosen-
+sory cortex found in other mammals.
+Laterality of responses. ICMS and unit recordings in
+a macaque monkey have shown that ipsilateral and bilat-
+eral movements of the hand are represented anterolateral
+to regions associated with the more common contralateral
+movements (Aizawa et al., 1990). Functional magnetic
+resonance imaging in humans has shown that segregated
+ipsilateral response areas are anterolateral to contralat-
+eral response areas (Cramer et al., 1999). That ICMS
+ipsilateral and bilateral vibrissae zones are segregated
+similarly in Monodelphis may suggest that this organ-
+ization developed early in the appearance of motor-
+responsive areas of cortex and has been retained through
+the evolution of primate motor cortex.
+It is unclear why a consistent segregation of response
+zones was not observed in low-impedance or depth stim-
+ulation mapping. The most complete low-impedance stim-
+ulation case had predominantly ipsilateral vibrissae re-
+sponses (Fig. 9) and may have been an anomalous animal.
+Input-output relationships. The ﬁnding that vibris-
+sae motor response sites typically overlapped sites with
+sensory receptive ﬁelds of the vibrissae and other parts of
+the face is roughly similar to that found in somatomotor
+cortex of other mammals. Cortical sites receiving tactile
+input from particular parts of the face, hand, or trunk in
+monkeys roughly overlap sites that result in movements
+in closely related parts of the body upon stimulation
+(Woolsey, 1958; Doetsch and Gardner, 1972). A similar
+rough congruence of sensory input and motor output is
+seen in sensorimotor cortex of rats (Sapienza et al., 1981)
+cats (Asanuma et al., 1968), and primates (Rose ´n and
+Asanuma, 1972; Sessle and Weisendanger, 1982; Strick
+and Preston, 1982).
+Fig. 13. Results of intracortical multi-unit stimulation (ICMS) of
+animal 9211 in relation to the sensory map in the same animal.
+Stimulating sites that evoked movement of vibrissae generally over-
+lapped sites that were responsive to stimulation of the vibrissae,
+lower jaw, face, and snout. Several motor response sites were found
+caudal to the sensory representation.
+45SENSORIMOTOR CORTEX IN A PRIMITIVE MAMMAL
+
+===== PDF PAGE 18 =====
+Contributions of the corticospinal tract to
+control of dexterous forelimb movement
+Monodelphis possesses only about 500 corticospinal
+neurons (Nudo et al., 1995). What few corticospinal neu-
+rons Monodelphis does have, terminate in the cervical and
+perhaps the thoracic spinal cord, and do not appear to
+reach the lumbar or sacral cord (Holst et al., 1991). Cor-
+ticospinal projections in marsupials terminate in the dor-
+sal and intermediate parts of the spinal gray matter,
+predominantly lamina IV and medial lamina V and VI
+(Martin and Fisher, 1968; Martin et al., 1970; Rees and
+Hore, 1970; Martin et al., 1975; Holst et al., 1991). In
+contrast, corticospinal axons in rats and monkeys are
+Fig. 14. Input/output coupling: matching vibrissae motor repre-
+sentation to sensory representation in animal 9211. Left, numbers
+indicate motor response thresholds in mA. Right, motor responses are
+abbreviated below the stimulating site; sensory receptive ﬁelds are
+abbreviated above the recording site in the same penetration. All
+intracortical multi-unit stimulation (ICMS) driven responses were
+vibrissae movement. Motor responsive sites generally overlapped sen-
+sory representation of the vibrissae, lower jaw, face, and snout. A
+direct coupling of particular vibrissae motor and sensory representa-
+tion was seen at only one site, with a motor threshold of 45 mA. D,
+dorsal; V, ventral; M, vibrissae medial to the ventral rows and lateral
+to the dorsal group; C, caudal group; R, rostral group; Mid, vibrissae
+group between caudal and ventral groups. All responses are contralat-
+eral unless indicated.
+Fig. 15. Coronal section through the forebrain of Monodelphis
+9319 counterstained with cresyl violet. Arrowheads indicate locations
+of microelectrode penetrations at the forelimb/vibrissae sensory bor-
+der. X, electrolytic marking lesion; Sd, sensory digit response; Sv,
+sensory vibrissae response; Mv, motor vibrissae response; NR, no
+response. Numbers indicate cortical layer. Figures 15 and 16 are in
+Adobe Photoshop 4.0. Scale bar 5 250 mm.
+Fig. 16. Lightﬁeld photomicrograph of Monodelphis cortex that
+has been ﬂattened, sectioned tangentially, and stained for myelin.
+The somatosensory area can be distinguished as a myelin dark region.
+Distance between scale bars 5 1 mm.
+46 S.B. FROST ET AL.
+
+===== PDF PAGE 19 =====
+distributed in the entire length of the cord and terminate
+in lower lamina including lamina IX, the lamina con-
+taining motoneuronal cell bodies of the ventral horn
+(Valverde, 1966; Brown, 1971; Kuypers, 1981; Roullier et
+al., 1991; Bortoff and Strick, 1993). Differences in both the
+number of corticospinal neurons and in their ﬁnal termi-
+nation sites in opossums and other mammalian species
+may contribute to the differences in the ability to evoke
+body movements upon microstimulation of cortex. These
+anatomical differences in the corticospinal tract may also
+contribute to differences observed in behavioral tests of
+dexterity in different mammalian species. For example,
+rats display more complex manipulations of prey items
+and more complex reaching behavior compared to more
+stereotyped movements of opossums (Ivanco et al., 1996).
+Ivanco et al. (1996) found that Monodelphis was more
+likely to use the mouth for manipulation of prey, suggest-
+ing that corticobulbar control of the face may have devel-
+oped early in cortical evolution for more complex head
+movements. Furthermore, ablation behavior studies of
+motor cortex in rats have shown that transection of the
+pyramidal tract (Whishaw et al., 1993) and lesions of
+motor cortex (Whishaw et al., 1992) result in simpliﬁed
+reaching strategies resembling those displayed by Mono-
+delphis.
+Evolution of sensorimotor cortex
+Lende’s view that S1 of Didelphis is an “amalgam” of S1
+and M1 suggests that separate S1 and M1 areas evolved in
+placental mammals from a single area possessing both
+sensory and motor functions. More recent studies suggest
+that motor responses evoked upon stimulation of S1 are
+similar to the higher threshold S1 motor responses com-
+monly seen in other mammals (Beck et al., 1996). Beck et
+al. (1996) found that even the few sites rostral to the
+sensory representation where movements were evoked
+required higher thresholds than one would expect in an
+M1 representation in eutherian mammals (Neafsey et al.,
+1986; Sessle and Weisendanger, 1982; Stepniewska et al.,
+1993). These results suggest that the amalgam proposed
+by Lende (1963a) might have been a reﬂection of motor
+components within the S1 representation, similar to that
+found in the S1 of other mammals. The electrophysiolog-
+ical results presented here in Monodelphis suggest that
+this species has a motor component within S1, though it is
+not as well-developed (i.e., complete) as that observed in
+other mammals, and not as developed as that seen in
+Didelphis. This result may represent a primordial S1 con-
+dition, in which a complete somatosensory map has been
+achieved and retained, but the motor components of S1
+have not yet fully developed. In this primitive condition,
+the anatomical substrate required for cortical control of
+movements below the level of the face is not present.
+The cytoarchitecture of the vibrissae motor response
+area in S1 of Monodelphis also suggests that this is a
+sensory area rather than a true motor cortex. The vibris-
+sae response area has a notable granular layer (layer IV)
+and does not have the agranular appearance notable of
+true motor cortex (Fig. 15; and see Gray, 1924; Walsh and
+Ebner, 1970 in Didelphis). In addition, the myelin stain-
+ing pattern is similar to that shown for somatosensory
+cortex of other mammals (see Krubitzer, 1995).
+Sensorimotor cortex in Monodelphis appears to be the
+least developed in any mammal studied thus far, and may
+represent the primordial condition from which primate
+sensory and motor cortex arose. Figure 17 illustrates a
+hypothetical model of evolutionary divergence of sensori-
+motor cortex supported by the results reported here. Mo-
+nodelphis has a complete S1 representation, as well as a
+second, S2 representation, with an incomplete motor com-
+ponent overlapping the S1 representation of the face
+(grade 1). Didelphis has a complete S1 representation (as
+well as several additional representations (Beck et al.,
+1996) with a complete motor representation overlapping
+the somatosensory representation in S1 (grade 2; Lende,
+1963a). This S1 motor representation in Didelphis is not
+unlike that found in S1 of placental mammals, as high-
+threshold stimulation is required to evoke movement. A
+true motor cortex, as evidenced by a reversed motor rep-
+resentation rostral to the somatosensory representation
+and movements evoked at relatively low stimulating cur-
+rents, is apparent in rats (grade 3). In this grade, the
+separation of S1 and M1 is not complete, because an
+overlap has been demonstrated over most of the hindlimb
+representation and part of the forelimb representation
+(Hall and Lindholm, 1974; Donoghue and Wise, 1982;
+Sanderson et al., 1983). A complete and separate motor
+cortex, as evidenced by a reversed motor representation
+rostral to the somatosensory representation and low-
+threshold evoked movement, is apparent in primates
+(grade 4).
+The cortical organization in monotremes, however, sug-
+gests that sensorimotor differentiation may not have fol-
+lowed this simple linear progression. For example, by
+using surface stimulation techniques in the prototherian
+echidna, Lende (1964) found a complete motor represen-
+tation overlapping the somatosensory representation. By
+using surface stimulation techniques in the platypus, Bo-
+hringer and Rowe (1977) found a partial overlap of the
+motor and somatosensory representations. Electrical
+stimulation evoked movements of the bill and forelimb,
+but not the hindlimb. Thus, it would appear that the
+motor component of somatosensory cortex is more com-
+plete in monotremes than in Monodelphis opossums.
+Furthermore, an area rostral to somatosensory cortex in
+monotremes is in some ways characteristic of motor cor-
+tex. In early surface stimulation studies in echidna (Abbie,
+1938; Goldby, 1939), evoked movements were observed in
+an area rostral to sulcus a, and thus rostral to S1 (Kru-
+bitzer et al., 1995). Surface stimulation studies in platy-
+pus also resulted in evoked movements rostral to S1,
+including representations of the forelimb. Based on elec-
+trophysiogical and cytoarchitectonic criteria, two ﬁelds
+rostral to S1 have been identiﬁed in both echidna and
+platypus (Krubitzer et al., 1995). The rostral ﬁeld (ﬁeld R)
+contains neurons responsive to stimulation of deep recep-
+tors, whereas the manipulation ﬁeld (ﬁeld M) has the
+architectonic appearance of the eutherian M1 (Ulinski,
+1984; Krubitzer et al., 1995).
+These ﬁndings of a more complete motor component in
+somatosensory cortex and a possible M1 homologue ros-
+tral to S1 suggest that a more developed sensorimotor
+area may have existed in mammals previous to the emer-
+gence of Didelphids. If so, then sensorimotor cortex in
+Monodelphis may be the result of secondary simpliﬁ-
+cation. Alternatively, the forelimb component of S1 in
+monotremes may be homoplaseous to that of Didelphis,
+having arisen through convergent evolution. Similarly,
+the rostral motor area in monotremes may be homo-
+plaseous to M1 in eutherian mammals.
+47SENSORIMOTOR CORTEX IN A PRIMITIVE MAMMAL
+
+===== PDF PAGE 20 =====
+Although the interpretation of these results in mono-
+tremes remains speculative, it is now clear that the opos-
+sum’s “sensorimotor amalgam” is not motor cortex in the
+same sense as it is in grade 3 and 4 mammals. The somato-
+sensory cortex of grade 3 and 4 mammals is not without
+some motor properties, as mentioned above. But a motor
+component in the opossum’s sensorimotor area is not, by
+itself, sufﬁcient grounds to consider it motor cortex. Corre-
+spondence of sensory and motor maps in the opossum’s sen-
+sorimotor area is just what is seen in grade 3 and 4 mam-
+mals. Therefore, the sensorimotor “amalgam” of opossum
+cortex is probably no more “motor” than the sensory cortex
+of, for example, monkey. In addition to the differentiation of
+somatosensory ﬁelds, as has been reported in a number of
+recent papers, it would appear that the motor component of
+this predominantly somatosensory cortical ﬁeld developed in
+stages. In addition, it is probably safe to suggest that in
+opossum cortex speciﬁcally and in primitive, or grade one
+and two cortex generally, there is no true motor cortex. If
+this is the case (and opossums provide a reasonable repre-
+sentation of the primitive conditions), then motor cortex
+must have arisen anew sometime later in evolution. It is not
+entirely clear when true motor cortex might have emerged.
+This riddle may be difﬁcult to solve, because representatives
+of intermediate conditions may not exist among extant mam-
+mals. However, as evolutionary pressures for greater dexter-
+ity of the distal skeletal musculature grew, augmentations of
+the corticospinal tract from a primitive to a more advanced
+pathway seem to have paralleled the origin of a true motor
+cortex.
+ACKNOWLEDGMENTS
+The authors thank Terry Allen for help in data collec-
+tion and Anna Walton-Williams for help in the histological
+preparations.
+Fig. 17. Hypothetical model of evolutionary divergence in senso-
+rimotor cortex. Grade 1, a complete somatosensory (S) representation
+exists. An incomplete motor representation is congruent with the
+sensory representation of the face (Sm). Grade 2, a complete motor
+representation exists and overlaps the somatosensory (Sm). As noted
+by Lende (1963a), this “amalgam” is not unlike primary somatosen-
+sory area (S1) of placental mammals. A reversed map characteristic of
+true motor cortex is absent. Grade 3, true motor cortex has emerged,
+as evident from a reversed motor representation (Ms) rostral to the
+somatosensory representation (Sm). Ms is largely segregated from
+Sm, though a partial overlap exists in the hindlimb and forelimb areas
+(e.g., see Hall and Lindholm, 1974; Donoghue and Wise, 1982). Grade
+4, Ms is completely segregated from Sm. Somatosensory cortex retains
+some motor properties, whereas motor cortex retains some somato-
+sensory properties. Upper left, the increase in the number of cortico-
+spinal neurons parallels the evolutionary divergence of sensory and
+motor areas (Nudo and Masterton, 1990). Figure 17 is in Adobe
+Illustrator 7.0.1.
+48 S.B. FROST ET AL.
+
+===== PDF PAGE 21 =====
+LITERATURE CITED
+Abbie AA. 1938. The excitable cortex in Monotremata. Aust J Exp Biol Med
+Sci 16:143–152.
+Aizawa H, Mushiake H, Inase M, Tanji J. 1990. An output zone of the
+monkey primary motor cortex specialized for bilateral hand movement.
+Exp Brain Res 82:219–221.
+Asanuma H, Arissian K. 1984. Experiments on functional role of periph-
+eral input to motor cortex during voluntary movements in the monkey.
+J Neurophysiol 52:212–227.
+Asanuma H, Larsen KD, Yumiya H. 1979. Direct sensory pathway to the
+motor cortex: a basis of cortical reﬂexes. In: Asanuma H, Wilson VJ,
+editors. Integration in the nervous system. Tokyo/New York: Igaku-
+shoin. p 223–238.
+Asanuma H, Larsen KD, Yumiya H. 1980. Peripheral input pathways to
+the monkey motor cortex. Exp Brain Res 38:349–355.
+Asanuma H, Stoney SD, Jr, Abzug C. 1968. Relationship between afferent
+input and motor outﬂow in cat motorsensory cortex. J Neurophysiol
+31:670–681.
+Beck PD, Pospichal MW, Kaas JH. 1996. Topography, architecture, and
+connections of somatosensory cortex in opossums: evidence for ﬁve
+somatosensory areas. J Comp Neurol 366:109–133.
+Bermejo R, Harvey M, Gao P, Philip Zeigler H. 1996. Conditioned whisking
+in the rat. Somatosens Mot Res 13:225–233.
+Bohringer RC, Rowe MJ. 1977. The organization of the sensory and motor
+areas of cerebral cortex in the platypus ( Ornithorhynchus anatinus).
+J Comp Neurol 174:1–14.
+Bortoff GA, Strick PL. 1993. Corticospinal terminations in two new-world
+primates: further evidence that corticomotoneuronal connections pro-
+vide part of the neural substrate for manual dexterity. J Neurosci
+13:5105–5118.
+Brecht M, Preilowski B, Merzenich MM. 1997. Functional architecture of
+the mystacial vibrissae. Brain Res Behav Brain Res 84:81–97.
+Brodmann K. 1909. Vergleichende lokalisationslehre der grosshirnrinde.
+Leipzig: Verlag Barth.
+Brown LT. 1971. Projections and termination of the corticospinal tract in
+rodents. Exp Brain Res 13:432–450.
+Carvell GE, Simons DJ. 1990. Biometric analysis of vibrissal tactile dis-
+crimination in the rat. J Neurosci 10:2638–2648.
+Carvell GE, Simons DJ. 1995. Task- and subject-related differences in
+sensorimotor behavior during active touch. Somatosens Mot Res 12:
+1–9.
+Catania KC, Kaas J. 1995. organization of the somatosensory cortex of the
+star-nosed mole. J Comp Neurol 351:549–567.
+Catania K, Lyon D, Mock O, Kaas J. 1999. Cortical organization in shrews:
+evidence from 5 species. J Comp Neurol 410:55–72.
+Clemens WA. 1968. Origin and early evolution of marsupials. Evolution
+22:1–18.
+Clemens WA. 1977. Phylogeny of marsupials. In: Stonehouse B, Gilmore D,
+editors. The biology of marsupials. London: Macmillan. p 51–68.
+Clemens WA. 1989. Diagnosis of the class Mammalia. In: Walton DW,
+Richardson BJ, editors. Fauna of Australia, vol. 1B, mammalia. Can-
+berra: Australian Government Publishing Services. p 401–406.
+Coleman GT, Zhang HQ, Murray GM, Zachariah MK, Rowe MJ. 1999.
+Organization of somatosensory areas I and II in marsupial cerebral
+cortex: parallel processing in the possum sensory cortex. J Neuro-
+physiol 81:2316–2324.
+Cramer S, Finklestein SP, Schaecter JD, Bush G, Rosen BR. 1999. Acti-
+vation of distinct motor cortex regions during ipsilateral and contralat-
+eral ﬁnger movements. J Neurophysiol 81:383–387.
+Doetsch GS, Gardner EP. 1972. Relationship between afferent input and
+motor output in sensorimotor cortex of the monkey. Exp Neurol 35:78–
+97.
+Donoghue JP, Wise SP. 1982. The motor cortex of the rat: cytoarchitecture
+and microstimulation mapping. J Comp Neurol 212:76–88.
+Dykes RW, Rasmusson DD, Hoeltzell P. 1980. Organization of primary
+somatosensory cortex in the cat. J Neurophysiol 43:1527–1546.
+Edinger T. 1948. Evolution of the horse brain. Mem Geol Soc Amer 25:1–
+177.
+Elston GL, Krubitzer L, Manger P, Calford M, Day T. 1993. The organiza-
+tion and connections of somatosensory cortex in the Australian mar-
+supial, brush-tailed possum (Trichosurus vulpecula). Soc Neurosci Ab-
+str 19:764.
+Fadem BH, Cole E. 1985. Scent marking in the gray short-tailed opossum
+(Monodelphis domestica). Anim Behav 33:730–738.
+Fadem BH, Corbett A. 1993. Sex differences and the role of aromatization
+in the control of sexually dimorphic behavior and morphology in gray
+short-tailed opossums (Monodelphis domestica). Horm Behav 27:366–
+379.
+Felleman DJ, Wall JT, Cusick CG, Kaas JH. 1981. Evidence for a single
+cutaneous representation within the SI region of the cat. Anat Rec
+199:82a.
+Flannery TF. 1989. Origins of the Australo-Paciﬁc fauna. Aust Zool Rev
+1:15–24.
+Frost SB, Masterton RB. 1992. Origin of auditory cortex. In: Webster DB,
+Fay RR, Popper AN, editors. The evolutionary biology of hearing. New
+York: Springer-Verlag. p 655–671.
+Gallayas F. 1979. Silver staining of myelin by means of physical develop-
+ment. Neurology 1:203–209.
+Gioanni Y, Lamarche M. 1985. A reappraisal of rat motor cortex organi-
+zation by intracortical microstimulation. Brain Res 8:177–194.
+Goldby F. 1939. An experimental investigation of the motor cortex and
+pyramidal tract of Echidna aculeata. J Anat 73:509–524.
+Gould HJ, Cusick CG, Pons TP, Kaas JH. 1986. The relationship of corpus
+collosum connections to electrical stimulation maps of motor, supple-
+mentary motor, and frontal eye ﬁelds in owl monkeys. J Comp Neurol
+247:297–325.
+Gray PA. 1924. The cortical lamination of the opossum, Didelphys virgini-
+ana. J Comp Neurol 37:221–263.
+Gregory WK. 1929. Our face from ﬁsh to man. Putnam’s Sons, reprinted in
+1965 by Capricorn, New York.
+Hall RD, Lindholm EP. 1974. Organization of motor and somatosensory
+neocortex in the albino rat. Brain Res 66:23–38.
+Holst MC, Ho RH, Martin GF. 1991. The origins of supraspinal projections
+to lumbosacral and cervical levels of the spinal cord in the gray short-
+tailed Brazilian opossum, Monodelphis domestica. Brain Behav Evol
+38:273–289.
+Huffman KJ, Nelson J, Clarey J, Krubitzer L. 1999. Organization of so-
+matosensory cortex in three species of marsupials, Dasyurus halluca-
+tus, Dactylopsila trivirgata, and Monodelphis domestica: neural corre-
+lates of morphological specializations. J Comp Neurol 403:5–32.
+Hutson KA, Masterton RB. 1986. The sensory contribution of a single
+vibrissa’s cortical barrel. J Neurophysiol 56:1196–1223.
+Ivanco TL, Pellis SM, Wishaw IQ. 1996. Skilled forelimb movements in
+prey catching and reaching by rats ( Rattus norvegicus) and opossums
+(Monodelphis domestica): relations to anatomical differences in motor
+systems. Brain Res Behav Brain Res 79:163–181.
+Johnson JI. 1990. Comparative development of somatic sensory cortex. In:
+Jones EG, Peters A, editors. Cerebral cortex. New York: Plenum. p
+335–449.
+Johnson JI, Haight JR, Migirian D. 1973. Convolutions related to sensory
+projections in cerebral cortex of marsupial wombats. J Anat 114:153.
+Kaas JH. 1983. What if anything is S1? Organization of ﬁrst somatosen-
+sory area of cortex. Physiol Rev 63:206–230.
+Kaas JH. 1987. The organization and evolution of neocortex. In: Wise SP,
+editor. Higher brain functions. New York: John Wiley and Sons. p
+347–378.
+Kaas JH. 1989. The evolution of complex sensory systems in mammals. J
+Exp Biol 146:165–176.
+Kimble DP. 1997. Didelphid behavior. Neurosci Biobehav Rev 21:361–369.
+Kirsch JAW. 1977. The six-percent solution: second thoughts on the adapt-
+edness of marsupiala. Am Scientist 65:276–288.
+Kleinfeld D, Berg RW, O’Connor SM. 1999. Anatomical loops and their
+electrical dynamics in relation to whisking by rat. Somatosens Mot Res
+16:69–88.
+Krishnamurti A, Sanides F, Welker WI. 1976. Microelectrode mapping of
+modality-speciﬁc somatic sensory cerebral neocortex in slow loris.
+Brain Behav Evol 13:367–383.
+Krubitzer L. 1995. The organization of neocortex in mammals: are species
+differences really so different? Trends Neurosci 18:408–417.
+Krubitzer LA. 1996. The organization of lateral somatosensory cortex in
+primates and other mammals. In: Franzen O, Johansson R, Terenius L,
+editors. Somesthesis and the neurobiology of the somatosensory cortex.
+Basel: Birkhauser Verlag. p 173–185.
+Krubitzer LA, Kaas JH. 1990. The organization and connections of somato-
+sensory cortex in marmosets. J Neurosci 10:952–974.
+Krubitzer LA, Sesma MA, Kaas JH. 1986. Microelectrode maps, myeloar-
+49SENSORIMOTOR CORTEX IN A PRIMITIVE MAMMAL
+
+===== PDF PAGE 22 =====
+chitecture, and cortical connections of three somatotopically organized
+representations of the body surface in the parietal cortex of squirrels.
+J Comp Neurol 250:403–430.
+Krubitzer LA, Calford MB, Schmid LM. 1993. Connections of somatosen-
+sory cortex in megachiropteran bats: the evolution of cortical ﬁelds in
+mammals. J Comp Neurol 327:473–506.
+Krubitzer LA, Manger P, Pettigrew J, Calford M. 1995. Organization of
+somatosensory cortex in monotremes: in search of the prototypical
+plan. J Comp Neurol 351:261–306.
+Krubitzer L, Kunzle H, Kaas J. 1997. Organization of sensory cortex in a
+madagascan insectivbore, the tenrec (Echinops telfairi) J Comp Neurol
+379:399–414.
+Kuypers HGJM. 1981. Anatomy of the descending pathways. In: Brookhart
+JM, Mountcastle VB, editors. Handbook of physiology: the nervous
+system, vol 2, part 1. Baltimore, MD: Williams and Wilkins. p 597–666.
+Lende RA. 1963a. Cerebral cortex: a sensorimotor amalgam in the marsu-
+piala. Science 141:730–732.
+Lende RA. 1963b. Sensory representation in the cerebral cortex of the
+opossum (Didelphis virginiana). J Comp Neurol 121:395–403.
+Lende RA. 1963c. Motor representation in the cerebral cortex of the opos-
+sum (Didelphis virginiana). J Comp Neurol 121:405–415.
+Lende RA. 1964. Representation in the cerebral cortex of a primitive
+mammal. J Neurophysiol 27:37–48.
+Loo YT. 1930. The forebrain of the opossum. J Comp Neurol 51:13–64.
+Magalhåes-Castro B, Saraiva PES. 1972. Sensory and motor representa-
+tion in the cerebral cortex of the marsupial Didelphis azarae azara.
+Brain Res 34:291–299.
+Malis LI, Pribram KH, Kruger L. 1953. Action potentials in motor cortex
+evoked by peripheral nerve stimulation. J Neurophysiol 16:161–167.
+Marshall LG. 1979. Evolution of metatherian and eutherian (mammalian)
+characters: a review based on cladistic methodology. Zool J Linnean
+Soc 66:369–410.
+Marshall LG, Case JA, Woodburne MD. 1987. Phylogenetic relationships of
+the families of marsupials. In: Genoways HH, editor. Current mam-
+malogy. New York: Plenum Press. p 433–481.
+Martin GF, Beattie MS, Bresnahan JC, Henkel CK, Hughes HC. 1975.
+Cortical and brain stem projections to the spinal cord of the American
+opossum ( Didelphis marsupialis virginiana ). Brain Behav Evol 12:
+270–310.
+Martin GF, Fisher AM. 1968. A further evaluation of the origin, course and
+termination of the opossum corticospinal tract. J Neurol Sci 7:177–189.
+Martin GF, Megirian D, Roebuck A. 1970. The corticospinal tract of the
+marsupial phalanger (Trichosurus vulpecula) J Comp Neurol 139:245–
+258.
+Melzer P, Hackett T, Masterton RB, Kaas JH. 1997. Mapping of auditory
+cortex in the mouse opossum, Monodelphis domestica. Soc Neurosci
+Abstr 23:2072.
+Merzenich MM, Kaas JH, Sur M, Lin CS. 1978. Double representation of
+the body surface within cytoarchitectonic areas 3b and 1 in “S1” in the
+owl monkey (Aotus trivirgatus). J Comp Neurol 181:41–74.
+Neafsey EJ, Bold EL, Haas G, Hurley-Gius KM, Quirk G, Sievert CF,
+Terreberry RR. 1986. The organization of the rat motor cortex: a
+microstimulation mapping study. Brain Res 11:77–96.
+Nudo RJ, Masterton RB. 1988. Descending pathways to the spinal cord:
+HRP study in 22 mammals. J Comp Neurol 277:53–79.
+Nudo RJ, Masterton RB. 1990a. Descending pathways to the spinal cord,
+III: Sites of origin of the corticospinal tract. J Comp Neurol 296:559–
+583.
+Nudo RJ, Masterton RB. 1990b. Descending pathways to the spinal cord,
+IV: some factors related to the amount of cortex devoted to the corti-
+cospinal tract. J Comp Neurol 296:584–597.
+Nudo RJ, Jenkins WM, Merzenich MM, Prejean T, Grenda R. 1992. Neu-
+rophysiological correlates of hand preference in primary motor cortex of
+adult squirrel monkeys. J Neurosci 12:2918–2947.
+Nudo RJ, Sutherland DP, Masterton RB. 1995. Variation and evolution of
+mammalian corticospinal somata with special reference to primates.
+J Comp Neurol 358:181–205.
+Nudo RJ, Milliken GW, Jenkins WM, Merzenich MM. 1996. Use-dependent
+alterations of movement representations in primary motor cortex of
+adult squirrel monkeys. J Neurosci 16:785–807.
+Nudo RJ, Plautz EJ, Milliken GW. 1997. Adaptive plasticity in primate
+motor cortex as a consequence of behavioral experience and neuronal
+injury. Semin Neurosci 9:13–23.
+Olsen EC. 1959. The evolution of mammalian characters. Evolution 13:
+344–353.
+Penﬁeld W, Boldrey E. 1937. Somatic motor and sensory representation in
+the cerebral cortex of man as studied by electrical stimulation. Brain
+60:389–443.
+Penﬁeld W, Rasmussen T. 1952. The cerebral cortex of man. New York:
+Macmillan.
+Pobirsky N, Molnar Z, Blakemore C, Krubitzer L. 1998. The organization
+of somatosensory cortex in the west European hedgehog ( Erinaceus
+europaeus). Soc Neurosci Abstr 24:1125.
+Pocock RI. 1914. On the facial vibrissae in the mammalia. Proc Zool Soc
+Lond (1914) 889–912.
+Poran NS, Tripoli R, Halpern M. 1993a. Nuzzling in the gray short-tailed
+opossum I: delivery of odors to vomeronasal organ. Physiol Behav
+53:959–967.
+Poran NS, Tripoli R, Halpern M. 1993b. Nuzzling in the gray short-tailed
+opossum II: familiarity and individual recognition. Physiol Behav 53:
+969–973.
+Pubols BH. 1977. The second somatic sensory area (SmII) of opossum
+neocortex. J Comp Neurol 174:71–78.
+Pubols BH, Pubols LM, DiPette DJ, Sheely JC. 1976. Opossum somatic
+sensory cortex: a microelectrode mapping study. J Comp Neurol 165:
+229–246.
+Rees S, Hore J. 1970. The motor cortex of the brush-tailed possum ( Tri-
+chosurus vulpecula ): motor representation, motor function and the
+pyramidal tract. Brain Res 20:439–451.
+Reig OA, Kirsch JAW, Marshall LG. 1987. Relationships of American
+“opossum-like” marsupials. In: Archer M, editor. Possums and opos-
+sums: studies in evolution, vol. I. Australia: Surry Beatty and Sons
+Limited. p 10–89.
+Rose´n I, Asanuma H. 1972. Peripheral afferent inputs to the forelimb area
+of the monkey motor cortex: input-output relations. Exp Brain Res
+14:257–273.
+Roullier EM, Liang F, Moret V, Wiesendanger M. 1991. trajectory of
+redirected corticospinal axons after unilateral lesion of the sensori-
+motor cortex in neonatal rat: a Phaseolus vulgarus leucoagglutinin
+(PHA-L) tracing study. Exp Neurol 114:53–65.
+Rowe M. 1990. Organization of the cerebral cortex in monotremes and
+marsupials. In: Jones EG, Peters A, editors. Cerebral cortex. New York:
+Plenum Press. p 253–334.
+Sanderson KJ, Welker W, Shambes GM. 1983. Reevaluation of motor
+cortex and sensorimotor overlap in cerebral cortex of albino rats. Brain
+Res 292:251–260.
+Sapienza S, Talbi B, Jacquemin J, Albe-Fessard D. 1981. Relationship
+between input and output of cells in motor and somatosensory cortices
+of the chronic awake rat. Exp Brain Res 43:47–56.
+Schafer EA. 1900. Textbook of physiology, vol 2, the cerebral cortex. Lon-
+don: Young J. Pentland. p 697–782.
+Sessle BJ, Wiesendanger M. 1982. Structural and functional deﬁnition of
+the motor cortex in the monkey (Macaca fascicularis). J Physiol (Lond)
+323:245–265.
+Simpson GG. 1949. The meaning of evolution. New Haven, CT: Yale
+University Press.
+Simpson GG. 1959. Mesozoic mammals and the polyphyletic origin of
+mammals. Evolution 13:405–414.
+Smith GE. 1910. Some problem relating to the evolution of the brain.
+Lancet 1:1–6, 147–153, 221–227.
+Stepniewska I, Preuss TM, Kaas JH. 1993. Architectonics, somatotopic
+organization, and ipsilateral cortical connections of the primary motor
+area (M1) of owl monkeys. J Comp Neurol 177:569–588.
+Strick PL, Preston JB. 1982. Two representations of the hand in area 4 of
+a primate. II. Somatosensory input organization. J Neurophysiol 48:
+150–159.
+Strilein KE. 1982. Behavior, ecology and distribution of South American
+marsupials. In: Mores MA, Genoways HH, editors. Mammalian biology
+in South America. Linesville, PA: Pymatuning Laboratory of Ecology. p
+231–249.
+Sur M, Nelson RJ, Kaas JH. 1980a. The representation of the body surface
+in somatic koniocortex in the prosimian Galago. J Comp Neurol 189:
+381–402.
+Sur M, Weller RE, Kaas JH. 1980b. Representation of the body surface in
+somatosensory area 1 of tree shrews, Tupaia glis. J Comp Neurol
+194:71–95.
+Sur M, Nelson RJ, Kaas JH. 1982. Representations of the body surface in
+50 S.B. FROST ET AL.
+
+===== PDF PAGE 23 =====
+cortical areas 3b and 1 of squirrel monkeys: comparisons to other
+primates. J Comp Neurol 211:177–192.
+Tanji J, Wise SP. 1981. Submodality distribution in sensorimotor cortex of
+the unanesthetized monkey. J Neurophysiol 45:467–481.
+Thompson D, Stoney SD, Asanuma H. 1970. Characteristics of projections
+from primary sensory cortex to motor-sensory cortex in cats. Brain Res
+22:15–27.
+Ulinski PS. 1984. Thalamic projections to the somatosensory cortex of the
+echidna, Tachyglossus aculeatus. J Comp Neurol 229:153–170.
+Valverde F. 1966. The pyramidal tract in rodents. A study of its relations
+with the posterior column nuclei, dorsolateral reticular formation of
+the medulla oblongata, and cervical spinal cord (Golgi and electron
+microscopic observations). Z Zellforsch 71:297–363.
+von Economo C. 1929. The cytoarchitectonics of the human cortex. Oxford:
+Oxford University Press.
+Walsh TM, Ebner FF. 1970. The cytoarchitecture of somatic sensory motor
+cortex in the opossum ( Didelphis marsupialis virginiana ): A Golgi
+study. J Anat 107:1–18.
+Welker WI. 1964. Analysis of snifﬁng of the albino rat. Behavior 22:223–244.
+Welker WI, Benjamin RM, Miles RC, Woolsey CN. 1957. Motor effects of
+cortical stimulation in squirrel monkey ( Saimiri sciureus ). J Neuro-
+physiol 20:347–364.
+Weller WL. 1993. SM1 Cortical barrels in an Australian marsupial, Tri-
+chosurus vulpecula (brush-tailed opossum): structural organization,
+patterned distribution, and somatotopic relationships. J Comp Neurol
+337:471–492.
+Welt C, Aschoff J, Kameda K, Brooks VB. 1967. Intracortical organization
+of cat’s sensory motor neurons. In: Purpura DP, Yahr MD, editors.
+Neurophysiological basis of normal and abnormal motor activities.
+Hewlett, NY: Raven Press p 255–293.
+Westerman M, Edwards D. 1992. DNA hybridization and the phylogeny of
+monotremes. In: Augee ML, editor. Platypus and echidnas. Sydney:
+The Royal Zoological Society of New South Wales. p 28–34.
+Whishaw IQ, Pellis SM, Gorny BP. 1992. Medial frontal cortex lesions
+impair the aiming component of rat reaching. Behav Brain Res 50:93–
+104.
+Whishaw IQ, Pellis SM, Gorny BP, Kolb B, Tetzlaff W. 1993. Proximal and
+distal impairments in rat forelimb use in reaching follow unilateral
+pyramidal tract lesions. Behav Brain Res 56:59–76.
+Wiesendanger M. 1973. Input from muscle and cutaneous nerves of the
+hand and forearm to neurones of the precentral gyrus of baboons and
+monkeys. J Physiol (Lond) 228:203–219.
+Woolsey CN. 1947. Patterns of sensory representation in the cerebral
+cortex. Fed Proc 6:437–464.
+Woolsey CN. 1958. Organization of somatic sensory and motor areas of the
+cerebral cortex. In: Harlow HF, Woolsey CN, editors. Biological and
+biochemical bases of behavior. Madison: University of Wisconsin Press.
+p 63–82.
+Woolsey CN, Travis AM, Barnard JW, Ostenso RS. 1953. Motor represen-
+tation in the postcentral gyrus after chronic ablation of precentral and
+supplementary motor areas. Fed Proc 12:160.
+51SENSORIMOTOR CORTEX IN A PRIMITIVE MAMMAL

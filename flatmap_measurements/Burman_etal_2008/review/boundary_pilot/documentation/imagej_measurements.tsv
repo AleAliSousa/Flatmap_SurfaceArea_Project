@@ -1,0 +1,4 @@
+map_id	roi_index	label	area_pixels	area_calibrated	unit	original_fractional_pixels	pixel_difference_percent	roi_roundtrip_pixels_equal
+fig09A_CJ58R_flatmap	0	3a_printed_interior	3196	3196.0	pixel^2	3196.0	0.0	true
+fig09A_CJ58R_flatmap	1	3b_printed_interior	4401	4401.0	pixel^2	4401.0	0.0	true
+fig09A_CJ58R_flatmap	2	M1_dorsal_printed_interior	5100	5100.0	pixel^2	5100.0	0.0	true

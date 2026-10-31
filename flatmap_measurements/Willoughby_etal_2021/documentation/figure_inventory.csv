@@ -1,0 +1,7 @@
+figure,pdf_page,interpretation,status,next_action
+1,2,Stimulator,not_applicable,Not tissue
+2,3,Stimulation and scan design,not_applicable,Not field geometry
+3,4,Timecourses,not_applicable,Not field geometry
+4,5,Six individual response maps,digitized_where_resolved,"Forehead display components; D unresolvable, absolute areas NA"
+5,7,Published area distributions,reference_only,Use Table1 native cluster areas; not anatomical outlines
+6,7,Group spherical summary,not_independent,"Cluster centroids, not area outlines"

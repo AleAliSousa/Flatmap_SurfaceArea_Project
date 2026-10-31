@@ -1,0 +1,58 @@
+{
+  "processed_views": 4,
+  "measured_fields": 24,
+  "unmeasured_fields": 8,
+  "overlaps": [
+    {
+      "map_id": "fig07A_320_sensory",
+      "field_a": "V1_visible_component",
+      "field_b": "V2",
+      "overlap_pixels": 104
+    },
+    {
+      "map_id": "fig07A_320_sensory",
+      "field_a": "S1_3b",
+      "field_b": "S2_PV_modules",
+      "overlap_pixels": 151
+    },
+    {
+      "map_id": "fig07B_320_S1_subregions",
+      "field_a": "S1_foot",
+      "field_b": "S1_forelimb",
+      "overlap_pixels": 10
+    },
+    {
+      "map_id": "fig07B_320_S1_subregions",
+      "field_a": "S1_forelimb",
+      "field_b": "S1_unlabelled_intermediate_strip",
+      "overlap_pixels": 21
+    },
+    {
+      "map_id": "fig07B_320_S1_subregions",
+      "field_a": "S1_unlabelled_intermediate_strip",
+      "field_b": "S1_face",
+      "overlap_pixels": 21
+    },
+    {
+      "map_id": "fig07B_320_S1_subregions",
+      "field_a": "S1_face",
+      "field_b": "S1_oral",
+      "overlap_pixels": 28
+    },
+    {
+      "map_id": "fig08A_310R_S1",
+      "field_a": "S1_3b",
+      "field_b": "S1_face_oral",
+      "overlap_pixels": 29320
+    },
+    {
+      "map_id": "fig08C_320L_S1",
+      "field_a": "S1_3b",
+      "field_b": "S1_face_oral",
+      "overlap_pixels": 26661
+    }
+  ],
+  "native_imagej_roundtrip": "passed",
+  "anatomical_review": "provisional; pending user review",
+  "reference_comparison": "not_run; core workflow does not require reference data"
+}

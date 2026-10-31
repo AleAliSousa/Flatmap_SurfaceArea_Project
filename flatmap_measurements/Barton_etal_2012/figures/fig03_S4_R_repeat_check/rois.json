@@ -1,0 +1,152 @@
+{
+  "map_id": "fig03_S4_R_repeat_check",
+  "figure": "3",
+  "panel": "A-left",
+  "pdf_page": 4,
+  "printed_page": "20741",
+  "species": "Homo sapiens",
+  "specimen": "S4",
+  "hemisphere": "right",
+  "view_type": "repeat_flattened_field",
+  "hemisphere_relation": "",
+  "linked_main_map": "fig02_S4_R",
+  "repeat_of": "fig02_S4_R",
+  "relationship_note": "Same S4 right hemisphere as Fig.2; excluded from independent observation summaries.",
+  "specimen_link_status": "source_labels_preserved",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 3,
+  "crop_xyxy": [
+    155,
+    175,
+    315,
+    355
+  ],
+  "scale_endpoints_px": [
+    [
+      24.5,
+      415
+    ],
+    [
+      64.5,
+      415
+    ]
+  ],
+  "scale_length_mm": 10,
+  "scale_note": "Same-figure printed scale; 2D figure area, no shrinkage or distortion correction.",
+  "scale_reference_map": "fig03_common_scale",
+  "outline": null,
+  "rois": [
+    {
+      "label": "hA1",
+      "polygons": [
+        [
+          [
+            10,
+            54
+          ],
+          [
+            18,
+            43
+          ],
+          [
+            25,
+            36
+          ],
+          [
+            33,
+            33
+          ],
+          [
+            39,
+            29
+          ],
+          [
+            47,
+            28
+          ],
+          [
+            55,
+            30
+          ],
+          [
+            61,
+            31
+          ],
+          [
+            65,
+            38
+          ],
+          [
+            68,
+            47
+          ],
+          [
+            74,
+            54
+          ],
+          [
+            80,
+            61
+          ],
+          [
+            81,
+            68
+          ],
+          [
+            78,
+            77
+          ],
+          [
+            73,
+            83
+          ],
+          [
+            68,
+            90
+          ],
+          [
+            62,
+            98
+          ],
+          [
+            57,
+            97
+          ],
+          [
+            51,
+            91
+          ],
+          [
+            45,
+            86
+          ],
+          [
+            38,
+            80
+          ],
+          [
+            33,
+            75
+          ],
+          [
+            26,
+            71
+          ],
+          [
+            20,
+            67
+          ],
+          [
+            15,
+            62
+          ]
+        ]
+      ],
+      "extent": "complete_drawn_field",
+      "boundary_note": "Repeated hA1 hemisphere used only to compare independent figure scales; dotted boundary traced at stroke centers."
+    }
+  ],
+  "unmeasured": [],
+  "supersample": 4
+}

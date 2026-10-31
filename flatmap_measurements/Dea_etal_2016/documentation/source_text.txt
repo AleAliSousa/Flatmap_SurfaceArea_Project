@@ -1,0 +1,1228 @@
+
+===== PDF PAGE 1 =====
+ORIGINAL ARTICLE
+Different Patterns of Cortical Inputs to Subregions of the
+Primary Motor Cortex Hand Representation in
+Cebus apella
+Melvin Dea1, Adjia Hamadjida 1,2, Guillaume Elgbeili 3, Stephan Quessy 1
+and Numa Dancause 1,2
+1Département de Neurosciences, 2Groupe de recherche sur le système nerveux central (GRSNC), Université de
+Montréal, Montréal, Québec, Canada and 3Psychosocial Research Division, Douglas Institute Research Centre,
+Verdun, QC, Canada
+Address correspondence to Numa Dancause, Département de Neurosciences, Université de Montréal, C.P. 6128 succursale Centre-Ville, Montréal, Qué bec,
+Canada H3C 3J7. Email: numa.dancause@umontreal.ca
+Abstract
+The primary motor cortex (M1) plays an essential role in the control of hand movements in primates and is part of a complex
+cortical sensorimotor network involving multiple premotor and parietal areas. In a previous study in squirrel monkeys, we
+found that the ventral premotor cortex (PMv) projected mainly to 3 regions within the M1 forearm representation [rostro-medial
+(RM), rostro-lateral (RL), and caudo-lateral (CL)] with very few caudo-medial (CM) projections. These results suggest that
+projections from premotor areas to M1 are not uniform, but rather segregated into subregions. The goal of the present work was
+to study how inputs from diverse areas of the ipsilateral cortical network are organized within the M1 hand representation. In
+Cebus apella, different retrograde neuroanatomical tracers were injected in 4 subregions of the hand area of M1 (RM, RL, CM, and
+CL). We found a different pattern of input to each subregion of M1. RM receives inputs predominantly from dorsal premotor
+cortex, RL from PMv, CM from area 5, and CL from area 2. These results support that the M1 hand representation is composed of
+several subregions, each part of a unique cortical network.
+Key words: connections, hand, motor cortex, network, parietal cortex
+Introduction
+One common ﬁnding across neuroanatomical and functional
+studies is that the primary motor cortex (M1) is not uniform,
+but may be comprised of subregions with distinct characteristics.
+For example in owl monkeys, the caudal part of M1 has la rger
+pyramidal cells than the rostral part ( Stepniewska et al. 1993 ;
+Preuss et al. 1996) and, whereas the hand representation extends
+across both regions, current intensity to evoke movements with
+intracortical microstimulations (ICMS) tends to be lower in
+caudal M1 ( Preuss et al. 1996 ). In macaque monkeys, it is also in
+the caudal part of M1 that most neurons with monosynaptic pro-
+jections onto motoneurons controlling hand and arm muscles
+are located ( Rathelot and Strick 2006 , 2009).
+The hand representation of M1 is part of an extensive network
+of cortical areas that interact for the production of arm move-
+ments. Several premotor as well as somatosensory areas send
+projections to M1 ( Stepniewska et al. 1993 ; Dum and Strick
+2005), providing a substrate by which they can modulate the
+© The Author 2016. Published by Oxford University Press.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License ( http://creativecommons.org/
+licenses/by-nc/4.0/ ), which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is properly cited.
+For commercial re-use, please contact journals.permissions@oup.com
+Cerebral Cortex, April 2016;26: 1747 –1761
+doi: 10.1093/cercor/bhv324
+Advance Access Publication Date: 10 January 2016
+Original Article
+1747
+Downloaded from academic.oup.com/cercor/article/26/4/1747/2367388 by University of Bath, Library user on 31 October 2026
+
+
+===== PDF PAGE 2 =====
+activity and outputs of M1 neurons ( Tokuno and Nambu 2000 ;
+Davare et al. 2008; Prabhu et al. 2009; Ziluk et al. 2010). Neuroana-
+tomical tracing studies in New World monkeys also often report
+that the distribution of these cortical inputs in M1 is not homoge-
+neous. Projections from somatosensory areas are denser in the
+caudal portion of the M1 hand representation and sparser in ros-
+tral M1 ( Stepniewska et al. 1993 , 2006). Interhemispheric projec-
+tions seem to follow an inverse pattern. They are located
+primarily in the rostral part of M1, and are virtually absent in
+the caudal part of the hand representation ( Gould et al. 1986 ;
+Dancause et al. 2007 ). Inputs from ipsilateral premotor areas
+have also been proposed to preferentially target rostral M1 ( Step-
+niewska et al. 1993,2006; Dum and Strick 2005; Dancause, Barbay,
+Frost, Plautz, Stowe, et al. 2006 ).
+In a previous study in squirrel monkeys, we analyzed the
+topographic distribution of projections from the ipsilateral ventral
+premotor cortex (PMv) in relation to the M1 arm representation and
+found a more complex pattern than expected ( Dancause, Barbay,
+Frost, Plautz, Popescu, et al. 2006). PMv’s projections were not sim-
+ply primarily targeting the rostral M1 but rather formed 3 clusters
+[rostro-medial (RM), rostro-lateral (RL), and caudo-lateral (CL)],
+leaving only the caudo-medial (CM) region of M1 receiving few
+projections. These results extend the concept of M1 subdivisions
+beyond the rostro-caudal axis and suggest that PMv has a very
+speciﬁc pattern of connections with 4 regions within M1. One pos-
+sibility is that other premotor and sensory areas also preferentially
+project to speciﬁc regions within M1, altogether forming multiple
+specialized modules, each with a distinct pattern of cortical con-
+nections. This idea was recently supported in a study in New
+World monkeys using long-trains of stimulation to identify“func-
+tional zones ” (i.e., reach, defense, and grasp) within the frontal
+cortex and the posterior parietal cortex (Gharbawie, Stepniewska,
+Kaas 2011). Injections of tracers in each zone revealed a unique pat-
+tern of connections. For example, the M1 grasp zone had few con-
+nections with S1 and was densely connected with the lateral
+portion of the posterior parietal cortex, where the parietal grasp
+zone is located. In contrast, the M1 defense zone had dense con-
+nections with S1 and had broader connections in the parietal cor-
+tex, with both the defense and grasp zones.
+In the present set of experiments, our goal was to study the
+topographic speciﬁcity of cortical projections to M1 inCebus apella.
+In particular, we wished to directly compare the pattern of ipsi-
+lateral inputs to the 4 potential subregions (RM, RL, CM, and
+CL], within the M1 hand representation highlighted in our previ-
+ous studies (Dancause, Barbay, Frost, Plautz, Popescu, et al. 2006).
+We found that the proportion of input from each distant area of
+the sensorimotor cortex substantially varied across M1. These re-
+sults show that subregions within the M1 hand representation
+have a unique pattern of cortical inputs from premotor and som-
+atosensory cortical areas. We propose that the M1 hand area is
+composed of multiple integration modules that process and inte-
+grate largely different cortical inputs and could support specia-
+lized aspects of motor functions.
+Materials and Methods
+Surgical Procedures
+Three naïve young adult female capuchin monkeys ( C. apella ),
+with weight ranging from 1.2 to 3.5 kg, were used in the present
+study. Our experimental protocol conformed to the guidelines
+of the Canadian Council on Animal Care and was approved by
+the Comité de Déontologie de l’Expérimentation sur les Animaux
+of the Université de Montréal.
+All surgical procedures were conducted on the left hemi-
+sphere under aseptic conditions. Anesthesia was induced with
+an intramuscular injection of Ketamine (Ketaset
+®;1 5 m g / k g )
+and transitioned to iso ﬂurane ( ∼2% in 100% O 2). The animal
+was placed in a stereotaxic frame, premedicated with an intramus-
+cular injection of Dexamethasone 2 (Vetoquinol
+®; 0.5 mg/kg). Lac-
+tated ringer’s solution was delivered intravenously (10 mL/kg/h),
+and pulse rate, respiration rate, arterial oxygen saturation, and
+body temperature were monitored and documented throughout
+the surgery. A dose of Mannitol 20% (1500 mg/kg) was given intra-
+venously prior to the craniotomy to prevent swelling of the brain.
+A craniotomy and durectomy exposed the forelimb areas of
+M1, PMv, dorsal premotor cortex (PMd), supplementary motor
+area (SMA), as well as the primary somatosensory cortex (S1)
+and the lateral portion of area 5. The cortex was covered with
+warm silicone oil and digital photographs of the exposed brain
+surface were taken. Digital pictures were imported in a technical
+illustration software (Canvas, ADC systems). A grid (250 µm reso-
+lution) was overlaid on the photomicrograph and used to guide
+electrode penetrations during electrophysiological mapping. For
+the collection of electrophysiological data, iso ﬂurane was with-
+drawn and anesthesia maintained with intravenous injections
+of Ketamine (20 mg/kg/h) and Diazepam (Valium; 0.01 mg/kg/h).
+ICMS mapping techniques were used to identify the location of
+motor representations (Nudo et al. 1992 ; Dancause, Barbay, Frost,
+Zoubina, et al. 2006 ; Dancause et al. 2007 ). Multiunit recording
+techniques were used to locate S1 (areas 1 and 2) and area 5 (Dan-
+cause, Barbay, Frost, Plautz, Stowe, et al. 2006; Padberg et al. 2007,
+2010). After physiological data collection, neuronal tracers were in-
+jected in M1. At the end of the surgery, monkeys received a sub-
+cutaneous injection of Carprofen (Rimadyl
+®;1 0 m g / k g )a n d
+Enroﬂoxacin (Baytril ®; 5 mg/kg) and intramuscular injection of
+buprenorphine (Temgesic®; 0.01 mg/kg). The recovery of the mon-
+key was closely supervised and the drug regiment ensued for
+3 days. At the end of the tracer incubation period of 21 days, the
+animal was killed with a lethal dose of pentobarbital and perfused,
+and the brain was processed for tissue sectioning.
+Electrophysiological Motor Mapping
+In all 3 animals, we identi ﬁed the location of the hand represen-
+tation in M1, PMd, and PMv with ICMS. SMA ’s hand representa-
+tion was also located with ICMS in 2 animals (CB-6 and CB-8). A
+glass-coated tungsten microelectrode (impedance ∼1M Ω ;F H C
+Bowdoin, ME, USA) mounted on a micromanipulator (David
+Kopf Instruments, model 2662, Tujunga, CA, USA) was lowered
+perpendicular to the cortex. Cortical maps were derived using
+standard ICMS trains ( Mansoori et al. 2014 ; Touvykine et al.
+2015). A stimulation train consisted of 13 monophasic cathodic
+square pulses (0.2 ms duration; 3.3 ms interpulse interval) and
+trains were delivered at 1 Hz. At each cortical site, electrical
+stimulation was applied at different depths (1750 –6000 µm) to
+identify the regions at which responses were evoked with the
+lowest current intensity. For M1, PMd, and PMv, the maximal re-
+sponses were found between 1750 and 2500 μm and for SMA be-
+tween 3000 and 4000 μm. Microelectrode interpenetration
+distances were 1000 μmi nM 1a n d5 0 0 μm in PMd, PMv, and
+SMA. At each penetration site, once the depth with a maximal re-
+sponse was identi ﬁed, the movement evoked at threshold cur-
+rent intensity (the current at which movements were evoked by
+50% of the stimulation trains) was identi ﬁed by visual inspection
+and by palpation of the arm muscles by one experimenter and
+conﬁrmed by another. This movement was used to construct
+the motor maps. If no movement was evoked at a maximum
+1748 | Cerebral Cortex, 2016, Vol. 26, No. 4
+Downloaded from academic.oup.com/cercor/article/26/4/1747/2367388 by University of Bath, Library user on 31 October 2026
+
+
+===== PDF PAGE 3 =====
+current intensity of 100 μA, the site was deﬁned as unresponsive.
+The evoked movements were categorized using conventional ter-
+minology (Gould et al. 1986; Nudo, Milliken, et al. 1996; Dancause,
+Barbay, Frost, Zoubina, et al. 2006 ). Sites evoking movements of
+the digits, wrist, and forearm ( pronation and supination) were
+grouped into the hand representation. As de ﬁned, the hand re-
+presentation in M1 typically f orms a contiguous area that is
+surrounded by nonresponsive sites at the caudal border of M1
+and sites evoking movements of the elbow, shoulder, and face
+at the other borders ( Nudo and Milliken 1996 ; Nudo, Milliken,
+et al. 1996 ; Nudo, Wise, et al. 1996 ; Dancause, Barbay, Frost,
+Zoubina, et al. 2006 ). In each monkey, a few cortical sites evoked
+movements of 2 body parts at threshold current intensity
+(average = 6 sites per monkey). These cortical sites were included
+in the category of the most distal movement evoked. For example,
+if both digit and shoulder movements were evoked, the site was
+included in the category “digits”.
+The surface area for each movement category was calculated
+with a custom-made program in Matlab (MathWorks, MA, USA;
+Touvykine et al. 2015 ). The algorithm expanded each colored
+dot on the map to neighboring pixels using nearest-neighbor in-
+terpolation until all pixels were assigned a color. The total num-
+ber of pixels with the same color was scaled to the real cortical
+surface area according to a calibration ruler that was placed on
+the brain for the digital picture of the cortex.
+Electrophysiological Somatosensory Mapping
+To get some insights on the location of the hand representation
+and borders between areas in the parietal cortex, we conducted
+somatosensory mapping using multiunit recording techniques
+(Dancause, Barbay, Frost, Plautz, Stowe, et al. 2006 ). A glass-
+coated tungsten microelectrode (impedance ∼1M Ω ), similar to
+that used for ICMS, was lowered perpendicular to the exposed
+cortex at depths varying from 500 to 1000 μm. The depth of the
+electrode was adjusted to obtain the most robust response to
+stimulation of the receptive ﬁeld. Signals were ﬁltered, ampliﬁed,
+and played through loud speakers for monitoring of the neuronal
+activity. Light touch, brushing, tapping, squeezing, and joint ma-
+nipulation were used to determine the extent of the receptive
+ﬁelds and the modality of the stimulus driving the most vigorous
+cortical responses ( Sur et al. 1982 ; Dancause, Barbay, Frost,
+Plautz, Stowe, et al. 2006 ). We made 1 or 2 medio-lateral row(s)
+of microelectrode penetrations with 500 μm interpenetration dis-
+tance to identify all 5 digits in area 1 and the medial and lateral
+boundaries of the hand representation. An additional 1 or 2 ros-
+tro-caudal row(s) were made to identify the borders between area
+1, area 2, and area 5. We established these borders based on the
+modality of the stimulus driving the neural responses most
+effectively, the size and location of receptive ﬁelds, and the cap-
+acity to drive vigorous neural responses with stimulation of the
+receptive ﬁelds (Padberg et al. 2007, 2010). Because of time restric-
+tions caused by motor mapping, we chose not to conduct exten-
+sive documentation of the sensory cortex in our animals. In
+particular, we did not explore the walls of the central sulcus for
+the identi ﬁcation of area 3a and 3b. We did not include connec-
+tions to these areas in our quantitative analyses (see below). In
+addition, for area 5, we only collected information about the ros-
+tral border. The limited physiological sensory mapping data
+should be kept in mind when drawing conclusions about propor-
+tions of projections to M1 from these areas.
+Neuronal Tracer Injections
+Once the mapping procedures were completed, the animal was
+put back on iso ﬂurane anesthesia (∼2% in 100% O 2) for the injec-
+tion of 4 neuronal tracers all within the M1 hand area. Based on
+previous results ( Dancause, Barbay, Frost, Plautz, Popescu, et al.
+2006), the M1 hand representation was arbitrarily subdivided
+into 4 quadrants (RM, RL, CM, and CL). One of 4 neuroanatomical
+tracers [biotinylated dextran amine (BDA; 3000 MW; Invitrogen),
+Fluoro-ruby (FR; 3000 MW; Invitrogen), Fast blue (FB; Dr Illig Plas-
+tics GmbH), or Fluoro-emerald (FE; 3000 MW; Invitrogen)] was in-
+jected in each quadrant. We alternated the tracer injected in the 4
+quadrants of the M1 hand area among the 3 monkeys to minim-
+ize any bias that may be caused by the properties of the tracers. A
+1-µL Hamilton syringe coupled to a microsyringe pump control-
+ler (Harvard Apparatus, Holliston, MA, USA) was used for all in-
+jections. To label the cortex through all layers of the gray
+matter, injections were made in 3 boluses at pre-determined
+depths (1800, 1500, and 1200 µm), creating a column labeling all
+layers of the gray matter. Following each bolus of injection, the
+syringe was kept in place for 5 min to reduce potential back ﬂow.
+The amounts of tracer injected at each injection site are provided
+in Table 1.
+Histological Procedures
+Twenty-one days following neuronal tracer injections, the animals
+were deeply anesthetized with ketamine (Ketaset ®; 15 mg/kg;
+intramuscular) and administered a lethal dose of pentobarbital
+(Euthansol; 100 mg/kg; intraperitoneal). The animals were per-
+fused transcardially with a solution of 0.2% heparin in 0.1 M
+phosphate-buffered saline (PBS; pH 7.4), followed by 3%
+Table 1 Neuroanatomical tracers ef ﬁcacy
+Injection
+location
+Tracer Volume of
+injected
+tracer (µL)
+Volume of
+injection
+core (mm3)
+Total number
+of labeled cells
+Injection
+location
+Tracer Volume of
+injected
+tracer (µL)
+Volume of
+injection
+core (mm3)
+Total number
+of labeled cells
+RM CM
+CB-8 BDA 0.4 0.46 2012 FE 0.5 0.3 2765
+CB-6 FB 0.2 14.7 33 070 FR 0.4 1.3 4600
+CB-3 FR 0.2 2.5 2539 FB 0.2 16.2 22 453
+RL CL
+CB-8 FB 0.25 19.7 25 134 FR 0.4 1.0 4833
+CB-6 FE 0.4 0.36 1939 BDA 0.4 1.4 1222
+CB-3 BDA 0.2 2.9 1955 FE 0.2 0.7 806
+BDA, biotinylated dextran amine; FB, Fast blue; FE, Fluoro-emerald; FR, Fluoro-ruby.
+Cortical Networks of Subregions in M1 Dea et al. | 1749
+Downloaded from academic.oup.com/cercor/article/26/4/1747/2367388 by University of Bath, Library user on 31 October 2026
+
+
+===== PDF PAGE 4 =====
+paraformaldehyde in 0.1 M PBS ( pH 7.4). The brain was removed
+and the cerebral cortex isolated. The fronto-parietal cortices were
+then ﬂattened between 2 glass slides ( Gould and Kaas 1981 ; Kill-
+ackey et al. 1983 ; Dancause et al. 2005 ; Dancause, Barbay, Frost,
+Plautz, Stowe, et al. 2006 ). The cortical block of tissue was post-
+ﬁxed for 2 h in a solution of 20% sucrose and 3% paraformalde-
+hyde in 0.1 M PBS, followed by a solution of 20% sucrose with
+2% dimethyl sulfoxide in 0.1 M PBS overnight and a solution of
+20% sucrose in 0.1 M PBS for 48 h. The cryoprotected tissue was
+quickly frozen at −55 °C with methyl butane before being stored
+at −80 °C. Sections were cut tangentially to the cortical surface
+with a cryostat (thickness 50 µm for CB-3 and CB-6 and 40 µm
+for CB-8). The sections were collected in series of 6. The ﬁrst
+and fourth sections (2/6) were used for the documentation of la-
+beled cell bodies following injection of 1 of the 3 ﬂuorescent tra-
+cers (FR, FE, and FB). Those sections were immediately mounted
+after sectioning, air-dried, and coverslipped the same day. The
+second and ﬁfth sections (2/6) were processed to examine the
+cell bodies labeled with BDA. The third section and sixth sections
+were kept for Nissl staining (1/6) and myelin staining (1/6). Details
+of our histology protocols for the BDA and myelin staining have
+been previously published ( Dancause et al. 2005 ; Dancause, Bar-
+bay, Frost, Plautz, Stowe, et al. 2006 ).
+Neuroanatomical Reconstruction and Quanti ﬁcation
+of Labeled Cells
+To study the distribution of labeled cell bodies, we used a neuro-
+anatomical reconstruction system (Neurolucida, MicroBright-
+Field, Colchester, VT, USA) associated with a microscope (Olympus
+BX51, Tokyo, Japan). For CB-3 and CB-6 (section thickness 50 µm),
+every third section was sampled between depths of 650–1600 µm.
+In CB-8 (section thickness 40 µm), every fourth section was
+sampled between depths of 640 –1640 µm. For each injection, a
+total of 7 sections were reconstructed. In tangential sectioning,
+the ﬁrst sections are often incomplete and the cortical gray mat-
+ter is not of equal thickness across the hemisphere. Thus, the
+depth of sections provides limited information about cortical
+layers in which labeled cells are located. However, the systematic
+sampling across the range of sections that had consistent label-
+ing in all 3 monkeys should re ﬂect the overall pattern of connec-
+tions for each injection site.
+Tangential sectioning facilitated the co-regi stration of ana-
+tomical and neurophysiological data ( Xiao and Felleman 2004 ;
+Dancause et al. 2005 ). In reconstructed sections, the location of
+large blood vessels, corresponding to large circular holes, was
+marked as well as other landmarks, such as sulci and tracer injec-
+tion sites. On the photomicrograph used to construct the physio-
+logical maps, the points of entry in the cortex of large blood
+vessels and the same landmarks were identi ﬁed. Reconstructed
+sections and the photomicrograph along with physiological
+maps were imported into Adobe Illustrator CS5 (Adobe Systems,
+San Jose, CA, USA) and were aligned using the pattern of blood
+vessels and landmarks. The co-registered data allowed us to
+identify the cortical areas that were physiologically de ﬁned on
+the anatomical sections. As only information about the rostral
+border of area 5 was available, our contour extended caudal and
+medial from that border along the intraparietal sulcus. The num-
+ber of labeled cell bodies in each area was calculated with
+Neuroexplorer, an analysis program linked to Neurolucida ( Dan-
+cause, Barbay, Frost, Plautz, Popescu, et al. 2006 ; Dancause, Bar-
+bay, Frost, Plautz, Stowe, et al. 2006 ). In the present study, we
+chose not to unfold the centr al sulcus to retain maximal
+co-registration of physiological and anatomical data for M1,
+area 1, area 2, and area 5. Consequently, areas 3a and 3b were
+below the deepest sections reconstructed (1600 µm) and were
+not analyzed.
+For each injection site in a monkey, the number of labeled cell
+bodies in the various ipsilateral cortical areas was counted as a
+percentage of the total number of neurons labeled with this
+tracer in the reconstructed hemisphere. Because the count of
+labeled cells in M1 was affected by the multiple injection cores,
+we excluded all cells located in M1 from this calculation. The per-
+centages thus only represent “extrinsic” ipsilateral inputs to M1
+(Dancause, Barbay, Frost, Plautz, Stowe, et al. 2006 ). Results
+from the 3 monkeys were combined to obtain the ﬁnal distribu-
+tion of cells following injections in the RM, RL, CM, and CL subre-
+gions within M1. An ANOV A, with monkeys as the statistical
+units, was conducted on each of the 4 subregions to determine
+whether or not the percentages differed between areas. Post
+hoc analyses were conducted to determine which areas signi ﬁ-
+cantly differed from the others, using Tukey ’s test to correct for
+multiple testing. In addition, for each monkey, a χ
+2 test was con-
+ducted to determine if the distribution of labeled neurons across
+cortical areas were the same for the 4 subregions of M1. Because
+only 3 monkeys were used in the present study, we did not report
+the main effects of the ANOV A but only used post hoc results to
+guide the description of the pattern of labeling and classify the
+strength of connections. Nevertheless, the low number of ani-
+mals should be kept in mind when considering statistical results.
+Finally, to compare the pattern of projections of each distant
+cortical area with the others, we normalized the percentage
+values according to the following formula:
+Normalized projections to an M1 subregion ¼
+% of labeled cells in area n
+% of labeled cells in area H
+where “area n ” is the distant area studied (i.e., PMv, PMd, SMA,
+area 1, area 2, and area 5) and “area H” is the area with the highest
+proportion of labeled cells following injections in a given sub-
+region of M1 (RM, RL, CM, and C L). The values obtained vary
+between 1, for area H with the highest proportion of labeled
+cells, and potentially 0 in the case of an area with no labeled
+cells following injections in a subregion of M1. The numbers
+reﬂect the relative strength of the projections from area n to the
+s u b r e g i o ni nc o m p a r i s o nw i t ht h eo t h e rc o r t i c a la r e a si nt h e
+sensorimotor network we studied.
+Results
+Hand Representations in Primary Motor and Premotor
+Cortex of Cebus Monkeys
+In the present study using ICMS techniques, we provide the most
+complete documentation of the hand representations in motor
+and premotor cortex in Cebus monkeys to date. Figure 1 shows
+the electrophysiological mapping data from all 3 monkeys. Sites
+evoking digits, wrist, and forearm formed a contiguous area in
+M1 that was surrounded by movements of the elbow, shoulder,
+orofacial, or nonresponsive sites. The M1 hand representation
+extended over a large cortical area, and comprised many sites
+evoking digit or wrist movements (Fig. 2). In all 3 monkeys, prox-
+imal and nonresponsive sites were typically found at the medial
+and rostral borders of the hand representation. At the lateral bor-
+der, orofacial responses were the most frequent. In one animal
+(CB-6), we also evoked trunk movements at the medial border
+of the M1 hand area. In the caudal part of M1, responses were
+1750 | Cerebral Cortex, 2016, Vol. 26, No. 4
+Downloaded from academic.oup.com/cercor/article/26/4/1747/2367388 by University of Bath, Library user on 31 October 2026
+
+
+===== PDF PAGE 5 =====
+evoked with low current intensities on the convexity of the
+rostral bank of the central sulcus. At each tested site next to the
+central sulcus, we unsuccessfully attempted to e voke move-
+ments along the rostral wall (depths of∼2000 to ∼4000 µm; stimu-
+lating at steps of 500 µm), supporting that in Cebus monkeys M1
+is largely located on the convexity and that area 3a is situated in
+the anterior bank of the central sulcus ( Felleman et al. 1983; Dum
+and Strick 2005 ). The accessibility of the M1 hand representation
+facilitated motor mapping and allowed us to target our tracer
+injections to consistent locations in relation to the organization
+of M1, as de ﬁned with ICMS techniques.
+Additional ICMS mapping was conducted to locate the hand
+representations in PMv, PMd, and SMA. The hand representation
+of PMv was found lateral to the spur of the arcuate sulcus. On
+each motor map, we calculated the shortest straight line between
+the borders of the hand representation of M1 and the premotor
+areas. The average distance between the M1 and PMv hand repre-
+sentations for the 3 monkeys was 6.5 mm. Almost exclusively digit
+movements could be evoked in PMv and the hand representation
+was much smaller than in M1 (Fig. 2). Caudal and medial to the
+hand representation of PMv, cortical sites evoking orofacial move-
+ments were typically found. In some cases, we also evoked trunk,
+shoulder, or elbow movements. Lateral and rostral to the hand
+representation of PMv, cortical sites were typically nonresponsive
+and we did not evoke movements along the caudal wall of the sul-
+cus (depths of ∼2000 to ∼4000 µm). Thus, as for M1, it appears that
+the hand representation of PMv in cebus monkeys is located on the
+cortical surface. The PMd hand area was located medial to the spur
+of the arcuate sulcus. It was in close proximity, but separated from
+the M1 hand representation (average distance 0.7 mm) and thus
+more difﬁcult to identify. We based our estimation of the border
+between PMd and M1 on a combination of histological data and
+ICMS topography and thresholds. In Nissl-stained sections, PMd
+lacks giant pyramidal cells ( Preuss and Goldman-Rakic 1991 ). In
+physiological maps, we ﬁnd cortical sites evoking proximal or or-
+ofacial responses that separate cortical sites evoking hand move-
+ments in M1 and PMd, and the stimulus intensity to evoke
+movements in PMd are greater than in M1. The size of the hand
+Figure 1. Electrophysiological mapping. (a) Cartoon showing a lateral view of the brain and the approximate location of the craniotomy (gray square) and the areas of the
+frontal and parietal cortex studied with electrophysiological mapping methods. The medial wall is shown unfolded (curved arrow). (b) Motor and sensory mapping data in
+CB-8. Each colored dot on the digital photograph of the cortex represents a microelectrode penetration site. The evoked movement (frontal cortex) or somatosensory
+receptive ﬁeld location ( parietal cortex) is color-coded (legend). In the parietal cortex, the same color-code is used for the receptive ﬁeld location on the body, but the
+dots have white contours. The hand representations of M1, PMv, PMd, and SMA are outlined with red contours. In the parietal cortex, the medio-lateral e xtent of the
+hand representation in S1 and the location of rostro-caudal borders between area 1, area 2, and area 5 are shown with red lines. Note that the location of stimulation
+sites for SMA are approximated based on the distance from PMd and the depth of the electrode. They are shown over a cartoon representation of the unfolde d medial
+wall to provide an estimated location of the sites in relation to the medial wall ’s convexity and the cingulate sulcus. The location of these 2 landmarks is based on the
+anatomical reconstructions of each monkey. ( c) Motor and sensory mapping data for CB-6. In this animal, we were able to locate SMA but got limited data from it. As for
+CB-8, the location of the stimulation sites in SMA is estimated. In S1, we did not physiologically de ﬁne the medial border of the hand representation. Based on other
+animals, we estimated the location of this border and show it with a dotted red line. ( d) Motor and sensory mapping data for CB-3. In this animal, we did not locate
+SMA. AS: arcuate sulcus; CS: central sulcus; IPS: intraparietal sulcus; M1: primary motor cortex; PMd: dorsal premotor cortex; PMv: ventral premoto r cortex; SMA:
+supplementary motor area; 1: area 1; 2: area 2; 5: area 5; M: medial; R: rostral. Scale bar = 5 mm.
+Cortical Networks of Subregions in M1 Dea et al. | 1751
+Downloaded from academic.oup.com/cercor/article/26/4/1747/2367388 by University of Bath, Library user on 31 October 2026
+
+
+===== PDF PAGE 6 =====
+representation in PMd was comparable to PMv. However, a greater
+proportion of wrist movements were evoked in PMd than PMv
+(Fig. 2). Nonresponsive and proximal sites were found at the med-
+ial, rostral, and lateral borders of the PMd hand area. In addition,
+some sites eliciting orofacial movements were found at the lateral
+border. In one case (CB-6), the PMd hand representation was not
+contiguous, but was rather formed of several isolated clusters se-
+parated by nonresponsive sites and sites evoking proximal move-
+ments. We were able to locate the SMA hand area in 2 monkeys
+(CB-8 and CB-6). In comparison with PMv and PMd, responses
+were elicited at greater depths ( ∼2500 to ∼4000 µm), suggesting
+that most of the SMA hand representation is located along the
+medial wall. Based on these 2 monkeys, the distance between
+the M1 and SMA hand representations was 8.2 mm. We collected
+enough data to construct a motor map in only one monkey (CB-8).
+Although this would have to be conﬁrmed in additional animals, it
+appears that the size of the SMA hand representation is compar-
+able to other premotor areas (Fig. 2). Ventrally, nonresponsive
+sites surrounded the hand representation. Rostral to the hand
+area of SMA, in addition to nonresponsive sites, we found several
+orofacial responses. At both the dorsal and caudal borders of the
+SMA hand representation, we found sites from which we could
+evoke hindlimb, trunk, shoulder, and elbow movements.
+Hand Representations in the Parietal Cortex
+In the parietal cortex, we conducted electrophysiological map-
+ping using multiunit recording techniques ( Felleman et al. 1983 ;
+Dancause, Barbay, Frost, Plautz, Stowe, et al. 2006 ; Padberg et al.
+2007). One or 2 medio-lateral row(s) of electrode penetrations was
+done in area 1. The receptiveﬁelds of digits were organized soma-
+totopically, with digit 5 found most medial and digit 1 most lat-
+eral. Lateral to the hand representation, we found receptive
+ﬁelds on the face and medial to the hand representation, the
+receptive ﬁelds were on the wrist and forearm. Due to time con-
+straints, we could not identify the medial border of hand re-
+presentation in CB-6 and thus, the location of this border was
+estimated based on somatosensory mapping data of other
+Cebus monkeys from our laboratory (n = 8). One or 2 rostro-caudal
+row(s) of electrode penetrations provided insights on the location
+of borders between area 1, area 2, and area 5. In area 1, neurons
+reacted to light cutaneous stimulations. In the rostral aspect of
+area 1, receptive ﬁelds were typically on the palm of the hand
+and were progressively found closer to the tip of digits as we
+moved the recording electrode more caudal. The transition to
+area 2 was marked by the occurrence of larger receptive ﬁelds
+that covered several digits and often extended to the palm. Neu-
+rons in area 2 also often responded to movement of joints. In area
+5, numerous sites were nonresponsive or had activity that was
+weakly driven by manipulation of the hand and arm. Responsive
+sites typically reacted to joint manipulation, squeezing of mul-
+tiple ﬁngers or even the entire hand and forearm of the monkey
+(Padberg et al. 2007 ). Based on these results, we were able to ap-
+proximate the location of medial and lateral borders of the hand
+representation in areas 1 and 2 and the borders between area 1,
+area 2, and area 5 for the quanti ﬁcation of labeled cells.
+Distribution of Labeled Cell Bodies in the Ipsilateral
+Hemisphere
+Following identiﬁcation of the hand area in M1, 4 different neu-
+roanatomical tracers were injected in subregions (RM, RL, CM,
+and CL). Figure 3 shows examples of neurons labeled by the dif-
+ferent tracers. The use of multiple tracers injected in the same
+animal at physiologically identi ﬁed locations allowed us to dir-
+ectly compare the pattern of inputs of these subregions of M1
+within each animal. Figure 4 shows the anatomical reconstruc-
+tion of the ﬂattened cortex and labeled cell bodies coregistered
+Figure 2. Cortical surface area of the hand representation in the primary (M1) and
+premotor areas of Cebus monkeys. The graph shows the cortical area from which
+movements of the digits and wrist could be evoked in the different motor areas
+(mean ± SD). The hand representation in PMv ( n = 3), PMd ( n = 3), and SMA ( n =1 )
+was of comparable size and much smaller than in M1 ( n = 3). Data from
+individual monkeys are shown with different symbols displayed on the top of
+the bars. In all 4 cortical areas, there was a larger territory devoted to
+movements of the digits in comparison with wrist. However, this difference was
+smaller in PMd and greater in PMv.
+Figure 3. Photomicrographs of retrogradely labeled cells in the hemisphere ipsilateral to the injection of neuronal tracer. Photomicrographs of retrograde ly labeled cells
+with (a) FR, ( b) FE, ( c) FB, and ( d) BDA in the ipsilateral hemisphere. Only cell bodies displaying a fully round soma and a minimum of 2 protuberances (considered being
+either dendrites and/or axon) were considered labeled neurons. A marker was overlaid onto the cell in Neurolucida (Microbright-Field, Inc.) in the r econstruction of the
+section. Brightness and contrast were adjusted. Scale bars = 100 µm.
+1752 | Cerebral Cortex, 2016, Vol. 26, No. 4
+Downloaded from academic.oup.com/cercor/article/26/4/1747/2367388 by University of Bath, Library user on 31 October 2026
+
+
+===== PDF PAGE 7 =====
+with the physiological mapping data of CB-8. Figures 5 and 6
+show reconstructions of CB-6 and CB-3, respectively. Within
+M1, the location and extent of the injection cores resulting from
+each injection are outlined. Each injection labeled many cells
+within M1 and several cells in all premotor and sensory areas
+for which we collected electrophysiological mapping data (i.e.,
+PMv, PMd, SMA, area 1, area 2, and area 5). The injection cores
+of the tracers prevented accurate counts in M1, and we excluded
+these data from our quantitative analyses. The percentages of
+labeled cells thus re ﬂect the distribution of “extrinsic ” inputs
+from PMv, PMd, SMA, area 1, area 2, and area 5 to the injected sub-
+regions of M1 (Dancause, Barbay, Frost, Plautz, Stowe, et al. 2006).
+Cells in these areas represented from 78 to 99% (mean = 89.2%) of
+the total number of labeled cells in the reconstructed sections fol-
+lowing each tracer injection. Additional cells were located along
+the cingulate sulcus in areas corresponding to the cingulate
+motor areas (CMAs) and the posterior operculum and inferior
+parietal cortex (PO/IPC), in areas corresponding to the secondary
+somatosensory cortex (S2) and parietal ventral cortex. However,
+the tissue in these regions was incomplete in several sections
+for each animal, and we thus excluded these areas from our
+quantitative analyses. A few cells were also inconsistently
+found in other areas, for example rostral to PMv, between PMd
+and SMA, or caudal to area 5. Finally, because the central sulcus
+was not unfolded, labeling in area 3a and 3b was not analyzed in
+the present study.
+Figure 4. Reconstruction of the labeled cell bodies in CB-8. The cartoon (upper right corner) illustrates the approximate extent and location of the sections in relation to the
+entire brain. The black lines show the outlines of tangential sections of the ﬂattened hemisphere. In the frontal cortex, the location of PMv, PMd, and M1 hand
+representations are outlined with red contours. Because SMA was mainly located along the medial wall, we could not precisely align it with the anatomi cal data and
+thus do not show it on the reconstruction. In the parietal cortex, the medio-lateral extent of the hand representation and the location of the borders b etween area 1,
+area 2, and area 5 are shown with red lines. The location and extent of the injection cores in M1 are outlined with large color-coded blobs with black cont ours
+(BDA = orange; FE = green; FR = red, and FB = blue). Labeled cells from all 4 tracers are shown throughout the hemisphere with small dots that are colored ac cording to
+the same colors used for the injection cores. The areas chosen to quantify cell bodies in PMv, PMd, SMA, and area 5 are shown with pale gray contours. Note that the
+contours are used to show cells that were counted in each area, and do not necessarily represent the extent of the areas. For areas 1 and 2, the contours
+physiologically deﬁned for the hand representation (red lines) were used to quantify cells. In addition to the physiological data, these areas were de ﬁned using myelin
+and Nissl-stained sections and anatomical landmarks. In myelin sections, area 1 is more lightly myelinated than area 2 (Padberg et al. 2007). In Nissl-stained sections, the
+premotor cortex lacks giant pyramidal cells (Preuss and Goldman-Rakic 1991). We also used Nissl sections to help deﬁne borders between areas in the parietal cortex. Layer
+IV in area 2 is more densely packed than in area 1 and layers IV and VI in area 5 is more densely packed and darker than area 2 (Padberg et al. 2007). AS: arcuate sulcus; CMA:
+cingulate motor areas; CS: central sulcus; IPS: intraparietal sulcus; M1: primary motor cortex; PMd: dorsal premotor cortex; PMv: ventral premotorcortex; PO/IPC: posterior
+operculum/inferior parietal cortex; SMA: supplementary motor area; 1: area 1; 2: area 2; 5: area 5; M: medial; R: rostral. Scale bar = 5 mm.
+Cortical Networks of Subregions in M1 Dea et al. | 1753
+Downloaded from academic.oup.com/cercor/article/26/4/1747/2367388 by University of Bath, Library user on 31 October 2026
+
+
+===== PDF PAGE 8 =====
+We ﬁrst quantiﬁed the general pattern of inputs to M1. When
+p o o l i n gt h ed a t af r o ma l lM 1i n j e c t i o n s(n =1 2 ) , w e f o u n d o n l y
+slightly more labeled cells in premotor (48.4%) than in the som-
+atosensory areas (40.7%). PMd had the highest proportion of
+labeled cells (23.1%), followed by area 5 (16.5%), PMv (15.8%),
+area 2 (15.2%), SMA (9.5%), and area 1 (9.0%). Figure 7 shows sep-
+arately the distribution of labeled cells that resulted from injec-
+tions in each subregion of M1 [mean ± standard deviation (SD)].
+As can be observed in the reconstructions (Figs 4–6), there was
+variability across cases, which may have been caused by the
+efﬁcacy of the tracers, or different sizes of the effective injection
+cores or intrinsic variability of connections across monkeys. The
+normalization of the quantity of cells in each area to the total
+number of labeled cells reduced this variability and a relatively
+consistent pattern of labeling was observed across animals. A
+ﬁrst striking feature of the distribution of labeled cells bodies
+after the different injections is that both rostral injections (RM
+and RL) labeled many more cells in the premotor areas (78.4
+and 68.4%, respectively) than in parietal areas. After injections
+in RM ( n = 3), most of these cells were in PMd (55.8%), followed
+by SMA (14.7%). When comparing the proportion of labeled cells
+across areas, we found that only the proportion of labeled cells
+in PMd was signi ﬁcantly greater than in all other cortical areas
+(P < 0.05). Following injections in RL ( n = 3), most labeled cells
+were found in PMv (44.8%), followed by PMd (15.5%), and only
+the proportion of labeled cells in PMv was signi ﬁcantly greater
+than in any other cortical area ( P < 0.05).
+In contrast to rostral injections, both caudal injections (CM
+and CL) labeled more cells in the parietal cortex (58.4 and 73.7%
+respectively). After injections in CM, the greatest proportion of
+labeled cells was in area 5 (32.0%), followed by PMd (15.9%). In
+addition, many labeled cells were also found in SMA (14.5%),
+area 2 (14.4%), area 1 (12.0%), and fewer in PMv (3.6%). These
+proportions were not signi ﬁcantly different across areas with
+the exception of the proportion of labeled cells in area 5, which
+was greater than in PMv. Thus, injections in the CM resulted in
+Figure 5. Reconstruction of the labeled cell bodies in CB-6. Color codes, contours, and abbreviations are as described in Figure 4. However, note that the location of the
+different tracers within M1 varies from one animal to another. Furthermore, in this animal, the location of the medial border of the hand representati on was estimated.
+Scale bar = 5 mm.
+1754 | Cerebral Cortex, 2016, Vol. 26, No. 4
+Downloaded from academic.oup.com/cercor/article/26/4/1747/2367388 by University of Bath, Library user on 31 October 2026
+
+
+===== PDF PAGE 9 =====
+a more even distribution of labeled cells across cortical areas. Fi-
+nally, after injections in CL, most of the labeled cells were in area
+2 (37.5%), followed by area 5 (20.6%) and area 1 (15.6%). The pro-
+portion of cells in area 2 was signi ﬁcantly greater than all other
+areas, except area 5. The proportions of labeled cells in all other
+areas were not signi ﬁcantly different. For each monkey, a χ
+2 test
+conﬁrmed that the distribution of labeled neurons across cortical
+areas was different following the injections in the 4 subregions of
+M1 (P < 0.0001).
+Next, we wished to get better insights on the relative projec-
+tions from each distant cortical area to the hand representation
+of M1. To do so, for each injection site, the percentage of labeled
+cells found in a sensorimotor area was normalized to the pre-
+dominant connection following this injection (Fig. 8a). We sepa-
+rated the strength of projections into 3 categories: Major
+(normalized projection value >0.66), Moderate (between 0.66
+and 0.34), and Minor (<0.34). This analysis shows that PMd had
+the broadest pattern of projections, sending major projections
+to the RM hand representation of M1, but also moderate projec-
+tions to RL and CM. PMv ’s pattern of projection was more segre-
+gated, sending major projections to RL and minor projections to
+other subregions of M1. Among premotor areas, the relative
+strength of SMA projections across M1 subregions was the weak-
+est. It only sent moderate projections to CM and minor projec-
+tions to other regions of M1. All 3 parietal areas only sent minor
+projections to rostral M1 (both RM and RL). Area 1 had the weakest
+projections to the M1 hand area. It sent moderate projections to
+CL and CM. Area 2 sent major projections to CL and moderate pro-
+jections to CM. In contrast, area 5 sent major projections to CM
+and moderate projections to CL. Figure 8b shows the pattern of
+projections from PMd, PMv, SMA, area 1, area 2, and area 5 to dif-
+ferent subregions in the M1 hand representation.
+Discussion
+Our previous work highlighted that PMv projections to M1 are not
+uniformly distributed but rather speci ﬁcally target subregions
+(Dancause, Barbay, Frost, Plautz, Popescu, et al. 2006 ). In the pre-
+sent study, our objective was to further understand the organiza-
+tion of ipsilateral cortical inputs in the M1 hand area. In each
+monkey, we injected various retrograde neuroanatomical tracers
+in 4 regions of the M1 hand representation and quanti ﬁed the la-
+beled cell bodies across several ipsilateral premotor and somato-
+sensory areas. Injections in each subregion resulted in a unique
+pattern of cortical labeled cells. These data support a view that
+M1 is composed of several modules each receiving inputs of un-
+equal strength from diverse motor and sensory cortical areas of
+the ipsilateral hemisphere. Neurons in these M1 subregions are
+thus part of speciﬁc networks in which they can primarily interact
+Figure 6. Reconstruction of the labeled cell bodies in CB-3. Color codes, contours, and abbreviations are as described in Figure 4. Scale bar = 5 mm.
+Cortical Networks of Subregions in M1 Dea et al. | 1755
+Downloaded from academic.oup.com/cercor/article/26/4/1747/2367388 by University of Bath, Library user on 31 October 2026
+
+
+===== PDF PAGE 10 =====
+with distinct interlocutor(s) for the production of motor outputs
+involved in hand movements.
+Motor and Somatosensory Areas in the Capuchin Monkey
+We chose to conduct our study in Cebus monkeys, a New World
+species capable of pseudo-opposition of the thumb and index
+(Christel and Fragaszy 2000 ) that can use tools such as branches
+and stones, approximating the function of macaque monkeys or
+even some great apes (Visalberghi et al. 1995; Moura and Lee 2004;
+Evans and Westergaard 2006 ). These specialized hand tasks
+could be sustained by the numerous corticomotoneuronal pro-
+jections from M1 that are present in capuchin and lacking in
+less dexterous New World monkeys ( Bortoff and Strick 1993 ;
+Lemon 2008 ). As suggested from previous studies ( Gould and
+Kaas 1981; Dum and Strick 2005 ), we found that the hand repre-
+sentations of M1, PMv, and PMd are located on the cortical sur-
+face and are thus easily accessible for cortical mapping. We
+found that the hand representation in M1 was large ( ∼40 mm
+2)
+and more than 6 times the size of premotor areas, which were
+all of comparable sizes. This organization is quite different
+than what has been reported in squirrel monkeys, another New
+World species, where PMv is much larger than other premotor
+areas ( Dancause, Barbay, Frost, Zoubina, et al. 2006 ; Dancause
+et al. 2007 ; Eisner-Janowicz et al. 2008 ; Dancause 2013 ). It is not
+clear why PMd and SMA (although we have limited data on
+SMA in the present study) are larger in Cebus monkeys in
+comparison with other New World primates. Perhaps, the in-
+creased repertoire of movements such as the opposition of the
+thumb rely on corticomotoneuronal connections, while the com-
+plexity of motor behaviors such as the use of tools emerged with
+the development of some premotor areas such as PMd and SMA.
+Another appealing aspect of capuchin monkeys is that they
+have a well-de ﬁned area 2 ( Padberg et al. 2007 ). In other New
+World monkey species, the existence of area 2 is controversial
+(Kaas 2004). While some studies conclude that the cortex caudal
+to area 1 has characteristics of area 2 ( Merzenich et al. 1978 ; Liao
+et al. 2013 ), others conclude that it does not ( Padberg et al. 2005 )
+or leave the question open ( Dancause, Barbay, Frost, Plautz,
+Stowe, et al. 2006 ; Gharbawie, Stepniewska, Kaas 2011 ; Negyessy
+et al. 2013 ; Ashaber et al. 2014 ). In the present study, we did ﬁnd
+receptive ﬁelds that are characteristic of area 2 and a transition
+that marked the rostral border of area 5. Altogether, the presence
+of these somatosensory areas with the accessibility of motor
+representations and behavioral traits of Cebus monkeys make
+them a particularly appealing species to study the cortical net-
+work sustaining hand functions.
+Pattern of Projections from Somatosensory Areas to M1
+There is a wealth of studies reporting that M1 is interconnected
+with area 1, area 2, and the posterior parietal cortex (area 5;
+Jones et al. 1978 ; Pons and Kaas 1986 ; Ghosh et al. 1987 ;
+Stepniewska et al. 1993 ). Likewise, we consistently found that
+Figure 7. Proportion of labeled cell bodies in ipsilateral hemisphere. Each panel shows the average proportion of labeled cells in the different premotor and p arietal areas
+(areas 1, 2, and 5) in the reconstructed sections (mean ± SD; n = 3). Data from individual monkeys are shown with different symbols displayed on the top of the bars. ( a)
+Following injections in the RM, most labeled cells were in the premotor areas and we found the greatest number of cells in PMd. ( b) Injections in the rostro-lateral (RL) M1
+also labeled more cells in the premotor cortex but the area with most labeled cells was PMv. (c) Injections in the CM labeled more cells in area 5. However, the proportion of
+cells in other areas was more evenly distributed. ( d) Finally, injections in the CL labeled more cells in area 2, followed by area 5.
+1756 | Cerebral Cortex, 2016, Vol. 26, No. 4
+Downloaded from academic.oup.com/cercor/article/26/4/1747/2367388 by University of Bath, Library user on 31 October 2026
+
+
+===== PDF PAGE 11 =====
+M1 received projections from these areas in all 3 monkeys. It may
+be worth noting that although not analyzed in the present study,
+M1 also has substantial connections with area 3a and fewer con-
+nections with area 3b ( Krubitzer and Kaas 1990 ; Stepniewska
+et al. 1993 ). Because area 3a and area 3b are buried in the central
+sulcus of Cebus monkeys, the study of connections of these areas
+would be easier in species with better access to these regions. The
+large proportion of ipsilateral inputs to M1 originating from area
+1, area 2, and area 5 of the parietal lobe we found (40.7%) contrasts
+with a previous quantitative study in macaque monkeys that re-
+ported much greater cortical connections between premotor
+areas and M1 ( Ghosh et al. 1987 ). It is dif ﬁcult to be certain
+about the cause of these discrepancies, as the 2 studies were con-
+ducted in different species. However, we found a greater
+Figure 8. Normalized strength of cortical projections to the M1 hand area. (a) To compare the pattern of projections from each distant cortical area to M1, we normalized the
+proportion of labeled cells. For each injection site (RL: rostro-lateral; CL: caudo-lateral; RM: rostro-medial; CM: caudo-medial), the proportio n of labeled cells found in a
+distant cortical area was divided by that of the area with the most labeled cells. For example, for RM injections, PMd had the highest proportion of labeled cells (normalized
+value = 1.0). The percentage of labeled cells found in SMA following RM injections was approximately 4 times lower than in PMd (normalized value = 0.26) . The cartoon in
+the middle of the ﬁgure shows the color code for the different injection sites (RL = green; CL = orange; RM = red; CM = blue). For each distant cortical area (SMA, PMd, PMv,
+area 1, area 2, and area 5), a cross diagram shows the normalized strength of its projections to the 4 subregions of the M1 hand area. In each quadrant, the value of the
+normalized projections is provided and the size of the color square is proportional to the strength of the projections. (b) Cartoon summarizing the pattern of projections to
+the M1 hand representation from the different areas of the sensorimotor cortex investigated in the present study (SMA, PMd, PMv, area 1, area 2, and are a 5). Connections
+of M1 reported in other studies but not studied here are not shown (e.g., area 3a, S2, etc.). Thick arrows represent “major” projections and thin arrows “moderate”
+projections, based on the relative strength of connections ( a). PMd had the broadest pattern of projections, sending major projections to RM and moderate projections
+to both RL and CM. In contrast, PMv had a more focal pattern, sending only major projections to RL. SMA had moderate projections to CM. All 3 parietal area s studied
+were mainly connected with the caudal part of M1. Area 1 had moderate projections to both CM and CL. Area 2 had major projections to CL and moderate projec tions
+to CM, and area 5 had major projections to CM and moderate projections to CL.
+Cortical Networks of Subregions in M1 Dea et al. | 1757
+Downloaded from academic.oup.com/cercor/article/26/4/1747/2367388 by University of Bath, Library user on 31 October 2026
+
+
+===== PDF PAGE 12 =====
+proportion of projections from parietal areas to caudal M1, an
+area buried deep in the central sulcus and more difﬁcult to access
+in macaque monkeys. One possibility is that we found a much
+greater proportion of connections from parietal areas because
+half of our injections speci ﬁcally targeted caudal M1, resulting
+in a more complete documentation of M1 ’s inputs.
+It is also worth noting that the distribution of labeled cells in
+area 5 tended to vary along the intraparietal sulcus, depending on
+the location of the injections in M1. This is particularly obvious in
+CB-8, where labeled cells from the CL injection tended to be lo-
+cated more rostro-laterally, and from the CM injection tended
+to be more caudo-medially along the intraparietal sulcus
+(Fig. 4). The lack of physiological data for area 5 limited our cap-
+acity to subdivide it and to conduct separate analyses for each po-
+tential region. Nevertheless, there appears to be a similar trend
+between the qualitative pattern of projections of area 5 in our
+data with that reported in Old and New World monkeys ( Gharba-
+wie, Stepniewska, Kaas 2011 ; Gharbawie, Stepniewska, Qi, et al.
+2011). From these studies as well as in ours, it appears that the
+rostral portion of area 5, where the“grasp zone” is located, is pref-
+erentially connected to CL while more caudal portions of area 5,
+where the “reach” and “defense zones” are located, are more in-
+terconnected with CM.
+Whereas quantitative values of connections do not necessar-
+ily translate into efﬁcacy, our data might suggest that sensory in-
+puts are as powerful in modulating M1 neurons for the
+production of motor outputs as premotor areas. Similar to previ-
+ous studies (Ghosh et al. 1987), we found comparable proportions
+of inputs from area 1, area 2, and area 5. Balanced proportions of
+inputs from these areas could support a continuous ﬂow of som-
+atosensory information at various stages of processing (Krubitzer
+and Kaas 1990 ). Populations of neurons located in subregions of
+M1 could use these different sensory signals to affect motor out-
+puts depending on the demands of the task, such as the urgency
+of the response. Perturbations of arm movements have striking
+modulatory effects on the activity of M1 ’s neurons ( Evarts and
+Tanji 1976; Herter et al. 2009 ) that can rapidly integrate informa-
+tion about the arm to correct errors ( Pruszynski et al. 2011 ). Pos-
+sibly, these rapid adaptive processes are supported by the
+numerous projections from sensory areas to M1. Ecological pres-
+sure prioritizing the ef ﬁcacy of integration of sensory informa-
+tion to the effectors of motor outputs may have resulted in the
+preferential localization of sensory projections to the caudal por-
+tion of M1. This phylogenetically “newer” cortex hosts most pyr-
+amidal cells with direct access to motoneurons ( Rathelot and
+Strick 2006 , 2009). These pyramidal cells are certainly equipped
+to integrate complex signals into spinal outputs ( Spruston 2008)
+and have the wiring for the most r apid and effective cortical
+effects on hand and forearm muscles.
+Pattern of Projections from Premotor Areas to M1
+A previous study investigated the cortical network between the
+digit representations of M1 and premotor areas in Cebus mon-
+keys (Dum and Strick 2005 ). Normalization of the strength of in-
+puts to M1 showed that the predominant projections came from
+PMd, followed by PMv and SMA. We found an identical general
+pattern of inputs to M1. However, the use of multiple smaller tra-
+cer injections in subregions of M1 in the present study showed
+that the distribution of cortical input across the M1 hand area is
+quite different for each premotor area. PMd sends broader con-
+nections across most of the hand area of M1. In contrast, projec-
+tions from SMA and PMv were more restricted, respectively, to
+CM and RL. These data suggest that, in comparison with other
+premotor areas, PMd may have stronger and more widespread
+modulatory effects on M1’s neurons. Single neuron recording ex-
+periments in monkeys have proposed that PMd is involved in the
+preparation for goal-oriented reaching and online control of
+movements ( Kurata 1993 ; Lee and van Donkelaar 2006 ; Pesaran
+et al. 2006 ). The speci ﬁc processing carried out by PMd neurons
+could be required across a wide range of specialized functions
+carried out by subregions in M1.
+In squirrel monkeys, projections of PMv are found in 3 clusters
+extending over both hand and proximal representations. The lar-
+gest and densest cluster is located in the RL portion of M1 arm
+area, and 2 other smaller clusters in the RM and CL regions ( Dan-
+cause, Barbay, Frost, Plautz, Popescu, et al. 2006). Results from the
+present study in Cebus monkeys, where we looked more speciﬁc-
+ally at the pattern of projections to the hand area, are essentially
+in accordance with these ﬁndings. The greatest proportion of la-
+beled cells in PMv was following RL injections, with fewer labeled
+cells following injections in others subregions. The ﬁnding that
+PMv sends its most robust projections to RL is thus consistent
+in different New World monkey species. It is not clear why PMv
+neurons preferentially project to RL. Studies of cortical interac-
+tions have shown that PMv has powerful modulatory effects on
+M1 outputs ( Cerri et al. 2003 ; Shimazu et al. 2004 ; Davare et al.
+2008), with no indication of weaker or stronger interactions
+with subregions. This is not so surprising when considering
+that, in both humans and macaque monkeys, caudal M1 is buried
+deep within the central sulcus. Thus, studies using transcranial
+magnetic stimulations ( Davare et al. 2008 ) or microwire arrays
+on the cortical surface ( Cerri et al. 2003 ; Shimazu et al. 2004 ) are
+likely to have largely tested interactions between PMv and rostral
+M1. Based on our anatomical results, it would be interesting to
+compare the interactions between PMv, but also PMd, with subre-
+gions of M1, something that may be more easily conducted in
+New World monkeys where the hand representations in these
+cortical areas are readily available on the cortical surface.
+Support for Subdivisions Within the M1 Hand Area
+Many studies have documented subdivisions of the M1 hand area
+in primates and humans. In particular, it was suggested that the
+forelimb representation of M1 would be subdivided into a rostral
+and a caudal aspect, each having different cytoarchitectural,
+neuronal response properties and patterns of connections with
+other cortical areas ( Jones et al. 1978 ; Strick and Preston 1982a ,
+1982b; Humphrey and Reed 1983 ; Stepniewska et al. 1993 , 2006;
+Geyer et al. 1996 ; Preuss et al. 1996 ). For example, corticospinal
+cells in the rostral portion of M1 mostly make corticospinal con-
+nections with upper cervical segments ( He et al. 1993 ). M1 neu-
+rons in rostral M1 are typically driven by proprioceptive inputs,
+whereas neurons with cutaneous receptive ﬁelds are more com-
+mon in caudal M1 ( Strick and Preston 1982b ). In humans, com-
+parable divisions of M1 into rostral and caudal subregions have
+also been suggested based on cytoarchitecture and receptor bind-
+ing and they show different patterns of activation that is task-de-
+pendent ( Geyer et al. 1996 ).
+In the present study, we made injections of tracers into 4 sub-
+regions of the M1 hand representation based on our previous
+anatomical ﬁndings ( Dancause, Barbay, Frost, Plautz, Popescu,
+et al. 2006). This experimental design does not exclude the possi-
+bility that more subregions exist within M1 or that these some-
+what arbitrary subdivisions are actually functionally relevant.
+It did, however, allow direct comparison of the pattern of connec-
+tion of each subregion of the M1 hand representation we chose to
+study and convincingly showed that they have different patterns
+1758 | Cerebral Cortex, 2016, Vol. 26, No. 4
+Downloaded from academic.oup.com/cercor/article/26/4/1747/2367388 by University of Bath, Library user on 31 October 2026
+
+
+===== PDF PAGE 13 =====
+of cortical inputs. These data add onto the already compelling
+evidence, suggesting the existence of a rostral and caudal subdiv-
+ision within M1. They also support the concept of a more elabor-
+ate parcellation of the hand area of M1 by showing that medio-
+lateral regions within the rostral and caudal M1 hand
+representation also have different patterns of cortical inputs.
+Cortical mapping experiments using long-train stimulations
+have shown that cortical sites within given subregions of M1
+tend to evoke a speciﬁc type of movement (e.g., defense or grasp-
+ing) that can be associated with the monkey ’s behavioral reper-
+toire ( Graziano, Taylor, Moore 2002 ). Based on these results, it
+has been proposed that the M1 forelimb area is organized into
+multiple subgregions, each controlling a category of movements
+(Graziano, Taylor, Moore, Cooke 2002). Injections of neuronal tra-
+cers into different functional zones in M1 identi ﬁed with long-
+train stimulations revealed these zones are part of networks
+that include many of the same cortical areas but with great dis-
+parities for the amount of conne ctions. Perhaps, the parietal
+and premotor areas with same repertoire of movements (Graziano,
+Taylor, Moore 2002; Gharbawie, Stepniewska, Kaas 2011) would be
+preferentially interconnected to form networks that carry out
+subcategories of movements. Overlap between networks would
+allow coordination of these components to produce integrated
+movements. Obviously, the functional implication of the frag-
+mentation of M1 into functional subregions will be best settled
+using neural recording in awake behaving monkeys. Neverthe-
+less, our data contribute to accumulating neuroanatomical evi-
+dence, from various species and using different motor mapping
+techniques ( Stepniewska et al. 2009 ; Gharbawie, Stepniewska,
+Kaas 2011; Gharbawie, Stepniewska, Qi, et al. 2011), that converge
+on the same conclusion: Subregions within M1 are parts of large-
+ly distinct cortical networks. These recent anatomical data renew
+long-standing questions regarding internal organization of M1
+hand area ( Schieber and Hibbard 1993 ) that are yet awaiting
+answers.
+Funding
+This work was supported by a Natural Sciences and Engineering
+Research Council of Canada discovery grant to N.D. N.D. is sup-
+ported by a Canadian Institutes of Health Research (CIHR) New
+Investigator salary award. Funding to pay the Open Access publi-
+cation charges for this article was provided by Natural Sciences
+and Engineering Research Council of Canada.
+Notes
+We thank Trevor Drew and Kelsey N. Dancause for insightful
+comments, suggestions, and editing. Conﬂict of Interest :N o n e
+declared.
+References
+Ashaber M, Pal ﬁ E, Friedman RM, Palmer C, Jakli B, Chen LM,
+Kantor O, Roe AW, Negyessy L. 2014. Connectivity of somato-
+sensory cortical area 1 forms an anatomical substrate for the
+emergence of multiﬁnger receptive ﬁelds and complex feature
+selectivity in the squirrel monkey ( Saimiri sciureus ). J Comp
+Neurol. 522:1769–1785.
+Bortoff GA, Strick PL. 1993. Corticospinal terminations in two
+new-world primates: further evidence that corticomotoneur-
+onal connections provide part of the neural substrate for
+manual dexterity. J Neurosci. 13:5105 –5118.
+Cerri G, Shimazu H, Maier MA, Lemon RN. 2003. Facilitation from
+ventral premotor cortex of primary motor cortex outputs to
+macaque hand muscles. J Neurophysiol. 90:832 –842.
+Christel M, Fragaszy D. 2000. Manual function in Cebus apella .
+Digital mobility, preshaping, and endurance in repetitive
+grasping. Int J Primatol. 21:697 –719.
+Dancause N. 2013. Plasticity in the motor network following pri-
+mary motor cortex lesion. Adv Exp Med Biol. 782:61 –86.
+Dancause N, Barbay S, Frost SB, Mahnken JD, Nudo RJ. 2007. Inter-
+hemispheric connections of the ventral premotor cortex in a
+new world primate. J Comp Neurol. 505:701 –715.
+Dancause N, Barbay S, Frost SB, Plautz EJ, Chen D, Zoubina EV,
+Stowe AM, Nudo RJ. 2005. Extensive cortical rewiring after
+brain injury. J Neurosci. 25:10167 –10179.
+Dancause N, Barbay S, Frost SB, Plautz EJ, Popescu M, Dixon PM,
+Stowe AM, Friel KM, Nudo RJ. 2006. Topographically divergent
+and convergent connectivity between premotor and primary
+motor cortex. Cereb Cortex. 16:1057 –1068.
+Dancause N, Barbay S, Frost SB, Plautz EJ, Stowe AM, Friel KM,
+Nudo RJ. 2006. Ipsilateral connections of the ventral premotor
+cortex in a new world primate. J Comp Neurol. 495:374 –390.
+Dancause N, Barbay S, Frost SB, Zoubina EV, Plautz EJ,
+Mahnken JD, Nudo RJ. 2006. Effects of small ischemic lesions
+in the primary motor cortex on neurophysiological organiza-
+tion in ventral premotor cortex. J Neurophysiol. 96:3506 –3511.
+Davare M, Lemon R, Olivier E. 2008. Selective modulation of inter-
+actions between ventral premotor cortex and primary motor
+cortex during precision grasping in humans. J Physiol.
+586:2735–2742.
+Dum RP, Strick PL. 2005. Frontal lobe inputs to the digit represen-
+tations of the motor areas on the lateral surface of the hemi-
+sphere. J Neurosci. 25:1375 –1386.
+Eisner-Janowicz I, Barbay S, Hoover E, Stowe AM, Frost SB,
+Plautz EJ, Nudo RJ. 2008. Early and late changes in the distal
+forelimb representation of the supplementary motor area
+after injury to frontal motor areas in the squirrel monkey. J
+Neurophysiol. 100:1498–1512.
+Evans TA, Westergaard GC. 2006. Self-control and tool use in
+tufted capuchin monkeys ( Cebus apella ). J Comp Psychol.
+120:163–166.
+Evarts EV, Tanji J. 1976. Re ﬂex and intended responses in motor
+cortex pyramidal tract neurons of monkey. J Neurophysiol.
+39:1069–1080.
+Felleman DJ, Nelson RJ, Sur M, Kaas JH. 1983. Representations of
+the body surface in areas 3b and 1 of postcentral parietal cor-
+tex of Cebus monkeys. Brain Res. 268:15 –26.
+Geyer S, Ledberg A, Schleicher A, Kinomura S, Schormann T,
+Burgel U, Klingberg T, Larsson J, Zilles K, Roland PE. 1996.
+Two different areas within the primary motor cortex of
+man. Nature. 382:805 –807.
+Gharbawie OA, Stepniewska I, Kaas JH. 2011. Cortical connections
+of functional zones in posteri or parietal cortex and frontal
+cortex motor regions in new world monkeys. Cereb Cortex.
+21:1981–2002.
+Gharbawie OA, Stepniewska I, Qi H, Kaas JH. 2011. Multiple par-
+ietal-frontal pathways mediate grasping in macaque mon-
+keys. J Neurosci. 31:11660 –11677.
+Ghosh S, Brinkman C, Porter R. 1987. A quantitative study of the
+distribution of neurons projecting to the precentral motor cor-
+tex in the monkey (M. fascicularis). J Comp Neurol. 259:424–444.
+Gould HJ III, Cusick CG, Pons TP, Kaas JH. 1986. The relationship of
+corpus callosum connections to electrical stimulation maps
+of motor, supplementary motor, and the frontal eye ﬁelds in
+owl monkeys. J Comp Neurol. 247:297 –325.
+Cortical Networks of Subregions in M1 Dea et al. | 1759
+Downloaded from academic.oup.com/cercor/article/26/4/1747/2367388 by University of Bath, Library user on 31 October 2026
+
+
+===== PDF PAGE 14 =====
+Gould HJ III, Kaas JH. 1981. The distribution of commissural ter-
+minations in somatosensory areas I and II of the grey squirrel.
+J Comp Neurol. 196:489 –504.
+Graziano MS, Taylor CS, Moore T. 2 002. Complex m ovements
+evoked by microstimulation of precentral cortex. Neuron.
+34:841–851.
+Graziano MS, Taylor CS, Moore T, Cooke DF. 2002. The cortical
+control of movement revisited. Neuron. 36:349 –362.
+He SQ, Dum RP, Strick PL. 1993. Topographic organization of cor-
+ticospinal projections from the frontal lobe: motor areas on
+the lateral surface of the hemisphere. J Neurosci. 13:952 –980.
+Herter TM, Korbel T, Scott SH. 2009. Comparison of neural re-
+sponses in primary motor cortex to transient and continuous
+loads during posture. J Neurophysiol. 101:150 –163.
+Humphrey DR, Reed DJ. 1983. Separate cortical systems for con-
+trol of joint movement and joint stiffness: reciprocal activa-
+tion and coactivation of antagonist muscles. Adv Neurol.
+39:347–372.
+Jones EG, Coulter JD, Hendry SH. 1978. Intracortical connectivity
+of architectonic ﬁelds in the somatic sensory, motor and par-
+ietal cortex of monkeys. J Comp Neurol. 181:291 –347.
+Kaas JH. 2004. Evolution of somatosensory and motor cortex in
+primates. Anat Rec A Discov Mol Cell Evol Biol. 281:1148 –1156.
+Killackey HP, Gould HJ III, Cusick CG, Pons TP, Kaas JH. 1983. The
+relation of corpus callosum connections to architectonic
+ﬁelds and body surface maps in sensorimotor cortex of new
+and old world monkeys. J Comp Neurol. 219:384 –419.
+Krubitzer LA, Kaas JH. 1990. The organization and connections of
+somatosensory cortex in marmosets. J Neurosci. 10:952 –974.
+Kurata K. 1993. Premotor cortex of monkeys: set- and movement-
+related activity re ﬂecting amplitude and direction of wrist
+movements. J Neurophysiol. 69:187 –200.
+Lee JH, van Donkelaar P. 2006. The human dorsal premotor cortex
+generates on-line error corrections during sensorimotor
+adaptation. J Neurosci. 26:3330 –3334.
+Lemon RN. 2008. Descending pathways in motor control. Annu
+Rev Neurosci. 31:195 –218.
+Liao CC, Gharbawie OA, Qi H, Kaas JH. 2013. Cortical connections
+to single digit representations in area 3b of somatosensory
+cortex in squirrel monkeys and prosimian galagos. J Comp
+Neurol. 521:3768–3790.
+M a n s o o r iB K ,J e a n - C h a r l e sL ,T o u v y k i n eB ,L i uA ,Q u e s s yS ,
+Dancause N. 2014. Acute inactivation of the contralesional
+hemisphere for longer durations improves recovery after cor-
+tical injury. Exp Neurol. 254:18 –28.
+Merzenich MM, Kaas JH, Sur M, Lin CS. 1978. Double representa-
+tion of the body surface within cytoarchitectonic areas 3b and
+1i n “SI” in the owl monkey ( Aotus trivirgatus). J Comp Neurol.
+181:41–73.
+Moura AC, Lee PC. 2004. Capuchin stone tool use in Caatinga dry
+forest. Science. 306:1909.
+Negyessy L, Pal ﬁ E, Ashaber M, Palmer C, Jakli B, Friedman RM,
+Chen LM, Roe AW. 2013. Intrinsic horizontal connections pro-
+cess global tactile features in the primary somatosensory cor-
+tex: neuroanatomical evidence. J Comp Neurol. 521:2798–2817.
+Nudo RJ, Jenkins WM, Merzenich MM, Prejean T, Grenda R. 1992.
+Neurophysiological correlates of hand preference in primary
+motor cortex of adult squirrel monkeys. J Neurosci. 12:
+2918–2947.
+Nudo RJ, Milliken GW. 1996. Reorganization of movement repre-
+sentations in primary motor cortex following focal ischemic in-
+farcts in adult squirrel monkeys. J Neurophysiol. 75:2144–
+2149.
+Nudo RJ, Milliken GW, Jenkins WM, Merzenich MM. 1996. Use-
+dependent alterations of movement representations in
+primary motor cortex of adult squirrel monkeys. J Neurosci.
+16:785–807.
+Nudo RJ, Wise BM, SiFuentes F, Milliken GW. 1996. Neural sub-
+strates for the effects of rehabilitative training on motor
+recovery after ischemic infarct. Science. 272:1791 –1794.
+Padberg J, Disbrow E, Krubitzer L. 2005. The organization and con-
+nections of anterior and posterior parietal cortex in titi mon-
+keys: do New World monkeys have an area 2? Cereb Cortex.
+15:1938–1963.
+Padberg J, Franca JG, Cooke DF, Soares JG, Rosa MG, Fiorani M Jr,
+Gattass R, Krubitzer L. 2007. Parallel evolution of cortical
+areas involved in skilled hand use. J Neurosci. 27:10106–10115.
+Padberg J, Recanzone G, Engle J, Cooke D, Goldring A, Krubitzer L. 2010.
+Lesions in posterior parietal area 5 in monkeys result in rapid
+behavioral and cortical plasticity. J Neurosci. 30:12918–12935.
+Pesaran B, Nelson MJ, Andersen RA. 2006. Dorsal premotor neu-
+rons encode the relative position of the hand, eye, and goal
+during reach planning. Neuron. 51:125 –134.
+Pons TP, Kaas JH. 1986. Corticocortical connections of area 2 of
+somatosensory cortex in macaque monkeys: a correlative
+anatomical and electrophysiological study. J Comp Neurol.
+248:313–335.
+Prabhu G, Shimazu H, Cerri G, Brochier T, Spinks RL, Maier MA,
+Lemon RN. 2009. Modulation of primary motor cortex outputs
+from ventral premotor cortex during visually guided grasp in
+the macaque monkey. J Physiol. 587:1057 –1069.
+Preuss TM, Goldman-Rakic PS. 1991. Myelo- and cytoarchitecture
+of the granular frontal cortex and surrounding regions in the
+strepsirhine primate Galago and the anthropoid primate Ma-
+caca. J Comp Neurol. 310:429 –474.
+Preuss TM, Stepniewska I, Kaas JH. 1996. Movement representa-
+tion in the dorsal and ventral premotor areas of owl monkeys:
+a microstimulation study. J Comp Neurol. 371:649 –676.
+Pruszynski JA, Kurtzer I, Nashed JY, Omrani M, Brouwer B,
+Scott SH. 2011. Primary motor cortex underlies multi-joint in-
+tegration for fast feedback control. Nature. 478:387 –390.
+Rathelot JA, Strick PL. 2006. Muscle representation in the ma-
+caque motor cortex: an anatomical perspective. Proc Natl
+Acad Sci USA. 103:8257 –8262.
+Rathelot JA, Strick PL. 2009. Subdivisions of primary motor cortex
+based on cortico-motoneuronal cells. Proc Natl Acad Sci USA.
+106:918–923.
+Schieber MH, Hibbard LS. 1993. H ow somatotopic is the motor
+cortex hand area? Science. 261:489 –492.
+Shimazu H, Maier MA, Cerri G, Kirkwood PA, Lemon RN. 2004.
+Macaque ventral premotor cortex exerts powerful facilitation
+of motor cortex outputs to upper limb motoneurons. J
+Neurosci. 24:1200–1211.
+Spruston N. 2008. Pyramidal neurons: dendritic structure and
+synaptic integration. Nat Rev Neurosci. 9:206 –221.
+Stepniewska I, Cerkevich CM, Fang PC, Kaas JH. 2009. Organiza-
+tion of the posterior parietal cortex in galagos: II. Ipsilateral
+cortical connections of physiologically identi ﬁed zones with-
+in anterior sensorimotor region. J Comp Neurol. 517:783 –807.
+Stepniewska I, Preuss TM, Kaas JH. 1993. Architectonics, somato-
+topic organization, and ipsilateral cortical connections of the
+primary motor area (M1) of owl monkeys. J Comp Neurol.
+330:238–271.
+Stepniewska I, Preuss TM, Kaas JH. 2006. Ipsilateral cortical con-
+nections of dorsal and ventral premotor areas in New World
+owl monkeys. J Comp Neurol. 495:691 –708.
+Strick PL, Preston JB. 1982a. Two representations of the hand in
+area 4 of a primate. I. Motor output organization. J Neurophysiol.
+48:139–149.
+1760 | Cerebral Cortex, 2016, Vol. 26, No. 4
+Downloaded from academic.oup.com/cercor/article/26/4/1747/2367388 by University of Bath, Library user on 31 October 2026
+
+
+===== PDF PAGE 15 =====
+Strick PL, Preston JB. 1982b. Two representations of the hand in
+area 4 of a primate. II. Somatosensory input organization. J
+Neurophysiol. 48:150–159.
+Sur M, Nelson RJ, Kaas JH. 1982. Representations of the body sur-
+face in cortical areas 3b and 1 of squirrel monkeys: compari-
+sons with other primates. J Comp Neurol. 211:177 –192.
+Tokuno H, Nambu A. 2000. Organization of nonprimary motor
+cortical inputs on pyramidal and nonpyramidal tract neurons
+of primary motor cortex: an electrophysiological study in the
+macaque monkey. Cereb Cortex. 10:58 –68.
+Touvykine B, Mansoori BK, Jean-Charles L, Deffeyes J, Quessy S,
+Dancause N. 2015. The effect of lesion size on the organization
+of the ipsilesional and contralesional motor cortex.
+Neurorehabil Neural Repair. pii:1545968315585356. [Epub
+ahead of print].
+Visalberghi E, Fragaszy DM, Savage-Rumbaugh S. 1995. Perform-
+ance in a tool-using task by common chimpanzees (Pan troglo-
+dytes), bonobos ( Pan paniscus), an orangutan ( Pongo pygmaeus),
+and capuchin monkeys ( Cebus apella ). J Comp Psychol.
+109:52–60.
+Xiao Y, Felleman DJ. 2004. Projections from primary visual cortex
+to cytochrome oxidase thin stripes and interstripes of ma-
+caque visual area 2. Proc Natl Acad Sci USA. 101:7147 –7151.
+Ziluk A, Premji A, Nelson AJ. 2010. Functional connectivity from
+area 5 to primary motor cortex via paired-pulse transcranial
+magnetic stimulation. Neurosci Lett. 484:81 –85.
+Cortical Networks of Subregions in M1 Dea et al. | 1761
+Downloaded from academic.oup.com/cercor/article/26/4/1747/2367388 by University of Bath, Library user on 31 October 2026

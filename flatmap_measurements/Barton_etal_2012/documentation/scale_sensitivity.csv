@@ -1,0 +1,7 @@
+map_id,label,area_mm2,bar_length_px,area_if_bar_2px_longer_mm2,area_if_bar_2px_shorter_mm2,interpretation
+fig02_S3_L,hA1,196.33916323731134,27.0,170.1917360285374,229.00999999999996,"Each endpoint moved outward/inward by 1 rendered pixel; scale-only sensitivity, not a confidence interval"
+fig02_S4_L,hA1,264.7548010973936,27.0,229.49613555291313,308.80999999999995,"Each endpoint moved outward/inward by 1 rendered pixel; scale-only sensitivity, not a confidence interval"
+fig02_S4_R,hA1,202.9406721536351,27.0,175.91409036860878,236.70999999999998,"Each endpoint moved outward/inward by 1 rendered pixel; scale-only sensitivity, not a confidence interval"
+fig03_S1_L,hA1,115.64453125,40.0,104.89299886621315,128.13798476454292,"Each endpoint moved outward/inward by 1 rendered pixel; scale-only sensitivity, not a confidence interval"
+fig03_S2_L,hA1,118.97265625,40.0,107.91170634920634,131.82565789473682,"Each endpoint moved outward/inward by 1 rendered pixel; scale-only sensitivity, not a confidence interval"
+fig03_S4_R_repeat_check,hA1,185.70703125,40.0,168.44175170068027,205.76956371191133,"Each endpoint moved outward/inward by 1 rendered pixel; scale-only sensitivity, not a confidence interval"

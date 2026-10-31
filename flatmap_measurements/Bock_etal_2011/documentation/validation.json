@@ -1,0 +1,9 @@
+{
+  "processed_views": 1,
+  "measured_fields": 0,
+  "unmeasured_fields": 6,
+  "overlaps": [],
+  "native_imagej_roundtrip": "passed",
+  "anatomical_review": "All exported source/tracing pairs inspected; manual boundaries remain provisional and await domain review.",
+  "reference_comparison": "Frost same-case Table1 comparison saved in batch report; Bock and Halley source tables retained separately. No calibration fitted to reference values."
+}

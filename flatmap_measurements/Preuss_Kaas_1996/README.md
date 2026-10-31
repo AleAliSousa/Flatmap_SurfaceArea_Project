@@ -19,3 +19,12 @@ All **5 numbered figures assessed**. **3 provisional contours**, 12 explicit una
 This paper contains five numbered figures (not three as in the old queue). Figure 2 is a multi-section composite reconstruction of one individual's flattened LEFT hemisphere, not a cross-animal schematic (caption PDF p.5). Methods identify one adult female; no invented case number is assigned. V1 has a closed perimeter including the calcarine cut edge; V2 and S1 do not have a recoverable complete envelope. The closed region denoted Aud is the auditory complex, not an isolated primary auditory field. MT is presumed by location/stain in the source and is retained as approximate presumed MT. Figure 3A is a local flattened left-cortex section; 3B is a coronal right-cortex section and cannot supply surface area. Figure 5 is another section of the same left hemisphere with diffuse stain transitions and presumed homologies; no threshold-defined field contours are invented.
 
 Canonical geometry and editable ImageJ outputs are under `figures/`. Tracings remain provisional. Missing source boundaries/calibration are NA, never zero; all figures assessed does not imply that every field can be measured.
+
+<!-- project-tracing-review-2026-10-31 -->
+## Project-wide tracing review, 31 October 2026
+
+[View this dataset's quality review](../project_review_2026-10-31/index.html?paper=Preuss_Kaas_1996) · [Review methods and changes](../project_review_2026-10-31/README.md)
+
+View-level screening categories: B=1, N=2. A identifies the clearest source/fit examples; B retains caveats; C needs targeted review/retracing; D is unsuitable for the intended anatomical area inference; N has no saved trace. These are not individual-region certification or independent-specimen counts. See the linked report for each map's notes and proposed improvements.
+
+Atlases and guides: see the [project guide](../ReadMe.md). Use same-specimen panels to resolve obscured lines where correspondence is established; use other specimens and atlases for field identity, adjacency and sulcal plausibility only. They do not supply an observed border, justify copying a shape, or establish a missing physical scale.

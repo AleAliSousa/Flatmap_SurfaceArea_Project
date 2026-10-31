@@ -50,6 +50,14 @@
       "interpretation": "declared non-additive parent/subregion"
     },
     {
+      "map_id": "fig07_macaque",
+      "field_a": "PIP",
+      "field_b": "M/POd",
+      "overlap_pixels": 72,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
       "map_id": "fig07_mouse",
       "field_a": "A1",
       "field_b": "auditory_domain_including_A1",

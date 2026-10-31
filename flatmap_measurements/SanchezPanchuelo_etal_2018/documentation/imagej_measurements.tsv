@@ -1,0 +1,3 @@
+map_id	roi_index	label	area_pixels	area_calibrated	unit	original_fractional_pixels	pixel_difference_percent	roi_roundtrip_pixels_equal
+fig02_M1_right	0	cheek_response_in_central_sulcus_patch	1683	1683.0	pixel^2	1595.875	5.459387483355526	true
+fig02_M5_left	0	cheek_response_in_central_sulcus_patch	386	386.0	pixel^2	348.375	10.800143523501973	true

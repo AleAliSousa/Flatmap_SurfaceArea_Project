@@ -1,0 +1,1243 @@
+
+===== PDF PAGE 1 =====
+Anatomical and Physiological Deﬁnition
+of the Motor Cortex of the Marmoset
+Monkey
+KATHLEEN J. BURMAN, 1 SUSAN M. PALMER, 1 MICHELA GAMBERINI, 2
+MATTHEW W. SPITZER, 3 AND MARCELLO G.P. ROSA 1*
+1Department of Physiology, Monash University, Clayton, Victoria 3800, Australia
+2Dipartimento di Fisiologia Umana e Generale, Universita ´ di Bologna,
+Bologna 40127, Italy
+3School of Psychology, Psychiatry and Psychological Medicine, Monash University,
+Clayton, Victoria 3800, Australia
+ABSTRACT
+We used a combination of anatomical and physiological techniques to deﬁne the primary
+motor cortex (M1) of the marmoset monkey and its relationship to adjacent cortical ﬁelds.
+Area M1, deﬁned as a region containing a representation of the entire body and showing the
+highest excitability to intracortical microstimulation, is architecturally heterogeneous: it
+encompasses both the caudal part of the densely myelinated “gigantopyramidal” cortex (ﬁeld
+4) and a lateral region, corresponding to the face representation, which is less myelinated and
+has smaller layer 5 pyramidal cells (ﬁeld 4c). Rostral to M1 is a ﬁeld that is strongly
+reminiscent of ﬁeld 4 in terms of cyto- and myeloarchitecture but that in the marmoset is
+poorly responsive to microstimulation. Anatomical tracing experiments revealed that this
+rostral ﬁeld is interconnected with visual areas of the posterior parietal cortex, whereas M1
+itself has no such connections. For these reasons, we considered this ﬁeld to be best described
+as part of the dorsal premotor cortex and adopted the designation 6Dc. Histological criteria
+were used to deﬁne other ﬁelds adjacent to M1, including medial and ventral subdivisions of
+the premotor cortex (ﬁelds 6M and 6V) and the rostral somatosensory ﬁeld (area 3a), as well
+as a rostral subdivision of the dorsal premotor area (ﬁeld 6Dr). These results suggest a basic
+plan underlying the histological organization of the caudal frontal cortex in different simian
+species, which has been elaborated during the evolution of larger species of primate by
+creation of further morphological and functional subdivisions. J. Comp. Neurol. 506:860 – 876,
+2008.
+© 2007 Wiley-Liss, Inc.
+Indexing terms: frontal lobe; somatotopic organization; cytoarchitecture; area 4; premotor
+cortex; New World monkey
+This study forms part of an ongoing project aimed at
+understanding the organization of cortical areas in the
+marmoset ( Callithrix jacchus ), a species of New World
+monkey that has become an important model for the study
+of neurological and neuropsychological conditions (for re-
+cent examples, see Eslamboli et al., 2005; Brevard et al.,
+2006; Walker et al., 2006; Blezer et al., 2007). Here we use
+a combination of histological analyses, electrophysiology,
+and anatomical tracing to clarify the extent of the primary
+motor cortex (M1) relative to adjacent ﬁelds.
+The relationship between the stimulation of sites in M1
+and the excitation of speciﬁc muscle groups is consistent
+among primates: facial movements are represented most
+laterally, followed by those of the forelimb, trunk, and
+hindlimb/tail as the midline is approached (e.g., Penﬁeld
+and Boldrey, 1937; Woolsey et al., 1952; Strick and Pres-
+ton, 1978; Stepniewska et al., 1993). The presence of a
+Grant sponsor: National Health and Medical Research Council; Grant
+numbers: 334094 and 384116.
+The ﬁrst two authors contributed equally to this work.
+*Correspondence to: Marcello Rosa, Ph. D., Department of Physiology,
+Monash University, Clayton, VIC 3800, Australia.
+E-mail: Marcello.Rosa@med.monash.edu.au
+Received 5 September 2007; Revised 3 October 2007; Accepted 24 Octo-
+ber 2007
+DOI 10.1002/cne.21580
+Published online in Wiley InterScience (www.interscience.wiley.com).
+THE JOURNAL OF COMPARATIVE NEUROLOGY 506:860 – 876 (2008)
+© 2007 WILEY-LISS, INC.
+
+
+===== PDF PAGE 2 =====
+complete skeletomotor representation, with movements
+elicited by relatively low currents in comparison with ad-
+jacent cortex, is therefore a key criterion for the physio-
+logical deﬁnition of M1. At the same time, the primary
+motor cortex has been traditionally equated with a histo-
+logical ﬁeld (Brodmann’s area 4), which is characterized
+by features such as low cellular density, poor lamination,
+absence of layer 4, and presence of very large pyramidal
+cells in layer 5 (Betz, 1874; Lewis, 1878; Campbell, 1905;
+Brodmann, 1909; see Geyer et al., 2000, for review). How-
+ever, studies in Old World monkeys have acknowledged
+that the histological character of M1 may change, with
+layer 5 pyramidal cells becoming smaller from medial to
+lateral portions of this area (e.g., Vogt and Vogt, 1919;
+Matelli et al., 1985). For example, the primary motor
+cortex of baboons has been shown to include three archi-
+tectural subdivisions in mediolateral succession (4a, 4b,
+and 4c), which can be distinguished not only by the size of
+layer 5 pyramidal cells but also by the presence/absence of
+an incipient layer 4 (Watanabe-Sawaguchi et al., 1991).
+The complexities involved in deﬁning M1 have been
+further highlighted by studies in the New World monkeys,
+which added another dimension to the puzzle by describ-
+ing caudal (M1c) and rostral (M1r) histological subdivi-
+sions in M1 (Stepniewska et al., 1993). These authors
+reported that “M1r” and “M1c” differ not only by the size
+of layer 5 neurons but also in terms of electrical excitabil-
+ity and connections. An analogous rostrocaudal subdivi-
+sion of M1 has since been reported also in the macaque
+(Preuss et al., 1997). Given these caveats, one may ques-
+tion to what extent the physiologically deﬁned M1 adheres
+to the traditional expectation of a cortical area being a
+physiologically, histologically, and connectionally well-
+deﬁned “tile” of the cortical mosaic. Indeed, recent studies
+have questioned the validity of these expectations, with
+reference to other regions of the neocortex (cf. Rosa and
+Tweedale, 2005; Palmer and Rosa, 2006b; Graziano and
+Aﬂalo, 2007). The origin of corticospinal axons adds little
+light to the issue of deﬁning M1, given that cells forming
+these projections are known to originate in many areas,
+including premotor and parietal cortices (Dum and Strick,
+1991; He et al., 1993; Galea and Darian-Smith, 1994;
+Luppino et al., 1994; Galea, 1997; Wu et al., 2000).
+We explored the relationship between histological ﬁelds
+and the somatotopic organization of electrically elicited
+movements and then compared the extent of the putative
+M1 with the sources of frontal projections to anterior and
+posterior parietal ﬁelds (regions that have major roles in
+somatic sensation and vision, respectively). Taken to-
+gether, these results clarify the organization of the caudal
+frontal cortex of the marmoset and the homologies be-
+tween ﬁelds in New and Old World monkeys.
+MATERIALS AND METHODS
+Experiments were approved by the Monash University
+Animal Experimentation Ethics Committee, which also
+monitored the welfare of the animals. Guidelines of the
+Australian Code of Practice for the Care and Use of Ani-
+mals for Scientiﬁc Purposes were followed.
+Microstimulation experiments
+Intracortical microstimulation experiments were per-
+formed on one female and two male adult marmosets
+(Callithrix jacchus), with the objective of deﬁning the rep-
+resentation of different body parts in M1. The animals
+were premedicated with intramuscular (i.m.) injections of
+diazepam (3.0 mg/kg) and atropine (0.2 mg/kg) and, after
+30 minutes, anesthetized with ketamine (50 mg/kg),
+which provided deep anesthesia for the duration of the
+surgical procedures ( /H110222 hours). A tracheotomy was per-
+formed, and a cannula was inserted into the saphenous
+vein of the leg ipsilateral to the cortical hemisphere under
+study, in order to allow a continuous infusion of a solution
+consisting of sufentanil (6 /H9262g/kg/h) and dexamethasone
+(0.4 mg/kg/h) in a saline/glucose solution. The animal was
+placed in a stereotaxic frame and artiﬁcially ventilated
+with a mixture of oxygen and nitrous oxide (2:3). This
+anesthetic protocol was chosen as the one most compatible
+with microstimulation experiments in this species, after
+attempts using halothane, ketamine (i.m.), and telazol
+(i.m.), all of which produced disappointing results. When-
+ever movements were elicited, results from these early
+experiments revealed a topographic organization similar
+to the one observed in the cases reported here; however,
+these observations were not included in the present paper.
+A craniotomy was performed and the dura mater folded
+back to expose the frontal cortex. The cortical surface was
+covered with warm agar to avoid desiccation. Using ste-
+reotaxic coordinates obtained in the course of previous
+studies of the marmoset frontal cortex (Burman et al.,
+2006), the cortex in the likely location of cytoarchitectural
+ﬁelds 3, 4, and 6 was stimulated, with penetrations form-
+ing rostrocaudal or mediolateral rows while avoiding sur-
+face blood vessels. Low-resistance ( /H110211M /H9024) parylene-
+coated tungsten microelectrodes were used, penetrating to
+depths of up to 2,400 /H9262m along the vertical stereotaxic
+axis. Given that in early experiments we found that the
+lowest thresholds were typically obtained at a depth of
+2,100 /H9262m, this depth was used for microstimulation in
+most penetrations (because the vertical plane is not per-
+pendicular to the cortical layers in this part of the mar-
+moset cortex, this depth corresponded to the cortical in-
+fragranular layers).
+The microstimulation currents were delivered in 60-
+msec trains, with a pulse duration of 0.2 msec and a pulse
+frequency of 300 Hz. Penetration sites were stimulated
+initially with currents ranging from 50 to 200 /H9262A in order
+to locate the topography of muscle representations, al-
+though at unresponsive sites higher currents (of up to 300
+/H9262A) were used. Once a motor response was elicited, the
+current was gradually reduced to identify the threshold
+current required to create a movement. Movements
+evoked by microstimulation were identiﬁed by at least two
+observers and recorded in digital video.
+Tracer injections
+In three animals we examined the relationship between
+histological subdivisions of the frontal cortex and the lo-
+cation of neurons with projections to the posterior parietal
+cortex. One of these animals (CJ45; see Fig. 8) was also
+part of the study of Burman et al. (2006); however, the
+present injections were not reported in the earlier study
+and were located in the opposite cerebral hemisphere.
+These animals were premedicated as described above and
+kept under ketamine anesthesia for the duration of the
+procedure (50 mg/kg initial dose, 10 mg/kg additional
+doses as needed). They were placed in a stereotaxic frame,
+and the parietal cortex was exposed. The retrograde ﬂuo-
+rescent tracers diamidino yellow (DY) and fast blue (FB)
+The Journal of Comparative Neurology. DOI 10.1002/cne
+861PRIMARY MOTOR AREA IN MARMOSETS
+ 10969861, 2008, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.21580 by University Of Bath, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 3 =====
+were directly applied into the cortex as crystals (approxi-
+mately 200 /H9262m in diameter) with the aid of tungsten
+wires; Fluoro Ruby (FR) and Fluoro Emerald (FE) were
+injected (0.25 /H9262l) via 1- /H9262l syringes (Scientiﬁc Glass Engi-
+neering, Melbourne, Australia). The placement of the trac-
+ers was guided by stereotaxic coordinates obtained in the
+course of previous studies of marmoset visual cortex (Rosa
+and Schmid, 1995; Rosa et al., 2005), and their exact
+location in relation to cortical layers and areal boundaries
+was later assessed by histological reconstruction (e.g.,
+Palmer and Rosa, 2006a,b). The cortex was covered with
+saline-soaked ophthalmic gelﬁlm, the piece of bone re-
+moved during the craniotomy was ﬁxed back in place with
+dental acrylic, and the wound was closed in anatomical
+layers. Analgesics (oral paracetamol, 3 drops every 6
+hours) and antibiotics (Norocillin, Norbrook, Newry,
+Northern Ireland; 0.1 ml) were given routinely for the ﬁrst
+24 hours post surgery. A survival time of 2 weeks was
+allowed.
+Perfusion, ﬁxation, and tissue processing
+At the end of the microstimulation experiments, or after
+the survival time for retrograde transport of the tracers,
+the animals were overdosed with sodium pentobarbitone
+(100 mg/kg, i.v.) and perfused transcardially with 1 liter of
+heparinized saline followed by 1 liter of 4% paraformalde-
+hyde in 0.1 M phosphate buffer (pH 7.4). The brains were
+postﬁxed in the same medium for a minimum of 24 hours
+before being cryoprotected by immersion in buffered para-
+formaldehyde solution containing increasing concentra-
+tions of sucrose (10%, 20%, 30%). Frozen 40- /H9262m-thick
+sections were cut parasagittally or coronally using a cry-
+ostat. One series of sections was mounted onto gelatinized
+slides and air-dried for later staining with cresyl violet,
+whereas a second series was kept in phosphate buffer and
+stained free ﬂoating for cytochrome oxidase activity
+(Wong-Riley, 1979). A third series was stored in 10% for-
+malin for at least 2 weeks before staining for myelin, with
+either the Gallyas (1979) stain or the gold chloride stain
+(Schmued, 1990). In the anatomical experiments a ﬁnal
+series of sections was mounted unstained on gelatinized
+slides for the analysis of cells labeled with ﬂuorescent
+tracers, after quick dehydration in 100% ethanol, clearing
+in xylene, and coverslipping with DPX.
+Documentation of results
+Dorsal reconstructions of the frontal cortex were pre-
+pared by aligning magniﬁed drawings of sections 200 /H9262m
+apart, using ﬁducial holes as references (created by intro-
+ducing tungsten rods in the brain, prior to freezing and
+sectioning), and then graphically stacking projections of
+the dorsal surface onto a horizontal plane. The exact lo-
+cation of each microstimulation site was deduced by his-
+tological reconstruction of the electrode tracks relative to
+landmarks such as dimples on the cortical surface pro-
+duced by large blood vessels (which were compared with
+photographs of the pattern of blood vessels obtained dur-
+ing the microstimulation experiments). Histological bor-
+ders (see Results) were plotted as transition zones of var-
+ious widths, which reﬂect sources of uncertainty such as
+the separation between sections used in the analysis, the
+test-retest variability (assessed by repeated plotting by
+the same observer on different days), the slightly different
+estimates provided by different architectural methods,
+and the interference of histology artifacts. Photomicro-
+graphs were obtained through Zeiss AxioCam and Axio-
+Vision v4.2 software (Carl Zeiss, Oberkochen, Germany).
+Low-power views typically involved the merging of multi-
+ple images, from adjacent portions of a same section, using
+Adobe Photoshop 8.0 (Adobe Systems, San Jose, CA). In
+such cases, the contrast and exposure of adjacent shots
+was matched by using standard software features, but no
+other adjustments were made. For lettering and ﬁgure
+composition, the images were imported into Canvas X
+(ACD Systems, Victoria, BC, Canada). Two-dimensional
+reconstructions of the cortical surface were also obtained
+by graphically “unfolding” contours of layer 4 of sections
+400 /H9262m apart, in such a way as to keep the neighborhood
+relationships between and within sections (Van Essen and
+Maunsell, 1980).
+RESULTS
+We will start the description of the results by illustrat-
+ing the architectural characteristics of the cortex within
+and around M1, followed by a correlation between archi-
+tectural ﬁelds and the somatotopic maps derived from
+intracortical microstimulation. We will then demonstrate
+the results of anatomical tracing experiments revealing
+interconnections between the agranular frontal areas and
+subdivisions of the posterior parietal cortex, which ad-
+dress the issue of the distinction between primary motor
+and premotor areas.
+Architecture of the posterior frontal cortex
+Architectural deﬁnition of the posterior and ventral
+borders of M1. In agreement with the primate norm,
+the marmoset frontal cortex reveals a caudal to rostral
+succession of motor, premotor, and granular frontal (pre-
+frontal) ﬁelds, characterized by reduction in the size of
+pyramidal cells in layer 5 and increasing deﬁnition of
+layer 4 (Peden and Von Bonin, 1947; Burman et al., 2006).
+Figure 1 illustrates parasagittal sections approximately
+5 mm from the medial surface. (As indicated by the mi-
+crostimulation results below, this level typically corre-
+sponds to the representation of the forelimb in M1.) Cau-
+dal to the frontal cortex are somatosensory ﬁelds 3b and
+3a, which form successive narrow bands elongated in the
+posteromedial to anterolateral direction (Huffman and
+Krubitzer, 2001; Burman et al., 2006). In Nissl-stained
+sections ﬁeld 3b is conspicuous by the presence of a thick
+and densely populated layer 4, whereas in ﬁeld 3a this
+layer is present but is thinner and overall less deﬁned. As
+the border of architectural ﬁeld 4 is crossed, layer 4 dis-
+appears completely. There are large, conspicuous cells in
+layer 5 of ﬁeld 3a but not in 3b (Fig. 1). Although the layer
+5 pyramidal cells in ﬁeld 3a are on average smaller than
+those found in ﬁeld 4, there is sufﬁcient overlap in the
+distribution of sizes to demand the use of additional cri-
+teria in deﬁning the caudal border of the motor cortex. In
+myelin-stained sections throughout most of the mediolat-
+eral extent of M1, ﬁeld 3a can be easily seen as a less
+myelinated “gap” separating ﬁelds 3b and 4 (Figs. 1, 2A).
+The architectural characteristics of M1 change accord-
+ing to mediolateral level, making these distinctions less
+clear in the most lateral regions, from which facial move-
+ments are elicited (Figs. 2B–D, 3). “Giant” isolated pyra-
+midal cells (Betz neurons) are conspicuous near the mid-
+line (Fig. 2B) but become gradually smaller in the forelimb
+representation (Figs. 1, 2C). Given the likely homology
+The Journal of Comparative Neurology. DOI 10.1002/cne
+862 K.J. BURMAN ET AL.
+ 10969861, 2008, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.21580 by University Of Bath, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 4 =====
+with cytoarchitectural ﬁelds 4a and 4b of other primate
+species, and the gradient-like change in architectural fea-
+tures, we refer to the main portion of the marmoset M1 as
+ﬁeld 4.
+Furthermore, in agreement with studies in Old World
+monkeys, we found that in the lateral part of M1 the
+pyramidal cells in layer 5 are relatively small, being com-
+parable in size to the analogous neurons in premotor ar-
+eas, and that a thin layer 4 can be usually distinguished
+(Fig. 2D). In addition, the lateral part of M1 is slightly less
+myelinated than the medial part, while retaining the sub-
+tle separation between the inner and outer bands of Bail-
+larger that distinguishes this area from the dorsal premo-
+tor cortex (Fig. 3; see also below). We adopted the
+designation ﬁeld 4c to refer to this subregion of M1 (Vogt
+and Vogt, 1919; Barbas and Pandya, 1987; Watanabe-
+Sawaguchi et al., 1991). The exact boundaries between
+architectural ﬁelds are difﬁcult to determine in this lat-
+eral region, resulting in relatively large regions of uncer-
+tainty, particularly in specimens sectioned in the parasag-
+ittal plane. In our experience, the myelin stains provide
+the best deﬁnition of the extent of M1.
+Architectural ﬁelds along the rostral border of M1.
+Figure 1 shows that in the marmoset the cortex populated
+by large pyramidal cells in layer 5 is wide, extending to at
+least 3– 4 mm anterior to ﬁeld 3a. However, there are
+differences between caudal and rostral parts of this re-
+gion: in the caudal region layer 5 is thicker, and the
+Fig. 1. Parasagittal sections through the rostral parietal and cau-
+dal frontal cortices of a marmoset (ML level approximately /H110015.0),
+illustrating the cytoarchitectural (top) and myeloarchitectural (bot-
+tom) characteristics of somatosensory (3a, 3b) and motor (4, 6Dc, 6Dr)
+ﬁelds. The bottom section was stained by using Schmued (1990) gold
+chloride stain; similar patterns were observed in Gallyas-stained ma-
+terials. Note the sharply deﬁned layer 4 and heavy myelination of
+ﬁeld 3b, as well as the lower myelination and relatively large layer 5
+cells in area 3a. Fields 4 and 6Dc both appear as densely myelinated,
+although the bands of Baillarger are more deﬁned in ﬁeld 4. The
+rostral border of ﬁeld 6Dc is marked by a concomitant sudden reduc-
+tion in the size of layer 5 pyramidal cells and myelination. Rostral is
+to the left. Scale bar /H110051 mm.
+The Journal of Comparative Neurology. DOI 10.1002/cne
+863PRIMARY MOTOR AREA IN MARMOSETS
+ 10969861, 2008, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.21580 by University Of Bath, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 5 =====
+pyramidal neurons on average larger, than in the rostral
+region. A correspondingly subtle transition can be ob-
+served in myelin-stained sections (Fig. 1): the caudal part
+tends to show an incipient separation between the inner
+and outer bands of Baillarger, whereas the rostral part
+shows little evidence of lamination. Based on the results of
+physiological and anatomical tracing experiments de-
+scribed below, we refer to the rostral subdivision as ﬁeld
+6Dc (Barbas and Pandya, 1987). As reported earlier (Bur-
+man et al., 2006) ﬁeld 6Dc is separated from the granular
+frontal cortex (architectural ﬁelds 8B, 8Ad, and 8Av) by
+another architectural ﬁeld (6Dr), which lacks the deeply
+Fig. 2. A: Coronal section through the caudal portion of the frontal
+lobe of a marmoset (approximately at AP /H110019.5; medial to the left),
+stained for myelin using the Gallyas (1979) technique. Note the my-
+elination “gap” corresponding to area 3a, which deﬁnes the ventral
+border of M1 at the level of representation of the axial and limb
+musculatures. B–D: Mediolateral differences in the cytoarchitecture
+of M1. B: Medial portion. C: Intermediate portion. D: Lateral portion
+(ﬁeld 4c). The asterisks in A indicate the locations from which strips
+B and C were photographed, in the adjacent Nissl-stained coronal
+section. The location of strip D is indicated in a similar manner in
+Figure 3. Scale bar /H110051m mi nA ;2 0 0 /H9262m in D (applies to B–D).
+The Journal of Comparative Neurology. DOI 10.1002/cne
+864 K.J. BURMAN ET AL.
+ 10969861, 2008, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.21580 by University Of Bath, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 6 =====
+stained, large layer 5 neurons that characterize both ﬁelds
+4 and 6Dc in Nissl and cytochrome oxidase preparations
+(Figs. 1, 4). Field 6Dr is also distinct from 6Dc by virtue of
+staining more lightly for myelin, although it retains the
+characteristic homogeneous myelination from the white
+matter to the middle of layer 3 (Fig. 1).
+Medial to 6Dc is another subdivision of the premotor
+cortex, which we refer to as ﬁeld 6M. Limited microstimu-
+lation results (see below) indicate that the cortex in this
+region is electrically excitable, suggesting that it may
+include the supplementary motor area (Huffman and Kru-
+bitzer, 2001). In comparison with ﬁelds 4 and 6Dc, ﬁeld
+6M shows an incipient layer 4 in Nissl stains, as well as a
+greater separation between the inner and outer bands of
+Baillarger and conspicuous bundles of thick myelinated
+ﬁbres radiating from the white matter, in myelin stains
+(Fig. 3).
+Lateral to 6Dc we detected two architectural ﬁelds that
+have characteristics similar to those associated with areas
+6Va and 6Vb in the macaque (Barbas and Pandya, 1987).
+However, with the exception of a few sites where high-
+threshold facial movements were elicited (see Fig. 7), our
+electrode penetrations failed to reach this region. Al-
+though the location of this putative ventral premotor cor-
+tex corresponds to that in other species of New World
+monkey (Dancause et al., 2006; Stepniewska et al., 2006),
+in the absence of physiological evidence we regard its
+identiﬁcation in the marmoset (Fig. 5) as tentative. The
+dorsal part of this ﬁeld (6Va) was more myelinated than
+its ventral part (6Vb).
+Relationship between architectural ﬁelds
+and somatotopic representation
+Figure 6 illustrates the relationship between the soma-
+totopic representation of M1, revealed by intracortical mi-
+crostimulation in three marmosets, and architectural
+ﬁelds. Jaw and facial movements were observed ventrally,
+largely within architectural ﬁeld 4c. Most of these move-
+ments consisted of jaw opening and closing, although nose,
+lip, and eyebrow twitches were also observed in a few
+Fig. 3. Coronal sections approximately at AP /H1100112.0, stained for
+myelin (Gallyas stain, foreground) and Nissl (background). This level
+cuts through the caudal premotor areas, the face representation in M1
+(cytoarchitectural ﬁeld 4c), and the rostral tips of areas 3a and 3b.
+Note that ﬁeld 4c appears as less myelinated than ﬁeld 6Dc but is
+more myelinated and homogeneous than ﬁeld 3a. The asterisk adja-
+cent to the myelin-stained section indicates the location of strip D
+illustrated in Figure 2. Medial is to the left. Scale bar /H110051 mm.
+The Journal of Comparative Neurology. DOI 10.1002/cne
+865PRIMARY MOTOR AREA IN MARMOSETS
+ 10969861, 2008, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.21580 by University Of Bath, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 7 =====
+sites. In contrast, with the possible exception of sites near
+architectural boundaries, stimulation of sites within ﬁeld
+4 only elicited movements of the hindlimb (HL), axial (A),
+and forelimb (FL) musculatures, in mediolateral se-
+quence. Relatively large territories were occupied by the
+representations of the forelimb and face (in particular,
+movements consisting of simultaneous ﬂexion of the ﬁn-
+gers, wrist ﬂexion, and jaw opening). Although sites elic-
+iting movements of distal and proximal forelimb tended to
+cluster (indicated by “p” and “d” in Fig. 6), in at least one
+case two regions of proximal representation were sepa-
+rated by a large expanse of distal (wrist and ﬁngers)
+representation, suggesting that a mosaic-like pattern may
+exist at a ﬁner scale (Gould et al., 1986). The mediolateral
+sequence of the somatotopic map was similar to that re-
+ported in other primate species, as suggested by an earlier
+brief report (Woolsey et al., 1949).
+Reﬂecting earlier observations in the oculomotor cortex
+(Blum et al., 1982), we found that the generation of overt
+movements in the marmoset required relatively high mi-
+crostimulation currents in comparison with those reported
+in larger primate species (Fig. 7). However, differences in
+Fig. 4. Parasagittal sections (ML /H110012.8) stained for Nissl (top) and
+cytochrome oxidase (bottom), illustrating the boundary between pre-
+motor ﬁelds 6Dc and 6Dr. Note that the reduction in size of layer 5
+pyramidal cells that is visible in the Nissl stain is paralleled by a
+reduction in the intensity of cytochrome oxidase staining (in particu-
+lar, the densely stained cells in layer 5). Rostral is to the left. Scale
+bar /H110051 mm.
+The Journal of Comparative Neurology. DOI 10.1002/cne
+866 K.J. BURMAN ET AL.
+ 10969861, 2008, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.21580 by University Of Bath, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 8 =====
+excitability were always observed upon crossing the
+boundaries between M1 (architectural ﬁelds 4 and 4c) and
+the rostral ﬁelds. In two of the animals (Fig. 6A,B) sites in
+area 6Dc were unresponsive to currents below 200 /H9262A,
+whereas high-threshold stimulation ( /H11022120 /H9262A) of a few
+sites rostral to the medial and lateral extremes of M1
+(putative areas 6M and 6Va) elicited movements of the
+forelimb and mouth, respectively. In another animal (Fig.
+6C), motor responses could be elicited from ﬁelds 6Dc and
+6Dr, albeit at much higher thresholds in comparison with
+those observed in ﬁelds 4 and 4c. Most of the movements
+elicited from these ﬁelds consisted of arm, wrist, and ﬁn-
+ger ﬂexions. Within M1, the lowest microstimulation
+thresholds corresponded to the representations of the
+hand and wrist (Fig. 7), reﬂecting earlier reports in other
+species (Wong et al., 1978; Sessle and Weisendanger,
+1982).
+Anatomical conﬁrmation of the border
+between M1 and the premotor belt
+Reports in other species of primate have indicated that
+posterior parietal connections of M1 focus on the rostral
+portions of this region (area 5), which are primarily re-
+lated to processing of somatosensory inputs (e.g., Leich-
+netz, 1986; Darian-Smith et al., 1993; Fang et al., 2005).
+In contrast, tracer injections in the premotor areas often
+Fig. 5. Deﬁnition of a putative homologue of area 6V in the mar-
+moset, illustrated in coronal sections through the lateral frontal cor-
+tex (approximately AP /H1100113.0). Field 6V, deﬁned on the Nissl-stained
+material (foreground) appears to encompass dorsal and ventral sub-
+divisions, based on the density of myelination (6Va and 6Vb; Barbas
+and Pandya, 1987). Immediately dorsal to 6Va there is cortex likely to
+include the posterior tip of the frontal eye ﬁeld (area 8Av; see Burman
+et al., 2006) and premotor ﬁeld 6Dr. Scale bar /H110051 mm.
+The Journal of Comparative Neurology. DOI 10.1002/cne
+867PRIMARY MOTOR AREA IN MARMOSETS
+ 10969861, 2008, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.21580 by University Of Bath, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 9 =====
+demonstrate additional connections with caudal regions of
+the parietal cortex, including high-order stations of the
+visual “dorsal stream” (e.g., Matelli et al., 1998; Marconi
+et al., 2001; Tanne´-Garie´py et al., 2002; Rozzi et al., 2006).
+Thus, in order to help determine the rostral border of M1,
+we considered the pattern of projections between frontal
+ﬁelds and the posterior parietal cortex.
+Four injections were placed in the caudal parietal lobe,
+including the medial posterior parietal region (PPm) and
+the cortex immediately rostral to it (PEc), where visual
+responses have been recorded (Rosa and Schmid, 1995;
+Rosa and Tweedale, 2005). These regions of the marmoset
+cortex are likely to correspond to areas V6A and PEc of
+Old World monkeys (Rosa and Tweedale, 2001; Galletti et
+al., 2003; Breveglieri et al., 2007). The mediolateral loca-
+tion of these injections varied between cases, including
+both the dorsal exposed surface of the parietal lobe (two
+Fig. 6. Relationship between architectural ﬁelds in the posterior
+part of the frontal lobe and the somatotopic organization of the motor
+cortex, revealed by intracortical microstimulation. A–C: Dorsal views
+of the brains of three marmosets (CJ64, CJ60, and CJ61), showing the
+entry points of electrode penetrations (circles) relative to various
+architectural ﬁelds. Rostral is to the left and medial to the top.
+Electrode penetrations that yielded movements of the hindlimb (HL);
+trunk, neck, and tail (axial musculature, A); forelimb (FL); and jaw/
+face (F) are joined into red, blue, green, and yellow polygons, respec-
+tively. The sites where movements required currents at greater than
+200 /H9262A are indicated by the white circles. Gray zones correspond to
+zones of uncertainty (see Materials and Methods), and the dashed line
+is our best architectural estimate of the outer boundary of area M1.
+The asterisk indicates a transitional zone between areas 6 and 8,
+which is likely to be part of ﬁeld 8Av (frontal eye ﬁeld; see Burman et
+al., 2006). LS, lateral sulcus (sylvian ﬁssure); d, distal; p, proximal.
+Scale bar /H110051 /H9262m in A–C.
+Fig. 7. Summary of the microstimulation thresholds observed in
+different parts of M1 (gray) and in adjacent areas (white), represented
+by Tukey box plots. Each box encompasses the second and third
+quartiles of the distributions, with the median values indicated by the
+horizontal lines. The “whiskers” indicate the lowest and highest val-
+ues observed. The numbers above the ﬁgure indicate the number of
+sites obtained in each subdivision.
+The Journal of Comparative Neurology. DOI 10.1002/cne
+868 K.J. BURMAN ET AL.
+ 10969861, 2008, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.21580 by University Of Bath, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 10 =====
+Fig. 8. Patterns of connections revealed by two tracer injections in
+the parietal lobe of a marmoset (CJ45L). Top and middle right: lateral
+reconstructions of the left hemisphere illustrating the location of
+patches of labeled cells relative to cortical areas (Krubitzer and Kaas,
+1990; Rosa and Elston, 1998; Burman et al., 2006). The caudal injec-
+tion (Fluoro Emerald [FE]; shown in green) was centered in a pre-
+dominantly visual part of the posterior parietal cortex (cytoarchitec-
+tural ﬁeld PEc), as evidenced by the labeled cells in extrastriate areas
+(label in the dorsoanterior [DA] and medial superior temporal [MST]
+areas is evident in these lateral views), and by the lack of label in
+somatosensory areas. The rostral injection (fast blue [FB]; shown in
+blue) crossed the border into a predominantly somatosensory subdi-
+vision of the posterior parietal cortex, as evidenced by the label in
+areas 3a, 3b, and S2. A: Coronal section illustrating the FE injection
+site and labeled connections. B: Coronal section illustrating the FB
+injection site and labeled connections. C–E: Coronal sections through
+the frontal lobe illustrating the location of labeled cells (FB, blue; FE,
+green). Note that the two injections labelled cells in ﬁelds 6Dc and
+6Dr, whereas only FB-labeled cells were observed in M1 (ﬁelds 4 and
+4c).
+The Journal of Comparative Neurology. DOI 10.1002/cne
+869PRIMARY MOTOR AREA IN MARMOSETS
+ 10969861, 2008, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.21580 by University Of Bath, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 11 =====
+Figure 9 (continued)
+The Journal of Comparative Neurology. DOI 10.1002/cne
+870 K.J. BURMAN ET AL.
+ 10969861, 2008, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.21580 by University Of Bath, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 12 =====
+Figure 9 (continued)
+The Journal of Comparative Neurology. DOI 10.1002/cne
+871PRIMARY MOTOR AREA IN MARMOSETS
+ 10969861, 2008, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.21580 by University Of Bath, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 13 =====
+cases) and the cortex parallel to the midline (two cases).
+For comparison, three additional injections (two in the
+lateral surface, one along the midline) were located more
+rostrally, in cortex likely to correspond to the somatosen-
+sory association cortex. This region of cortex shows no
+evidence of subdivisions in the marmoset (Padberg et al.,
+2007; see also Carlson et al., 1986, for results in the closely
+related Saguinus) and thus for the purposes of the present
+analysis can be reasonably regarded as a single region
+(here designated as PE) that amalgamates ﬁelds 1, 2, and
+5 of other species.
+The primary ﬁnding from these cases is illustrated by
+the example shown in Figure 8: whereas ﬁelds 6Dc and
+6M had substantial projections to the visual areas of the
+posterior part of the parietal lobe and occipitoparietal
+transition, area M1 had none. Instead, similar to other
+species of monkey, M1 only showed connections with the
+somatosensory parietal areas. Data from a second ani-
+mal, in which a rostrocaudal progression of four parietal
+injections was performed, are illustrated in Figure 9.
+Supporting the results shown in Figure 8, the two cau-
+dal injections labelled cells in 6Dc but not in M1. These
+same injections resulted in retrograde label across
+many “dorsal stream” visual areas, including the dorso-
+medial (DM) and dorsoanterior (DA) areas, medial ar-
+eas 19m and 23v, and the middle temporal (MT) and
+medial superior temporal (MST) areas (Palmer and
+Rosa 2006a,b; Fig. 9A,B). Further conﬁrming its place-
+ment in visual cortex, the most caudal injection (Fig.
+9A) even labeled the representations of the far periph-
+eral visual ﬁeld in V1 and V2, possibly due to touching
+the border of area DM (Rosa et al., 2005). In contrast,
+the rostral injections, which labeled projections from
+M1, resulted in label in somatosensory areas (3a, 3b,
+and the dorsal bank of the lateral ﬁssure; Krubitzer and
+Kaas, 1990; Fig. 9C,D). In summary, these connectional
+results highlight the distinction between ﬁelds 4 and
+6Dc and support the point of view that the latter is best
+considered a subdivision of the premotor complex.
+DISCUSSION
+Heterogeneity of M1
+The key motivation behind the present study was to
+deﬁne the extent of the primary motor cortex (M1) in the
+marmoset, a small New World monkey. Earlier cytoarchi-
+tectural analyses of the frontal cortex in this species re-
+sulted in somewhat different views on the likely extent of
+the motor cortex. Brodmann (1909) recognized a very ex-
+pansive area 4, which encompassed the entire region
+showing large pyramidal cells in layer 5 (i.e., not only M1,
+as deﬁned here, but also most of the premotor cortex). In
+contrast, Peden and Von Bonin (1947) illustrated a much
+smaller motor area (ﬁeld FA), followed by a premotor belt
+(FB) within the same region of cortex. Our preliminary
+assessment of the extent of the motor cortex in the mar-
+moset (Burman et al., 2006) was consistent with Peden
+and Von Bonin’s map. The present results require a minor
+revision of this point of view, as they indicate that M1 is
+likely to extend further, by including a ventral region
+adjacent to the rostral extension of areas 3a and 3b (Fig.
+3). This region, which includes representations of face,
+jaw, and mouth movements, was previously thought to be
+part of the ventral premotor cortex. The present architec-
+tural analyses (for summary, see Fig. 10) suggest that
+area 6V is in fact located further rostrally, and slightly
+ventrally in relation to the extended M1.
+The architectural heterogeneity of M1 is consistent with
+some of the earlier reports in Old World monkeys (in
+particular, Vogt and Vogt, 1919; Barbas and Pandya,
+1987; Watanabe-Sawaguchi et al., 1991). The recognition
+that M1 is architecturally heterogeneous indicates paral-
+lels with the premotor belt, where the dorsal and ventral
+subdivisions of area 6 are known to emphasize movements
+of different body parts and to have different architectural
+patterns (e.g., Barbas and Pandya, 1987; Stepniewska et
+al., 1993). Similar to M1, the dorsal portions of the pre-
+motor belt also contain larger pyramidal cells in layer 5.
+As pointed out by Graziano and Aﬂalo (2007), it is some-
+times difﬁcult to deﬁne exactly what is a “cortical area” in
+Fig. 9. Patterns of connections revealed by four tracer injections in
+the parietal lobe of a marmoset (CJ58R). A,B: Injections of fast blue
+(FB, blue) and Fluoro Emerald (FE, green) in caudal regions (PPm
+and PEc), which are related to vision. C,D: Injections of diamidino
+yellow (DY, yellow) and Fluoro Ruby (FR, red) in rostral regions,
+which are predominantly related to somatic sensation. Each diagram
+is a graphic reconstruction of the “unfolded” cerebral cortex, prepared
+in the style suggested by Van Essen and Maunsell (1980; see also
+Palmer and Rosa, 2006a). Patches of label in the supragranular and
+infragranular layers are indicated by different tones and single cells
+by the small circles. Gray zones represent boundary regions between
+architectural ﬁelds, and dashed gray lines represent borders that
+were estimated based on results in other animals. Continuous lines
+represent the boundaries of the maps as well as the main folds of the
+cerebral cortex. Insets (left): Gross anatomical features of the cere-
+bral cortex as they appear in this format, as well as the discontinuities
+introduced in the map to allow minimal distortion (arrows). Abbrevi-
+ations (insets): ca, calcarine sulcus; DLF, dorsolateral frontal cortex;
+DO, dorsal occipital cortex; DP, dorsal parietal cortex; IT, inferior
+temporal cortex; la, lateral sulcus; LO, lateral occipital cortex; MF,
+medial frontal cortex; MO, medial occipital cortex; MP, medial pari-
+etal cortex; OF, orbitofrontal cortex; RS, retrosplenial cortex; sc, su-
+pracallosal sulcus; st, superior temporal sulcus; ST, superior temporal
+cortex; V1ca, primary visual area, calcarine region; V1op, primary
+visual area, opercular region; VO, ventral occipital cortex; VT, ventral
+temporal cortex. Abbreviations (main panels): numerical designations
+correspond to architectural ﬁelds deﬁned in the marmoset by Kru-
+bitzer and Kaas (1990; ﬁelds 3a and 3b), Burman et al. (2006; ﬁelds
+6Dc, 6Dr, 6M, 6V, 8Ad, 8Av, 8B, 9, 10, 11, 13, 12/45, 46), and Palmer
+and Rosa (2006a,b; ﬁelds 19m, 23, 23v, 29, 30 and 36). Other desig-
+nations: A1, primary auditory area; CM, caudomedial area; ER, en-
+torhinal cortex; FST, fundus of superior temporal area; ITc, caudal
+subdivision of the inferior temporal cortex; ITd, dorsal subdivision of
+the inferior temporal cortex; ITr, rostral subdivision of the inferior
+temporal cortex; ITv, ventral subdivision of the inferior temporal
+cortex; LB, lateral auditory belt; M1, primary motor area; MB, medial
+auditory belt; MST, medial superior temporal area; MT, middle tem-
+poral area; MTc, middle temporal crescent; PB, auditory parabelt; PE,
+parietal ﬁeld E (Peden and Von Bonin, 1947); PEc, caudal subdivision
+of parietal ﬁeld E; PF, parietal ﬁeld F; PG, parietal ﬁeld G; PPm,
+medial subdivision of the posterior parietal cortex; PR, parietal ros-
+tral area; PV, parietal ventral area; R, rostral auditory area; S2,
+second somatosensory area; STP, superior temporal polysensory area;
+TF, temporal ﬁeld F; TH, temporal ﬁeld H; TPt, temporoparietal
+transitional ﬁeld; V1, primary visual area; V2, second visual area;
+VLA, ventrolateral area; VLP, ventrolateral posterior area; VS, ven-
+tral somatosensory area.
+The Journal of Comparative Neurology. DOI 10.1002/cne
+872 K.J. BURMAN ET AL.
+ 10969861, 2008, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.21580 by University Of Bath, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 14 =====
+the frontal lobe, given that boundaries appear to be intrin-
+sically criterion dependent. In the present case, if one
+assumes that M1 contains a complete body representa-
+tion, then it must also be accepted that this area is not a
+single architectural entity. Similar arguments have been
+made with respect to the deﬁnition of subdivisions of the
+association cortices of the temporal (Rosa and Tweedale,
+2005; Palmer and Rosa, 2006b) and parietal (Breveglieri
+et al., 2007) lobes, where different parts of a same area
+(deﬁned by topographic representation and/or architec-
+ture) have been shown to differ in terms of connections
+and response properties. It is also the case that architec-
+tural patterns in the frontal lobe have been shown to
+undergo subtle changes as a function of age, even in post-
+natal life (Burman et al., 2007), thus providing a reason-
+able mechanism to explain slight individual differences in
+histological appearance by differential preservation/
+elimination of cell populations and connections. Given
+these caveats, a histological deﬁnition of “what M1 is” is
+best expressed in relation to adjacent areas, rather than in
+absolute terms.
+Rostral boundary of M1 with the premotor
+cortex
+Earlier work in another species of New World monkey,
+the owl monkey, has reported the existence of a large M1
+consisting of two subdivisions in rostrocaudal succession
+(M1r and M1c; Stepniewska et al., 1993), followed by a
+relatively narrow premotor belt. Based on cytoarchitec-
+tural characteristics, it is likely that M1, as deﬁned in the
+present study, corresponds to M1c, whereas ﬁeld 6Dc cor-
+responds to M1r. Indeed, examination of a parasagittal
+section illustrated by Stepniewska et al. (1993; their Fig-
+ure 4) suggests that the dorsal premotor area (PMd) de-
+ﬁned in the owl monkey has the architectural character-
+istics of area 6Dr of the nomenclature we favor (based on
+Barbas and Pandya, 1987; see also Wise, 1985). Likewise,
+Huffman and Krubitzer (2001) illustrate a very wide M1
+in the marmoset, based on dense myelination observed in
+sections tangent to the surface of the brain. In contrast,
+the present results indicate that dense myelination is
+present both in ﬁeld 4 (part of M1) and in ﬁeld 6Dc, which
+nonetheless show subtle differences in the separation be-
+tween bands of Baillarger when they are studied in cross
+section (see Fig. 1). While recognizing the architectural
+similarities between areas 4 and 6Dc, we believe that the
+present nomenclature is appropriate to describe the orga-
+nization of the marmoset cortex, given its pattern of cor-
+ticocortical connections and degree of electrical excitabil-
+ity. In particular, the connections with the caudal part of
+the parietal cortex (regions likely to correspond to areas
+V6A, MIP, and PEc of the macaque; Rosa and Tweedale,
+2001; Galletti et al., 2003) are likely to reﬂect a role of area
+6Dc in visuomotor integration and planning (Preuss et al.,
+1996; Burman et al., 2006; Breveglieri et al., 2007), as
+opposed to movement execution.
+Despite the different nomenclatures, there is agreement
+across studies on different species on the existence of two
+functional subdivisions (M1c and M1r, or 4 and 6Dc)
+within the heavily myelinated frontal region containing
+large pyramidal cells in layer 5 (Fig. 10; see also Wise,
+1985). Fields 6Dc and 6Dr are likely to correspond to areas
+F2 and F7, respectively, according to the nomenclature
+proposed by Matelli et al. (1985) for the macaque premotor
+cortex.
+Injections of tracers in the owl monkey’s M1r are re-
+ported to result in denser label in posterior parietal areas,
+compared with injections in M1c (Stepniewska et al.,
+1993). However, no detail is available regarding the spe-
+ciﬁc parietal areas involved in these connections, so it
+remains unclear whether visual areas project to M1r, as it
+would be expected if this subdivision corresponded to the
+marmoset’s 6Dc. In the prosimian Galago, in which caudal
+and rostral subdivisions of the primary motor cortex were
+not recognized, injections in the parietal visual cortex
+result in labeled cells just rostral to the border of M1
+(Fang et al., 2005). These results resemble the present
+observations in the marmoset, as well as the results of
+earlier work in the macaque (Matelli et al., 1998; Shipp et
+al., 1998; Caminiti et al., 1999; Lewis and Van Essen,
+2000; Tanne´-Garie´py et al., 2002).
+Representation of orofacial movements in
+the marmoset
+Our results support those of Stepniewska et al. (1993) in
+suggesting that the representation of the lower face and
+jaw in M1 extends ventrally as far as the rostral tip of
+somatosensory area 3a. In recent years the marmoset has
+Fig. 10. Comparison of the subdivisions of the caudal frontal cor-
+tex proposed for the owl monkey (left; based on Stepniewska et al.,
+1993) and marmoset (present results). The light gray indicates re-
+gions that are considered part of the premotor cortex in both species.
+The rostral sudivision of M1 of the owl monkey (M1r) is likely to
+overlap with the caudal subdivision of the dorsal premotor cortex
+(ﬁeld 6Dc) in the marmoset. Scale bar /H110055 mm.
+The Journal of Comparative Neurology. DOI 10.1002/cne
+873PRIMARY MOTOR AREA IN MARMOSETS
+ 10969861, 2008, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.21580 by University Of Bath, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 15 =====
+become a choice primate model for studies of intraspeciﬁc
+vocal communication (Wang et al., 1995; Eliades and
+Wang, 2003, 2005; Cheung et al., 2005). Although much
+work has been done in terms of understanding the anal-
+ysis of vocalization calls in the auditory cortex, relatively
+little is known about the cortical areas involved in the
+production of mouth and tongue movements. In this con-
+text, the knowledge of the relationship between histology
+and functional topography obtained in the present study is
+likely to become relevant for future work on the neural
+circuitry involved in the production of vocalizations, in-
+cluding connections, neurophysiology, or noninvasive im-
+aging data. Movements of the face, including predomi-
+nantly those of the mouth, were observed after the
+stimulation of sites that collectively corresponded to
+nearly one-quarter of the extent of M1. The cortical region
+capable of eliciting orofacial movements in the marmoset
+appears different from that reported in the closely related
+tamarin monkey, in a study that used high-stimulation
+currents to guide tracer injections to the motorcortical
+tongue area (Alipour et al., 2002). According to the current
+understanding of the cerebral cortical organization in New
+World monkeys, the tracer injection site illustrated in this
+earlier study appears to be located in one of the ventral
+somatosensory ﬁelds, which are likely to subserve gusta-
+tory functions also (Kaas, 2005). Nonetheless, the injec-
+tion illustrated by Alipour et al. (2002) resulted in dense
+anterograde label in the expected location of cytoarchitec-
+tural ﬁeld 4c (their Fig. 1b, stereotaxic levels AP /H1100111.5
+and /H1100112.5).
+Excitability of the marmoset motor cortex
+The minimum level of current required to elicit a re-
+sponse within the marmoset primary motor cortex was
+relatively high in comparison with other primate species
+studied to date. For example, Gould et al. (1986),
+Stepniewska et al. (1993), and Preuss et al. (1996) re-
+ported microstimulation thresholds of less than 30 /H9262At o
+be relatively common in the caudal part of owl monkey M1
+(M1c), an observation that reﬂects earlier ﬁndings in the
+macaque (e.g., Sessle and Wiesendanger, 1982). Although
+a few such sites were observed in the present experiments
+(Fig. 7), in most cases substantially higher currents ( /H1102260
+/H9262A) were required. Similarly, a marked difference has
+been previously described with respect to the excitability
+of the marmoset and squirrel monkey frontal eye ﬁelds
+(Blum et al., 1982), and Burish et al. (2006) reported that
+elicitation of movements in the premotor areas of the
+marmoset require high-threshold stimuli. Indeed, it is
+possible that some of the movements we obtained using
+currents of 200 /H9262A or above were due to current spread to
+sites in M1. As a control for technical issues, we have
+performed experiments in rats using the same protocol
+used in the marmosets, in which we were able to drive
+overt movements using currents similar to those reported
+in the literature (Donoghue and Wise, 1982; Neafsey et al.,
+1986). Thus, there are good reasons to suspect that genu-
+ine interspecies differences exist in this respect.
+Although it is possible that differential sensitivity to
+anesthesia may be the reason for the observed differences
+between primate species, other factors may also play a
+role. Corticospinal projections in the marmoset reach the
+medial and dorsal regions of the ventral horn but do not
+reach the vicinity of the motoneuron pools (Galea, 1997).
+Moreover, even the largest pyramidal cells in layer 5 of the
+marmoset M1 are relatively small, in comparison with
+those found in the other primate species (Nudo et al.,
+1995) and thus are likely to give rise to thinner axons (e.g.,
+Clamann and Henneman, 1976; Walsh et al., 1999). Con-
+straints related to the summation of corticospinal inputs
+through an indirect pathway (Bortoff and Strick, 1993;
+Nakajima et al., 2000) as well as a greater input resis-
+tance of descending axons to electrical stimulation (Jack
+et al., 1983; Rubinstein, 1991; Nowak and Bullier, 1998)
+may thus converge to result in a relative lack of excitabil-
+ity, in comparison with larger primates.
+Comparative aspects of frontal cortical
+organization
+The marmoset brain has less than one-twelfth of the
+mass of the macaque brain, which is in turn even smaller
+relative to the mass of the human brain (Stephan et al.,
+1981). Knowledge of the cortical organization in the small
+brain of the marmoset holds considerable interest in terms
+of understanding aspects of brain scaling within the order
+primates, including issues such as the remodeling of areal
+boundaries and connections as a function of size (Carlson
+et al., 1986; Changizi and Shimojo, 2005; Palmer and
+Rosa, 2006a; Preuss and Goldman-Rakic, 1991). Although
+the present results demonstrate that the caudal portion of
+the frontal lobe of the marmoset contains the same basic
+subdivisions found in the much larger macaque brain,
+they also reveal differences. The motor and premotor cor-
+tices form a relatively large proportion of the frontal lobe,
+at the apparent expense of the granular frontal areas
+(Figs. 8, 9). Given that the postnatal maturation of the
+frontal cortex occurs along a caudal to rostral gradient,
+starting from the motor area (Burman et al., 2007), this
+ﬁnding is compatible with other evidence suggesting that
+early-maturing neural structures become disproportion-
+ately large in smaller species, which have shorter devel-
+opmental periods (Finlay and Darlington, 1995; Rosa,
+2002). In addition, similar to our earlier ﬁndings about the
+granular frontal cortex (Burman et al., 2006), some of the
+ﬁner histological subdivisions that are apparent in larger
+simian brains do not appear obvious in the marmoset (for
+example, the additional subdivisions of agranular cortex
+that exist along the rostral boundaries of ﬁelds 4 and 6 in
+baboons; Watanabe-Sawaguchi et al., 1991).
+This provides further evidence of addition and differen-
+tiation of cortical ﬁelds as a mechanism for cortical expan-
+sion in larger primate species (Ebbesson, 1984; Carlson et
+al., 1986; Krubitzer, 1995; Padberg et al., 2007). Thus, the
+organization of the cerebral cortex in marmosets provides
+a good model for furthering our understanding of the
+developmental and evolutionary mechanisms responsible
+for the diversity of primate brains, while at the same time
+presenting us with the components of a simian cortex in
+their simplest expression.
+LITERATURE CITED
+Alipour M, Chen Y, Jurgens U. 2002. Anterograde projections of the mo-
+torcortical tongue area in the saddle-back tamarin ( Saguinus fuscicol-
+lis). Brain Behav Evol 60:101–116.
+Barbas H, Pandya DN. 1987. Architecture and frontal cortical connections
+of the premotor cortex (area 6) in the rhesus monkey. J Comp Neurol
+256:211–228.
+Betz W. 1874. Anatomischer Nachweis zweier Gehirncentra. Centralbl
+Med Wiss 3874:578 –580.
+The Journal of Comparative Neurology. DOI 10.1002/cne
+874 K.J. BURMAN ET AL.
+ 10969861, 2008, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.21580 by University Of Bath, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 16 =====
+Blezer EL, Bauer J, Brok HP, Nicolay K, ’t Hart BA. 2007. Quantitative
+MRI-pathology correlations of brain white matter lesions developing in
+a non-human primate model of multiple sclerosis. NMR Biomed 20:90 –
+103.
+Blum B, Kulikowski JJ, Carden D, Harwood D. 1982. Eye movements
+induced by electrical stimulation of the frontal eye ﬁelds of marmosets
+and squirrel monkeys. Brain Behav Evol 21:41.
+Bortoff GA, Strick PL. 1993. Corticospinal terminations in two new-world
+primates: further evidence that corticomotoneuronal connections pro-
+vide part of the neural substrate for manual dexterity. J Neurosci
+13:5105–5118.
+Brevard ME, Meyer JS, Harder JA, Ferris CF. 2006. Imaging brain activity
+in conscious monkeys following oral MDMA (“ecstasy”). Magn Reson
+Imaging 24:707–714.
+Breveglieri R, Galletti C, Monaco S, Fattori P. 2007. Visual, somatosen-
+sory, and bimodal activities in the macaque parietal area PEc. Cereb
+Cortex, DOI:10.1093/cercor/bhm127.
+Brodmann K. 1909. Vergleichende Lokalisationslehre der Grosshirnrinde
+in ihren Prinzipien dargestellt auf Grund des Zellenbaues. Leipzig:
+Barth. Translated by Garey LJ, 1994 as Localisation in the cerebral
+cortex. London: Smith-Gordon.
+Burish MJ, Stepniewska I, Kaas JH. 2006. Topographic organization and
+architectonics of primary motor cortex and the supplementary motor
+area in marmosets. Neuroscience Meeting Planner Atlanta, GA: Soci-
+ety for Neuroscience Program No. 806.11/M3.
+Burman KJ, Palmer SM, Gamberini M, Rosa MGP. 2006. Cytoarchitec-
+tonic subdivisions of the dorsolateral frontal cortex of the marmoset
+monkey ( Callithrix jacchus ), and their projections to dorsal visual
+areas. J Comp Neurol 495:149 –172.
+Burman KJ, Lui LL, Rosa MGP, Bourne JA. 2007. Development of non-
+phosphorylated neuroﬁlament protein expression in neurones of the
+New World monkey dorsolateral frontal cortex. Eur J Neurosci 25:
+1767–1779.
+Caminiti R, Genovesio A, Marconi B, Mayer AB, Onorati P, Ferraina S,
+Mitsuda T, Giannetti S, Squatrito S, Maioli MG, Molinari M. 1999.
+Early coding of reaching: frontal and parietal association connections of
+parieto-occipital cortex. Eur J Neurosci 11:3339 –3345.
+Campbell AW. 1905. Histological Studies on the Localisation of the Cere-
+bral Function. Cambridge: Cambridge University Press.
+Carlson M, Huerta MF, Cusick CG, Kaas JH. 1986. Studies on the evolu-
+tion of multiple somatosensory representations in primates: the orga-
+nization of anterior parietal cortex in the New World Callitrichid,
+Saguinus. J Comp Neurol 246:409 – 426.
+Changizi MA, Shimojo S. 2005. Parcellation and area-area connectivity as
+a function of neocortex size. Brain Behav Evol 66:88 –98.
+Cheung SW, Nagarajan SS, Schreiner CE, Bedenbaugh PH, Wong A. 2005.
+Plasticity in primary auditory cortex of monkeys with altered vocal
+production. J Neurosci 25:2490 –2503.
+Clamann HP, Henneman E. 1976. Electrical measurement of axon diam-
+eter and its use in relating motoneuron size to critical ﬁring level.
+J Neurophysiol 39:844 – 851.
+Dancause N, Barbay S, Frost SB, Plautz EJ, Stowe AM, Friel KM, Nudo
+RJ. 2006. Ipsilateral connections of the ventral premotor cortex in a
+new world primate. J Comp Neurol 495:374 –390.
+Darian-Smith C, Darian-Smith I, Burman K, Ratcliffe N. 1993. Ipsilateral
+cortical projections to areas 3a, 3b, and 4 in the macaque monkey.
+J Comp Neurol 335:200 –213.
+Donoghue JP, Wise SP. 1982. The motor cortex of the rat: cytoarchitecture
+and microstimulation mapping. J Comp Neurol 212:76 – 88.
+Dum RP, Strick PL. 1991. The origin of corticospinal projections from the
+premotor areas in the frontal lobe. J Neurosci 11:667– 689.
+Ebbesson SOE. 1984. Evolution and ontogeny of neural circuits. Behav
+Brain Sci 7:321–366.
+Eliades SJ, Wang X. 2003. Sensory-motor interaction in the primate audi-
+tory cortex during self-initiated vocalizations. J Neurophysiol 89:2194 –
+2207.
+Eliades SJ, Wang X. 2005. Dynamics of auditory-vocal interaction in mon-
+key auditory cortex. Cereb Cortex 15:1510 –1523.
+Eslamboli A. 2005. Marmoset monkey models of Parkinson’s disease:
+which model, when and why? Brain Res Bull 68:140 –149.
+Fang PC, Stepniewska I, Kaas JH. 2005. Ipsilateral cortical connections of
+motor, premotor, frontal eye, and posterior parietal ﬁelds in a prosim-
+ian primate, Otolemur garnetti . J Comp Neurol 490:305–333.
+Finlay BL, Darlington RB. 1995. Linked regularities in the development
+and evolution of mammalian brains. Science 268:1578 –1584.
+Galea MP. 1997. The organization of corticospinal projections in the mar-
+moset ( Callithrix jacchus ). Soc Neurosci Abstr 23:1272.
+Galea MP, Darian-Smith I. 1994. Multiple corticospinal neuron popu-
+lations in the macaque monkey are speciﬁed by their unique cortical
+origins, spinal terminations, and connections. Cereb Cortex 4:166 –
+194.
+Galletti C, Kutz DF, Gamberini M, Breveglieri R, Fattori P. 2003. Role of
+the medial parieto-occipital cortex in the control of reaching and grasp-
+ing movements. Exp Brain Res 153:158 –170.
+Gallyas F. 1979. Silver staining of myelin by means of physical develop-
+ment. Neurol Res 1:203–209.
+Geyer S, Matelli M, Luppino G, Zilles K. 2000. Functional neuroanatomy of
+the primate isocortical motor system. Anat Embryol (Berl) 202:443–
+474.
+Gould HJ 3rd, Cusick CG, Pons TP, Kaas JH. 1986. The relationship of
+corpus callosum connections to electrical stimulation maps of motor,
+supplementary motor, and the frontal eye ﬁelds in owl monkeys.
+J Comp Neurol 247:297–325.
+Graziano MS, Aﬂalo TN. 2007. Rethinking cortical organization: moving
+away from discrete areas arranged in hierarchies. Neuroscientist 13:
+138 –147.
+He SQ, Dum RP, Strick PL. 1993. Topographic organization of corticospi-
+nal projections from the frontal lobe: motor areas on the lateral surface
+of the hemisphere. J Neurosci 13:952–980.
+Huffman KJ, Krubitzer L. 2001. Area 3a: topographic organization and
+cortical connections in marmoset monkeys. Cereb Cortex 11:849 – 867.
+Jack JJB, Noble D, Tsien RW. 1983. Electrical current ﬂow in excitable
+cells. Oxford: Oxford University Press.
+Kaas JH. 2005. The future of mapping sensory cortex in primates: three of
+many remaining issues. Philos Trans R Soc Lond B Biol Sci 360:653–
+664.
+Krubitzer L. 1995. The organization of neocortex in mammals: are species
+differences really so different? Trends Neurosci 18:408 – 417.
+Krubitzer LA, Kaas JH. 1990. The organization and connections of somato-
+sensory cortex in marmosets. J Neuro Sci 10:952–974.
+Leichnetz GR. 1986. Afferent and efferent connections of the dorsolateral
+precentral gyrus (area 4, hand/arm region) in the macaque monkey,
+with comparisons to area 8. J Comp Neurol 254:460 – 492.
+Lewis B. 1878. On the comparative structure of the cortex cerebri. Brain
+1:79 –96.
+Lewis JW, Van Essen DC. 2000. Corticocortical connections of visual,
+sensorimotor, and multimodal processing areas in the parietal lobe of
+the macaque monkey. J Comp Neurol 428:112–137.
+Luppino G, Matelli M, Camarda R, Rizzolatti G. 1994. Corticospinal pro-
+jections from mesial frontal and cingulate areas in the monkey. Neu-
+roreport 5:2545–2548.
+Marconi B, Genovesio A, Battaglia-Mayer A, Ferraina S, Squatrito S,
+Molinari M, Lacquaniti F, Caminiti R. 2001. Eye-hand coordination
+during reaching. I. Anatomical relationships between parietal and
+frontal cortex. Cereb Cortex 11:513–527.
+Matelli M, Luppino G, Rizzolatti G. 1985. Patterns of cytochrome oxidase
+activity in the frontal agranular cortex of the macaque monkey. Behav
+Brain Res 18:125–136.
+Matelli M, Govoni P, Galletti C, Kutz DF, Luppino G. 1998. Superior area
+6 afferents from the superior parietal lobule in the macaque monkey.
+J Comp Neurol 402:327–352.
+Nakajima K, Maier MA, Kirkwood PA, Lemon RN. 2000. Striking dif-
+ferences in transmission of corticospinal excitation to upper limb
+motoneurons in two primate species. J Neurophysiol 84:698 –709.
+Neafsey EJ, Bold EL, Haas G, Hurley-Gius KM, Quirk G, Sievert CF,
+Terreberry RR. 1986. The organization of the rat motor cortex: a
+microstimulation mapping study. Brain Res 396:77–96.
+Nowak LG, Bullier J. 1998. Axons, but not cell bodies, are activated by
+electrical stimulation in cortical gray matter. I. Evidence from
+chronaxie measurements. Exp Brain Res 118:477– 488.
+Nudo RJ, Sutherland DP, Masterton RB. 1995. Variation and evolution of
+mammalian corticospinal somata with special reference to primates.
+J Comp Neurol 358:181–205.
+Padberg J, Franca JG, Cooke DF, Soares JGM, Rosa MGP, Fiorani M Jr,
+Gattass R, Krubitzer L. 2007. Parallel evolution of cortical areas in-
+volved in skilled hand use. J Neurosci 27:10106 –10115.
+Palmer SM, Rosa MGP. 2006a. Quantitative analysis of the corticocor-
+tical projections to the middle temporal area in the marmoset mon-
+The Journal of Comparative Neurology. DOI 10.1002/cne
+875PRIMARY MOTOR AREA IN MARMOSETS
+ 10969861, 2008, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.21580 by University Of Bath, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 17 =====
+key: evolutionary and functional implications. Cereb Cortex 16:
+1361–1375.
+Palmer SM, Rosa MGP. 2006b. A distinct anatomical network of cortical
+areas for analysis of motion in far peripheral vision. Eur J Neurosci
+24:2389 –2405.
+Peden JK, Von Bonin G. 1947. The neocortex of Hapale. J Comp Neurol
+86:37– 68.
+Penﬁeld W, Boldrey E. 1937. Somatic motor and sensory representation in
+the cerebral cortex of man studied by electrical stimulation. Brain
+60:389 – 443.
+Preuss TM, Goldman-Rakic PS. 1991. Ipsilateral cortical connections of
+granular frontal cortex in the strepsirhine primate Galago, with com-
+parative comments on anthropoid primates. J Comp Neurol 310:507–
+549.
+Preuss TM, Stepniewska I, Kaas JH. 1996. Movement representation in
+the dorsal and ventral premotor areas of owl monkeys: a microstimu-
+lation study. J Comp Neurol 371:649 – 676.
+Preuss TM, Stepniewska I, Jain N, Kaas JH. 1997. Multiple divisions of
+macaque precentral motor cortex identiﬁed with neuroﬁlament anti-
+body SMI-32. Brain Res 767:148 –153.
+Rosa MGP. 2002. Visual maps in the adult primate cerebral cortex: some
+implications for brain development and evolution. Braz J Med Biol Res
+35:1485–1498.
+Rosa MGP, Elston GN. 1998. Visuotopic organisation and neuronal re-
+sponse selectivity for direction of motion in visual areas of the caudal
+temporal lobe of the marmoset monkey ( Callithrix jacchus ): middle
+temporal area, middle temporal crescent, and surrounding cortex.
+J Comp Neurol. 393:505–527.
+Rosa MGP, Schmid LM. 1995. Visual areas in the dorsal and medial
+extrastriate cortices of the marmoset. J Comp Neurol 359:272–299.
+Rosa MGP, Tweedale R. 2001. The dorsomedial visual areas in New World
+and Old World monkeys: homology and function. Eur J Neurosci 13:
+421– 427.
+Rosa MGP, Tweedale R. 2005. Brain maps, great and small: lessons from
+comparative studies of primate visual cortical organization. Philos
+Trans R Soc Lond B Biol Sci 360:665– 691.
+Rosa MGP, Palmer SM, Gamberini M, Tweedale R, Pinon MC, Bourne JA.
+2005. Resolving the organization of the New World monkey third visual
+complex: the dorsal extrastriate cortex of the marmoset ( Callithrix
+jacchus). J Comp Neurol 483:164 –191.
+Rozzi S, Calzavara R, Belmalih A, Borra E, Gregoriou GG, Matelli M,
+Luppino G. 2006. Cortical connections of the inferior parietal cortical
+convexity of the macaque monkey. Cereb Cortex 16:1389 –1417.
+Rubinstein JT. 1991. Analytical theory for extracellular electrical stimu-
+lation of nerve with focal electrodes. II. Passive myelinated axon.
+Biophys J 60:538 –555.
+Schmued LC. 1990. A rapid, sensitive histochemical stain for myelin in
+frozen brain sections. J Histochem Cytochem 38:717–720.
+Sessle BJ, Weisendanger M. 1982. Structural and functional deﬁnition of
+the motor cortex in the monkey ( Macaca fascicularis ). J Physiol 323:
+245–265.
+Shipp S, Blanton M, Zeki S. 1998. A visuo-somatomotor pathway through
+superior parietal cortex in the macaque monkey: cortical connections of
+areas V6 and V6A. Eur J Neurosci 10:3171–3193.
+Stephan H, Frahm H, Baron G. 1981. New and revised data on volumes of
+brain structures in insectivores and primates. Folia Primatol 35:1–29.
+Stepniewska I, Preuss TM, Kaas JH. 1993. Architectonics, somatotopic
+organization, and ipsilateral cortical connections of the primary motor
+area (M1) of owl monkeys. J Comp Neurol 330:238 –271.
+Stepniewska I, Preuss TM, Kaas JH. 2006. Ipsilateral cortical connections
+of dorsal and ventral premotor areas in New World owl monkeys.
+J Comp Neurol 495:691–708.
+Strick PL, Preston JB. 1978. Multiple representation in the primate motor
+cortex. Brain Res 154:366 –370.
+Tanne´-Garie´py J, Rouiller EM, Boussaoud D. 2002. Parietal inputs to
+dorsal versus ventral premotor areas in the macaque monkey: evidence
+for largely segregated visuomotor pathways. Exp Brain Res 145:91–
+103.
+Van Essen DC, Maunsell JH. 1980. Two-dimensional maps of the cerebral
+cortex. J Comp Neurol 191:255–281.
+Vogt C, Vogt O. 1919. Allgemeinere Ergebnisse unserer Hirnforschung.
+J Psychol Neurol (Leipzig) 25:279 – 439.
+Walker SC, Mikheenko YP, Argyle LD, Robbins TW, Roberts AC. 2006.
+Selective prefrontal serotonin depletion impairs acquisition of a detour-
+reaching task. Eur J Neurosci 23:3119 –3123.
+Walsh N, Fitzgibbon T, Ghosh KK. 1999. Intraretinal axon diameter: a
+single cell analysis in the marmoset ( Callithrix jacchus ). J Neurocytol
+28:989 –998.
+Wang X, Merzenich MM, Beitel R, Schreiner CE. 1995. Representation of
+a species-speciﬁc vocalization in the primary auditory cortex of the
+common marmoset: temporal and spectral characteristics. J Neuro-
+physiol 74:2685–2706.
+Watanabe-Sawaguchi K, Kubota K, Arikuni T. 1991. Cytoarchitecture and
+intrafrontal connections of the frontal cortex of the brain of the
+hamadryas baboon ( Papio hamadryas ). J Comp Neurol 311:108 –133.
+Wise SP. 1985. The primate premotor cortex: past, present and prepara-
+tory. Annu Rev Neurosci 8:1–19.
+Wong YC, Kwan HC, MacKay WA, Murphy J. 1978. Spatial organization of
+preccntral cortex in awake primates. I. Somatosensory inputs. J Neu-
+rophysiol 41:1107–1119.
+Wong-Riley M. 1979. Changes in the visual system of monocularly sutured
+or enucleated cats demonstrable with cytochrome oxidase histochem-
+istry. Brain Res 171:11–28.
+Woolsey CN, Settlage PH, Suckle HM, Bingham WG. 1949. The pattern of
+localization in the motor cortex of the marmoset ( Hapale jacchus). Fed
+Proc 8:172.
+Woolsey CN, Settlage PH, Meyer DR, Sencer W, Pinto Hamuy T, Travis
+AM. 1952. Patterns of localization in precentral and “supplementary”
+motor areas and their relation to the concept of a premotor area. Res
+Publ Assoc Res Nerv Ment Dis 30:238 –264.
+Wu CW, Bichot NP, Kaas JH. 2000. Converging evidence from microstimu-
+lation, architecture, and connections for multiple motor areas in the
+frontal and cingulate cortex of prosimian primates. J Comp Neurol
+423:140 –177.
+The Journal of Comparative Neurology. DOI 10.1002/cne
+876 K.J. BURMAN ET AL.
+ 10969861, 2008, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cne.21580 by University Of Bath, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

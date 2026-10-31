@@ -1,0 +1,12 @@
+Bergeron_etal_2026: Verified 28 saved file hashes, 10 unique rows, areas and percentages.
+Bock_etal_2011: Verified 21 saved file hashes, 6 unique rows, areas and percentages.
+Burman_etal_2008: Verified 40 saved file hashes, 70 unique rows, areas and percentages.
+Dea_etal_2016: Verified 52 saved file hashes, 39 unique rows, areas and percentages.
+Frost_etal_2000: Verified 119 saved file hashes, 32 unique rows, areas and percentages.
+Ghosh_1997: Verified 52 saved file hashes, 67 unique rows, areas and percentages.
+Glasser_etal_2016: Verified 20 saved file hashes, 9 unique rows, areas and percentages.
+Halley_etal_2025: Verified 41 saved file hashes, 25 unique rows, areas and percentages.
+Jung_etal_2021: Verified 20 saved file hashes, 9 unique rows, areas and percentages.
+Neafsey_etal_1986: Verified 76 saved file hashes, 23 unique rows, areas and percentages.
+Remple_etal_2006: Verified 40 saved file hashes, 32 unique rows, areas and percentages.
+All local HTML links resolved. Batch keys unique; no invented whole-cortex denominator or certified whole-M1 replacement.

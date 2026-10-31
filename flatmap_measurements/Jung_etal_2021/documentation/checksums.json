@@ -1,0 +1,22 @@
+{
+  "source/paper.pdf": "de937583be43463ad7b44667a29adae2093f51436df4552200c6a976c99f80a1",
+  "source/manifest.json": "0a3429605d8f3c87791ef9bc8b577287c30b478c1220951a2d1c4636ceb2a30d",
+  "figures/fig05_CHARM_source/rois.json": "b59f781c045add65ed014ab647e3684119ae61facd0863e998222de2864ed63a",
+  "figures/fig05_CHARM_source/source.tif": "2f35229fb4a08d776a5d65337b4d42859b67010cd61461919003b56dc4c67021",
+  "figures/fig05_CHARM_source/source_preview.png": "19b7767920bef5935f2fa686ed860647594e52d84645d513b1cc6b6353e14104",
+  "figures/fig05_CHARM_source/tracing.png": "19b7767920bef5935f2fa686ed860647594e52d84645d513b1cc6b6353e14104",
+  "data/view_index.csv": "ff2c7b6deb2e159e0942247480c6e3c22aed80977c47b1533c11552c0a73b87c",
+  "data/hemisphere_summary.csv": "41d7c38a702afab988d636a787299acd0f618b90704805571df2c894b3ab98eb",
+  "data/measurements.csv": "97f5395ac776dd025d55de14401e5270f76b9881ef3a63ebd5aaabe3b1572029",
+  "scripts/measure_flatmaps.py": "23112ffad285b57fa970ef90c74fa60e1a1cce61426203060c75a9e3ba1ea32a",
+  "scripts/ImageJIO.java": "83011f530f0329d902e05de1ed5b301119565a24567f76fd14061ee95e044760",
+  "scripts/summarize_flatmaps.R": "5857bea8db767922524fbff5a2c2d5b49d24c5f77840c70b332ebcb33fc3a88b",
+  "review/gallery.html": "28a5238bf5ddc27460eddfbc9c667fed48a99cc7032a84ee22ff2372cb399579",
+  "documentation/source_text.txt": "f52885e64bf147796b42e7bdc1543bbdc195ed7129d9b86d60bc0556d81e73f3",
+  "documentation/imagej_measurements.tsv": "47f8b2e134b27979c5f05a8edbb7ea37272d94ac5b633747403aba83f5d2524a",
+  "documentation/review_notes.txt": "29392973fff99bff541be9a41423e246947a112eba8049ef560b6d41b1d68981",
+  "documentation/validation.json": "93c18c56d2d7f37191fecbfc842533e413a6e15c36ba95b3600dff7bae956fab",
+  "documentation/build_log.txt": "cabb9530a6c73609cf8acc9635a0ffef4e80243ffe61bcf51ecfc5275caed963",
+  "documentation/figure_inventory.csv": "dbd201e6282f40b774b93f48ff2bac4039581a6f53dfaade2dcef19af9d1b9c6",
+  "documentation/imagej_runtime.txt": "e0bab48832f086b442e4c0096783858767ba3caab0cdf020847ddcf9083ebfb5"
+}

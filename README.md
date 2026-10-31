@@ -23,7 +23,13 @@ Core measurements, ImageJ editing and source-versus-tracing review work without 
 
 Letters, numbers, labels and recording/stimulation symbols are annotations. They do not change surface area and must never create holes, notches or extra boundaries in a field. Trace the anatomical perimeter; where a label covers it, continue the visible anatomical curve smoothly across the overprint. For an external label with a leader, identify and trace the tissue compartment at the other end of that line. The leader and the location of its letters must not define the field boundary.
 
-## Datasets and queue
+## Atlases and tracing guides
+
+See the [atlas and guide directory](flatmap_measurements/ReadMe.md#atlases-and-tracing-guides) for the Nencki–Monash marmoset template, Paxinos et al. (2012) atlas, marmoset registration methods and surface-registration guidance. The [Burman README](flatmap_measurements/Burman_etal_2008/README.md#atlases-and-tracing-guides) explains the figure-specific boundary conventions and links to the corrected shape-review pilot.
+
+These are reference resources for anatomical interpretation and alignment. Atlas-predicted borders must remain distinct from observed borders, and an atlas does not supply a missing scale for a published figure. No atlas registration has yet been applied to the Burman tracings.
+
+## Dataset reviews
 
 <!-- workbook-pdf-batch-2026-10-20 -->
 [Workbook PDF batch: 10 papers, 91 numbered figures, 57 traced views and 539 provisional field/component measurements](flatmap_measurements/review_workbook_batch_2026-10-20.html). Native ImageJ exports are verified. Thirty-five unresolved Rosa boundaries remain explicit NA; Haug has no eligible planar field contours. [Methods and limits](reports/workbook_batch_2026-10-20/README.md).
@@ -70,3 +76,10 @@ Letters, numbers, labels and recording/stimulation symbols are annotations. They
 | [Wilkinson_2021](flatmap_measurements/Wilkinson_2021/README.md) | 7 |
 
 Editable canonical geometry, ImageJ outputs and per-paper tables are linked from the latest review. Source-limited totals remain NA. Historical batch reviews are retained for provenance.
+
+<!-- project-tracing-review-2026-10-31 -->
+## Project-wide tracing review, 31 October 2026
+
+[Open the filterable review](flatmap_measurements/project_review_2026-10-31/index.html) · [Findings, atlas guidance and corrections](flatmap_measurements/project_review_2026-10-31/README.md) · [All area changes](flatmap_measurements/project_review_2026-10-31/area_changes.csv)
+
+448 active views were screened. Nine regional contours in four papers were corrected and rebuilt with prior versions archived. View grades separate clear examples, caveats, retracing priorities and unsuitable inferences; they do not certify every regional boundary.

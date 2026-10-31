@@ -1,0 +1,695 @@
+
+PAGE 1
+Orthogonal acoustic dimensions de ﬁne auditory
+ﬁeld maps in human cortex
+Brian Barton a, Jonathan H. Venezia a,b, Kourosh Saberi a,b, Gregory Hickok a,b, and Alyssa A. Brewer a,1
+aCenter for Cognitive Neuroscience and Department of Cognitive Sciences, and bCenter for Language Science and Center for Hearing Research, University of
+California, Irvine, CA 92697
+Edited* by George Sperling, University of California, Irvine, CA, and approved November 1, 2012 (received for review August 16, 2012)
+The functional organization of human auditory cortex has not yet
+been characterized beyond a rudimentary level of detail. Here, we
+use functional MRI to measure the microstructure of orthogonal
+tonotopic and periodotopic gradients forming complete auditory
+ﬁeld maps (AFMs) in human core and belt auditory cortex. These
+AFMs show clear homologies to sub ﬁelds of auditory cortex
+identiﬁed in nonhuman primates and in human cytoarchitectural
+studies. In addition, we present measurements of the macrostruc-
+tural organization of these AFMs into “clover leaf ” clusters, con-
+sistent with the macrostructural organization seen across human
+visual cortex. As auditory cortex is at the interface between pe-
+ripheral hearing and central processes, improved understanding of
+the organization of this system could open the door to a better
+understanding of the transformation from auditory spectrotempo-
+ral signals to higher-order information such as speech categories.
+tonotopy | periodotopy | cochleotopy | temporal receptive ﬁeld |
+traveling wave
+H
+umans have evolved a highly sophisticated auditory system
+for the transduction and analysis of acoustic information,
+such as the spectral content of sounds and the temporal modu-
+lation of sound energy. The basilar membrane of the cochlea is
+organized tonotopically to represent the spectral content of
+sounds from high to low frequencies. This tonotopic (or coch-
+leotopic) organization is preserved as auditory information is
+processed and passed on from the cochlea to the superior olive,
+the inferior colliculus, the medial geniculate nucleus, and into
+primary auditory cortex. Such cortical preservation of the pe-
+ripheral sensory topography creates a common topographic
+sensory matrix in hierarchically organized sensory systems, im-
+portant for consistent sensory computations. The current state
+of knowledge of the functional organization of human auditory
+cortex indicates the existence of multiple cortical sub ﬁelds or-
+ganized tonotopically. However, the number of these human
+cortical sub ﬁelds, their boundaries, and their orientations rela-
+tive to anatomical landmarks remain equivocal, due in part to an
+inability to measure cortical representations of a second acoustic
+dimension orthogonal to tonotopy to accurately delineate them.
+This ambiguity of human auditory sub ﬁeld deﬁnitions contrasts
+dramatically with the current understanding of the functional
+organization of human visual cortex, in which detailed maps of
+the organization of the retina, called visual ﬁeld maps (VFMs),
+have been well characterized (1 –9). In vision, there are two or-
+thogonal dimensions of visual space, eccentricity and polar angle,
+which together allow for the mapping of cortical representations
+to unique locations in visual space and the complete delineation
+of the boundaries of individual visual ﬁeld maps. In audition,
+there has been only one dimension of sensory topography clearly
+mapped in cortex, which makes it impossible to use sensory
+topography to accurately differentiate speci ﬁc human cortical
+auditory ﬁeld maps (AFMs). Current estimates of human AFMs
+rely primarily on a monkey model that is well characterized
+by cytoarchitectonics (10, 11), single- and multiunit physiology
+(12–16), tracer studies (17), and functional magnetic resonance
+imaging (fMRI) (18). Human cytoarchitectonic measurements
+generally resemble those in macaque monkey and indicate that
+the small sub ﬁelds of primary auditory cortex are con ﬁned to
+Heschl’s gyrus (HG; or between HG-1 and HG-2, in cases where
+a double gyrus exists) and oriented medial to lateral along HG
+(19–22). However, these human cytoarchitectural measurements
+contrast greatly with the orientations and sizes of auditory ﬁeld
+maps reported in fMRI studies. Indeed, human fMRI studies
+have had great dif ﬁculty localizing even primary auditory cortex,
+placing A1 anywhere from the medial aspect of HG (23), to its
+posterior sulcus (24 –26), to planum temporale (27, 28).
+Recently, representations of an acoustic dimension orthogonal to
+tonotopy, known as periodotopy, have been observed in cat primary
+auditory cortex (29) and the macaque midbrain (30). Following the
+established terminology, periodicity refers to the preferred tempo-
+ral receptive ﬁeld over which an auditory neuron operates, mea-
+sured here by presenting broadband noise to the auditory system at
+different modulation rates. Thus, a periodotopic map is an orderly
+map organized from short temporal receptiveﬁelds (high-frequency
+periodicity) to long temporal receptive ﬁelds (low-frequency peri-
+odicity). A similar map exists for spatial receptive ﬁelds in vision,
+moving in an orderly fashion from small receptiveﬁelds in the fovea
+to large receptive ﬁelds in the periphery, p arallel to the sensory
+space dimension of eccentricity (1 –9).
+The primary question addresse d presently is whether the core
+and belt auditory cortex in human is organized with a microstruc-
+ture of orthogonal tonotopic and periodotopic gradients that form
+complete AFMs. Recent human psychophysical studies have dem-
+onstrated that there are separable ﬁlter banks (receptive ﬁelds) for
+spectral and temporal information, as would be predicted by the
+existence of AFMs with orthogonal tonotopic and periodotopic
+gradients, respectively (31–33). However, to date, the only human
+study indicating the existence of orthogonal tonotopic and perio-
+dotopic representations in cortex uses magnetoencephalography
+(MEG) source localization at a scale that is impossible to localize
+to any one auditory sub ﬁeld (34). Here, we report conclusive
+fMRI evidence for the existence of orthogonal tonotopic and
+periodotopic gradients forming complete AFMs in human core
+and belt auditory cortex. The presence of orthogonal gradients
+allowed the identi ﬁcation of 11 maps consistent with the human
+cytoarchitectural measurements (19 –22) and with proposed ho-
+mology to the 11 core and belt auditory sub ﬁelds in macaque
+auditory cortex (10, 11, 17, 18). More broadly, we found that the
+11 AFMs are organized into the radially orthogonal “clover leaf”
+clusters, similar to what has been reported as an organizing
+principle of VFMs in human visual cortex (4, 6, 7, 9, 35 –37).
+Results
+FMRI Measurements of Tonotopy and Periodotopy. To measure
+human tonotopic and periodotopic gradients, we had four sub-
+jects undergo two fMRI scanning sessions on a 3T Philips Ach-
+ieva scanner. For each subject, we collected one T1-weighted
+anatomical volume (3D MPRAGE, 1 mm 3 voxels, TR = 8.4 ms,
+Author contributions: B.B., J.H.V., K.S., G.H., and A.A.B. designed research; B.B. and J.H.V.
+performed research; B.B. and A.A.B. analyzed data; and B.B. wrote the paper.
+The authors declare no con ﬂict of interest.
+*This Direct Submission article had a prearranged editor.
+1To whom correspondence should be addressed. E-mail: aabrewer@uci.edu.
+This article contains supporting information online at www.pnas.org/lookup/suppl/doi:10.
+1073/pnas.1213381109/-/DCSupplemental.
+20738–20743 | PNAS | December 11, 2012 | vol. 109 | no. 50 www.pnas.org/cgi/doi/10.1073/pnas.1213381109
+Downloaded from https://www.pnas.org by UNIVERSITY OF BATH on October 30, 2026 from IP address 138.38.93.65.
+
+PAGE 2
+TE = 3.7 ms, ﬂip = 8°, SENSE factor = 2.4), one T1-weighted in-
+plane anatomical scan to align the functional and anatomical data
+(1 × 1 × 3 mm voxels), and 12 –16 functional auditory ﬁeld
+mapping scans (T2-weighted, gradient echo imaging, TR = 10s,
+TA = 2s, TE = 30 ms, ﬂip = 90°, SENSE factor = 1.7, recon-
+structed voxel size of 1.875 × 1.875 × 3 mm, no gap), with six to
+eight scans of narrowband noise for tonotopy in one session and
+six to eight scans of broadband noise for periodotopy in the other
+(SI Text ).We used narrowband noise instead of pure tones be-
+cause it has been demonstrated that narrowband noise in monkey
+fMRI drives voxels in auditory belt regions more robustly than do
+pure tones, without any cost in responses in auditory core (18,
+38). Our broadband noise stimuli were similarly modeled after
+those used in previous studies [Fig. 1 and Fig. S1 (29, 30, 34)].
+In both cases, we used a version of the standard procedure in
+visual ﬁeld mapping, the traveling wave method (1 –6, 7, 9),
+modiﬁed to a sparse sampling procedure to avoid data contami-
+nation due to scanner noise [Fig. 1 and Figs. S1 and S2 (39)]. In
+brief, each stimulus of a given type, narrowband or broadband,
+was presented in a block at a single value of center frequency or
+modulation rate, respectively. For tonotopic mapping, stimuli
+consisted of 100-Hz-wide bands of AM noise centered at 400;
+800; 1,600; 3,200; and 6,400 Hz, and amplitude modulated at 8 Hz.
+Stimuli used for periodotopic mapping were broadband noise
+(0–8,000 Hz) modulated at 2, 4, 8, 16, 32, 64, 128, and 256 Hz
+(Fig. 1, Figs. S1 and S2, and SI Text). The entire range of stimuli
+was covered by consecutive blocks presented in order from low
+to high in what is referred to as one stimulus cycle. Six stimulus
+cycles were presented sequentially in each functional scan, and
+the blood-oxygen level-dependent (BOLD) percent modulation
+time series for all six to eight functional scans for each subject
+were averaged together. Finally, a Fourier coherence analysis
+was applied to every voxel to separate activity due to the stimuli
+(at the frequency of six cycles per scan) from activity due to
+random and physiological noise (at the other frequencies in the
+cycles per scan domain). The phase assigned to each voxel with
+activity above a standard coherence threshold of 0.20 corre-
+sponds to that voxel ’s preferred point in the relevant stimulus
+space (e.g., a given voxel ’s phase may indicate that it is prefer-
+entially tuned to the 1,600-Hz-centered narrowband noise stim-
+ulus over the other narrowband stimuli). AFMs were then deﬁned
+individually for each hemisphere of each subject on a ﬂattened
+representation of his/her cortex centered on HG ( SI Text).
+Tonotopic Organization. Our tonotopic measurements largely rep-
+licated the broad pattern of cortical organization reported in
+previous human studies (Fig. 2 A–C and Figs. S3 A and B and
+S4A (19–28)]. A general and consistent pattern of tonotopic
+responses included a large low-frequency region oriented par-
+allel to Heschl’s gyrus, which was encircled by and transitioned to
+a high-frequency region. Without additional information, this
+broad pattern could be interpreted as a frequency reversal gra-
+dient running perpendicular to Heschl ’s gyrus, as some authors
+have proposed based on human fMRI measurements (23 –28).
+Periodotopic Organization. Periodotopic maps were clearly iden-
+tiﬁed in all hemispheres of all subjects (Fig. 2 A, B, and D and
+Figs. S3 C and D and S4B). Visual inspection of these maps
+reveals that ( i) orderly transitions through the modulation range
+are evident, ( ii) the maps are clearly distinct from the tonotopic
+maps, and ( iii) consistent organizational patterns exist across
+hemispheres and subjects. For example, a region of middle-high
+periodic modulation rates (32 –64 Hz, cyan/green in Fig. 2 D and
+Fig. S3 C and D) is evident in the posterior-medial portion of
+Heschl’s gyrus, and “isoperiodotopic” bands tend to be organized
+in radial spokes within Heschl ’s gyrus.
+Orthogonal Gradients Reveal 11 Cortical AFMs. By combining the
+tonotopic and periodotopic maps; i.e., using reversals in tonotopic
+maps to deﬁne one set of functional boundaries (solid lines in Fig.
+2 C and D and Figs. S3 and S4) and using reversals in periodotopic
+maps to de ﬁne another set of functional boundaries (dotted lines
+in Fig. 2 C and D and Figs. S3 and S4), we were able to identify 11
+AFMs with orthogonal gradients in each subject. These 11 AFMs
+correspond nicely to proposed auditory ﬁelds in macaque auditory
+core and belt, suggesting that the 11 AFMs are the human
+homologs to the macaque ﬁelds. Our deﬁnitions of human AFMs
+follow the current macaque model of the organization of auditory
+core and belt, which is based upon cytoarchitectural, connectivity,
+and tonotopic measurements [See Fig. S7 (10, 11, 17, 18)].
+Although no periodotopic gradients have been observed in pri-
+mate cortex, it remains an empirical question —to our knowledge,
+no periodotopic stimuli have been used in a study of monkey core
+or belt. However, orthogonal periodotopic and tonotopic gra-
+dients have been observed in the macaque midbrain (30), strongly
+suggesting that this organization is preserved at least as far up
+the hierarchy as monkey core and belt and likely beyond, as we
+have measured here in human auditory cortex. We shall refer to
+our human AFMs as hA1, hR, hRT, hCM, hMM, hRM, hRTM,
+hCL, hAL, hRL, and hRTL, where “h” stands for “human” and
+the other letters simply indicate proposed homology but not the
+original physical relationships indicated by the monkey auditory
+subﬁeld names (e.g., “hR” is simply “human R, ” not short for
+“human rostral ”). Thus, hR is the proposed human homolog to
+R, or rostral, but because hR is actually lateral to hA1 in human,
+whereas R is rostral to A1 in monkey; our labels should not be
+taken to re ﬂect the human anatomical orientation.
+Every presently measured AFM has a very similar smooth,
+orderly progression of voxels spanning the tested range of tono-
+topy and periodotopy, with the dimensions represented ( i) or-
+thogonal to one another, as predicted by measurements in the
+Fig. 1. Experimental stimuli and design. The sound spectrogram across
+frequencies (vertical axes) and time (horizontal axes). Increasing sound en-
+ergy is represented as increasingly “warmer” colors. (A) Example broadband
+noise stimuli with amplitude modulation (AM) rates of 8 ( Left) and 16 Hz
+(Right). ( B) Example narrowband noise stimuli with center frequencies (CF)
+of 1,600 ( Left) and 3,200 Hz ( Right). (C) All experimental stimuli. Broadband
+noise stimuli maintain constant frequency information and vary periodicity,
+whereas narrowband noise stimuli hold periodicity constant and vary fre-
+quency. ( D) Sparse sampling traveling wave experimental design ( SI Text
+and Fig. S1 ).
+Barton et al. PNAS | December 11, 2012 | vol. 109 | no. 50 | 20739
+NEUROSCIENCE
+Downloaded from https://www.pnas.org by UNIVERSITY OF BATH on October 30, 2026 from IP address 138.38.93.65.
+PAGE 3
+macaque midbrain [Figs. 2 and 3 (30)]. We considered the al-
+ternative possibilities that the tonotopic and periodotopic gra-
+dients could be distributed ( ii) randomly, ( iii) in parallel, or ( iv)
+anti-parallel. To differentiate between these possibilities, for each
+map in each hemisphere of each subject, we located the center of
+the region representing the highest and lowest stimulus values for
+the tonotopic (400 and 6,400 Hz) and periodotopic (2 and 256 Hz)
+gradients. We then used these endpoints to create two vectors
+running from lowest to highest stimulus value, one for tones and
+one for periods, for each map. Maps with orthogonal gradients
+(i) should have vectors of this variety offset rotationally by about
+90° from one another, whereas randomly distributed gradients
+(ii) should have no consistent arrangement (high SE, no mean-
+ingful average), parallel gradients should have no difference (0°)
+in vector offset ( iii) and anti-parallel gradients should be 180°
+offset ( iv). A multivariate analysis of variance (MANOVA) was
+performed with the null hypothesis for each AFM that the gra-
+dient vectors were orthogonal (offset by 90°; i) and the alternative
+hypothesis that they were randomly distributed ( ii), parallel
+(0° offset; iii) or antiparallel (180° offset; iv). The result of the
+MANOVA failed to reject the null hypothesis that the gradient
+vectors as a whole were offset by 90° (orthogonal; i), F(3,1) =
+16.344, P = 0.179. Post hoc, a univariate analysis of variance
+(ANOVA) was performed on each of the 11 AFMs, with the
+same null and alternative hypotheses as the MANOVA. Each
+ANOVA was corrected for multiple comparisons (Bonferroni,
+alpha = 0.0045), but we note that the results would be unchanged
+with 11 times the power at an uncorrected alpha = 0.05. The
+results of all 11 ANOVAs failed to reject the null hypothesis that
+the gradient vectors for each AFM were offset by 90° (orthog-
+onal; i), with F(3,1) values ranging from 2.113 to 14.450 and a
+corresponding range of P values from 0.860 to 0.112. Thus, we
+report that the gradient vectors for all 11 maps, averaged across
+hemispheres and subjects, are rotated about 90° from one an-
+other, consistent with orthogonal ( i) tonotopic and periodotopic
+gradients (Fig. 3).
+As an additional test for orthogonal tonotopic and perio-
+dotopic gradients independent of physical location, we compared
+the dispersion of tonotopic and periodotopic responses across all
+11 measured maps (Fig. 4 and Fig. S5 ). If the tonotopic and
+periodotopic gradients are orthogonal ( i), we should expect that
+in a subset of voxels of any given narrow range of tonotopy, the
+entire range of periodotopy should be represented (e.g., voxels
+within the subset that responds best to 400 –800-Hz narrowband
+noise should also have responses spanning the entire range of
+broadband noise, 2 –256 Hz). Conversely, in any given narrow
+range of periodotopy, the entire range of tonotopy should be
+represented (e.g., voxels within the subset that responds best to
+8–16-Hz broadband noise should also span the entire range of
+narrowband noise, 400 –6,400 Hz). If the tonotopic and perio-
+dotopic gradients are randomly distributed ( ii), there should be
+no predictable pattern in the responses. If the gradients are
+parallel (iii) or antiparallel ( iv), any given narrow range of tono-
+topy should correspond to a narrow range of periodotopy, and
+vice versa (e.g., the subset of voxels that responds best to 400–800-
+Hz narrowband noise may also respond best to only 2 –4-Hz
+broadband noise, but not the entire periodotopic range, 2–256 Hz).
+As predicted, the pattern of responses in all hemispheres of all
+subjects is consistent with orthogonal ( i) tonotopic and perio-
+dotopic gradients (Fig. 4 and Fig. S5 ).
+Such an orthogonal organization of tonotopic and periodotopic
+gradients means that all voxels tuned to a particular tone span
+the range of temporal receptive ﬁelds represented within that
+particular AFM, and all voxels tuned to a particular temporal
+receptive ﬁeld span the range of tones, such that all unique
+combinations of tonotopy and periodotopy are represented in any
+given AFM. As with VFMs in visual cortex, the similarity of this
+orthogonal pattern across AFMs is indicative of a common to-
+pographical sensory matrix across maps, over which different
+computations can be performed. This matrix naturally allows for
+feedforward and feedback communication between AFMs without
+complicated transformations as information travels up or down
+the processing hierarchy. Furthermore, this matrix framework
+allows for the parallel processing, and thus differentiation, of
+multiple auditory sources by their spectral contents in the tem-
+poral and tonotopic domains. Finally, as a practical matter for
+auditory researchers, orthogonal gradients allow for the unam-
+biguous individuation of AFMs using fMRI. With just one gradient
+dimension, such as tonotopy, there are a number of nearby gra-
+dients that run together, and the localization of the boundaries
+speciﬁc to A1 or R, for example, becomes a matter of subjective
+interpretation. All previous studies of tonotopic responses on HG
+in humans have very similar data, but each interprets their data
+differently, leading to highly ambiguous and variable localization of
+individual auditory subﬁelds (23–28). Those studies largely agree
+that human auditory core is on HG, but disagree on precisely where
+each subﬁeld is, and even how many there are (23 –28). The small
+sizes of auditory sub ﬁelds suggested in macaque data and human
+cytoarchitectural measurements have also been a confounding
+Fig. 2. Anatomical and functional data in auditory core and belt. ( Left)
+Data in subject 4 ’s (S4 ’s) left hemisphere and ( Middle)i nS 4 ’s right hemi-
+sphere. ( Right) Data in S3 ′s left hemisphere. Light gray indicates gyri; dark
+gray indicates sulci. ( A) A 3D rendering of individual cortical surfaces. Circles
+indicate HG and surrounding regions presented in ( B). ( B) Flattened cortical
+surface of HG and surrounding regions for each hemisphere, orientated to
+align STG. Solid black lines indicate AFM boundaries between maps along
+mirror-symmetric tonotopic reversals, which separate clover leaf clusters
+from one another. Dotted black lines indicate AFM boundaries between
+maps within a clover leaf cluster, in mirror-symmetric periodotopic reversals.
+Red text indicates AFM names; black text indicates gyri names. ( C) Tonotopy
+mapped using narrowband noise stimuli. Colors indicate the preferred fre-
+quency range for each voxel (CF, in hertz). ( D) Periodotopy mapped using
+broadband noise stimuli. Colors indicate the preferred period range for each
+voxel (AM rate, in hertz). Each voxel is measured independently with no
+spatial or temporal smoothing and no motion correction. Voxels presented
+have coherence above the statistical threshold of 0.20 and are within one of
+the 11 AFMs presently studied. Scale bar denotes 1 cm along the ﬂattened
+cortical surface.
+20740 | www.pnas.org/cgi/doi/10.1073/pnas.1213381109 Barton et al.
+Downloaded from https://www.pnas.org by UNIVERSITY OF BATH on October 30, 2026 from IP address 138.38.93.65.
+PAGE 4
+factor in many of the human neuroimaging studies, which have had
+difﬁculty in measuring such small tonotopic gradients in individual
+subjects (23–28). Our present data reveal that there are 11 AFMs
+on or bordering HG that closely resemble the macaque model of
+auditory core and belt, and that it is necessary to measure both
+tonotopy and periodotopy to localize them accurately (Figs. 2 and
+3). We provide the average surface areas and Talairach locations
+for each of the 11 AFMs in Fig. S6 and Table S1,r e s p e c t i v e l y .
+Restricting our microstructural analysis to the AFMs of the
+human auditory core, we ﬁnd that they are effectively identical to
+those of macaque; all of the tonotopic boundary reversals be-
+tween hCM/hCL and hA1; hA1 and hR; and hR and hRT pre-
+dicted by the monkey core model can be identi ﬁed in human
+core (Fig. 2 and Fig. S7 ). The anterior/medial aspect of hA1 is
+tuned to high tones and the posterior/lateral aspect is tuned to
+low tones (Figs. 2, 3, and 5 and Fig. S7). The high-tone region of
+hA1 abuts the high-tone regions of hCM and hCL, forming what
+is known as a boundary reversal between maps. Such reversals
+indicate the boundaries between hCM and hA1 (high tones),
+hCL and hA1 (high tones), hA1 and hR (low tones), and hR and
+hRT (high tones; Figs. 2 and 5 and Fig. S7 ). To date no such
+functional boundary has been identi ﬁed between monkey core
+and belt maps, primarily because periodotopic gradients have so
+far only been measured in macaque midbrain (30). Instead, the
+macaque boundaries have been measured using cytoarchitectural
+differences, electrophysiologi cal responses, and connectivity
+patterns (10, 11, 14 –1 7 )a n dr o u g h l ye s t i m a t e dw h e ns u c hi n -
+formation is not available (18).
+The monkey model of the belt region, however, is inadequate
+to describe our tonotopic data in the human belt. Although we
+observe the expected tonotopic reversals between hCM and
+hMM; hCL and hML; hRM and hRTM; and hAl and hRTL, we
+do not detect a tonotopic reversal between hMM and hRM or
+hML and hAL. Instead, we measure periodotopic reversals be-
+tween hMM and hRM and between hML and hAL. In addition,
+we observe periodotopic reversals between the human homolog
+to core and belt, or between hA1 and hMM; hA1 and hML; hR
+and hRM; hR and hAL; hRT and hRTM; and hRT and hRTL
+(Figs. 2 and 5 and Fig. S7 ).
+Macrostructural Organization of Human AFMs. These patterns of the
+tonotopic and periodotopic gradients are well described by a
+clover leaf cluster organization such as the organizational pattern
+also measured by our laboratory and others for VFMs (4, 6, 7,
+35–37, 40). A growing body of evidence on the macrostructure of
+VFMs in human (4, 6, 7, 9, 35 –37) and macaque visual cortex
+(40) indicates that VFMs are organized into roughly circular
+clover leaf VFM clusters. VFMs in a clover leaf cluster are or-
+ganized such that the central foveal representation of each VFM
+is positioned in the center of the cluster, with more peripheral
+representations of space represented in more peripheral posi-
+tions in the cluster in a smooth, orderly fashion. The represen-
+tation of any given polar angle of space for each VFM extends
+out from the center to the periphery of the clover leaf cluster,
+effectively spanning the radius of the cluster like a spoke on a
+wheel. This type of macrostructural organization —one dimen-
+sion of sensory topography represented in radial bands from
+center to periphery of a cluster (periodicity for AFMs) and the
+other dimension represented in concentric, circular bands from
+center to periphery (tonotopy for AFMs) —is referred to as being
+radially orthogonal. Here, our measurements reveal that AFMs,
+like VFMs, have a roughly circular clover leaf cluster macro-
+structure that is very similar to the widely accepted monkey
+model of auditory core (10 –12, 14 –18) and both monkey and
+human VFM macrostructure [Figs. 2 and 5 and Fig. S7 (4, 6, 7,
+35–37, 40)].
+In the present AFM data, we observe one complete clover leaf
+cluster, which is centered on HG, containing the six AFMs hA1,
+hR, hMM, hRM, hML, and hAL (see SI Text ). We refer to this
+clover leaf cluster as the HG cluster. The medial aspect of the
+HG cluster lies on the medial aspect of HG, abutting hCM and
+hCL, which extend onto the circular gyrus and medial wall of the
+Sylvian ﬁssure, respectively. The lateral aspect of the HG cluster
+lies where HG meets the superior temporal gyrus (STG), abut-
+ting hRT, hRTM, and hRTL, which lie on the STG at the base of
+Fig. 3. Orthogonal tonotopic and periodotopic representa-
+tions. ( A) Tonotopy and ( B) periodotopy. ( Left)D a t ai nS 4 ’s
+right hemisphere. (Center) Data in S2’s left hemisphere. ( Right)
+Data in S1 ’s left hemisphere. ( Inset) Scale bar denotes 1 cm
+along the ﬂattened cortical surface for images in ( A) and ( B).
+Details of ( A) and ( B) as in Fig. 2. ( C) Model tuning for tono-
+topy ( Top) and periodotopy ( Bottom) in hA1. Red regions in-
+dicate low stimulus values (e.g., low frequency for tonotopy or
+low-modulation rate for periodotopy); blue regions indicate
+high-stimulus values. ( D) Vectors were drawn from centers of
+low-stimulus value region of interests (ROIs) to high stimulus
+value ROIs for tonotopy ( Top) and periodotopy ( Bottom). ( E)
+Vector offset predicted by orthogonal tonotopic and perio-
+dotopic gradients physically ( Top) and graphically ( Bottom).
+(F) Results of the vector offset test for orthogonality for each
+AFM, averaged across all eight hemispheres. All maps have an
+offset of about 90°, con ﬁrming that the two gradients are
+orthogonal. Error bars indicate SEM.
+Barton et al. PNAS | December 11, 2012 | vol. 109 | no. 50 | 20741
+NEUROSCIENCE
+Downloaded from https://www.pnas.org by UNIVERSITY OF BATH on October 30, 2026 from IP address 138.38.93.65.
+PAGE 5
+HG. The anterior and posterior aspects of the HG cluster are
+restricted to the sulci bordering HG, without extending into
+planum temporale (PT) or planum polare (PP; Figs. 2 and 5 and
+Fig. S7 ). In the center of the HG cluster lies the low-frequency
+tonotopic representation, with bands of progressively higher-
+frequency tonotopic tuning as one moves eccentric from the
+center of the cluster, until reaching the high-frequency tonotopic
+voxels at the outermost ring of the HG cluster. Each AFM within
+the HG cluster has a tonotopic gradient running from the center
+to the periphery of the cluster. Extending from the center of the
+HG cluster to its periphery are the isofrequency lines of perio-
+dotopic tuning, like the spokes on a wheel (Figs. 2 and 5 and Fig.
+S7). Each AFM within the HG cluster has a periodotopic gra-
+dient running from one spoke on the wheel, rotating around the
+cluster to another spoke on the wheel. We observe six perio-
+dotopic tuning reversals at the highest and lowest periodotopic
+frequencies, indicating the boundaries between the AFMs within
+the HG cluster. This is the radially orthogonal clover leaf cluster
+organization, with one dimension of our AFM (tonotopy) di-
+vided into roughly circular isotone bands around a center point
+and isoperiod bands of the orthogonal dimension (periodotopy)
+spanning from the center to periphery of the cluster. This ar-
+rangement requires that the individual AFMs be shaped like
+slices of pie.
+To verify the proposed clover leaf cluster organization of the
+HG cluster, we tested whether the vectors previously used to test
+the orthogonality within individual AFMs were radially orthog-
+onal. If the six maps are organized into a clover leaf cluster ( i),
+we should expect that the “low” endpoint of each of the six
+tonotopic vectors (see above) should be located in the center of
+the HG cluster, with each vector pointing to the periphery of the
+HG cluster (running along a wheel spoke of the cluster). Fur-
+thermore, we should expect that the periodotopic vectors should
+be orthogonal to the tonotopic vectors (90° offset), running
+around the circular cluster (pointing roughly from the midpoint
+of one wheel spoke to the next). In contrast, if the maps are
+randomly oriented ( ii), we should expect to see no discernible
+pattern in the tonotopic or periodotopic vectors. Alternatively, if
+the maps have parallel tonotopic gradients ( iii), we should expect
+that the tonotopy vectors would be aligned (0° offset between
+maps) and the maps adjacent, forming a strip. Finally, if the
+maps have tonotopic gradients that are anti-parallel to one an-
+other ( iv), we should expect that the tonotopy vectors would be
+180° offset between maps and the maps adjacent in two strips,
+mirror-reversed. Situations ( iii) and ( iv) would force the or-
+thogonal periodotopic vectors for each map to be anti-parallel to
+one another (180° offset between maps). Across all subjects and
+hemispheres, responses of the maps hA1, hMM, hRM, hR, hRL,
+and hML are consistent with the model of orthogonal ( i) tono-
+topic and periodotopic gradients forming one clover leaf cluster,
+which we name the HG cluster (Figs. 2 –5 and Figs. S3 , S5, and
+S7). The maps hCM and hCL may form one half of another
+clover leaf cluster, as may the maps hRTM, hRT, and hRTL;
+however, that is beyond the scope of the present work.
+Discussion
+We have demonstrated that the human auditory core and belt
+are organized with a microstructure of orthogonal tonotopic and
+periodotopic gradients that form complete AFMs. Furthermore,
+we demonstrate that six of these AFMs form a clover leaf cluster
+called the HG cluster, centered on HG. It is likely that the AFMs
+surrounding the HG cluster are also roughly half of two addi-
+tional clover leaf clusters, based on the prevalence of this type of
+organization in VFMs (4, 6, 7, 35 –37, 40). Our results are con-
+sistent with predictions from the widely accepted macaque model
+of auditory core and belt, based on measurements of tonotopy,
+periodicity, cytoarchitecture, and connectivity (10–18). The present
+results are also consistent with the published data, although not
+necessarily the interpretation, of previous studies of tonotopic
+gradients in humans (23–28). Our results are consistent with work
+Fig. 4. Orthogonal tonotopy and periodotopy in narrow-range ROIs. Data
+are from ROIs de ﬁned across all 11 AFMs in S4 ’s left hemisphere. Speci ﬁc
+narrow-range ROIs were created from voxels with statistically signi ﬁcant
+activity (coherence ≥ 0.20) for a speci ﬁc range (e.g., 400 –800 Hz) of a stim-
+ulus type (e.g., tonotopy), as noted above each column. ( A) The 400 –800-Hz
+tonotopy ROI. ( B) The 8 –16-Hz periodotopy ROI. Plots show data for
+responses either for the de ﬁning stimulus type [narrow-range tonotopic
+responses (Upper Left); narrow-range periodotopic responses ( Lower Right)]
+or for the orthogonal stimulus type [periodotopic responses within tono-
+topic-deﬁned ROI ( Lower Left ); tonotopic responses within periodotopic-
+deﬁned ROI ( Upper Right )]. It is key to note that within each narrow-range
+ROI, the entire range of the other acoustic dimension is represented. These
+results further con ﬁrm that the tonotopic and periodotopic representations
+are orthogonal. See Fig. S5 for additional examples.
+Fig. 5. Model of clover leaf cluster organization and comparison with hu-
+man anatomy and cytoarchitecture. “L” stands for “low” and “H” stands for
+“high,” referring to low (red regions) or high (blue regions) model tonotopic
+or periodotopic responses. Dark gray indicates sulci or the plane of the
+Sylvian ﬁssure, while light gray indicates gyri. Purple regions represent au-
+ditory core. Orange regions indicate auditory belt. Green regions indicate
+auditory parabelt. Yellow regions indicate temporal planum temporal (Tpt).
+All ﬁgures are oriented along the same global axes ( Insets). All models are
+representations of the original models cited above each ﬁgure, modiﬁed for
+consistency here. ( A) Our human core/belt tonotopy model. ( B) Our human
+core/belt periodotopy model. ( C) Our tonotopic model of human belt and
+core. ( D) Cytoarchitectonic model of human auditory cortex.
+20742 | www.pnas.org/cgi/doi/10.1073/pnas.1213381109 Barton et al.
+Downloaded from https://www.pnas.org by UNIVERSITY OF BATH on October 30, 2026 from IP address 138.38.93.65.
+PAGE 6
+on the cytoarchitecture of human auditory core and belt, unlike the
+myriad interpretations of the hum an tonotopic gradient neuro-
+imaging data (19–22). Taken together with recentﬁndings of clover
+leaf cluster organization of VFM s, our results suggest that this
+macrostructural organization is common to sensory systems, pro-
+viding a basic framework for the complex processing and analysis
+of input from sensory receptors. In addition, the clover leaf cluster
+organization is key for minimizing the length of axons connecting
+between sensory maps within and between clusters, allowing for
+am o r ee fﬁcient ratio of brain matter –to-skull capacity.
+Armed with this foundational knowledge of the number, lo-
+cation, and organization of AFMs in human auditory core and
+belt, future research can be directed to localizing higher-order
+AFMs and discerning which computations are performed in each
+AFM. For example, research on the neural basis of speech
+perception overwhelmingly emphasizes the identi ﬁcation of rel-
+atively higher-level auditory systems that are specialized for
+coding speech sound categories (phonemes). This work often
+compares the brain ’s response to speech versus various acoustic
+controls to factor out low-level acoustic processes. Although this
+is a valuable approach, it ignores the fact that the input to these
+higher-level systems derives from an acoustic signal that is al-
+ready highly processed in the spectral and temporal domains.
+Understanding the nature of the inputs to higher-level speech
+perception systems is critical to understanding what kind of
+categorical information is ultimately extracted from the speech
+stream (which is still an open question) and how it is extracted
+computationally. The present work provides the foundation for
+such cortical measurements in the auditory systems of humans
+and nonhuman primates.
+Methods
+Subjects. Four people (one female and three males, aged 26 –38) from the
+University of California, Irvine, served as participants for the present study.
+The experimental protocol was approved by the Institutional Review Board
+at University of California, Irvine, and informed consent was obtained from
+all subjects.
+Experimental Design. Each subject underwent two functional magnetic res-
+onance imaging (fMRI) scan sessions, which involved collecting a T1-weighted
+anatomical volume, a T1-weighted in-plane anatomical scan, and 12 –16
+functional auditory ﬁeld mapping scans (For more information see Results,
+Fig. 1, SI Text , Figs. S1 and S2).
+Auditory Field Mapping. The traveling wave method from standard fMRI
+paradigms for visual ﬁeld mapping (1 –3, 5, 7, 9, 41 –45) was adapted for our
+sparse sampling auditory paradigm (For more information see Results, SI
+Text, Figs. S1 –S4).
+ACKNOWLEDGMENTS. This work was funded by National Institutes of
+Health Grant DC03681 (to G.H. and K.S.), a grant from the Center for
+Hearing Research at the University of California at Irvine (to G.H., A.A.B., and
+K.S.), and by University of California at Irvine, startup funds (to A.A.B.).
+1. Engel SA, et al. (1994) fMRI of human visual cortex. Nature 369(6481):525.
+2. Sereno MI, et al. (1995) Borders of multiple visual areas in humans revealed by
+functional magnetic resonance imaging. Science 268(5212):889–893.
+3. DeYoe EA, et al. (1996) Mapping striate and extrastriate visual areas in human ce-
+rebral cortex. Proc Natl Acad Sci USA 93(6):2382–2386.
+4. Brewer AA, Liu J, Wade AR, Wandell BA (2005) Visual ﬁeld maps and stimulus se-
+lectivity in human ventral occipital cortex. Nat Neurosci 8(8):1102–1109.
+5. Wandell BA, Winawer J (2011) Imaging retinotopic maps in the human brain. Vision
+Res 51(7):718–737.
+6. Wandell BA, Brewer AA, Dougherty RF (2005) Visual ﬁeld map clusters in human
+cortex. Philos Trans R Soc London B Biol Sci 360(1456):693–707.
+7. Wandell BA, Dumoulin SO, Brewer AA (2007) Visual ﬁeld maps in human cortex.
+Neuron 56(2):366–383.
+8. Dumoulin SO, Wandell BA (2008) Population receptive ﬁeld estimates in human visual
+cortex. Neuroimage 39(2):647–660.
+9. Brewer AA, Barton B (2012) Visual ﬁeld map organization in human visual cortex.
+Visual Cortex - Current Status and Perspectives , eds Molotchnikoff S, Rouat J (InTech,
+Croatia), pp 29 –60.
+10. Kaas JH, Hackett TA (1998) Subdivisions of auditory cortex and levels of processing in
+primates. Audiol Neurootol 3(2-3):73–85.
+11. Kaas JH, Hackett TA (2000) Subdivisions of auditory cortex and processing streams in
+primates. Proc Natl Acad Sci USA 97(22):11793–11799.
+12. Morel A, Garraghty PE, Kaas JH (1993) Tonotopic organization, architectonic ﬁelds,
+and connections of auditory cortex in macaque monkeys. J Comp Neurol 335(3):
+437–459.
+13. Merzenich MM, Brugge JF (1973) Representation of the cochlear partition of the
+superior temporal plane of the macaque monkey. Brain Res 50(2):275–296.
+14. Kusmierek P, Rauschecker JP (2009) Functional specialization of medial auditory belt
+cortex in the alert rhesus monkey. J Neurophysiol 102(3):1606–1622.
+15. Rauschecker JP, Tian B (2004) Processing of band-passed noise in the lateral auditory
+belt cortex of the rhesus monkey. J Neurophysiol 91(6):2578–2589.
+16. Tian B, Rauschecker JP (2004) Processing of frequency-modulated sounds in the lat-
+eral auditory belt cortex of the rhesus monkey. J Neurophysiol 92(5):2993–3013.
+17. de la Mothe LA, Blumell S, Kajikawa Y, Hackett TA (2006) Cortical connections of the
+auditory cortex in marmoset monkeys: Core and medial belt regions. J Comp Neurol
+496(1):27–71.
+18. Petkov CI, Kayser C, Augath M, Logothetis NK (2006) Functional imaging reveals
+numerous ﬁelds in the monkey auditory cortex. PLoS Biol 4(7):e215.
+19. Fullerton BC, Pandya DN (2007) Architectonic analysis of the auditory-related areas of
+the superior temporal region in human brain. J Comp Neurol 504(5):470–498.
+20. Galaburda A, Sanides F (1980) Cytoarchitectonic organization of the human auditory
+cortex. J Comp Neurol 190(3):597–610.
+21. Rivier F, Clarke S (1997) Cytochrome oxidase, acetylcholinesterase, and NADPH-
+diaphorase staining in human supratemporal and insular cortex: Evidence for multi-
+ple auditory areas. Neuroimage 6(4):288–304.
+22. Sweet RA, Dorph-Petersen KA, Lewis DA (2005) Mapping auditory core, lateral belt,
+and parabelt cortices in the human superior temporal gyrus. J Comp Neurol 491(3):
+270–289.
+23. Talavage TM, et al. (2004) Tonotopic organization in human auditory cortex revealed
+by progressions of frequency sensitivity. J Neurophysiol 91(3):1282–1296.
+24. Humphries C, Liebenthal E, Binder JR (2010) Tonotopic organization of human au-
+ditory cortex. Neuroimage 50(3):1202–1211.
+25. Woods DL, et al. (2010) Functional properties of human auditory cortical ﬁelds. Front
+Syst Neurosci 4:155.
+26. Da Costa S, et al. (2011) Human primary auditory cortex follows the shape of Heschl ’s
+gyrus. J Neurosci 31(40):14067–14075.
+27. Formisano E, et al. (2003) Mirror-symmetric tonotopic maps in human primary audi-
+tory cortex. Neuron 40(4):859–869.
+28. Upadhyay J, et al. (2007) Function and connectivity in human primary auditory cortex:
+A combined fMRI and DTI study at 3 Tesla. Cerebr Cortex 17(10):2420–2432.
+29. Langner G, Dinse HR, Godde B (2009) A map of periodicity orthogonal to frequency
+representation in the cat auditory cortex. Front Integr Neurosci 3:27.
+30. Baumann S, et al. (2011) Orthogonal representation of sound dimensions in the
+primate midbrain. Nat Neurosci 14(4):423–425.
+31. Dau T, Kollmeier B, Kohlrausch A (1997) Modeling auditory processing of amplitude
+modulation. II. Spectral and temporal integration. J Acoust Soc Am 102(5 Pt 1):
+2906–2919.
+32. Ewert SD, Dau T (2000) Characterizing frequency selectivity for envelope ﬂuctuations.
+J Acoust Soc Am 108(3 Pt 1):1181 –1196.
+33. Hsieh IH, Saberi K (2010) Detection of sinusoidal amplitude modulation in logarithmic
+frequency sweeps across wide regions of the spectrum. Hear Res 262(1-2):9–18.
+34. Langner G, Sams M, Heil P, Schulze H (1997) Frequency and periodicity are repre-
+sented in orthogonal maps in the human auditory cortex: Evidence from magneto-
+encephalography. J Comp Physiol A Neuroethol Sens Neural Behav Physiol 181(6):
+665–676.
+35. Kolster H, Peeters R, Orban GA (2010) The retinotopic organization of the human
+middle temporal area MT/V5 and its cortical neighbors. J Neurosci 30(29):9801–9820.
+36. Barton B, Brewer AA (2010) Pinwheel cartography: A fundamental organizing prin-
+ciple of the human visual system. Neuroscience 2010 Abstracts (Washington, DC:
+Society for Neuroscience), 19.11.
+37. Brewer AA, Barton B (2011) ‘Clover Leaf’ cartography: Connectivity among visual ﬁeld
+map clusters. Neuroscience 2011 Abstracts (Washington, DC: Society for Neurosci-
+ence) 851.801.
+38. Miller GA, Taylor WG (1948) The perception of repeated bursts of noise. J Acoust Soc
+Am 20:171–182.
+39. Petkov CI, Kayser C, Augath M, Logothetis NK (2009) Optimizing the imaging of the
+monkey auditory cortex: Sparse vs. continuous fMRI. Magn Reson Imaging 27(8):
+1065–1073.
+40. Kolster H, et al. (2009) Visual ﬁeld map clusters in macaque extrastriate visual cortex.
+J Neurosci 29(21):7031–7039.
+41. Maes F, Collignon A, Vandermeulen D, Marchal G, Suetens P (1997) Multimodality
+image registration by maximization of mutual information. IEEE Trans Med Imaging
+16(2):187–198.
+42. Teo PC, Sapiro G, Wandell BA (1997) Creating connected representations of cortical
+gray matter for functional MRI visualization. IEEE Trans Med Imaging 16(6):852–863.
+43. Wandell BA, Chial S, Backus BT (2000) Visualization and measurement of the cortical
+surface. J Cogn Neurosci 12(5):739–752.
+44. Dougherty RF, et al. (2003) Visual ﬁeld representations and locations of visual areas
+V1/2/3 in human visual cortex. JV i s 3(10):586–598.
+45. Nestares O, Heeger DJ (2000) Robust multiresolution alignment of MRI brain volumes.
+Magn Reson Med 43(5):705–715.
+Barton et al. PNAS | December 11, 2012 | vol. 109 | no. 50 | 20743
+NEUROSCIENCE
+Downloaded from https://www.pnas.org by UNIVERSITY OF BATH on October 30, 2026 from IP address 138.38.93.65.

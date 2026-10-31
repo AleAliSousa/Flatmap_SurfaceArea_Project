@@ -1,0 +1,7 @@
+subject,sum_of_reported_clusters_mm2,n_reported_clusters,note
+A,33.0,2,"Derived sum of Table1 rows, not guaranteed exhaustive total activation and not whole S1-face"
+B,15.0,1,"Derived sum of Table1 rows, not guaranteed exhaustive total activation and not whole S1-face"
+C,84.2,2,"Derived sum of Table1 rows, not guaranteed exhaustive total activation and not whole S1-face"
+D,10.1,1,"Derived sum of Table1 rows, not guaranteed exhaustive total activation and not whole S1-face"
+E,75.2,2,"Derived sum of Table1 rows, not guaranteed exhaustive total activation and not whole S1-face"
+F,61.73,2,"Derived sum of Table1 rows, not guaranteed exhaustive total activation and not whole S1-face"
