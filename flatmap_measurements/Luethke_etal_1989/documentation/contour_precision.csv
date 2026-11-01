@@ -16,14 +16,14 @@ fig05_panel3,A-I,approximate,175,4,enlarged perimeter reviewed; short symbol con
 fig05_panel3,R,approximate,129,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",pending
 fig05_panel4,A-I,approximate,153,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",pending
 fig05_panel4,R,approximate,130,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",pending
-fig06_panel1,A-I,complete,188,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",pending
-fig06_panel1,R,approximate,112,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",pending
-fig06_panel2,A-I,complete,204,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",pending
-fig06_panel2,R,approximate,126,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",pending
-fig06_panel3,A-I,complete,116,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",pending
-fig06_panel3,R,approximate,90,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",pending
-fig06_panel4,A-I,complete,113,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",pending
-fig06_panel4,R,approximate,93,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",pending
+fig06_panel1,A-I,complete,580,4,enlarged perimeter reviewed; short symbol continuations documented,Source-guided manual envelope; shared boundary paths reused,pending
+fig06_panel1,R,approximate,516,4,enlarged perimeter reviewed; short symbol continuations documented,Source-guided manual envelope; shared boundary paths reused,pending
+fig06_panel2,A-I,complete,578,4,enlarged perimeter reviewed; short symbol continuations documented,Source-guided manual envelope; shared boundary paths reused,pending
+fig06_panel2,R,approximate,517,4,enlarged perimeter reviewed; short symbol continuations documented,Source-guided manual envelope; shared boundary paths reused,pending
+fig06_panel3,A-I,complete,576,4,enlarged perimeter reviewed; short symbol continuations documented,Source-guided manual envelope; shared boundary paths reused,pending
+fig06_panel3,R,approximate,519,4,enlarged perimeter reviewed; short symbol continuations documented,Source-guided manual envelope; shared boundary paths reused,pending
+fig06_panel4,A-I,complete,590,4,enlarged perimeter reviewed; short symbol continuations documented,Source-guided manual envelope; shared boundary paths reused,pending
+fig06_panel4,R,approximate,511,4,enlarged perimeter reviewed; short symbol continuations documented,Source-guided manual envelope; shared boundary paths reused,pending
 fig07_left,A-I,approximate,57,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",pending
 fig07_left,MT,complete,57,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",pending
 fig07_left,R,approximate,51,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",pending

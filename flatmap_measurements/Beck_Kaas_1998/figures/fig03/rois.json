@@ -279,56 +279,168 @@
             99.563
           ],
           [
-            151.747,
-            101.328
+            152.4478,
+            101.4987
           ],
           [
-            152.306,
-            109.212
+            152.4716,
+            103.4343
           ],
           [
-            154.84,
-            111.493
+            152.4851,
+            105.37
           ],
           [
-            156.578,
-            115.645
+            152.488,
+            107.3057
           ],
           [
-            157.05,
-            120.442
+            152.4799,
+            109.2413
           ],
           [
-            158.684,
-            123.844
+            152.4606,
+            111.177
           ],
           [
-            157.977,
-            130.204
+            152.4297,
+            113.1127
           ],
           [
-            152.124,
-            137.603
+            152.387,
+            115.0483
           ],
           [
-            151.771,
-            140.784
+            152.3322,
+            116.984
           ],
           [
-            153.234,
-            145.734
+            152.2649,
+            118.9197
           ],
           [
-            151.837,
-            155.133
+            152.1848,
+            120.8553
           ],
           [
-            150.35,
-            158.138
+            152.0917,
+            122.791
           ],
           [
-            145.401,
-            163.836
+            151.9852,
+            124.7267
+          ],
+          [
+            151.865,
+            126.6623
+          ],
+          [
+            151.7308,
+            128.598
+          ],
+          [
+            151.5823,
+            130.5337
+          ],
+          [
+            151.4192,
+            132.4693
+          ],
+          [
+            151.2412,
+            134.405
+          ],
+          [
+            151.048,
+            136.3407
+          ],
+          [
+            150.8393,
+            138.2763
+          ],
+          [
+            150.6148,
+            140.212
+          ],
+          [
+            150.3741,
+            142.1477
+          ],
+          [
+            150.117,
+            144.0833
+          ],
+          [
+            149.8432,
+            146.019
+          ],
+          [
+            149.5523,
+            147.9547
+          ],
+          [
+            149.244,
+            149.8903
+          ],
+          [
+            148.9181,
+            151.826
+          ],
+          [
+            148.5742,
+            153.7617
+          ],
+          [
+            148.212,
+            155.6973
+          ],
+          [
+            147.8313,
+            157.633
+          ],
+          [
+            147.4317,
+            159.5687
+          ],
+          [
+            147.0129,
+            161.5043
+          ],
+          [
+            146.5746,
+            163.44
+          ],
+          [
+            146.1165,
+            165.3757
+          ],
+          [
+            145.6383,
+            167.3113
+          ],
+          [
+            145.1396,
+            169.247
+          ],
+          [
+            144.6203,
+            171.1827
+          ],
+          [
+            144.0799,
+            173.1183
+          ],
+          [
+            143.5182,
+            175.054
+          ],
+          [
+            142.9348,
+            176.9897
+          ],
+          [
+            142.3295,
+            178.9253
           ],
           [
             141.702,
@@ -413,8 +525,149 @@
         ]
       ],
       "extent": "complete",
-      "boundary_note": "Refined 2026-10-15 against the source at 4 pixels/PDF point, using dense contour samples and local line tracking followed by visual correction. Printed field/tissue border followed; internal symbols and labels retained inside the anatomical envelope. Short obscured continuations across border-connected recording marks interpolated. See documentation/line_refinement.md and source-toggle review.",
-      "previous_boundary_note": "DM envelope around, not around individual, tracer deposits. Short obscured intervals at injection sites interpolated; local4mm calibration."
+      "boundary_note": "Follow-up 31 October: residual right-border detours around the clustered injection ovals removed. A continuous DM/V2 arc is interpolated between visible source tangents above and below the cluster (roughly y106\u2013172 in the original crop). Injection outlines are not anatomical borders. All other vertices and the local 4-mm calibration are retained. Complete denotes the published envelope with a locally obscured, provisional boundary.",
+      "previous_boundary_note": "DM envelope around, not around individual, tracer deposits. Short obscured intervals at injection sites interpolated; local4mm calibration.",
+      "interpolated_border_segments": [
+        [
+          [
+            152.488,
+            107.3057
+          ],
+          [
+            152.4799,
+            109.2413
+          ],
+          [
+            152.4606,
+            111.177
+          ],
+          [
+            152.4297,
+            113.1127
+          ],
+          [
+            152.387,
+            115.0483
+          ],
+          [
+            152.3322,
+            116.984
+          ],
+          [
+            152.2649,
+            118.9197
+          ],
+          [
+            152.1848,
+            120.8553
+          ],
+          [
+            152.0917,
+            122.791
+          ],
+          [
+            151.9852,
+            124.7267
+          ],
+          [
+            151.865,
+            126.6623
+          ],
+          [
+            151.7308,
+            128.598
+          ],
+          [
+            151.5823,
+            130.5337
+          ],
+          [
+            151.4192,
+            132.4693
+          ],
+          [
+            151.2412,
+            134.405
+          ],
+          [
+            151.048,
+            136.3407
+          ],
+          [
+            150.8393,
+            138.2763
+          ],
+          [
+            150.6148,
+            140.212
+          ],
+          [
+            150.3741,
+            142.1477
+          ],
+          [
+            150.117,
+            144.0833
+          ],
+          [
+            149.8432,
+            146.019
+          ],
+          [
+            149.5523,
+            147.9547
+          ],
+          [
+            149.244,
+            149.8903
+          ],
+          [
+            148.9181,
+            151.826
+          ],
+          [
+            148.5742,
+            153.7617
+          ],
+          [
+            148.212,
+            155.6973
+          ],
+          [
+            147.8313,
+            157.633
+          ],
+          [
+            147.4317,
+            159.5687
+          ],
+          [
+            147.0129,
+            161.5043
+          ],
+          [
+            146.5746,
+            163.44
+          ],
+          [
+            146.1165,
+            165.3757
+          ],
+          [
+            145.6383,
+            167.3113
+          ],
+          [
+            145.1396,
+            169.247
+          ],
+          [
+            144.6203,
+            171.1827
+          ]
+        ]
+      ],
+      "tracing_method": "Local cubic Hermite continuation across tracer occlusion; unchanged visible-boundary geometry elsewhere"
     }
   ],
   "unmeasured": [

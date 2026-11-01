@@ -1,0 +1,199 @@
+{
+  "changed_region_checks": [
+    {
+      "paper_id": "Burman_etal_2008",
+      "map_id": "fig09A_CJ58R_flatmap",
+      "label": "3a",
+      "canonical_matches_event": true,
+      "bounds": "passed",
+      "proper_self_crossings": "none"
+    },
+    {
+      "paper_id": "Burman_etal_2008",
+      "map_id": "fig09A_CJ58R_flatmap",
+      "label": "3b",
+      "canonical_matches_event": true,
+      "bounds": "passed",
+      "proper_self_crossings": "none"
+    },
+    {
+      "paper_id": "Burman_etal_2008",
+      "map_id": "fig09A_CJ58R_flatmap",
+      "label": "6Dc",
+      "canonical_matches_event": true,
+      "bounds": "passed",
+      "proper_self_crossings": "none"
+    },
+    {
+      "paper_id": "Burman_etal_2008",
+      "map_id": "fig09A_CJ58R_flatmap",
+      "label": "6Dr",
+      "canonical_matches_event": true,
+      "bounds": "passed",
+      "proper_self_crossings": "none"
+    },
+    {
+      "paper_id": "Burman_etal_2008",
+      "map_id": "fig09A_CJ58R_flatmap",
+      "label": "8Ad",
+      "canonical_matches_event": true,
+      "bounds": "passed",
+      "proper_self_crossings": "none"
+    },
+    {
+      "paper_id": "Burman_etal_2008",
+      "map_id": "fig09A_CJ58R_flatmap",
+      "label": "8Av",
+      "canonical_matches_event": true,
+      "bounds": "passed",
+      "proper_self_crossings": "none"
+    },
+    {
+      "paper_id": "Burman_etal_2008",
+      "map_id": "fig09A_CJ58R_flatmap",
+      "label": "M1_dorsal_component",
+      "canonical_matches_event": true,
+      "bounds": "passed",
+      "proper_self_crossings": "none"
+    },
+    {
+      "paper_id": "Luethke_etal_1989",
+      "map_id": "fig06_panel1",
+      "label": "A-I",
+      "canonical_matches_event": true,
+      "bounds": "passed",
+      "proper_self_crossings": "none"
+    },
+    {
+      "paper_id": "Luethke_etal_1989",
+      "map_id": "fig06_panel1",
+      "label": "R",
+      "canonical_matches_event": true,
+      "bounds": "passed",
+      "proper_self_crossings": "none"
+    },
+    {
+      "paper_id": "Luethke_etal_1989",
+      "map_id": "fig06_panel2",
+      "label": "A-I",
+      "canonical_matches_event": true,
+      "bounds": "passed",
+      "proper_self_crossings": "none"
+    },
+    {
+      "paper_id": "Luethke_etal_1989",
+      "map_id": "fig06_panel2",
+      "label": "R",
+      "canonical_matches_event": true,
+      "bounds": "passed",
+      "proper_self_crossings": "none"
+    },
+    {
+      "paper_id": "Luethke_etal_1989",
+      "map_id": "fig06_panel3",
+      "label": "A-I",
+      "canonical_matches_event": true,
+      "bounds": "passed",
+      "proper_self_crossings": "none"
+    },
+    {
+      "paper_id": "Luethke_etal_1989",
+      "map_id": "fig06_panel3",
+      "label": "R",
+      "canonical_matches_event": true,
+      "bounds": "passed",
+      "proper_self_crossings": "none"
+    },
+    {
+      "paper_id": "Luethke_etal_1989",
+      "map_id": "fig06_panel4",
+      "label": "A-I",
+      "canonical_matches_event": true,
+      "bounds": "passed",
+      "proper_self_crossings": "none"
+    },
+    {
+      "paper_id": "Luethke_etal_1989",
+      "map_id": "fig06_panel4",
+      "label": "R",
+      "canonical_matches_event": true,
+      "bounds": "passed",
+      "proper_self_crossings": "none"
+    },
+    {
+      "paper_id": "Beck_Kaas_1998",
+      "map_id": "fig03",
+      "label": "DM",
+      "canonical_matches_event": true,
+      "bounds": "passed",
+      "proper_self_crossings": "none"
+    },
+    {
+      "paper_id": "Beck_Kaas_1998",
+      "map_id": "fig09",
+      "label": "DM",
+      "canonical_matches_event": true,
+      "bounds": "passed",
+      "proper_self_crossings": "none"
+    },
+    {
+      "paper_id": "Beck_Kaas_1998",
+      "map_id": "fig11",
+      "label": "DM visible fragment",
+      "canonical_matches_event": true,
+      "bounds": "passed",
+      "proper_self_crossings": "none"
+    },
+    {
+      "paper_id": "Beck_etal_1996",
+      "map_id": "fig11_92_78",
+      "label": "Aud",
+      "canonical_matches_event": true,
+      "bounds": "passed",
+      "proper_self_crossings": "none"
+    },
+    {
+      "paper_id": "Beck_etal_1996",
+      "map_id": "fig11_92_78",
+      "label": "PV",
+      "canonical_matches_event": true,
+      "bounds": "passed",
+      "proper_self_crossings": "none"
+    },
+    {
+      "paper_id": "Beck_etal_1996",
+      "map_id": "fig11_92_78",
+      "label": "S1",
+      "canonical_matches_event": true,
+      "bounds": "passed",
+      "proper_self_crossings": "none"
+    },
+    {
+      "paper_id": "Beck_etal_1996",
+      "map_id": "fig11_92_78",
+      "label": "S2",
+      "canonical_matches_event": true,
+      "bounds": "passed",
+      "proper_self_crossings": "none"
+    },
+    {
+      "paper_id": "Krubitzer_Dooley_2013",
+      "map_id": "fig07D_naked_mole_rat",
+      "label": "S1_other_body",
+      "canonical_matches_event": true,
+      "bounds": "passed",
+      "proper_self_crossings": "none"
+    }
+  ],
+  "native_imagej_roundtrip": "passed for all five changed publications",
+  "existing_changed_view_source_pixels_and_calibration": "unchanged",
+  "burman_status_counts": {
+    "rejected_pending_retrace": 21,
+    "provisional_gray_band_center_estimate": 7
+  },
+  "naked_mole_rat_pictogram_flag": "propagated to canonical measurement table",
+  "beck1996_new_view": "projection_uncertain_drawing_area_only; repeated case",
+  "local_review_links_checked": 927,
+  "local_review_links": "passed",
+  "anatomical_certification": false
+}

@@ -397,13 +397,13 @@ def rebuild(root, java=None, ij_jar=None, skip_imagej=False):
         native_imagej_roundtrip=('not_run: ImageJ-compatible files written by the Python fallback exporter '
                                  '(roifile/tifffile); rerun --rebuild with Java 17+ and ImageJ/Fiji for native verification'
                                  if skip_imagej else 'passed'),
-        anatomical_review=('rejected_pending_retrace: file integrity is not anatomical validation'
+        anatomical_review=('mixed provisional/rejected: seven gray-band-center estimates; remaining outlines rejected; none accepted for analysis'
                            if any(r['status'] == 'rejected_pending_retrace' for r in rows)
                            else 'provisional; pending user review'),
         reference_comparison='not_run; core workflow does not require reference data')
     (root/'documentation/validation.json').write_text(json.dumps(validation, indent=2)+'\n')
-    warning = ('<aside style="padding:20px;background:#ffe8d6"><b>Burman tracings rejected for analysis.</b> '
-               'Original outlines remain visible for audit. <a href="boundary_audit.html">Read the boundary review and inspect the new shape pilot</a>. '
+    warning = ('<aside style="padding:20px;background:#ffe8d6"><b>Burman tracings are not ready for analysis.</b> '
+               'Seven CJ58R outlines are revised or added provisional gray-band-center estimates; 21 older outlines remain rejected. See <a href="../documentation/pass3_tracing_review.md">pass3 findings</a>. <a href="boundary_audit.html">Read the boundary review and inspect the new shape pilot</a>. '
                'Native ImageJ read-back checks file integrity, not anatomy.</aside>'
                if any(r['status'] == 'rejected_pending_retrace' for r in rows) else '')
     page = '<!doctype html><meta charset="utf-8"><title>Flatmap tracing review</title><style>body{font:16px Arial;max-width:1400px;margin:32px auto;padding:20px;color:#18302e} .images{display:flex;gap:16px}.images img{width:49%;object-fit:contain}table{border-collapse:collapse}td,th{padding:8px;border-bottom:1px solid #ddd;text-align:left}section{margin-bottom:50px}</style><h1>Flatmap tracing review</h1>' + warning + '<p>Source image, saved anatomical outlines and scale endpoints. Unfinished fields are NA.</p>' + ''.join(cards)

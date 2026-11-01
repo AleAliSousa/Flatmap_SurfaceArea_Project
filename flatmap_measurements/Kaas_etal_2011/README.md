@@ -22,3 +22,8 @@ All 6 numbered figures assessed; **0 field or mapped-portion measurements**. All
 The measurement/summary tables intentionally contain no observations. No ImageJ selections are exported because there is no eligible specimen ROI. The source PDF, per-figure assessment and review previews are retained. `python scripts/measure_flatmaps.py --verify` checks the final saved hashes and empty measurement table; do not run the polygon rebuild without new eligible canonical inputs.
 
 Run `python scripts/rebuild_all.py` to regenerate the empty result tables and source assessment gallery from the saved all-figure inventory.
+
+<!-- project-tracing-review-2026-10-31-pass3 -->
+## Project recheck, pass 3
+
+[Current project-wide review](../project_review_2026-10-31_pass3/index.html#Kaas_etal_2011) · [Scope and methods](../project_review_2026-10-31_pass3/README.md). All inventoried source figures and saved views screened at overview scale; remaining precision/coverage limits are recorded.

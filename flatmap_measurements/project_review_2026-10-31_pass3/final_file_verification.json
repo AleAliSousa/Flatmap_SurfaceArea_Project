@@ -1,0 +1,167 @@
+[
+  {
+    "paper": "Beck_Kaas_1998",
+    "status": "fulfilled",
+    "value": {
+      "chunk_id": "ee1137",
+      "wall_time_seconds": 0.000007125,
+      "exit_code": 0,
+      "original_token_count": 18,
+      "output": "Verified 166 saved file hashes, 20 unique rows, areas and percentages.\n"
+    }
+  },
+  {
+    "paper": "Beck_etal_1996",
+    "status": "fulfilled",
+    "value": {
+      "chunk_id": "84356c",
+      "wall_time_seconds": 0.000007,
+      "exit_code": 0,
+      "original_token_count": 18,
+      "output": "Verified 230 saved file hashes, 86 unique rows, areas and percentages.\n"
+    }
+  },
+  {
+    "paper": "Bergeron_etal_2026",
+    "status": "fulfilled",
+    "value": {
+      "chunk_id": "53d798",
+      "wall_time_seconds": 0.0000045,
+      "exit_code": 0,
+      "original_token_count": 18,
+      "output": "Verified 28 saved file hashes, 10 unique rows, areas and percentages.\n"
+    }
+  },
+  {
+    "paper": "Bock_etal_2011",
+    "status": "fulfilled",
+    "value": {
+      "chunk_id": "801e4c",
+      "wall_time_seconds": 0.00000525,
+      "exit_code": 0,
+      "original_token_count": 18,
+      "output": "Verified 21 saved file hashes, 6 unique rows, areas and percentages.\n"
+    }
+  },
+  {
+    "paper": "Burman_etal_2008",
+    "status": "fulfilled",
+    "value": {
+      "chunk_id": "1a6508",
+      "wall_time_seconds": 0.000005209,
+      "exit_code": 0,
+      "original_token_count": 18,
+      "output": "Verified 57 saved file hashes, 70 unique rows, areas and percentages.\n"
+    }
+  },
+  {
+    "paper": "Dea_etal_2016",
+    "status": "fulfilled",
+    "value": {
+      "chunk_id": "add38e",
+      "wall_time_seconds": 0.000004709,
+      "exit_code": 0,
+      "original_token_count": 18,
+      "output": "Verified 52 saved file hashes, 39 unique rows, areas and percentages.\n"
+    }
+  },
+  {
+    "paper": "Frost_etal_2000",
+    "status": "fulfilled",
+    "value": {
+      "chunk_id": "ecdee1",
+      "wall_time_seconds": 0.000003792,
+      "exit_code": 0,
+      "original_token_count": 18,
+      "output": "Verified 119 saved file hashes, 32 unique rows, areas and percentages.\n"
+    }
+  },
+  {
+    "paper": "Ghosh_1997",
+    "status": "fulfilled",
+    "value": {
+      "chunk_id": "1fe0f9",
+      "wall_time_seconds": 0.000003666,
+      "exit_code": 0,
+      "original_token_count": 18,
+      "output": "Verified 53 saved file hashes, 77 unique rows, areas and percentages.\n"
+    }
+  },
+  {
+    "paper": "Glasser_etal_2016",
+    "status": "fulfilled",
+    "value": {
+      "chunk_id": "6f1993",
+      "wall_time_seconds": 0.000003542,
+      "exit_code": 0,
+      "original_token_count": 18,
+      "output": "Verified 20 saved file hashes, 9 unique rows, areas and percentages.\n"
+    }
+  },
+  {
+    "paper": "Halley_etal_2025",
+    "status": "fulfilled",
+    "value": {
+      "chunk_id": "74d161",
+      "wall_time_seconds": 0.000004,
+      "exit_code": 0,
+      "original_token_count": 18,
+      "output": "Verified 41 saved file hashes, 25 unique rows, areas and percentages.\n"
+    }
+  },
+  {
+    "paper": "Jung_etal_2021",
+    "status": "fulfilled",
+    "value": {
+      "chunk_id": "8233c0",
+      "wall_time_seconds": 0.000004042,
+      "exit_code": 0,
+      "original_token_count": 18,
+      "output": "Verified 20 saved file hashes, 9 unique rows, areas and percentages.\n"
+    }
+  },
+  {
+    "paper": "Krubitzer_Dooley_2013",
+    "status": "fulfilled",
+    "value": {
+      "chunk_id": "20fbb1",
+      "wall_time_seconds": 0.000004417,
+      "exit_code": 0,
+      "original_token_count": 18,
+      "output": "Verified 136 saved file hashes, 149 unique rows, areas and percentages.\n"
+    }
+  },
+  {
+    "paper": "Luethke_etal_1989",
+    "status": "fulfilled",
+    "value": {
+      "chunk_id": "63e47f",
+      "wall_time_seconds": 0.000003625,
+      "exit_code": 0,
+      "original_token_count": 18,
+      "output": "Verified 197 saved file hashes, 80 unique rows, areas and percentages.\n"
+    }
+  },
+  {
+    "paper": "Neafsey_etal_1986",
+    "status": "fulfilled",
+    "value": {
+      "chunk_id": "95fe8f",
+      "wall_time_seconds": 0.00000375,
+      "exit_code": 0,
+      "original_token_count": 18,
+      "output": "Verified 76 saved file hashes, 23 unique rows, areas and percentages.\n"
+    }
+  },
+  {
+    "paper": "Remple_etal_2006",
+    "status": "fulfilled",
+    "value": {
+      "chunk_id": "f97cb2",
+      "wall_time_seconds": 0.000003791,
+      "exit_code": 0,
+      "original_token_count": 18,
+      "output": "Verified 41 saved file hashes, 32 unique rows, areas and percentages.\n"
+    }
+  }
+]

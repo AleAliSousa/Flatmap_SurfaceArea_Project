@@ -1,0 +1,284 @@
+{
+  "Burman_etal_2008": {
+    "notes": "All four views and source figures1\u201310 including Fig9 continuation pages12\u201313 screened. Seven CJ58R gray-band-center revisions/additions applied; field extent and uncertainty explicit. Fig9 B\u2013D are repeated views of the same CJ58R anatomy with different tracers; useful cross-checks, not additional animals, and Fig6 dashed M1 outlines need further enlargement. No calibration borrowed.",
+    "trace_overviews_seen": true,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  },
+  "Hinds_etal_2008": {
+    "notes": "All 11 views and source figures screened. Pink V1 perimeter must be retained separately from fitted blue ellipse; green stars locally obscure the edge. No new independent field in probability/model panels. Enlarged LH4 source inspected; no automatic ellipse substitution.",
+    "trace_overviews_seen": true,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  },
+  "Luethke_etal_1988": {
+    "notes": "All 14 saved views and all 19 source figures screened. Enlarged Fig12 shows M/S-I corner rounding and slight stroke drift; black tracer fields cannot substitute for auditory field borders. Fig1/2 whole-map panels omitted; Figs5\u201315 contain same case/hemisphere repeats, requiring source linkage. Summary Figs17\u201319 do not add independent cases.",
+    "trace_overviews_seen": true,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  },
+  "Barton_etal_2012": {
+    "notes": "All eight canonical views and all main-paper source figures screened. hA1 boundaries distinct from red leaders and gray sulcal shading. Source caption p3 confirms dotted and solid functional reversals. Additional hR/hRT/belt fields need larger full-panel crops and field-by-field tracing; not yet digitized. Fig3 S4R is a repeat. Models, graphs and anatomical projections are not new flatmaps.",
+    "trace_overviews_seen": true,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  },
+  "Beck_Kaas_1998": {
+    "notes": "All eight current contours and all 14 source figures screened; all eight source/current pairs inspected enlarged in the additional recheck. Fig3 residual tracer-driven right-edge bends corrected; Figs9/11 interpolation display made explicit. Figs4/7 remain inferred estimates, Fig11 partial. Other panels predominantly thalamic/collicular sections or summaries; Fig5 repeats Fig4 case.",
+    "trace_overviews_seen": true,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  },
+  "Beck_etal_1996": {
+    "notes": "All original 22 views and source figures 1\u201318 screened. Added Fig11 case92-78 S1/S2/PV/Aud as repeated drawing-only outlines: panel projection uncertain, own 1mm bar, excluded from complete-field summaries. Animal body drawings excluded. Other open/clipped fields remain unmeasured.",
+    "trace_overviews_seen": true,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  },
+  "Luethke_etal_1989": {
+    "notes": "All 19 canonical views and all 17 source figures screened. Fig6 all four panels enlarged; captions pp8\u20139 establish same tamarin 87-44 with separate tracer layers. Eight A-I/R revisions applied; shapes no longer follow tracer clusters or L circles; identical shared boundary paths. Native and interior-overlap checks passed. Histological/subcortical panels remain separate; summary Fig17 not an animal observation.",
+    "trace_overviews_seen": true,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  },
+  "Remple_etal_2006": {
+    "notes": "Four traced views and all source figures1\u201312 screened. Fig7A/B field versus body-map comparison supports retained sensory-module outlines. Fig8A\u2013C tracer reconstructions have additional untraced motor components with open M1/M2 ends; Fig9\u201311 colored sampled components are candidates, not whole M1 envelopes. Fig12 is a model, not an additional case.",
+    "trace_overviews_seen": true,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  },
+  "Rosa_etal_1993": {
+    "notes": "Eight traced views; all source figures1\u201312 screened. Cases1\u20136 matched to Fig5\u201310 section maps. Thin areal lines differ from heavy sulcal borders. Black tracer patches are not field perimeters. Crowded V2/MT junctions need targeted precision review. FEF/frontal closed islands offer additional coverage; Fig3C/11 summaries are illustrative.",
+    "trace_overviews_seen": true,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  },
+  "Bergeron_etal_2026": {
+    "notes": "Two views and figures1\u20134 screened. Sampling-grid footprints are partial projected motor maps, not whole M1. Medial panel Fig2D is additional partial coverage requiring separate tracing/geometry assessment.",
+    "trace_overviews_seen": true,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  },
+  "Bock_etal_2011": {
+    "notes": "Source-only view and figures1\u20138 screened. Fig7 explicitly illustrates nonuniform flattening area distortion; use native surface data/areas, not screenshot pixel area. No new metric 2D ROI accepted.",
+    "trace_overviews_seen": true,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  },
+  "Brecht_Freiwald_2012": {
+    "notes": "Four schematic views and figures1\u20133 screened. Color outlines do not establish metric fidelity. Calibration cannot be transferred from brain locator without source evidence. Remains schematic-only.",
+    "trace_overviews_seen": true,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  },
+  "Catania_Remple_2002": {
+    "notes": "Three views and figures1\u20135 screened. Fig2 colored S1 body subdivisions distinct from internal symbols. Gray dots do not define closed S2/PV perimeter. Fig4A/B summaries are not independent animals; Fig4C myelin boundary diffuse.",
+    "trace_overviews_seen": true,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  },
+  "Cerkevich_Qi_Kaas_2014": {
+    "notes": "Four face/oral 3b views and figures1\u201316 screened. Figs6\u201314 repeat tracer layers of four cases; Fig5 physiologic enlargements useful for interpretation. Additional 3a/1/2/S2/PV components need explicit partial-boundary assessment. Tracer deposits not field borders. Fig15 opposite hemisphere must retain identity.",
+    "trace_overviews_seen": true,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  },
+  "Dea_etal_2016": {
+    "notes": "Six views and figures1\u20138 screened. Hand footprints and area1/2 strips are sampled components. M1 tracer clouds not whole M1 perimeter. Medial CMA/SMA outlines open; potential stimulation footprints need separate extent classification.",
+    "trace_overviews_seen": true,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  },
+  "Felleman_VanEssen_1991": {
+    "notes": "Two views and inventoried source figure pages screened. Fig2 composite atlas field boundaries distinct from Fig1 topographic contours. 76 saved outlines retained; atlas carrier is not 76 independent measurements. Fig1 geometry-only view; hierarchies are not area maps. Figure-number completeness requires caption audit (Fig5 absent from current page inventory). Numbering-gap audit located Fig5 on PDF page31: graph, no flatmap; added to source inventory. All47 PDF pages checked as thumbnails for missing figures.",
+    "trace_overviews_seen": true,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  },
+  "Frost_etal_2000": {
+    "notes": "All17 views and source figures1\u201317 screened. Smooth motor responsive envelopes generally retained across dots and hatching. Fig4 case9212 distal-forelimb top edge is an open visible component, not wholefield. Fig2 case9211 has potentially traceable face subcomponents despite no complete S1. Figs5/6/11\u201314 are repeated maps; body drawings not cortex.",
+    "trace_overviews_seen": true,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  },
+  "Ghosh_1997": {
+    "notes": "Six views and source figures1\u201316 screened. Pass2 bank-component corrections retained. Dense tracer distributions not borders; medial and parietal maps contain additional components. Fig11 is a separate threshold presentation requiring case linkage; no new animal inferred. Case9 missing own scale remains unresolved.",
+    "trace_overviews_seen": true,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  },
+  "Glasser_etal_2016": {
+    "notes": "Source-only view and main figures1\u20135 screened. Inflated/flat surface projections require native mesh areas and atlas labels; screenshot area cannot supply cortical mm2. No invented calibrations.",
+    "trace_overviews_seen": true,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  },
+  "Halley_etal_2025": {
+    "notes": "Four views and figures1\u20137 screened. Existing outlines represent sampled extents, not complete M1/3a/3b. Colored physiological tiles and internal hatch lines do not alter anatomical field borders. Fig5/6 pooled overlap maps cannot add cases; additional 1/2 and PPC sampled components remain candidates.",
+    "trace_overviews_seen": true,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  },
+  "Haug_1987": {
+    "notes": "Source figures1\u201313 screened; graphs and cortical-section micrographs, no flatmap polygons. Thickness sections cannot be treated as surface-area maps.",
+    "trace_overviews_seen": false,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  },
+  "Huffman_etal_1999": {
+    "notes": "21 views and source figures1\u201316 screened. C, SI, SII/PV borders must stay distinct from receptive-field symbols. Whole SI often open; closed face/forepaw islands offer additional partial coverage. Fig14/15 summaries and Fig16 borrowed somatotopies are illustrative, not new animals. Fig4 lower face component clipped by frame.",
+    "trace_overviews_seen": true,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  },
+  "Jung_etal_2021": {
+    "notes": "Source-only view and source figures1\u201312 screened. CHARM hierarchy shown on projected surfaces and sections; native labels/mesh required for area. No screenshot calibration.",
+    "trace_overviews_seen": true,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  },
+  "Kaas_etal_2011": {
+    "notes": "All six source figures screened. Schematic/projected PPC-motor network diagrams and movement domains, not native complete-field flatmaps. Colored domains and connecting arrows must not define whole M1.",
+    "trace_overviews_seen": false,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  },
+  "Krubitzer_1995": {
+    "notes": "18 views and figures1\u20137 screened. Many black primary-field silhouettes remain undigitized in summary maps; these are not biologically unmeasurable, but would be drawing-only. Histology borders diffuse, no automatic thresholding. Fig1 echidna also omitted from saved views; source map provides illustrative coverage only.",
+    "trace_overviews_seen": true,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  },
+  "Krubitzer_1998": {
+    "notes": "18 views and figures1\u201315 screened. Summary squirrel M addition retained. Other motor/S1 islands are possible drawing-only additions. Fig6/12 tracer cloud interiors distinct from myelinated/dashed regional envelopes; Fig10 lacks reliable complete visual separation compared with simplified Fig11. Historical/projected maps not independent cases.",
+    "trace_overviews_seen": true,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  },
+  "Krubitzer_2009": {
+    "notes": "11 views and figures1\u20139 screened. Macaque letter-hole correction retained. Missing M1 borders in some developmental cartoons cannot be invented. Summary color polygons are illustrative; tiny brain projections/phylogeny and barrel diagrams cannot supply whole-field intrinsic areas.",
+    "trace_overviews_seen": true,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  },
+  "Krubitzer_Dooley_2013": {
+    "notes": "14 views and figures1\u20139 screened. Macaque, mouse and comparative maps repeat summary sources. Naked mole-rat pictorial body/hand drawings overlay S1: their small contours should not be assumed cortical partitions. Fig7D S1_other_body needs enlarged separation of pictogram from area envelope; do not certify current contour. Other colored areas generally follow published silhouette. Enlarged check confirms S1_other_body follows the hand/body pictogram itself. Flag as pictorial footprint, unsuitable for anatomical S1 area; independent field envelope is not visible. Smoothing that into a field would invent anatomy.",
+    "trace_overviews_seen": true,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  },
+  "Krubitzer_Kaas_1990": {
+    "notes": "All56 views and figures1\u201329 screened. Dense tracer rings/patches are internal. Histological Fig6C DM/DI upper/right contours require enlarged retracing; contralateral Fig25/26 dashed envelopes can support only explicit interpolations. Raw area17 construction polygons in Fig12\u201324 use tissue clipping; review filled masks before changing. Partial strips Fig9\u201311 remain partial. Additional omitted panels include Fig9A\u2013F repeated area18 strips, not extra whole-field animals. Enlarged Fig6C confirms DM is already explicitly partial and DM/DI separator is an extrapolation. Gray-white histological source limits precision; retain qualified geometry rather than invent a hidden upper border.",
+    "trace_overviews_seen": true,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  },
+  "Krubitzer_Kaas_1993": {
+    "notes": "20 views and figures1\u201321 screened. DM outlines in fig2 and fig11 are clearer than tracer-heavy Fig3/5/6. Fig12B/C histological DM/VPP remain untraced and need uncertainty-qualified source-border interpretation. Fig13 motor/3a outlined histology is a candidate omitted component. Fig19/20 are partial tissue. Do not use projected Fig21 as intrinsic area.",
+    "trace_overviews_seen": true,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  },
+  "Krubitzer_Prescott_2018": {
+    "notes": "Six views and figures1\u201310 screened. Color outlines mostly clear; diagrams are illustrative, not independent animal measurements. White pictorial forelimb lines inside S1 must not become exclusion holes. Other genetic-model cartoons do not add calibrated cases.",
+    "trace_overviews_seen": true,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  },
+  "Krubitzer_etal_1993": {
+    "notes": "All23 views and figures1\u201322 screened. Same-case local and laminar maps show field envelopes beneath injections. Large 3b island in Fig15 remains omitted because upper/left boundary obscured; dark injection shape is not boundary. Area4/3a/SMA additional components in Fig12/14/18 require edge/extent assessment. Fig21 summary contains much more drawable S1/SII coverage, but remains illustrative. Existing closed sensory envelopes generally separate symbols correctly.",
+    "trace_overviews_seen": true,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  },
+  "Krubitzer_etal_1995": {
+    "notes": "23 views; all source figures1\u201330 screened. Whole M/SI/PV often open; closed SI islands in Fig23 E2 and Fig3 P4 offer additional partial coverage. Fig10 electrosensory islands are not whole S1. Body drawings in Figs6/7/9/13/16/17/20 are not cortex. Histology borders diffuse. Summary Fig27/28 not independent cases.",
+    "trace_overviews_seen": true,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  },
+  "Krubitzer_etal_1997": {
+    "notes": "Seven views; source figures1\u20139 screened. Fig4/6 S1 and PV/S2 closed case outlines are among the clearer traces, repeated from Fig3/5. Fig7 medial S1 is partial; lower S1 boundary has an upper gap. Fig9 is a summary, not another animal.",
+    "trace_overviews_seen": true,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  },
+  "Lyon_etal_1998": {
+    "notes": "20 views; source figures1\u201315 screened. Closed A/TI/S outlines generally clear. Fig09_D auditory edge and Fig11A sulcal junction show possible inset/drift: enlarged precision review remains needed. Contralateral fields in Fig4B/11B/12B are cropped/open but partial components may be digitized. Tracer clouds are internal. Case96-43 repeats Fig9/11.",
+    "trace_overviews_seen": true,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  },
+  "Manger_etal_2002": {
+    "notes": "Five views; source figures1\u201314 screened. PPr/PPc are sampled/semiflattened extents; internal retinotopic lines are not areal borders. Fig6 PPr is closed within crop, not demonstrably whole field. Additional SIII/3b/21 components are open. Sulcal folds and summary Fig3 do not add independent cases.",
+    "trace_overviews_seen": true,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  },
+  "Mayer_etal_2019": {
+    "notes": "Eight views; source figures1\u201310 screened. Four case M1 sampled territories repeat in Fig5 digit/toe domains and Fig10 threshold maps. Body-part cells do not define whole M1. Additional PMd/PMv/1/2/5 sampled components remain undigitized.",
+    "trace_overviews_seen": true,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  },
+  "Neafsey_etal_1986": {
+    "notes": "Ten views; source figures1\u201313 screened. Thin response contours differ from thick cytoarchitectonic boundaries and curved coordinate grid. Existing body-part domains generally fit; local area calibration is required because a single global scale is inappropriate. Fig13 is idealized; Fig2 atlas is not another case.",
+    "trace_overviews_seen": true,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  },
+  "Preuss_Kaas_1996": {
+    "notes": "Three views; source figures1\u20135 screened. Current V1, presumed MT and auditory traces are qualified histological estimates. Fig2 small S1 dashed outline is unclosed; V2 strip would be partial. Single adult female repeated in photographs; sections do not add whole-field cases.",
+    "trace_overviews_seen": true,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  },
+  "Preuss_etal_1993": {
+    "notes": "Six views; source figures1\u20137 screened. Fig2 M1/S1 schematic is not an individual case. Fig5/6 case MT/Aud remain qualified. Cuts, calcarine and sulcal lines must not become field boundaries. V1/V2 incomplete geometry; source Fig1 projections not intrinsic surfaces.",
+    "trace_overviews_seen": true,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  },
+  "SanchezPanchuelo_etal_2018": {
+    "notes": "Two views; source figures1\u20137 screened. Current cheek response patches are unscaled drawing-only, not whole S1-face. Black central sulcus and hand ROI differ from color response edges. Additional participants in Fig3 and SII in Fig6 remain undigitized; native vertices and consistent threshold required for metric comparison. Group maps not new cases.",
+    "trace_overviews_seen": true,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  },
+  "Slutsky_etal_2000": {
+    "notes": "14 views; source figures1\u201314 screened. Simple Fig2 outlines clearest. Fig4/6/11 PM has dashed portions; symbols remain internal. Fig7\u201310/12/13 have additional closed body-part subdomains but whole SI/PM are open. Repeated cases must not be pooled as new animals; Fig14 drawing-only summary.",
+    "trace_overviews_seen": true,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  },
+  "VanEssen_2005": {
+    "notes": "Two views, 67 summary ROIs; source figures1\u201316 screened. Fig9B leader lines cross colored fields and must not become boundaries. Fig4 demonstrates distortion: native surface data required for metric areas. Current atlas illustrations are not independent cases.",
+    "trace_overviews_seen": true,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  },
+  "VanEssen_Drury_1997": {
+    "notes": "Five source-only views; source figures1\u201313 screened. No editable ROIs to correct. Fig13C macaque fields remain drawable but undigitized. Nonuniform distortion in Fig4 means native 3D values in Table1 cannot calibrate screenshot pixels. Drawing-only additions are possible, not calibrated flatmap areas.",
+    "trace_overviews_seen": true,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  },
+  "Wilkinson_2021": {
+    "notes": "One view with seven ROIs; source figures1\u20134 screened. Colored summary M1/SI, red body-part leader lines and black atlas partitions differ. Face arrow does not close a face ROI. Existing whole-color outlines remain illustrative.",
+    "trace_overviews_seen": true,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  },
+  "Willoughby_etal_2021": {
+    "notes": "Six views; source figures1\u20136 screened. Five forehead color outlines; subject D source-only. Gray folds are not response boundaries; gradient thresholds and touching fragments remain ambiguous. Other amplitude maps repeat participants. Published native ROI areas in Fig5 preferred; apparatus scale in Fig1 is not cortical calibration.",
+    "trace_overviews_seen": true,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  },
+  "Zilles_1985": {
+    "notes": "All inventoried source figures1\u201376 screened. Serial sections and histology guide field identity, but section area is not cortical surface area. Figures46\u201349 and73\u201376 also show surface reconstructions/summary diagrams: potentially drawable atlas regions, not yet digitized. Projection and reconstruction geometry require explicit assessment before metric use; do not treat them as intrinsic flatmaps or additional specimens.",
+    "trace_overviews_seen": false,
+    "source_overviews_seen": true,
+    "scope": "Overview screening; enlarged checks separately recorded. Not every boundary validated."
+  }
+}

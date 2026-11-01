@@ -19,7 +19,7 @@ Burman_etal_2008,5,8,not_surface_area,"Histological sections, not cortical surfa
 Burman_etal_2008,6,9,selected_views_traced,Three dorsal M1 and within-M1 face components. Partial medial extent; pixel only due printed scale problem.
 Burman_etal_2008,7,9,not_surface_area,Stimulation threshold graph.
 Burman_etal_2008,8,10,not_selected_projected_view,Lateral/dorsal projected tracer map; no intrinsic whole-field surface geometry.
-Burman_etal_2008,9,11,selected_fields_traced,A selected once; B–D repeat same anatomy with different tracers. Core fields traced; other atlas labels explicitly pending.
+Burman_etal_2008,9,11,selected_fields_traced,A selected once; B–D repeat same anatomy with different tracers. Seven CJ58R outlines revised or added in pass3 using gray-band centers. Twenty-one older outlines remain rejected; other atlas labels explicitly pending.
 Burman_etal_2008,10,14,schematic_not_case,"Comparative summary diagram, not another specimen."
 Dea_etal_2016,1,5,selected_views_traced,B–D photos: hand fields; medial-wall cartoons are not metrically aligned.
 Dea_etal_2016,2,6,published_graph,Hand-area bar plot; graphical values are not entered as exact tabulated numbers.

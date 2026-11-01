@@ -1,7 +1,7 @@
 {
   "processed_views": 4,
-  "measured_fields": 24,
-  "unmeasured_fields": 46,
+  "measured_fields": 28,
+  "unmeasured_fields": 42,
   "overlaps": [
     {
       "map_id": "fig06A_CJ64",
@@ -37,13 +37,19 @@
       "map_id": "fig09A_CJ58R_flatmap",
       "field_a": "M1_dorsal_component",
       "field_b": "3a",
-      "overlap_pixels": 31
+      "overlap_pixels": 48
+    },
+    {
+      "map_id": "fig09A_CJ58R_flatmap",
+      "field_a": "M1_dorsal_component",
+      "field_b": "6Dc",
+      "overlap_pixels": 42
     },
     {
       "map_id": "fig09A_CJ58R_flatmap",
       "field_a": "3a",
       "field_b": "3b",
-      "overlap_pixels": 43
+      "overlap_pixels": 62
     },
     {
       "map_id": "fig09A_CJ58R_flatmap",
@@ -80,9 +86,39 @@
       "field_a": "DM",
       "field_b": "DA",
       "overlap_pixels": 14
+    },
+    {
+      "map_id": "fig09A_CJ58R_flatmap",
+      "field_a": "6Dc",
+      "field_b": "6Dr",
+      "overlap_pixels": 23
+    },
+    {
+      "map_id": "fig09A_CJ58R_flatmap",
+      "field_a": "6Dc",
+      "field_b": "8Av",
+      "overlap_pixels": 11
+    },
+    {
+      "map_id": "fig09A_CJ58R_flatmap",
+      "field_a": "6Dr",
+      "field_b": "8Ad",
+      "overlap_pixels": 24
+    },
+    {
+      "map_id": "fig09A_CJ58R_flatmap",
+      "field_a": "6Dr",
+      "field_b": "8Av",
+      "overlap_pixels": 18
+    },
+    {
+      "map_id": "fig09A_CJ58R_flatmap",
+      "field_a": "8Ad",
+      "field_b": "8Av",
+      "overlap_pixels": 11
     }
   ],
   "native_imagej_roundtrip": "passed",
-  "anatomical_review": "rejected_pending_retrace: file integrity is not anatomical validation",
+  "anatomical_review": "mixed provisional/rejected: seven gray-band-center estimates; 21 older outlines rejected; none accepted for analysis",
   "reference_comparison": "not_run; core workflow does not require reference data"
 }

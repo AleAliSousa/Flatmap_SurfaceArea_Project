@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-31",
+  "views_rechecked": [
+    "fig03",
+    "fig04",
+    "fig06",
+    "fig07",
+    "fig09",
+    "fig10",
+    "fig11",
+    "fig12"
+  ],
+  "geometry_changed": [
+    "fig03",
+    "fig11"
+  ],
+  "interpolation_display_added": [
+    "fig03",
+    "fig09",
+    "fig11"
+  ],
+  "notes": {
+    "fig03": "Follow-up recheck: residual right-border bends around the injection ovals removed. The DM/V2 continuation across the clustered symbols is now smooth and marked orange; all other vertices are retained.",
+    "fig09": "Smooth DM contour retained after enlarged review. Orange now also identifies the short upper-right gap before the V2 junction; no geometry or area change.",
+    "fig11": "Partial contour retained; letter-shaped detours around the lower legend replaced by a smooth, explicitly inferred continuation. Upper frame closure and both legend-hidden intervals remain orange and excluded from complete-field summaries."
+  },
+  "native_verification": "passed",
+  "anatomical_certification": false,
+  "source_pixels_scale_identity_preserved": true,
+  "summary_exclusions": "passed; Figs4/7 estimates and Fig11 partial excluded; five complete published-envelope observations remain",
+  "polygon_bounds_and_self_intersections": "passed for all eight contours",
+  "unchanged_area_values": "6/8 unchanged; only Figs3/11 revised",
+  "area_changes": [
+    {
+      "map_id": "fig03",
+      "label": "DM",
+      "before_mm2": "23.895145073254813",
+      "after_mm2": "23.6972852628555",
+      "percent_change": -0.8280335180754772
+    },
+    {
+      "map_id": "fig11",
+      "label": "DM visible fragment",
+      "before_mm2": "299.58382642998026",
+      "after_mm2": "298.9950690335305",
+      "percent_change": -0.19652509398312423
+    }
+  ]
+}

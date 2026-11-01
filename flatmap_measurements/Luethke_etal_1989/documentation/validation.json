@@ -43,25 +43,25 @@
       "map_id": "fig06_panel1",
       "field_a": "A-I",
       "field_b": "R",
-      "overlap_pixels": 68
+      "overlap_pixels": 90
     },
     {
       "map_id": "fig06_panel2",
       "field_a": "A-I",
       "field_b": "R",
-      "overlap_pixels": 110
+      "overlap_pixels": 85
     },
     {
       "map_id": "fig06_panel3",
       "field_a": "A-I",
       "field_b": "R",
-      "overlap_pixels": 116
+      "overlap_pixels": 79
     },
     {
       "map_id": "fig06_panel4",
       "field_a": "A-I",
       "field_b": "R",
-      "overlap_pixels": 78
+      "overlap_pixels": 99
     },
     {
       "map_id": "fig07_left",
@@ -114,13 +114,5 @@
   "numbered_figures_assessed": 17,
   "assessment_status": "eligible_views_digitized_provisional",
   "whole_neocortex_summary": "unavailable; no independently established complete-neocortex view",
-  "source_visual_review": "completed; anatomical certification pending",
-  "full_dataset_recheck": {
-    "date": "2026-10-16",
-    "source_figure_inventory_rechecked": true,
-    "canonical_contour_count": 41,
-    "geometry_changed": false,
-    "anatomical_certification": false,
-    "review": "review/full_dataset_audit.html"
-  }
+  "source_visual_review": "completed; anatomical certification pending"
 }

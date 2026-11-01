@@ -1,9 +1,9 @@
 map_id,label,previous_mm2,current_mm2,change_percent,revision
-fig03,DM,25.63602413099684,23.895145073254813,-6.790752921928755,refined contour
+fig03,DM,25.63602413099684,23.6972852628555,-7.562556729680969,refined contour
 fig04,DM estimated envelope,NA,30.29568664337544,NA,combined envelope
 fig06,DM,NA,13.909611111111113,NA,combined envelope
 fig07,DM estimated envelope,NA,13.067338884083046,NA,combined envelope
 fig09,DM,NA,31.770902777777778,NA,combined envelope
 fig10,DM,NA,66.41488281250001,NA,combined envelope
-fig11,DM visible fragment,307.55884286653514,299.58382642998026,-2.593005085539235,refined contour
+fig11,DM visible fragment,307.55884286653514,298.9950690335305,-2.784434273841019,refined contour
 fig12,DM,NA,201.7966023875115,NA,combined envelope

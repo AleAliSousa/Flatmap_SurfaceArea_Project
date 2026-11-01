@@ -34,3 +34,8 @@ Atlases and guides: see the [project guide](../ReadMe.md). Use same-specimen pan
 **Atlases and comparison guides:** Same-paper cat case maps in Figs.9, 10, 14, 15 and 16 were compared for field identity, adjacency and exposed-versus-bank components. Source labels and each panel’s own lines govern the tracing. The fSCor fundus divides bank components, not cortical areas; the new 3a/3b ventral-bank ROIs are only components. No case geometry or scale was transferred.
 
 Source-based revisions remain provisional. Existing specimen, scale and analysis-eligibility restrictions are preserved. See the review for unresolved fields and source-specific line meanings.
+
+<!-- project-tracing-review-2026-10-31-pass3 -->
+## Project recheck, pass 3
+
+[Current project-wide review](../project_review_2026-10-31_pass3/index.html#Ghosh_1997) · [Scope and methods](../project_review_2026-10-31_pass3/README.md). All inventoried source figures and saved views screened at overview scale; remaining precision/coverage limits are recorded.

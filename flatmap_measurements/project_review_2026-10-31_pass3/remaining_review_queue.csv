@@ -1,0 +1,22 @@
+paper_id,figure_or_region,status,next_step
+Krubitzer_Dooley_2013,Fig7D S1_other_body,unsuitable_for_anatomical_area,"Hand/body pictogram perimeter, not independent S1 boundary. Canonical status changed; retained only for drawing audit."
+Burman_etal_2008,21 older outlines; Fig6 M1 and remaining Fig9 fields,retrace_priority,"Seven CJ58R outlines improved; other outlines still rejected. Use gray uncertainty bands, dashed borders and repeated A–D anatomy. Physical scale unresolved."
+Lyon_etal_1998,Fig09_D auditory border; Fig11A sulcal junction,precision_priority,"Possible inset/drift at overview scale. Requires enlarged source border placement, not adjustment toward a desired area."
+Luethke_etal_1988,Fig12 M/S-I corner; Fig1/2 whole maps,precision_and_coverage,Residual corner rounding/line drift; additional whole-map panels not yet digitized. Establish repeated case identity first.
+Rosa_etal_1993,V2/MT junctions and frontal islands,precision_and_coverage,Crowded tracer overlays and faint field borders; additional closed frontal components may be possible.
+Krubitzer_Kaas_1990,Fig6C DM/DI; Fig9A–F strips,source_limited_partial,"DM is already partial; separator extrapolation explicit. Additional strips only partial, not whole fields."
+Krubitzer_Kaas_1993,Fig12B/C DM/VPP and Fig13 motor/3a,not_yet_digitized,Histological envelopes need uncertainty-qualified source interpretation.
+Krubitzer_etal_1993,Fig15 3b; Fig12/14/18 motor; Fig21 summary,not_yet_digitized,Do not confuse injection with border. Some open components; summary drawing-only.
+Krubitzer_etal_1995,Fig23 E2 and Fig3 P4 SI islands,not_yet_digitized,Closed components may add partial coverage; body drawings are not cortex.
+Slutsky_etal_2000,Fig7–10/12/13 body-part subdomains,not_yet_digitized,Some closed local domains remain; whole SI/PM open. Repeated cases must stay linked.
+Barton_etal_2012,hR/hRT/belt fields,not_yet_digitized,Larger full-panel crops and field-specific tracing needed; no invented border across response gaps.
+Mayer_etal_2019,PMd/PMv/1/2/5 sampled components,not_yet_digitized,"Response/sampled territories only, not complete fields."
+Halley_etal_2025,Additional 1/2/PPC components,not_yet_digitized,Sampled windows; pooled maps not independent animals.
+Ghosh_1997,Remaining medial/parietal components; case9 scale,not_yet_digitized_or_uncalibrated,Bank components must remain separate; visible case9 bar or explicit common-scale evidence required.
+Remple_etal_2006,Fig8–11 additional motor/response components,partial_open,Partial motor strips and sampled colored domains cannot become whole M1.
+Krubitzer_1995,Summary primary-field silhouettes including echidna Fig1,drawing_only_candidates,"Drawable omitted fields, not new calibrated animal observations."
+VanEssen_Drury_1997,Fig13C atlas and other flatmap displays,native_surface_required,Drawing-only tracing possible; intrinsic metric areas require matching native mesh.
+Zilles_1985,Fig46–49 and73–76 surface reconstructions,projection_assessment_required,"Not just sections: drawable reconstructions exist, but metric surface interpretation must be established."
+SanchezPanchuelo_etal_2018,Additional Fig3 participants and Fig6 SII,native_surface_required,Thresholded response domains need native vertices and comparable definitions.
+Neafsey_etal_1986,All physical areas,local_calibration_required,Curved coordinate grid has spatially varying image scale; integrate local cells.
+Brecht_Freiwald_2012,All schematic measurements,schematic_only,No independent calibration establishes metric fidelity. Keep flagged; do not borrow a locator scale.

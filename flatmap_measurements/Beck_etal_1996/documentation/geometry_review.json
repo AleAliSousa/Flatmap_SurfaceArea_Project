@@ -146,6 +146,38 @@
       "interpretation": "shared-border raster sliver"
     },
     {
+      "map_id": "fig11_92_78",
+      "field_a": "Aud",
+      "field_b": "PV",
+      "overlap_pixels": 14108,
+      "overlap_after_eroding_both_masks_2px": 12872,
+      "interpretation": "documented source overlap"
+    },
+    {
+      "map_id": "fig11_92_78",
+      "field_a": "Aud",
+      "field_b": "S2",
+      "overlap_pixels": 7,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig11_92_78",
+      "field_a": "PV",
+      "field_b": "S2",
+      "overlap_pixels": 65,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
+      "map_id": "fig11_92_78",
+      "field_a": "S1",
+      "field_b": "S2",
+      "overlap_pixels": 43,
+      "overlap_after_eroding_both_masks_2px": 0,
+      "interpretation": "shared-border raster sliver"
+    },
+    {
       "map_id": "fig12A",
       "field_a": "S1",
       "field_b": "SC",

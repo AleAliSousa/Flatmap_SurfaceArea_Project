@@ -25,3 +25,8 @@ Start with [precision review](review/precision_review.html), [all-figure assessm
 View-level screening categories: B=13, C=1. A identifies the clearest source/fit examples; B retains caveats; C needs targeted review/retracing; D is unsuitable for the intended anatomical area inference; N has no saved trace. These are not individual-region certification or independent-specimen counts. See the linked report for each map's notes and proposed improvements.
 
 Atlases and guides: see the [project guide](../ReadMe.md). Use same-specimen panels to resolve obscured lines where correspondence is established; use other specimens and atlases for field identity, adjacency and sulcal plausibility only. They do not supply an observed border, justify copying a shape, or establish a missing physical scale.
+
+<!-- project-tracing-review-2026-10-31-pass3 -->
+## Project recheck, pass 3
+
+[Current project-wide review](../project_review_2026-10-31_pass3/index.html#Luethke_etal_1988) · [Scope and methods](../project_review_2026-10-31_pass3/README.md). All inventoried source figures and saved views screened at overview scale; remaining precision/coverage limits are recorded.

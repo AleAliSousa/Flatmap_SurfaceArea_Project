@@ -1,0 +1,24 @@
+{
+  "processed_publications": 47,
+  "baseline_views": 448,
+  "current_views": 449,
+  "current_regional_rois": 1882,
+  "source_pages_screened": 621,
+  "overview_screening_complete": true,
+  "all_boundaries_validated": false,
+  "enlarged_views": 16,
+  "changes": {
+    "revised_geometry": 13,
+    "added": 8,
+    "metadata_only": 2
+  },
+  "changed_publications": [
+    "Beck_Kaas_1998",
+    "Beck_etal_1996",
+    "Burman_etal_2008",
+    "Krubitzer_Dooley_2013",
+    "Luethke_etal_1989"
+  ],
+  "source_figure_numbering_gaps": "none within inventoried 1..maximum figure ranges; Felleman Fig5 found on page31",
+  "scope_limit": "All processed publication inventories and current canonical views; not every PDF elsewhere in the project queue, every supplementary figure, or every boundary at full resolution."
+}

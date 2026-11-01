@@ -1,0 +1,122 @@
+[
+  {
+    "paper_id": "Beck_Kaas_1998",
+    "map_id": "fig03",
+    "label": "DM",
+    "violations": []
+  },
+  {
+    "paper_id": "Beck_etal_1996",
+    "map_id": "fig11_92_78",
+    "label": "Aud",
+    "violations": []
+  },
+  {
+    "paper_id": "Beck_etal_1996",
+    "map_id": "fig11_92_78",
+    "label": "PV",
+    "violations": []
+  },
+  {
+    "paper_id": "Beck_etal_1996",
+    "map_id": "fig11_92_78",
+    "label": "S1",
+    "violations": []
+  },
+  {
+    "paper_id": "Beck_etal_1996",
+    "map_id": "fig11_92_78",
+    "label": "S2",
+    "violations": []
+  },
+  {
+    "paper_id": "Burman_etal_2008",
+    "map_id": "fig09A_CJ58R_flatmap",
+    "label": "3a",
+    "violations": []
+  },
+  {
+    "paper_id": "Burman_etal_2008",
+    "map_id": "fig09A_CJ58R_flatmap",
+    "label": "3b",
+    "violations": []
+  },
+  {
+    "paper_id": "Burman_etal_2008",
+    "map_id": "fig09A_CJ58R_flatmap",
+    "label": "6Dc",
+    "violations": []
+  },
+  {
+    "paper_id": "Burman_etal_2008",
+    "map_id": "fig09A_CJ58R_flatmap",
+    "label": "6Dr",
+    "violations": []
+  },
+  {
+    "paper_id": "Burman_etal_2008",
+    "map_id": "fig09A_CJ58R_flatmap",
+    "label": "8Ad",
+    "violations": []
+  },
+  {
+    "paper_id": "Burman_etal_2008",
+    "map_id": "fig09A_CJ58R_flatmap",
+    "label": "8Av",
+    "violations": []
+  },
+  {
+    "paper_id": "Burman_etal_2008",
+    "map_id": "fig09A_CJ58R_flatmap",
+    "label": "M1_dorsal_component",
+    "violations": []
+  },
+  {
+    "paper_id": "Luethke_etal_1989",
+    "map_id": "fig06_panel1",
+    "label": "A-I",
+    "violations": []
+  },
+  {
+    "paper_id": "Luethke_etal_1989",
+    "map_id": "fig06_panel1",
+    "label": "R",
+    "violations": []
+  },
+  {
+    "paper_id": "Luethke_etal_1989",
+    "map_id": "fig06_panel2",
+    "label": "A-I",
+    "violations": []
+  },
+  {
+    "paper_id": "Luethke_etal_1989",
+    "map_id": "fig06_panel2",
+    "label": "R",
+    "violations": []
+  },
+  {
+    "paper_id": "Luethke_etal_1989",
+    "map_id": "fig06_panel3",
+    "label": "A-I",
+    "violations": []
+  },
+  {
+    "paper_id": "Luethke_etal_1989",
+    "map_id": "fig06_panel3",
+    "label": "R",
+    "violations": []
+  },
+  {
+    "paper_id": "Luethke_etal_1989",
+    "map_id": "fig06_panel4",
+    "label": "A-I",
+    "violations": []
+  },
+  {
+    "paper_id": "Luethke_etal_1989",
+    "map_id": "fig06_panel4",
+    "label": "R",
+    "violations": []
+  }
+]

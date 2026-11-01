@@ -5,7 +5,7 @@
   "inferred_envelopes_excluded_from_observed_complete_field_analysis": 2,
   "new_outlines": 3,
   "estimated_outlines_included_in_new_count": 2,
-  "geometry_revised_existing": 1,
+  "geometry_revised_existing": 3,
   "extent_label_corrections_without_geometry_change": [
     "fig10",
     "fig12"
@@ -20,5 +20,6 @@
     "fig06": 7,
     "fig09": 13
   },
-  "anatomical_certification": false
+  "anatomical_certification": false,
+  "additional_recheck": "followup_recheck.json"
 }

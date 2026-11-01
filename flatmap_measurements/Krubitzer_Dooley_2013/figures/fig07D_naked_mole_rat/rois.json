@@ -2187,8 +2187,10 @@
           ]
         ]
       ],
-      "extent": "complete",
-      "boundary_note": "Source-guided external field envelope; internal letters and recording symbols retained as tissue. Local smoothing at approximately one rendered pixel; provisional anatomical tracing."
+      "extent": "pictorial_footprint",
+      "boundary_note": "Enlarged source recheck 2026-10-31: this silhouette follows the hand/body pictogram superimposed on S1, including finger edges. The source supplies no independent anatomical perimeter here. Retained only as a published drawing footprint for audit; not a valid S1 field area. No anatomical contour was invented by smoothing the pictogram.",
+      "status": "pictorial_footprint_not_anatomical_area",
+      "analysis_eligible": false
     },
     {
       "label": "S2_PV_teeth",
@@ -2338,5 +2340,6 @@
       "status": "not_measurable",
       "reason": "Only the highlighted specialized body-part compartment is enclosed; whole-field external borders are not independently complete."
     }
-  ]
+  ],
+  "precision_review_pass3": "../../documentation/pass3_tracing_review.md"
 }

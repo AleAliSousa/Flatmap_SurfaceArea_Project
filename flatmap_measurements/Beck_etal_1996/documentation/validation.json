@@ -1,7 +1,7 @@
 {
-  "processed_views": 22,
-  "measured_fields": 58,
-  "unmeasured_fields": 22,
+  "processed_views": 23,
+  "measured_fields": 62,
+  "unmeasured_fields": 24,
   "overlaps": [
     {
       "map_id": "fig02_92_51",
@@ -110,6 +110,30 @@
       "field_a": "S2",
       "field_b": "PV",
       "overlap_pixels": 109
+    },
+    {
+      "map_id": "fig11_92_78",
+      "field_a": "Aud",
+      "field_b": "PV",
+      "overlap_pixels": 14108
+    },
+    {
+      "map_id": "fig11_92_78",
+      "field_a": "Aud",
+      "field_b": "S2",
+      "overlap_pixels": 7
+    },
+    {
+      "map_id": "fig11_92_78",
+      "field_a": "PV",
+      "field_b": "S2",
+      "overlap_pixels": 65
+    },
+    {
+      "map_id": "fig11_92_78",
+      "field_a": "S1",
+      "field_b": "S2",
+      "overlap_pixels": 43
     },
     {
       "map_id": "fig12A",

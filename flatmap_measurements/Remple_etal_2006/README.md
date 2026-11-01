@@ -34,3 +34,8 @@ Atlases and guides: see the [project guide](../ReadMe.md). Use same-specimen pan
 **Atlases and comparison guides:** Tree-shrew Figs.7A/7B, 8 and the same-case Fig.11 were used to distinguish S1 boundaries, body-part compartments, modules and the medial-wall fold. Lyon et al. 1998 provides same-species orientation only; parcellations are not assumed identical. The medial-wall line does not truncate the closed S1 cap.
 
 Source-based revisions remain provisional. Existing specimen, scale and analysis-eligibility restrictions are preserved. See the review for unresolved fields and source-specific line meanings.
+
+<!-- project-tracing-review-2026-10-31-pass3 -->
+## Project recheck, pass 3
+
+[Current project-wide review](../project_review_2026-10-31_pass3/index.html#Remple_etal_2006) · [Scope and methods](../project_review_2026-10-31_pass3/README.md). All inventoried source figures and saved views screened at overview scale; remaining precision/coverage limits are recorded.

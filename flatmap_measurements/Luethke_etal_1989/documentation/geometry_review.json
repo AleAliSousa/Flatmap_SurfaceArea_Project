@@ -53,7 +53,7 @@
       "map_id": "fig06_panel1",
       "field_a": "A-I",
       "field_b": "R",
-      "overlap_pixels": 68,
+      "overlap_pixels": 90,
       "overlap_after_eroding_both_masks_2px": 0,
       "interpretation": "shared-border raster sliver"
     },
@@ -61,7 +61,7 @@
       "map_id": "fig06_panel2",
       "field_a": "A-I",
       "field_b": "R",
-      "overlap_pixels": 110,
+      "overlap_pixels": 85,
       "overlap_after_eroding_both_masks_2px": 0,
       "interpretation": "shared-border raster sliver"
     },
@@ -69,7 +69,7 @@
       "map_id": "fig06_panel3",
       "field_a": "A-I",
       "field_b": "R",
-      "overlap_pixels": 116,
+      "overlap_pixels": 79,
       "overlap_after_eroding_both_masks_2px": 0,
       "interpretation": "shared-border raster sliver"
     },
@@ -77,7 +77,7 @@
       "map_id": "fig06_panel4",
       "field_a": "A-I",
       "field_b": "R",
-      "overlap_pixels": 78,
+      "overlap_pixels": 99,
       "overlap_after_eroding_both_masks_2px": 0,
       "interpretation": "shared-border raster sliver"
     },

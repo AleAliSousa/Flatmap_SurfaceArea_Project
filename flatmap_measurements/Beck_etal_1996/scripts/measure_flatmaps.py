@@ -164,7 +164,7 @@ def rebuild(root, java=None, ij_jar=None):
                            area_mm2=area*factor if factor else None,
                            percent_of_drawn_neocortex=pct if included else None,
                            percent_of_drawn_outline=pct, sensitivity_low_mm2=None, sensitivity_high_mm2=None,
-                           status='provisional; anatomical review required', boundary_note=region.get('boundary_note'))
+                           status=region.get('status', 'provisional; anatomical review required'), analysis_eligible=region.get('analysis_eligible'), boundary_note=region.get('boundary_note'))
                 map_rows.append(row)
                 color = PALETTE[index % len(PALETTE)]
                 for polygon in region.get('polygons', []) + region.get('exclude_polygons', []):

@@ -27,3 +27,8 @@ Atlases and guides: see the [project guide](../ReadMe.md). Use same-specimen pan
 **Atlases and comparison guides:** The macaque map in Krubitzer & Dooley 2013 was compared for orientation/adjacency only. In the 2009 source itself, M/POd lies between PIP, V3d and V2; the former tiny outline followed lettering instead of the field. These summary maps use different parcellations and are not independent animals.
 
 Source-based revisions remain provisional. Existing specimen, scale and analysis-eligibility restrictions are preserved. See the review for unresolved fields and source-specific line meanings.
+
+<!-- project-tracing-review-2026-10-31-pass3 -->
+## Project recheck, pass 3
+
+[Current project-wide review](../project_review_2026-10-31_pass3/index.html#Krubitzer_2009) · [Scope and methods](../project_review_2026-10-31_pass3/README.md). All inventoried source figures and saved views screened at overview scale; remaining precision/coverage limits are recorded.

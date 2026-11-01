@@ -42,3 +42,8 @@ Local guides: [tracing method](tracing_method.md), [measurement workflow](../ski
 ## Beck & Kaas 1998: tracer-overlay and missing-inset correction
 
 [Current DM review](Beck_Kaas_1998/review/dm_recheck_2026-10-31/index.html) covers all eight cortical insets. Figure6 is newly traced; Figure9 follows the smooth anatomical border; Figures4/7 have explicitly inferred envelopes excluded from observed complete-field analysis. Numbered thalamic sections are inventoried separately. This targeted correction supersedes the Beck cards in earlier whole-project snapshots. See [tracing conventions](tracing_method.md) for tracer legends, short occlusion bridges and explicit estimate layers.
+
+<!-- project-tracing-review-2026-10-31-pass3 -->
+## Project recheck, pass 3
+
+[Open the latest review](project_review_2026-10-31_pass3/index.html): 47 publications, 449 current views, 621 source pages screened; 13 contours revised, 8 added. [Remaining precision and coverage queue](project_review_2026-10-31_pass3/remaining_review_queue.csv). Overview completion does not certify every boundary.
