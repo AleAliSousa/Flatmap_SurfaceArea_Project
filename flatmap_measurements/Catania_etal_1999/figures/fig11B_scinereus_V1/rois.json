@@ -1,0 +1,49 @@
+{
+  "map_id": "fig11B_scinereus_V1",
+  "figure": 11,
+  "panel": "B",
+  "pdf_page": 14,
+  "printed_page": "68",
+  "species": "Sorex cinereus",
+  "specimen": "Fig. 11 specimen; identifier not reported",
+  "hemisphere": "side not reported",
+  "view_type": "single_tangential_section",
+  "hemisphere_relation": "Fig. 11A and B are adjacent sections from one hemisphere",
+  "linked_main_map": "",
+  "repeat_of": null,
+  "relationship_note": "The text identifies Fig. 11A/B as sections from one hemisphere. Fig. 12 is a second specimen. This is one section, not another animal or an independent whole-neocortex reconstruction.",
+  "specimen_link_status": "within-paper Fig. 11 hemisphere identified; case number and side not reported",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 2.5,
+  "crop_xyxy": [380, 980, 1300, 1640],
+  "scale_endpoints_px": [[213, 634], [367, 634]],
+  "scale_length_mm": 1.0,
+  "scale_note": "Endpoints of the printed 1 mm bar directly under Fig. 11B, in the cropped 2.5 px/point PDF render. No scale was transferred between figures.",
+  "scale_reference_map": null,
+  "supersample": 4,
+  "outline": null,
+  "rois": [
+    {
+      "label": "V1",
+      "extent": "complete",
+      "polygons": [[
+        [609, 218], [624, 211], [642, 207], [662, 207],
+        [682, 210], [704, 215], [726, 221], [747, 232],
+        [766, 245], [781, 262], [791, 281], [799, 301],
+        [797, 320], [790, 336], [778, 348], [761, 354],
+        [743, 355], [722, 350], [701, 343], [681, 335],
+        [661, 326], [644, 316], [628, 304], [615, 288],
+        [604, 270], [597, 251], [598, 236], [602, 225]
+      ]],
+      "boundary_note": "Pilot tracing of the CO-dense oval identified as V1 by the caption and text. Vertices follow its visible outer contrast transition; the stain edge is diffuse, so this is a provisional field envelope. The white V1 lettering and small pale marks are internal annotations, not holes."
+    }
+  ],
+  "unmeasured": [
+    {"label": "S1", "status": "not_yet_digitized", "reason": "Adjacent CO-dark regions and their full perimeter need separate cross-section review; not inferred from V1 staining."},
+    {"label": "S2", "status": "not_yet_digitized", "reason": "This pilot does not establish the complete S2 boundary in the single section."},
+    {"label": "A1", "status": "not_yet_digitized", "reason": "Dark auditory crescent requires a dedicated enlarged contour check against Fig. 11A/B and caption."},
+    {"label": "whole_neocortex", "status": "not_measurable", "reason": "Panel B shows a single tangential section with tissue cut off at the image edge; it is not an independent full-neocortex outline."}
+  ],
+  "review_note": "Pilot V1 contour on Fig. 11B. Check the source against the cyan saved tracing at enlarged scale; the stain edge is diffuse. This section must not enter whole-hemisphere or independent-animal summaries."
+}

@@ -1,8 +1,8 @@
 # Felleman_VanEssen_1991
 
-**30 October 2026 correction:** PaI is now traced at its leader endpoint (22.0 mm²). The former "Pall" ROI is relabelled as the unlabelled compartment it actually is, and the AUDITORY remainder has been added (173.4 mm²). [Correction record](documentation/fig02_correction_2026-10-30.md). The native ImageJ ROI/mask export is still pending a local `rebuild_all.py` run.
+**30 October 2026 correction:** PaI is now traced at its leader endpoint (22.0 mm²). The former "Pall" ROI is relabelled as the unlabelled compartment it actually is, and the AUDITORY remainder has been added (173.4 mm²). [Correction record](documentation/fig02_correction_2026-10-30.md). Native ImageJ ROI/mask export and read-back were completed in the 19 November source recheck.
 
-The **complete replacement PDF** (14.40 MiB) now serves as the [main paper](source/paper.pdf), restoring pages 20–47. Existing tracings retain the original scan and exact calibration. [Source comparison and provenance](documentation/source_update_2026-10-20.md). The restored pages await a new figure-eligibility assessment.
+The **complete replacement PDF** (14.40 MiB) now serves as the [main paper](source/paper.pdf), restoring pages 20–47. Existing tracings retain the original scan and exact calibration. [Source comparison and provenance](documentation/source_update_2026-10-20.md). All eight numbered figures have now been assessed; Figures 4–8 are connection diagrams or graphs without cortical surface geometry. [Figure inventory](documentation/figure_inventory.csv).
 
 Figure 2 was revised on **20 October 2026** using the user-supplied color reference: **74 measured field/component observations**, including 12 previously missing fields. Fifty existing contours were corrected; 12 were retained after inspection. External label leaders identify the target tissue, and internal labels do not alter surface area.
 

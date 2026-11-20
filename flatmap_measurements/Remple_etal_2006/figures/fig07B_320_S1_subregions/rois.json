@@ -66,15 +66,27 @@
             140.0
           ],
           [
+            190.0,
+            134.0
+          ],
+          [
             170.0,
-            130.0
+            129.0
+          ],
+          [
+            150.0,
+            128.0
           ],
           [
             132.0,
-            126.0
+            127.0
           ],
           [
-            116.0,
+            120.0,
+            125.0
+          ],
+          [
+            107.0,
             102.0
           ],
           [
@@ -88,19 +100,31 @@
         ]
       ],
       "extent": "complete_drawn_field",
-      "boundary_note": "Manual outline follows visible source boundary; short label/stroke gaps interpolated. Includes internal symbols and tracer deposits. Provisional."
+      "boundary_note": "Manual outline follows visible source boundary; short label/stroke gaps interpolated. Includes internal symbols and tracer deposits. Provisional. Foot/forelimb separator follows the lower printed curve from (132,127) to (206,140); the 12-pixel gap to the left tissue edge at (120,125) is interpolated. Both ROIs reuse the same divider vertices. The old diagonal spur through blank tissue near (116,102) was removed."
     },
     {
       "label": "S1_forelimb",
       "polygons": [
         [
           [
+            120.0,
+            125.0
+          ],
+          [
             132.0,
-            126.0
+            127.0
+          ],
+          [
+            150.0,
+            128.0
           ],
           [
             170.0,
-            130.0
+            129.0
+          ],
+          [
+            190.0,
+            134.0
           ],
           [
             206.0,
@@ -137,11 +161,19 @@
           [
             136.0,
             194.0
+          ],
+          [
+            131.0,
+            170.0
+          ],
+          [
+            125.0,
+            140.0
           ]
         ]
       ],
       "extent": "complete_drawn_field",
-      "boundary_note": "Manual outline follows visible source boundary; short label/stroke gaps interpolated. Includes internal symbols and tracer deposits. Provisional."
+      "boundary_note": "Manual outline follows visible source boundary; short label/stroke gaps interpolated. Includes internal symbols and tracer deposits. Provisional. Foot/forelimb separator follows the lower printed curve from (132,127) to (206,140); the 12-pixel gap to the left tissue edge at (120,125) is interpolated. Both ROIs reuse the same divider vertices. The old diagonal spur through blank tissue near (116,102) was removed."
     },
     {
       "label": "S1_unlabelled_intermediate_strip",

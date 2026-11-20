@@ -3,8 +3,12 @@
 if (!exists("cfg")) source(file.path(dirname(sys.frame(1)$ofile %||% "R/x"), "00_config.R"))
 
 load_all_measurements <- function(root = measurements_root) {
-  files <- list.files(root, pattern = "^measurements\\.csv$", recursive = TRUE, full.names = TRUE)
-  files <- files[basename(dirname(dirname(files))) != "_backups" & !grepl("/_backups/", files)]
+  # Only canonical top-level paper datasets are inputs; review snapshots may also
+  # contain measurements.csv and must not be counted as another copy of a paper.
+  rel_files <- list.files(root, pattern = "^measurements\\.csv$", recursive = TRUE)
+  rel_files <- rel_files[grepl("^[^/]+/data/measurements\\.csv$", rel_files) &
+                           !grepl("^(_backups|review_[^/]+)/", rel_files)]
+  files <- file.path(root, rel_files)
   stopifnot(length(files) > 0)
   read_one <- function(f) {
     d <- read_csv(f, col_types = cols(.default = col_character()), na = c("", "NA", "NaN"),

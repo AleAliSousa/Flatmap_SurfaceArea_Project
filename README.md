@@ -31,6 +31,8 @@ These are reference resources for anatomical interpretation and alignment. Atlas
 
 ## Dataset reviews
 
+**Latest recheck (19 November 2026):** [visual correction gallery](flatmap_measurements/review_2026-11-19/index.html) and [methods/results](flatmap_measurements/review_2026-11-19/README.md). All 48 processed paper inventories were checked; 19 regional contours in nine papers were corrected, an omitted Catania paper was processed, and the downstream aggregate was rebuilt from canonical paper files.
+
 <!-- workbook-pdf-batch-2026-10-20 -->
 [Workbook PDF batch: 10 papers, 91 numbered figures, 57 traced views and 539 provisional field/component measurements](flatmap_measurements/review_workbook_batch_2026-10-20.html). Native ImageJ exports are verified. Thirty-five unresolved Rosa boundaries remain explicit NA; Haug has no eligible planar field contours. [Methods and limits](reports/workbook_batch_2026-10-20/README.md).
 

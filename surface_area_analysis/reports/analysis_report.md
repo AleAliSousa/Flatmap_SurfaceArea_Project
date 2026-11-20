@@ -1,27 +1,27 @@
 # Flatmap surface-area analysis report
 
-Generated 2026-10-21 01:13 from `flatmap_measurements/*/data/measurements.csv`.
+Generated 2026-11-19 22:49 from `flatmap_measurements/*/data/measurements.csv`.
 
 ## Input coverage
 
-- 31 paper folders read (28 with measurement rows); 3038 measurement rows; 1387 rows with calibrated area (mm2); 54 species.
+- 48 paper folders read (45 with measurement rows); 3529 measurement rows; 1575 rows with calibrated area (mm2); 63 species.
 
 ## Row-level usability tiers (data/02_flag_counts.csv)
 
 | usability_tier | n |
 |---|---|
-| A_field_complete_identified |  440 |
+| A_field_complete_identified |  444 |
 | A_outline_complete_identified |   19 |
 | B_complete_unidentified_specimen |   11 |
-| C_incomplete_or_section |  348 |
-| D_not_a_specimen_view |  569 |
-| X_no_calibrated_area | 1651 |
+| C_incomplete_or_section |  529 |
+| D_not_a_specimen_view |  572 |
+| X_no_calibrated_area | 1954 |
 
 Only tier `A_*` rows enter per-specimen averages. `C_incomplete_or_section` rows are partial extents, approximate borders, single sections/zooms, insets or component labels: they do not give the full surface area of the region. `D_not_a_specimen_view` rows are illustrative, composite or schematic drawings. `B_*` rows are complete but cannot be attributed to an identified animal.
 
 ## Per-specimen averages (data/03_specimen_region_means.csv)
 
-- 618 specimen x region combinations; 88 measured in more than one view; 42 averaged over >1 usable view; 6 where usable views disagree by CV > 0.25.
+- 787 specimen x region combinations; 95 measured in more than one view; 42 averaged over >1 usable view; 6 where usable views disagree by CV > 0.25.
 
 ### Specimens whose repeated views disagree
 
@@ -32,29 +32,29 @@ Only tier `A_*` rows enter per-specimen averages. `C_incomplete_or_section` rows
 | Didelphis virginiana | Beck_etal_1996 | 93-88 | S1 | 2 | 19.720 | 12.690 | 26.750 | 0.5043 | fig03_93_88|fig16 |
 | Didelphis virginiana | Beck_etal_1996 | 93-88 | S2 | 2 | 12.030 |  9.665 | 14.400 | 0.2784 | fig03_93_88|fig16 |
 | Sciurus carolinensis | Luethke_etal_1988 | 85-90 | A-I | 2 |  4.832 |  3.900 |  5.764 | 0.2728 | fig03|fig03inset |
-| Tupaia belangeri | Lyon_etal_1998 | 96-43 | V1 | 2 | 75.630 | 62.240 | 89.020 | 0.2504 | fig09_C|fig11_A |
+| Tupaia belangeri | Lyon_etal_1998 | 96-43 | V1 | 2 | 75.420 | 61.830 | 89.020 | 0.2549 | fig09_C|fig11_A |
 
 ## Plausibility given species and region (data/04_specimen_region_means_flagged.csv)
 
 | plausibility | n |
 |---|---|
 | FLAG: implausible for species/region |  24 |
-| no usable value | 212 |
+| no usable value | 377 |
 | plausible | 152 |
-| usable with caution | 230 |
+| usable with caution | 234 |
 
 ### Specimens whose regions deviate together (suspected scale/calibration offset)
 
 | species | paper | specimen | n_regions_compared | specimen_median_z | specimen_median_ratio |
 |---|---|---|---|---|---|
-| Saimiri sciureus | Krubitzer_Kaas_1990 | 87-25 | 17 | -2.57 | 0.586 |
-| Saimiri sciureus | Krubitzer_Kaas_1993 | 92-8 |  4 |  9.89 | 3.070 |
+| Saimiri sciureus | Krubitzer_Kaas_1990 | 87-25 | 17 | -2.50 | 0.586 |
+| Saimiri sciureus | Krubitzer_Kaas_1993 | 92-8 |  4 |  6.05 | 3.070 |
 
 ### Hard flags (recommend_use = FALSE)
 
 | species | paper | specimen | label | mean_mm2 | n_views_usable | robust_z | fraction_of_neocortex | hard_flags |
 |---|---|---|---|---|---|---|---|---|
-| Aotus trivirgatus | Krubitzer_Kaas_1990 | 88-7 | DM |   49.400 | 1 |   5.302 | 0.027250 | robust z beyond 3.0 and >= 2.0-fold from species x region median |
+| Aotus trivirgatus | Krubitzer_Kaas_1990 | 88-7 | DM |   49.400 | 1 |   4.612 | 0.027250 | robust z beyond 3.0 and >= 2.0-fold from species x region median |
 | Callithrix jacchus | Krubitzer_Kaas_1993 | 89-78 | PV |    5.669 | 1 |  11.790 | 0.006659 | robust z beyond 3.0 and >= 2.0-fold from species x region median |
 | Galago senegalensis | Krubitzer_Kaas_1993 | 89-11 | SII |    8.901 | 1 |   3.814 | 0.015740 | robust z beyond 3.0 and >= 2.0-fold from species x region median |
 | Saimiri sciureus | Krubitzer_Kaas_1990 | 87-25 | 1 |   18.160 | 1 |  -2.979 | 0.008507 | all regions of this specimen offset from species medians in the same direction (check calibration; may also be an unusually small/large individual) |
@@ -65,7 +65,7 @@ Only tier `A_*` rows enter per-specimen averages. `C_incomplete_or_section` rows
 | Saimiri sciureus | Krubitzer_Kaas_1990 | 87-25 | 3b |   28.020 | 1 |  -3.288 | 0.013120 | all regions of this specimen offset from species medians in the same direction (check calibration; may also be an unusually small/large individual) |
 | Saimiri sciureus | Krubitzer_Kaas_1990 | 87-25 | DI |   14.730 | 1 |  -4.728 | 0.006899 | all regions of this specimen offset from species medians in the same direction (check calibration; may also be an unusually small/large individual) |
 | Saimiri sciureus | Krubitzer_Kaas_1990 | 87-25 | DL |   96.030 | 1 |  -1.015 | 0.044980 | all regions of this specimen offset from species medians in the same direction (check calibration; may also be an unusually small/large individual) |
-| Saimiri sciureus | Krubitzer_Kaas_1990 | 87-25 | DM |   23.720 | 1 |  -6.228 | 0.011110 | all regions of this specimen offset from species medians in the same direction (check calibration; may also be an unusually small/large individual) |
+| Saimiri sciureus | Krubitzer_Kaas_1990 | 87-25 | DM |   23.720 | 1 |  -2.394 | 0.011110 | all regions of this specimen offset from species medians in the same direction (check calibration; may also be an unusually small/large individual) |
 | Saimiri sciureus | Krubitzer_Kaas_1990 | 87-25 | FEF |    7.380 | 1 |  -1.820 | 0.003456 | all regions of this specimen offset from species medians in the same direction (check calibration; may also be an unusually small/large individual) |
 | Saimiri sciureus | Krubitzer_Kaas_1990 | 87-25 | FST |   37.790 | 1 |  -5.185 | 0.017700 | robust z beyond 3.0 and >= 2.0-fold from species x region median; all regions of this specimen offset from species medians in the same direction (check calibration; may also be an unusually small/large individual) |
 | Saimiri sciureus | Krubitzer_Kaas_1990 | 87-25 | FV |    5.388 | 1 |  -1.353 | 0.002524 | all regions of this specimen offset from species medians in the same direction (check calibration; may also be an unusually small/large individual) |
@@ -75,7 +75,7 @@ Only tier `A_*` rows enter per-specimen averages. `C_incomplete_or_section` rows
 | Saimiri sciureus | Krubitzer_Kaas_1990 | 87-25 | SII |    7.798 | 1 |  -1.842 | 0.003652 | all regions of this specimen offset from species medians in the same direction (check calibration; may also be an unusually small/large individual) |
 | Saimiri sciureus | Krubitzer_Kaas_1990 | 87-25 | Neocortex outline | 2135.000 | 1 |  -3.678 |  | all regions of this specimen offset from species medians in the same direction (check calibration; may also be an unusually small/large individual) |
 | Saimiri sciureus | Krubitzer_Kaas_1993 | 92-8 | 17 | 2202.000 | 1 |  30.540 | 0.367600 | robust z beyond 3.0 and >= 2.0-fold from species x region median; all regions of this specimen offset from species medians in the same direction (check calibration; may also be an unusually small/large individual) |
-| Saimiri sciureus | Krubitzer_Kaas_1993 | 92-8 | DM |  112.100 | 1 |  12.460 | 0.018720 | robust z beyond 3.0 and >= 2.0-fold from species x region median; all regions of this specimen offset from species medians in the same direction (check calibration; may also be an unusually small/large individual) |
+| Saimiri sciureus | Krubitzer_Kaas_1993 | 92-8 | DM |  112.100 | 1 |   4.787 | 0.018720 | robust z beyond 3.0 and >= 2.0-fold from species x region median; all regions of this specimen offset from species medians in the same direction (check calibration; may also be an unusually small/large individual) |
 | Saimiri sciureus | Krubitzer_Kaas_1993 | 92-8 | MT |  129.800 | 1 |   4.040 | 0.021670 | robust z beyond 3.0 and >= 2.0-fold from species x region median; all regions of this specimen offset from species medians in the same direction (check calibration; may also be an unusually small/large individual) |
 | Saimiri sciureus | Krubitzer_Kaas_1993 | 92-8 | Neocortex outline | 5989.000 | 1 |   7.322 |  | all regions of this specimen offset from species medians in the same direction (check calibration; may also be an unusually small/large individual) |
 
@@ -85,7 +85,7 @@ Checks: robust z on log10 area within species x region_group (>= 3 specimens; al
 
 | species | label | n_specimens | n_papers | mean_mm2 | sd_mm2 | min_mm2 | max_mm2 | n_flagged_excluded |
 |---|---|---|---|---|---|---|---|---|
-| Aotus trivirgatus | DM | 6 | 2 |  23.820 |  |  23.820 |  23.820 | 1 |
+| Aotus trivirgatus | DM | 7 | 3 |  22.410 |  |  22.410 |  22.410 | 1 |
 | Aotus trivirgatus | 17 | 5 | 2 | 219.000 |  | 219.000 | 219.000 | 0 |
 | Aotus trivirgatus | FST | 5 | 2 |  26.010 |  |  26.010 |  26.010 | 0 |
 | Aotus trivirgatus | MT | 5 | 2 |  29.150 |  |  29.150 |  29.150 | 0 |
@@ -117,9 +117,9 @@ Checks: robust z on log10 area within species x region_group (>= 3 specimens; al
 | Cebus apella (source taxonomy) | V1 | 6 | 1 | 792.700 |  | 792.700 | 792.700 | 0 |
 | Dasyurus hallucatus | C | 2 | 1 |   2.896 |  |   2.896 |   2.896 | 0 |
 | Dasyurus hallucatus | SII/PV | 2 | 1 |   3.055 |  |   3.055 |   3.055 | 0 |
-| Didelphis virginiana | PV | 9 | 1 |   9.640 |  |   9.640 |   9.640 | 0 |
+| Didelphis virginiana | PV | 9 | 1 |   9.614 |  |   9.614 |   9.614 | 0 |
 | Didelphis virginiana | S1 | 9 | 1 |  20.990 |  |  20.990 |  20.990 | 0 |
-| Didelphis virginiana | S2 | 9 | 1 |  14.150 |  |  14.150 |  14.150 | 0 |
+| Didelphis virginiana | S2 | 9 | 1 |  14.160 |  |  14.160 |  14.160 | 0 |
 | Didelphis virginiana | Aud | 2 | 1 |   8.934 |  |   8.934 |   8.934 | 0 |
 | Didelphis virginiana | CT | 2 | 1 |   6.757 |  |   6.757 |   6.757 | 0 |
 | Didelphis virginiana | SC | 2 | 1 |  18.630 |  |  18.630 |  18.630 | 0 |
@@ -155,6 +155,7 @@ Checks: robust z on log10 area within species x region_group (>= 3 specimens; al
 | Pteropus poliocephalus | FV | 3 | 1 |   2.487 |  |   2.487 |   2.487 | 0 |
 | Pteropus poliocephalus | SII | 3 | 1 |   6.694 |  |   6.694 |   6.694 | 0 |
 | Saguinus fuscicollis | MT | 2 | 1 |  15.580 |  |  15.580 |  15.580 | 0 |
+| Saimiri sciureus | DM | 6 | 2 |  43.070 |  |  43.070 |  43.070 | 2 |
 | Saimiri sciureus | MT | 5 | 1 |  37.120 |  |  37.120 |  37.120 | 2 |
 | Saimiri sciureus | 1 | 4 | 1 |  29.230 |  |  29.230 |  29.230 | 1 |
 | Saimiri sciureus | 17 | 4 | 1 | 591.200 |  | 591.200 | 591.200 | 2 |
@@ -164,7 +165,6 @@ Checks: robust z on log10 area within species x region_group (>= 3 specimens; al
 | Saimiri sciureus | 3b | 4 | 1 |  50.630 |  |  50.630 |  50.630 | 1 |
 | Saimiri sciureus | DI | 4 | 1 |  30.600 |  |  30.600 |  30.600 | 1 |
 | Saimiri sciureus | DL | 4 | 1 | 127.400 |  | 127.400 | 127.400 | 1 |
-| Saimiri sciureus | DM | 4 | 1 |  40.050 |  |  40.050 |  40.050 | 2 |
 | Saimiri sciureus | FEF | 4 | 1 |  18.300 |  |  18.300 |  18.300 | 1 |
 | Saimiri sciureus | FST | 4 | 1 |  84.270 |  |  84.270 |  84.270 | 1 |
 | Saimiri sciureus | MST | 4 | 1 |  33.820 |  |  33.820 |  33.820 | 1 |
@@ -182,8 +182,8 @@ Checks: robust z on log10 area within species x region_group (>= 3 specimens; al
 | Sciurus carolinensis | UZ | 2 | 1 |   1.857 |  |   1.857 |   1.857 | 0 |
 | Tachyglossus aculeatus | A | 3 | 1 |  10.590 |  |  10.590 |  10.590 | 0 |
 | Tupaia belangeri | TI | 4 | 1 |   6.555 |  |   6.555 |   6.555 | 0 |
-| Tupaia belangeri | A | 3 | 1 |  13.670 |  |  13.670 |  13.670 | 0 |
-| Tupaia belangeri | V1 | 3 | 1 |  74.580 |  |  74.580 |  74.580 | 0 |
+| Tupaia belangeri | A | 3 | 1 |  13.980 |  |  13.980 |  13.980 | 0 |
+| Tupaia belangeri | V1 | 3 | 1 |  73.990 |  |  73.990 |  73.990 | 0 |
 | Tupaia belangeri | S | 2 | 1 |  30.280 |  |  30.280 |  30.280 | 0 |
 
 ## Figures

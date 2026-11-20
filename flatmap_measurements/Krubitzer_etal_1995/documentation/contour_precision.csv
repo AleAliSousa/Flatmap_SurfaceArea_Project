@@ -7,7 +7,7 @@ fig04,SI shield-bill mapped island,partial,374,4,enlarged perimeter reviewed; sh
 fig04,A,approx_complete,134,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
 fig05,A,approx_complete,126,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
 fig06_local,A,complete,103,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
-fig07_local,SI bill mapped island,partial,190,4,enlarged perimeter reviewed; short symbol continuations documented,Manually identified anatomical envelope with regularized stroke-center following,pending
+fig07_local,SI bill mapped island,partial,176,4,enlarged perimeter reviewed; short symbol continuations documented,Source-ink shortest path within the prior contour corridor on the left arc; enlarged source overlay checked. Other perimeter segments retained.,pending
 fig07_local,A,complete,77,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
 fig08,V,approx_complete,112,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
 fig12A,A,approx_complete,106,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
@@ -17,6 +17,6 @@ fig14,A,complete,195,4,enlarged perimeter reviewed; short symbol continuations d
 fig15,A,complete,190,4,enlarged perimeter reviewed; short symbol continuations documented,Regularized source-envelope following; pixel staircases suppressed before fitting to continuous printed stroke,pending
 fig16_local,A,complete,110,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
 fig17_local,A,complete,84,4,enlarged perimeter reviewed; short symbol continuations documented,"Dense closed source compartment contour, visually reviewed",pending
-fig18,V,approximate_complete,173,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig18,V,approximate_complete,171,4,enlarged perimeter reviewed; short symbol continuations documented,Source-ink shortest-path refinement within the previous contour corridor for two continuous printed arcs; enlarged source overlay checked. Intervening uncertain spade-cluster segment retained.,pending
 fig19,V,approximate,941,4,enlarged perimeter reviewed; short symbol continuations documented,manually inspected anatomical guides with dense interpolating curve,pending
 fig23,A,complete,91,4,enlarged perimeter reviewed; short symbol continuations documented,Manually identified anatomical envelope with regularized stroke-center following,pending

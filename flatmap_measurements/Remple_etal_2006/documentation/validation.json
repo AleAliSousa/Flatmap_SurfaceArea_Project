@@ -19,7 +19,7 @@
       "map_id": "fig07B_320_S1_subregions",
       "field_a": "S1_foot",
       "field_b": "S1_forelimb",
-      "overlap_pixels": 10
+      "overlap_pixels": 12
     },
     {
       "map_id": "fig07B_320_S1_subregions",

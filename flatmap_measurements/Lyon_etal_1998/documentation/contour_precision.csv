@@ -1,25 +1,25 @@
 map_id,label,extent,vertices,source_render_pixels_per_pdf_point,source_visual_check,tracing_method,anatomical_certification
 fig04_A,S (lateral component),partial,74,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",pending
 fig04_A,TI,complete,46,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",pending
-fig04_A,A,complete,76,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",pending
+fig04_A,A,complete,63,4,enlarged perimeter reviewed; short symbol continuations documented,"Source-ink shortest path along the continuous left border within the prior contour corridor, then 1-pixel simplification and enlarged source overlay review.",pending
 fig07_main,TI,complete,53,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",pending
 fig07_main,A,complete,57,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",pending
 fig08_A,S,complete,101,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",pending
 fig08_B,S,complete,99,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",pending
-fig08_B,V1,complete,303,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig08_B,V1,complete,243,4,enlarged perimeter reviewed; short symbol continuations documented,"Source-ink shortest path along the continuous printed V1/V2 separator within the prior corridor, 1-pixel simplification, enlarged source overlay check. V2 remains unmeasured because its other boundaries are open.",pending
 fig09_B,A,complete,59,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",pending
 fig09_C,S,complete,109,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",pending
 fig09_C,V1,complete,212,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
 fig09_C,V2,complete,194,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
-fig09_D,A,complete,77,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",pending
+fig09_D,A,complete,76,4,enlarged perimeter reviewed; short symbol continuations documented,"Connected printed contour isolated, filled and simplified at 0.75 source pixel; enlarged source overlay checked. Boundary follows the outer source stroke within approximately one pixel.",pending
 fig10_A,S (lateral component),partial,63,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",pending
 fig10_A,S (medial component),partial,60,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",pending
 fig10_A,TI,complete,56,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",pending
 fig10_A,V1,complete,147,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
 fig10_B,TI,complete,50,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",pending
 fig11_A,S,complete,116,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",pending
-fig11_A,V1,complete,226,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
-fig11_A,V2,approximate,223,4,enlarged perimeter reviewed; short symbol continuations documented,source-guided dense contour with visual review,pending
+fig11_A,V1,complete,130,4,enlarged perimeter reviewed; short symbol continuations documented,"Source-ink shortest paths for the two continuous diagonal printed borders, 1-pixel simplification, enlarged source overlay check. V1/V2 share one canonical path.",pending
+fig11_A,V2,approximate,73,4,enlarged perimeter reviewed; short symbol continuations documented,"Source-ink shortest paths for the two continuous diagonal printed borders, 1-pixel simplification, enlarged source overlay check. V1/V2 share one canonical path.",pending
 fig12_A,S (lateral component),partial,84,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",pending
 fig12_A,TI,complete,54,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",pending
 fig13_A,S (lateral component),partial,61,4,enlarged perimeter reviewed; short symbol continuations documented,"Manually identified source envelope, dense local stroke-center fitting and enlarged visual review",pending

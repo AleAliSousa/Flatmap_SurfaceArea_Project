@@ -1,0 +1,515 @@
+{
+  "map_id": "fig05A_97_75",
+  "figure": 5,
+  "panel": "A",
+  "pdf_page": 8,
+  "printed_page": "62",
+  "species": "Cryptotis parva",
+  "specimen": "97-75",
+  "hemisphere": "side not reported",
+  "view_type": "case_map_from_flattened_section",
+  "hemisphere_relation": "one case view; other panels of same figure linked",
+  "linked_main_map": "",
+  "repeat_of": null,
+  "relationship_note": "Panel A is the individual case map; other panels in the same numbered figure are receptive-field diagrams or source histology, not additional animals.",
+  "specimen_link_status": "case number from figure",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 2.5,
+  "crop_xyxy": [
+    300,
+    180,
+    1180,
+    750
+  ],
+  "scale_endpoints_px": [
+    [
+      149,
+      221
+    ],
+    [
+      292,
+      221
+    ]
+  ],
+  "scale_length_mm": 1.0,
+  "scale_note": "Local printed 1 mm scale bar in this figure; endpoints measured directly on the 2.5 px/point PDF render.",
+  "scale_reference_map": null,
+  "supersample": 4,
+  "outline": null,
+  "rois": [
+    {
+      "label": "Somatosensory (S1+S2)",
+      "polygons": [
+        [
+          [
+            550,
+            102
+          ],
+          [
+            535,
+            103
+          ],
+          [
+            516,
+            110
+          ],
+          [
+            501,
+            121
+          ],
+          [
+            498,
+            128
+          ],
+          [
+            481,
+            146
+          ],
+          [
+            477,
+            154
+          ],
+          [
+            477,
+            161
+          ],
+          [
+            470,
+            169
+          ],
+          [
+            470,
+            178
+          ],
+          [
+            465,
+            182
+          ],
+          [
+            459,
+            199
+          ],
+          [
+            450,
+            244
+          ],
+          [
+            410,
+            336
+          ],
+          [
+            404,
+            362
+          ],
+          [
+            404,
+            379
+          ],
+          [
+            408,
+            390
+          ],
+          [
+            426,
+            408
+          ],
+          [
+            435,
+            410
+          ],
+          [
+            441,
+            419
+          ],
+          [
+            465,
+            430
+          ],
+          [
+            474,
+            429
+          ],
+          [
+            489,
+            435
+          ],
+          [
+            525,
+            435
+          ],
+          [
+            532,
+            431
+          ],
+          [
+            566,
+            429
+          ],
+          [
+            574,
+            420
+          ],
+          [
+            573,
+            414
+          ],
+          [
+            585,
+            409
+          ],
+          [
+            590,
+            404
+          ],
+          [
+            588,
+            397
+          ],
+          [
+            591,
+            393
+          ],
+          [
+            598,
+            396
+          ],
+          [
+            606,
+            393
+          ],
+          [
+            609,
+            387
+          ],
+          [
+            609,
+            378
+          ],
+          [
+            620,
+            365
+          ],
+          [
+            655,
+            347
+          ],
+          [
+            661,
+            335
+          ],
+          [
+            670,
+            334
+          ],
+          [
+            674,
+            337
+          ],
+          [
+            672,
+            330
+          ],
+          [
+            674,
+            327
+          ],
+          [
+            683,
+            323
+          ],
+          [
+            692,
+            330
+          ],
+          [
+            698,
+            326
+          ],
+          [
+            698,
+            319
+          ],
+          [
+            693,
+            311
+          ],
+          [
+            682,
+            312
+          ],
+          [
+            678,
+            309
+          ],
+          [
+            672,
+            277
+          ],
+          [
+            667,
+            267
+          ],
+          [
+            656,
+            256
+          ],
+          [
+            656,
+            251
+          ],
+          [
+            642,
+            245
+          ],
+          [
+            633,
+            234
+          ],
+          [
+            623,
+            233
+          ],
+          [
+            616,
+            221
+          ],
+          [
+            606,
+            213
+          ],
+          [
+            595,
+            198
+          ],
+          [
+            583,
+            167
+          ],
+          [
+            584,
+            153
+          ],
+          [
+            577,
+            125
+          ],
+          [
+            572,
+            115
+          ],
+          [
+            564,
+            107
+          ]
+        ]
+      ],
+      "extent": "drawn_combined_somatosensory_envelope",
+      "boundary_note": "Envelope of the light-gray somatosensory region. Internal dots, labels, body-part partitions and approximate S1/S2 lines are annotations or subdivisions, not holes in this combined envelope. Where a dark neighboring field meets the light-gray envelope, the shared border was reconciled to remove raster overlap while retaining the printed white separator."
+    },
+    {
+      "label": "V1",
+      "polygons": [
+        [
+          [
+            631,
+            198
+          ],
+          [
+            625,
+            210
+          ],
+          [
+            625,
+            221
+          ],
+          [
+            632,
+            230
+          ],
+          [
+            651,
+            240
+          ],
+          [
+            656,
+            247
+          ],
+          [
+            699,
+            264
+          ],
+          [
+            722,
+            264
+          ],
+          [
+            731,
+            257
+          ],
+          [
+            732,
+            244
+          ],
+          [
+            728,
+            234
+          ],
+          [
+            708,
+            213
+          ],
+          [
+            694,
+            203
+          ],
+          [
+            661,
+            191
+          ],
+          [
+            644,
+            191
+          ]
+        ]
+      ],
+      "extent": "drawn_field_envelope",
+      "boundary_note": "Complete gray-shaded field envelope in the source case drawing. Black recording dots, stars, labels and leaders inside or near it are annotations, not holes or anatomical borders."
+    },
+    {
+      "label": "A1",
+      "polygons": [
+        [
+          [
+            706,
+            347
+          ],
+          [
+            692,
+            343
+          ],
+          [
+            677,
+            346
+          ],
+          [
+            670,
+            337
+          ],
+          [
+            663,
+            337
+          ],
+          [
+            658,
+            348
+          ],
+          [
+            623,
+            368
+          ],
+          [
+            612,
+            379
+          ],
+          [
+            612,
+            384
+          ],
+          [
+            621,
+            389
+          ],
+          [
+            623,
+            394
+          ],
+          [
+            619,
+            397
+          ],
+          [
+            610,
+            395
+          ],
+          [
+            604,
+            399
+          ],
+          [
+            605,
+            418
+          ],
+          [
+            629,
+            432
+          ],
+          [
+            642,
+            431
+          ],
+          [
+            656,
+            425
+          ],
+          [
+            687,
+            401
+          ],
+          [
+            711,
+            376
+          ],
+          [
+            715,
+            367
+          ],
+          [
+            715,
+            359
+          ]
+        ]
+      ],
+      "extent": "drawn_field_envelope",
+      "boundary_note": "Complete gray-shaded field envelope in the source case drawing. Black recording dots, stars, labels and leaders inside or near it are annotations, not holes or anatomical borders."
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "S1",
+      "status": "not_measurable",
+      "reason": "Only a rough or internal S1/S2 subdivision is shown; this pass measures their combined shaded envelope and does not invent separate complete borders."
+    },
+    {
+      "label": "S2",
+      "status": "not_measurable",
+      "reason": "Only a rough or internal S1/S2 subdivision is shown; this pass measures their combined shaded envelope and does not invent separate complete borders."
+    },
+    {
+      "label": "whole_neocortex",
+      "status": "not_measurable",
+      "reason": "The outer drawing includes/openly borders piriform or non-neocortical tissue, and no independently closed whole-neocortex outline is established in this panel."
+    },
+    {
+      "label": "Nose",
+      "status": "not_yet_digitized",
+      "reason": "Closed central island is nested in combined somatosensory envelope and needs parent-child area accounting."
+    },
+    {
+      "label": "Mouth",
+      "status": "not_yet_digitized",
+      "reason": "Internal mouth compartment is nested in combined somatosensory envelope."
+    },
+    {
+      "label": "Trunk/Limbs",
+      "status": "not_measurable",
+      "reason": "Caudal trunk/limb indication is not bounded as an independent complete territory."
+    },
+    {
+      "label": "Vibrissae representations",
+      "status": "not_measurable",
+      "reason": "Two subrepresentations are inferred from sites; no full separate printed envelopes."
+    }
+  ],
+  "review_note": "Source-shaded case envelope(s) traced and visually compared to the printed boundaries; measurements remain provisional, and no whole-neocortex denominator is inferred."
+}

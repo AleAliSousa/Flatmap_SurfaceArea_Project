@@ -1,0 +1,69 @@
+{
+  "hemisphere": "side not reported",
+  "view_type": "single_tangential_section",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 2.5,
+  "supersample": 4,
+  "outline": null,
+  "rois": [],
+  "map_id": "fig12_scinereus_source",
+  "figure": 12,
+  "panel": "",
+  "pdf_page": 15,
+  "printed_page": "69",
+  "species": "Sorex cinereus",
+  "specimen": "Fig. 12 specimen; identifier not reported",
+  "hemisphere_relation": "second specimen relative to Fig. 11",
+  "linked_main_map": "",
+  "repeat_of": null,
+  "relationship_note": "The text identifies Figure 12 as a second Sorex cinereus specimen; not pooled with adjacent Figure 11 sections. This is one CO tangential section.",
+  "specimen_link_status": "second S. cinereus specimen in paper; case number and side not reported",
+  "crop_xyxy": [
+    155,
+    190,
+    1370,
+    1165
+  ],
+  "scale_endpoints_px": [
+    [
+      22,
+      948
+    ],
+    [
+      285,
+      948
+    ]
+  ],
+  "scale_length_mm": 0.5,
+  "scale_note": "Printed 500 \u00b5m bar in Figure 12; 263 px between visible endpoints on the 2.5 px/point PDF render.",
+  "scale_reference_map": null,
+  "unmeasured": [
+    {
+      "label": "S1",
+      "status": "not_measurable",
+      "reason": "CO-staining is patchy and fades into adjoining tissue; the dashed line is only a presumptive S1/S2 border, not a complete perimeter."
+    },
+    {
+      "label": "S2",
+      "status": "not_measurable",
+      "reason": "The dark S2 territory has a diffuse edge and merges with the A1 crescent; a separate complete boundary is not supported by this scan."
+    },
+    {
+      "label": "V1",
+      "status": "not_measurable",
+      "reason": "A CO-dark V1 oval is visible, but its lateral and medial intensity transition is broad/continuous with nearby dark cortex in this scan; no arbitrary complete contour was placed."
+    },
+    {
+      "label": "A1",
+      "status": "not_measurable",
+      "reason": "The A1 region is labeled but its inner border against S2 is a gradual stain transition rather than a closed printed line."
+    },
+    {
+      "label": "whole_neocortex",
+      "status": "not_measurable",
+      "reason": "A single section and its clipped cortical extent do not establish an independent complete neocortex outline."
+    }
+  ],
+  "review_note": "Source-only CO section with a local 500 \u00b5m bar. Field identities are visible, but their diffuse borders are retained as NA pending an anatomist-guided contour definition."
+}

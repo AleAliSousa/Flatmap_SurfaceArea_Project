@@ -13,7 +13,7 @@
       "map_id": "fig11_A",
       "field_a": "V1",
       "field_b": "V2",
-      "overlap_pixels": 206
+      "overlap_pixels": 235
     }
   ],
   "native_imagej_roundtrip": "passed",

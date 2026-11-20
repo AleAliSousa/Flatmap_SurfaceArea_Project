@@ -1,0 +1,420 @@
+{
+  "map_id": "fig04A_97_47",
+  "figure": 4,
+  "panel": "A",
+  "pdf_page": 7,
+  "printed_page": "61",
+  "species": "Blarina brevicauda",
+  "specimen": "97-47",
+  "hemisphere": "side not reported",
+  "view_type": "case_map_from_flattened_section",
+  "hemisphere_relation": "one case view; other panels of same figure linked",
+  "linked_main_map": "",
+  "repeat_of": null,
+  "relationship_note": "Panel A is the individual case map; other panels in the same numbered figure are receptive-field diagrams or source histology, not additional animals.",
+  "specimen_link_status": "case number from figure",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 2.5,
+  "crop_xyxy": [
+    300,
+    180,
+    1200,
+    720
+  ],
+  "scale_endpoints_px": [
+    [
+      147,
+      264
+    ],
+    [
+      240,
+      264
+    ]
+  ],
+  "scale_length_mm": 1.0,
+  "scale_note": "Local printed 1 mm scale bar in this figure; endpoints measured directly on the 2.5 px/point PDF render.",
+  "scale_reference_map": null,
+  "supersample": 4,
+  "outline": null,
+  "rois": [
+    {
+      "label": "Somatosensory (S1+S2)",
+      "polygons": [
+        [
+          [
+            482,
+            54
+          ],
+          [
+            474,
+            57
+          ],
+          [
+            467,
+            65
+          ],
+          [
+            466,
+            84
+          ],
+          [
+            471,
+            102
+          ],
+          [
+            478,
+            107
+          ],
+          [
+            478,
+            112
+          ],
+          [
+            464,
+            121
+          ],
+          [
+            462,
+            127
+          ],
+          [
+            479,
+            131
+          ],
+          [
+            481,
+            138
+          ],
+          [
+            489,
+            146
+          ],
+          [
+            466,
+            166
+          ],
+          [
+            466,
+            173
+          ],
+          [
+            439,
+            212
+          ],
+          [
+            439,
+            219
+          ],
+          [
+            426,
+            237
+          ],
+          [
+            422,
+            262
+          ],
+          [
+            424,
+            283
+          ],
+          [
+            421,
+            286
+          ],
+          [
+            423,
+            294
+          ],
+          [
+            419,
+            367
+          ],
+          [
+            421,
+            400
+          ],
+          [
+            428,
+            424
+          ],
+          [
+            449,
+            445
+          ],
+          [
+            472,
+            457
+          ],
+          [
+            506,
+            469
+          ],
+          [
+            517,
+            468
+          ],
+          [
+            523,
+            471
+          ],
+          [
+            533,
+            468
+          ],
+          [
+            544,
+            469
+          ],
+          [
+            562,
+            462
+          ],
+          [
+            577,
+            452
+          ],
+          [
+            599,
+            431
+          ],
+          [
+            614,
+            409
+          ],
+          [
+            625,
+            401
+          ],
+          [
+            624,
+            393
+          ],
+          [
+            634,
+            379
+          ],
+          [
+            634,
+            375
+          ],
+          [
+            629,
+            371
+          ],
+          [
+            634,
+            364
+          ],
+          [
+            634,
+            358
+          ],
+          [
+            638,
+            355
+          ],
+          [
+            648,
+            356
+          ],
+          [
+            656,
+            345
+          ],
+          [
+            664,
+            341
+          ],
+          [
+            667,
+            334
+          ],
+          [
+            676,
+            330
+          ],
+          [
+            676,
+            326
+          ],
+          [
+            667,
+            322
+          ],
+          [
+            665,
+            318
+          ],
+          [
+            670,
+            303
+          ],
+          [
+            676,
+            298
+          ],
+          [
+            676,
+            283
+          ],
+          [
+            685,
+            260
+          ],
+          [
+            695,
+            254
+          ],
+          [
+            697,
+            218
+          ],
+          [
+            681,
+            210
+          ],
+          [
+            671,
+            213
+          ],
+          [
+            669,
+            209
+          ],
+          [
+            676,
+            204
+          ],
+          [
+            674,
+            198
+          ],
+          [
+            666,
+            195
+          ],
+          [
+            659,
+            199
+          ],
+          [
+            656,
+            198
+          ],
+          [
+            652,
+            181
+          ],
+          [
+            630,
+            167
+          ],
+          [
+            624,
+            161
+          ],
+          [
+            622,
+            154
+          ],
+          [
+            606,
+            150
+          ],
+          [
+            594,
+            132
+          ],
+          [
+            583,
+            131
+          ],
+          [
+            581,
+            129
+          ],
+          [
+            585,
+            123
+          ],
+          [
+            583,
+            114
+          ],
+          [
+            553,
+            75
+          ],
+          [
+            535,
+            62
+          ],
+          [
+            511,
+            53
+          ],
+          [
+            502,
+            57
+          ]
+        ]
+      ],
+      "extent": "drawn_combined_somatosensory_envelope",
+      "boundary_note": "Envelope of the light-gray somatosensory region. Internal dots, labels, body-part partitions and approximate S1/S2 lines are annotations or subdivisions, not holes in this combined envelope."
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "V1",
+      "status": "not_measurable",
+      "reason": "This field is not independently mapped or shaded in this panel; no envelope can be recovered from the recording symbols."
+    },
+    {
+      "label": "A1",
+      "status": "not_measurable",
+      "reason": "This field is not independently mapped or shaded in this panel; no envelope can be recovered from the recording symbols."
+    },
+    {
+      "label": "S1",
+      "status": "not_measurable",
+      "reason": "Only a rough or internal S1/S2 subdivision is shown; this pass measures their combined shaded envelope and does not invent separate complete borders."
+    },
+    {
+      "label": "S2",
+      "status": "not_measurable",
+      "reason": "Only a rough or internal S1/S2 subdivision is shown; this pass measures their combined shaded envelope and does not invent separate complete borders."
+    },
+    {
+      "label": "whole_neocortex",
+      "status": "not_measurable",
+      "reason": "The outer drawing includes/openly borders piriform or non-neocortical tissue, and no independently closed whole-neocortex outline is established in this panel."
+    },
+    {
+      "label": "Nose",
+      "status": "not_yet_digitized",
+      "reason": "Small central subregion is nested inside the saved combined somatosensory envelope."
+    },
+    {
+      "label": "Mouth",
+      "status": "not_yet_digitized",
+      "reason": "Internal mouth compartment is nested inside the saved combined somatosensory envelope."
+    },
+    {
+      "label": "Trunk/Limbs medial",
+      "status": "not_yet_digitized",
+      "reason": "Dorsal compartment is drawn but nested in the combined somatosensory envelope."
+    },
+    {
+      "label": "Trunk/Limbs caudal",
+      "status": "not_measurable",
+      "reason": "Caudal representation is annotated among recording sites without a complete independent field perimeter."
+    },
+    {
+      "label": "Vibrissae representations",
+      "status": "not_measurable",
+      "reason": "Rough internal S1/S2 division does not complete separate vibrissae contours."
+    }
+  ],
+  "review_note": "Source-shaded case envelope(s) traced and visually compared to the printed boundaries; measurements remain provisional, and no whole-neocortex denominator is inferred."
+}

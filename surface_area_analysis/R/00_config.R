@@ -55,7 +55,7 @@ cfg <- list(
 # View types where one view is a histological/tangential section, zoom or detail:
 # a single section does not establish the full area of a field.
 section_view_types <- c(
-  "histological_section", "tangential_section", "tangential_section_detail",
+  "histological_section", "tangential_section", "single_tangential_section", "tangential_section_detail",
   "repeated_laminar_reconstruction", "section_zoom_reconstruction",
   "semi_flattened_callosal_section", "histological_detail", "histological_zoom",
   "review_histological_panel"

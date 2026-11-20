@@ -1,0 +1,16 @@
+{
+  "processed_views": 12,
+  "measured_fields": 24,
+  "unmeasured_fields": 64,
+  "overlaps": [
+    {
+      "map_id": "fig06A_97_79",
+      "field_a": "Somatosensory (S1+S2)",
+      "field_b": "V1",
+      "overlap_pixels": 6
+    }
+  ],
+  "native_imagej_roundtrip": "passed",
+  "anatomical_review": "provisional; pending user review",
+  "reference_comparison": "not_run; core workflow does not require reference data"
+}

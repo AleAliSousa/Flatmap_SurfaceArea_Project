@@ -1,0 +1,60 @@
+{
+  "hemisphere": "side not reported",
+  "view_type": "single_tangential_section",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 2.5,
+  "supersample": 4,
+  "outline": null,
+  "rois": [],
+  "map_id": "fig11A_scinereus_source",
+  "figure": 11,
+  "panel": "A",
+  "pdf_page": 14,
+  "printed_page": "68",
+  "species": "Sorex cinereus",
+  "specimen": "Fig. 11 specimen; identifier not reported",
+  "hemisphere_relation": "Fig. 11A and B are adjacent sections from one hemisphere",
+  "linked_main_map": "fig11B_scinereus_V1",
+  "repeat_of": null,
+  "relationship_note": "Adjacent section from the same hemisphere as Fig. 11B; no additional animal. The printed 1 mm bar lies under panel B; no panel-A metric scale is assumed.",
+  "specimen_link_status": "within-paper Fig. 11 hemisphere identified; case number and side not reported",
+  "crop_xyxy": [
+    370,
+    200,
+    1280,
+    980
+  ],
+  "scale_endpoints_px": [],
+  "scale_length_mm": null,
+  "scale_note": "No scale printed in panel A itself; panel B bar not transferred without explicit same-magnification evidence.",
+  "scale_reference_map": null,
+  "unmeasured": [
+    {
+      "label": "S1",
+      "status": "not_measurable",
+      "reason": "The patchy CO-dark S1 region merges gradually into neighboring tissue and has no complete printed contour at this section depth."
+    },
+    {
+      "label": "S2",
+      "status": "not_measurable",
+      "reason": "The S2 CO-dark patch lacks a complete distinct perimeter from the adjacent S1/A1 tissue in this scan."
+    },
+    {
+      "label": "A1",
+      "status": "not_measurable",
+      "reason": "The dark crescent is identifiable by caption and leader but its inner edge merges with S2 staining; no defensible complete A1 contour was placed."
+    },
+    {
+      "label": "V1",
+      "status": "not_measurable",
+      "reason": "V1 is shown in adjacent section 11B, not delineated in 11A."
+    },
+    {
+      "label": "whole_neocortex",
+      "status": "not_measurable",
+      "reason": "One tangential section with cropped/incomplete tissue cannot serve as independent whole-neocortex denominator."
+    }
+  ],
+  "review_note": "Source-only neighboring section. Labels identify fields, but this scan does not support separate complete S1, S2 or A1 envelopes at the precision needed for polygon area."
+}

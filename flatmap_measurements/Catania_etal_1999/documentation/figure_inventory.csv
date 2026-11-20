@@ -1,0 +1,24 @@
+pdf_page,printed_page,figure,panel,map_id,interpretation,processing_status,next_action
+2,56,1,A-B,,Shrew and brain photographs; penny does not calibrate cortical area,excluded_nonflatmap,None
+5,59,2,whole,,Illustrative summary of shrew cortical organization across species,assessed_not_individual_case,Retain as schematic only; do not count as an animal
+6,60,3,A,fig03A_97_81,Blarina brevicauda case 97-81 flattened-section drawing with shaded sensory fields,traced_calibrated,Inspect source versus ROI and review separate S1/S2 only if their rough division becomes defensible
+6,60,3,B,,Body receptive-field sketches associated with case 97-81,excluded_nonflatmap,Do not interpret body sketches as cortical compartments
+7,61,4,A,fig04A_97_47,Blarina brevicauda case 97-47 drawing; somatosensory envelope only,traced_calibrated,V1/A1 are not mapped here; no separate complete S1/S2 boundary
+7,61,4,B,,Body receptive-field sketches associated with case 97-47,excluded_nonflatmap,Do not interpret body sketches as cortical compartments
+8,62,5,A,fig05A_97_75,Cryptotis parva case 97-75 drawing with shaded sensory fields,traced_calibrated,Retain dashed/partial internal subdivisions as NA
+8,62,5,B,,Body receptive-field sketches associated with case 97-75,excluded_nonflatmap,Do not interpret body sketches as cortical compartments
+9,63,6,A,fig06A_97_79,Cryptotis parva case 97-79 drawing with shaded sensory fields,traced_calibrated,Retain dashed/partial internal subdivisions as NA
+9,63,6,B,,Body receptive-field sketches associated with case 97-79,excluded_nonflatmap,Do not interpret body sketches as cortical compartments
+10,64,7,A,fig07A_97_80,Cryptotis parva case 97-80 drawing with shaded sensory fields,traced_calibrated,Retain unobserved subdivisions as NA
+10,64,7,B,,Body receptive-field sketches associated with case 97-80,excluded_nonflatmap,Do not interpret body sketches as cortical compartments
+11,65,8,whole,fig08_97_77,Cryptotis parva case 97-77 visual response map; one shaded sampled oval,traced_calibrated,V1 is a sampled visual response envelope; other sensory fields not shown
+12,66,9,A,fig09A_97_44,Cryptotis parva case 97-44 recording map with shaded sensory fields,traced_calibrated,Keep adjacent histology and this drawing linked to one case
+12,66,9,B,,Body receptive-field sketches associated with case 97-44,excluded_nonflatmap,Do not interpret body sketches as cortical compartments
+12,66,9,C,,CO tangential section of the same case as Figure 9A; no local bar and diffuse stains,assessed_not_additional_case,Use for cross-check only; no independent calibrated case or closed area added
+13,67,10,A,fig10A_97_42,Sorex palustris case 97-42 drawing; somatosensory plus CO-inferred visual/auditory envelopes,traced_calibrated,Visual and auditory fields were not functionally mapped in this case; keep provenance explicit
+13,67,10,B,,Body receptive-field sketches associated with case 97-42,excluded_nonflatmap,Do not interpret body sketches as cortical compartments
+14,68,11,A,fig11A_scinereus_source,Sorex cinereus CO tangential section from same hemisphere as 11B; diffuse S1/S2/A1 stains,source_only_explicit_NA,Panel-specific scale not printed; anatomist review needed for closed borders
+14,68,11,B,fig11B_scinereus_V1,Adjacent CO section from same hemisphere; V1 dark oval with local 1 mm bar,traced_calibrated_pilot,S1/S2/A1 remain NA pending a defensible source contour
+15,69,12,whole,fig12_scinereus_source,CO tangential section from second Sorex cinereus specimen; 500 µm bar,source_only_explicit_NA,Diffuse V1/A1 and S1/S2 transitions require a reproducible border rule before area measurement
+16,70,13,whole,fig13_slongirostris_reconstruction,Sorex longirostris sensory reconstruction assembled from multiple sections,traced_calibrated_drawing,Treat as a drawing area with projection/assembly caveat; not an independent whole-neocortex outline
+16,70,14,whole,,Earlier corticospinal focus superimposed on present-study sensory map,assessed_not_independent,Retain as locator/illustration; not a new animal or surface area case

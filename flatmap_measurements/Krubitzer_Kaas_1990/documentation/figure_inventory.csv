@@ -1,0 +1,30 @@
+figure,pdf_pages,printed_pages,source_content,roi_status,map_ids,reason
+1,4,168,flattening illustration,measured,fig01flat,Lower flattened drawing measured; upper curved brain view lacks a flat surface.
+2,5,169,histological photomicrographs / local panels,measured,fig02A;fig02B;fig02C;fig02D;fig02E,Local histology panels with bounded fields.
+3,6,170,local cortical reconstruction / connection pattern,excluded,,CO and myelin modules within areas 17 and 18; no separately bounded areal fields or scale.
+4,7–8,171–172,histological photomicrographs / local panels,measured,fig04A;fig04B;fig04C;fig04D;fig04E;fig04F;fig04G;fig04H,Local histology panels with bounded fields.
+5,10,174,published percentage chart,excluded,,Area-percentage histogram; no tissue image to trace.
+6,12,176,histological photomicrographs / local panels,measured,fig06A;fig06B;fig06C;fig06D,Local histology panels with bounded fields.
+7,13,177,histological photomicrographs / local panels,excluded,,Tracer-label photomicrographs within area 17; photo frames are not areal boundaries.
+8,14,178,local cortical reconstruction / connection pattern,excluded,,Tracer reconstructions within area 17; no closed areal outline or consistently bounded two-sided field fragment.
+9,15,179,local cortical reconstruction / connection pattern,measured,fig09G,Only panel G contains a measurable V2 strip; A–F lack an opposite areal boundary.
+10,16,180,histological photomicrographs / local panels,measured,fig10A;fig10B;fig10C;fig10D;fig10E;fig10F,Local histology panels with bounded fields.
+11,17,181,local cortical reconstruction / connection pattern,measured,fig11A;fig11B;fig11C;fig11D,Local connection drawings with bounded fields.
+12,18,182,individual-case whole-cortex reconstruction,measured,fig12,Individual-case whole-cortex reconstruction with bounded visual fields.
+13,19,183,individual-case whole-cortex reconstruction,measured,fig13,Individual-case whole-cortex reconstruction with bounded visual fields.
+14,20,184,individual-case whole-cortex reconstruction,measured,fig14,Individual-case whole-cortex reconstruction with bounded visual fields.
+15,21,185,individual-case whole-cortex reconstruction,measured,fig15,Individual-case whole-cortex reconstruction with bounded visual fields.
+16,22,186,individual-case whole-cortex reconstruction,measured,fig16,Individual-case whole-cortex reconstruction with bounded visual fields.
+17,23,187,individual-case whole-cortex reconstruction,measured,fig17,Individual-case whole-cortex reconstruction with bounded visual fields.
+18,24,188,individual-case whole-cortex reconstruction,measured,fig18,Individual-case whole-cortex reconstruction with bounded visual fields.
+19,25,189,individual-case whole-cortex reconstruction,measured,fig19,Individual-case whole-cortex reconstruction with bounded visual fields.
+20,26,190,individual-case whole-cortex reconstruction,measured,fig20,Individual-case whole-cortex reconstruction with bounded visual fields.
+21,27,191,individual-case whole-cortex reconstruction,measured,fig21,Individual-case whole-cortex reconstruction with bounded visual fields.
+22,28,192,individual-case whole-cortex reconstruction,measured,fig22,Individual-case whole-cortex reconstruction with bounded visual fields.
+23,29,193,individual-case whole-cortex reconstruction,measured,fig23,Individual-case whole-cortex reconstruction with bounded visual fields.
+24,30,194,individual-case whole-cortex reconstruction,measured,fig24,Individual-case whole-cortex reconstruction with bounded visual fields.
+25,31,195,contralateral connection detail panels,measured,fig25A;fig25B;fig25C;fig25D;fig25E,Connection detail panels with bounded fields.
+26,32,196,contralateral connection detail panels,measured,fig26A;fig26B;fig26C;fig26D,Connection detail panels with bounded fields.
+27,33,197,four-species summary maps,measured,fig27galago;fig27marmoset;fig27owl;fig27squirrel,Scaled four-species summary maps; illustrative and not independent animals.
+28,34,198,macaque literature comparison,measured,fig28,Scaled macaque literature comparison; illustrative and not an independent animal.
+29,35,199,evolutionary schematic,excluded,,Evolutionary schematic; no cortical tissue surface to trace.

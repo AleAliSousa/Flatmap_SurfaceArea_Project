@@ -1,0 +1,117 @@
+{
+  "map_id": "fig08_97_77",
+  "figure": 8,
+  "panel": "",
+  "pdf_page": 11,
+  "printed_page": "65",
+  "species": "Cryptotis parva",
+  "specimen": "97-77",
+  "hemisphere": "side not reported",
+  "view_type": "visual_response_map",
+  "hemisphere_relation": "one case view; other panels of same figure linked",
+  "linked_main_map": "",
+  "repeat_of": null,
+  "relationship_note": "An individual Cryptotis parva visual-response map. Its sampled gray oval is not a whole-neocortex reconstruction.",
+  "specimen_link_status": "case number from figure",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 2.5,
+  "crop_xyxy": [
+    130,
+    180,
+    770,
+    920
+  ],
+  "scale_endpoints_px": [
+    [
+      56,
+      232
+    ],
+    [
+      169,
+      232
+    ]
+  ],
+  "scale_length_mm": 1.0,
+  "scale_note": "Local printed 1 mm scale bar in this figure; endpoints measured directly on the 2.5 px/point PDF render.",
+  "scale_reference_map": null,
+  "supersample": 4,
+  "outline": null,
+  "rois": [
+    {
+      "label": "V1",
+      "polygons": [
+        [
+          [
+            492,
+            168
+          ],
+          [
+            537,
+            182
+          ],
+          [
+            568,
+            212
+          ],
+          [
+            564,
+            247
+          ],
+          [
+            561,
+            252
+          ],
+          [
+            538,
+            263
+          ],
+          [
+            512,
+            266
+          ],
+          [
+            469,
+            248
+          ],
+          [
+            456,
+            213
+          ],
+          [
+            456,
+            196
+          ],
+          [
+            460,
+            186
+          ],
+          [
+            468,
+            178
+          ]
+        ]
+      ],
+      "extent": "sampled_visual_response_envelope",
+      "boundary_note": "Gray oval marks the sampled visually responsive territory; black penetration symbols and x marks are recording annotations, not holes or field edges. The short interpolation at its lower overprinted edge follows the outer gray silhouette."
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "Somatosensory (S1+S2)",
+      "status": "not_measurable",
+      "reason": "This field is not independently mapped or shaded in this panel; no envelope can be recovered from the recording symbols."
+    },
+    {
+      "label": "A1",
+      "status": "not_measurable",
+      "reason": "This field is not independently mapped or shaded in this panel; no envelope can be recovered from the recording symbols."
+    },
+    {
+      "label": "whole_neocortex",
+      "status": "not_measurable",
+      "reason": "The outer drawing includes/openly borders piriform or non-neocortical tissue, and no independently closed whole-neocortex outline is established in this panel."
+    }
+  ],
+  "review_note": "Source-shaded case envelope(s) traced and visually compared to the printed boundaries; measurements remain provisional, and no whole-neocortex denominator is inferred."
+}

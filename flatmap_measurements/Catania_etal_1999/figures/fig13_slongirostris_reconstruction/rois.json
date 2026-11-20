@@ -1,0 +1,364 @@
+{
+  "map_id": "fig13_slongirostris_reconstruction",
+  "figure": 13,
+  "panel": "",
+  "pdf_page": 16,
+  "printed_page": "70",
+  "species": "Sorex longirostris",
+  "specimen": "Fig. 13 specimen; identifier not reported",
+  "hemisphere": "side not reported",
+  "view_type": "multi_section_reconstruction",
+  "hemisphere_relation": "one case view; other panels of same figure linked",
+  "linked_main_map": "",
+  "repeat_of": null,
+  "relationship_note": "One Sorex longirostris specimen reconstructed from multiple sections. Not an additional hemisphere per section and not a directly unfolded single surface.",
+  "specimen_link_status": "one specimen; identity not reported",
+  "include_in_whole_hemisphere_summary": false,
+  "outline_scope": "none",
+  "render_scale": 2.5,
+  "crop_xyxy": [
+    150,
+    190,
+    760,
+    910
+  ],
+  "scale_endpoints_px": [
+    [
+      87,
+      200
+    ],
+    [
+      196,
+      200
+    ]
+  ],
+  "scale_length_mm": 1.0,
+  "scale_note": "Local printed 1 mm scale bar in this figure; endpoints measured directly on the 2.5 px/point PDF render.",
+  "scale_reference_map": null,
+  "supersample": 4,
+  "outline": null,
+  "rois": [
+    {
+      "label": "Somatosensory (S1+S2)",
+      "polygons": [
+        [
+          [
+            337,
+            124
+          ],
+          [
+            325,
+            127
+          ],
+          [
+            315,
+            137
+          ],
+          [
+            309,
+            153
+          ],
+          [
+            309,
+            169
+          ],
+          [
+            305,
+            175
+          ],
+          [
+            302,
+            196
+          ],
+          [
+            292,
+            213
+          ],
+          [
+            278,
+            226
+          ],
+          [
+            268,
+            246
+          ],
+          [
+            267,
+            299
+          ],
+          [
+            280,
+            304
+          ],
+          [
+            274,
+            311
+          ],
+          [
+            274,
+            316
+          ],
+          [
+            280,
+            326
+          ],
+          [
+            297,
+            340
+          ],
+          [
+            314,
+            347
+          ],
+          [
+            368,
+            360
+          ],
+          [
+            413,
+            326
+          ],
+          [
+            428,
+            303
+          ],
+          [
+            453,
+            280
+          ],
+          [
+            485,
+            270
+          ],
+          [
+            491,
+            270
+          ],
+          [
+            494,
+            263
+          ],
+          [
+            482,
+            232
+          ],
+          [
+            473,
+            223
+          ],
+          [
+            445,
+            220
+          ],
+          [
+            432,
+            215
+          ],
+          [
+            420,
+            217
+          ],
+          [
+            403,
+            214
+          ],
+          [
+            379,
+            203
+          ],
+          [
+            367,
+            190
+          ],
+          [
+            361,
+            189
+          ],
+          [
+            355,
+            182
+          ],
+          [
+            355,
+            146
+          ],
+          [
+            352,
+            137
+          ]
+        ]
+      ],
+      "extent": "drawn_combined_somatosensory_envelope",
+      "boundary_note": "Envelope of the light-gray somatosensory region. Internal dots, labels, body-part partitions and approximate S1/S2 lines are annotations or subdivisions, not holes in this combined envelope. Where a dark neighboring field meets the light-gray envelope, the shared border was reconciled to remove raster overlap while retaining the printed white separator."
+    },
+    {
+      "label": "V1",
+      "polygons": [
+        [
+          [
+            514,
+            193
+          ],
+          [
+            514,
+            188
+          ],
+          [
+            506,
+            176
+          ],
+          [
+            491,
+            164
+          ],
+          [
+            469,
+            154
+          ],
+          [
+            458,
+            155
+          ],
+          [
+            452,
+            152
+          ],
+          [
+            396,
+            159
+          ],
+          [
+            377,
+            166
+          ],
+          [
+            365,
+            178
+          ],
+          [
+            366,
+            185
+          ],
+          [
+            377,
+            196
+          ],
+          [
+            398,
+            203
+          ],
+          [
+            414,
+            203
+          ],
+          [
+            427,
+            208
+          ],
+          [
+            490,
+            209
+          ],
+          [
+            505,
+            203
+          ]
+        ]
+      ],
+      "extent": "drawn_reconstruction_envelope",
+      "boundary_note": "Complete dark-gray field envelope in the author reconstruction assembled from multiple sections. This is a measured drawing, not a native unfolded surface."
+    },
+    {
+      "label": "A1",
+      "polygons": [
+        [
+          [
+            496,
+            276
+          ],
+          [
+            490,
+            272
+          ],
+          [
+            455,
+            282
+          ],
+          [
+            432,
+            303
+          ],
+          [
+            416,
+            327
+          ],
+          [
+            384,
+            350
+          ],
+          [
+            381,
+            357
+          ],
+          [
+            392,
+            363
+          ],
+          [
+            415,
+            360
+          ],
+          [
+            440,
+            347
+          ],
+          [
+            448,
+            346
+          ],
+          [
+            493,
+            322
+          ],
+          [
+            502,
+            313
+          ],
+          [
+            499,
+            306
+          ],
+          [
+            500,
+            292
+          ]
+        ]
+      ],
+      "extent": "drawn_reconstruction_envelope",
+      "boundary_note": "Complete dark-gray field envelope in the author reconstruction assembled from multiple sections. This is a measured drawing, not a native unfolded surface."
+    }
+  ],
+  "unmeasured": [
+    {
+      "label": "S1",
+      "status": "not_measurable",
+      "reason": "Only a rough or internal S1/S2 subdivision is shown; this pass measures their combined shaded envelope and does not invent separate complete borders."
+    },
+    {
+      "label": "S2",
+      "status": "not_measurable",
+      "reason": "Only a rough or internal S1/S2 subdivision is shown; this pass measures their combined shaded envelope and does not invent separate complete borders."
+    },
+    {
+      "label": "whole_neocortex",
+      "status": "not_measurable",
+      "reason": "The outer drawing includes/openly borders piriform or non-neocortical tissue, and no independently closed whole-neocortex outline is established in this panel."
+    },
+    {
+      "label": "Mouth",
+      "status": "not_yet_digitized",
+      "reason": "Drawn internal mouth compartment is nested in the combined somatosensory reconstruction; separate measurement would intentionally overlap its parent envelope."
+    }
+  ],
+  "review_note": "Source-shaded case envelope(s) traced and visually compared to the printed boundaries; measurements remain provisional, and no whole-neocortex denominator is inferred."
+}

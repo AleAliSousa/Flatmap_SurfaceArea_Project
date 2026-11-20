@@ -28,6 +28,9 @@ flag_completeness <- function(d) {
   approx_ok <- if (isTRUE(cfg$include_approximate_complete)) d$extent %in% "approximate_complete" else FALSE
   d <- d %>% mutate(
     extent_ok = coalesce(extent, "") %in% extent_complete_values | approx_ok,
+    # Preserve an explicit reason when a paper uses a descriptive incomplete extent.
+    f_extent_other_incomplete = !f_no_area & !extent_ok & !f_extent_partial &
+                                !f_extent_approx & !f_extent_missing,
     # complete enough to represent the full surface area of the labelled region?
     complete_enough = !f_no_area & extent_ok & (!f_section_view | isTRUE(cfg$allow_section_views)) &
                       !f_nonspecimen_view & !f_partial_label & !f_partial_note & !f_outline_not_whole,
@@ -42,17 +45,18 @@ flag_completeness <- function(d) {
       TRUE                                        ~ "A_field_complete_identified"),
     exclusion_reasons = pmap_chr(
       list(f_no_area, f_uncalibrated, f_nonspecimen_view, f_extent_partial, f_extent_approx & !approx_ok,
-           f_extent_missing, f_section_view & !isTRUE(cfg$allow_section_views), f_outline_not_whole,
-           f_partial_label, f_partial_note, f_specimen_unident),
-      function(a, b, c, d1, e, f, g, h, i, j, k) paste(c(
+           f_extent_missing, f_extent_other_incomplete, f_section_view & !isTRUE(cfg$allow_section_views),
+           f_outline_not_whole, f_partial_label, f_partial_note, f_specimen_unident),
+      function(a, b, c, d1, e, f, g, h, i, j, k, l) paste(c(
         if (a & !b) "no calibrated area (NA)", if (b) "pixels only; no physical calibration",
         if (c) "illustrative/composite/schematic view, not an animal",
         if (d1) "extent = partial", if (e) "extent = approximate",
-        if (f) "extent not recorded", if (g) "single section/zoom view; not a full field area",
-        if (h) "outline is not a whole-neocortex outline (no denominator use)",
-        if (i) "label denotes a component/fragment, not the whole field",
-        if (j) "boundary note states field is truncated/incomplete",
-        if (k) "specimen not identified; cannot attribute to an animal"), collapse = "; ")),
+        if (f) "extent not recorded", if (g) "extent is recorded but not a complete field",
+        if (h) "single section/zoom view; not a full field area",
+        if (i) "outline is not a whole-neocortex outline (no denominator use)",
+        if (j) "label denotes a component/fragment, not the whole field",
+        if (k) "boundary note states field is truncated/incomplete",
+        if (l) "specimen not identified; cannot attribute to an animal"), collapse = "; ")),
     warnings = pmap_chr(list(f_link_unresolved, f_borrowed_scale, f_repeated_view, f_partial_view & complete_enough,
                              f_section_view & complete_enough),
       function(a, b, c, d1, e) paste(c(if (a) "specimen link unresolved", if (b) "calibration borrowed from another map",
